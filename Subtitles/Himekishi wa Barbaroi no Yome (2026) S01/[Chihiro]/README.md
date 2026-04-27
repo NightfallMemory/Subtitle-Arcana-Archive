@@ -1,5 +1,5 @@
 # Staff
-| Role                | Person   |
+| Role                | Staff    |
 |---------------------|----------|
 | Encoding            | Kristen  |
 | Translation         | CR       |
