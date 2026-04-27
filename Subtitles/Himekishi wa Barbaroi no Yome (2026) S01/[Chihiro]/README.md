@@ -1,13 +1,21 @@
 # Staff
-Encode - Kristen
-TL - CR
-TLC – Lenmaer
-Edit - Kristen
-Timing – kattara
-Typeset – itsP
-KFX - Kristen
-QC – Tanasinn
-Song TL – Soi
+Encode: Kristen
+
+TL: CR
+
+TLC: Lenmaer
+
+Edit: Kristen
+
+Timing: kattara
+
+Typeset: itsP
+
+KFX: Kristen
+
+QC: Tanasinn
+
+Song TL: Soi
 
 # TL Fixes
 E02:
