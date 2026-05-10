@@ -1,0 +1,522 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Show_Title,Trebuchet MS,36,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,10,0,1,1,0,8,10,10,30,1
+Style: Episode_Title,Trebuchet MS,20,&H00121A15,&H000000FF,&H00FFFFFF,&H50000000,0,0,0,0,100,100,1,0,1,1,1,9,10,40,80,1
+Style: sign_10663_99_Meowtaro_Collabo,Arial,18,&H00FFFFFF,&H000000FF,&H00AC8649,&H00000000,-1,0,0,0,100,100,0,180,3,2,0,2,10,10,202,1
+Style: Shiorin,Trebuchet MS,30,&H009D15E0,&H000000FF,&HB4000000,&H00FFFFFF,-1,0,0,0,100,150,2,0,1,1,3,8,10,10,60,1
+Style: sign_4975_56_Days_Earlier,Comic Sans MS,17,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,140,140,0,0,1,2,0,5,462,74,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.77,Sign_Basic,Sign,0,0,0,,{\an8\b1\fnTimes New Roman\c&HA5F22E&\3c&H7EB131&\bord1\4c&HF7FBFB&\shad3}Magical Girl
+Dialogue: 0,0:00:00.00,0:00:02.77,Shiorin,Sign,0,0,0,,{\clip(261,44,382,48)\pos(320,45)\1c&H9F14E4&}Shiorin
+Dialogue: 0,0:00:00.00,0:00:02.77,Shiorin,Sign,0,0,0,,{\clip(261,48,382,52)\pos(320,45)\1c&HBE42E9&}Shiorin
+Dialogue: 0,0:00:00.00,0:00:02.77,Shiorin,Sign,0,0,0,,{\clip(261,52,382,56)\pos(320,45)\1c&HDD6FEE&}Shiorin
+Dialogue: 0,0:00:00.00,0:00:02.77,Shiorin,Sign,0,0,0,,{\clip(261,56,382,60)\pos(320,45)\1c&HEB87CA&}Shiorin
+Dialogue: 0,0:00:00.00,0:00:02.77,Shiorin,Sign,0,0,0,,{\clip(261,60,382,64)\pos(320,45)\1c&HF39594&}Shiorin
+Dialogue: 0,0:00:00.00,0:00:02.77,Shiorin,Sign,0,0,0,,{\clip(261,64,382,68)\pos(320,45)\1c&HF79E6E&}Shiorin
+Dialogue: 0,0:00:00.00,0:00:02.77,Shiorin,Sign,0,0,0,,{\clip(261,68,382,72)\pos(320,45)\1c&HF8A061&}Shiorin
+Dialogue: 0,0:00:00.00,0:00:02.77,Shiorin,Sign,0,0,0,,{\clip(261,72,382,76)\pos(320,45)\1c&HF6A459&}Shiorin
+Dialogue: 0,0:00:00.00,0:00:02.77,Shiorin,Sign,0,0,0,,{\clip(261,76,382,80)\pos(320,45)\1c&HD6BC84&}Shiorin
+Dialogue: 0,0:00:00.00,0:00:02.77,Shiorin,Sign,0,0,0,,{\clip(261,80,382,84)\pos(320,45)\1c&HB6D4AE&}Shiorin
+Dialogue: 0,0:00:00.00,0:00:02.77,Shiorin,Sign,0,0,0,,{\clip(261,84,382,88)\pos(320,45)\1c&HA0E3D0&}Shiorin
+Dialogue: 0,0:00:00.00,0:00:02.77,Shiorin,Sign,0,0,0,,{\clip(261,88,382,92)\pos(320,45)\1c&H8DF0EF&}Shiorin
+Dialogue: 0,0:00:00.00,0:00:02.77,Shiorin,Sign,0,0,0,,{\clip(261,92,382,96)\pos(320,45)\1c&H83F6FF&}Shiorin
+Dialogue: 0,0:00:05.76,0:00:07.87,Main,Shiorin,0,0,0,,{\i1}Magical Girl Shiorin{\i0}!
+Dialogue: 0,0:00:08.27,0:00:11.02,Sign_Basic,Sign,0,0,0,,{\pos(316,85)\c&H353738&\bord0\shad0}Episode 27
+Dialogue: 0,0:00:08.27,0:00:11.02,Sign_Basic,Sign,0,0,0,,{\c&H353738&\bord0\shad0\fs30\pos(316,280)}A New Ally
+Dialogue: 0,0:00:08.87,0:00:10.46,Main,Shiorin,0,0,0,,"A New Ally"!
+Dialogue: 0,0:00:13.03,0:00:15.00,Main - Top,Shiorin,0,0,0,,I'm so, so sorry...
+Dialogue: 0,0:00:13.40,0:00:18.58,Main,Former Demon Lord,0,0,0,,I suppose this might be a job for me, \Nas the previous Demon Lord...
+Dialogue: 0,0:00:15.00,0:00:16.78,Main - Top,demon Lord,0,0,0,,No, it's all right.
+Dialogue: 0,0:00:20.87,0:00:24.91,Main,Haya Kawa,0,0,0,,I want to introduce you to \Na new member of our team, A. Kina-san.
+Dialogue: 0,0:00:24.91,0:00:26.29,Main,A. Kina,0,0,0,,Hey there!
+Dialogue: 0,0:00:26.96,0:00:29.30,Main,Haya Kawa,0,0,0,,He's fully prepared, \Nso feel free to rely on him.
+Dialogue: 0,0:00:29.46,0:00:31.98,Main,Shiorin,0,0,0,,Then if I had another broken compact...
+Dialogue: 0,0:00:31.98,0:00:33.38,Main,Haya Kawa,0,0,0,,You broke it again?!
+Dialogue: 0,0:00:33.77,0:00:34.97,Main,A. Kina,0,0,0,,Let's make it quick.
+Dialogue: 0,0:00:35.43,0:00:36.64,Main,A. Kina,0,0,0,,There you go.
+Dialogue: 0,0:00:36.64,0:00:37.89,Main,Shiorin,0,0,0,,Wow!
+Dialogue: 0,0:00:37.89,0:00:41.05,Main,Shiorin,0,0,0,,Why would someone so talented work with us...?
+Dialogue: 0,0:00:41.05,0:00:43.74,Main,Haya Kawa,0,0,0,,Apparently, he went as far \Nwith his old job as he could,
+Dialogue: 0,0:00:43.74,0:00:45.79,Main,Haya Kawa,0,0,0,,and now wants to contribute more to society.
+Dialogue: 0,0:00:45.79,0:00:49.38,Main,Shiorin,0,0,0,,What the heck?! Was he a CEO?
+Dialogue: 0,0:00:49.90,0:00:51.40,Sign_Basic,Sign,0,0,0,,{\p1\shad0\bord0\pos(86,262)}m 0 0 l 50 0 l 50 200 l 0 200
+Dialogue: 0,0:00:49.90,0:00:51.40,Sign_Basic,Sign,0,0,0,,{\an5\pos(86,150)\fnComic Sans MS\c&H000000&\b1\bord0\shad0}*\NHe\Nused\Nto be\Nthe\NDemon\NLord
+Dialogue: 0,0:00:52.68,0:00:55.76,Main,A. Kina,0,0,0,,Hey, hey, you around, Demon Lord?
+Dialogue: 0,0:00:55.76,0:00:56.78,Main,Demon Lord,0,0,0,,Mentor!
+Dialogue: 0,0:00:56.78,0:00:59.40,Main,Demon Lord,0,0,0,,Why are you dressed like that?
+Dialogue: 0,0:00:59.40,0:01:01.95,Main,A. Kina,0,0,0,,I'm working with the magical girl now.
+Dialogue: 0,0:01:01.95,0:01:04.08,Main,Demon Lord,0,0,0,,Seriously, what are you doing?!
+Dialogue: 0,0:01:04.69,0:01:09.09,Main,A. Kina,0,0,0,,I've actually got some \Nhandy information about her.
+Dialogue: 0,0:01:09.47,0:01:11.34,Main,Demon Lord,0,0,0,,Handy information?!
+Dialogue: 0,0:01:11.34,0:01:15.84,Main,Demon Lord,0,0,0,,{\i1}I get it! My mentor is working as a spy \Nto discover the enemy's weaknesses...
+Dialogue: 0,0:01:16.28,0:01:18.47,Main,A. Kina,0,0,0,,Magical Girl Shiorin...
+Dialogue: 0,0:01:19.03,0:01:21.26,Main,Demon Lord,0,0,0,,What about her?
+Dialogue: 0,0:01:22.59,0:01:24.60,Main,A. Kina,0,0,0,,She really values loyalty in a man.
+Dialogue: 0,0:01:24.89,0:01:27.64,Main,Demon Lord,0,0,0,,How is that handy information?!
+Dialogue: 0,0:01:27.64,0:01:29.29,Main,A. Kina,0,0,0,,Should I not have told you?
+Dialogue: 0,0:01:29.29,0:01:33.23,Main,Demon Lord,0,0,0,,It's good to know! Thank you very much!
+Dialogue: 0,0:01:33.24,0:01:36.99,Sign_Basic,Sign,0,0,0,,{\pos(388,240)\c&H353837&\bord0\shad0\b1}To be continued!
+Dialogue: 0,0:01:33.74,0:01:36.02,Main,Shiorin,0,0,0,,To be continued! Maybe!
+Dialogue: 0,0:01:35.24,0:01:36.99,Main,Sign,0,0,0,,{\c&H353837&\bord0\shad0\b1\frz16.64\pos(568,283.333)}Maybe!
+Dialogue: 0,0:01:37.42,0:01:44.10,Italics - Top,Lyrics,0,0,0,,Oh, I love you so much, I just have to laugh
+Dialogue: 0,0:01:48.96,0:01:53.72,Show_Title,Title sign,0,0,0,,{\c&H292A2F&\bord0}My {\1a&HFF&\bord1\3c&HA183CA&}T{\3c&H000000&}iny {\bord0\1a&H00&}Senpai
+Dialogue: 0,0:01:54.47,0:01:56.80,Italics - Top,Lyrics,0,0,0,,We've got an emergency here
+Dialogue: 0,0:01:57.22,0:01:59.58,Italics - Top,Lyrics,0,0,0,,Are you paying attention, me?
+Dialogue: 0,0:01:59.97,0:02:05.81,Italics - Top,Lyrics,0,0,0,,There's someone other than me \Ndancing around inside of my heart
+Dialogue: 0,0:02:05.81,0:02:08.06,Italics - Top,Lyrics,0,0,0,,I want to talk to her
+Dialogue: 0,0:02:08.56,0:02:11.11,Italics - Top,Lyrics,0,0,0,,I want to touch her
+Dialogue: 0,0:02:11.11,0:02:16.60,Italics - Top,Lyrics,0,0,0,,Look, I get it, but for now try to pipe down
+Dialogue: 0,0:02:17.11,0:02:19.82,Italics - Top,Lyrics,0,0,0,,What in the world am I doing?
+Dialogue: 0,0:02:19.82,0:02:22.58,Italics - Top,Lyrics,0,0,0,,You're right next to me
+Dialogue: 0,0:02:22.58,0:02:28.83,Italics - Top,Lyrics,0,0,0,,And this is the perfect chance...
+Dialogue: 0,0:02:29.58,0:02:30.41,Italics - Top,Lyrics,0,0,0,,HONEY
+Dialogue: 0,0:02:30.41,0:02:35.12,Italics - Top,Lyrics,0,0,0,,I'm trapped by that sweet rich taste
+Dialogue: 0,0:02:35.12,0:02:38.33,Italics - Top,Lyrics,0,0,0,,And I don't think I can ever escape
+Dialogue: 0,0:02:38.33,0:02:40.83,Italics - Top,Lyrics,0,0,0,,I may as well just sink into it
+Dialogue: 0,0:02:40.83,0:02:41.66,Italics - Top,Lyrics,0,0,0,,HONEY
+Dialogue: 0,0:02:41.66,0:02:46.43,Italics - Top,Lyrics,0,0,0,,It's another day in your dazzling presence
+Dialogue: 0,0:02:46.65,0:02:49.44,Italics - Top,Lyrics,0,0,0,,We may never be \Non the same page with this love but
+Dialogue: 0,0:02:49.44,0:02:55.87,Italics - Top,Lyrics,0,0,0,,Oh, I love you so much, I just have to laugh
+Dialogue: 0,0:03:07.45,0:03:11.46,Episode_Title,Eptitle sign,0,0,0,,{\fad(500,550)\an1\pos(40,310)}#10 Even If We're Just Playing, He's My Kohai...
+Dialogue: 0,0:03:08.21,0:03:12.01,Main - Top,President,0,0,0,,This year is the 40th anniversary \Nof our company's founding.
+Dialogue: 0,0:03:09.21,0:03:13.83,Sign_Basic,Sign,0,0,0,,{\pos(520,180)\an5\fnGeorgia\c&H666A65&\3c&HF2F3F1&\shad0\bord3}Sunpick Ltd.\N40th Anniversary\NEvent
+Dialogue: 0,0:03:12.01,0:03:14.97,Main,President,0,0,0,,It was through your contributions \Nthat we made it this far.
+Dialogue: 0,0:03:13.83,0:03:17.96,Sign_Basic,Sign,0,0,0,,{\move(323,100,323,90)\fnArial\b1\c&H747776&\bord0\shad0\an5\t(\fs22)}40th Anniversary
+Dialogue: 0,0:03:15.49,0:03:16.82,Main,President,0,0,0,,Thank you!
+Dialogue: 0,0:03:18.90,0:03:22.70,Main,President,0,0,0,,And once again, we're holding a competition \Nbetween new hires this year!
+Dialogue: 0,0:03:20.22,0:03:24.22,Sign_Basic,Sign,0,0,0,,{\an8\fnTimes New Roman\b1\bord0\shad2\4c&HA8A697&\fs30\pos(326,50)\fscy140\frx50}New Hire Contest
+Dialogue: 0,0:03:24.22,0:03:25.93,Main,Shinozaki,0,0,0,,A new hire competition?
+Dialogue: 0,0:03:26.40,0:03:30.33,Main,Shiori,0,0,0,,It's a intracompany competition \Nfor employees in their first year.
+Dialogue: 0,0:03:31.99,0:03:35.48,Main,Shiori,0,0,0,,When the manager was in his first year, \Nhis proposal won him the MVP award for that year.
+Dialogue: 0,0:03:36.18,0:03:38.57,Main,Shiori,0,0,0,,It went on to actually \Nbe produced, became a huge hit...
+Dialogue: 0,0:03:39.11,0:03:42.20,Main,Shiori,0,0,0,,Earning him the MVP award for that year.
+Dialogue: 0,0:03:42.20,0:03:43.86,Main,Shiori,0,0,0,,Isn't that amazing?
+Dialogue: 0,0:03:43.86,0:03:46.95,Main,Shinozaki,0,0,0,,I feel bad for the other rookies \Nwho were hired at the same time.
+Dialogue: 0,0:03:47.37,0:03:48.54,Main,Shinozaki,0,0,0,,That said...
+Dialogue: 0,0:03:49.16,0:03:52.04,Main,Shinozaki,0,0,0,,You're actually kind of amazing, huh, Manager?
+Dialogue: 0,0:03:52.04,0:03:54.52,Main,Akina,0,0,0,,Well, I'm not so sure about that.
+Dialogue: 0,0:03:54.52,0:03:55.94,Main,Akina,0,0,0,,Nah, I am!
+Dialogue: 0,0:03:57.50,0:03:59.88,Main,President,0,0,0,,{\an8}Here we have our theme for this year!
+Dialogue: 0,0:03:57.50,0:04:06.72,Sign_Basic,Sign,0,0,0,,{\fnArial\b1\bord2\shad0\3c&H5838E2&\pos(320,105)}Subject:
+Dialogue: 0,0:03:57.50,0:04:06.72,Main,Sign,0,0,0,,{\pos(320,158)\b1\an8\c&H58595E&\bord0\shad0\fnArial}Meowtaro
+Dialogue: 0,0:03:57.50,0:04:06.72,Main,Sign,0,0,0,,{\b1\an7\c&H4A4C4E&\bord0\shad0\fnArial\pos(82,310)}A new way of promoting him!
+Dialogue: 0,0:04:02.16,0:04:06.72,Main,President,0,0,0,,{\an8}And for the department that \Nour most promising hire works in—
+Dialogue: 0,0:04:06.72,0:04:12.14,Main,President,0,0,0,,An opulent trip to a luxury resort \Nin sunny southern Okinawa!
+Dialogue: 0,0:04:06.72,0:04:13.64,Sign_Basic,Sign,0,0,0,,{\fnArial\fs18\b1\shad0\c&H6D625F&\3c&HA0E5F6&\frz6.493\pos(172,228.667)}Supreme Opulence!
+Dialogue: 0,0:04:06.72,0:04:13.64,Sign_Basic,Sign,0,0,0,,{\pos(402,245)\fnArial\b1\shad0\c&H61605E&\3c&HF0F0F0&}Luxury Resort
+Dialogue: 0,0:04:14.01,0:04:17.27,Main,Shinozaki,0,0,0,,{\i1}Okinawa... A luxury resort...
+Dialogue: 0,0:04:17.63,0:04:21.72,Main,Shiori,0,0,0,,I bought a new swimsuit for the occasion.
+Dialogue: 0,0:04:22.53,0:04:25.48,Main,Shiori,0,0,0,,What do you think, Shinozaki-san?
+Dialogue: 0,0:04:26.72,0:04:27.72,Main,Shinozaki,0,0,0,,I...
+Dialogue: 0,0:04:28.90,0:04:30.51,Main,Shinozaki,0,0,0,,I'm gonna work hard!
+Dialogue: 0,0:04:30.51,0:04:32.04,Main,Shiori,0,0,0,,{\i1}So motivated!
+Dialogue: 0,0:04:32.40,0:04:35.70,Main,Shinozaki,0,0,0,,But I'll have to handle \Nmy regular duties, too...
+Dialogue: 0,0:04:35.70,0:04:37.80,Main,Akina,0,0,0,,I'll manage your task balance!
+Dialogue: 0,0:04:37.80,0:04:40.17,Main,Shiori,0,0,0,,I'll help, too, of course!
+Dialogue: 0,0:04:40.17,0:04:41.98,Main,Akina,0,0,0,,So will Hayakawa-san.
+Dialogue: 0,0:04:41.98,0:04:44.17,Main,Hayakawa,0,0,0,,I guess I don't mind pitching in...
+Dialogue: 0,0:04:44.17,0:04:47.93,Main,Shiori,0,0,0,,Work hard to win that most promising \Nhire award, Shinozaki-san!
+Dialogue: 0,0:04:48.58,0:04:50.20,Main,Shinozaki,0,0,0,,Senpai...
+Dialogue: 0,0:04:51.18,0:04:55.64,Main,Shinozaki,0,0,0,,I'll do just that! Let's all go \Nto that tropical resort together!
+Dialogue: 0,0:04:55.64,0:04:56.52,Main,Shiori,0,0,0,,Yeah!
+Dialogue: 0,0:04:59.15,0:05:01.57,Main,Yamagishi (M),0,0,0,,So that's why you're so fired up.
+Dialogue: 0,0:05:01.97,0:05:04.15,Main,Shinozaki,0,0,0,,I wanna live up to their expectations!
+Dialogue: 0,0:05:04.58,0:05:09.28,Main,Shinozaki,0,0,0,,That said, I still don't have a concrete \Nidea for my proposal yet...
+Dialogue: 0,0:05:09.83,0:05:11.43,Main,Shinozaki,0,0,0,,What about you, Yamagishi-kun?
+Dialogue: 0,0:05:11.43,0:05:14.04,Main,Yamagishi(M),0,0,0,,Not interested. Too big a pain.
+Dialogue: 0,0:05:14.04,0:05:21.17,Sign_Basic,Sign,0,0,0,,{\fnArial\fs18\b1\shad0\c&H191421&\3c&HA0E5F6&\pos(178.667,277.334)\frz9.06}Supreme Opulence!
+Dialogue: 0,0:05:14.04,0:05:21.17,Sign_Basic,Sign,0,0,0,,{\fnArial\b1\shad0\bord1\c&H121726&\3c&HF0F0F0&\pos(415,295)}Luxury Resort
+Dialogue: 0,0:05:14.87,0:05:16.65,Main - Top,Shinozaki,0,0,0,,What about the luxury resort?
+Dialogue: 0,0:05:16.65,0:05:18.22,Main - Top,Yamagishi (M),0,0,0,,Even less interested.
+Dialogue: 0,0:05:18.22,0:05:21.17,Main - Top,Yamagishi (M),0,0,0,,Think about who's in PR, dude...
+Dialogue: 0,0:05:21.17,0:05:24.62,Main,Ishiyama,0,0,0,,Could you pwease help wif dis?
+Dialogue: 0,0:05:24.62,0:05:25.55,Main,Yagimishi(M),0,0,0,,Don't wanna.
+Dialogue: 0,0:05:25.55,0:05:26.89,Main,Yoshida,0,0,0,,Yuri-tan.
+Dialogue: 0,0:05:26.89,0:05:28.03,Main,Ito,0,0,0,,Masa-tan.
+Dialogue: 0,0:05:28.03,0:05:29.14,Main,Yamagishi(M),0,0,0,,Bluh...
+Dialogue: 0,0:05:29.14,0:05:32.32,Main,Yamagishi(M),0,0,0,,I doubt I'd enjoy it at all.
+Dialogue: 0,0:05:32.32,0:05:33.56,Main,Shinozaki,0,0,0,,I guess I'm sorry?
+Dialogue: 0,0:05:33.72,0:05:36.64,Main,Yamigishi(M),0,0,0,,You really hit the jackpot, \Nthough, Zakishino...
+Dialogue: 0,0:05:37.00,0:05:40.88,Main,Yamigishi(M),0,0,0,,You got a 5-star senpai with a 5-star boss to boot!
+Dialogue: 0,0:05:40.88,0:05:43.94,Main,Shinozaki,0,0,0,,Could you not treat the people in my \Ndepartment like gacha characters?
+Dialogue: 0,0:05:43.94,0:05:48.95,Sign_Basic,Sign,0,0,0,,{\fs14\fnArial\b1\shad0\c&H7D6F86&\3c&HB6ECFA&\pos(169.334,50)}Employment\NAgent
+Dialogue: 0,0:05:43.94,0:05:48.95,Main,Yamagishi(M),0,0,0,,Maybe I oughta contact a job agent and \Nsee about trying a reset marathon...
+Dialogue: 0,0:05:48.95,0:05:51.69,Main,Hayakawa,0,0,0,,I'm telling you, it tasted amazing.
+Dialogue: 0,0:05:51.69,0:05:52.83,Main,Yamagishi,0,0,0,,Speak of the devil...
+Dialogue: 0,0:05:53.41,0:05:54.83,Main,Yamagishi,0,0,0,,There's 5-star senpai.
+Dialogue: 0,0:05:54.83,0:05:56.78,Main,Yamakawa,0,0,0,,And there's no limit!
+Dialogue: 0,0:05:56.78,0:05:57.66,Main,Yamagishi (F),0,0,0,,There's not?!
+Dialogue: 0,0:05:57.66,0:05:59.19,Main,Hayakawa,0,0,0,,Plus, the interior is so cute.
+Dialogue: 0,0:06:01.59,0:06:05.02,Main,Yamagishi(M),0,0,0,,We're both rookies and we make \Nthe same money, but look at the difference!
+Dialogue: 0,0:06:05.02,0:06:06.84,Main,Yamagishi(M),0,0,0,,Is life just pure RNG?!
+Dialogue: 0,0:06:06.84,0:06:10.48,Main,Yamagishi(M),0,0,0,,With a senpai like that I'd be \Nwilling to work Monday to Friday
+Dialogue: 0,0:06:10.48,0:06:15.08,Main,Yamagishi(M),0,0,0,,for nine hours a day, \Nminus one hour for lunch, too!
+Dialogue: 0,0:06:15.08,0:06:16.85,Main,Shinozaki,0,0,0,,You should be able to do that anyway.
+Dialogue: 0,0:06:17.56,0:06:20.10,Main,Yamagishi(M),0,0,0,,Be real with me. How are \Nthings going, Zakishino?
+Dialogue: 0,0:06:20.79,0:06:21.87,Main,Shinozaki,0,0,0,,With what?
+Dialogue: 0,0:06:21.87,0:06:23.23,Main,Yamagishi(M),0,0,0,,Don't play dumb.
+Dialogue: 0,0:06:23.55,0:06:25.48,Main,Yamagishi(M),0,0,0,,With you and Katase-paisen!
+Dialogue: 0,0:06:25.79,0:06:29.15,Main,Yamagishi(M),0,0,0,,I mean, she came to check on you \Nat your house...
+Dialogue: 0,0:06:29.15,0:06:33.74,Main,Yamagishi(M),0,0,0,,And you went on a trip \Ntogether, right? Right? Right?
+Dialogue: 0,0:06:37.62,0:06:40.29,Main,Shinozaki,0,0,0,,Nothing... happened...
+Dialogue: 0,0:06:40.29,0:06:45.60,Main,Yamagishi,0,0,0,,Unbelievable. What, you see \Nthose boobs and just feel nothing?
+Dialogue: 0,0:06:45.60,0:06:47.51,Main,Shinozaki,0,0,0,,Don't talk so bluntly about boobs!
+Dialogue: 0,0:06:48.00,0:06:49.63,Main,Shinozaki,0,0,0,,I-I mean...
+Dialogue: 0,0:06:51.38,0:06:53.93,Main,Shinozaki,0,0,0,,I guess I can't say it's been \Nabsolutely nothing.
+Dialogue: 0,0:06:55.53,0:06:57.64,Main,Yamagishi(M),0,0,0,,Holy crap, the deed's already done?!
+Dialogue: 0,0:06:57.64,0:07:00.16,Main,Yamagishi(M),0,0,0,,Give him back! I want \Nmy pure-hearted Zakishino back!
+Dialogue: 0,0:07:00.16,0:07:01.69,Main,Shinozaki,0,0,0,,I'm still pure, actually!
+Dialogue: 0,0:07:04.34,0:07:07.07,Main,Kurusu,0,0,0,,Five minutes left of lunch.
+Dialogue: 0,0:07:07.76,0:07:11.82,Main,Shinozaki,0,0,0,,Uh... you're Kurusu-san, right?
+Dialogue: 0,0:07:08.36,0:07:11.86,Sign_Basic,Sign,0,0,0,,{\fad(425,0)\p1\c&HF2F7F6&\bord0\shad0\blur2\3c&H000000&\an5\pos(94,290)}m 0 0 l 140 0 l 140 75 l 0 75
+Dialogue: 1,0:07:08.36,0:07:11.86,sign_4975_56_Days_Earlier,Sign,0,0,0,,{\fad(425,0)\fscx100\fscy140\bord0\q2\fs16\pos(94,290)}Development Group 1\N{\fs22}Kurusu Akari
+Dialogue: 0,0:07:13.12,0:07:15.70,Main,Yamagishi(M),0,0,0,,That's Kurusu Akari from Development Group 1!
+Dialogue: 0,0:07:16.32,0:07:18.18,Main,Yamagishi(M),0,0,0,,Watch yourself, Zakishino!
+Dialogue: 0,0:07:19.08,0:07:22.81,Main,Yamagishi(M),0,0,0,,She was hand-picked \Nas the rising star of Group 1
+Dialogue: 0,0:07:22.81,0:07:25.34,Main,Yamagishi(M),0,0,0,,by their charismatic, high-minded chief!
+Dialogue: 0,0:07:25.83,0:07:30.72,Main,Yamagishi(M),0,0,0,,She's got the hottest rep out of anyone \Nwho joined up the same year as us...
+Dialogue: 0,0:07:30.72,0:07:35.97,Main,Yamagishi(M),0,0,0,,And she's favored to win \Nthe most promising rookie contest!
+Dialogue: 0,0:07:35.97,0:07:39.40,Main,Kurusu,0,0,0,,Time should be productive, not wasted...
+Dialogue: 0,0:07:40.32,0:07:42.35,Main,Kurusu,0,0,0,,If you want to progress to the next stage.
+Dialogue: 0,0:07:42.35,0:07:44.94,Main,Both,0,0,0,,{\i1}That does sound high-minded!
+Dialogue: 0,0:07:44.94,0:07:48.78,Main,Kurusu,0,0,0,,You were also discussing... breasts.
+Dialogue: 0,0:07:50.43,0:07:51.24,Main,Kurusu,0,0,0,,That's sexual harassment.
+Dialogue: 0,0:07:51.89,0:07:53.53,Main,Both,0,0,0,,{\i1}You're right, it is.
+Dialogue: 0,0:07:54.36,0:07:58.70,Main,Yamagishi(M),0,0,0,,Not when it comes to Zakishino \Nand Senpai. They're mutually in love.
+Dialogue: 0,0:07:58.70,0:08:00.00,Main,Shinozaki,0,0,0,,Yamagishi-kun?!
+Dialogue: 0,0:08:00.00,0:08:02.77,Main,Kurusu,0,0,0,,The partner is... his senpai?
+Dialogue: 0,0:08:02.77,0:08:04.54,Main,Kurusu,0,0,0,,She's abusing her authority, then?
+Dialogue: 0,0:08:04.54,0:08:05.08,Main,Shinozaki,0,0,0,,{\i1}Wha?!
+Dialogue: 0,0:08:05.08,0:08:06.75,Main,Kurus,0,0,0,,Exploiting her power.
+Dialogue: 0,0:08:06.75,0:08:08.11,Main,Shinozaki,0,0,0,,Senpai isn't—
+Dialogue: 0,0:08:08.11,0:08:11.51,Main,Yamagishi(M),0,0,0,,Chill out, Zakishino. Leave this to me.
+Dialogue: 0,0:08:12.08,0:08:14.01,Main,Yamagishi(M),0,0,0,,This ain't no abuse.
+Dialogue: 0,0:08:14.01,0:08:15.60,Main,Yamagishi(M),0,0,0,,Because the two of them are going out!
+Dialogue: 0,0:08:15.60,0:08:17.01,Main,Shinozaki,0,0,0,,Also not true!
+Dialogue: 0,0:08:17.01,0:08:20.81,Main,Kurusu,0,0,0,,Workplace romance... Can't understand.
+Dialogue: 0,0:08:21.48,0:08:23.77,Main,Kurusu,0,0,0,,We don't provide matchmaking services here.
+Dialogue: 0,0:08:23.77,0:08:29.16,Main,Yamagishi(M),0,0,0,,Yet, according to surveys, more than a quarter \Nof married couples met at work.
+Dialogue: 0,0:08:29.16,0:08:30.28,Main,Yamagishi(M),0,0,0,,It's totally natural.
+Dialogue: 0,0:08:35.19,0:08:37.03,Main,Shinozaki,0,0,0,,Easy, now...
+Dialogue: 0,0:08:38.31,0:08:39.03,Main,Takatsukasa,0,0,0,,Kurusu.
+Dialogue: 0,0:08:41.11,0:08:44.71,Main,Takatsukasa,0,0,0,,{\an8}This is rare. You normally \Ndon't stick around in the break room.
+Dialogue: 0,0:08:41.25,0:08:44.71,Sign_Basic,Sign,0,0,0,,{\fad(175,0)\p1\c&HF2F7F6&\bord0\shad0\blur2\3c&H000000&\an5\pos(106,292)}m 0 0 l 170 0 l 170 75 l 0 75
+Dialogue: 1,0:08:41.25,0:08:44.71,sign_4975_56_Days_Earlier,Sign,0,0,0,,{\fad(175,0)\fscx100\fscy140\bord0\q2\fs18\pos(106,292)}Development Group 1 Chief\N{\fs20\fscy180}Takatsukasa Shinobu
+Dialogue: 0,0:08:44.71,0:08:47.08,Main,Kurusu,0,0,0,,Director Takatsukasa...
+Dialogue: 0,0:08:47.91,0:08:52.16,Main,Kurusu,0,0,0,,Waste of time... won't be able \Nto get back to work right away...
+Dialogue: 0,0:08:52.16,0:08:56.05,Main,Takatsukasa,0,0,0,,Don't worry about it. \NYou've still got four minutes.
+Dialogue: 0,0:08:56.22,0:08:59.18,Main,Takatsukasa,0,0,0,,The crucial thing is being able to \Nswitch your state of mind around.
+Dialogue: 0,0:08:59.18,0:09:02.36,Main,Takatsukasa,0,0,0,,Mistakes and regrets will be fuel \Nto carry you to the next stage.
+Dialogue: 0,0:09:02.36,0:09:03.31,Main,Kurusu,0,0,0,,Right!
+Dialogue: 0,0:09:03.31,0:09:07.55,Main,Yamagishi(M),0,0,0,,She really is high-minded, \Nand charismatic, that chief...
+Dialogue: 0,0:09:07.55,0:09:09.86,Main,Yamagishi(M),0,0,0,,S-So bright!
+Dialogue: 0,0:09:10.73,0:09:13.82,Main,Takatsukasa,0,0,0,,You're Shinozaki-kun from Dev Group 2, yes?
+Dialogue: 0,0:09:13.82,0:09:14.57,Main,Shinozaki,0,0,0,,Yes.
+Dialogue: 0,0:09:14.92,0:09:17.94,Main,Takatsukasa,0,0,0,,Your manager and I joined \Nthe company at the same time.
+Dialogue: 0,0:09:17.94,0:09:20.58,Main,Takatsukasa,0,0,0,,I make it a point to keep up \Nwith Group 2's new hires.
+Dialogue: 0,0:09:20.58,0:09:24.20,Main,Shinozaki,0,0,0,,You and Manager? That'd mean...
+Dialogue: 0,0:09:24.87,0:09:26.58,Flashback,Shiori,0,0,0,,Isn't that amazing?
+Dialogue: 0,0:09:26.88,0:09:29.46,Flashback,Shinozaki,0,0,0,,I feel bad for the other rookies.
+Dialogue: 0,0:09:30.99,0:09:32.97,Main,Shinozaki,0,0,0,,{\i1}She's who I felt bad for!
+Dialogue: 0,0:09:32.97,0:09:33.92,Main,Takatsukasa,0,0,0,,Something wrong?
+Dialogue: 0,0:09:33.92,0:09:35.47,Main,Shinozaki,0,0,0,,No, nothing!
+Dialogue: 0,0:09:35.77,0:09:37.93,Main,Takatsukasa,0,0,0,,Akina and I have been friendly rivals
+Dialogue: 0,0:09:37.93,0:09:40.72,Main,Takatsukasa,0,0,0,,who've spurred each other on to \Ngreater heights, even back then.
+Dialogue: 0,0:09:41.30,0:09:44.35,Main,Takatsukasa,0,0,0,,That said, he's always proven \Nto be more talented...
+Dialogue: 0,0:09:44.35,0:09:46.35,Main,Takatsukasa,0,0,0,,His proposal blew mine away.
+Dialogue: 0,0:09:46.39,0:09:49.10,Sign_Basic,Sign,0,0,0,,{\fad(225,0)\fs16\b1\fnArial\shad0\an8\c&H4F46E3&\3c&HFCFCFF&\i1\move(268,66,234,66)}Celebrating Product\NDevelopment Group 2's Major Hit
+Dialogue: 0,0:09:47.20,0:09:49.10,Main,Takatsukasa,0,0,0,,And the product that came from it was a hit—
+Dialogue: 0,0:09:49.83,0:09:53.78,Main,Takatsukasa,0,0,0,,I've had my hands full \Njust trying to catch up to him.
+Dialogue: 0,0:09:54.80,0:09:58.30,Main,Takatsukasa,0,0,0,,But before I realized it, I had been promoted \Nfaster than anyone in company history.
+Dialogue: 0,0:09:58.82,0:10:01.74,Main,Takatsukasa,0,0,0,,And he's stopped \Nmaking as many obvious waves...
+Dialogue: 0,0:10:02.53,0:10:04.37,Main,Takatsukasa,0,0,0,,But I still can't forget it.
+Dialogue: 0,0:10:05.03,0:10:09.83,Main,Takatsukasa,0,0,0,,Those days when competing with him \Nraised both of our games higher and higher...
+Dialogue: 0,0:10:10.94,0:10:12.63,Main,Takatsukasa,0,0,0,,And I've realized something.
+Dialogue: 0,0:10:13.24,0:10:15.26,Main,Takatsukasa,0,0,0,,I need him!
+Dialogue: 0,0:10:17.58,0:10:19.76,Main,Takatsukasa,0,0,0,,I've already spoken to the president about it.
+Dialogue: 0,0:10:20.19,0:10:22.03,Flashback,President,0,0,0,,I see.
+Dialogue: 0,0:10:22.03,0:10:26.12,Flashback,President,0,0,0,,Well, if Kurusu-kun can win \Nthe most promising rookie competition,
+Dialogue: 0,0:10:26.12,0:10:28.49,Flashback,President,0,0,0,,I'll consider transferring Akina-kun.
+Dialogue: 0,0:10:30.52,0:10:35.03,Main,Shinozaki,0,0,0,,If I lose the contest... \Nthe manager's going to get transferred?!
+Dialogue: 0,0:10:30.52,0:10:35.03,Sign_Basic,Sign,0,0,0,,{\pos(156,16)\an8\b1\fs18\c&H000000&\3c&HFAFEFF&\4c&HFCE4D6&}Development Group 2
+Dialogue: 0,0:10:30.52,0:10:35.03,Main,Sign,0,0,0,,{\an8\b1\fs18\c&H000000&\3c&HFAFEFF&\4c&HDAD7FC&\pos(486,16)}Development Group 1
+Dialogue: 0,0:10:33.12,0:10:35.03,Main - Top,Akina,0,0,0,,Oh, no!
+Dialogue: 0,0:10:35.52,0:10:37.72,Main,Yamagishi(M)),0,0,0,,Since when did he become the heroine?
+Dialogue: 0,0:10:37.72,0:10:39.78,Main,Shinozaki,0,0,0,,Cut that out! That's just gonna \Nconfuse me more!
+Dialogue: 0,0:10:40.36,0:10:43.99,Main,Takatsukasa,0,0,0,,I thought it'd be unfair if you didn't know.
+Dialogue: 0,0:10:43.99,0:10:48.56,Main,Takatsukasa,0,0,0,,Granted, we're bound to win... \Nso don't feel too torn up about it.
+Dialogue: 0,0:10:48.56,0:10:50.00,Main,Takatsukasa,0,0,0,,It's time, Kurusu.
+Dialogue: 0,0:10:50.00,0:10:50.54,Main,Kurusu,0,0,0,,Right.
+Dialogue: 0,0:10:50.54,0:10:51.88,Main,Shizozaki,0,0,0,,Wait a second!
+Dialogue: 0,0:10:52.71,0:10:54.67,Main,Shizozaki,0,0,0,,You might need him,
+Dialogue: 0,0:10:54.99,0:10:56.91,Main,Shinozaki,0,0,0,,but I don't intend on handing our manager over.
+Dialogue: 0,0:10:56.91,0:10:58.80,Main,Shizozaki,0,0,0,,I'm going to win that \Nmost promising rookie award.
+Dialogue: 0,0:10:59.16,0:11:01.55,Main,Takatsukasa,0,0,0,,That's a good look in your eye.
+Dialogue: 0,0:11:01.90,0:11:04.30,Main,Takatsukasa,0,0,0,,One that's looking towards the next stage.
+Dialogue: 0,0:11:05.84,0:11:06.93,Main,Takatsukasa,0,0,0,,That said...
+Dialogue: 0,0:11:06.93,0:11:10.94,Main,Kurusu,0,0,0,,The competition... I won't lose to anyone.
+Dialogue: 0,0:11:11.52,0:11:13.69,Main,Kurusu,0,0,0,,I'll win most promising rookie.
+Dialogue: 0,0:11:16.42,0:11:18.19,Main,Takatsukasa,0,0,0,,We're taking this.
+Dialogue: 0,0:11:19.03,0:11:21.57,Main,Takatsukasa,0,0,0,,And Kurusu will go on to aim \Nfor even greater heights.
+Dialogue: 0,0:11:27.54,0:11:31.23,Main,Yamagishi(M),0,0,0,,Well, that got real competitive \Nall of a sudden!
+Dialogue: 0,0:11:31.23,0:11:31.95,Main,Shinozaki,0,0,0,,Yeah.
+Dialogue: 0,0:11:31.95,0:11:33.80,Main,Ishiyama,0,0,0,,Fantastic!
+Dialogue: 0,0:11:34.82,0:11:37.71,Main,Ishiyama,0,0,0,,That was fantastic, Shinozaki-kun!
+Dialogue: 0,0:11:37.71,0:11:42.78,Main,Ishiyama,0,0,0,,A heated battle between subordinates, \Non behalf of their bosses!
+Dialogue: 0,0:11:42.78,0:11:44.47,Main,Ishiyama,0,0,0,,So nice!
+Dialogue: 0,0:11:45.27,0:11:48.11,Main,Ishiyama,0,0,0,,You should fight, too, Yamagishi-kun! For me!
+Dialogue: 0,0:11:48.11,0:11:51.23,Main,Yamagishi(M),0,0,0,,Ishiyama-san, no one wants you, so I can't.
+Dialogue: 0,0:11:51.23,0:11:55.61,Main,Ishiyama,0,0,0,,Wow, what a turn of events \Nfor the rookie contest!
+Dialogue: 0,0:11:55.61,0:11:57.13,Main,Yamagishi(M),0,0,0,,Are you even listening?
+Dialogue: 0,0:11:57.13,0:11:58.83,Main,Ishiyama,0,0,0,,A battle over me!
+Dialogue: 0,0:11:58.83,0:11:59.86,Main,Yamagishi(M),0,0,0,,No, seriously...
+Dialogue: 0,0:11:59.26,0:12:00.27,Main - Top,Ishiyama,0,0,0,,Good luck out there, Yamagishi-kun!
+Dialogue: 0,0:12:00.27,0:12:00.91,Main - Top,Yamagishi(M),0,0,0,,There's no fight here.
+Dialogue: 0,0:12:00.45,0:12:02.11,Main,Shinozaki,0,0,0,,The new hire contest...
+Dialogue: 0,0:12:00.91,0:12:01.39,Main - Top,Ishiyama,0,0,0,,Good luck!
+Dialogue: 0,0:12:01.39,0:12:01.93,Main - Top,Yamagishi(M),0,0,0,,I don't need encouragement.
+Dialogue: 0,0:12:01.93,0:12:02.35,Main - Top,Ishiyama,0,0,0,,You do!
+Dialogue: 0,0:12:02.35,0:12:02.80,Main - Top,Yamagishi(M),0,0,0,,No!
+Dialogue: 0,0:12:02.63,0:12:04.50,Italics,Shinozaki,0,0,0,,I can't lose, no matter what!
+Dialogue: 0,0:12:02.80,0:12:03.50,Main - Top,Ishiyama,0,0,0,,Good luck!
+Dialogue: 0,0:12:03.50,0:12:04.57,Main - Top,Yamagishi(M),0,0,0,,No lo necesito.
+Dialogue: 0,0:12:05.37,0:12:07.62,Sign_Basic,Office Sign,0,0,0,,{\move(424,142,453,142)\an9\c&H455051&\bord0\shad0\b1}Product Development
+Dialogue: 0,0:12:05.37,0:12:07.62,Main,Office Sign,0,0,0,,{\move(424,212,453,212)\an9\c&H2C3437&\bord0\shad0\b1\fs20}Group 2
+Dialogue: 0,0:12:07.62,0:12:10.00,Main,Shinozaki,0,0,0,,Manager, about my project \Nfor the competition...
+Dialogue: 0,0:12:10.00,0:12:11.75,Main,Akina,0,0,0,,Look at that!
+Dialogue: 0,0:12:12.03,0:12:13.96,Main,Akina,0,0,0,,That tea stalk is standing up!
+Dialogue: 0,0:12:13.96,0:12:16.96,Main,Shiori,0,0,0,,I bet that's a good sign for something!
+Dialogue: 0,0:12:16.96,0:12:20.92,Main,Akina,0,0,0,,I hope so. Having green tea \Nevery once in a while is nice, too.
+Dialogue: 0,0:12:20.92,0:12:22.22,Main,Shiori,0,0,0,,Sure is!
+Dialogue: 0,0:12:22.22,0:12:23.97,Main,Shinozaki,0,0,0,,{\i1}So carefree...
+Dialogue: 0,0:12:25.06,0:12:28.10,Main,Shiori,0,0,0,,{\i1}My Tiny Senpai{\i0}.
+Dialogue: 0,0:12:30.92,0:12:33.66,Main,Shiori,0,0,0,,I hope you'll play with me a whole lot!
+Dialogue: 0,0:12:33.66,0:12:34.95,Main,Kids+Shinozaki,0,0,0,,Okay!
+Dialogue: 0,0:12:35.98,0:12:38.23,Sign_Basic,Sign,0,0,0,,{\an8\3c&H9EB5F5&\shad0}A{\3c&H6DE7FA&}o{\3c&HF2C1BB&}zo{\3c&H93C5F2&}ra {\3c&HF6C7BE&}Pre{\3c&H80EFFC&}sch{\3c&HB7C8F9&}ool
+Dialogue: 0,0:12:40.23,0:12:42.17,Main,Kids,0,0,0,,So many toys!
+Dialogue: 0,0:12:40.23,0:12:42.33,Main,Kids,0,0,0,,I know this!
+Dialogue: 0,0:12:41.49,0:12:42.74,Main,Kids,0,0,0,,{\an8}They're cute.
+Dialogue: 0,0:12:42.74,0:12:47.66,Main,Teacher,0,0,0,,Be sure to thank the nice people for the toys!
+Dialogue: 0,0:12:47.66,0:12:50.49,Main,Kids,0,0,0,,Thank you!
+Dialogue: 0,0:12:50.49,0:12:53.34,Main,Girl A,0,0,0,,Would you like to accompany me to the ball?
+Dialogue: 0,0:12:53.34,0:12:54.72,Main,Girl I,0,0,0,,Me, too!
+Dialogue: 0,0:12:54.72,0:12:56.25,Main,Akina,0,0,0,,Then let's all dance together.
+Dialogue: 0,0:12:56.52,0:12:58.49,Main,Girl U,0,0,0,,Onee-chan, draw Kyapicure!
+Dialogue: 0,0:12:56.86,0:12:58.31,Main,Boy,0,0,0,,Nice art!
+Dialogue: 0,0:12:58.49,0:12:59.04,Main,Hayakawa,0,0,0,,Sure.
+Dialogue: 0,0:12:59.04,0:13:00.40,Main,Girl E,0,0,0,,I want Meowjiro!
+Dialogue: 0,0:13:00.40,0:13:02.97,Main,Hayakawa,0,0,0,,Okay, sure! I'll do my best!
+Dialogue: 0,0:13:02.97,0:13:05.28,Main,Shiori,0,0,0,,The kids seem really thrilled.
+Dialogue: 0,0:13:05.28,0:13:06.06,Main,Shinozaki,0,0,0,,Yeah!
+Dialogue: 0,0:13:07.35,0:13:10.52,Main,Shinozaki,0,0,0,,I didn't know we oversaw \Nproduct tests like this.
+Dialogue: 0,0:13:10.52,0:13:13.39,Main,Shiori,0,0,0,,We see how they play with them, \Nand make adjustments based on that.
+Dialogue: 0,0:13:13.86,0:13:17.45,Main,Shiori,0,0,0,,We don't get many chances for this, \Nso get as much research done as you can.
+Dialogue: 0,0:13:17.99,0:13:20.15,Main,Shiori,0,0,0,,It might help with your contest.
+Dialogue: 0,0:13:20.15,0:13:21.06,Main,Shinozaki,0,0,0,,Right!
+Dialogue: 0,0:13:21.58,0:13:23.15,Italics,Shinozaki,0,0,0,,The contest, huh...
+Dialogue: 0,0:13:23.84,0:13:25.37,Flashback,Yamagishi(M),0,0,0,,Did you tell Senpai?
+Dialogue: 0,0:13:26.48,0:13:29.28,Flashback,Shinozaki,0,0,0,,I don't want her to worry, though...
+Dialogue: 0,0:13:29.69,0:13:33.35,Italics,Shinozaki,0,0,0,,So I haven't told her about Manager yet.
+Dialogue: 0,0:13:34.44,0:13:35.91,Main,Shinozaki,0,0,0,,{\i1}I have to say...
+Dialogue: 0,0:13:36.47,0:13:39.10,Main,Kids,0,0,0,,Hey, come over here!
+Dialogue: 0,0:13:37.86,0:13:39.92,Main,Shiori,0,0,0,,What should we play?
+Dialogue: 0,0:13:39.92,0:13:41.10,Main,Shiori?,0,0,0,,Okay!
+Dialogue: 0,0:13:41.10,0:13:42.42,Italics,Shinozaki,0,0,0,,She's so motherly!
+Dialogue: 0,0:13:43.03,0:13:45.59,Main,Shinozaki,0,0,0,,The kids are drawn to her effortlessly...
+Dialogue: 0,0:13:46.02,0:13:47.51,Main,Shinozaki,0,0,0,,Downright Madonna-like!
+Dialogue: 0,0:13:47.84,0:13:49.51,Main,Shinozaki,0,0,0,,But more than that...
+Dialogue: 0,0:13:50.28,0:13:53.07,Main,Shiori,0,0,0,,Welcome home, honey.
+Dialogue: 0,0:13:53.07,0:13:54.35,Main,Shinozaki,0,0,0,,{\i1}Wife factor...
+Dialogue: 0,0:13:54.78,0:13:55.85,Main,Shinozaki,0,0,0,,{\i1}High!
+Dialogue: 0,0:13:56.30,0:13:57.87,Main,Hayakawa,0,0,0,,Do your job.
+Dialogue: 0,0:13:57.87,0:13:59.86,Main,Shinozaki,0,0,0,,I-I know!
+Dialogue: 0,0:14:00.48,0:14:02.67,Main,Shinozaki,0,0,0,,Okay, what do you guys wanna play?
+Dialogue: 0,0:14:02.67,0:14:03.86,Main,Kids,0,0,0,,Um, let me think..
+Dialogue: 0,0:14:03.86,0:14:06.36,Main,Shinozaki,0,0,0,,With this? Or maybe this?
+Dialogue: 0,0:14:03.86,0:14:06.36,Main,Shiori,0,0,0,,{\i1}He broke the ice so easily.
+Dialogue: 0,0:14:06.36,0:14:09.58,Main,Shiori,0,0,0,,{\i1}That's Shinozaki-san. \NHe's such a capable kohai.
+Dialogue: 0,0:14:10.12,0:14:11.87,Main,Shiori,0,0,0,,{\i1}And then there's...
+Dialogue: 0,0:14:12.28,0:14:14.04,Main,Shiori,0,0,0,,{\i1}how paternal he is!
+Dialogue: 0,0:14:14.54,0:14:16.75,Main,Shiori,0,0,0,,{\i1}All the kids he's \Ninteracting with are smiling...
+Dialogue: 0,0:14:16.75,0:14:18.96,Main,Shiori,0,0,0,,{\i1}It's like he's some kind of all-father!
+Dialogue: 0,0:14:18.96,0:14:21.21,Main,Shiori,0,0,0,,{\i1}And more than that...
+Dialogue: 0,0:14:22.66,0:14:24.27,Main,Shinozaki,0,0,0,,Welcome home, honey.
+Dialogue: 0,0:14:24.27,0:14:25.96,Main,Shiori,0,0,0,,{\i1}Husband factor...
+Dialogue: 0,0:14:26.43,0:14:27.47,Main,Shiori,0,0,0,,{\i1}High!
+Dialogue: 0,0:14:27.47,0:14:30.24,Main,Akina,0,0,0,,Stare...
+Dialogue: 0,0:14:30.71,0:14:32.25,Main,Shiori,0,0,0,,Uh, well...
+Dialogue: 0,0:14:32.25,0:14:34.26,Main,Shiori,0,0,0,,Wh-What should we do to play?!
+Dialogue: 0,0:14:34.26,0:14:37.48,Main,Marin,0,0,0,,Come on, Tomo-kun! Don't pull!
+Dialogue: 0,0:14:37.48,0:14:40.14,Main,Marin,0,0,0,,You're gonna rip Meowtaro!
+Dialogue: 0,0:14:40.64,0:14:43.04,Main,Tomo,0,0,0,,Then, you let go, Marin!
+Dialogue: 0,0:14:43.04,0:14:44.52,Main,Shiori,0,0,0,,What's wrong?
+Dialogue: 0,0:14:44.52,0:14:46.67,Main,Shiori,0,0,0,,Let's play nice together.
+Dialogue: 0,0:14:46.67,0:14:48.90,Main,Shinozaki,0,0,0,,I've got another Meowtaro right here.
+Dialogue: 0,0:14:49.31,0:14:51.16,Main,Tomo,0,0,0,,I don't wanna play with some dumb doll.
+Dialogue: 0,0:14:51.56,0:14:55.16,Main,Tomo,0,0,0,,But she's always playing \Nwith them all by herself!
+Dialogue: 0,0:14:55.71,0:14:58.64,Main,Shinozaki,0,0,0,,You noticed that, huh?\NDo you want to play with her?
+Dialogue: 0,0:14:58.64,0:14:59.41,Main,Tomo,0,0,0,,Wha...
+Dialogue: 0,0:15:00.04,0:15:02.17,Main,Tomo,0,0,0,,Who'd wanna play with Marin?!
+Dialogue: 0,0:15:02.67,0:15:05.21,Main,Marin,0,0,0,,Did that hurt, Meowtaro?
+Dialogue: 0,0:15:05.21,0:15:06.17,Main,Shiori,0,0,0,,There, there...
+Dialogue: 0,0:15:06.17,0:15:09.42,Main,Shiori,0,0,0,,It's okay now. He's not hurt.
+Dialogue: 0,0:15:10.20,0:15:12.18,Main,Shiori,0,0,0,,Do you usually play alone?
+Dialogue: 0,0:15:12.18,0:15:15.93,Main,Marin,0,0,0,,Yeah. My friends are the dolls.
+Dialogue: 0,0:15:15.93,0:15:21.02,Main,Shiori,0,0,0,,I see. But I'd like you to play \Nwith us, too, Marin-chan.
+Dialogue: 0,0:15:23.22,0:15:24.94,Main,Marin,0,0,0,,Then, let's play house!
+Dialogue: 0,0:15:25.33,0:15:26.94,Main,Shiori,0,0,0,,{\i1}House?
+Dialogue: 0,0:15:27.60,0:15:29.44,Main,Marin,0,0,0,,Onii-chan, you're the daddy.
+Dialogue: 0,0:15:29.44,0:15:31.95,Main,Shiori,0,0,0,,{\i1}Shinozaki-san's the daddy...
+Dialogue: 0,0:15:31.95,0:15:34.87,Main,Marin,0,0,0,,And you, Onee-chan...
+Dialogue: 0,0:15:34.87,0:15:37.08,Italics,Shiori,0,0,0,,Th-The way this is going...
+Dialogue: 0,0:15:37.73,0:15:39.58,Main,Marin,0,0,0,,Onee-chan, you're mommy!
+Dialogue: 0,0:15:39.58,0:15:40.97,Main,Shiori,0,0,0,,Mommy?
+Dialogue: 0,0:15:40.97,0:15:44.33,Main,Marin,0,0,0,,Yeah! He's daddy and you're mommy!
+Dialogue: 0,0:15:44.76,0:15:48.42,Main,Shiori,0,0,0,,Even if we're just playing... he's my kohai...
+Dialogue: 0,0:15:48.42,0:15:52.68,Main,Marin,0,0,0,,No! Mommy doesn't call daddy her kohai!
+Dialogue: 0,0:15:53.44,0:15:55.68,Main,Shiori,0,0,0,,Th-Then...
+Dialogue: 0,0:15:57.16,0:15:58.77,Main,Shiori,0,0,0,,Takuma-san.
+Dialogue: 0,0:15:58.77,0:16:00.52,Main,Shinozaki,0,0,0,,Shiori-san.
+Dialogue: 0,0:16:01.39,0:16:04.52,Main,Marin,0,0,0,,Yay! Daddy! Mommy!
+Dialogue: 0,0:16:06.07,0:16:07.90,Main,Shiori,0,0,0,,{\i1}It's like a vision of the future!
+Dialogue: 0,0:16:07.90,0:16:11.44,Main,Shiori,0,0,0,,{\i1}No! The child is supposed to be \Nthe star when you play house!
+Dialogue: 0,0:16:11.44,0:16:12.90,Main,Marin,0,0,0,,Onee-chan...
+Dialogue: 0,0:16:13.39,0:16:14.49,Main,Marin,0,0,0,,You'll be kitty!
+Dialogue: 0,0:16:15.99,0:16:19.24,Main,Marin,0,0,0,,And I'll be mommy. And you're kitty!
+Dialogue: 0,0:16:19.24,0:16:21.91,Italics,Shiori,0,0,0,,I'm... a kitty?
+Dialogue: 0,0:16:22.25,0:16:26.25,Italics,Shinozaki,0,0,0,,I guess Senpai seems like a cat to kids, too.
+Dialogue: 0,0:16:26.25,0:16:30.54,Italics,Shiori,0,0,0,,A cat... I mean, that is \Na member of the family, but...
+Dialogue: 0,0:16:30.54,0:16:32.88,Italics,Shiori,0,0,0,,So I'm an animal, not a human...
+Dialogue: 0,0:16:32.88,0:16:36.06,Main,Marin,0,0,0,,Daddy, dinner is ready!
+Dialogue: 0,0:16:37.68,0:16:39.14,Main,Marin,0,0,0,,There, there.
+Dialogue: 0,0:16:39.48,0:16:41.66,Main,Marin,0,0,0,,Do you want to eat, too, kitty?
+Dialogue: 0,0:16:42.71,0:16:44.14,Main,Marin,0,0,0,,In that case...
+Dialogue: 0,0:16:44.85,0:16:46.77,Main,Marin,0,0,0,,Sit on Daddy's lap.
+Dialogue: 0,0:16:46.77,0:16:53.59,Italics,Shiori,0,0,0,,S-S-Sit... on Daddy's lap?!
+Dialogue: 0,0:16:59.41,0:17:00.64,Main,Marin,0,0,0,,No!
+Dialogue: 0,0:17:00.64,0:17:02.41,Main,Marin,0,0,0,,You have to sit for real!
+Dialogue: 0,0:17:02.41,0:17:04.33,Main,Marin,0,0,0,,If you don't wanna do that, then lie on it.
+Dialogue: 0,0:17:04.33,0:17:07.83,Main,Shiori,0,0,0,,{\i1}Like lie down?! In his lap?!
+Dialogue: 0,0:17:08.20,0:17:10.11,Main,Shiori,0,0,0,,{\i1}That'd be sexual harassment \Nand abuse of authority!
+Dialogue: 0,0:17:10.11,0:17:12.88,Main,Shiori,0,0,0,,{\i1}Serious charges!
+Dialogue: 0,0:17:12.88,0:17:16.43,Main,Shiori,0,0,0,,{\i1}But the child is the star \Nwhen you play house...
+Dialogue: 0,0:17:16.43,0:17:17.59,Main,Shiori,0,0,0,,{\i1}I should...
+Dialogue: 0,0:17:22.85,0:17:25.24,Main,Shinozaki,0,0,0,,{\i1}S-Senpai?!
+Dialogue: 0,0:17:25.24,0:17:27.85,Main,Marin,0,0,0,,There you go. Good girl.
+Dialogue: 0,0:17:27.85,0:17:30.02,Main,Marin,0,0,0,,Give the kitty pats, Daddy.
+Dialogue: 0,0:17:30.61,0:17:32.86,Main,Shinozaki,0,0,0,,{\i1}Patting her while lying around?!
+Dialogue: 0,0:17:32.86,0:17:37.11,Main,Shiorin,0,0,0,,{\i1}Those are couple activities! In broad \Ndaylight, in front of small children?!
+Dialogue: 0,0:17:37.47,0:17:40.37,Main,Shinozaki,0,0,0,,{\i1}But Senpai's a cat right now...
+Dialogue: 0,0:17:40.37,0:17:43.87,Main,Shiori,0,0,0,,{\i1}But I'm a cat right now...
+Dialogue: 0,0:17:47.59,0:17:50.07,Main,Shinozaki,0,0,0,,G-Good girl...
+Dialogue: 0,0:17:51.21,0:17:55.28,Main,Shiori,0,0,0,,{\i1}Maybe life as a cat... wouldn't be so bad.
+Dialogue: 0,0:17:55.72,0:17:58.72,Main,Marin,0,0,0,,Okay, your food is here, kitty.
+Dialogue: 0,0:17:58.72,0:18:03.35,Main,Shiori,0,0,0,,{\i1}Eating off the floor... \Nbut I'm a cat... I'm a cat.
+Dialogue: 0,0:18:03.77,0:18:07.09,Main,Shinozaki,0,0,0,,{\i1}Senpai is crawling around on the ground...
+Dialogue: 0,0:18:07.09,0:18:09.23,Main,Shiori,0,0,0,,Yum-meow!
+Dialogue: 0,0:18:09.52,0:18:12.82,Main,Marin,0,0,0,,We're done eating, \Nso let's have a picnic in the sandbox!
+Dialogue: 0,0:18:14.56,0:18:17.84,Main,Marin,0,0,0,,But there's a shark inside, so be careful.
+Dialogue: 0,0:18:17.84,0:18:19.49,Main,Shinozaki,0,0,0,,A shark at a picnic?
+Dialogue: 0,0:18:20.71,0:18:22.79,Main,Shinozaki,0,0,0,,Be careful now, Mommy.
+Dialogue: 0,0:18:23.24,0:18:24.83,Main,Marin,0,0,0,,I'm Mommy!
+Dialogue: 0,0:18:24.83,0:18:27.25,Main,Shinozaki,0,0,0,,R-Right! Sorry!
+Dialogue: 0,0:18:27.25,0:18:30.25,Main,Shiori,0,0,0,,{\i1}Oh, Shinozaki-san...
+Dialogue: 0,0:18:34.80,0:18:38.22,Main,Marin,0,0,0,,The castle I made with Daddy and Kitty...
+Dialogue: 0,0:18:38.22,0:18:41.24,Main,tomo,0,0,0,,He's not a daddy, and she's not a cat!
+Dialogue: 0,0:18:41.24,0:18:43.04,Main,tomo,0,0,0,,And there's no sharks, either!
+Dialogue: 0,0:18:43.04,0:18:44.72,Main,Shinozaki,0,0,0,,Sharks...?
+Dialogue: 0,0:18:44.72,0:18:46.46,Main,Shinozaki,0,0,0,,Were you watching the whole time?
+Dialogue: 0,0:18:46.88,0:18:48.23,Main,Tomo,0,0,0,,H-Hell no!
+Dialogue: 0,0:18:48.23,0:18:49.98,Main,Tomo,0,0,0,,Why would I look at Marin?
+Dialogue: 0,0:18:51.81,0:18:52.84,Main,Shinozaki,0,0,0,,Tomo-kun!
+Dialogue: 0,0:18:55.73,0:18:56.86,Main,Shiori,0,0,0,,Shinozaki-san!
+Dialogue: 0,0:18:57.65,0:19:00.11,Main,Shinozaki,0,0,0,,If you like a girl, be nice to her.
+Dialogue: 0,0:19:07.11,0:19:09.95,Main,Tomo,0,0,0,,Sorry... you still mad?
+Dialogue: 0,0:19:09.95,0:19:10.75,Main,Marin,0,0,0,,I guess.
+Dialogue: 0,0:19:11.48,0:19:15.61,Main,Tomo,0,0,0,,I really am sorry. Let's remake it...
+Dialogue: 0,0:19:16.05,0:19:18.26,Main,Tomo,0,0,0,,And then can I play with you?
+Dialogue: 0,0:19:18.71,0:19:20.49,Main,Marin,0,0,0,,I guess that's fine.
+Dialogue: 0,0:19:22.61,0:19:26.13,Main,Shinozaki,0,0,0,,So, when we play house, who will Tomo-kun be?
+Dialogue: 0,0:19:26.13,0:19:27.61,Main,Marin,0,0,0,,Tomo-kun is...
+Dialogue: 0,0:19:28.14,0:19:29.10,Main,Marin,0,0,0,,The shark.
+Dialogue: 0,0:19:29.10,0:19:30.31,Main,Others,0,0,0,,The shark?!
+Dialogue: 0,0:19:30.31,0:19:34.15,Main,Marin,0,0,0,,He's mean, so he has to be \Nthe shark that I hate.
+Dialogue: 0,0:19:34.15,0:19:38.40,Main,Tomo,0,0,0,,Sh-Shark... the one she hates...
+Dialogue: 0,0:19:41.65,0:19:42.91,Main,Kids,0,0,0,,Bye-bye!
+Dialogue: 0,0:19:42.91,0:19:44.04,Main,Kids,0,0,0,,Thank you!
+Dialogue: 0,0:19:44.04,0:19:45.79,Main,Kids,0,0,0,,Come again!
+Dialogue: 0,0:19:45.79,0:19:47.48,Main,Shiori,0,0,0,,Bye-bye!
+Dialogue: 0,0:19:47.48,0:19:48.91,Main,Shinozaki,0,0,0,,See you next time!
+Dialogue: 0,0:19:49.78,0:19:53.18,Main,Akina,0,0,0,,Well, they were an energetic bunch!
+Dialogue: 0,0:19:53.18,0:19:54.67,Main,Hayakawa,0,0,0,,They were...
+Dialogue: 0,0:19:55.20,0:19:58.62,Main,Hayakawa,0,0,0,,I don't think I wanna draw \NKyapicure for a while.
+Dialogue: 0,0:20:00.32,0:20:02.72,Main,Akina,0,0,0,,You did draw a lot!
+Dialogue: 0,0:20:02.72,0:20:04.43,Main,Akina,0,0,0,,You're a star artist!
+Dialogue: 0,0:20:06.68,0:20:08.43,Main,Shiori,0,0,0,,What did you think, Shinozaki-san?
+Dialogue: 0,0:20:08.89,0:20:12.19,Main,Shiori,0,0,0,,Will today be useful for your proposal?
+Dialogue: 0,0:20:12.19,0:20:14.09,Main,Shinozaki,0,0,0,,I think so.
+Dialogue: 0,0:20:14.09,0:20:17.48,Main,Shinozaki,0,0,0,,It's kind of vague, but I'm starting \Nto get a vision for what I want.
+Dialogue: 0,0:20:17.48,0:20:20.07,Main,Shinozaki,0,0,0,,I'll work hard so I can win \Nmost promising rookie!
+Dialogue: 0,0:20:21.27,0:20:22.86,Main,Shiori,0,0,0,,That's the spirit!
+Dialogue: 0,0:20:22.86,0:20:26.83,Main,Shiori,0,0,0,,By the way, do you think those two will be okay?
+Dialogue: 0,0:20:26.83,0:20:28.70,Main,Shinozaki,0,0,0,,You mean Marin-chan and Tomo-kun?
+Dialogue: 0,0:20:29.36,0:20:31.96,Main,Shinozaki,0,0,0,,They had made up\Nby the time we were leaving.
+Dialogue: 0,0:20:32.60,0:20:34.21,Main,Shinozaki,0,0,0,,I'm sure they'll be okay!
+Dialogue: 0,0:20:34.21,0:20:36.02,Main,Shiori,0,0,0,,I think so, too.
+Dialogue: 0,0:20:37.88,0:20:40.59,Flashback,Shinozaki,0,0,0,,If you like a girl, be nice to her.
+Dialogue: 0,0:20:40.59,0:20:43.34,Main,Shiori,0,0,0,,{\i1}Be nice to the girls you like...
+Dialogue: 0,0:20:51.83,0:20:56.69,Main,Shiori,0,0,0,,{\i1}Shinozaki-san is always nice to me, isn't he?
+Dialogue: 0,0:20:57.18,0:21:00.44,Main,Shinozaki,0,0,0,,Is the cap stuck? I can open it for you.
+Dialogue: 0,0:21:01.69,0:21:04.95,Main,Shinozaki,0,0,0,,Too hot? Let's turn the AC on.
+Dialogue: 0,0:21:06.60,0:21:08.73,Main,Shiori,0,0,0,,{\i1}So... so nice...
+Dialogue: 0,0:21:08.73,0:21:09.53,Main,Shiori,0,0,0,,{\i1}So nice!
+Dialogue: 0,0:21:09.70,0:21:12.45,Sign_Basic,Window sign,0,0,0,,{\c&HD9C4A5&\b1\bord0\shad0\frz30.3\pos(145.334,115.333)}Death By Nice
+Dialogue: 0,0:21:11.30,0:21:12.45,Main,Shinozaki,0,0,0,,S-Senpai?!
+Dialogue: 0,0:21:12.91,0:21:15.48,Main,Shinozaki,0,0,0,,Are you okay, Senpai?! What's wrong?!
+Dialogue: 0,0:21:14.69,0:21:16.91,Main,Shiori,0,0,0,,I'm okay.
+Dialogue: 0,0:21:15.48,0:21:17.07,Main,Akina,0,0,0,,Adorable.
+Dialogue: 0,0:21:17.07,0:21:17.96,Main,Shinozaki,0,0,0,,Use my handkerchief!
+Dialogue: 0,0:21:31.29,0:21:35.17,Italics - Top,Lyrics,0,0,0,,Bleary-eyed and not fully awake from a dream
+Dialogue: 0,0:21:35.17,0:21:40.07,Italics - Top,Lyrics,0,0,0,,I still can't bring myself \Nto drink that bitter coffee
+Dialogue: 0,0:21:40.63,0:21:44.55,Italics - Top,Lyrics,0,0,0,,So I sneakily toss in \Ntwo pinches of a sweet secret
+Dialogue: 0,0:21:44.55,0:21:48.77,Italics - Top,Lyrics,0,0,0,,And let it slowly spread throughout
+Dialogue: 0,0:21:49.99,0:21:53.73,Italics - Top,Lyrics,0,0,0,,There's a local bakery \Nthat's only open sometimes
+Dialogue: 0,0:21:53.73,0:21:58.62,Italics - Top,Lyrics,0,0,0,,Where I once had some toast that glittered
+Dialogue: 0,0:21:59.28,0:22:03.12,Italics - Top,Lyrics,0,0,0,,What is it that makes it so satisfying?
+Dialogue: 0,0:22:03.12,0:22:07.29,Italics - Top,Lyrics,0,0,0,,Almost like magic
+Dialogue: 0,0:22:07.71,0:22:12.37,Italics - Top,Lyrics,0,0,0,,I find myself thinking about that kind of thing
+Dialogue: 0,0:22:12.37,0:22:17.98,Italics - Top,Lyrics,0,0,0,,How the small things can be the most precious
+Dialogue: 0,0:22:18.73,0:22:22.77,Italics - Top,Lyrics,0,0,0,,Deep inside my heart
+Dialogue: 0,0:22:22.77,0:22:27.17,Italics - Top,Lyrics,0,0,0,,It's ever so bittersweet
+Dialogue: 0,0:22:28.04,0:22:32.09,Italics - Top,Lyrics,0,0,0,,"Just being around you is enough"
+Dialogue: 0,0:22:32.09,0:22:36.11,Italics - Top,Lyrics,0,0,0,,Becomes my mantra
+Dialogue: 0,0:22:36.11,0:22:38.40,Italics - Top,Lyrics,0,0,0,,Baby like sugar
+Dialogue: 0,0:22:45.51,0:22:47.66,Italics - Top,Lyrics,0,0,0,,Baby you're the sugar
