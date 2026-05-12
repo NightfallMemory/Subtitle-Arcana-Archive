@@ -1,0 +1,637 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,20,0
+Style: Class- Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Class - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Class - Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Class - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Class - Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Class - Flashback  Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: sign_3055_13_Classroom_for_He,Trebuchet MS,27,&H00000100,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,2,0,1,0,0,2,145,145,20,1
+Style: sign_3812_25_Episode_1,Times New Roman,20,&H00620064,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,69,472,250,1
+Style: sign_3830_26_Earnest,Times New Roman,20,&H0064067E,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,170,390,136,1
+Style: sign_11_21_Rosewood_Academy,Trebuchet MS,24,&H00D6EAE1,&H000000FF,&H0090856E,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,207,207,65,1
+Style: sign_4958_59_The_Superorganis,Times New Roman,20,&H0064067E,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0,204,136,1
+Style: sign_5011_60_Rosewood_Academy,Trebuchet MS,24,&H00D6EAE1,&H000000FF,&H0090856E,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,109,109,65,1
+Style: sign_10163_134_1st_Superorganis,Trebuchet MS,24,&H00D6EAE1,&H000000FF,&H00979B91,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,15,15,65,1
+Style: sign_10331_137_Chairman__Leonar,Trebuchet MS,24,&H00D6EAE1,&H000000FF,&H00786D69,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,206,203,53,1
+Style: sign_11294_160_Artificial_Hero_,Trebuchet MS,24,&H00D6EAE1,&H000000FF,&H00786D69,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,136,133,53,1
+Style: sign_11896_175_Illustrative_Foo,Trebuchet MS,24,&H00D6EAE1,&H000000FF,&H0090856E,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,16,16,65,1
+Style: sign_13220_193_Rosewood_Academy,Trebuchet MS,24,&H00D6EAE1,&H000000FF,&H00786D69,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,66,63,53,1
+Style: sign_13622_202_Rosewood_Academy,Trebuchet MS,24,&H00D6EAE1,&H000000FF,&H0090856E,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,22,22,65,1
+Style: sign_14903_225_Rosewood_Academy,Trebuchet MS,24,&H00D6EAE1,&H000000FF,&H00786D69,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,143,140,53,1
+Style: sign_15673_238_Seventh_Superorg,Trebuchet MS,24,&H00D6EAE1,&H000000FF,&H00786D69,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,0,0,53,1
+Style: sign_16073_246_Eighth_Superorga,Trebuchet MS,24,&H00D6EAE1,&H000000FF,&H00786D69,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,0,0,53,1
+Style: sign_28292_515_Penetrating_Forc,Trebuchet MS,24,&H00D6EAE1,&H000000FF,&H0090856E,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,77,83,59,1
+Style: sign_33933_594_I_m_Looking_for_,Times New Roman,20,&H0064067E,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0,205,136,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.43,0:00:05.48,sign_11_21_Rosewood_Academy,Sign,0,0,0,,{\fad(612,1)\blur3\3c&H5F5A50&\pos(317.831,297.892)}Rosewood Academy
+Dialogue: 0,0:00:02.02,0:00:05.48,Class - Top,Earnest,0,0,0,,The battle royale: a special \Nprogram at Rosewood Academy.
+Dialogue: 0,0:00:05.48,0:00:10.23,sign_11_21_Rosewood_Academy,Sign,0,0,0,,{\3c&H3B4B48&\c&HD4E8E2&\pos(317.107,300.783)\b1}Testing Ground No. 2
+Dialogue: 0,0:00:05.91,0:00:10.23,Class - Top,Sophie,0,0,0,,A valuable exercise where each student uses \Nthe fruits of their training to compete.
+Dialogue: 0,0:00:10.79,0:00:12.78,Class- Default,Maria,0,0,0,,Or at least it was supposed to be...
+Dialogue: 0,0:00:13.24,0:00:16.74,Class- Default,Cu,0,0,0,,Parent's gone and won all by himself!
+Dialogue: 0,0:00:17.16,0:00:19.78,Class- Default,Leonard,0,0,0,,Have no fear! I'm still here!
+Dialogue: 0,0:00:19.78,0:00:22.33,Class- Default,Leonard,0,0,0,,With my drill lance's Absolute Defense!
+Dialogue: 0,0:00:23.71,0:00:27.12,Class- Default,Blade,0,0,0,,Ah, that move is a real pain in the neck.
+Dialogue: 0,0:00:27.12,0:00:28.62,Class- Default,Clay,0,0,0,,Do your best, Leonard!
+Dialogue: 0,0:00:28.62,0:00:30.51,Class- Default,Kassim,0,0,0,,You're the last one standing!
+Dialogue: 0,0:00:30.51,0:00:32.19,Class- Default,Kassim,0,0,0,,Avenge us!
+Dialogue: 0,0:00:32.19,0:00:34.80,Class- Default,Yessica,0,0,0,,Would it hurt to lose every \Nonce in a while, Blade?
+Dialogue: 0,0:00:34.80,0:00:40.68,Class - Top,Group,0,0,0,,Take the loss! Take the loss!
+Dialogue: 0,0:00:35.61,0:00:37.09,Class- Default,Blade,0,0,0,,Why am {\i1}I{\i0} the bad guy here?
+Dialogue: 0,0:00:37.09,0:00:40.68,Class- Default,Iona,0,0,0,,That is because almost everyone \Nhere was defeated by you, Master.
+Dialogue: 0,0:00:41.16,0:00:43.56,Class- Default,Blade,0,0,0,,Ah, well, I guess that makes sense.
+Dialogue: 0,0:00:43.56,0:00:45.07,Class- Default,Maria,0,0,0,,Leonard!
+Dialogue: 0,0:00:45.07,0:00:47.55,Class- Default,Maria,0,0,0,,Please give it all you've got!
+Dialogue: 0,0:00:47.55,0:00:49.40,Class- Default,Leonard,0,0,0,,Even if we may both fall here...
+Dialogue: 0,0:00:49.40,0:00:54.74,Class- Default,Leonard,0,0,0,,I swear to bring victory upon your name,\N my lord, Earnest Flaming!
+Dialogue: 0,0:00:54.74,0:00:57.59,Class- Default,Claire,0,0,0,,Leonard! You can do it!
+Dialogue: 0,0:00:57.59,0:00:59.23,Class- Default,Claire,0,0,0,,C'mon! Anna, cheer him on!
+Dialogue: 0,0:00:59.23,0:01:01.99,Class- Default,Earnest,0,0,0,,Huh? Leonard hasn't been knocked out yet?
+Dialogue: 0,0:01:02.43,0:01:04.37,Class- Default,Earnest,0,0,0,,Why's {\i1}he{\i0} of all people still standing?
+Dialogue: 0,0:01:05.52,0:01:09.15,Class- Default,Yessica,0,0,0,,Blade's the kind who leaves \Nhis carrots for last.
+Dialogue: 0,0:01:09.15,0:01:12.13,Class- Default,Earnest,0,0,0,,Oh, he puts off the things he hates?
+Dialogue: 0,0:01:13.26,0:01:15.01,Class- Default,Maria,0,0,0,,Leonard! Get back on your feet!
+Dialogue: 0,0:01:15.84,0:01:17.51,Class- Default,Earnest,0,0,0,,Cut it out with that skeleton!
+Dialogue: 0,0:01:18.01,0:01:20.04,Class- Default,Leonard,0,0,0,,Here I go!
+Dialogue: 0,0:01:23.52,0:01:25.09,Class- Default,Clay,0,0,0,,Knew it.
+Dialogue: 0,0:01:25.09,0:01:27.02,Class- Default,Kassim,0,0,0,,We're talking about Leonard here.
+Dialogue: 0,0:01:29.97,0:01:33.89,Class- Default,Leonard,0,0,0,,Say what you will, but I still have my lord!
+Dialogue: 0,0:01:33.89,0:01:36.17,Class- Default,Earnest,0,0,0,,I can finally eat now!
+Dialogue: 0,0:01:39.06,0:01:41.51,Class- Default,Blade,0,0,0,,Hey, let's go grab some food.
+Dialogue: 0,0:01:41.51,0:01:42.54,Class- Default,Leonard,0,0,0,,Thank you.
+Dialogue: 0,0:01:43.54,0:01:45.54,Class- Default,Leonard,0,0,0,,I really don't stand a chance against you.
+Dialogue: 0,0:02:00.22,0:02:04.23,OP_ED,Sign,0,0,0,,I look in your eyes, and I'm met with
+Dialogue: 0,0:02:04.23,0:02:08.78,OP_ED,Sign,0,0,0,,A brand-new me and dream
+Dialogue: 0,0:02:18.82,0:02:21.53,OP_ED,Sign,0,0,0,,Bravery? Naturally?
+Dialogue: 0,0:02:21.53,0:02:24.12,OP_ED,Sign,0,0,0,,Polar opposites within the heart
+Dialogue: 0,0:02:24.12,0:02:26.79,OP_ED,Sign,0,0,0,,But, you know, wanting to have both
+Dialogue: 0,0:02:26.79,0:02:29.42,OP_ED,Sign,0,0,0,,That's the saga of human nature
+Dialogue: 0,0:02:29.42,0:02:31.98,OP_ED,Sign,0,0,0,,Oh no, don't mind me
+Dialogue: 0,0:02:31.98,0:02:34.92,OP_ED,Sign,0,0,0,,Go ahead, and so on, you know the rest
+Dialogue: 0,0:02:34.92,0:02:37.18,OP_ED,Sign,0,0,0,,A little more? Wait, even harder?!
+Dialogue: 0,0:02:37.18,0:02:40.09,OP_ED,Sign,0,0,0,,Going overboard much?
+Dialogue: 0,0:02:40.09,0:02:42.10,OP_ED,Sign,0,0,0,,Those selfish emotions deep down
+Dialogue: 0,0:02:42.10,0:02:44.68,OP_ED,Sign,0,0,0,,Bringing them to light is \Nwhat friendship's about
+Dialogue: 0,0:02:44.68,0:02:47.69,OP_ED,Sign,0,0,0,,Spending adolescence duking it out with pals
+Dialogue: 0,0:02:47.69,0:02:50.94,OP_ED,Sign,0,0,0,,I don't wanna lose
+Dialogue: 0,0:02:51.36,0:02:54.24,OP_ED,Sign,0,0,0,,We're off to the cutting edge moment
+Dialogue: 0,0:02:54.24,0:02:58.07,OP_ED,Sign,0,0,0,,Fight with best friends, and leave no regrets
+Dialogue: 0,0:02:58.07,0:03:03.03,OP_ED,Sign,0,0,0,,You should laugh, since \Nyou look best with a smile
+Dialogue: 0,0:03:03.03,0:03:08.66,OP_ED,Sign,0,0,0,,On the ropes?! No matter \Nwhat we face, et cetera
+Dialogue: 0,0:03:08.66,0:03:11.67,OP_ED,Sign,0,0,0,,Just sit back and enjoy it
+Dialogue: 0,0:03:11.67,0:03:18.86,OP_ED,Sign,0,0,0,,Whatever may come, I'll \Nbe here to protect you
+Dialogue: 0,0:03:26.06,0:03:28.97,sign_3812_25_Episode_1,Sign,0,0,0,,{\fad(437,1)}Episode 9
+Dialogue: 0,0:03:26.76,0:03:28.97,sign_4958_59_The_Superorganis,Sign,0,0,0,,{\fad(572,1)\pos(222.294,225.446)}The Superorganism Suppression Committee
+Dialogue: 0,0:03:28.97,0:03:31.98,sign_5011_60_Rosewood_Academy,Sign,0,0,0,,Rosewood Academy Residence Hall
+Dialogue: 0,0:03:31.98,0:03:33.98,sign_11_21_Rosewood_Academy,Sign,0,0,0,,{\3c&H0B1836&}Maria's Room, Bath
+Dialogue: 0,0:03:40.56,0:03:43.41,Class- Default,Mao,0,0,0,,Hm... You of all people...
+Dialogue: 0,0:03:43.41,0:03:44.28,Class- Default,Maria,0,0,0,,Mao.
+Dialogue: 0,0:03:44.28,0:03:47.43,Class- Default,Mao,0,0,0,,Oh, I was just a bit surprised.
+Dialogue: 0,0:03:51.00,0:03:53.25,sign_5011_60_Rosewood_Academy,Sign,0,0,0,,Leonard's Room
+Dialogue: 0,0:03:55.24,0:03:58.34,Class- Default,Leonard,0,0,0,,{\i1}Well... I had already realized it.
+Dialogue: 0,0:03:58.92,0:04:01.45,Class- Default,Leonard,0,0,0,,{\i1}Blade really is so strong.
+Dialogue: 0,0:04:01.45,0:04:03.01,Class- Default,Leonard,0,0,0,,{\i1}There will always be someone better.
+Dialogue: 0,0:04:03.01,0:04:05.09,Class- Default,Leonard,0,0,0,,{\i1}I know that's only obvious.
+Dialogue: 0,0:04:07.62,0:04:11.39,Class- Default,Leonard,0,0,0,,{\i1}If I can defeat Blade,\N I'm sure that the Empress...
+Dialogue: 0,0:04:16.02,0:04:17.32,Class- Default,Leonard,0,0,0,,{\i1}Can I defeat him?
+Dialogue: 0,0:04:18.86,0:04:21.82,Class- Default,Leonard,0,0,0,,That's right! I should begin \Nby repairing my weapon!
+Dialogue: 0,0:04:23.82,0:04:26.32,sign_11_21_Rosewood_Academy,Sign,0,0,0,,{\3c&H1E2E20&\pos(320,295.723)}{\blur2}Rosewood Academy
+Dialogue: 0,0:04:26.32,0:04:28.28,sign_11_21_Rosewood_Academy,Sign,0,0,0,,{\3c&H42472C&}{\blur2\b1}Courtyard
+Dialogue: 0,0:04:30.71,0:04:31.70,Class- Default,Maria,0,0,0,,Are you okay with this?
+Dialogue: 0,0:04:32.05,0:04:33.90,Class- Default,Maria,0,0,0,,Is something the matter, Maria?
+Dialogue: 0,0:04:33.90,0:04:37.30,Class- Default,Maria,0,0,0,,You want to defeat Blade, but you can't.
+Dialogue: 0,0:04:37.30,0:04:40.15,Class- Default,Maria,0,0,0,,You lost to him, but you're \Ncalmly laughing it off.
+Dialogue: 0,0:04:40.15,0:04:41.46,Class- Default,Maria,0,0,0,,Are you okay just staying like this?
+Dialogue: 0,0:04:43.38,0:04:44.63,Class- Default,Leonard,0,0,0,,You wouldn't understand.
+Dialogue: 0,0:04:44.93,0:04:46.68,Class- Default,Maria,0,0,0,,I can't say I do.
+Dialogue: 0,0:04:46.68,0:04:49.20,Class- Default,Maria,0,0,0,,I don't want to be behind Blade.
+Dialogue: 0,0:04:49.20,0:04:51.39,Class- Default,Maria,0,0,0,,What I want is to stand by his side.
+Dialogue: 0,0:04:53.39,0:04:55.47,Class- Default,Maria,0,0,0,,It's frustrating to lose to him,
+Dialogue: 0,0:04:55.47,0:04:57.65,Class- Default,Maria,0,0,0,,though I've never actually faced him.
+Dialogue: 0,0:04:58.35,0:05:02.90,Class- Default,Maria,0,0,0,,But I swear that one day, I'll stand at his side\N because of my own ability.
+Dialogue: 0,0:05:03.44,0:05:05.57,Class- Default,Leonard,0,0,0,,Could it be that you...
+Dialogue: 0,0:05:05.57,0:05:08.63,Class- Default,Maria,0,0,0,,Ah, no! I-I didn't mean it in that way!
+Dialogue: 0,0:05:08.63,0:05:10.95,Class- Default,Maria,0,0,0,,It's like Mao always says!
+Dialogue: 0,0:05:11.66,0:05:13.67,Class- Default,Maria,0,0,0,,I shall be the one to kill you!
+Dialogue: 0,0:05:13.67,0:05:14.75,Class- Default,Maria,0,0,0,,It's like that!
+Dialogue: 0,0:05:14.75,0:05:16.71,Class- Default,Maria,0,0,0,,A declaration of rivalry!
+Dialogue: 0,0:05:20.06,0:05:22.21,Class- Default,Leonard,0,0,0,,Do you want to kill Blade?
+Dialogue: 0,0:05:22.21,0:05:22.84,Class- Default,Maria,0,0,0,,Huh?!
+Dialogue: 0,0:05:22.84,0:05:25.60,Class- Default,Maria,0,0,0,,N-No, I don't want to do that at all!
+Dialogue: 0,0:05:25.60,0:05:28.28,Class- Default,Maria,0,0,0,,I'm sure Mao doesn't really \Nwant to kill him, either!
+Dialogue: 0,0:05:28.28,0:05:29.97,Class- Default,Maria,0,0,0,,Huh? That part is true?
+Dialogue: 0,0:05:29.97,0:05:31.89,Class- Default,Maria,0,0,0,,Seriously?!
+Dialogue: 0,0:05:31.89,0:05:33.27,Class- Default,Leonard,0,0,0,,I've come to my senses.
+Dialogue: 0,0:05:33.27,0:05:36.35,Class- Default,Leonard,0,0,0,,You said all that to try and\N light a fire under me.
+Dialogue: 0,0:05:37.48,0:05:41.86,Class- Default,Maria,0,0,0,,When I saw you trying to put \Nyourself down compared to Blade...
+Dialogue: 0,0:05:42.57,0:05:48.56,Class- Default,Maria,0,0,0,,I couldn't bear to see you cast aside\N your desire to rival him, and defeat him.
+Dialogue: 0,0:05:48.56,0:05:49.60,Class- Default,Maria,0,0,0,,I'm sorry!
+Dialogue: 0,0:05:49.60,0:05:51.87,Class- Default,Maria,0,0,0,,I was being selfish.
+Dialogue: 0,0:05:52.13,0:05:53.99,Class- Default,Leonard,0,0,0,,Please, raise your head.
+Dialogue: 0,0:05:53.99,0:05:56.37,Class- Default,Leonard,0,0,0,,I should be the one thanking you.
+Dialogue: 0,0:05:56.82,0:06:00.96,Class- Default,Leonard,0,0,0,,I must defeat him at any cost.
+Dialogue: 0,0:06:03.46,0:06:07.22,Class- Default,Leonard,0,0,0,,Or else my lord will not \Nsee fit to look my way.
+Dialogue: 0,0:06:08.99,0:06:10.09,Class- Default,Maria,0,0,0,,I'm rooting for you!
+Dialogue: 0,0:06:11.27,0:06:12.41,Class- Default,Leonard,0,0,0,,I'll be rooting for you, as well.
+Dialogue: 0,0:06:12.41,0:06:12.86,Class- Default,Maria,0,0,0,,Yes!
+Dialogue: 0,0:06:12.86,0:06:15.60,Class- Default,Eliza,0,0,0,,Hold it right there for just one moment!
+Dialogue: 0,0:06:15.60,0:06:17.42,Class- Default,Eliza,0,0,0,,Rooting this, rooting that.
+Dialogue: 0,0:06:17.42,0:06:18.54,Class- Default,Eliza,0,0,0,,Give me a break.
+Dialogue: 0,0:06:18.54,0:06:20.58,Class- Default,Eliza,0,0,0,,So it amounts to nothing more than idealism?
+Dialogue: 0,0:06:20.58,0:06:21.61,Class- Default,Eliza,0,0,0,,How laughable.
+Dialogue: 0,0:06:21.61,0:06:23.83,Class- Default,Eliza,0,0,0,,Utterly preposterous.
+Dialogue: 0,0:06:24.36,0:06:26.28,Class- Default,Eliza,0,0,0,,Pretend to be friends all you want!
+Dialogue: 0,0:06:26.28,0:06:27.59,Class- Default,Eliza,0,0,0,,Live up your youth all you want!
+Dialogue: 0,0:06:27.59,0:06:29.65,Class- Default,Eliza,0,0,0,,Heck, be as idealistic as you want!
+Dialogue: 0,0:06:29.65,0:06:30.61,Class- Default,Eliza,0,0,0,,However!
+Dialogue: 0,0:06:30.61,0:06:34.87,Class- Default,Eliza,0,0,0,,Do you think you can beat that \Nsuperorganism like that?!
+Dialogue: 0,0:06:35.26,0:06:37.23,Class- Default,Leonard,0,0,0,,Huh? W-Well, um...
+Dialogue: 0,0:06:37.23,0:06:38.21,Class- Default,Mao,0,0,0,,Hm?
+Dialogue: 0,0:06:38.21,0:06:40.67,Class- Default,Eliza,0,0,0,,I don't mean to criticize you.
+Dialogue: 0,0:06:40.67,0:06:43.88,Class- Default,Eliza,0,0,0,,But if you seriously want \Nto take that thing down,
+Dialogue: 0,0:06:43.88,0:06:45.88,Class- Default,Eliza,0,0,0,,I can lend a hand.
+Dialogue: 0,0:06:47.72,0:06:50.99,Class- Default,Eliza,0,0,0,,Yes, with a realistic plan\N instead of idealism!
+Dialogue: 0,0:06:50.99,0:06:54.39,Class- Default,Eliza,0,0,0,,Using this gray matter of mine!
+Dialogue: 0,0:06:54.39,0:06:56.78,Class- Default,Leonard,0,0,0,,Thanks, um...
+Dialogue: 0,0:06:57.49,0:06:59.14,Class- Default,Mao,0,0,0,,Who are you?
+Dialogue: 0,0:06:59.18,0:07:01.37,Class- Default,Eliza,0,0,0,,Eliza!
+Dialogue: 0,0:07:03.86,0:07:10.86,Class - Top,Leonard,0,0,0,,Heaven and earth alike shall not \Ntolerate this transcended being!
+Dialogue: 0,0:07:03.86,0:07:10.86,sign_10163_134_1st_Superorganis,Sign,0,0,0,,{\pos(331.571,297.169)}First Superorganism Suppression Committee Session
+Dialogue: 0,0:07:10.86,0:07:14.87,sign_10331_137_Chairman__Leonar,Sign,0,0,0,,Chairman: Leonard
+Dialogue: 0,0:07:10.86,0:07:14.87,Class - Top,Leonard,0,0,0,,I thank you all for gathering \Nhere on this day.
+Dialogue: 0,0:07:14.87,0:07:17.41,sign_10331_137_Chairman__Leonar,Sign,0,0,0,,{\fs18\pos(523.486,305.554)}{\blur2}Empress: Earnest
+Dialogue: 0,0:07:14.87,0:07:17.41,Class - Top,Earnest,0,0,0,,Hey, why are you the chairman?
+Dialogue: 0,0:07:17.41,0:07:20.08,sign_10331_137_Chairman__Leonar,Sign,0,0,0,,{\pos(105.497,304.108)}{\fs18\pos(523.486,305.554)}{\blur2}Gray Matter: Eliza
+Dialogue: 0,0:07:17.41,0:07:20.08,Class - Top,Eliza,0,0,0,,More like, Empress, why are you here?
+Dialogue: 0,0:07:20.08,0:07:22.33,sign_10331_137_Chairman__Leonar,Sign,0,0,0,,{\fs18\pos(475.034,304.831)}{\blur2}Demon King's Daughter: Maria
+Dialogue: 0,0:07:20.08,0:07:22.33,Class - Top,Maria,0,0,0,,Because this meeting \Nis about defeating Blade!
+Dialogue: 0,0:07:22.33,0:07:24.17,Class- Default,Earnest,0,0,0,,I want to beat him to a bloody pulp!
+Dialogue: 0,0:07:24.17,0:07:26.17,sign_10331_137_Chairman__Leonar,Sign,0,0,0,,{\pos(96.819,304.108)}{\fs18\pos(523.486,305.554)}{\blur2}Guardian: Iona
+Dialogue: 0,0:07:24.17,0:07:26.17,Class - Top,Iona,0,0,0,,Eradication is my specialty.
+Dialogue: 0,0:07:26.17,0:07:27.98,Class - Top,Kassim,0,0,0,,Whatever, let's just get it over with!
+Dialogue: 0,0:07:26.17,0:07:29.09,sign_10331_137_Chairman__Leonar,Sign,0,0,0,,{\pos(195.892,305.554)}{\fs18\pos(523.486,305.554)}{\blur2}Assassin: Kassim
+Dialogue: 0,0:07:26.17,0:07:29.09,sign_10331_137_Chairman__Leonar,Sign,0,0,0,,{\pos(435.983,304.831)}{\fs18\pos(523.486,305.554)}{\blur2}Swordsman: Clay
+Dialogue: 0,0:07:27.98,0:07:29.09,Class - Top,Clay,0,0,0,,Yeah!
+Dialogue: 0,0:07:30.62,0:07:35.69,Class- Default,Leonard,0,0,0,,Though we share not the day of our births, \Nwe swear here an oath of fellowship,
+Dialogue: 0,0:07:35.69,0:07:38.10,Class- Default,Leonard,0,0,0,,to challenge the transcended \None who defies logic—
+Dialogue: 0,0:07:36.89,0:07:38.10,Class - Top,Earnest,0,0,0,,What the heck does that mean?
+Dialogue: 0,0:07:40.82,0:07:41.71,Class- Default,Maria,0,0,0,,Leonard!
+Dialogue: 0,0:07:41.71,0:07:43.54,Class- Default,Maria,0,0,0,,Guts! You've got to show some guts!
+Dialogue: 0,0:07:43.54,0:07:44.61,Class- Default,Leonard,0,0,0,,Guts!
+Dialogue: 0,0:07:45.39,0:07:46.42,Class- Default,Leonard,0,0,0,,In other words!
+Dialogue: 0,0:07:46.42,0:07:51.05,Class- Default,Leonard,0,0,0,,All of us may have different motives, \Nbut we all want to beat the superorganism!
+Dialogue: 0,0:07:51.03,0:07:55.62,sign_11294_160_Artificial_Hero_,Sign,0,0,0,,{\pos(490.943,265.072)}{\fs18\pos(523.486,305.554)}{\blur2}{\pos(422.243,263.626)}Artificial Hero: Sophitia Femto
+Dialogue: 0,0:07:51.03,0:07:55.62,sign_11294_160_Artificial_Hero_,Sign,0,0,0,,{\pos(141.655,307)}{\pos(105.497,304.108)}{\fs18\pos(523.486,305.554)}{\blur2}Baby Dragon: Cu Chulainn
+Dialogue: 0,0:07:51.32,0:07:54.29,Class - Top,Sophie,0,0,0,,I'm fine as long as Blade is happy.
+Dialogue: 0,0:07:54.29,0:07:55.62,Class - Top,Cu,0,0,0,,Parent!
+Dialogue: 0,0:07:57.21,0:08:00.83,Class- Default,Leonard,0,0,0,,D-Does anyone here have \Na specific plan in mind?
+Dialogue: 0,0:08:00.83,0:08:04.67,sign_10331_137_Chairman__Leonar,Sign,0,0,0,,{\pos(160.457,305.554)}{\fs18\pos(523.486,305.554)}{\blur2}Healer: Claire
+Dialogue: 0,0:08:00.83,0:08:04.67,sign_10331_137_Chairman__Leonar,Sign,0,0,0,,{\pos(402.717,304.108)}{\fs18\pos(523.486,305.554)}{\blur2}Spy: Yessica
+Dialogue: 0,0:08:01.13,0:08:02.12,Class - Top,Yessica,0,0,0,,Here!
+Dialogue: 0,0:08:02.12,0:08:03.55,Class - Top,Yessica,0,0,0,,Attack him in his sleep!
+Dialogue: 0,0:08:03.55,0:08:04.67,Class - Top,Claire,0,0,0,,Poison him?
+Dialogue: 0,0:08:04.67,0:08:06.58,Class- Default,Earnest,0,0,0,,What? That's cowardly.
+Dialogue: 0,0:08:06.58,0:08:08.92,Class- Default,Eliza,0,0,0,,No, there's nothing cowardly about it.
+Dialogue: 0,0:08:08.92,0:08:13.55,Class- Default,Eliza,0,0,0,,In fact, wouldn't you say that being a \Nsuperorganism is about as cowardly as it gets?
+Dialogue: 0,0:08:13.93,0:08:15.34,Class- Default,Group,0,0,0,,Mm-hmm.
+Dialogue: 0,0:08:15.34,0:08:16.14,Class- Default,Cu,0,0,0,,Mm-hmm!
+Dialogue: 0,0:08:16.14,0:08:22.81,sign_11896_175_Illustrative_Foo,Sign,0,0,0,,{\pos(317.831,302.229)}Illustrative Footage from Superorganism Simulator{\c&HDBE6E4&}
+Dialogue: 0,0:08:16.49,0:08:20.24,Class - Top,Eliza,0,0,0,,We feeble humans are trying \Nto take on a superorganism!
+Dialogue: 0,0:08:20.24,0:08:22.81,Class - Top,Eliza,0,0,0,,It's only natural that we use whatever \Nmethods are available to us!
+Dialogue: 0,0:08:23.41,0:08:26.76,Class- Default,Earnest,0,0,0,,I want to fight him fair and square.
+Dialogue: 0,0:08:26.76,0:08:30.04,Class- Default,Earnest,0,0,0,,I mean, Blade only ever uses a sword.
+Dialogue: 0,0:08:30.04,0:08:33.90,Class- Default,Earnest,0,0,0,,Why don't we challenge him with weapons \Nhe'd be weak against, like lances or bows?
+Dialogue: 0,0:08:34.28,0:08:39.28,Class- Default,Claire,0,0,0,,How's that different from attacking \Nhim in his sleep or poisoning him?
+Dialogue: 0,0:08:39.78,0:08:41.41,Class- Default,Leonard,0,0,0,,Um, look...
+Dialogue: 0,0:08:41.41,0:08:43.83,Class- Default,Leonard,0,0,0,,What my lord is saying is that, well...
+Dialogue: 0,0:08:43.83,0:08:48.39,Class- Default,Leonard,0,0,0,,We should each face him with \Nwhatever methods we see fit.
+Dialogue: 0,0:08:48.39,0:08:49.92,Class- Default,Leonard,0,0,0,,That's what she means, yep.
+Dialogue: 0,0:08:49.92,0:08:51.45,Class- Default,Earnest,0,0,0,,Y-Yeah, that's right!
+Dialogue: 0,0:08:51.45,0:08:53.12,Class- Default,Earnest,0,0,0,,That's what I meant to say!
+Dialogue: 0,0:08:54.16,0:08:55.01,Class- Default,Sophie,0,0,0,,Really?
+Dialogue: 0,0:08:55.01,0:08:56.30,Class- Default,Earnest,0,0,0,,Really!
+Dialogue: 0,0:08:56.76,0:08:58.24,Class- Default,Leonard,0,0,0,,Ladies and gentlemen!
+Dialogue: 0,0:08:58.24,0:09:03.35,Class- Default,Leonard,0,0,0,,Let us declare here our vow to defeat Blade,\Nand achieve victory without fail!
+Dialogue: 0,0:09:05.19,0:09:07.85,Class- Default,Leonard,0,0,0,,All in the name of suppressing \Nthe superorganism in battle!
+Dialogue: 0,0:09:11.36,0:09:13.36,sign_13220_193_Rosewood_Academy,Sign,0,0,0,,{\pos(321,300.494)}{\blur2\3c&H3C4F4C&}Rosewood Academy, Testing Ground No. 2
+Dialogue: 0,0:09:13.36,0:09:17.11,sign_13220_193_Rosewood_Academy,Sign,0,0,0,,{\pos(320.277,301.217)}{\blur2}Super Drill Lance Mk. II
+Dialogue: 0,0:09:13.90,0:09:15.49,Class - Top,Earnest,0,0,0,,Let's fight fair and square!
+Dialogue: 0,0:09:15.49,0:09:17.11,Class - Top,Earnest,0,0,0,,Prepare yourself, Blade!
+Dialogue: 0,0:09:18.06,0:09:20.51,Class- Default,Earnest,0,0,0,,Here I go!
+Dialogue: 0,0:09:21.37,0:09:22.87,sign_10163_134_1st_Superorganis,Sign,0,0,0,,Second Superorganism Suppression Committee Session
+Dialogue: 0,0:09:23.93,0:09:25.75,Class- Default,Earnest,0,0,0,,Thanks for letting me use your lance.
+Dialogue: 0,0:09:24.94,0:09:26.52,Class - Top,Leonard,0,0,0,,I'd just fixed this thing!
+Dialogue: 0,0:09:26.52,0:09:28.13,Class- Default,Yessica,0,0,0,,I'm up next!
+Dialogue: 0,0:09:28.13,0:09:31.13,sign_13622_202_Rosewood_Academy,Sign,0,0,0,,{\pos(322.169,298.614)}Rosewood Academy Residence Hall, Late at Night
+Dialogue: 0,0:09:28.80,0:09:31.13,Class - Top,Yessica,0,0,0,,There's no point fighting \Nhim when he's awake.
+Dialogue: 0,0:09:31.13,0:09:34.13,sign_5011_60_Rosewood_Academy,Sign,0,0,0,,{\pos(320.723,299.337)}Blade's Bedroom
+Dialogue: 0,0:09:32.06,0:09:34.13,Class - Top,Yessica,0,0,0,,Okay, he's fast asleep!
+Dialogue: 0,0:09:34.13,0:09:35.70,Class- Default,Yessica,0,0,0,,Good, good...
+Dialogue: 0,0:09:38.34,0:09:39.76,Class- Default,Yessica,0,0,0,,Huh? Iona?
+Dialogue: 0,0:09:39.76,0:09:44.02,Class- Default,Yessica,0,0,0,,H-Hey, hey! Wait, wait, wait! Wait!
+Dialogue: 0,0:09:44.52,0:09:48.02,sign_10163_134_1st_Superorganis,Sign,0,0,0,,{\pos(324.339,298.614)\3c&H49322D&}Third Superorganism Suppression Committee Session
+Dialogue: 0,0:09:48.02,0:09:50.93,Class- Default,Yessica,0,0,0,,Hey, I thought we were on the same side.
+Dialogue: 0,0:09:50.93,0:09:52.43,Class- Default,Iona,0,0,0,,That was an automatic function.
+Dialogue: 0,0:09:52.43,0:09:54.28,Class- Default,Yessica,0,0,0,,It's no good when he's asleep, either?
+Dialogue: 0,0:09:54.85,0:09:56.78,Class- Default,Leonard,0,0,0,,Then I'll take him on next!
+Dialogue: 0,0:09:56.78,0:09:59.78,sign_13220_193_Rosewood_Academy,Sign,0,0,0,,{\pos(319.554,302.663)}Full Armor Drill Lance Perfect Pack Repair
+Dialogue: 0,0:09:57.69,0:09:59.78,Class - Top,Leonard,0,0,0,,With my renovated lance!
+Dialogue: 0,0:10:00.17,0:10:01.02,Class- Default,Leonard,0,0,0,,Blade!
+Dialogue: 0,0:10:01.02,0:10:02.84,Class- Default,Leonard,0,0,0,,Today is the day that I surpass you!
+Dialogue: 0,0:10:02.84,0:10:04.83,Class- Default,Blade,0,0,0,,I really think you should just give up.
+Dialogue: 0,0:10:05.25,0:10:06.88,Class- Default,Leonard,0,0,0,,Enough talk!
+Dialogue: 0,0:10:06.88,0:10:08.67,Class- Default,Leonard,0,0,0,,Now face me in a fair fight!
+Dialogue: 0,0:10:13.37,0:10:14.59,Class- Default,Blade,0,0,0,,Yeesh...
+Dialogue: 0,0:10:15.80,0:10:17.55,sign_10163_134_1st_Superorganis,Sign,0,0,0,,Fourth Superorganism Suppression Committee Session
+Dialogue: 0,0:10:17.55,0:10:20.46,Class- Default,Leonard,0,0,0,,Duct tape ain't gonna cut it, huh?!
+Dialogue: 0,0:10:18.96,0:10:21.55,Class - Top,Maria,0,0,0,,Mao and I will avenge the chairman!
+Dialogue: 0,0:10:21.55,0:10:23.68,sign_14903_225_Rosewood_Academy,Sign,0,0,0,,{\pos(320.277,300.494)}{\blur1\c&HD0E4E3&}Rosewood Academy Cafeteria
+Dialogue: 0,0:10:24.12,0:10:25.89,Class- Default,Maria,0,0,0,,You're wide... open!
+Dialogue: 0,0:10:27.57,0:10:30.10,Class- Default,Mao,0,0,0,,Have you forgotten that \NI am the one who will kill—
+Dialogue: 0,0:10:31.65,0:10:33.02,Class- Default,Mao,0,0,0,,In the middle of my introduction...
+Dialogue: 0,0:10:33.02,0:10:34.28,Class- Default,Mao,0,0,0,,How cowardly...
+Dialogue: 0,0:10:34.90,0:10:37.90,sign_10163_134_1st_Superorganis,Sign,0,0,0,,{\pos(327.232,297.169)}Fifth Superorganism Suppression Committee Session
+Dialogue: 0,0:10:35.82,0:10:37.90,Class - Top,Maria,0,0,0,,Mao, you talk too much.
+Dialogue: 0,0:10:37.90,0:10:41.57,sign_13220_193_Rosewood_Academy,Sign,0,0,0,,{\pos(321,299.771)}{\blur2\3c&H4A5757&}Testing Ground No. 2, Once Again
+Dialogue: 0,0:10:38.68,0:10:41.10,Class - Top,Sophie,0,0,0,,These are my only weapons.
+Dialogue: 0,0:10:44.99,0:10:48.62,sign_13220_193_Rosewood_Academy,Sign,0,0,0,,{\pos(321,299.048)}Sixth Superorganism Suppression Committee Session
+Dialogue: 0,0:10:45.42,0:10:48.62,Class - Top,Sophie,0,0,0,,I'm fine as long as Blade is happy.
+Dialogue: 0,0:10:48.62,0:10:50.54,sign_13220_193_Rosewood_Academy,Sign,0,0,0,,{\pos(318.107,299.771)}{\pos(320.277,300.494)}{\blur1\c&HD0E4E3&}Rosewood Academy Cafeteria
+Dialogue: 0,0:10:48.62,0:10:52.00,Class - Top,Claire,0,0,0,,Hi-yah!
+Dialogue: 0,0:10:53.67,0:10:55.80,sign_15673_238_Seventh_Superorg,Sign,0,0,0,,{\pos(321.723,300.494)}Seventh Superorganism Suppression Committee Session
+Dialogue: 0,0:10:54.41,0:10:55.80,Class - Top,Claire,0,0,0,,I knew it...
+Dialogue: 0,0:10:55.80,0:10:57.16,Class - Top,Kassim,0,0,0,,If we're together...
+Dialogue: 0,0:10:55.80,0:10:58.55,sign_14903_225_Rosewood_Academy,Sign,0,0,0,,{\pos(324.616,299.771)}{\blur1\3c&H596765&}Testing Ground No. 2
+Dialogue: 0,0:10:57.16,0:10:58.55,Class - Top,Clay,0,0,0,,We have nothing to fear!
+Dialogue: 0,0:11:01.52,0:11:02.72,Class- Default,Group,0,0,0,,Ah!
+Dialogue: 0,0:11:02.72,0:11:05.98,Class- Default,Group,0,0,0,,Look, over there, a naked lady!
+Dialogue: 0,0:11:06.50,0:11:08.56,Class- Default,Blade,0,0,0,,So what if there's a naked lady?
+Dialogue: 0,0:11:10.35,0:11:13.15,sign_16073_246_Eighth_Superorga,Sign,0,0,0,,{\pos(322.446,299.771)}Eighth Superorganism Suppression Committee Session
+Dialogue: 0,0:11:10.70,0:11:11.84,Class - Top,Kassim,0,0,0,,Naked...
+Dialogue: 0,0:11:11.84,0:11:13.15,Class - Top,Clay,0,0,0,,Lady...
+Dialogue: 0,0:11:13.15,0:11:15.65,sign_16073_246_Eighth_Superorga,Sign,0,0,0,,{\pos(319.554,299.048)}{\blur1}Rosewood Academy Cafeteria
+Dialogue: 0,0:11:13.76,0:11:15.65,Class - Top,Cu,0,0,0,,Prepare yourself, Parent!
+Dialogue: 0,0:11:16.05,0:11:18.24,Class- Default,Cu,0,0,0,,It's too spicy!
+Dialogue: 0,0:11:18.24,0:11:19.19,Class- Default,Blade,0,0,0,,It's good, you know?
+Dialogue: 0,0:11:19.65,0:11:21.98,Class - Top,Maria,0,0,0,,Eek! I've tripped!
+Dialogue: 0,0:11:19.90,0:11:23.03,sign_13220_193_Rosewood_Academy,Sign,0,0,0,,{\pos(323.893,299.048)}{\blur1\c&HC8E7E9&}Operation Klutzy Dumbbell Accident
+Dialogue: 0,0:11:21.98,0:11:23.03,Class - Top,Maria,0,0,0,,Whoopsie-daisy!
+Dialogue: 0,0:11:23.48,0:11:24.66,Class- Default,Maria,0,0,0,,It didn't work.
+Dialogue: 0,0:11:24.66,0:11:25.47,Class- Default,Blade,0,0,0,,Are you okay?
+Dialogue: 0,0:11:25.47,0:11:26.61,Class - Top,Yessica,0,0,0,,Go!
+Dialogue: 0,0:11:26.28,0:11:29.29,sign_13220_193_Rosewood_Academy,Sign,0,0,0,,{\pos(320,302.952)\c&HD6E5E3&}Rock-Paper-Scissors
+Dialogue: 0,0:11:26.61,0:11:28.31,Class - Top,Earnest,0,0,0,,Here we go!
+Dialogue: 0,0:11:28.31,0:11:29.77,Class - Top,Earnest,0,0,0,,Rock, paper, scissors, shoot!
+Dialogue: 0,0:11:29.91,0:11:31.58,Class- Default,Earnest,0,0,0,,Rock, paper, scissors, shoot!
+Dialogue: 0,0:11:31.69,0:11:33.34,Class- Default,Earnest,0,0,0,,Rock, paper, scissors, shoot!
+Dialogue: 0,0:11:33.34,0:11:33.99,Class- Default,Earnest,0,0,0,,Shoot!
+Dialogue: 0,0:11:34.10,0:11:34.72,Class- Default,Earnest,0,0,0,,Shoot!
+Dialogue: 0,0:11:34.72,0:11:35.60,Class- Default,Earnest,0,0,0,,Shoot! Shoot! Shoot!
+Dialogue: 0,0:11:35.60,0:11:37.55,Class- Default,Earnest,0,0,0,,Shoot, shoot, shoot, shoot, shoot!
+Dialogue: 0,0:11:37.55,0:11:39.92,sign_15673_238_Seventh_Superorg,Sign,0,0,0,,{\pos(322.446,299.771)}Rosewood Academy Infirmary
+Dialogue: 0,0:11:38.31,0:11:39.92,Class - Top,Doctor,0,0,0,,Looks like tenosynovitis.
+Dialogue: 0,0:11:39.92,0:11:42.25,Class- Default,Earnest,0,0,0,,His wrists are way too strong!
+Dialogue: 0,0:11:42.25,0:11:44.59,Class- Default,Doctor,0,0,0,,You just suck at rock-paper-scissors.
+Dialogue: 0,0:11:44.59,0:11:47.01,Class - Top,Earnest,0,0,0,,So hot!
+Dialogue: 0,0:11:44.59,0:11:49.85,sign_13220_193_Rosewood_Academy,Sign,0,0,0,,{\pos(321.723,302.663)\3c&H293D5A&\c&HDDE7E5&}Endurance Contest
+Dialogue: 0,0:11:47.01,0:11:49.85,Class - Top,Earnest,0,0,0,,-Hot, hot, hot, hot, hot!
+Dialogue: 0,0:11:48.33,0:11:49.85,Class - Top,Blade,0,0,0,,-Don't overdo it.
+Dialogue: 0,0:11:49.85,0:11:53.10,sign_16073_246_Eighth_Superorga,Sign,0,0,0,,{\pos(323.169,301.94)}Endurance Contest 2
+Dialogue: 0,0:11:49.85,0:11:53.10,Class - Top,Earnest,0,0,0,,-No way, no way, no way, no way!
+Dialogue: 0,0:11:51.41,0:11:53.10,Class - Top,Blade,0,0,0,,-Why'd you even try it?
+Dialogue: 0,0:11:53.10,0:11:55.14,Class - Top,Leonard,0,0,0,,My lord!
+Dialogue: 0,0:11:53.10,0:11:55.86,sign_14903_225_Rosewood_Academy,Sign,0,0,0,,{\pos(322.169,301.506)}Endurance Contest 3
+Dialogue: 0,0:11:55.86,0:11:58.57,Class - Top,Earnest,0,0,0,,That lousy superorganism!
+Dialogue: 0,0:11:55.86,0:12:00.86,sign_16073_246_Eighth_Superorga,Sign,0,0,0,,{\pos(323.169,299.048)}Eleventh Superorganism Suppression Committee Session
+Dialogue: 0,0:11:58.57,0:11:59.64,Class - Top,Yessica,0,0,0,,-Anna...
+Dialogue: 0,0:11:58.57,0:12:00.86,Class - Top,Earnest,0,0,0,,-That stupid moron!
+Dialogue: 0,0:11:59.64,0:12:00.86,Class - Top,Claire,0,0,0,,-Let's calm down.
+Dialogue: 0,0:12:01.38,0:12:04.52,Class- Default,Earnest,0,0,0,,I know. Let's draw lots next.
+Dialogue: 0,0:12:04.52,0:12:07.81,Class- Default,Earnest,0,0,0,,We'll fill it with only losing lots, \Nand then Blade can...
+Dialogue: 0,0:12:08.93,0:12:13.12,Class- Default,Leonard,0,0,0,,Everyone, what was our original goal again?
+Dialogue: 0,0:12:13.12,0:12:14.05,Class- Default,Yessica,0,0,0,,I forgot!
+Dialogue: 0,0:12:14.05,0:12:14.96,Class- Default,Claire,0,0,0,,Um...
+Dialogue: 0,0:12:14.96,0:12:15.79,Class- Default,Iona,0,0,0,,Searching...
+Dialogue: 0,0:12:16.36,0:12:17.70,Class- Default,Earnest,0,0,0,,I want to defeat him!
+Dialogue: 0,0:12:17.70,0:12:19.40,Class- Default,Earnest,0,0,0,,Beat him to a bloody pulp!
+Dialogue: 0,0:12:19.40,0:12:22.81,Class- Default,Earnest,0,0,0,,And then make him say, \N"Earnest, you're so strong!"
+Dialogue: 0,0:12:22.81,0:12:23.45,Class- Default,Earnest,0,0,0,,Argh!
+Dialogue: 0,0:12:23.45,0:12:24.74,Class- Default,Leonard,0,0,0,,That's right.
+Dialogue: 0,0:12:24.74,0:12:26.76,Class- Default,Leonard,0,0,0,,However, my lord...
+Dialogue: 0,0:12:26.76,0:12:30.31,Class- Default,Leonard,0,0,0,,In the search to be recognized, \Nrather than victory,
+Dialogue: 0,0:12:31.24,0:12:34.19,Class- Default,Leonard,0,0,0,,could it be that the very process \Nis what truly gives it meaning?
+Dialogue: 0,0:12:34.19,0:12:35.65,Class- Default,Maria,0,0,0,,Leonard...
+Dialogue: 0,0:12:35.65,0:12:38.19,Class- Default,Yessica,0,0,0,,Wow, I never thought you'd talk back to Anna!
+Dialogue: 0,0:12:38.19,0:12:40.53,Class- Default,Earnest,0,0,0,,None of that matters if you don't win!
+Dialogue: 0,0:12:40.53,0:12:41.84,Class- Default,Earnest,0,0,0,,We need to beat him at least once!
+Dialogue: 0,0:12:41.84,0:12:43.34,Class- Default,Earnest,0,0,0,,I don't care what it is, as long as we win!
+Dialogue: 0,0:12:43.34,0:12:45.45,Class- Default,Earnest,0,0,0,,I just want to make him say uncle!
+Dialogue: 0,0:12:45.45,0:12:46.27,Class- Default,Earnest,0,0,0,,Argh!
+Dialogue: 0,0:12:46.27,0:12:47.82,Class- Default,Leonard,0,0,0,,"Say uncle"?
+Dialogue: 0,0:12:48.24,0:12:49.08,Class- Default,Iona,0,0,0,,Say uncle.
+Dialogue: 0,0:12:49.08,0:12:52.39,Class- Default,Iona,0,0,0,,In ancient language,\N it means "to admit defeat."
+Dialogue: 0,0:12:52.39,0:12:54.33,Class- Default,Iona,0,0,0,,In that case, it is possible.
+Dialogue: 0,0:12:54.75,0:12:56.62,Class - Flashback,Blade,0,0,0,,I give, I give!
+Dialogue: 0,0:12:56.62,0:12:57.94,Class - Flashback,Blade,0,0,0,,I admit defeat.
+Dialogue: 0,0:12:57.94,0:12:59.97,Class- Default,Maria,0,0,0,,You're right! He said he gave up!
+Dialogue: 0,0:12:59.97,0:13:00.79,Class- Default,Earnest,0,0,0,,You're right!
+Dialogue: 0,0:13:00.92,0:13:01.84,Class- Default,Leonard,0,0,0,,You're right!
+Dialogue: 0,0:13:03.84,0:13:08.54,Class- Default,Eliza,0,0,0,,The core of that strategy was that \Nwe used Iona's life as a hostage.
+Dialogue: 0,0:13:08.54,0:13:09.31,Class- Default,Iona,0,0,0,,Yes.
+Dialogue: 0,0:13:09.31,0:13:11.82,Class- Default,Iona,0,0,0,,This means that if we take \Nhostages this time as well,
+Dialogue: 0,0:13:11.82,0:13:14.59,Class- Default,Iona,0,0,0,,it should be possible to defeat Master.
+Dialogue: 0,0:13:16.04,0:13:18.53,Class- Default,Maria,0,0,0,,Leonard? What's wrong?
+Dialogue: 0,0:13:19.09,0:13:21.07,Class- Default,Leonard,0,0,0,,Well... taking hostages...
+Dialogue: 0,0:13:21.07,0:13:22.95,Class- Default,Earnest,0,0,0,,We can defeat Blade!
+Dialogue: 0,0:13:22.95,0:13:24.72,Class- Default,Earnest,0,0,0,,I'll drink swamp water \Nif that's what it takes!
+Dialogue: 0,0:13:24.72,0:13:26.10,Class- Default,Earnest,0,0,0,,Got it?!
+Dialogue: 0,0:13:26.10,0:13:27.70,Class- Default,Leonard,0,0,0,,What unbridled passion!
+Dialogue: 0,0:13:28.42,0:13:30.07,Class- Default,Leonard,0,0,0,,I understand, my lord.
+Dialogue: 0,0:13:30.07,0:13:32.95,Class- Default,Leonard,0,0,0,,If that is your wish, I will spare no effort.
+Dialogue: 0,0:13:32.95,0:13:35.17,Class- Default,Earnest,0,0,0,,Let's do it, everyone!
+Dialogue: 0,0:13:38.76,0:13:40.71,Class- Default,Leonard,0,0,0,,My drill is burning up as it spins!
+Dialogue: 0,0:13:40.71,0:13:41.96,Class- Default,Group,0,0,0,,Huh...
+Dialogue: 0,0:13:41.96,0:13:44.46,sign_16073_246_Eighth_Superorga,Sign,0,0,0,,{\pos(334.017,299.048)\3c&H40332B&}Superorganism Suppression Committee, Operation Hostage
+Dialogue: 0,0:13:45.01,0:13:46.34,Class- Default,Doctor,0,0,0,,As you can see,
+Dialogue: 0,0:13:46.34,0:13:50.93,Class- Default,Doctor,0,0,0,,the medical approach here is fundamentally \Ndifferent from that of healing magic.
+Dialogue: 0,0:13:51.53,0:13:54.98,Class- Default,Doctor,0,0,0,,Knowing how to heal the \Nhuman body can come in handy.
+Dialogue: 0,0:13:54.98,0:13:59.77,Class- Default,Doctor,0,0,0,,If you know how to heal it,\N you also know how to injure it.
+Dialogue: 0,0:13:59.77,0:14:01.94,Class- Default,Cu,0,0,0,,I know that!
+Dialogue: 0,0:14:01.94,0:14:04.33,Class- Default,Blade,0,0,0,,Hey, Leonard and the others aren't here.
+Dialogue: 0,0:14:04.33,0:14:04.95,Class- Default,Earnest,0,0,0,,What?
+Dialogue: 0,0:14:04.95,0:14:06.50,Class- Default,Earnest,0,0,0,,Th-That's not true!
+Dialogue: 0,0:14:06.50,0:14:07.49,Class- Default,Yessica,0,0,0,,Oh, you know!
+Dialogue: 0,0:14:07.49,0:14:10.83,Class- Default,Yessica,0,0,0,,Those three had to go run an errand, I think!
+Dialogue: 0,0:14:10.83,0:14:11.97,Class- Default,Blade,0,0,0,,What kind of errand?
+Dialogue: 0,0:14:11.97,0:14:14.48,Class- Default,Claire,0,0,0,,You don't need to worry about that, Blade.
+Dialogue: 0,0:14:14.48,0:14:15.33,Class- Default,Claire,0,0,0,,Nope.
+Dialogue: 0,0:14:16.84,0:14:18.82,Class- Default,Kassim,0,0,0,,Look here!
+Dialogue: 0,0:14:18.82,0:14:20.88,Class- Default,Kassim,0,0,0,,This place is under {\i1}our{\i0} control now!
+Dialogue: 0,0:14:20.88,0:14:21.64,Class- Default,Clay,0,0,0,,Now!
+Dialogue: 0,0:14:21.64,0:14:22.54,Class- Default,Leonard,0,0,0,,Now!
+Dialogue: 0,0:14:22.54,0:14:23.72,Class- Default,Blade,0,0,0,,What is that?
+Dialogue: 0,0:14:23.72,0:14:25.55,Class- Default,Earnest,0,0,0,,Ah! Those are...
+Dialogue: 0,0:14:25.55,0:14:27.17,Class- Default,Earnest,0,0,0,,Terrorists!
+Dialogue: 0,0:14:27.17,0:14:28.22,Class- Default,Kassim,0,0,0,,We're terrorists!
+Dialogue: 0,0:14:28.22,0:14:29.13,Class- Default,Clay,0,0,0,,Terrorists!
+Dialogue: 0,0:14:29.13,0:14:30.55,Class- Default,Leonard,0,0,0,,Terrorists!
+Dialogue: 0,0:14:31.12,0:14:32.55,Class- Default,Blade,0,0,0,,Terrorists?
+Dialogue: 0,0:14:32.55,0:14:37.29,Class- Default,Sophie,0,0,0,,It refers to people who use violence \Nto achieve their political goals.
+Dialogue: 0,0:14:37.29,0:14:38.39,Class- Default,Blade,0,0,0,,Political?
+Dialogue: 0,0:14:38.39,0:14:40.50,Class- Default,Cu,0,0,0,,Political!
+Dialogue: 0,0:14:40.50,0:14:41.47,Class- Default,Blade,0,0,0,,I don't get it.
+Dialogue: 0,0:14:41.47,0:14:43.51,Class- Default,Earnest,0,0,0,,It means they're rowdy and rude!
+Dialogue: 0,0:14:43.51,0:14:44.57,Class- Default,Blade,0,0,0,,I see.
+Dialogue: 0,0:14:44.57,0:14:45.82,Class- Default,Cu,0,0,0,,I see!
+Dialogue: 0,0:14:45.82,0:14:47.60,Class- Default,Doctor,0,0,0,,Who {\i1}are{\i0} you people?!
+Dialogue: 0,0:14:47.60,0:14:49.38,Class- Default,Kassim,0,0,0,,Just shut up and do as we say!
+Dialogue: 0,0:14:49.38,0:14:52.78,Class- Default,Clay,0,0,0,,Sorry, there's a reason for all this, \Nso please play along!
+Dialogue: 0,0:14:52.78,0:14:53.49,Class- Default,Doctor,0,0,0,,What?
+Dialogue: 0,0:14:53.49,0:14:55.91,Class- Default,Leonard,0,0,0,,If this doesn't concern you, get out!
+Dialogue: 0,0:14:56.34,0:14:57.93,Class- Default,Kassim,0,0,0,,Get out!
+Dialogue: 0,0:14:58.04,0:14:59.21,Class- Default,Clay,0,0,0,,Get out!
+Dialogue: 0,0:14:59.78,0:15:01.70,Class- Default,Earnest,0,0,0,,You need to stay in here!
+Dialogue: 0,0:15:01.70,0:15:03.34,Class- Default,Blade,0,0,0,,Why? What's going on?
+Dialogue: 0,0:15:03.34,0:15:04.94,Class- Default,Earnest,0,0,0,,Can't you tell?!
+Dialogue: 0,0:15:04.94,0:15:06.71,Class- Default,Earnest,0,0,0,,They've taken our teacher hostage!
+Dialogue: 0,0:15:06.71,0:15:07.63,Class- Default,Blade,0,0,0,,Hostage?
+Dialogue: 0,0:15:07.63,0:15:09.13,Class- Default,Cu,0,0,0,,Hostage!
+Dialogue: 0,0:15:09.13,0:15:10.78,Class- Default,Kassim,0,0,0,,She's our hostage!
+Dialogue: 0,0:15:10.78,0:15:11.93,Class- Default,Clay,0,0,0,,Hostage!
+Dialogue: 0,0:15:11.93,0:15:15.88,Class- Default,Doctor,0,0,0,,Oh, no! Help me, Blade!
+Dialogue: 0,0:15:15.88,0:15:17.18,Class- Default,Doctor,0,0,0,,Blade!
+Dialogue: 0,0:15:17.29,0:15:18.77,Class- Default,Doctor,0,0,0,,Blade!
+Dialogue: 0,0:15:19.00,0:15:20.40,Class- Default,Doctor,0,0,0,,Blade!
+Dialogue: 0,0:15:20.40,0:15:22.27,Class- Default,Group,0,0,0,,{\i1}Huh? No fair.
+Dialogue: 0,0:15:22.27,0:15:23.62,Class- Default,Earnest,0,0,0,,You, there!
+Dialogue: 0,0:15:23.62,0:15:25.92,Class- Default,Earnest,0,0,0,,If you're going to take a hostage, \Nit should be me!
+Dialogue: 0,0:15:24.95,0:15:25.92,Class - Top,Yessica,0,0,0,,No, me!
+Dialogue: 0,0:15:25.92,0:15:26.89,Class- Default,Claire,0,0,0,,Me, too! Me, too!
+Dialogue: 0,0:15:26.89,0:15:28.07,Class- Default,Kassim,0,0,0,,H-Hey.
+Dialogue: 0,0:15:28.07,0:15:29.28,Class- Default,Clay,0,0,0,,Why did you come over here?!
+Dialogue: 0,0:15:29.28,0:15:31.54,Class- Default,Maria,0,0,0,,No fair, I want in, too!
+Dialogue: 0,0:15:31.54,0:15:34.51,Class- Default,Iona,0,0,0,,As a high-spec machine, I am \Nbest suited to be held hostage.
+Dialogue: 0,0:15:34.51,0:15:35.38,Class- Default,Iona,0,0,0,,My performance—
+Dialogue: 0,0:15:35.38,0:15:39.06,Class- Default,Eliza,0,0,0,,If we're talking high-spec, \Nit should be a genius like me!
+Dialogue: 0,0:15:39.06,0:15:41.79,Class- Default,Sophie,0,0,0,,I'm fine as long as Blade is happy.
+Dialogue: 0,0:15:41.79,0:15:43.90,Class- Default,Earnest,0,0,0,,Hey! You can't all come over here!
+Dialogue: 0,0:15:43.90,0:15:46.57,Class- Default,Maria,0,0,0,,You're the one who came over first!
+Dialogue: 0,0:15:45.46,0:15:46.57,Class - Top,Earnest,0,0,0,,Boo! Boo!
+Dialogue: 0,0:15:46.57,0:15:49.05,Class- Default,Claire,0,0,0,,I want Blade to save me, too!
+Dialogue: 0,0:15:49.05,0:15:51.63,Class- Default,Iona,0,0,0,,As a beloved, high-spec character, I am...
+Dialogue: 0,0:15:51.63,0:15:53.57,Class- Default,Eliza,0,0,0,,I was the one who proposed the idea!
+Dialogue: 0,0:15:53.57,0:15:57.06,Class- Default,Sophie,0,0,0,,I'm fine as long as Blade is happy.
+Dialogue: 0,0:15:55.16,0:15:57.06,Class - Top,Doctor,0,0,0,,Must be nice to be young.
+Dialogue: 0,0:15:57.06,0:15:57.97,Class- Default,Earnest,0,0,0,,Sophie!
+Dialogue: 0,0:15:57.97,0:16:00.38,Class- Default,Earnest,0,0,0,,If you're fine with it, \Nthen you get out of here!
+Dialogue: 0,0:15:59.33,0:16:01.84,Class - Top,Sophie,0,0,0,,I'm fine. I'm fine.
+Dialogue: 0,0:16:00.38,0:16:02.31,Class- Default,Maria,0,0,0,,It's not fair!
+Dialogue: 0,0:16:02.31,0:16:03.54,Class- Default,Yessica,0,0,0,,What the heck are we doing?
+Dialogue: 0,0:16:03.54,0:16:05.19,Class- Default,Eliza,0,0,0,,We might have a chance with this!
+Dialogue: 0,0:16:04.19,0:16:06.00,Class - Top,Claire,0,0,0,,Don't think about it too hard.
+Dialogue: 0,0:16:05.19,0:16:06.82,Class- Default,Iona,0,0,0,,Master, please give me a command.
+Dialogue: 0,0:16:07.59,0:16:09.83,Class- Default,Doctor,0,0,0,,You can all live up your youth without me.
+Dialogue: 0,0:16:09.83,0:16:11.32,Class- Default,Clay,0,0,0,,Ah, sure.
+Dialogue: 0,0:16:11.32,0:16:14.32,Class- Default,Earnest,0,0,0,,Oh, I've been taken hostage!
+Dialogue: 0,0:16:14.32,0:16:16.68,Class- Default,Earnest,0,0,0,,H-Help me!
+Dialogue: 0,0:16:15.33,0:16:16.68,Class - Top,Blade,0,0,0,,Hey, Cu.
+Dialogue: 0,0:16:16.68,0:16:18.31,Class- Default,Cu,0,0,0,,What is it, Parent?
+Dialogue: 0,0:16:18.31,0:16:20.92,Class- Default,Blade,0,0,0,,What do you think the word "hostage" means?
+Dialogue: 0,0:16:20.92,0:16:22.54,Class- Default,Cu,0,0,0,,Non-perishable food?
+Dialogue: 0,0:16:22.54,0:16:24.58,Class- Default,Blade,0,0,0,,Non-perishable food, huh?
+Dialogue: 0,0:16:24.98,0:16:27.97,Class - Top,Earnest,0,0,0,,Eek, help me!
+Dialogue: 0,0:16:24.98,0:16:31.19,Class- Default,Blade,0,0,0,,Those terrorists came here to accomplish \Ntheir political goals with violence, right?
+Dialogue: 0,0:16:27.97,0:16:31.19,Class - Top,Earnest,0,0,0,,Blade! Blade! Help me!
+Dialogue: 0,0:16:31.19,0:16:33.14,Class- Default,Cu,0,0,0,,Political!
+Dialogue: 0,0:16:31.19,0:16:33.14,Class - Top,Earnest,0,0,0,,Hurry!
+Dialogue: 0,0:16:33.14,0:16:34.59,Class - Top,Earnest,0,0,0,,I'm so scared!
+Dialogue: 0,0:16:33.14,0:16:37.68,Class- Default,Blade,0,0,0,,And they took the girls hostage, \Nto keep them as non-perishable food.
+Dialogue: 0,0:16:34.59,0:16:36.08,Class - Top,Earnest,0,0,0,,Huh? Blade?
+Dialogue: 0,0:16:36.08,0:16:37.68,Class - Top,Earnest,0,0,0,,Huh? What are you doing?
+Dialogue: 0,0:16:37.68,0:16:39.32,Class - Top,Earnest,0,0,0,,Blade, hurry!
+Dialogue: 0,0:16:37.68,0:16:39.32,Class- Default,Cu,0,0,0,,Exactly!
+Dialogue: 0,0:16:39.32,0:16:41.22,Class- Default,Cu,0,0,0,,You're so smart, Parent!
+Dialogue: 0,0:16:41.22,0:16:42.71,Class- Default,Blade,0,0,0,,I see.
+Dialogue: 0,0:16:42.71,0:16:44.06,Class- Default,Blade,0,0,0,,I don't get it at all.
+Dialogue: 0,0:16:44.06,0:16:45.31,Class- Default,Cu,0,0,0,,Don't get it at all!
+Dialogue: 0,0:16:45.75,0:16:47.48,Class- Default,Earnest,0,0,0,,You nincompoop!
+Dialogue: 0,0:16:47.48,0:16:48.31,Class- Default,Earnest,0,0,0,,Blockhead!
+Dialogue: 0,0:16:48.31,0:16:49.30,Class- Default,Earnest,0,0,0,,Big fat dumb idiot!
+Dialogue: 0,0:16:49.30,0:16:50.49,Class- Default,Earnest,0,0,0,,Superorganism!
+Dialogue: 0,0:16:50.49,0:16:52.65,Class- Default,Earnest,0,0,0,,Your precious Earnest is in trouble!
+Dialogue: 0,0:16:52.65,0:16:54.35,Class- Default,Earnest,0,0,0,,Take things a little more seriously!
+Dialogue: 0,0:16:54.35,0:16:56.42,Class- Default,Claire,0,0,0,,We're in trouble, too!
+Dialogue: 0,0:16:56.42,0:16:57.24,Class- Default,Maria,0,0,0,,Just look at us!
+Dialogue: 0,0:16:57.24,0:16:59.63,Class- Default,Iona,0,0,0,,My hands and feet and tentacles are tied.
+Dialogue: 0,0:16:58.36,0:17:00.64,Class - Top,Sophie,0,0,0,,Blade, are you happy?
+Dialogue: 0,0:16:59.63,0:17:01.77,Class- Default,Eliza,0,0,0,,I came up with this idea!
+Dialogue: 0,0:17:01.77,0:17:02.68,Class- Default,Yessica,0,0,0,,This is so funny!
+Dialogue: 0,0:17:02.68,0:17:04.25,Class- Default,Claire,0,0,0,,Let's be serious here!
+Dialogue: 0,0:17:04.25,0:17:06.75,Class- Default,Group,0,0,0,,Eek! Help us!
+Dialogue: 0,0:17:08.80,0:17:12.26,Class- Default,Blade,0,0,0,,Terrorists. Political. Violence.
+Dialogue: 0,0:17:13.41,0:17:16.01,Class- Default,Blade,0,0,0,,Hostages. Non-perishable food.
+Dialogue: 0,0:17:16.01,0:17:17.54,Class- Default,Blade,0,0,0,,I still don't get it.
+Dialogue: 0,0:17:17.54,0:17:18.64,Class- Default,Cu,0,0,0,,Don't get it!
+Dialogue: 0,0:17:18.64,0:17:20.48,Class- Default,Earnest,0,0,0,,Stop it with the non-perishable food!
+Dialogue: 0,0:17:20.48,0:17:22.79,Class- Default,Claire,0,0,0,,Are you okay with us being eaten?!
+Dialogue: 0,0:17:22.79,0:17:24.14,Class- Default,Iona,0,0,0,,I am a good source of iron.
+Dialogue: 0,0:17:24.14,0:17:26.52,Class- Default,Group,0,0,0,,Eek! Help us!
+Dialogue: 0,0:17:26.52,0:17:28.58,Class- Default,Clay,0,0,0,,H-Hurry up and surrender!
+Dialogue: 0,0:17:28.58,0:17:30.36,Class- Default,Blade,0,0,0,,Hey, can I ask you something?
+Dialogue: 0,0:17:30.36,0:17:31.79,Class- Default,Clay,0,0,0,,Wh-What?
+Dialogue: 0,0:17:31.79,0:17:33.54,Class- Default,Blade,0,0,0,,What have you been doing this whole time?
+Dialogue: 0,0:17:33.54,0:17:35.45,Class- Default,Blade,0,0,0,,Clay. Kassim. Leonard.
+Dialogue: 0,0:17:35.45,0:17:37.20,Class- Default,Group,0,0,0,,Wham bam boom!
+Dialogue: 0,0:17:37.54,0:17:38.45,Class- Default,Kassim,0,0,0,,You knew it was us?!
+Dialogue: 0,0:17:38.45,0:17:39.45,Class- Default,Clay,0,0,0,,Since when?
+Dialogue: 0,0:17:39.94,0:17:41.70,Class- Default,Blade,0,0,0,,Hm, from the start?
+Dialogue: 0,0:17:41.70,0:17:43.20,Class- Default,Leonard,0,0,0,,H-How?!
+Dialogue: 0,0:17:43.20,0:17:46.59,Class- Default,Blade,0,0,0,,I mean, you can tell from the way \Nyou walk and stuff, can't you?
+Dialogue: 0,0:17:46.59,0:17:47.71,Class- Default,Group,0,0,0,,Ah...
+Dialogue: 0,0:17:47.71,0:17:50.09,Class- Default,Kassim,0,0,0,,Damn it! Take a hint, \Nyou lousy superorganism!
+Dialogue: 0,0:17:50.09,0:17:52.21,Class- Default,Clay,0,0,0,,Damn it! This was so embarrassing!
+Dialogue: 0,0:17:52.21,0:17:54.21,Class- Default,Leonard,0,0,0,,So this is where it ends, huh?!
+Dialogue: 0,0:17:54.83,0:17:56.20,Class- Default,Blade,0,0,0,,See, told you.
+Dialogue: 0,0:17:56.20,0:17:57.35,Class- Default,Group,0,0,0,,Damn it!
+Dialogue: 0,0:17:57.35,0:18:01.17,Class- Default,Blade,0,0,0,,So? What were you planning to \Ndo by taking the girls hostage?
+Dialogue: 0,0:18:01.90,0:18:03.10,Class- Default,Clay,0,0,0,,We're still going?
+Dialogue: 0,0:18:03.65,0:18:06.23,Class- Default,Kassim,0,0,0,,Use them as non-perishable food, of course!
+Dialogue: 0,0:18:06.23,0:18:07.30,Class- Default,Earnest,0,0,0,,Really?!
+Dialogue: 0,0:18:07.30,0:18:08.98,Class- Default,Blade,0,0,0,,Won't you reconsider it?
+Dialogue: 0,0:18:08.98,0:18:10.78,Class- Default,Blade,0,0,0,,You shouldn't be eating your friends.
+Dialogue: 0,0:18:10.78,0:18:13.81,Class- Default,Claire,0,0,0,,Wait, is Operation Hostage working?
+Dialogue: 0,0:18:14.79,0:18:16.23,Class- Default,Kassim,0,0,0,,In that case...
+Dialogue: 0,0:18:16.23,0:18:17.37,Class- Default,Kassim,0,0,0,,These boobs...
+Dialogue: 0,0:18:17.37,0:18:18.60,Class- Default,Kassim,0,0,0,,and these boobs...
+Dialogue: 0,0:18:18.60,0:18:20.70,Class- Default,Kassim,0,0,0,,belong to me!
+Dialogue: 0,0:18:20.70,0:18:24.20,Class- Default,Earnest,0,0,0,,You should know when to stop!
+Dialogue: 0,0:18:27.75,0:18:29.28,Class- Default,Clay,0,0,0,,W-Well, Blade?
+Dialogue: 0,0:18:29.28,0:18:31.35,Class- Default,Clay,0,0,0,,Give up? Do you give up?!
+Dialogue: 0,0:18:31.35,0:18:32.21,Class- Default,Blade,0,0,0,,Why?
+Dialogue: 0,0:18:33.17,0:18:34.84,Class- Default,Clay,0,0,0,,Not giving up, huh?
+Dialogue: 0,0:18:36.93,0:18:40.02,Class- Default,Leonard,0,0,0,,We know that you're weak against hostages.
+Dialogue: 0,0:18:40.02,0:18:42.41,Class- Default,Leonard,0,0,0,,When you fought Iona,\N you couldn't lay a finger on her.
+Dialogue: 0,0:18:42.41,0:18:43.96,Class- Default,Leonard,0,0,0,,Come now, admit your defeat!
+Dialogue: 0,0:18:43.96,0:18:45.60,Class- Default,Cu,0,0,0,,Admit your defeat!
+Dialogue: 0,0:18:45.60,0:18:49.65,Class- Default,Blade,0,0,0,,That was true back then, \Nbut it won't work this time.
+Dialogue: 0,0:18:50.31,0:18:51.68,Class- Default,Leonard,0,0,0,,Putting up a bold front.
+Dialogue: 0,0:18:51.68,0:18:53.80,Class- Default,Leonard,0,0,0,,What can you possibly do here?
+Dialogue: 0,0:18:53.80,0:18:54.52,Class- Default,Leonard,0,0,0,,My lord!
+Dialogue: 0,0:18:55.58,0:18:56.84,Class- Default,Leonard,0,0,0,,If I may.
+Dialogue: 0,0:18:56.84,0:18:58.24,Class- Default,Earnest,0,0,0,,Please do.
+Dialogue: 0,0:18:59.57,0:19:01.65,Class- Default,Earnest,0,0,0,,Ah! Help me!
+Dialogue: 0,0:19:01.65,0:19:02.82,Class- Default,Earnest,0,0,0,,He's going to kill me!
+Dialogue: 0,0:19:04.39,0:19:08.79,Class- Default,Leonard,0,0,0,,If I can't have you to myself, \Nthen I'll be the one to...
+Dialogue: 0,0:19:08.79,0:19:09.93,Class- Default,Claire,0,0,0,,Leonard...
+Dialogue: 0,0:19:09.93,0:19:11.00,Class- Default,Claire,0,0,0,,His eyes are dead serious.
+Dialogue: 0,0:19:12.13,0:19:14.21,Class- Default,Clay,0,0,0,,Give up? Give up yet?!
+Dialogue: 0,0:19:14.21,0:19:15.53,Class- Default,Cu,0,0,0,,Give up yet?
+Dialogue: 0,0:19:15.53,0:19:17.00,Class- Default,Kassim,0,0,0,,Blade, what will you do?!
+Dialogue: 0,0:19:17.00,0:19:18.01,Class- Default,Cu,0,0,0,,What will you do?
+Dialogue: 0,0:19:18.62,0:19:20.50,Class- Default,Group,0,0,0,,What will you do?!
+Dialogue: 0,0:19:23.18,0:19:24.01,Class- Default,Blade,0,0,0,,I'll do this.
+Dialogue: 0,0:19:29.10,0:19:30.43,Class- Default,Earnest,0,0,0,,Huh?
+Dialogue: 0,0:19:30.43,0:19:31.19,Class- Default,Kassim,0,0,0,,Eh?
+Dialogue: 0,0:19:33.19,0:19:34.86,Class- Default,Blade,0,0,0,,There, disarmed.
+Dialogue: 0,0:19:34.86,0:19:36.56,Class- Default,Leonard,0,0,0,,Wh-What did you do?!
+Dialogue: 0,0:19:37.40,0:19:39.99,Class- Default,Blade,0,0,0,,I sliced up just your weapons \Nand armor with my slashes.
+Dialogue: 0,0:19:39.99,0:19:42.49,sign_28292_515_Penetrating_Forc,Sign,0,0,0,,Penetrating Force Demonstration Video
+Dialogue: 0,0:19:40.37,0:19:42.49,Class - Top,Blade,0,0,0,,It's an application of penetrating force.
+Dialogue: 0,0:19:42.49,0:19:44.27,Class- Default,Leonard,0,0,0,,M-My word!
+Dialogue: 0,0:19:44.27,0:19:46.49,Class- Default,Maria,0,0,0,,Th-That's completely absurd!
+Dialogue: 0,0:19:46.49,0:19:48.75,Class- Default,Earnest,0,0,0,,This damn superorganism!
+Dialogue: 0,0:19:49.54,0:19:51.21,Class- Default,Earnest,0,0,0,,Now that it's come to this...
+Dialogue: 0,0:19:52.01,0:19:53.21,Class- Default,Blade,0,0,0,,Now what?
+Dialogue: 0,0:19:59.96,0:20:02.02,Class- Default,Earnest,0,0,0,,We'll all attack him at once!
+Dialogue: 0,0:20:02.02,0:20:04.29,Class- Default,Blade,0,0,0,,Oh? Hm? Oh?!
+Dialogue: 0,0:20:07.79,0:20:09.93,Class- Default,Blade,0,0,0,,So what was all this, anyway?
+Dialogue: 0,0:20:10.67,0:20:13.19,Class- Default,Maria,0,0,0,,Pretending to be terrorists.
+Dialogue: 0,0:20:13.19,0:20:14.92,Class- Default,Blade,0,0,0,,I get it now!
+Dialogue: 0,0:20:14.92,0:20:16.73,Class- Default,Blade,0,0,0,,So this was all make-believe!
+Dialogue: 0,0:20:16.73,0:20:20.10,Class- Default,Blade,0,0,0,,This is my first time playing \Na make-believe game!
+Dialogue: 0,0:20:20.10,0:20:22.02,Class- Default,Blade,0,0,0,,Oh, did I do it right?
+Dialogue: 0,0:20:22.02,0:20:23.66,Class- Default,Blade,0,0,0,,I don't know all the rules!
+Dialogue: 0,0:20:23.66,0:20:25.78,Class- Default,Claire,0,0,0,,You did just fine.
+Dialogue: 0,0:20:25.78,0:20:27.25,Class- Default,Yessica,0,0,0,,Man, that's hilarious.
+Dialogue: 0,0:20:27.25,0:20:28.45,Class- Default,Maria,0,0,0,,I think I broke something.
+Dialogue: 0,0:20:28.45,0:20:29.68,Class- Default,Kassim,0,0,0,,I broke some bones.
+Dialogue: 0,0:20:29.68,0:20:30.50,Class- Default,Clay,0,0,0,,Me, too.
+Dialogue: 0,0:20:30.50,0:20:32.75,Class- Default,Iona,0,0,0,,Master, you are wonderful \Nwhen you show no mercy.
+Dialogue: 0,0:20:32.75,0:20:34.55,Class- Default,Eliza,0,0,0,,Looks like we didn't stand a chance.
+Dialogue: 0,0:20:34.55,0:20:36.61,Class- Default,Cu,0,0,0,,That's Parent for you!
+Dialogue: 0,0:20:36.61,0:20:39.16,Class- Default,Sophie,0,0,0,,I'm fine as long as Blade is happy.
+Dialogue: 0,0:20:39.16,0:20:41.13,Class- Default,Leonard,0,0,0,,I hate this, but...
+Dialogue: 0,0:20:42.56,0:20:45.89,Class- Default,Blade,0,0,0,,Terrorists, will you \Nshow up tomorrow as well?
+Dialogue: 0,0:20:45.89,0:20:47.39,Class- Default,Group,0,0,0,,No more!
+Dialogue: 0,0:20:53.89,0:20:56.65,Class- Default,Earnest,0,0,0,,I won't ever give up!
+Dialogue: 0,0:20:56.65,0:20:58.52,Class- Default,Leonard,0,0,0,,My lord!
+Dialogue: 0,0:21:00.32,0:21:01.59,Class - Top,Leonard,0,0,0,,Ladies and gentlemen!
+Dialogue: 0,0:21:00.90,0:21:05.66,sign_16073_246_Eighth_Superorga,Sign,0,0,0,,{\pos(321,299.048)}334th Superorganism Suppression Committee Session
+Dialogue: 0,0:21:01.59,0:21:04.03,Class - Top,Leonard,0,0,0,,Let us begin our 334th session!
+Dialogue: 0,0:21:04.03,0:21:05.66,Class - Top,Eliza,0,0,0,,We're still doing this?
+Dialogue: 0,0:21:05.66,0:21:07.11,Class- Default,Leonard,0,0,0,,Of course!
+Dialogue: 0,0:21:07.11,0:21:09.31,Class- Default,Leonard,0,0,0,,We are the Superorganism \NSuppression Committee!
+Dialogue: 0,0:21:09.31,0:21:12.91,Class- Default,Leonard,0,0,0,,Until we achieve our long-held dream,\N we will never give up!
+Dialogue: 0,0:21:13.66,0:21:15.11,Class- Default,Earnest,0,0,0,,Exactly!
+Dialogue: 0,0:21:15.11,0:21:16.89,Class- Default,Earnest,0,0,0,,I see you in a new light, Leonard.
+Dialogue: 0,0:21:17.83,0:21:19.47,Class- Default,Leonard,0,0,0,,If it's for my lord...
+Dialogue: 0,0:21:19.47,0:21:21.33,Class- Default,Yessica,0,0,0,,He sure has it rough.
+Dialogue: 0,0:21:21.33,0:21:24.67,Class- Default,Claire,0,0,0,,Does Anna not realize \NLeonard's feelings for her?
+Dialogue: 0,0:21:24.67,0:21:26.68,Class- Default,Maria,0,0,0,,Leonard, hang in there!
+Dialogue: 0,0:21:26.68,0:21:29.75,Class- Default,Eliza,0,0,0,,Um, can't we give it up?
+Dialogue: 0,0:21:29.75,0:21:32.42,Class- Default,Earnest,0,0,0,,No! This is our calling!
+Dialogue: 0,0:21:32.42,0:21:33.17,Class- Default,Leonard,0,0,0,,Indeed!
+Dialogue: 0,0:21:33.17,0:21:36.44,Class- Default,Leonard,0,0,0,,For man, as man alone,\N to surpass the superorganism!
+Dialogue: 0,0:21:37.34,0:21:38.40,Class- Default,Leonard,0,0,0,,Let's work hard together.
+Dialogue: 0,0:21:38.40,0:21:40.59,Class- Default,Earnest,0,0,0,,I'll make him say it for sure!
+Dialogue: 0,0:21:40.59,0:21:41.99,Class- Default,Earnest,0,0,0,,"Earnest, you're amazing!"
+Dialogue: 0,0:21:41.99,0:21:43.57,Class- Default,Earnest,0,0,0,,Prepare yourself, Blade!
+Dialogue: 0,0:21:42.51,0:21:43.57,Class - Top,Leonard,0,0,0,,Together...
+Dialogue: 0,0:21:43.57,0:21:46.00,Class- Default,Earnest,0,0,0,,I'll do all I can to make Blade cry!
+Dialogue: 0,0:21:46.00,0:21:50.35,Class- Default,Earnest,0,0,0,,And say, "Earnest, I give up! Boo-hoo!"
+Dialogue: 0,0:21:50.35,0:21:51.33,Class- Default,Leonard,0,0,0,,Boo-hoo...
+Dialogue: 0,0:21:51.59,0:21:54.38,Class- Default,Eliza,0,0,0,,The chairman looks like he's \Ngoing to burst into tears.
+Dialogue: 0,0:21:53.41,0:21:55.08,Class - Top,Yessica,0,0,0,,Boo-hoo...
+Dialogue: 0,0:21:55.08,0:21:56.58,Class- Default,Claire,0,0,0,,I feel so sorry for him.
+Dialogue: 0,0:21:56.58,0:21:59.11,Class- Default,Earnest,0,0,0,,Say uncle already, Blade!
+Dialogue: 0,0:21:59.11,0:21:59.96,Class- Default,Leonard,0,0,0,,Uncle!
+Dialogue: 0,0:21:59.96,0:22:01.63,Class- Default,Earnest,0,0,0,,Why are {\i1}you{\i0} saying it?!
+Dialogue: 0,0:22:01.63,0:22:03.92,Class- Default,Leonard,0,0,0,,Uncle!
+Dialogue: 0,0:22:18.60,0:22:23.66,OP_ED,Sign,0,0,0,,The sunny disposition that \Nbrings a smile to your face
+Dialogue: 0,0:22:23.66,0:22:29.41,OP_ED,Sign,0,0,0,,As well as the heroic sense of justice
+Dialogue: 0,0:22:29.41,0:22:34.58,OP_ED,Sign,0,0,0,,They may be a part of me, \Nbut that's not all there is
+Dialogue: 0,0:22:34.58,0:22:37.28,OP_ED,Sign,0,0,0,,That image of me
+Dialogue: 0,0:22:37.28,0:22:40.00,OP_ED,Sign,0,0,0,,Has taken on a life of its own
+Dialogue: 0,0:22:40.00,0:22:42.67,OP_ED,Sign,0,0,0,,Hey, wait up
+Dialogue: 0,0:22:42.67,0:22:45.09,OP_ED,Sign,0,0,0,,Won't you be friends with me?
+Dialogue: 0,0:22:45.09,0:22:49.78,OP_ED,Sign,0,0,0,,Let's shake hands, another self of mine
+Dialogue: 0,0:22:50.44,0:22:53.20,OP_ED,Sign,0,0,0,,The wounds we cannot bear alone
+Dialogue: 0,0:22:53.20,0:22:55.87,OP_ED,Sign,0,0,0,,The dangers that we keep hidden
+Dialogue: 0,0:22:55.87,0:22:58.54,OP_ED,Sign,0,0,0,,We're all hiding them within
+Dialogue: 0,0:22:58.54,0:23:01.53,OP_ED,Sign,0,0,0,,Standing ready to strike
+Dialogue: 0,0:23:01.53,0:23:03.96,OP_ED,Sign,0,0,0,,The shadow lurking beneath the light
+Dialogue: 0,0:23:03.96,0:23:08.24,OP_ED,Sign,0,0,0,,The muffled sounds coming from my lips
+Dialogue: 0,0:23:08.24,0:23:13.72,OP_ED,Sign,0,0,0,,They make me feel that I am alive
+Dialogue: 0,0:23:13.72,0:23:15.56,OP_ED,Sign,0,0,0,,It's a sign
+Dialogue: 0,0:23:34.47,0:23:39.93,sign_3812_25_Episode_1,Sign,0,0,0,,{\fad(485,1)\pos(432.576,122.289)}Next Time
+Dialogue: 0,0:23:35.26,0:23:39.93,sign_33933_594_I_m_Looking_for_,Sign,0,0,0,,{\fad(571,1)\pos(430.565,229.06)}I'm Looking for Something Tastier than Me

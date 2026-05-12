@@ -1,0 +1,494 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,20,0
+Style: Class- Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Class - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Class - Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Class - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Class - Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Class - Flashback  Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: sign_3055_13_Classroom_for_He,Trebuchet MS,27,&H00000100,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,2,0,1,0,0,2,145,145,20,1
+Style: sign_3812_25_Episode_1,Times New Roman,20,&H00620064,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,69,472,250,1
+Style: sign_3830_26_Earnest,Times New Roman,20,&H0064067E,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,170,390,136,1
+Style: sign_144_3_Jiggle___,Trebuchet MS,24,&H009CFCF9,&H000000FF,&H0028726B,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,272,272,20,1
+Style: sign_5673_87_The_General_and_,Times New Roman,20,&H0064067E,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,40,260,136,1
+Style: sign_11334_164_Aghhhh,Trebuchet MS,24,&H003B1F35,&H000000FF,&H0028726B,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,69,487,44,1
+Style: sign_15340_220_That_jerk,Trebuchet MS,18,&H003B1F35,&H000000FF,&H0028726B,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,526,30,27,1
+Style: sign_33936_458_The_Springtime_o,Times New Roman,20,&H0064067E,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0,195,136,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.36,0:00:05.00,Class- Default,Blade,0,0,0,,Hey, I'm totally stuffed now!
+Dialogue: 0,0:00:05.00,0:00:06.86,Class- Default,Blade,0,0,0,,What {\i1}was{\i0} that, anyway?
+Dialogue: 0,0:00:05.98,0:00:07.27,sign_144_3_Jiggle___,Sign,0,0,0,,{\fad(1,514)\frz41.32\move(165,95,94,41,26,1277)}{\blur0.5\fs22}Jiggle...
+Dialogue: 0,0:00:06.86,0:00:09.78,Class- Default,Blade,0,0,0,,That practically bucket-sized \Ndish we just had?
+Dialogue: 0,0:00:09.78,0:00:12.40,Class- Default,Cu,0,0,0,,It's bucket pudding!
+Dialogue: 0,0:00:12.40,0:00:14.66,Class- Default,Cu,0,0,0,,Woo-hoo! Woo-hoo!
+Dialogue: 0,0:00:14.66,0:00:16.88,Class - Top,Cu,0,0,0,,Woo-hoo! Woo-hoo!
+Dialogue: 0,0:00:14.66,0:00:16.88,Class- Default,Earnest,0,0,0,,You've still got room \Nfor more, right, Sophie?
+Dialogue: 0,0:00:16.88,0:00:18.36,Class- Default,Sophie,0,0,0,,I do, naturally.
+Dialogue: 0,0:00:18.36,0:00:20.28,Class- Default,Blade,0,0,0,,What do you mean, naturally?
+Dialogue: 0,0:00:22.58,0:00:23.29,Class- Default,Cu,0,0,0,,What's this?
+Dialogue: 0,0:00:24.00,0:00:26.29,Class- Default,Blade,0,0,0,,Oh, the cargo is stuck in here.
+Dialogue: 0,0:00:26.60,0:00:27.84,Class- Default,Earnest,0,0,0,,Excuse me...
+Dialogue: 0,0:00:27.84,0:00:29.60,Class- Default,Earnest,0,0,0,,Whose wagon is this?
+Dialogue: 0,0:00:29.60,0:00:32.46,Class- Default,Earnest,0,0,0,,If you can't pass through, \Nyou should take the main road.
+Dialogue: 0,0:00:32.46,0:00:33.97,Class- Default,Dione,0,0,0,,Oh, I'm terribly sorry!
+Dialogue: 0,0:00:35.43,0:00:37.24,Class- Default,Earnest,0,0,0,,You're a centaur!
+Dialogue: 0,0:00:37.24,0:00:38.36,Class- Default,Dione,0,0,0,,Indeed I am.
+Dialogue: 0,0:00:38.97,0:00:39.90,Class- Default,Dione,0,0,0,,My name is...
+Dialogue: 0,0:00:39.90,0:00:41.72,Class- Default,Blade,0,0,0,,Huh? Is that you, Dione?
+Dialogue: 0,0:00:41.99,0:00:43.98,Class- Default,Dione,0,0,0,,Oh! Great—
+Dialogue: 0,0:00:46.73,0:00:49.53,Class- Default,Blade,0,0,0,,The fact that I was the \NGreat Hero is a secret!
+Dialogue: 0,0:00:49.53,0:00:50.46,Class- Default,Blade,0,0,0,,Got it?!
+Dialogue: 0,0:00:51.84,0:00:53.12,Class- Default,Earnest,0,0,0,,Do you two know each other?
+Dialogue: 0,0:00:53.12,0:00:53.56,Class- Default,Blade,0,0,0,,Huh?
+Dialogue: 0,0:00:53.56,0:00:56.49,Class- Default,Blade,0,0,0,,Well, maybe we do, or maybe we don't...
+Dialogue: 0,0:00:56.49,0:00:57.74,Class- Default,Cu,0,0,0,,Which is it?
+Dialogue: 0,0:00:59.62,0:01:03.89,Class- Default,Dione,0,0,0,,Great— I mean, Blade and I go way back!
+Dialogue: 0,0:01:03.89,0:01:06.25,Class- Default,Dione,0,0,0,,Back when Blade was the Great— wait, no!
+Dialogue: 0,0:01:06.25,0:01:07.69,Class- Default,Blade,0,0,0,,More importantly!
+Dialogue: 0,0:01:07.69,0:01:09.13,Class- Default,Blade,0,0,0,,What are you gonna do about this cargo?
+Dialogue: 0,0:01:09.59,0:01:11.07,Class- Default,Earnest,0,0,0,,Oh, that's right.
+Dialogue: 0,0:01:11.07,0:01:13.75,Class- Default,Earnest,0,0,0,,If you'd like, we'd be happy to help out.
+Dialogue: 0,0:01:13.75,0:01:14.51,Class- Default,Sophie,0,0,0,,Yes.
+Dialogue: 0,0:01:14.80,0:01:16.40,Class- Default,Cu,0,0,0,,Leave it to me!
+Dialogue: 0,0:01:16.40,0:01:18.18,Class- Default,Cu,0,0,0,,We dragons are powerful!
+Dialogue: 0,0:01:18.86,0:01:20.43,Class- Default,Dione,0,0,0,,I would appreciate your help.
+Dialogue: 0,0:01:21.26,0:01:24.03,Class- Default,Dione,0,0,0,,Are you all members of Blade's party?
+Dialogue: 0,0:01:24.03,0:01:26.19,Class- Default,Blade,0,0,0,,No! They're my friends.
+Dialogue: 0,0:01:27.56,0:01:29.19,Class- Default,Dione,0,0,0,,I see.
+Dialogue: 0,0:01:29.92,0:01:32.32,Class- Default,Blade,0,0,0,,So? Where are we hauling this?
+Dialogue: 0,0:01:32.32,0:01:34.44,Class- Default,Dione,0,0,0,,Oh, yes. That'd be...
+Dialogue: 0,0:01:34.44,0:01:36.82,Class- Default,King,0,0,0,,Oh! Took you long enough!
+Dialogue: 0,0:01:37.43,0:01:39.52,Class- Default,Blade,0,0,0,,It was the old fart's cargo?
+Dialogue: 0,0:01:39.52,0:01:41.08,Class- Default,Earnest,0,0,0,,That's lèse-majesté, Blade.
+Dialogue: 0,0:01:41.40,0:01:42.87,Class- Default,Dione,0,0,0,,Your Majesty.
+Dialogue: 0,0:01:42.87,0:01:44.89,Class- Default,Dione,0,0,0,,I've brought it here, as per your command.
+Dialogue: 0,0:01:44.89,0:01:46.67,Class- Default,King,0,0,0,,Good going!
+Dialogue: 0,0:01:46.67,0:01:50.48,Class- Default,King,0,0,0,,On that note, I have your \Nnext assignment ready.
+Dialogue: 0,0:01:50.48,0:01:51.09,Class- Default,Dione,0,0,0,,Yes!
+Dialogue: 0,0:01:51.69,0:01:52.50,Class- Default,Dione,0,0,0,,As you wish!
+Dialogue: 0,0:01:52.50,0:01:53.76,Class- Default,King,0,0,0,,Okay!
+Dialogue: 0,0:01:53.76,0:01:57.72,Class- Default,King,0,0,0,,Starting today, you will be teaching at\N Rosewood Academy as an instructor.
+Dialogue: 0,0:01:57.72,0:01:59.14,Class- Default,Group,0,0,0,,What?!
+Dialogue: 0,0:01:59.14,0:02:01.78,Class- Default,Earnest,0,0,0,,That came out of nowhere!
+Dialogue: 0,0:02:01.78,0:02:04.85,Class- Default,King,0,0,0,,Blade is well aware of her abilities.
+Dialogue: 0,0:02:04.85,0:02:07.10,Class- Default,King,0,0,0,,She should be more than qualified \Nto act as your instructor.
+Dialogue: 0,0:02:07.10,0:02:08.64,Class- Default,Blade,0,0,0,,Well, yeah...
+Dialogue: 0,0:02:08.64,0:02:11.02,Class- Default,King,0,0,0,,Well, then, best of luck to you!
+Dialogue: 0,0:02:11.39,0:02:12.10,Class- Default,Dione,0,0,0,,Yes!
+Dialogue: 0,0:02:12.80,0:02:14.23,Class- Default,Dione,0,0,0,,I look forward to teaching you!
+Dialogue: 0,0:02:14.23,0:02:15.82,Class- Default,Dione,0,0,0,,Great— wait, no!
+Dialogue: 0,0:02:15.82,0:02:16.97,Class- Default,Dione,0,0,0,,Blade!
+Dialogue: 0,0:02:17.42,0:02:19.16,Class- Default,Blade,0,0,0,,Is this really gonna work?
+Dialogue: 0,0:02:21.38,0:02:23.02,Class- Default,Cu,0,0,0,,Hm...
+Dialogue: 0,0:02:30.21,0:02:34.22,OP_ED,Sign,0,0,0,,I look in your eyes, and I'm met with
+Dialogue: 0,0:02:34.22,0:02:38.77,OP_ED,Sign,0,0,0,,A brand-new me and dream
+Dialogue: 0,0:02:48.81,0:02:51.52,OP_ED,Sign,0,0,0,,Bravery? Naturally?
+Dialogue: 0,0:02:51.52,0:02:54.11,OP_ED,Sign,0,0,0,,Polar opposites within the heart
+Dialogue: 0,0:02:54.11,0:02:56.78,OP_ED,Sign,0,0,0,,But, you know, wanting to have both
+Dialogue: 0,0:02:56.78,0:02:59.41,OP_ED,Sign,0,0,0,,That's the saga of human nature
+Dialogue: 0,0:02:59.41,0:03:01.97,OP_ED,Sign,0,0,0,,Oh no, don't mind me
+Dialogue: 0,0:03:01.97,0:03:04.91,OP_ED,Sign,0,0,0,,Go ahead, and so on, you know the rest
+Dialogue: 0,0:03:04.91,0:03:07.17,OP_ED,Sign,0,0,0,,A little more? Wait, even harder?!
+Dialogue: 0,0:03:07.17,0:03:10.08,OP_ED,Sign,0,0,0,,Going overboard much?
+Dialogue: 0,0:03:10.08,0:03:12.09,OP_ED,Sign,0,0,0,,Those selfish emotions deep down
+Dialogue: 0,0:03:12.09,0:03:14.67,OP_ED,Sign,0,0,0,,Bringing them to light is \Nwhat friendship's about
+Dialogue: 0,0:03:14.67,0:03:17.68,OP_ED,Sign,0,0,0,,Spending adolescence duking it out with pals
+Dialogue: 0,0:03:17.68,0:03:20.93,OP_ED,Sign,0,0,0,,I don't wanna lose
+Dialogue: 0,0:03:21.35,0:03:24.23,OP_ED,Sign,0,0,0,,We're off to the cutting edge moment
+Dialogue: 0,0:03:24.23,0:03:28.06,OP_ED,Sign,0,0,0,,Fight with best friends, and leave no regrets
+Dialogue: 0,0:03:28.06,0:03:33.02,OP_ED,Sign,0,0,0,,You should laugh, since \Nyou look best with a smile
+Dialogue: 0,0:03:33.02,0:03:38.65,OP_ED,Sign,0,0,0,,On the ropes?! No matter \Nwhat we face, et cetera
+Dialogue: 0,0:03:38.65,0:03:41.66,OP_ED,Sign,0,0,0,,Just sit back and enjoy it
+Dialogue: 0,0:03:41.66,0:03:48.85,OP_ED,Sign,0,0,0,,Whatever may come, I'll \Nbe here to protect you
+Dialogue: 0,0:03:55.83,0:03:59.00,sign_3812_25_Episode_1,Sign,0,0,0,,{\fad(522,1)}Episode 6
+Dialogue: 0,0:03:56.59,0:03:59.00,sign_5673_87_The_General_and_,Sign,0,0,0,,{\pos(201,225)}{\fad(522,1)}The General and the Sacred Bird
+Dialogue: 0,0:04:02.29,0:04:03.68,Class- Default,Clay,0,0,0,,What's going on here?
+Dialogue: 0,0:04:03.68,0:04:06.22,Class- Default,Kassim,0,0,0,,Wait, who's that?
+Dialogue: 0,0:04:06.90,0:04:08.80,Class- Default,Sophie,0,0,0,,Is that God Iron?
+Dialogue: 0,0:04:08.80,0:04:09.72,Class- Default,Blade,0,0,0,,Sure is.
+Dialogue: 0,0:04:09.72,0:04:12.16,Class- Default,Blade,0,0,0,,Back in the day, we used boulders instead.
+Dialogue: 0,0:04:29.82,0:04:33.41,Class- Default,Sophie,0,0,0,,I thought God Iron was indestructible.
+Dialogue: 0,0:04:33.41,0:04:35.54,Class- Default,Blade,0,0,0,,Oh, is that what's normal?
+Dialogue: 0,0:04:36.10,0:04:38.85,Class- Default,Earnest,0,0,0,,It's not just destroyed, it's melting...
+Dialogue: 0,0:04:38.85,0:04:40.25,Class- Default,Kassim,0,0,0,,Wow...
+Dialogue: 0,0:04:51.89,0:04:54.32,Class- Default,Dione,0,0,0,,I'm finally feeling all warmed up!
+Dialogue: 0,0:04:54.32,0:04:56.10,Class- Default,Dione,0,0,0,,Okay, let's begin class!
+Dialogue: 0,0:04:58.35,0:05:00.10,Class- Default,Blade,0,0,0,,Introduce yourself first!
+Dialogue: 0,0:05:00.10,0:05:01.40,Class- Default,Dione,0,0,0,,You're right!
+Dialogue: 0,0:05:02.30,0:05:04.08,Class- Default,Dione,0,0,0,,I am Dione!
+Dialogue: 0,0:05:04.08,0:05:06.16,Class- Default,Dione,0,0,0,,Dione, the Demon Lance!
+Dialogue: 0,0:05:06.16,0:05:10.06,Class- Default,Dione,0,0,0,,If any of you feel confident enough, \Ntake up your sword and face me!
+Dialogue: 0,0:05:10.06,0:05:12.58,Class- Default,Blade,0,0,0,,Wait, you're not here to fight a duel!
+Dialogue: 0,0:05:12.58,0:05:15.05,Class- Default,Earnest,0,0,0,,Dione, the Demon Lance?
+Dialogue: 0,0:05:15.05,0:05:16.01,Class- Default,Earnest,0,0,0,,What?!
+Dialogue: 0,0:05:16.01,0:05:19.21,Class- Default,Earnest,0,0,0,,Are you General Dione,\N commander of the top cavalry corps?!
+Dialogue: 0,0:05:19.21,0:05:20.92,Class- Default,Group,0,0,0,,General?!
+Dialogue: 0,0:05:21.92,0:05:23.68,Class- Default,Clay,0,0,0,,A bonafide hero!
+Dialogue: 0,0:05:23.68,0:05:27.12,Class- Default,Maria,0,0,0,,Someone so accomplished is \Ngoing to be our teacher?
+Dialogue: 0,0:05:27.12,0:05:28.23,Class- Default,Dione,0,0,0,,Oh, no!
+Dialogue: 0,0:05:28.23,0:05:30.32,Class- Default,Dione,0,0,0,,Before the Great Hero, I'm not...
+Dialogue: 0,0:05:30.32,0:05:30.91,Class- Default,Dione,0,0,0,,Ah!
+Dialogue: 0,0:05:30.91,0:05:31.64,Class- Default,Blade,0,0,0,,Hey!
+Dialogue: 0,0:05:32.84,0:05:36.94,Class- Default,Earnest,0,0,0,,So, Miss Dione, you've had the privilege \Nof seeing the Great Hero fight in person!
+Dialogue: 0,0:05:37.29,0:05:40.61,Class- Default,Dione,0,0,0,,W-W-Well, that's all in the past...
+Dialogue: 0,0:05:40.61,0:05:44.84,Class- Default,Earnest,0,0,0,,But then how does someone \Nlike you know Blade?
+Dialogue: 0,0:05:46.53,0:05:49.93,Class- Default,Claire,0,0,0,,Do you think Miss Dione is \Nacquaintances with Blade?
+Dialogue: 0,0:05:49.93,0:05:51.07,Class- Default,Yessica,0,0,0,,Hm...
+Dialogue: 0,0:05:51.07,0:05:53.16,Class- Default,Yessica,0,0,0,,Consider me interested.
+Dialogue: 0,0:05:54.84,0:05:58.04,Class- Default,Cu,0,0,0,,Parent, that tickles!
+Dialogue: 0,0:05:58.04,0:06:00.03,Class- Default,Blade,0,0,0,,Stop squirming already!
+Dialogue: 0,0:06:01.65,0:06:03.39,Class- Default,Blade,0,0,0,,No weird noises!
+Dialogue: 0,0:06:07.73,0:06:12.51,Class- Default,Dione,0,0,0,,I always just bathe in cold water, \Nbut this is pretty good, too!
+Dialogue: 0,0:06:11.28,0:06:13.88,Class - Top,Yessica,0,0,0,,How's everything feel, Sis?
+Dialogue: 0,0:06:13.88,0:06:15.65,Class- Default,Claire,0,0,0,,Let's get that sweat wiped off.
+Dialogue: 0,0:06:15.65,0:06:17.89,Class- Default,Dione,0,0,0,,I'm in heaven!
+Dialogue: 0,0:06:17.89,0:06:22.61,Class- Default,Yessica,0,0,0,,Have you known Blade for a long time, Sis?
+Dialogue: 0,0:06:22.61,0:06:26.47,Class- Default,Dione,0,0,0,,I-I-I only met Blade the other day!
+Dialogue: 0,0:06:26.47,0:06:29.11,Class- Default,Earnest,0,0,0,,Back then, you said you two went way back.
+Dialogue: 0,0:06:29.11,0:06:31.21,Class- Default,Dione,0,0,0,,Th-That's, well...
+Dialogue: 0,0:06:31.21,0:06:32.52,Class- Default,Yessica,0,0,0,,Hey, Sis.
+Dialogue: 0,0:06:32.52,0:06:36.12,Class- Default,Yessica,0,0,0,,I'd love to hear you talk about \Nwhat Blade was like in the past.
+Dialogue: 0,0:06:36.12,0:06:38.75,Class- Default,Maria,0,0,0,,I'd be interested in that, too!
+Dialogue: 0,0:06:40.50,0:06:43.34,Class- Default,Yessica,0,0,0,,Please tell us, Sis!
+Dialogue: 0,0:06:43.34,0:06:44.74,Class- Default,Dione,0,0,0,,That's the spot!
+Dialogue: 0,0:06:44.74,0:06:46.63,Class- Default,Dione,0,0,0,,Keep going, right there!
+Dialogue: 0,0:06:48.31,0:06:49.66,Class- Default,Cu,0,0,0,,It feels good!
+Dialogue: 0,0:06:48.31,0:06:50.59,Class - Top,Yessica,0,0,0,,If you want it here...
+Dialogue: 0,0:06:52.89,0:06:53.72,Class- Default,Blade,0,0,0,,Hey!
+Dialogue: 0,0:06:53.72,0:06:57.65,Class- Default,Dione,0,0,0,,I-If it isn't the Great— I mean, Blade!
+Dialogue: 0,0:06:57.65,0:06:59.52,Class- Default,Yessica,0,0,0,,We were so close, too.
+Dialogue: 0,0:06:59.52,0:07:01.34,Class- Default,Earnest,0,0,0,,Hey, Blade!
+Dialogue: 0,0:07:01.34,0:07:03.77,Class- Default,Earnest,0,0,0,,Why are you in here like it's nothing?!
+Dialogue: 0,0:07:03.77,0:07:06.94,Class- Default,Blade,0,0,0,,Well, who else is going to wash Cu's hair?
+Dialogue: 0,0:07:06.94,0:07:08.30,Class- Default,Yessica,0,0,0,,Calm down, Anna.
+Dialogue: 0,0:07:08.30,0:07:11.72,Class- Default,Yessica,0,0,0,,Blade is mentally similar to \Na five-year-old, you know.
+Dialogue: 0,0:07:11.72,0:07:12.53,Class- Default,Yessica,0,0,0,,There!
+Dialogue: 0,0:07:13.01,0:07:14.03,Class- Default,Blade,0,0,0,,Huh?
+Dialogue: 0,0:07:14.03,0:07:15.26,Class- Default,Yessica,0,0,0,,See?
+Dialogue: 0,0:07:15.26,0:07:16.74,Class- Default,Earnest,0,0,0,,Don't give me that!
+Dialogue: 0,0:07:16.74,0:07:18.83,Class- Default,Earnest,0,0,0,,What are you doing, Yessica?!
+Dialogue: 0,0:07:19.58,0:07:21.88,Class- Default,Dione,0,0,0,,Five years old, you say...
+Dialogue: 0,0:07:21.88,0:07:25.57,Class- Default,Dione,0,0,0,,That's about how old Blade \Nwas when I first met him.
+Dialogue: 0,0:07:25.57,0:07:26.71,Class- Default,Blade,0,0,0,,Hey, Dione!
+Dialogue: 0,0:07:27.55,0:07:28.48,Class- Default,Mao,0,0,0,,Oh?
+Dialogue: 0,0:07:28.48,0:07:31.68,Class- Default,Mao,0,0,0,,When he was as old as I am now?
+Dialogue: 0,0:07:31.68,0:07:33.84,Class- Default,Mao,0,0,0,,I'd love to hear all about it.
+Dialogue: 0,0:07:36.93,0:07:39.84,Class- Default,Dione,0,0,0,,When I first met Blade...
+Dialogue: 0,0:07:39.84,0:07:44.43,Class- Default,Dione,0,0,0,,he was so ferocious,\NI thought he was a wild animal.
+Dialogue: 0,0:07:44.43,0:07:45.69,Class- Default,Earnest,0,0,0,,Huh...
+Dialogue: 0,0:07:46.92,0:07:51.20,Class- Default,Dione,0,0,0,,He could barely speak, and it \Nseems he thought I was a horse,
+Dialogue: 0,0:07:52.48,0:07:54.53,Class- Default,Dione,0,0,0,,so he sunk his teeth into my bottom.
+Dialogue: 0,0:07:52.70,0:07:54.53,sign_11334_164_Aghhhh,Sign,0,0,0,,{\b1\fs18\frz16.32\move(110,64,100,20,22,615)}{\blur0.5}Aghhhh
+Dialogue: 0,0:07:56.58,0:07:58.73,Class- Default,Dione,0,0,0,,I was still inexperienced back then,
+Dialogue: 0,0:07:58.73,0:08:01.22,Class- Default,Dione,0,0,0,,and I really was one step \Naway from becoming dinner.
+Dialogue: 0,0:08:01.22,0:08:03.50,Class- Default,Yessica,0,0,0,,Man, that's just like Blade.
+Dialogue: 0,0:08:04.13,0:08:08.38,Class- Default,Dione,0,0,0,,A few years after that,\Nafter training my mind and body,
+Dialogue: 0,0:08:08.38,0:08:11.71,Class- Default,Dione,0,0,0,,I became worthy of joining forces \Nwith the Great Hero himself!
+Dialogue: 0,0:08:11.71,0:08:16.24,Class- Default,Earnest,0,0,0,,So the rumors that you fought with \Nthe Great Hero are true, General?
+Dialogue: 0,0:08:16.24,0:08:17.76,Class- Default,Dione,0,0,0,,You betcha!
+Dialogue: 0,0:08:18.22,0:08:19.41,Class- Default,Sophie,0,0,0,,Relax.
+Dialogue: 0,0:08:19.41,0:08:21.98,Class- Default,Sophie,0,0,0,,No one can tell she's talking about you.
+Dialogue: 0,0:08:21.98,0:08:22.68,Class- Default,Blade,0,0,0,,Huh?
+Dialogue: 0,0:08:22.95,0:08:27.13,Class- Default,Dione,0,0,0,,I've even let the Great Hero ride on my back!
+Dialogue: 0,0:08:27.13,0:08:28.34,Class- Default,Earnest,0,0,0,,Whoa!
+Dialogue: 0,0:08:28.80,0:08:34.30,Class- Default,Dione,0,0,0,,However, he did not let me join him \Nfor the fight against the Demon King.
+Dialogue: 0,0:08:34.30,0:08:37.50,Class- Default,Dione,0,0,0,,I wasn't able to act as \Nhis steed to the very end.
+Dialogue: 0,0:08:39.69,0:08:43.41,Class- Default,Dione,0,0,0,,In self-reproach, I took it \Nas a sign of my own weakness,
+Dialogue: 0,0:08:44.09,0:08:46.50,Class- Default,Dione,0,0,0,,and now I strive to train myself further.
+Dialogue: 0,0:08:47.33,0:08:49.29,Class- Default,Earnest,0,0,0,,I think that's remarkable.
+Dialogue: 0,0:08:51.38,0:08:53.89,Class- Default,Blade,0,0,0,,Are you sure no one noticed?
+Dialogue: 0,0:08:53.89,0:08:54.96,Class- Default,Sophie,0,0,0,,Yes.
+Dialogue: 0,0:08:54.96,0:08:57.83,Class- Default,Sophie,0,0,0,,Everyone thinks the Great Hero is much older.
+Dialogue: 0,0:08:57.83,0:08:59.18,Class- Default,Blade,0,0,0,,Ah! Makes sense.
+Dialogue: 0,0:08:59.61,0:09:02.80,Class- Default,Sophie,0,0,0,,So it's our little secret.
+Dialogue: 0,0:09:02.80,0:09:04.69,Class- Default,Blade,0,0,0,,Well, you see...
+Dialogue: 0,0:09:06.77,0:09:08.81,Class- Default,Blade,0,0,0,,I was found out.
+Dialogue: 0,0:09:13.16,0:09:14.49,Class- Default,Blade,0,0,0,,Several days later!
+Dialogue: 0,0:09:15.46,0:09:18.12,Class- Default,Earnest,0,0,0,,What should we bring back as a gift for Sis?
+Dialogue: 0,0:09:18.91,0:09:19.98,Class- Default,Blade,0,0,0,,Cabbage, maybe?
+Dialogue: 0,0:09:19.98,0:09:21.24,Class- Default,Blade,0,0,0,,She eats them whole, you know.
+Dialogue: 0,0:09:24.56,0:09:25.92,Class- Default,Earnest,0,0,0,,Hey, Blade.
+Dialogue: 0,0:09:25.92,0:09:28.47,Class- Default,Earnest,0,0,0,,So, really, what is your \Nrelationship with her?
+Dialogue: 0,0:09:28.47,0:09:31.06,Class- Default,Blade,0,0,0,,Well, you see...
+Dialogue: 0,0:09:31.97,0:09:32.63,Class- Default,Earnest,0,0,0,,What?!
+Dialogue: 0,0:09:34.07,0:09:35.13,Class- Default,Earnest,0,0,0,,A simurgh?!
+Dialogue: 0,0:09:36.00,0:09:38.49,Class- Default,Blade,0,0,0,,What's a simurgh, again?
+Dialogue: 0,0:09:38.49,0:09:40.39,Class- Default,Earnest,0,0,0,,It's one of the four \NContinental Sacred Birds!
+Dialogue: 0,0:09:40.68,0:09:44.94,Class- Default,Blade,0,0,0,,Oh, so it's like a thunderbird, or a phoenix.
+Dialogue: 0,0:09:44.94,0:09:47.89,Class- Default,Earnest,0,0,0,,But what's a simurgh doing \Nhere in the royal capital?
+Dialogue: 0,0:09:48.27,0:09:53.09,Class- Default,Blade,0,0,0,,Well, I'm sure it won't attack us, \Nas long as we don't provoke it.
+Dialogue: 0,0:09:53.09,0:09:54.06,Class- Default,Earnest,0,0,0,,That's true.
+Dialogue: 0,0:09:54.06,0:09:56.70,Class- Default,Earnest,0,0,0,,There are no records of \Nthem attacking humans.
+Dialogue: 0,0:09:59.85,0:10:00.82,Class- Default,Blade,0,0,0,,Earnest!
+Dialogue: 0,0:10:01.29,0:10:02.33,Class- Default,Earnest,0,0,0,,Huh?
+Dialogue: 0,0:10:08.35,0:10:10.08,Class- Default,Earnest,0,0,0,,Oh, no! We need to stop it!
+Dialogue: 0,0:10:12.84,0:10:14.38,Class- Default,Blade,0,0,0,,Keep your fighting spirit in check!
+Dialogue: 0,0:10:14.38,0:10:15.51,Class- Default,Earnest,0,0,0,,Okay! Okay!
+Dialogue: 0,0:10:22.01,0:10:23.60,Class- Default,Earnest,0,0,0,,Two of them...
+Dialogue: 0,0:10:22.44,0:10:23.60,Class - Top,Man,0,0,0,,Are you okay?!
+Dialogue: 0,0:10:23.60,0:10:25.56,Class- Default,Earnest,0,0,0,,Are those two simurghs mates?
+Dialogue: 0,0:10:25.56,0:10:27.04,Class- Default,Earnest,0,0,0,,And why?
+Dialogue: 0,0:10:27.04,0:10:29.14,Class- Default,Earnest,0,0,0,,I thought they didn't attack people.
+Dialogue: 0,0:10:29.14,0:10:31.02,Class- Default,Blade,0,0,0,,It almost looked like...
+Dialogue: 0,0:10:31.02,0:10:33.21,Class- Default,Blade,0,0,0,,they were after that wagon, not people.
+Dialogue: 0,0:10:33.21,0:10:34.11,Class- Default,Earnest,0,0,0,,The wagon?
+Dialogue: 0,0:10:34.45,0:10:35.75,Class- Default,Earnest,0,0,0,,Could it be that...
+Dialogue: 0,0:10:36.74,0:10:39.78,Class- Default,Blade,0,0,0,,I bet that jerk's got \Nsomething to do with this.
+Dialogue: 0,0:10:39.78,0:10:42.53,sign_15340_220_That_jerk,Sign,0,0,0,,{\move(568,27,541,43,25,2736)}That jerk
+Dialogue: 0,0:10:42.53,0:10:44.79,sign_15340_220_That_jerk,Sign,0,0,0,,{\fs11\move(451,32,443,46,28,2239)}That\Njerk
+Dialogue: 0,0:10:44.79,0:10:46.91,sign_15340_220_That_jerk,Sign,0,0,0,,{\fs11\move(253,99,254,335,20,1906)}That\Njerk
+Dialogue: 0,0:10:52.14,0:10:55.00,Class- Default,Dione,0,0,0,,A warm bath is really something else!
+Dialogue: 0,0:10:56.75,0:11:00.26,Class- Default,Earnest,0,0,0,,Your Majesty! Your Majesty! Your Majesty!
+Dialogue: 0,0:11:00.26,0:11:01.76,Class- Default,Earnest,0,0,0,,Your Majesty!
+Dialogue: 0,0:11:01.76,0:11:03.30,Class- Default,Earnest,0,0,0,,We need to talk!
+Dialogue: 0,0:11:03.97,0:11:05.30,Class- Default,King,0,0,0,,What's the matter?
+Dialogue: 0,0:11:05.30,0:11:06.39,Class- Default,King,0,0,0,,You seem upset.
+Dialogue: 0,0:11:06.39,0:11:09.64,Class- Default,Earnest,0,0,0,,Exactly what have you been hiding from us?!
+Dialogue: 0,0:11:10.89,0:11:12.55,Class- Default,Blade,0,0,0,,So that doesn't count as lèse-majesté?
+Dialogue: 0,0:11:12.55,0:11:14.40,Class- Default,Earnest,0,0,0,,The town was under attack!
+Dialogue: 0,0:11:14.40,0:11:17.46,Class- Default,Earnest,0,0,0,,Please explain what's going on here!
+Dialogue: 0,0:11:18.12,0:11:20.45,Class- Default,King,0,0,0,,What makes you so sure it has to do with me?
+Dialogue: 0,0:11:20.88,0:11:23.53,Class- Default,Blade,0,0,0,,The simurgh attacked a freight wagon.
+Dialogue: 0,0:11:24.13,0:11:25.28,Class- Default,King,0,0,0,,I see.
+Dialogue: 0,0:11:25.59,0:11:28.43,Class- Default,Blade,0,0,0,,Dione also happened to be \Npulling a freight wagon.
+Dialogue: 0,0:11:28.43,0:11:29.57,Class- Default,King,0,0,0,,That's true.
+Dialogue: 0,0:11:29.57,0:11:30.59,Class- Default,Earnest,0,0,0,,Your Majesty!
+Dialogue: 0,0:11:30.59,0:11:33.04,Class- Default,Earnest,0,0,0,,Just what was in that freight wagon?!
+Dialogue: 0,0:11:33.36,0:11:34.34,Class- Default,King,0,0,0,,Oh, that?
+Dialogue: 0,0:11:34.79,0:11:35.67,Class- Default,King,0,0,0,,It was...
+Dialogue: 0,0:11:36.67,0:11:38.17,sign_15340_220_That_jerk,Sign,0,0,0,,{\pos(418,85)}Egg
+Dialogue: 0,0:11:36.67,0:11:38.17,Class- Default,King,0,0,0,,An egg.
+Dialogue: 0,0:11:40.55,0:11:43.26,Class- Default,Earnest,0,0,0,,You stole a simurgh egg?!
+Dialogue: 0,0:11:43.26,0:11:46.28,Class- Default,King,0,0,0,,Don't make such accusatory statements.
+Dialogue: 0,0:11:46.28,0:11:47.81,Class- Default,King,0,0,0,,I was just borrowing it for a bit.
+Dialogue: 0,0:11:48.60,0:11:52.44,Class- Default,Earnest,0,0,0,,Yeah, and the parents are \Nabsolutely furious as a result!
+Dialogue: 0,0:11:52.44,0:11:53.35,Class- Default,Siren,0,0,0,,Gil.
+Dialogue: 0,0:11:53.35,0:11:56.75,Class- Default,Siren,0,0,0,,Don't you think you should \Nthoroughly explain the situation?
+Dialogue: 0,0:11:56.75,0:11:59.03,Class- Default,King,0,0,0,,Yeah, guess so.
+Dialogue: 0,0:11:59.03,0:12:00.48,Class- Default,Earnest,0,0,0,,The situation?
+Dialogue: 0,0:12:00.48,0:12:01.28,Class- Default,King,0,0,0,,Yes.
+Dialogue: 0,0:12:01.28,0:12:05.78,Class- Default,King,0,0,0,,There are two conditions required \Nfor a simurgh egg to hatch.
+Dialogue: 0,0:12:06.87,0:12:11.40,Class- Default,King,0,0,0,,The first is keeping at the same height\N as the 10,000-year-old sacred tree.
+Dialogue: 0,0:12:12.35,0:12:16.59,Class- Default,King,0,0,0,,The second is to bathe in the light of the \Nsetting sun at the moment of hatching.
+Dialogue: 0,0:12:18.04,0:12:21.89,Class- Default,King,0,0,0,,However, it seems those parents \Nare new to making nests.
+Dialogue: 0,0:12:21.89,0:12:26.15,Class- Default,King,0,0,0,,They picked a poor location for a nest,\Nand the egg wouldn't have hatched if left alone.
+Dialogue: 0,0:12:26.15,0:12:28.31,Class- Default,Earnest,0,0,0,,So you were trying to help them?
+Dialogue: 0,0:12:30.27,0:12:32.02,Class- Default,King,0,0,0,,That's the pretext, anyway.
+Dialogue: 0,0:12:32.02,0:12:34.81,Class- Default,King,0,0,0,,Actually, I was thinking it would be\N good practical training for all of you.
+Dialogue: 0,0:12:34.81,0:12:36.69,Class- Default,Earnest,0,0,0,,A-Are you an idiot?
+Dialogue: 0,0:12:36.69,0:12:38.08,Class- Default,Earnest,0,0,0,,Are you an idiot?!
+Dialogue: 0,0:12:38.08,0:12:39.69,Class- Default,Blade,0,0,0,,Good, tell it like it is!
+Dialogue: 0,0:12:39.69,0:12:40.69,Class- Default,King,0,0,0,,That said!
+Dialogue: 0,0:12:41.32,0:12:44.75,Class- Default,King,0,0,0,,It's true that, at this rate, \Nthe egg will not hatch.
+Dialogue: 0,0:12:44.75,0:12:48.20,Class- Default,King,0,0,0,,If you want to be a hero... \Nno, what lies beyond...
+Dialogue: 0,0:12:48.20,0:12:50.08,Class- Default,King,0,0,0,,Go and save that simurgh!
+Dialogue: 0,0:12:50.08,0:12:51.79,Class- Default,Earnest,0,0,0,,When is it supposed to hatch?!
+Dialogue: 0,0:12:52.15,0:12:53.04,Class- Default,King,0,0,0,,Tomorrow!
+Dialogue: 0,0:12:53.04,0:12:55.65,Class- Default,Group,0,0,0,,What?!
+Dialogue: 0,0:12:57.68,0:12:59.04,Class- Default,Blade,0,0,0,,The next day!
+Dialogue: 0,0:12:59.78,0:13:01.55,Class- Default,Earnest,0,0,0,,Attention!
+Dialogue: 0,0:13:03.03,0:13:05.01,Class- Default,Earnest,0,0,0,,Listen up for this briefing \Nfrom your commander!
+Dialogue: 0,0:13:09.06,0:13:12.64,Class- Default,Blade,0,0,0,,Today, we face simurghs in combat!
+Dialogue: 0,0:13:13.13,0:13:15.88,Class- Default,Blade,0,0,0,,Our goal in this fight is not to win!
+Dialogue: 0,0:13:15.88,0:13:21.26,Class- Default,Blade,0,0,0,,It is to buy us time until sunset, \Nand to hide this egg from its parents!
+Dialogue: 0,0:13:22.15,0:13:24.72,Class- Default,Blade,0,0,0,,The parents are in a state of frenzy.
+Dialogue: 0,0:13:24.72,0:13:28.28,Class- Default,Blade,0,0,0,,If they spot the egg, they might \Ndestroy it in their fervor!
+Dialogue: 0,0:13:28.72,0:13:31.55,Class- Default,Blade,0,0,0,,We'll keep the egg concealed \Nuntil the very last minute,
+Dialogue: 0,0:13:31.55,0:13:35.41,Class- Default,Blade,0,0,0,,then lift it up via elevator \Nto the top of the tower!
+Dialogue: 0,0:13:35.41,0:13:38.16,Class- Default,Blade,0,0,0,,By doing so, the egg will successfully hatch!
+Dialogue: 0,0:13:38.16,0:13:39.88,Class- Default,Blade,0,0,0,,We'll make sure it hatches!
+Dialogue: 0,0:13:40.74,0:13:41.82,Class- Default,Blade,0,0,0,,Have no fear!
+Dialogue: 0,0:13:41.82,0:13:44.48,Class- Default,Blade,0,0,0,,Have faith in what we've \Naccomplished up to this point!
+Dialogue: 0,0:13:44.48,0:13:46.12,Class- Default,Blade,0,0,0,,Have faith in yourself!
+Dialogue: 0,0:13:46.12,0:13:47.43,Class- Default,Claire,0,0,0,,U-Um...
+Dialogue: 0,0:13:47.43,0:13:50.24,Class- Default,Claire,0,0,0,,What do we do if...
+Dialogue: 0,0:13:50.24,0:13:51.93,Class- Default,Maria,0,0,0,,...we can't have faith in ourselves?
+Dialogue: 0,0:13:52.69,0:13:55.93,Class- Default,Blade,0,0,0,,It's okay if you can't \Nhave faith in yourselves.
+Dialogue: 0,0:13:57.81,0:13:59.65,Class- Default,Blade,0,0,0,,I have faith in you.
+Dialogue: 0,0:14:00.53,0:14:01.57,Class- Default,Group,0,0,0,,Y-Yes!
+Dialogue: 0,0:14:02.14,0:14:04.57,Class- Default,Earnest,0,0,0,,Everyone! Here we go!
+Dialogue: 0,0:14:16.88,0:14:18.75,Class- Default,Leonard,0,0,0,,Are the citizens safe?
+Dialogue: 0,0:14:23.41,0:14:25.13,Class- Default,Clay,0,0,0,,We've evacuated everyone in this district!
+Dialogue: 0,0:14:25.45,0:14:27.01,Class- Default,Leonard,0,0,0,,That's a relief.
+Dialogue: 0,0:14:35.85,0:14:37.64,Class- Default,Yessica,0,0,0,,Look at you go, handsome!
+Dialogue: 0,0:14:45.81,0:14:47.29,Class- Default,Yessica,0,0,0,,Leonard!
+Dialogue: 0,0:14:47.29,0:14:48.19,Class- Default,Clay,0,0,0,,Yessica!
+Dialogue: 0,0:14:54.02,0:14:54.83,Class- Default,Yessica,0,0,0,,Clay!
+Dialogue: 0,0:14:57.51,0:14:58.71,Class- Default,Yessica,0,0,0,,Take that!
+Dialogue: 0,0:15:00.95,0:15:02.32,Class- Default,Yessica,0,0,0,,Shoot!
+Dialogue: 0,0:15:02.32,0:15:04.21,Class- Default,Yessica,0,0,0,,Figures that wouldn't work!
+Dialogue: 0,0:15:04.56,0:15:06.35,Class- Default,Blade,0,0,0,,Okay, now's our chance!
+Dialogue: 0,0:15:13.66,0:15:15.60,Class- Default,Eliza,0,0,0,,These wires are made of God Iron.
+Dialogue: 0,0:15:15.60,0:15:17.39,Class- Default,Eliza,0,0,0,,Normally, it'd be impossible to sever them!
+Dialogue: 0,0:15:17.76,0:15:18.77,Class- Default,Eliza,0,0,0,,Normally...
+Dialogue: 0,0:15:19.50,0:15:20.19,Class- Default,Eliza,0,0,0,,Eh?
+Dialogue: 0,0:15:20.90,0:15:21.56,Class- Default,Eliza,0,0,0,,Ehh?!
+Dialogue: 0,0:15:22.54,0:15:23.84,Class- Default,Eliza,0,0,0,,Ehhh?!
+Dialogue: 0,0:15:23.84,0:15:26.15,Class- Default,Eliza,0,0,0,,It's pulling up entire buildings?!
+Dialogue: 0,0:15:26.15,0:15:28.07,Class- Default,Eliza,0,0,0,,That's absurd!
+Dialogue: 0,0:15:29.51,0:15:31.49,Class- Default,Blade,0,0,0,,But that bought us some time.
+Dialogue: 0,0:15:32.22,0:15:33.70,Class- Default,Blade,0,0,0,,Keep it up!
+Dialogue: 0,0:15:34.88,0:15:36.53,Class- Default,Kassim,0,0,0,,Claire, take care of him!
+Dialogue: 0,0:15:36.53,0:15:37.45,Class- Default,Claire,0,0,0,,Yes!
+Dialogue: 0,0:15:43.67,0:15:46.17,Class- Default,Cu,0,0,0,,Have a taste of this!
+Dialogue: 0,0:15:49.80,0:15:50.94,Class- Default,Cu,0,0,0,,How's that?
+Dialogue: 0,0:15:50.94,0:15:52.13,Class- Default,Cu,0,0,0,,Give up?!
+Dialogue: 0,0:15:54.41,0:15:56.40,Class- Default,Cu,0,0,0,,It's pretty fearsome...
+Dialogue: 0,0:15:57.51,0:15:59.35,Class- Default,Blade,0,0,0,,Maria! Undo your braids!
+Dialogue: 0,0:15:59.65,0:16:01.73,Class- Default,Maria,0,0,0,,Y-Y-Yes!
+Dialogue: 0,0:16:04.62,0:16:06.48,Class- Default,Mao,0,0,0,,You would use the Demon King?
+Dialogue: 0,0:16:06.48,0:16:08.55,Class- Default,Mao,0,0,0,,Very well! Use me how you see fit!
+Dialogue: 0,0:16:08.55,0:16:10.17,Class- Default,Mao,0,0,0,,Satan Levin!
+Dialogue: 0,0:16:15.08,0:16:17.83,Class- Default,Mao,0,0,0,,So it won't pierce through a sacred bird?
+Dialogue: 0,0:16:18.14,0:16:19.41,Class- Default,Earnest,0,0,0,,You're not getting away!
+Dialogue: 0,0:16:20.00,0:16:21.71,Class- Default,Earnest,0,0,0,,Flame of Asmodeus!
+Dialogue: 0,0:16:27.49,0:16:29.21,Class- Default,Earnest,0,0,0,,All outta gas...
+Dialogue: 0,0:16:33.01,0:16:34.76,Class- Default,Earnest,0,0,0,,Bucket pudding!
+Dialogue: 0,0:16:34.76,0:16:36.39,sign_144_3_Jiggle___,Sign,0,0,0,,{\fad(1,813)\frz41.32\move(165,95,67,25,26,1610)}{\blur0.5\fs22}Jiggle...
+Dialogue: 0,0:16:39.68,0:16:41.52,Class- Default,Earnest,0,0,0,,Back in action!
+Dialogue: 0,0:16:43.58,0:16:44.77,Class- Default,Blade,0,0,0,,We did it!
+Dialogue: 0,0:16:45.17,0:16:46.45,Class- Default,Blade,0,0,0,,Is everyone okay?
+Dialogue: 0,0:16:46.45,0:16:48.34,Class- Default,Earnest,0,0,0,,Yes, we're fine.
+Dialogue: 0,0:16:48.34,0:16:49.65,Class- Default,Earnest,0,0,0,,All that's left is...
+Dialogue: 0,0:16:49.65,0:16:50.44,Class- Default,Group,0,0,0,,What?!
+Dialogue: 0,0:16:51.09,0:16:53.28,Class- Default,Blade,0,0,0,,Don't tell me... it stopped?
+Dialogue: 0,0:16:53.28,0:16:54.31,Class- Default,Sophie,0,0,0,,It sure did stop.
+Dialogue: 0,0:16:54.31,0:16:55.70,Class- Default,Earnest,0,0,0,,Yep, it stopped.
+Dialogue: 0,0:16:56.40,0:16:59.04,Class- Default,Kassim,0,0,0,,Oh, no! It noticed the egg!
+Dialogue: 0,0:16:59.04,0:17:01.01,Class- Default,Sophie,0,0,0,,Blade, you get the egg.
+Dialogue: 0,0:17:01.01,0:17:02.27,Class- Default,Blade,0,0,0,,Wait, but...
+Dialogue: 0,0:17:02.27,0:17:03.38,Class- Default,Clay,0,0,0,,That's right, Blade!
+Dialogue: 0,0:17:03.38,0:17:04.86,Class- Default,Clay,0,0,0,,We'll handle things here!
+Dialogue: 0,0:17:04.86,0:17:05.94,Class- Default,Clay,0,0,0,,You go on!
+Dialogue: 0,0:17:07.06,0:17:08.21,Class - Flashback,Hero,0,0,0,,Great Hero Blade!
+Dialogue: 0,0:17:08.21,0:17:09.70,Class - Flashback,Hero,0,0,0,,We'll handle them!
+Dialogue: 0,0:17:09.70,0:17:10.84,Class - Flashback,Hero,0,0,0,,You go on ahead!
+Dialogue: 0,0:17:13.34,0:17:14.25,Class- Default,Earnest,0,0,0,,Blade!
+Dialogue: 0,0:17:14.84,0:17:16.54,Class- Default,Earnest,0,0,0,,Remember what you said.
+Dialogue: 0,0:17:17.18,0:17:18.94,Class- Default,Earnest,0,0,0,,Have faith in us!
+Dialogue: 0,0:17:23.04,0:17:24.31,Class- Default,Blade,0,0,0,,You're right.
+Dialogue: 0,0:17:33.65,0:17:34.88,Class - Italics,Blade,0,0,0,,{\i1}This is terrifying!
+Dialogue: 0,0:17:34.88,0:17:38.13,Class - Italics,Blade,0,0,0,,{\i1}It's harder than I thought to \Nonly use 15% of my strength!
+Dialogue: 0,0:17:38.13,0:17:40.24,Class- Default,Dione,0,0,0,,Great Hero!
+Dialogue: 0,0:17:40.49,0:17:42.87,Class- Default,Dione,0,0,0,,Come, get on my back!
+Dialogue: 0,0:17:43.14,0:17:45.92,Class- Default,Blade,0,0,0,,What? I thought you weren't \Ngoing to help out!
+Dialogue: 0,0:17:45.92,0:17:46.69,Class- Default,Dione,0,0,0,,Nope!
+Dialogue: 0,0:17:46.69,0:17:49.60,Class- Default,Dione,0,0,0,,His Majesty gave strict \Norders not to lend a hand.
+Dialogue: 0,0:17:49.60,0:17:50.13,Class- Default,Dione,0,0,0,,However...
+Dialogue: 0,0:17:51.75,0:17:54.67,Class- Default,Dione,0,0,0,,I'm just letting you ride on my back.
+Dialogue: 0,0:17:54.67,0:17:56.45,Class- Default,Dione,0,0,0,,No hands involved!
+Dialogue: 0,0:18:01.53,0:18:06.27,Class- Default,Blade,0,0,0,,I was told just now to let them \Nhandle it, and go on ahead.
+Dialogue: 0,0:18:07.28,0:18:09.79,Class- Default,Blade,0,0,0,,It reminded me of back then,\N in a lot of ways.
+Dialogue: 0,0:18:10.91,0:18:14.53,Class- Default,Dione,0,0,0,,You're not alone anymore, \Nare you, Great Hero?
+Dialogue: 0,0:18:15.71,0:18:16.93,Class- Default,Blade,0,0,0,,No, I'm not.
+Dialogue: 0,0:18:16.93,0:18:19.62,Class- Default,Blade,0,0,0,,It was just me when I fought the Demon King.
+Dialogue: 0,0:18:20.55,0:18:23.91,Class- Default,Blade,0,0,0,,But now, I have lots of friends!
+Dialogue: 0,0:18:25.83,0:18:29.01,Class- Default,Blade,0,0,0,,And of course, you're one of them, Dione!
+Dialogue: 0,0:18:29.01,0:18:29.82,Class- Default,Dione,0,0,0,,Yes!
+Dialogue: 0,0:18:32.21,0:18:34.67,Class- Default,Claire,0,0,0,,We need to carry this?
+Dialogue: 0,0:18:37.32,0:18:38.36,Class- Default,Blade,0,0,0,,No way!
+Dialogue: 0,0:18:38.36,0:18:39.44,Class- Default,Blade,0,0,0,,Ain't happening!
+Dialogue: 0,0:18:40.08,0:18:41.89,Class- Default,Dione,0,0,0,,Hm, let me think...
+Dialogue: 0,0:18:42.78,0:18:43.87,Class- Default,Dione,0,0,0,,Great Hero!
+Dialogue: 0,0:18:43.87,0:18:46.48,Class- Default,Dione,0,0,0,,Hold onto it nice and tight, just like that!
+Dialogue: 0,0:18:48.15,0:18:49.97,Class- Default,Blade,0,0,0,,Dione, what are you doing?!
+Dialogue: 0,0:18:49.97,0:18:52.88,Class- Default,Dione,0,0,0,,I'm just giving you a push!
+Dialogue: 0,0:18:52.88,0:18:55.11,Class- Default,Dione,0,0,0,,Here we go, Great Hero!
+Dialogue: 0,0:18:55.11,0:18:56.48,Class- Default,Blade,0,0,0,,H-Hey! Dione!
+Dialogue: 0,0:19:01.66,0:19:02.62,Class- Default,Blade,0,0,0,,We made it!
+Dialogue: 0,0:19:03.68,0:19:05.49,Class- Default,Dione,0,0,0,,Good work.
+Dialogue: 0,0:19:05.49,0:19:07.31,Class- Default,King,0,0,0,,Welcome to the finish line!
+Dialogue: 0,0:19:07.31,0:19:09.56,Class- Default,King,0,0,0,,I knew you'd be able to do it!
+Dialogue: 0,0:19:09.56,0:19:12.50,Class- Default,King,0,0,0,,After all, you are the Great Hero!
+Dialogue: 0,0:19:12.50,0:19:14.63,Class- Default,Blade,0,0,0,,I'm not a hero anymore!
+Dialogue: 0,0:19:14.63,0:19:16.94,Class- Default,Blade,0,0,0,,I only made it thanks to everyone's help.
+Dialogue: 0,0:19:18.65,0:19:19.66,Class- Default,Blade,0,0,0,,Hey, wait!
+Dialogue: 0,0:19:19.66,0:19:21.26,Class- Default,Blade,0,0,0,,It's the other simurgh!
+Dialogue: 0,0:19:21.26,0:19:22.27,Class- Default,King,0,0,0,,Yep.
+Dialogue: 0,0:19:22.27,0:19:24.50,Class- Default,King,0,0,0,,Looks like it's my time to shine now.
+Dialogue: 0,0:19:24.50,0:19:25.01,Class- Default,Blade,0,0,0,,What?
+Dialogue: 0,0:19:25.01,0:19:28.86,Class- Default,King,0,0,0,,I, Gilgamesh Soulmaker, \Ndeclare here in my name!
+Dialogue: 0,0:19:28.86,0:19:32.06,Class- Default,King,0,0,0,,A life owed shall be repaid by new life!
+Dialogue: 0,0:19:32.06,0:19:34.77,Class- Default,King,0,0,0,,I'll be paying you back, right here!
+Dialogue: 0,0:19:35.71,0:19:40.40,Class- Default,Siren,0,0,0,,A simurgh once saved Gil's life.
+Dialogue: 0,0:19:40.40,0:19:41.02,Class- Default,Blade,0,0,0,,Huh?
+Dialogue: 0,0:19:40.65,0:19:42.57,Class - Top,King,0,0,0,,Come, simurgh.
+Dialogue: 0,0:19:41.02,0:19:44.08,Class- Default,Siren,0,0,0,,It's been playing on his \Nmind this whole time.
+Dialogue: 0,0:19:42.57,0:19:48.24,Class - Top,King,0,0,0,,Accept my gratitude and take \Nthis new life into your talons!
+Dialogue: 0,0:19:44.08,0:19:47.41,Class- Default,Siren,0,0,0,,But thanks to you, \Nhe can finally repay his debt.
+Dialogue: 0,0:19:48.24,0:19:50.29,Class- Default,Siren,0,0,0,,Thank you, Blade.
+Dialogue: 0,0:19:52.54,0:19:54.08,Class- Default,Blade,0,0,0,,Seriously?!
+Dialogue: 0,0:19:52.92,0:19:54.08,Class - Top,King,0,0,0,,Ow!
+Dialogue: 0,0:19:54.08,0:19:56.19,Class- Default,Blade,0,0,0,,You should have just told us from the start!
+Dialogue: 0,0:19:54.80,0:19:56.19,Class - Top,King,0,0,0,,That hurts!
+Dialogue: 0,0:19:56.19,0:19:58.42,Class- Default,Blade,0,0,0,,Sheesh, you just can't be honest!
+Dialogue: 0,0:19:57.06,0:19:58.42,Class - Top,King,0,0,0,,Stop that! Ow!
+Dialogue: 0,0:20:00.13,0:20:03.39,Class- Default,Blade,0,0,0,,Wait, does it look angrier now?
+Dialogue: 0,0:20:03.39,0:20:04.64,Class- Default,Siren,0,0,0,,It seems that way.
+Dialogue: 0,0:20:12.69,0:20:13.77,Class- Default,Blade,0,0,0,,Watch out!
+Dialogue: 0,0:20:17.43,0:20:19.41,Class- Default,Sophie,0,0,0,,Artificial Great Hero Power.
+Dialogue: 0,0:20:19.41,0:20:20.49,Class- Default,Sophie,0,0,0,,Five seconds remaining.
+Dialogue: 0,0:20:20.81,0:20:21.61,Class- Default,Blade,0,0,0,,That's more than enough!
+Dialogue: 0,0:20:22.09,0:20:24.95,Class- Default,Blade,0,0,0,,Dragon Eater!
+Dialogue: 0,0:20:37.09,0:20:39.55,Class- Default,Blade,0,0,0,,I can't move a finger...
+Dialogue: 0,0:20:41.84,0:20:43.13,Class- Default,Blade,0,0,0,,So heavy...
+Dialogue: 0,0:20:43.48,0:20:46.02,Class- Default,Sophie,0,0,0,,I'm lighter than Earnest, at least.
+Dialogue: 0,0:20:50.90,0:20:53.10,Class- Default,Dione,0,0,0,,Blade! The egg!
+Dialogue: 0,0:20:59.48,0:21:00.40,Class- Default,Dione,0,0,0,,Oh dear!
+Dialogue: 0,0:21:02.55,0:21:04.45,Class- Default,Blade,0,0,0,,It was twins!
+Dialogue: 0,0:21:04.72,0:21:06.95,Class- Default,Blade,0,0,0,,No wonder it was so heavy.
+Dialogue: 0,0:21:07.56,0:21:08.03,Class- Default,Blade,0,0,0,,Huh?
+Dialogue: 0,0:21:09.05,0:21:11.37,Class- Default,Blade,0,0,0,,Why are they staring at me?
+Dialogue: 0,0:21:11.84,0:21:14.16,Class- Default,Sophie,0,0,0,,They're imprinting.
+Dialogue: 0,0:21:15.28,0:21:17.96,Class- Default,Sophie,0,0,0,,They see Blade as their parent.
+Dialogue: 0,0:21:17.96,0:21:20.98,Class- Default,Earnest,0,0,0,,Ah! You've got more children now!
+Dialogue: 0,0:21:20.98,0:21:22.03,Class- Default,Earnest,0,0,0,,What are you gonna do about this?!
+Dialogue: 0,0:21:22.03,0:21:24.17,Class- Default,Cu,0,0,0,,Call me your big sister!
+Dialogue: 0,0:21:24.17,0:21:27.09,Class- Default,Earnest,0,0,0,,Wait, why are you getting \Ntouchy with Sophie?!
+Dialogue: 0,0:21:27.09,0:21:29.60,Class- Default,Blade,0,0,0,,Now then, what to do...
+Dialogue: 0,0:21:30.88,0:21:32.57,Class- Default,Blade,0,0,0,,Several days later!
+Dialogue: 0,0:21:33.17,0:21:34.35,Class- Default,Earnest,0,0,0,,H-Hey now!
+Dialogue: 0,0:21:34.35,0:21:36.55,Class- Default,Earnest,0,0,0,,Please, do as I say!
+Dialogue: 0,0:21:36.55,0:21:37.53,Class- Default,Earnest,0,0,0,,Okay? Okay?!
+Dialogue: 0,0:21:38.65,0:21:40.58,Class- Default,Blade,0,0,0,,Let it fly however it wants!
+Dialogue: 0,0:21:40.58,0:21:42.11,Class- Default,Earnest,0,0,0,,I-I know that!
+Dialogue: 0,0:21:42.11,0:21:43.38,Class- Default,Earnest,0,0,0,,I know...
+Dialogue: 0,0:21:50.88,0:21:52.50,Class- Default,Cu,0,0,0,,Parent!
+Dialogue: 0,0:21:55.20,0:21:59.17,Class- Default,Blade,0,0,0,,Man, looks like I've made even more friends!
+Dialogue: 0,0:22:18.69,0:22:23.75,OP_ED,Sign,0,0,0,,{\an8}The sunny disposition that \Nbrings a smile to your face
+Dialogue: 0,0:22:23.75,0:22:29.50,OP_ED,Sign,0,0,0,,{\an8}As well as the heroic sense of justice
+Dialogue: 0,0:22:29.50,0:22:34.67,OP_ED,Sign,0,0,0,,{\an8}They may be a part of me, \Nbut that's not all there is
+Dialogue: 0,0:22:34.67,0:22:37.37,OP_ED,Sign,0,0,0,,{\an8}That image of me
+Dialogue: 0,0:22:37.37,0:22:40.09,OP_ED,Sign,0,0,0,,{\an8}Has taken on a life of its own
+Dialogue: 0,0:22:40.09,0:22:42.76,OP_ED,Sign,0,0,0,,{\an8}Hey, wait up
+Dialogue: 0,0:22:42.76,0:22:45.18,OP_ED,Sign,0,0,0,,{\an8}Won't you be friends with me?
+Dialogue: 0,0:22:45.18,0:22:49.87,OP_ED,Sign,0,0,0,,{\an8}Let's shake hands, another self of mine
+Dialogue: 0,0:22:50.53,0:22:53.29,OP_ED,Sign,0,0,0,,{\an8}The wounds we cannot bear alone
+Dialogue: 0,0:22:53.29,0:22:55.96,OP_ED,Sign,0,0,0,,{\an8}The dangers that we keep hidden
+Dialogue: 0,0:22:55.96,0:22:58.63,OP_ED,Sign,0,0,0,,{\an8}We're all hiding them within
+Dialogue: 0,0:22:58.63,0:23:01.62,OP_ED,Sign,0,0,0,,{\an8}Standing ready to strike
+Dialogue: 0,0:23:01.62,0:23:04.05,OP_ED,Sign,0,0,0,,{\an8}The shadow lurking beneath the light
+Dialogue: 0,0:23:04.05,0:23:08.33,OP_ED,Sign,0,0,0,,{\an8}The muffled sounds coming from my lips
+Dialogue: 0,0:23:08.33,0:23:13.81,OP_ED,Sign,0,0,0,,{\an8}They make me feel that I am alive
+Dialogue: 0,0:23:13.81,0:23:15.65,OP_ED,Sign,0,0,0,,{\an8}It's a sign
+Dialogue: 0,0:23:34.55,0:23:40.02,sign_3812_25_Episode_1,Sign,0,0,0,,{\pos(435,122)}{\fad(522,1)}Next Time
+Dialogue: 0,0:23:35.39,0:23:40.02,sign_33936_458_The_Springtime_o,Sign,0,0,0,,{\pos(439,228)}{\fad(522,1)}The Springtime of Life at Rosewood Academy
