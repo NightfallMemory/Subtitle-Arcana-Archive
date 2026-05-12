@@ -1,0 +1,345 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Main - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.54,0:00:01.82,Default,Julius,0,0,0,,Which is why...
+Dialogue: 0,0:00:01.82,0:00:05.17,Default,Julius,0,0,0,,I've decided to sell you\Nto our neighbors in Parnacorta!
+Dialogue: 0,0:00:07.04,0:00:09.57,Default,Philia,0,0,0,,{\i1}I really have been thrown out.
+Dialogue: 0,0:00:12.11,0:00:15.02,Default,Knights,0,0,0,,Saint Philia has arrived!
+Dialogue: 0,0:00:25.99,0:00:26.96,Default,Osvalt,0,0,0,,Welcome...
+Dialogue: 0,0:00:36.81,0:00:38.23,Default,Osvalt,0,0,0,,to Parnacorta.
+Dialogue: 0,0:00:51.11,0:00:52.27,Default,Philia,0,0,0,,{\i1}I see now.
+Dialogue: 0,0:00:52.72,0:00:55.23,Default,Philia,0,0,0,,{\i1}They paid a lot of money for me.
+Dialogue: 0,0:00:55.23,0:00:57.57,Default,Philia,0,0,0,,{\i1}Of course they're handling me with care.
+Dialogue: 0,0:00:58.54,0:01:01.99,Default,Philia,0,0,0,,{\i1}I'm sure my church duties will commence\Nthe moment we arrive in the capital.
+Dialogue: 0,0:01:01.99,0:01:05.01,Main - Top,Philia,0,0,0,,{\i1}This might be my last chance to rest.
+Dialogue: 0,0:01:01.99,0:01:05.50,Default,sign,0,0,0,,{\fnArial\fs18\shad0\b1\pos(320,298.626)\c&H29282A&\3c&HF5F5F5&}Capital City of Almburg, Parnacorta Kingdom
+Dialogue: 0,0:01:08.63,0:01:10.00,Default,sign,0,0,0,,{\an9\fnArial\b1\fs18\shad0\c&H262625&\3c&HF5F8F5&\pos(463.311,31.592)}Saint Philia's\NWelcome Party Venue
+Dialogue: 0,0:01:13.01,0:01:16.01,Default,sign,0,0,0,,{\an7\fnArial\b1\fs12\shad0\c&H212422&\3c&HF5F8F5&\pos(63.999,172.409)}Welcome! So, so, {\i1}so{\i0} happy to have you,\NSaint Philia!
+Dialogue: 0,0:01:17.62,0:01:19.15,Default,Bjorn,0,0,0,,Saint Philia!
+Dialogue: 0,0:01:20.25,0:01:23.52,Default,Bjorn,0,0,0,,Thank you for coming all this way!
+Dialogue: 0,0:01:23.52,0:01:27.25,Default,Bjorn,0,0,0,,I am Bjorn, the head of the church here.
+Dialogue: 0,0:01:27.25,0:01:31.44,Default,Bjorn,0,0,0,,We are truly, {\i1}truly{\i0} happy to have you!
+Dialogue: 0,0:01:32.36,0:01:35.17,Default,Bjorn,0,0,0,,You have our deepest gratitude\N for joining us.
+Dialogue: 0,0:01:35.17,0:01:38.32,Default,Bjorn,0,0,0,,We welcome you with all our hearts!
+Dialogue: 0,0:01:38.32,0:01:39.78,Default,Novices,0,0,0,,Welcome!
+Dialogue: 0,0:01:41.40,0:01:44.79,Default,Philia,0,0,0,,Er... what are my duties today?
+Dialogue: 0,0:01:44.79,0:01:47.04,Default,Bjorn,0,0,0,,Needless to say, your duty...
+Dialogue: 0,0:01:47.85,0:01:50.71,Default,Bjorn,0,0,0,,to enjoy your welcome party!
+Dialogue: 0,0:01:50.71,0:01:52.85,Default,Novice 1,0,0,0,,Please, do help yourself!
+Dialogue: 0,0:01:52.85,0:01:55.13,Default,Novice 2,0,0,0,,Have some of these too, Saint Philia!
+Dialogue: 0,0:01:57.45,0:02:00.14,Default,Philia,0,0,0,,Ah... Thank you.
+Dialogue: 0,0:02:20.34,0:02:24.89,Default,Sign,0,0,0,,{\fad(710,1)\blur4\t(1,710,\blur0)\an8\fnGeorgia\b1\fs18\shad0\bord0\c&HDA8FA9&}The Too-Perfect Saint: Tossed Aside\Nby My Fiancé and Sold to Another Kingdom
+Dialogue: 1,0:02:22.89,0:02:24.89,Default,Sign,0,0,0,,{\fad(960,1)\an8\fnGeorgia\b1\fs18\shad0\bord0\c&H884FD9&\3c&HFCFEFE&}The Too-Perfect Saint{\c&H9B9999&}: {\c&HDEC58D&}Tossed {\c&HDDBF93&}Aside\N{\c&HE2B99A&}by {\c&HC8ACAD&}My {\c&HDDB3B4&}Fiancé {\c&HDCBAC3&}and {\c&HD79BB3&}Sold {\c&HCEA8CE&}to {\c&HD4A8D5&}Another {\c&HC3A8E2&}Kingdom
+Dialogue: 1,0:03:31.73,0:03:40.01,Default,sign,0,0,0,,{\fad(690,1)\shad1\bord0\fnGeorgia\fs10\c&HF9F8FA&\3c&H4E4E4E&\4c&H252526&\pos(507,291)}Episode 2\N{\fs12}"Welcome to {\fs12\c&H635CF4&}Parnacorta{\fs10\c&HFBFFFF&\4c&H6A6763&}"
+Dialogue: 0,0:03:35.33,0:03:39.99,Main - Top,Philia,0,0,0,,{\i1}I always end up a \Nwallflower at these things.
+Dialogue: 0,0:03:44.35,0:03:45.65,Default,Philia,0,0,0,,{\i1}It's good.
+Dialogue: 0,0:03:45.65,0:03:46.46,Default,Osvalt,0,0,0,,Hey!
+Dialogue: 0,0:03:47.57,0:03:49.27,Default,Osvalt,0,0,0,,How do you like the salad?
+Dialogue: 0,0:03:49.27,0:03:50.29,Default,Osvalt,0,0,0,,Delicious, right?
+Dialogue: 0,0:03:52.56,0:03:53.79,Default,Philia,0,0,0,,{\i1}This man...
+Dialogue: 0,0:03:54.42,0:03:56.73,Default,Philia,0,0,0,,{\i1}He was leading my escort.
+Dialogue: 0,0:03:56.73,0:03:59.34,Default,Osvalt,0,0,0,,I grew all those veggies myself.
+Dialogue: 0,0:03:59.34,0:04:02.46,Default,Osvalt,0,0,0,,It was a real struggle with what\Nlittle rainfall we've had this year.
+Dialogue: 0,0:04:02.46,0:04:04.21,Default,Philia,0,0,0,,{\i1}He's a farmer?
+Dialogue: 0,0:04:05.57,0:04:06.64,Default,Philia,0,0,0,,If you'd like—
+Dialogue: 0,0:04:06.64,0:04:07.98,Default,Bjorn,0,0,0,,Prince Osvalt!
+Dialogue: 0,0:04:09.05,0:04:10.08,Main - Italics,Philia,0,0,0,,Prince?
+Dialogue: 0,0:04:10.08,0:04:12.12,Default,Bjorn,0,0,0,,There you are, Your Highness.
+Dialogue: 0,0:04:12.12,0:04:14.39,Default,Bjorn,0,0,0,,Prince Reichardt has been looking for...
+Dialogue: 0,0:04:17.04,0:04:19.89,Default,Bjorn,0,0,0,,Could it be that you haven't told her?
+Dialogue: 0,0:04:20.85,0:04:21.66,Default,Osvalt,0,0,0,,Yeah.
+Dialogue: 0,0:04:22.80,0:04:26.52,Default,Bjorn,0,0,0,,Saint Philia, forgive me for \Nfailing to introduce you earlier.
+Dialogue: 1,0:04:26.52,0:04:30.53,Default,Bjorn,0,0,0,,This is the second prince of \Nour kingdom, Prince Osvalt.
+Dialogue: 0,0:04:28.60,0:04:32.79,Default,sign,0,0,0,,{\fad(910,1)\fnGeorgia\fs8\shad0\blur4\c&H3B5360&\3c&HEFF5F2&\b1\pos(174.853,266.693)}The Kingdom of Parnacorta's Second Prince\N{\fs14}Osvalt Parnacorta
+Dialogue: 0,0:04:31.14,0:04:33.74,Default,Osvalt,0,0,0,,It's a pleasure, Saint Philia.
+Dialogue: 0,0:04:34.25,0:04:37.00,Default,Philia,0,0,0,,{\i1}This man is the second prince?!
+Dialogue: 0,0:04:37.42,0:04:40.53,Default,Bjorn,0,0,0,,I'll call Prince Reichardt over.
+Dialogue: 0,0:04:44.30,0:04:47.76,Default,Osvalt,0,0,0,,There's actually something\NI wanted to tell you personally.
+Dialogue: 0,0:04:50.42,0:04:51.41,Default,Osvalt,0,0,0,,The truth is...
+Dialogue: 0,0:04:53.02,0:04:54.47,Default,Osvalt,0,0,0,,I'm sorry!
+Dialogue: 0,0:04:55.07,0:04:57.15,Default,Osvalt,0,0,0,,To buy a saint in such a fashion...
+Dialogue: 0,0:04:57.15,0:05:00.02,Default,Osvalt,0,0,0,,I'm sure it was an affront to your dignity.
+Dialogue: 0,0:05:00.45,0:05:04.37,Default,Osvalt,0,0,0,,We of this nation lost our previous saint.
+Dialogue: 0,0:05:04.37,0:05:09.03,Default,Osvalt,0,0,0,,When Girtonia reached out to us,\N I took it as a godsend.
+Dialogue: 0,0:05:09.83,0:05:14.18,Default,Osvalt,0,0,0,,I'm sure you had to leave behind\Nfamily and loved ones in your homeland...
+Dialogue: 0,0:05:14.18,0:05:17.79,Default,Osvalt,0,0,0,,I've sworn an oath that I would \Nsee to your every need,
+Dialogue: 0,0:05:18.43,0:05:21.75,Default,Osvalt,0,0,0,,though it won't make up for what you've lost.
+Dialogue: 0,0:05:22.09,0:05:24.17,Default,Osvalt,0,0,0,,I know how self-serving this is to say,
+Dialogue: 0,0:05:24.17,0:05:27.26,Default,Osvalt,0,0,0,,but I'll work hard to see that \Nyou come to love our country.
+Dialogue: 0,0:05:28.01,0:05:31.72,Default,Osvalt,0,0,0,,I want to match your courage in coming here!
+Dialogue: 0,0:05:33.14,0:05:35.32,Default,Philia,0,0,0,,{\i1}Me, coming to love this country?
+Dialogue: 0,0:05:35.83,0:05:38.73,Default,Philia,0,0,0,,{\i1}That's what Prince Osvalt wants?
+Dialogue: 0,0:05:41.44,0:05:42.23,Default,Philia,0,0,0,,{\i1}Love...
+Dialogue: 0,0:05:43.29,0:05:47.49,Default,Philia,0,0,0,,{\i1}What? What does it mean to love again?
+Dialogue: 0,0:05:48.03,0:05:51.28,Default,Osvalt,0,0,0,,F-Forgive me. That was a little \Noverbearing, wasn't it?
+Dialogue: 0,0:05:51.28,0:05:52.84,Default,Philia,0,0,0,,N-Not at all.
+Dialogue: 0,0:05:52.84,0:05:57.27,Default,Osvalt,0,0,0,,Anyway, you were about to say \Nsomething about the veggies?
+Dialogue: 0,0:05:57.27,0:05:59.12,Default,Philia,0,0,0,,Ah, yes.
+Dialogue: 0,0:06:00.08,0:06:04.79,Default,Philia,0,0,0,,I can easily increase the rainfall \Nif you give me a few days.
+Dialogue: 0,0:06:07.06,0:06:09.13,Default,Philia,0,0,0,,{\i1}I'm overstepping again.
+Dialogue: 0,0:06:09.46,0:06:12.64,Default,Osvalt,0,0,0,,You can?! That would be fantastic!
+Dialogue: 0,0:06:14.65,0:06:16.39,Default,Reichardt,0,0,0,,Oh? Sounds lively over here.
+Dialogue: 0,0:06:17.13,0:06:19.90,Default,Reichardt,0,0,0,,Would you mind introducing me as well?
+Dialogue: 0,0:06:19.90,0:06:23.88,Default,Osvalt,0,0,0,,This is the crown prince \Nof Parnacorta, Reichardt.
+Dialogue: 0,0:06:23.88,0:06:25.29,Default,Osvalt,0,0,0,,He's my big brother!
+Dialogue: 1,0:06:28.28,0:06:31.28,Default,Reichardt,0,0,0,,It's an honor to meet such \Nan extraordinary figure.
+Dialogue: 0,0:06:28.28,0:06:34.20,Default,sign,0,0,0,,{\fad(858,1)\fnGeorgia\fs8\shad0\blur4\c&H3B5360&\3c&HEFF5F2&\b1\pos(174.853,266.693)}The Kingdom of Parnacorta's First Prince\N{\fs14}Reichardt Parnacorta
+Dialogue: 0,0:06:31.28,0:06:34.20,Default,Reichardt,0,0,0,,I trust our kingdom will be in good hands.
+Dialogue: 0,0:06:34.45,0:06:39.33,Default,Philia,0,0,0,,O-Of course.\NI'm sure I'm in good hands as well.
+Dialogue: 0,0:06:40.21,0:06:43.35,Default,Philia,0,0,0,,{\i1}Two princes came\Nto meet me personally...
+Dialogue: 0,0:06:44.48,0:06:49.34,Default,Philia,0,0,0,,{\i1}That shows just how much they're \Nexpecting of me. It's a lot of pressure.
+Dialogue: 0,0:06:50.35,0:06:58.69,Main - Italics,Narrator,0,0,0,,And so Philia, the girl sold by her homeland,\N begins her life as Parnacorta's saint.
+Dialogue: 0,0:07:03.46,0:07:06.57,Default,Housewife,0,0,0,,Hold on. Have your prices gone up again?
+Dialogue: 0,0:07:06.57,0:07:10.98,Default,Shopkeep 1,0,0,0,,Sorry. Monsters are appearing \Non the roads again.
+Dialogue: 0,0:07:10.98,0:07:14.64,Default,Shopkeep 2,0,0,0,,I'm having a hard time getting stock in, too.
+Dialogue: 0,0:07:14.64,0:07:18.88,Default,Shopkeep 2,0,0,0,,This never happened when \Nthe saint was around...
+Dialogue: 0,0:07:18.88,0:07:24.10,Default,Shopkeep 1,0,0,0,,It's still hard to believe \NSaint Elizabeth is dead.
+Dialogue: 0,0:07:24.10,0:07:28.24,Default,Housewife,0,0,0,,Yeah. We'll never know \Nanyone so kind ever again.
+Dialogue: 0,0:07:28.24,0:07:31.99,Default,Man 1,0,0,0,,Speaking of, I hear there's \Na new saint in the kingdom.
+Dialogue: 0,0:07:31.99,0:07:35.92,Default,Shopkeep 2,0,0,0,,Yeah, I saw her!\NShe just arrived, didn't she?
+Dialogue: 0,0:07:35.92,0:07:37.59,Default,Shopkeep 2,0,0,0,,Still...
+Dialogue: 0,0:07:37.59,0:07:42.61,Default,Housewife,0,0,0,,I know. She seems rather \Nunapproachable, doesn't she?
+Dialogue: 0,0:08:06.09,0:08:07.10,Default,Philia,0,0,0,,This place is...
+Dialogue: 0,0:08:09.13,0:08:12.12,Flashback,Bjorn,0,0,0,,This will be your new home.
+Dialogue: 0,0:08:12.12,0:08:14.64,Flashback - Italics,Philia,0,0,0,,It's twice as big as our family home.
+Dialogue: 0,0:08:17.83,0:08:19.39,Default,Philia,0,0,0,,{\i1}That's right.
+Dialogue: 0,0:08:19.91,0:08:23.14,Default,Philia,0,0,0,,{\i1}I arrived in Parnacorta yesterday.
+Dialogue: 0,0:08:23.80,0:08:26.08,Flashback,Osvalt,0,0,0,,I want you to come to love this country.
+Dialogue: 0,0:08:27.74,0:08:29.61,Default,Philia,0,0,0,,{\i1}To love this country...
+Dialogue: 0,0:08:34.21,0:08:36.52,Main - Italics,Philia,0,0,0,,I have to work harder than ever before.
+Dialogue: 0,0:08:44.37,0:08:45.75,Default,Lena,0,0,0,,Saint Philia?
+Dialogue: 0,0:08:46.42,0:08:49.17,Default,Lena,0,0,0,,What are you doing up and about this early?
+Dialogue: 0,0:08:49.42,0:08:52.38,Default,Leonardo,0,0,0,,You can rest a bit longer if you'd like.
+Dialogue: 0,0:08:49.48,0:08:54.93,Default,sign,0,0,0,,{\fad(910,1)\fnGeorgia\fs8\shad0\blur4\c&H486065&\3c&HEFF5F2&\b1\pos(196.901,254.448)}Butler\N{\fs14} Leonardo
+Dialogue: 0,0:08:49.48,0:08:54.93,Default,sign,0,0,0,,{\fad(910,1)\fnGeorgia\fs8\shad0\blur4\c&H486065&\3c&HEFF5F2&\b1\pos(500.059,62.203)}Maid\N{\fs14} Lena
+Dialogue: 0,0:08:52.38,0:08:56.28,Default,Philia,0,0,0,,What? But my saintly duties...
+Dialogue: 0,0:08:58.06,0:09:01.28,Default,Philia,0,0,0,,I'm sorry, but would you mind \Npreparing something for me?
+Dialogue: 0,0:09:08.81,0:09:11.13,Main - Italics,Narrator,0,0,0,,The Kingdom of Parnacorta...
+Dialogue: 0,0:09:11.13,0:09:13.56,Main - Italics,Narrator,0,0,0,,Located at the center of the continent,
+Dialogue: 0,0:09:13.56,0:09:16.15,Main - Italics,Narrator,0,0,0,,it is bordered by five other countries.
+Dialogue: 0,0:09:16.15,0:09:20.16,Main - Italics,Narrator,0,0,0,,The nation is lush with greenery and \Nsurrounded by mountains and forests.
+Dialogue: 0,0:09:20.48,0:09:24.50,Main - Italics,Narrator,0,0,0,,Its capital city of Almburg\N lies at the heart of it all.
+Dialogue: 0,0:09:24.50,0:09:30.23,Main - Italics,Narrator,0,0,0,,But the mountainous woods are perfect \Nnesting grounds for monsters,
+Dialogue: 0,0:09:30.23,0:09:34.51,Main - Italics,Narrator,0,0,0,,which makes Parnacorta a frequent target.
+Dialogue: 0,0:09:36.72,0:09:38.92,Default,Philia,0,0,0,,{\i1}Parnacorta sits in a basin.
+Dialogue: 0,0:09:38.92,0:09:41.75,Default,Philia,0,0,0,,{\i1}It's mountains and forests all around.
+Dialogue: 0,0:09:41.75,0:09:44.50,Default,Philia,0,0,0,,{\i1}My first destination should be...
+Dialogue: 0,0:09:44.50,0:09:47.66,Default,Leonardo,0,0,0,,What are you seeing in that map?
+Dialogue: 0,0:09:49.10,0:09:50.91,Default,Leonardo/Lena,0,0,0,,Is something the matter?
+Dialogue: 0,0:09:51.53,0:09:52.19,Default,Philia,0,0,0,,No...
+Dialogue: 0,0:09:53.00,0:09:57.57,Default,Philia,0,0,0,,Although, er... could I \Nask why you're both here?
+Dialogue: 0,0:09:57.57,0:10:02.30,Default,Leonardo,0,0,0,,We have been assigned \Nto see to your every need.
+Dialogue: 0,0:10:02.30,0:10:05.16,Default,Lena,0,0,0,,Which means supporting \Nyou in your duties, too!
+Dialogue: 0,0:10:05.65,0:10:10.14,Default,Lena,0,0,0,,You sure surprised me, though.\NYou're an early riser!
+Dialogue: 0,0:10:10.83,0:10:14.51,Default,Leonardo,0,0,0,,On your first day, at that! \NYou must be raring to go.
+Dialogue: 0,0:10:15.95,0:10:20.09,Default,Philia,0,0,0,,Er... this is more or less \Nmy routine every day.
+Dialogue: 0,0:10:22.68,0:10:24.69,Default,Leonardo/Lena,0,0,0,,Every day?!
+Dialogue: 0,0:10:24.69,0:10:28.69,Default,Philia,0,0,0,,Yes. To fully fulfill my duties as saint,
+Dialogue: 0,0:10:29.26,0:10:32.73,Default,Philia,0,0,0,,I must start early or I won't finish in time.
+Dialogue: 0,0:10:33.44,0:10:36.10,Default,Lena,0,0,0,,So that's how things were in Girtonia?
+Dialogue: 0,0:10:36.10,0:10:39.62,Default,Lena,0,0,0,,What are you trying \Nto find on that map, then?
+Dialogue: 0,0:10:39.62,0:10:40.45,Default,Philia,0,0,0,,Ah, right.
+Dialogue: 0,0:10:41.11,0:10:44.68,Default,Philia,0,0,0,,I'm using it to identify potential \Nmonster nesting grounds.
+Dialogue: 0,0:10:44.68,0:10:46.91,Default,Philia,0,0,0,,You can guess, to a degree, by the terrain.
+Dialogue: 0,0:10:48.67,0:10:51.25,Default,Leonardo,0,0,0,,Then our destination is...
+Dialogue: 0,0:10:51.59,0:10:53.92,Default,Philia,0,0,0,,Yes. We'll start...
+Dialogue: 0,0:10:55.07,0:10:58.16,Default,Philia,0,0,0,,with the Detrauhorn Mountains to the north.
+Dialogue: 0,0:10:59.95,0:11:03.93,Default,Sign,0,0,0,,{\an2\fnGeorgia\b1\fs10\shad0\bord0\c&H884FD9&\pos(320,110)}The Too-Perfect Saint{\c&H9B9999&}: {\c&HDEC58D&}Tossed {\c&HDDBF93&}Aside\N{\c&HE2B99A&}by {\c&HC8ACAD&}My {\c&HDDB3B4&}Fiancé {\c&HDCBAC3&}and {\c&HD79BB3&}Sold {\c&HCEA8CE&}to {\c&HD4A8D5&}Another {\c&HC3A8E2&}Kingdom
+Dialogue: 0,0:11:06.04,0:11:07.90,Default,Philia,0,0,0,,{\i1}A sky black with clouds.
+Dialogue: 0,0:11:08.57,0:11:11.58,Default,Philia,0,0,0,,{\i1}An atmosphere so oppressive \Nit's hard to breathe.
+Dialogue: 0,0:11:11.58,0:11:13.36,Default,Philia,0,0,0,,{\i1}The presence of many monsters.
+Dialogue: 0,0:11:17.71,0:11:18.74,Default,Philia,0,0,0,,I think...
+Dialogue: 0,0:11:19.46,0:11:23.62,Default,Philia,0,0,0,,waiting any longer to deal with this\N could have led to disaster.
+Dialogue: 0,0:11:24.98,0:11:28.35,Default,Philia,0,0,0,,The monster nest here \Nis larger than I anticipated.
+Dialogue: 0,0:11:29.13,0:11:31.12,Default,Philia,0,0,0,,It may be dangerous. Please stand back.
+Dialogue: 0,0:11:31.49,0:11:32.17,Default,Lena,0,0,0,,No...
+Dialogue: 0,0:11:34.69,0:11:38.00,Default,Lena,0,0,0,,We have been entrusted with \Nyour safety, Saint Philia!
+Dialogue: 0,0:11:38.00,0:11:42.34,Default,Leonardo,0,0,0,,By all means, focus on \Nestablishing your barrier.
+Dialogue: 0,0:11:45.17,0:11:47.31,Default,Philia,0,0,0,,Uh... okay.
+Dialogue: 0,0:11:49.19,0:11:54.19,Default,Philia,0,0,0,,{\i1}I'm sure they're just watching me \Nto make sure I do my job properly.
+Dialogue: 0,0:11:55.46,0:11:58.70,Default,Philia,0,0,0,,{\i1}But this my first time working \Nwith anyone else around,
+Dialogue: 0,0:11:58.70,0:12:01.10,Default,Philia,0,0,0,,{\i1}so it's a little distracting.{\i0}
+Dialogue: 0,0:12:02.94,0:12:04.86,Default,Lena,0,0,0,,By the way, Mr. Leonardo...
+Dialogue: 0,0:12:04.86,0:12:08.90,Default,Lena,0,0,0,,You were on Saint Elizabeth's\N security detail too, weren't you?
+Dialogue: 0,0:12:08.90,0:12:13.83,Default,Leonardo,0,0,0,,Yes, and I protected her predecessor as well.
+Dialogue: 0,0:12:14.27,0:12:18.06,Default,Lena,0,0,0,,I never got to see the last saint in action!
+Dialogue: 0,0:12:18.06,0:12:21.59,Default,Lena,0,0,0,,How exactly do they erect \None of those barrier things?
+Dialogue: 0,0:12:28.54,0:12:30.10,Default,Philia,0,0,0,,This should be a good spot.
+Dialogue: 0,0:12:31.51,0:12:32.85,Default,Philia,0,0,0,,Let's begin.
+Dialogue: 0,0:12:35.79,0:12:38.48,Default,Leonardo,0,0,0,,The saint prays to the divine,
+Dialogue: 0,0:12:39.21,0:12:44.86,Default,Leonardo,0,0,0,,conjuring several pillars \Nof light to support the barrier.
+Dialogue: 0,0:12:44.86,0:12:50.00,Default,Leonardo,0,0,0,,The barrier forms over the land\Nenclosed by the pillars.
+Dialogue: 0,0:12:50.00,0:12:54.97,Default,Leonardo,0,0,0,,That area becomes a holy sanctuary \Nin which monsters are weakened.
+Dialogue: 0,0:12:53.16,0:12:55.69,Default,sign,0,0,0,,{\fad(1780,1)\fnGeorgia\shad0\blur2\fs18\b1\c&HFEFBF7&\3c&HAD7E6F&\t(1,1780,\fs16)\move(373.894,147.919,321.837,155.878)}Holy Sanctuary
+Dialogue: 0,0:12:55.68,0:13:02.00,Default,Leonardo,0,0,0,,The more pillars she erects, \Nthe more powerful the barrier.
+Dialogue: 0,0:12:55.69,0:13:08.37,Default,sign,0,0,0,,{\fad(1,1121)\fnGeorgia\shad0\blur2\fs16\b1\c&HFEFBF7&\3c&HAD7E6F&\t(2210,4888,\fs8,\bord1)\move(321.837,155.878,321.837,77.294,2210,4888)}Holy Sanctuary
+Dialogue: 0,0:12:59.23,0:13:08.37,Default,sign,0,0,0,,{\fad(2117,1121)\fnGeorgia\shad0\blur2\fs8\b1\c&HFEFBF7&\3c&HAD7E6F&\pos(322.656,267.133)}Holy Sanctuary
+Dialogue: 0,0:12:59.23,0:13:08.37,Default,sign,0,0,0,,{\fad(2117,1121)\fnGeorgia\shad0\blur2\fs8\b1\c&HFEFBF7&\3c&HAD7E6F&\pos(415.602,171.027)}Holy Sanctuary
+Dialogue: 0,0:12:59.23,0:13:08.37,Default,sign,0,0,0,,{\fad(2117,1121)\fnGeorgia\shad0\blur2\fs8\b1\c&HFEFBF7&\3c&HAD7E6F&\pos(223.868,171.558)}Holy Sanctuary
+Dialogue: 0,0:13:02.00,0:13:05.98,Default,Leonardo,0,0,0,,But ordinarily, it is said \Nto take many hours,
+Dialogue: 0,0:13:05.98,0:13:09.66,Default,Leonardo,0,0,0,,up to a dozen or more,\Nto erect but one pillar.
+Dialogue: 0,0:13:11.01,0:13:15.84,Default,Leonardo,0,0,0,,As it consumes copious mental, \Nphysical, and magical energy,
+Dialogue: 0,0:13:15.84,0:13:19.44,Default,Leonardo,0,0,0,,it is an impressive feat to conjure \Neven a single pillar in a day.
+Dialogue: 0,0:13:20.05,0:13:24.80,Default,Leonardo,0,0,0,,That is why Saint Philia \Nneeds people to protect her.
+Dialogue: 0,0:13:24.80,0:13:26.07,Default,Lena,0,0,0,,I see!
+Dialogue: 0,0:13:30.38,0:13:33.26,Default,Philia,0,0,0,,I've completed the first pillar.
+Dialogue: 0,0:13:37.27,0:13:39.75,Default,Leonardo,0,0,0,,But it's only been thirty minutes!
+Dialogue: 0,0:13:40.17,0:13:42.52,Default,Philia,0,0,0,,Yes. I need to make seven more.
+Dialogue: 0,0:13:43.29,0:13:47.26,Default,Philia,0,0,0,,Taking travel time into account, \Nit may take us past lunch.
+Dialogue: 0,0:13:47.76,0:13:51.00,Default,Lena,0,0,0,,I thought it was a big deal\N to make just one a day?
+Dialogue: 0,0:13:51.00,0:13:52.01,Default,Leonardo,0,0,0,,It is.
+Dialogue: 0,0:13:52.72,0:13:55.51,Default,Leonardo,0,0,0,,{\i1}A pillar of light in just thirty minutes?
+Dialogue: 0,0:13:55.51,0:13:58.52,Default,Leonardo,0,0,0,,{\i1}I've never heard of such a thing. This is...
+Dialogue: 0,0:13:59.21,0:14:04.74,Default,Leonardo,0,0,0,,{\i1}Prince Osvalt, you've brought\Nsomeone extraordinary into our midst.
+Dialogue: 0,0:14:09.20,0:14:13.37,Default,Lena,0,0,0,,Wow! The atmosphere is totally different!
+Dialogue: 0,0:14:13.37,0:14:15.92,Default,Leonardo,0,0,0,,Well done creating the barrier.
+Dialogue: 0,0:14:15.92,0:14:17.75,Default,Leonardo,0,0,0,,Now, we should return to the mansion—
+Dialogue: 0,0:14:17.75,0:14:18.29,Default,Philia,0,0,0,,No.
+Dialogue: 0,0:14:19.13,0:14:22.09,Default,Philia,0,0,0,,We'll stay and research the \Nlocal ecosystem and vegetation.
+Dialogue: 0,0:14:24.00,0:14:26.36,Default,Philia,0,0,0,,The information could prove useful later.
+Dialogue: 0,0:14:27.34,0:14:31.16,Default,Philia,0,0,0,,Then we'll erect a barrier in the \Nmountains to the west as well.
+Dialogue: 0,0:14:31.16,0:14:32.49,Default,Leonardo,0,0,0,,S-Saint Philia!
+Dialogue: 0,0:14:32.49,0:14:35.02,Default,Lena,0,0,0,,Wait for us!
+Dialogue: 0,0:14:37.98,0:14:41.69,Default,Philia,0,0,0,,I'm sorry I kept you out so late.
+Dialogue: 0,0:14:42.30,0:14:45.99,Default,Lena,0,0,0,,Not at all! It was an impressive first day.
+Dialogue: 0,0:14:46.99,0:14:49.29,Default,Lena,0,0,0,,But seriously...
+Dialogue: 0,0:14:49.51,0:14:54.95,Default,sign,0,0,0,,{\fad(210,1)\shad0\an8\b1\fs30\fnComic Sans MS\c&HEECADD&\3c&HD36784&}What a shock...
+Dialogue: 0,0:14:50.88,0:14:54.95,Default,Lena,0,0,0,,{\i1}Saint Philia never gave us a break!
+Dialogue: 0,0:14:54.95,0:14:57.65,Default,Philia,0,0,0,,I would have liked to create \Na few more barriers,
+Dialogue: 0,0:14:57.65,0:15:02.04,Default,Philia,0,0,0,,then begin preparing the rain \Nritual Prince Osvalt asked for...
+Dialogue: 0,0:15:02.04,0:15:04.29,Default,sign,0,0,0,,{\fnComic Sans MS\b1\shad0\pos(217.722,60.98)\c&HE29575&\3c&H9A2E2A&\t(150,1002,\fscx130)}SHUDDER
+Dialogue: 0,0:15:04.92,0:15:08.13,Default,Philia,0,0,0,,I wasn't expecting you to beg me to stop.
+Dialogue: 0,0:15:08.13,0:15:10.43,Flashback,Leonardo,0,0,0,,Saint Philia! How can you want to do more?
+Dialogue: 0,0:15:10.43,0:15:12.59,Flashback,Lena,0,0,0,,You're already overworked!
+Dialogue: 0,0:15:12.59,0:15:15.68,Flashback,Lena,0,0,0,,If you collapse from exhaustion, \Nit'll be on our heads!
+Dialogue: 0,0:15:18.08,0:15:22.60,Default,Leonardo,0,0,0,,You've already done three times the work \Nof the most storied saints in history.
+Dialogue: 0,0:15:23.24,0:15:25.55,Default,Leonardo,0,0,0,,We stopped by towns to speak with locals,
+Dialogue: 0,0:15:25.55,0:15:28.58,Default,Leonardo,0,0,0,,you thought up medicinal \Nrecipes in the carriage,
+Dialogue: 0,0:15:28.58,0:15:30.85,Default,Leonardo,0,0,0,,and even drew up plans for a dam...
+Dialogue: 0,0:15:30.85,0:15:32.86,Default,Lena,0,0,0,,That was really something else.
+Dialogue: 0,0:15:33.38,0:15:36.87,Default,Lena,0,0,0,,But that other stuff isn't really \Npart of a saint's job, is it?
+Dialogue: 0,0:15:38.55,0:15:39.90,Default,Philia,0,0,0,,Is it not?
+Dialogue: 0,0:15:39.90,0:15:42.56,Default,Lena,0,0,0,,Not from what I've heard, at least...
+Dialogue: 0,0:15:45.12,0:15:49.51,Default,Philia,0,0,0,,{\i1}A saint exists to rid the land\N of all the plagues it.
+Dialogue: 0,0:15:50.02,0:15:53.68,Default,Philia,0,0,0,,{\i1}Medicine, pharmaceutics, \Nagriculture, engineering...
+Dialogue: 0,0:15:53.68,0:15:57.56,Default,Philia,0,0,0,,{\i1}I was taught to be ready \Nto deal with anything.{\i0}
+Dialogue: 0,0:15:57.56,0:16:01.81,Default,Philia,0,0,0,,{\i1}That reminds me. When I kept developing \Nnew medicines, Prince Julius said...
+Dialogue: 0,0:16:02.14,0:16:05.74,Flashback,Julius,0,0,0,,The herbalist made nasty comments about you
+Dialogue: 0,0:16:05.74,0:16:08.32,Flashback,Julius,0,0,0,,and filed a complaint\N by the medical board to us.
+Dialogue: 0,0:16:08.32,0:16:10.15,Flashback,Julius,0,0,0,,Can't you just stay out of things?
+Dialogue: 0,0:16:10.15,0:16:13.48,Flashback,Julius,0,0,0,,This is why I say you lack charm.
+Dialogue: 0,0:16:15.03,0:16:18.25,Default,Leonardo,0,0,0,,Regardless, let us take some \Ntime off tomorrow.
+Dialogue: 0,0:16:18.25,0:16:21.87,Default,Leonardo,0,0,0,,Your health may suffer if \Nyou continue at this rate.
+Dialogue: 0,0:16:22.88,0:16:25.66,Default,Philia,0,0,0,,Time off, you say?
+Dialogue: 0,0:16:25.66,0:16:28.13,Main - Italics,Lena,0,0,0,,Why is she acting like she's \Nnever of it before?!
+Dialogue: 0,0:16:28.13,0:16:33.88,Default,sign,0,0,0,,{\fnArial\fs12\an8\b1\shad0\c&H31444B&\3c&H9AC0CC&\frz348.9\pos(479.235,78.613)}Leonardo's Special Spiced Hot Milk
+Dialogue: 0,0:16:29.26,0:16:33.88,Default,Philia,0,0,0,,But won't your saint taking time \Noff harm national interests?
+Dialogue: 0,0:16:33.88,0:16:37.14,Default,Leonardo,0,0,0,,No! Your health is more important \Nthan national interests!
+Dialogue: 0,0:16:37.14,0:16:38.83,Default,Lena,0,0,0,,Don't push yourself so hard!
+Dialogue: 0,0:16:38.83,0:16:41.14,Default,Lena,0,0,0,,You only just got here as it is!
+Dialogue: 0,0:16:42.87,0:16:48.04,Default,Philia,0,0,0,,{\i1}They're saying the opposite \Nof what my mother did...
+Dialogue: 0,0:16:49.60,0:16:52.79,Default,Philia,0,0,0,,But the kingdom is in a perilous state.
+Dialogue: 0,0:16:52.79,0:16:57.20,Default,Philia,0,0,0,,At least let me erect barriers \Nin the east and south tomorrow.
+Dialogue: 0,0:16:57.20,0:17:00.14,Default,Philia,0,0,0,,As saint, I cannot compromise on that.
+Dialogue: 0,0:17:04.14,0:17:07.17,Default,Leonardo,0,0,0,,You watched her all day today.\N What did you think?
+Dialogue: 0,0:17:07.17,0:17:09.13,Default,Lena,0,0,0,,Saint Philia, you mean?
+Dialogue: 0,0:17:09.59,0:17:13.63,Default,Lena,0,0,0,,She seems so earnest and determined, \Nbut she's also a bit awkward and helpless.
+Dialogue: 0,0:17:13.63,0:17:14.88,Default,Lena,0,0,0,,And charming to boot!
+Dialogue: 0,0:17:15.34,0:17:18.89,Default,Lena,0,0,0,,I think I might really like her a lot.
+Dialogue: 0,0:17:21.74,0:17:24.75,Default,Lena,0,0,0,,But something's strange about her.
+Dialogue: 0,0:17:24.75,0:17:28.40,Default,Lena,0,0,0,,It seems like she'd rather work on her own.
+Dialogue: 0,0:17:29.19,0:17:32.82,Default,Leonardo,0,0,0,,Prince Osvalt said that when \Nshe reached our territory,
+Dialogue: 0,0:17:33.18,0:17:38.10,Default,Leonardo,0,0,0,,she hadn't a single escort with her,\N let alone an attendant.
+Dialogue: 0,0:17:40.33,0:17:43.45,Default,Lena,0,0,0,,But that seems so wrong, doesn't it?
+Dialogue: 0,0:17:43.45,0:17:45.28,Default,Lena,0,0,0,,I mean, she's a saint.
+Dialogue: 0,0:17:45.28,0:17:47.28,Default,Lena,0,0,0,,A saint is like a country's leader...
+Dialogue: 0,0:17:47.28,0:17:49.08,Default,Lena,0,0,0,,She should be a noble!
+Dialogue: 0,0:17:49.93,0:17:55.29,Default,Lena,0,0,0,,How in the world was Girtonia treating her?
+Dialogue: 0,0:17:56.03,0:18:00.80,Default,Lena,0,0,0,,I want Saint Philia to take \Nbetter care of herself!
+Dialogue: 0,0:18:00.80,0:18:01.47,Default,Leonardo,0,0,0,,Yes.
+Dialogue: 0,0:18:02.08,0:18:06.10,Default,Lena,0,0,0,,So I'm going to see to her every \Nneed and really pamper her!
+Dialogue: 0,0:18:06.10,0:18:12.67,Default,Lena,0,0,0,,I want to show her soon\Njust how much she means to us!
+Dialogue: 0,0:18:19.89,0:18:23.36,Default,Housewife,0,0,0,,Have you heard about everything \Nthe new saint's done?
+Dialogue: 0,0:18:23.36,0:18:26.87,Default,Shopkeep 1,0,0,0,,Yeah, we got new stock in \Nfor the first time in ages!
+Dialogue: 0,0:18:26.87,0:18:33.13,Default,Shopkeep 2,0,0,0,,From what I heard, she worked herself \Nto the bone for us from dawn until dusk!
+Dialogue: 0,0:18:33.13,0:18:38.81,Default,Housewife,0,0,0,,To think we'd follow up Saint Elizabeth \Nwith another wonderful saint...
+Dialogue: 0,0:18:38.81,0:18:42.23,Default,Housewife,0,0,0,,We're all so lucky!
+Dialogue: 0,0:18:46.52,0:18:49.66,Default,Mia,0,0,0,,{\i1}My sister, Philia, was always perfect.
+Dialogue: 0,0:18:49.66,0:18:55.42,Default,Mia,0,0,0,,{\i1}The strength her saintly powers, \Nher wealth of knowledge far beyond her years,
+Dialogue: 0,0:18:55.42,0:18:57.65,Default,Mia,0,0,0,,{\i1}her kindness and sincerity...
+Dialogue: 0,0:18:57.65,0:19:00.05,Default,Mia,0,0,0,,{\i1}I truly admired her.
+Dialogue: 0,0:19:00.91,0:19:05.92,Default,Mia,0,0,0,,{\i1}I always thought that as long as I \Nfollowed her example, I'd be okay!
+Dialogue: 0,0:19:18.87,0:19:19.68,Default,Mia,0,0,0,,{\i1}But...
+Dialogue: 0,0:19:22.03,0:19:23.24,Default,Mia,0,0,0,,{\i1}now...
+Dialogue: 0,0:19:35.42,0:19:38.44,Default,Mia,0,0,0,,Silver Judgment!
+Dialogue: 0,0:19:45.92,0:19:48.41,Default,Mia,0,0,0,,{\i1}Without her as a role model...
+Dialogue: 0,0:19:49.77,0:19:51.30,Main - Italics,Mia,0,0,0,,what am I to do?
+Dialogue: 0,0:19:55.15,0:19:56.96,Default,Aide 1,0,0,0,,E-Emergency, Your Highness!
+Dialogue: 0,0:19:57.25,0:19:58.58,Default,Aide 1,0,0,0,,Highness!
+Dialogue: 0,0:19:58.58,0:20:01.30,Default,Aide 1,0,0,0,,Monsters have begun surging \Nall over the kingdom!
+Dialogue: 0,0:20:01.81,0:20:04.09,Default,Aide 1,0,0,0,,The hunts can't keep up!
+Dialogue: 0,0:20:06.00,0:20:07.24,Default,Julius,0,0,0,,Why now?
+Dialogue: 0,0:20:07.24,0:20:10.19,Default,Julius,0,0,0,,Haven't I been sending out \Nregular hunting parties?
+Dialogue: 0,0:20:10.19,0:20:11.39,Default,Aide 1,0,0,0,,W-Well, actually...
+Dialogue: 0,0:20:12.63,0:20:15.44,Default,Aide 1,0,0,0,,This says no one actually deployed.
+Dialogue: 0,0:20:16.80,0:20:19.94,Default,Aide 1,0,0,0,,Saint Philia always said \Nshe'd take care of it, so...
+Dialogue: 0,0:20:20.40,0:20:21.91,Default,Julius,0,0,0,,Those morons!
+Dialogue: 0,0:20:21.91,0:20:25.68,Default,Julius,0,0,0,,After I finally got her out of my hair...
+Dialogue: 0,0:20:25.68,0:20:29.21,Default,Julius,0,0,0,,We have money now! Do whatever it \Ntakes to vanquish the monsters!
+Dialogue: 0,0:20:29.21,0:20:31.20,Default,Julius,0,0,0,,Don't let them reach the capital!
+Dialogue: 0,0:20:31.20,0:20:32.16,Main - Top,Captain,0,0,0,,Attention!
+Dialogue: 0,0:20:32.16,0:20:36.21,Default,Woman 1,0,0,0,,Things are a lot noisier around \Nhere with Saint Philia gone.
+Dialogue: 0,0:20:33.95,0:20:35.24,Main - Top,Captain,0,0,0,,March!
+Dialogue: 0,0:20:35.24,0:20:36.21,Main - Top,Soldiers,0,0,0,,Sir!
+Dialogue: 0,0:20:36.21,0:20:40.46,Default,Woman 2,0,0,0,,The traveling merchant I always \Nbuy from hasn't been by.
+Dialogue: 0,0:20:40.46,0:20:42.19,Default,Woman 3,0,0,0,,No need to worry.
+Dialogue: 0,0:20:42.19,0:20:45.38,Default,Woman 3,0,0,0,,Saint Mia will see to everything!
+Dialogue: 0,0:20:46.52,0:20:47.97,Default,Mia,0,0,0,,{\i1}It's strange.
+Dialogue: 0,0:20:47.97,0:20:50.25,Default,Mia,0,0,0,,{\i1}It's all too strange.
+Dialogue: 0,0:20:50.25,0:20:53.98,Default,Mia,0,0,0,,{\i1}Not this situation, but what\N led up to it in the first place.
+Dialogue: 0,0:20:55.48,0:20:56.45,Default,Mia,0,0,0,,{\i1}I mean...
+Dialogue: 0,0:20:57.39,0:21:01.99,Default,Mia,0,0,0,,{\i1}my sister left for a neighboring \Nkingdom without saying a word to me?{\i0}
+Dialogue: 0,0:21:02.93,0:21:04.03,Flashback,Mia,0,0,0,,Father!
+Dialogue: 0,0:21:04.45,0:21:08.03,Flashback,Mia,0,0,0,,Why has my sister gone to Parnacorta?
+Dialogue: 0,0:21:08.03,0:21:13.21,Flashback,Mia,0,0,0,,If they needed a saint, they should have \Nasked for me! I wasn't even engaged yet!
+Dialogue: 0,0:21:13.21,0:21:14.65,Flashback,George,0,0,0,,Mia.
+Dialogue: 0,0:21:14.65,0:21:16.79,Flashback,George,0,0,0,,Don't make me say it again.
+Dialogue: 0,0:21:18.08,0:21:21.75,Flashback,George,0,0,0,,It was Philia's decision to leave.
+Dialogue: 0,0:21:24.01,0:21:26.55,Default,Mia,0,0,0,,{\i1}My sister was the perfect saint.
+Dialogue: 0,0:21:26.55,0:21:30.14,Default,Mia,0,0,0,,{\i1}She would never leave without talking to me \Nor arranging a handoff of duties.
+Dialogue: 0,0:21:30.76,0:21:32.78,Default,Mia,0,0,0,,{\i1}The fact that she didn't...
+Dialogue: 0,0:21:33.49,0:21:39.15,Default,Mia,0,0,0,,{\i1}Either it was all just that sudden... \Nor she wasn't allowed to.
+Dialogue: 0,0:21:41.23,0:21:45.40,Default,Mia,0,0,0,,{\i1}Who would do something so awful?
+Dialogue: 0,0:21:47.52,0:21:50.02,Default,Mia,0,0,0,,{\i1}Whoever took my sister from me...
+Dialogue: 0,0:21:52.29,0:21:53.90,Default,Mia,0,0,0,,{\i1}I'll take them to task.
+Dialogue: 0,0:23:26.83,0:23:32.97,Default,Philia,0,0,0,,{\i1}The Too-Perfect Saint: Tossed Aside \Nby My Fiancé and Sold to Another Kingdom{\i0}.
+Dialogue: 0,0:23:33.33,0:23:34.93,Default,Philia,0,0,0,,Next time, episode 3:
+Dialogue: 0,0:23:34.93,0:23:39.93,Default,SIGN,0,0,0,,{\shad1\bord0\fs18\fnGeorgia\c&HFBFFFF&\3c&H4E4E4E&\4c&H6A6763&\pos(320,67.102)\b1}Next Time
+Dialogue: 0,0:23:34.93,0:23:39.93,Default,SIGN,0,0,0,,{\shad1\bord0\fs16\fnGeorgia\c&HFBFFFF&\3c&H4E4E4E&\4c&H6A6763&\b1\pos(320,123)}Episode 3
+Dialogue: 0,0:23:34.93,0:23:39.93,Default,SIGN,0,0,0,,{\shad1\bord0\an8\fnGeorgia\c&HFBFFFF&\3c&H4E4E4E&\fs20\4c&H6A6763&\b1\pos(320,242.204)}"Our First  {\fs24\c&H635CF4&\4c&HFFFFFF&}Date{\fs20\c&HFBFFFF&\4c&H6A6763&}"
+Dialogue: 0,0:23:36.04,0:23:37.65,Default,Philia,0,0,0,,"Our First Date."

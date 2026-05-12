@@ -1,0 +1,396 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Main - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Default - No margins,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.95,0:00:03.39,Default,title,0,0,0,,{\fad(690,1)\shad1\bord0\fnGeorgia\fs10\c&HF9F8FA&\3c&H4E4E4E&\4c&H252526&\pos(495,283.044)}Episode 5\N{\fs12}"Golden {\fs12\c&H35BBE5&}Freesia{\fs10\c&HFBFFFF&\4c&H6A6763&}"
+Dialogue: 0,0:00:06.27,0:00:10.78,Default,sign,0,0,0,,{\fnGeorgia\fs10\shad0\blur4\c&H3E38BA&\3c&HEFF5F2&\b1\pos(481.797,264.898)}Saint of Bolmern\N{\fs18}Grace Mattilas
+Dialogue: 0,0:00:10.78,0:00:14.52,Default,Philia,0,0,0,,Thank you for making the long journey here.
+Dialogue: 0,0:00:14.52,0:00:16.72,Default,Philia,0,0,0,,I welcome you, Grace.
+Dialogue: 0,0:00:16.72,0:00:18.03,Default,Grace,0,0,0,,S... S...
+Dialogue: 0,0:00:18.03,0:00:20.66,Default,Grace,0,0,0,,Saint Philia!
+Dialogue: 0,0:00:20.66,0:00:22.33,Default,Grace,0,0,0,,Saint Philia Adenauer!
+Dialogue: 0,0:00:22.33,0:00:23.98,Default,Grace,0,0,0,,I'm so honored to meet you!
+Dialogue: 0,0:00:23.98,0:00:26.15,Default,Grace,0,0,0,,My name is Grace Mattilas!
+Dialogue: 0,0:00:26.15,0:00:31.10,Default,Grace,0,0,0,,Getting to study under the greatest \Nsaint of all time is like a dream to me!
+Dialogue: 0,0:00:31.76,0:00:34.01,Default,Philia,0,0,0,,I-Is it?
+Dialogue: 0,0:00:53.26,0:00:57.93,Default,Sign,0,0,0,,{\fad(710,1)\blur4\t(1,710,\blur0)\an8\fnGeorgia\b1\fs18\shad0\bord0\c&HDA8FA9&}The Too-Perfect Saint: Tossed Aside\Nby My Fiancé and Sold to Another Kingdom
+Dialogue: 1,0:00:55.93,0:00:57.93,Default,Sign,0,0,0,,{\fad(960,1)\an8\fnGeorgia\b1\fs18\shad0\bord0\c&H884FD9&\3c&HFCFEFE&}The Too-Perfect Saint{\c&H9B9999&}: {\c&HDEC58D&}Tossed {\c&HDDBF93&}Aside\N{\c&HE2B99A&}by {\c&HC8ACAD&}My {\c&HDDB3B4&}Fiancé {\c&HDCBAC3&}and {\c&HD79BB3&}Sold {\c&HCEA8CE&}to {\c&HD4A8D5&}Another {\c&HC3A8E2&}Kingdom
+Dialogue: 0,0:02:03.97,0:02:05.98,Default,sign,0,0,0,,{\fnArial\shad0\bord1\fs16\b1\pos(531.292,277.714)\3c&H2D3E2D&}Several Days Earlier
+Dialogue: 0,0:02:06.57,0:02:09.98,Flashback,Osvalt,0,0,0,,Miss Philia, I've been wanting to ask you...
+Dialogue: 0,0:02:10.38,0:02:12.15,Flashback,Osvalt,0,0,0,,Would you like to try being a tutor?
+Dialogue: 0,0:02:13.48,0:02:15.32,Flashback,Philia,0,0,0,,A tutor?
+Dialogue: 0,0:02:15.32,0:02:17.11,Flashback,Osvalt,0,0,0,,Have you heard of the Mattilas family?
+Dialogue: 0,0:02:18.24,0:02:22.07,Flashback,Philia,0,0,0,,The Mattilas family? \NOf the Kingdom of Bolmern?
+Dialogue: 0,0:02:22.07,0:02:22.87,Flashback,Osvalt,0,0,0,,That's them.
+Dialogue: 0,0:02:23.15,0:02:26.22,Flashback,Osvalt,0,0,0,,They've produced saints \Nfor Bolmern for generations,
+Dialogue: 0,0:02:26.22,0:02:28.69,Flashback,Osvalt,0,0,0,,and they have deep ties \Nto the royal family there.
+Dialogue: 0,0:02:29.23,0:02:33.55,Flashback,Osvalt,0,0,0,,The Elcrantz family, which has \Nproduced Parnacorta's saints,
+Dialogue: 0,0:02:33.55,0:02:36.01,Flashback,Osvalt,0,0,0,,originated as a branch \Nof the Mattilas line as well.
+Dialogue: 0,0:02:35.36,0:02:41.72,Default,sign,0,0,0,,{\fad(670,1)\fnArial\an8\fs8\shad0\bord1\c&H000000&\3c&HF6FAF5&\t(\fs9)\move(198.644,118.517,198.644,112.76)}Continent of Sedelgard
+Dialogue: 0,0:02:35.36,0:02:41.72,Default,sign,0,0,0,,{\fad(670,1)\fnArial\bord1\fs8\shad0\c&H000000&\3c&HF6FAF5&\t(\fs9)\move(377.578,46.207,378.464,37.351)}Kingdom of Ashbrugge
+Dialogue: 0,0:02:35.36,0:02:41.72,Default,sign,0,0,0,,{\fad(670,1)\fnArial\bord1\fs8\shad0\c&H000000&\3c&HF6FAF5&\t(\fs9)\move(493.011,64.031,511.297,55.125)}Kingdom of Murasame
+Dialogue: 0,0:02:35.36,0:02:41.72,Default,sign,0,0,0,,{\fad(670,1)\fnArial\bord1\fs8\shad0\c&H000000&\3c&HF6FAF5&\t(\fs9)\move(302.473,122.708,309.909,118.46)}Kingdom of Bolmern
+Dialogue: 0,0:02:35.36,0:02:41.72,Default,sign,0,0,0,,{\fad(670,1)\fnArial\bord1\fs8\shad0\c&H000000&\3c&HF6FAF5&\t(\fs9)\move(397.012,135.451,409.759,131.734)}Kingdom of Gyptia
+Dialogue: 0,0:02:35.36,0:02:41.72,Default,sign,0,0,0,,{\fad(670,1)\fnArial\bord1\fs8\shad0\c&H000000&\3c&HF6FAF5&\t(\fs9)\move(309.909,163.062,316.813,161.469)}Kingdom of Parnacorta
+Dialogue: 0,0:02:35.36,0:02:41.72,Default,sign,0,0,0,,{\fad(670,1)\fnArial\bord1\fs8\an8\shad0\c&H000000&\3c&HF6FAF5&\t(\fs9)\move(210.058,230.92,211.12,233.044)}Kingdom of Dalbert
+Dialogue: 0,0:02:35.36,0:02:41.72,Default,sign,0,0,0,,{\fad(670,1)\fnArial\bord1\fs8\an8\shad0\c&H000000&\3c&HF6FAF5&\t(\fs9)\move(333.81,281.363,342.714,287.672)}Kingdom of Alectron
+Dialogue: 0,0:02:35.36,0:02:41.72,Default,sign,0,0,0,,{\fad(670,1)\fnArial\bord1\fs8\an8\shad0\c&H000000&\3c&HF6FAF5&\t(\fs9)\move(387.983,232.513,401.792,233.575)}Kingdom of Girtonia
+Dialogue: 1,0:02:36.01,0:02:38.66,Flashback,Osvalt,0,0,0,,Because our countries are so close,
+Dialogue: 1,0:02:38.66,0:02:41.72,Flashback,Osvalt,0,0,0,,we have a lot of interaction \Nwith the Mattilas family.
+Dialogue: 0,0:02:42.00,0:02:48.64,Flashback,Osvalt,0,0,0,,And recently, they sent us a request \Nto learn purification magic from you.
+Dialogue: 0,0:02:49.25,0:02:53.65,Flashback,Osvalt,0,0,0,,They'd like to send their fourth \Ndaughter, Grace, to study here.
+Dialogue: 0,0:02:54.56,0:02:56.15,Flashback,Philia,0,0,0,,I see.
+Dialogue: 0,0:02:59.37,0:03:00.56,Flashback,Philia,0,0,0,,In that case...
+Dialogue: 0,0:03:05.29,0:03:07.54,Default,Arnold,0,0,0,,Utmost apologies for startling you.
+Dialogue: 0,0:03:08.25,0:03:11.58,Default,sign,0,0,0,,{\fnGeorgia\fs10\shad0\blur4\c&H382219&\3c&HEFF5F2&\b1\pos(509.357,258.163)}Grace's Personal Butler\N{\fs18}Arnold
+Dialogue: 0,0:03:08.25,0:03:11.58,Default,Arnold,0,0,0,,Lady Grace is a great fan of yours.
+Dialogue: 0,0:03:11.58,0:03:15.63,Default,Arnold,0,0,0,,She applies herself diligently every day \Nin hopes of becoming a saint like you.
+Dialogue: 0,0:03:15.92,0:03:17.90,Default,Arnold,0,0,0,,Please overlook her indiscretions.
+Dialogue: 0,0:03:17.90,0:03:18.55,Default,Philia,0,0,0,,R-Right.
+Dialogue: 0,0:03:18.55,0:03:24.55,Default,Grace,0,0,0,,Arnold! I told you that I wanted to tell \Nher what a big fan I was myself!
+Dialogue: 0,0:03:23.60,0:03:24.55,Main - Top,Arnold,0,0,0,,Forgive me.
+Dialogue: 0,0:03:25.21,0:03:29.81,Default,Arnold,0,0,0,,Saint Philia appeared \Nstunned by your intensity.
+Dialogue: 0,0:03:29.81,0:03:30.56,Default,sign,0,0,0,,{\fnArial Black\shad0\pos(449.837,116.082)\c&H3D403D&\3c&HF7FAF8&}Correct
+Dialogue: 0,0:03:32.20,0:03:35.31,Default,Grace,0,0,0,,Saint Philia, I know I'm quite inexperienced,
+Dialogue: 0,0:03:35.31,0:03:37.28,Default,Grace,0,0,0,,but please teach me all you can!
+Dialogue: 0,0:03:37.28,0:03:42.99,Default,Philia,0,0,0,,{\i1}It appears things are going to be lively\N at the mansion for the foreseeable future.
+Dialogue: 0,0:03:44.21,0:03:44.99,Default,Leonardo,0,0,0,,Saint Philia.
+Dialogue: 0,0:03:45.77,0:03:48.37,Default,Leonardo,0,0,0,,Are you certain about this?
+Dialogue: 0,0:03:48.37,0:03:52.75,Default,Leonardo,0,0,0,,To teach the Great Purification Circle \Nto someone from another kingdom...
+Dialogue: 0,0:03:53.30,0:03:57.08,Default,Philia,0,0,0,,It's not as if it's a closely guarded secret.
+Dialogue: 0,0:04:00.34,0:04:02.97,Default,Philia,0,0,0,,But it does take knowledge of ancient rituals,
+Dialogue: 0,0:04:02.97,0:04:05.26,Default,Philia,0,0,0,,and not everyone can perform them.
+Dialogue: 0,0:04:05.85,0:04:11.02,Default,Philia,0,0,0,,{\i1}Indeed, the Great Purification Circle \Ndoesn't require particular talent.
+Dialogue: 0,0:04:11.43,0:04:14.44,Default,Philia,0,0,0,,{\i1}What it does require\N are knowledge and perception.
+Dialogue: 0,0:04:14.82,0:04:18.94,Default,Philia,0,0,0,,{\i1}As the former goes, one must \Nstudy the ancient language.
+Dialogue: 0,0:04:19.61,0:04:22.36,Default,Philia,0,0,0,,{\i1}Mia can't use the Great Purification Circle
+Dialogue: 0,0:04:22.36,0:04:25.16,Default,Philia,0,0,0,,{\i1}because she doesn't know the required tongue.{\i0}
+Dialogue: 0,0:04:26.07,0:04:29.88,Default,Philia,0,0,0,,{\i1}If only I could at least teach\N her the ancient language...
+Dialogue: 0,0:04:31.41,0:04:36.67,Default,Philia,0,0,0,,It seems the Mattilas family incorporates\Nancient language lessons into their training,
+Dialogue: 0,0:04:36.67,0:04:38.85,Default,Philia,0,0,0,,so if Grace knows enough,
+Dialogue: 0,0:04:38.85,0:04:41.96,Default,Philia,0,0,0,,she may be able to pick up\Nthe Great Purification Circle quickly.
+Dialogue: 0,0:04:43.39,0:04:47.44,Default,Philia,0,0,0,,I would now like to begin \Nour ancient ritual class.
+Dialogue: 0,0:04:46.43,0:04:49.01,Default,sign,0,0,0,,{\an8\fnImpact\frx20\shad0\blur2\frz15.81\pos(439.426,50.449)\c&H6F38E4&\3c&HD3D0FF&}SO\NEXCITED
+Dialogue: 0,0:04:47.44,0:04:49.01,Default,Grace,0,0,0,,I can't wait!
+Dialogue: 0,0:04:49.41,0:04:53.26,Default,Philia,0,0,0,,You need two things \Nto perform ancient rituals:
+Dialogue: 0,0:04:53.26,0:04:55.14,Default,Philia,0,0,0,,knowledge and perception.
+Dialogue: 0,0:04:55.14,0:04:56.73,Default,Philia,0,0,0,,You must know the ancient language,
+Dialogue: 0,0:04:56.73,0:04:59.40,Default,Philia,0,0,0,,which I believe you've already \Nstudied to some degree.
+Dialogue: 0,0:04:59.77,0:05:01.25,Default,Philia,0,0,0,,Then there's perception.
+Dialogue: 0,0:05:01.25,0:05:04.03,Default,Philia,0,0,0,,Let's practice perceiving the \Nnatural magic power necessary
+Dialogue: 0,0:05:04.03,0:05:06.28,Default,Philia,0,0,0,,to use ancient rituals, known as mana.
+Dialogue: 0,0:05:06.28,0:05:07.16,Default,Grace,0,0,0,,Yes, ma'am!
+Dialogue: 0,0:05:07.16,0:05:11.49,Default,Grace,0,0,0,,But what is this "mana"?\N I've never heard of it before...
+Dialogue: 0,0:05:13.17,0:05:14.37,Default,Philia,0,0,0,,Let me see.
+Dialogue: 0,0:05:14.73,0:05:17.89,Default,Philia,0,0,0,,Typically, when we cast spells,
+Dialogue: 0,0:05:17.89,0:05:20.67,Default,Philia,0,0,0,,we're using the magic power inside of us.
+Dialogue: 0,0:05:20.67,0:05:22.34,Default,Philia,0,0,0,,This is known as od.
+Dialogue: 0,0:05:22.34,0:05:26.93,Default,Philia,0,0,0,,By contrast, magic power that comes \Nfrom the natural world is called mana.
+Dialogue: 0,0:05:27.69,0:05:32.51,Default,Philia,0,0,0,,Many ancient rituals, like the Great \NPurification Circle, are so massive in scale
+Dialogue: 0,0:05:32.51,0:05:35.85,Default,Philia,0,0,0,,that it would be difficult to \Nperform them with our magic alone.
+Dialogue: 0,0:05:35.85,0:05:38.40,Default,Philia,0,0,0,,We use mana to fill in the gaps.
+Dialogue: 0,0:05:38.73,0:05:44.76,Default,Philia,0,0,0,,That is why the first challenge \Nis learning how to perceive mana.
+Dialogue: 0,0:05:44.76,0:05:46.15,Default,Grace,0,0,0,,I see!
+Dialogue: 0,0:05:46.15,0:05:48.57,Default,Philia,0,0,0,,Stand outside and feel the sunlight.
+Dialogue: 0,0:05:49.13,0:05:52.39,Default,Philia,0,0,0,,Listen to the rustling of the plants.
+Dialogue: 0,0:05:53.33,0:05:57.69,Default,Philia,0,0,0,,If you put yourself into a trance while \Nfeeling the power of nature through your body,
+Dialogue: 0,0:05:57.69,0:06:00.33,Default,Philia,0,0,0,,I believe it will be easier \Nto get the sense of it.
+Dialogue: 0,0:06:00.33,0:06:02.00,Default,Grace,0,0,0,,I'll try!
+Dialogue: 0,0:06:12.39,0:06:14.68,Default - No margins,sign,0,0,0,,{\an8\fnArial Black\c&HF5905C&\3c&H65261F&\4c&H65261F&}Huuuuuuuuuuuuuuuuuuuuuh?
+Dialogue: 0,0:06:14.85,0:06:17.23,Default - No margins,sign,0,0,0,,{\an8\fnArial Black\bord1\c&HF48F5F&\3c&H65261F&\4c&HBC7C3F&}Hrmmmmmmmmmmmmmmm...
+Dialogue: 0,0:06:20.32,0:06:22.63,Default,Philia,0,0,0,,{\i1}This reminds me of my own training.
+Dialogue: 0,0:06:24.11,0:06:25.98,Default,Grace,0,0,0,,Saint Philia!
+Dialogue: 0,0:06:25.98,0:06:29.16,Default,Grace,0,0,0,,I can't sense the mana at all!
+Dialogue: 0,0:06:28.80,0:06:31.37,Default,sign,0,0,0,,{\fad(330,230)\blur2\fax-.2\fnARial Black\shad0\frz17.22\c&H4E133E&\3c&HB35045&\pos(206.699,122.204)}Sad
+Dialogue: 0,0:06:29.16,0:06:34.49,Default,Grace,0,0,0,,I can tell there's power in nature,\N but that's about all...
+Dialogue: 0,0:06:34.49,0:06:36.43,Default,Philia,0,0,0,,That will do for now.
+Dialogue: 0,0:06:37.28,0:06:42.23,Default,Philia,0,0,0,,That faint sensation means you're \Ncapable of perceiving mana.
+Dialogue: 0,0:06:42.23,0:06:46.13,Default,Philia,0,0,0,,Hone that sense and, in time, you'll \Nbe able to interact with it as well.
+Dialogue: 0,0:06:47.20,0:06:49.18,Default,Philia,0,0,0,,As for how to push you further...
+Dialogue: 0,0:06:49.81,0:06:51.15,Default,Philia,0,0,0,,Let me think.
+Dialogue: 0,0:06:53.20,0:06:54.10,Default,Philia,0,0,0,,Come, light!
+Dialogue: 0,0:06:55.10,0:06:58.35,Default,sign,0,0,0,,{\shad0\blur4\fnArial\b1\fs14\pos(128.306,266.082)\c&H0C2509&\3c&HF6FFF9&}Ancient Ritual\N{\fs20}Robe of Light
+Dialogue: 0,0:07:01.15,0:07:03.52,Default,Philia,0,0,0,,This shining light is mana.
+Dialogue: 0,0:07:03.52,0:07:07.97,Default,Philia,0,0,0,,I thought it might be easier \Nto observe with a visual element.
+Dialogue: 0,0:07:07.97,0:07:10.32,Default,Grace,0,0,0,,Saint Philia, you look beautiful.
+Dialogue: 0,0:07:10.32,0:07:12.45,Default,Grace,0,0,0,,You're like an angel.
+Dialogue: 0,0:07:12.96,0:07:14.99,Default,Philia,0,0,0,,I'm sure you're exaggerating.
+Dialogue: 0,0:07:16.34,0:07:19.02,Default,Philia,0,0,0,,{\i1}What's going on here?
+Dialogue: 0,0:07:19.02,0:07:22.37,Default,Philia,0,0,0,,{\i1}It's like she's hanging on my every word.
+Dialogue: 0,0:07:23.69,0:07:28.80,Default,Philia,0,0,0,,{\i1}Why would someone from another kingdom \Nwhom I've never met before...
+Dialogue: 0,0:07:28.80,0:07:30.05,Default,Grace,0,0,0,,To be honest...
+Dialogue: 0,0:07:30.33,0:07:33.92,Default,Grace,0,0,0,,Your books, {\i1}Treatises on Sainthood{\i0}...
+Dialogue: 0,0:07:33.92,0:07:35.68,Default,Grace,0,0,0,,They're my personal bible!
+Dialogue: 0,0:07:35.78,0:07:40.33,Default,sign,0,0,0,,{\shad0\blur2\an1\fnArial\fs16\fad(170,330)\pos(373.283,204.857)\c&H303039&\i1\3c&HD4D4D4&\b1}Treatises on Sainthood{\i0}\N{\fs14}By Philia Adenauer\N{\fs15}Now on sale continent-wide
+Dialogue: 0,0:07:36.52,0:07:38.22,Flashback - Top,Editor,0,0,0,,What do you say, Saint Philia?
+Dialogue: 0,0:07:37.46,0:07:40.14,Default,Philia,0,0,0,,{\i1}I forgot I'd published books.
+Dialogue: 0,0:07:38.22,0:07:41.63,Flashback - Top,Editor,0,0,0,,I believe the people misunderstand\Nmuch of what sainthood entails.
+Dialogue: 1,0:07:40.00,0:07:46.82,Default,sign,0,0,0,,{\fad(330,1)\an9\fnImpact\fs18\shad0\blur4\c&H3D343E&\3c&HFFFFFF&\pos(390.085,163.224)}Let's do it!
+Dialogue: 0,0:07:40.00,0:07:46.82,Default,sign,0,0,0,,{\fad(330,1)\an9\fnImpact\fs18\shad0\blur4\pos(225.071,108.122)\c&H3D343E&\3c&HFFFFFF&}Editor
+Dialogue: 0,0:07:40.14,0:07:44.98,Default,Philia,0,0,0,,{\i1}I turned the idea down a few times because it\Nseemed irrelevant to my saintly duties,
+Dialogue: 0,0:07:41.63,0:07:44.98,Flashback - Top,Editor,0,0,0,,I think publishing your \Nwritings is a great idea!
+Dialogue: 0,0:07:44.98,0:07:46.82,Flashback - Top,Editor,0,0,0,,What do you think? Let's do it!
+Dialogue: 0,0:07:44.98,0:07:46.82,Default,Philia,0,0,0,,{\i1}but I eventually acquiesced.
+Dialogue: 0,0:07:47.22,0:07:51.68,Default,Philia,0,0,0,,That was just a collection of things \NI've learned in my time as a saint
+Dialogue: 0,0:07:51.68,0:07:54.32,Default,Philia,0,0,0,,and my general research.
+Dialogue: 0,0:07:54.32,0:07:55.93,Default,Philia,0,0,0,,Nothing praiseworthy.
+Dialogue: 0,0:07:55.93,0:07:57.41,Default,Grace,0,0,0,,No, you're wrong!
+Dialogue: 0,0:07:57.41,0:08:00.95,Default,Grace,0,0,0,,Your books kept me going in my darkest hour!
+Dialogue: 0,0:08:01.47,0:08:06.68,Default,Grace,0,0,0,,I'm the fourth daughter in a family of \Nsaints, with no exceptional talent...
+Dialogue: 0,0:08:06.68,0:08:10.26,Default,Grace,0,0,0,,I was only able to stay strong\Nthrough my fierce training
+Dialogue: 0,0:08:10.26,0:08:12.23,Default,Grace,0,0,0,,because I read {\i1}Treatises on Sainthood{\i0}
+Dialogue: 0,0:08:12.23,0:08:13.78,Default,Grace,0,0,0,,and was touched by its teachings!
+Dialogue: 0,0:08:13.78,0:08:16.89,Default,Grace,0,0,0,,I wanted to be just like you someday!
+Dialogue: 0,0:08:18.03,0:08:20.62,Default,Grace,0,0,0,,It was clear to me \Njust from reading your work.
+Dialogue: 0,0:08:20.62,0:08:25.15,Default,Grace,0,0,0,,There was none the authorial judgment \Nthat usually slips into books.
+Dialogue: 0,0:08:25.56,0:08:31.28,Default,Grace,0,0,0,,It revealed an impartial heart, \Nalmost awkwardly dedicated to the craft.
+Dialogue: 0,0:08:31.71,0:08:34.91,Default,Grace,0,0,0,,I could hardly believe \Nsomeone like you existed.
+Dialogue: 0,0:08:35.31,0:08:39.95,Default,Grace,0,0,0,,And so I've always wanted \Nto meet you and tell you...
+Dialogue: 0,0:08:40.52,0:08:42.45,Default,Grace,0,0,0,,Thank you!
+Dialogue: 0,0:08:44.13,0:08:48.49,Default,Grace,0,0,0,,For becoming a saint,\Nfor writing those books...
+Dialogue: 0,0:08:49.42,0:08:50.84,Default,Grace,0,0,0,,Thank you so much.
+Dialogue: 0,0:08:51.76,0:08:55.09,Default,Grace,0,0,0,,You saved me.
+Dialogue: 0,0:08:55.87,0:08:59.24,Flashback,Cornelia,0,0,0,,The arrogance of publishing this drivel!
+Dialogue: 0,0:08:59.24,0:09:01.58,Flashback,Cornelia,0,0,0,,Does your shamelessness know no bounds?!
+Dialogue: 0,0:09:02.22,0:09:04.56,Flashback,Julius,0,0,0,,{\i1}Treatises on Sainthood{\i0}?!
+Dialogue: 0,0:09:04.56,0:09:08.20,Flashback,Julius,0,0,0,,It's nothing but boasting \Nabout your accomplishments!
+Dialogue: 0,0:09:08.20,0:09:10.33,Flashback,Julius,0,0,0,,We're ceasing its publication at once.
+Dialogue: 0,0:09:10.84,0:09:14.74,Default,Philia,0,0,0,,{\i1}My books are no longer circulated in Girtonia.
+Dialogue: 0,0:09:15.40,0:09:18.92,Default,Philia,0,0,0,,{\i1}The world I lived in rejected \Nme at every turn...
+Dialogue: 0,0:09:19.93,0:09:23.44,Default,Philia,0,0,0,,{\i1}so I began to believe that was normal.
+Dialogue: 0,0:09:24.86,0:09:29.25,Default,Philia,0,0,0,,{\i1}I came to regret ever writing anything.
+Dialogue: 0,0:09:30.37,0:09:31.23,Default,Philia,0,0,0,,{\i1}But...
+Dialogue: 0,0:09:32.15,0:09:33.31,Default,Philia,0,0,0,,{\i1}I see now.
+Dialogue: 0,0:09:34.26,0:09:39.10,Default,Philia,0,0,0,,{\i1}The world I lived in was so small, wasn't it?
+Dialogue: 0,0:09:40.03,0:09:42.06,Default,Sign,0,0,0,,{\an2\fnGeorgia\b1\fs10\shad0\bord0\c&H884FD9&\pos(323,110)}The Too-Perfect Saint{\c&H9B9999&}: {\c&HDEC58D&}Tossed {\c&HDDBF93&}Aside\N{\c&HE2B99A&}by {\c&HC8ACAD&}My {\c&HDDB3B4&}Fiancé {\c&HDCBAC3&}and {\c&HD79BB3&}Sold {\c&HCEA8CE&}to {\c&HD4A8D5&}Another {\c&HC3A8E2&}Kingdom
+Dialogue: 0,0:09:43.13,0:09:45.77,Default,Philia,0,0,0,,Let's take a break now.
+Dialogue: 0,0:09:45.77,0:09:47.27,Default,Grace,0,0,0,,Yes, ma'am!
+Dialogue: 0,0:09:47.74,0:09:52.93,Default,Grace,0,0,0,,Saint Philia, have you ever \Ninstructed anyone before me?
+Dialogue: 0,0:09:52.93,0:09:55.78,Default,Philia,0,0,0,,No. You're the first.
+Dialogue: 0,0:09:55.78,0:09:57.35,Default,Grace,0,0,0,,I'm your first student?!
+Dialogue: 0,0:09:57.35,0:09:59.20,Default,Grace,0,0,0,,How wonderful!
+Dialogue: 0,0:09:59.20,0:10:02.26,Default,Grace,0,0,0,,Your explanations are so easy to understand!
+Dialogue: 0,0:10:02.26,0:10:05.58,Default,Grace,0,0,0,,And when you praise me,\Nit gives me so much motivation!
+Dialogue: 0,0:10:06.13,0:10:07.49,Default,Philia,0,0,0,,Does it?
+Dialogue: 0,0:10:07.49,0:10:08.92,Default,Grace,0,0,0,,It does!
+Dialogue: 0,0:10:09.42,0:10:13.46,Main - Italics,Philia,0,0,0,,I feel like Lena said something similar.
+Dialogue: 0,0:10:14.43,0:10:18.16,Default,Philia,0,0,0,,I'm just imitating my own teacher, though.
+Dialogue: 0,0:10:18.16,0:10:20.34,Default,Grace,0,0,0,,The person who taught you?!
+Dialogue: 0,0:10:20.34,0:10:24.02,Default,Grace,0,0,0,,Would that be the previous saint \Nof Girtonia, then?
+Dialogue: 0,0:10:24.02,0:10:24.72,Default,Philia,0,0,0,,Yes.
+Dialogue: 0,0:10:25.22,0:10:27.72,Default,Philia,0,0,0,,Her name is Hildegard Adenauer.
+Dialogue: 0,0:10:27.72,0:10:29.62,Default,Philia,0,0,0,,She's my father's elder sister.
+Dialogue: 0,0:10:29.62,0:10:32.46,Default,Philia,0,0,0,,That is, my paternal aunt.
+Dialogue: 0,0:10:32.46,0:10:34.48,Default,Grace,0,0,0,,What was she like?
+Dialogue: 0,0:10:34.67,0:10:40.49,Default,sign,0,0,0,,{\fad(790,1)\fs18\shad0\an8\fnComic Sans MS\pos(290.728,10)\b1\c&H000000&\3c&HFEFEFE&}I mean, I got used to it...
+Dialogue: 0,0:10:35.88,0:10:38.48,Default,Philia,0,0,0,,She was very strict.
+Dialogue: 0,0:10:38.48,0:10:40.49,Default,Grace,0,0,0,,Saint Philia, your eyes have glazed over!
+Dialogue: 0,0:10:40.83,0:10:43.24,Default,Philia,0,0,0,,"Unsparing" is the word I might use.
+Dialogue: 0,0:10:43.57,0:10:48.27,Default,Philia,0,0,0,,She cast me on a mountain in winter \Nto teach me to survive by myself.
+Dialogue: 0,0:10:49.14,0:10:51.83,Default,Philia,0,0,0,,She buried me in the desert all on my own.
+Dialogue: 0,0:10:53.16,0:10:57.17,Default,Philia,0,0,0,,She had me lie on beds of needles \Nto practice my magic control.
+Dialogue: 0,0:10:58.84,0:11:00.46,Default,Philia,0,0,0,,It was hard.
+Dialogue: 0,0:11:00.46,0:11:03.55,Default,Grace,0,0,0,,{\i1}That feels like it goes way beyond "hard"!
+Dialogue: 0,0:11:04.51,0:11:09.82,Default,Grace,0,0,0,,But in that case, is there a reason \Nshe was that hard on you?
+Dialogue: 0,0:11:10.31,0:11:14.64,Default,Grace,0,0,0,,I mean, whether someone's mean\N or kind, likes you or hates you,
+Dialogue: 0,0:11:14.64,0:11:16.97,Default,Grace,0,0,0,,there's always a reason.
+Dialogue: 0,0:11:16.97,0:11:18.19,Default,Philia,0,0,0,,{\i1}A reason?
+Dialogue: 0,0:11:18.92,0:11:20.87,Flashback,Hildegard,0,0,0,,I'm sorry, Philia.
+Dialogue: 0,0:11:20.87,0:11:22.74,Flashback,Hildegard,0,0,0,,You haven't done anything wrong.
+Dialogue: 0,0:11:23.13,0:11:28.24,Flashback,Hildegard,0,0,0,,But I've always had a bad \Nrelationship with your parents,
+Dialogue: 0,0:11:28.24,0:11:31.28,Flashback,Hildegard,0,0,0,,and you look so much like \Nme when I was younger...
+Dialogue: 0,0:11:31.28,0:11:33.50,Flashback,Hildegard,0,0,0,,It's not your fault they hate you.
+Dialogue: 0,0:11:33.84,0:11:38.14,Flashback,Hildegard,0,0,0,,That's why I've tried hard \Nto make you strong.
+Dialogue: 0,0:11:38.14,0:11:41.09,Flashback,Hildegard,0,0,0,,So that you can bounce back \Nfrom anything life throws at you.
+Dialogue: 0,0:11:41.72,0:11:43.07,Default,Philia,0,0,0,,{\i1}That's right.
+Dialogue: 0,0:11:43.07,0:11:46.91,Default,Philia,0,0,0,,{\i1}My teacher was always concerned for me.
+Dialogue: 0,0:11:48.81,0:11:53.10,Default,Philia,0,0,0,,{\i1}To think I'd only realized something so \Nimportant after leaving the kingdom...
+Dialogue: 0,0:11:53.51,0:11:55.82,Default,Philia,0,0,0,,{\i1}Forgive me, my mentor.
+Dialogue: 0,0:12:00.31,0:12:01.61,Default,Philia,0,0,0,,Lena.
+Dialogue: 0,0:12:01.61,0:12:02.87,Default,Lena,0,0,0,,Yes?
+Dialogue: 0,0:12:02.87,0:12:08.12,Default,Philia,0,0,0,,Why does the main character agree \Nto elope here, even though it's wrong?
+Dialogue: 0,0:12:09.40,0:12:11.25,Default,Lena,0,0,0,,Well, that's because...
+Dialogue: 0,0:12:11.62,0:12:15.98,Default,Lena,0,0,0,,her desire to do it wins out in the end!
+Dialogue: 0,0:12:15.98,0:12:17.57,Default,Philia,0,0,0,,Is that how it works?
+Dialogue: 0,0:12:17.57,0:12:19.99,Default,Lena,0,0,0,,It certainly is!
+Dialogue: 0,0:12:19.99,0:12:22.50,Default,Philia,0,0,0,,I'm sorry to ask you so many questions.
+Dialogue: 0,0:12:22.50,0:12:23.84,Default,Lena,0,0,0,,I don't mind!
+Dialogue: 0,0:12:24.12,0:12:27.10,Default,Lena,0,0,0,,I'm glad to be able to chat\N with someone about it.
+Dialogue: 0,0:12:27.10,0:12:28.10,Default,Leonardo,0,0,0,,Saint Philia.
+Dialogue: 0,0:12:28.56,0:12:30.40,Default,Leonardo,0,0,0,,A letter from Himari.
+Dialogue: 0,0:12:33.85,0:12:36.10,Default,sign,0,0,0,,{\fs20\fnTimes New Roman\b1\shad0\pos(301.014,267.918)\c&H333535&\3c&HFBFDFD&}"Delivery complete"
+Dialogue: 0,0:12:37.76,0:12:40.36,Default,Leonardo,0,0,0,,Now, regarding tomorrow...
+Dialogue: 0,0:12:40.36,0:12:43.23,Default,Leonardo,0,0,0,,The carriage has been arranged.
+Dialogue: 0,0:12:43.72,0:12:46.46,Default,Lena,0,0,0,,Saint Philia, are you going somewhere?
+Dialogue: 0,0:12:48.20,0:12:49.13,Default,Philia,0,0,0,,Yes.
+Dialogue: 0,0:12:50.04,0:12:54.14,Default,Philia,0,0,0,,Grace wants to visit Elizabeth's grave.
+Dialogue: 0,0:12:56.36,0:12:58.00,Default,Grace,0,0,0,,My dear Liz...
+Dialogue: 0,0:12:58.00,0:13:01.36,Default,Philia,0,0,0,,She passed a few months ago, didn't she?
+Dialogue: 0,0:13:01.36,0:13:04.38,Default,Grace,0,0,0,,Yes. About three months ago.
+Dialogue: 0,0:13:06.06,0:13:11.52,Default,Grace,0,0,0,,Liz... Elizabeth... was my cousin.
+Dialogue: 0,0:13:12.13,0:13:14.38,Default,Grace,0,0,0,,She was born with a frail constitution,
+Dialogue: 0,0:13:14.38,0:13:17.18,Default,Grace,0,0,0,,so my father was always worried about her.
+Dialogue: 0,0:13:17.18,0:13:22.82,Default,Grace,0,0,0,,I came to Parnacorta to see her rather often.
+Dialogue: 0,0:13:23.76,0:13:25.57,Default,Philia,0,0,0,,I see.
+Dialogue: 0,0:13:28.00,0:13:29.60,Default,Reichardt,0,0,0,,Philia?
+Dialogue: 0,0:13:29.60,0:13:30.58,Default,Reichardt,0,0,0,,And...
+Dialogue: 0,0:13:32.33,0:13:33.75,Default,Reichardt,0,0,0,,Liz?
+Dialogue: 0,0:13:34.43,0:13:35.41,Default,Reichardt,0,0,0,,No...
+Dialogue: 0,0:13:36.74,0:13:38.64,Default,Reichardt,0,0,0,,Grace, was it?
+Dialogue: 0,0:13:38.64,0:13:41.75,Default,Grace,0,0,0,,Indeed, I am Grace Mattilas.
+Dialogue: 0,0:13:50.87,0:13:54.08,Default,Philia,0,0,0,,You visit Elizabeth's grave \Nas well, Prince Reichardt?
+Dialogue: 0,0:13:54.08,0:13:54.89,Default,Reichardt,0,0,0,,Yes.
+Dialogue: 0,0:13:55.21,0:13:57.81,Default,Reichardt,0,0,0,,She and I were previously engaged.
+Dialogue: 0,0:14:15.72,0:14:18.58,Default,Reichardt,0,0,0,,She always loved these flowers...
+Dialogue: 0,0:14:19.24,0:14:21.75,Default,Reichardt,0,0,0,,Golden freesia.
+Dialogue: 0,0:14:22.54,0:14:26.30,Default,Reichardt,0,0,0,,I longed to give her finer presents,
+Dialogue: 0,0:14:26.30,0:14:30.43,Default,Reichardt,0,0,0,,but she told me that the scent of \Nthese flowers reminded her of me.
+Dialogue: 0,0:14:31.18,0:14:34.93,Default,Reichardt,0,0,0,,I never knew what to say to that.
+Dialogue: 0,0:14:41.43,0:14:44.32,Default,Philia,0,0,0,,{\i1}I have a hard time reading \Nemotions, but even I can tell...
+Dialogue: 0,0:14:45.23,0:14:50.86,Default,Philia,0,0,0,,{\i1}He's still in love with Elizabeth.
+Dialogue: 0,0:14:51.97,0:14:53.87,Default,Grace,0,0,0,,That was quite a surprise.
+Dialogue: 0,0:14:54.62,0:14:57.77,Default,Grace,0,0,0,,I never thought I'd get \Nto meet Prince Reichardt.
+Dialogue: 0,0:14:58.37,0:15:02.83,Default,Grace,0,0,0,,I've heard his duties keep him terribly busy.
+Dialogue: 0,0:15:02.83,0:15:03.38,Default,Philia,0,0,0,,Yes.
+Dialogue: 0,0:15:04.49,0:15:08.30,Default,Philia,0,0,0,,{\i1}I guess people can truly love that deeply.
+Dialogue: 0,0:15:08.83,0:15:10.90,Default,Philia,0,0,0,,{\i1}I've never been loved before.
+Dialogue: 0,0:15:10.90,0:15:13.89,Main - Italics,Philia,0,0,0,,I'm still not even really sure what love is.
+Dialogue: 0,0:15:14.39,0:15:17.39,Default,Philia,0,0,0,,{\i1}It's only natural that I wouldn't understand.
+Dialogue: 0,0:15:18.30,0:15:19.28,Default,Philia,0,0,0,,{\i1}Wait...
+Dialogue: 0,0:15:19.28,0:15:25.01,Default,Philia,0,0,0,,{\i1}All this time, I've been trying\N to earn the love of others.
+Dialogue: 0,0:15:25.69,0:15:29.67,Default,Philia,0,0,0,,{\i1}Have I ever tried to love anyone?
+Dialogue: 0,0:15:39.23,0:15:42.37,Default,Lena,0,0,0,,Saint Philia! Do you have a minute?
+Dialogue: 0,0:15:42.73,0:15:43.83,Default,Philia,0,0,0,,I do.
+Dialogue: 0,0:15:46.46,0:15:50.72,Default,Lena,0,0,0,,Sorry, but could you make \Nthis delivery for me?
+Dialogue: 0,0:15:51.34,0:15:52.97,Default,Osvalt,0,0,0,,Hey, Miss Philia!
+Dialogue: 0,0:15:54.55,0:15:56.28,Default,Philia,0,0,0,,Prince Osvalt...
+Dialogue: 0,0:15:56.28,0:15:57.51,Default,Osvalt,0,0,0,,Fancy running into you!
+Dialogue: 0,0:15:57.51,0:16:00.37,Default,Osvalt,0,0,0,,What brings you all the way out here?
+Dialogue: 0,0:16:01.04,0:16:04.10,Default,Philia,0,0,0,,Lena asked me to bring this.
+Dialogue: 0,0:16:04.48,0:16:05.48,Default,Philia,0,0,0,,Goodbye.
+Dialogue: 0,0:16:05.11,0:16:06.11,Default,sign,0,0,0,,{\fad(1,111)\bord1\shad0\fnArial Black\an9\pos(447.904,18.612)\c&HF05898&\3c&H6E3130&}Mission Complete
+Dialogue: 0,0:16:05.48,0:16:06.40,Default,Osvalt,0,0,0,,That was fast!
+Dialogue: 0,0:16:06.40,0:16:07.73,Default,Osvalt,0,0,0,,Wait, wait, wait a minute!
+Dialogue: 0,0:16:08.06,0:16:10.38,Default,Osvalt,0,0,0,,There's enough for two here.
+Dialogue: 0,0:16:10.38,0:16:11.99,Default,Osvalt,0,0,0,,Care to join me?
+Dialogue: 0,0:16:17.80,0:16:19.66,Default,Osvalt,0,0,0,,Wow, these are good!
+Dialogue: 0,0:16:19.66,0:16:21.25,Default,Philia,0,0,0,,{\i1}What a beautiful garden.
+Dialogue: 0,0:16:21.95,0:16:24.87,Default,Philia,0,0,0,,{\i1}He tends it all by himself, \Nwithout any help...
+Dialogue: 0,0:16:25.72,0:16:27.48,Default,Philia,0,0,0,,{\i1}But why?
+Dialogue: 0,0:16:27.48,0:16:30.12,Default,Osvalt,0,0,0,,Wondering why I do all this?
+Dialogue: 0,0:16:31.28,0:16:32.82,Default,Osvalt,0,0,0,,Yeah, makes sense.
+Dialogue: 0,0:16:37.24,0:16:40.02,Default,Osvalt,0,0,0,,I'm not interested in the throne.
+Dialogue: 0,0:16:44.12,0:16:46.19,Default,Osvalt,0,0,0,,But despite how I feel,
+Dialogue: 0,0:16:46.19,0:16:49.12,Default,Osvalt,0,0,0,,the nobles around me\Ninsisted on forming factions
+Dialogue: 0,0:16:49.12,0:16:50.94,Default,Osvalt,0,0,0,,and tried to advocate for my claim.
+Dialogue: 0,0:16:51.82,0:16:54.07,Default,Osvalt,0,0,0,,I couldn't stand it.
+Dialogue: 0,0:16:54.58,0:16:58.07,Default,Osvalt,0,0,0,,I love this kingdom, and I love my family.
+Dialogue: 0,0:16:58.42,0:17:03.29,Default,Osvalt,0,0,0,,So I decided to play the layabout son\N not worth playing politics over.
+Dialogue: 0,0:17:03.83,0:17:05.54,Default,Osvalt,0,0,0,,And that was that.
+Dialogue: 0,0:17:06.83,0:17:11.13,Default,Philia,0,0,0,,{\i1}He's not a prince first.
+Dialogue: 0,0:17:11.13,0:17:13.55,Default,Philia,0,0,0,,{\i1}He's a kind soul who loves his family.{\i0}
+Dialogue: 0,0:17:15.54,0:17:21.49,Default,Philia,0,0,0,,Yesterday, I ran into Prince \NReichardt at the cemetery.
+Dialogue: 0,0:17:22.27,0:17:23.77,Default,Osvalt,0,0,0,,I see.
+Dialogue: 0,0:17:25.02,0:17:28.78,Default,Osvalt,0,0,0,,He was deeply in love with Elizabeth.
+Dialogue: 0,0:17:29.36,0:17:33.27,Default,Osvalt,0,0,0,,Seeing my straitlaced brother \Nhead over heels for a girl...
+Dialogue: 0,0:17:33.27,0:17:34.86,Default,Osvalt,0,0,0,,It was really something.
+Dialogue: 0,0:17:35.44,0:17:40.18,Default,Osvalt,0,0,0,,He said that protecting the saint \Nwas the duty of a worthy king.
+Dialogue: 0,0:17:40.97,0:17:42.29,Default,Osvalt,0,0,0,,That was a surprise.
+Dialogue: 0,0:17:43.62,0:17:45.37,Default,Osvalt,0,0,0,,But he couldn't save her.
+Dialogue: 0,0:17:45.94,0:17:50.16,Default,Osvalt,0,0,0,,"What kind of future king can't \Nprotect the woman he loves?"
+Dialogue: 0,0:17:50.16,0:17:55.38,Default,Osvalt,0,0,0,,As if to punish himself, he's thrown \Nhimself tirelessly into his duties.
+Dialogue: 0,0:17:57.55,0:17:59.92,Default,Philia,0,0,0,,But surely there's no reason to...
+Dialogue: 0,0:17:59.92,0:18:02.31,Default,Osvalt,0,0,0,,Yeah, it's a sad thing.
+Dialogue: 0,0:18:02.69,0:18:05.77,Default,Osvalt,0,0,0,,But I know that sometimes \Nyou need time to feel sad.
+Dialogue: 0,0:18:07.55,0:18:12.94,Default,Osvalt,0,0,0,,It's just frustrating that all I can do\N is watch until his wounds heal.
+Dialogue: 0,0:18:13.82,0:18:16.99,Default,Osvalt,0,0,0,,He really could use a hobby like mine!
+Dialogue: 0,0:18:16.99,0:18:17.95,Default,Philia,0,0,0,,A hobby?
+Dialogue: 0,0:18:17.95,0:18:21.12,Default,Osvalt,0,0,0,,When I decided to play the layabout son,
+Dialogue: 0,0:18:21.12,0:18:23.79,Default,Osvalt,0,0,0,,I spent some time thinking \Nabout what I should do.
+Dialogue: 0,0:18:24.24,0:18:27.97,Default,Osvalt,0,0,0,,I figured if I was picking up a hobby,\Nit shouldn't just be for me...
+Dialogue: 0,0:18:27.97,0:18:31.00,Default,Osvalt,0,0,0,,I wanted it to bring joy \Nto the folks around me, too.
+Dialogue: 0,0:18:31.00,0:18:34.84,Default,Osvalt,0,0,0,,The idea of something I do \Nmaking other people happy...
+Dialogue: 0,0:18:35.38,0:18:37.70,Default,Osvalt,0,0,0,,That's as delightful as it gets.
+Dialogue: 0,0:18:38.28,0:18:40.48,Default,Osvalt,0,0,0,,What about you, Miss Philia?
+Dialogue: 0,0:18:40.48,0:18:41.50,Default,Philia,0,0,0,,Me?
+Dialogue: 0,0:18:41.97,0:18:43.10,Default,Osvalt,0,0,0,,Ever felt that way?
+Dialogue: 0,0:18:44.98,0:18:46.60,Default,Philia,0,0,0,,{\i1}I've never...
+Dialogue: 0,0:18:48.25,0:18:49.48,Default,Philia,0,0,0,,{\i1}ever...
+Dialogue: 0,0:18:50.85,0:18:53.19,Flashback,Mia,0,0,0,,Thank you, Big Sister!
+Dialogue: 0,0:18:55.04,0:18:56.26,Flashback,Merchant's Son,0,0,0,,Thank you!
+Dialogue: 0,0:18:56.72,0:18:59.47,Flashback,Lena,0,0,0,,Saint Philia, thank you so much!
+Dialogue: 0,0:19:06.85,0:19:07.95,Default,Philia,0,0,0,,I...
+Dialogue: 0,0:19:07.95,0:19:10.62,Default,Philia,0,0,0,,I've always thought that, as a saint,
+Dialogue: 0,0:19:10.62,0:19:14.46,Default,Philia,0,0,0,,I should abstain from personal desires
+Dialogue: 0,0:19:14.46,0:19:17.96,Default,Philia,0,0,0,,and instead dedicate myself\Nto the prosperity of our kingdom.
+Dialogue: 0,0:19:18.93,0:19:24.98,Default,Philia,0,0,0,,But in the end, I was just trying \Nto make my parents happy.
+Dialogue: 0,0:19:25.60,0:19:31.09,Default,Philia,0,0,0,,I thought if I couldn't make them happy,\N acknowledge me, love me...
+Dialogue: 0,0:19:31.09,0:19:33.46,Default,Philia,0,0,0,,There would be no point to any of it.
+Dialogue: 0,0:19:34.08,0:19:36.69,Default,Philia,0,0,0,,That was the only thing I could see.
+Dialogue: 0,0:19:37.83,0:19:42.61,Default,Philia,0,0,0,,But there were plenty of people around \Nme whom I {\i1}was{\i0} making happy.
+Dialogue: 0,0:19:43.18,0:19:47.02,Default,Philia,0,0,0,,I'm only just realizing that.
+Dialogue: 0,0:19:47.60,0:19:48.67,Default,Osvalt,0,0,0,,Miss Philia...
+Dialogue: 0,0:19:52.56,0:19:54.10,Default,Osvalt,0,0,0,,You've done great!
+Dialogue: 0,0:19:54.63,0:19:57.04,Default,Osvalt,0,0,0,,If your parents won't acknowledge you,
+Dialogue: 0,0:19:57.04,0:20:00.13,Default,Osvalt,0,0,0,,I'll acknowledge all \Nyou've done in their stead.
+Dialogue: 0,0:20:01.65,0:20:04.52,Default,Osvalt,0,0,0,,Guess that's kinda presumptuous, huh?
+Dialogue: 0,0:20:05.89,0:20:07.02,Default,Philia,0,0,0,,No...
+Dialogue: 0,0:20:09.50,0:20:10.46,Main - Italics,Philia,0,0,0,,Not at all.
+Dialogue: 0,0:20:11.59,0:20:14.31,Default,Philia,0,0,0,,{\i1}I've always... always...
+Dialogue: 0,0:20:14.88,0:20:18.82,Default,Philia,0,0,0,,{\i1}wanted to hear those words.
+Dialogue: 0,0:20:22.48,0:20:24.11,Default,Philia,0,0,0,,Thank you so much.
+Dialogue: 0,0:20:37.42,0:20:39.84,Default,Philia,0,0,0,,And that's why it's necessary.
+Dialogue: 0,0:20:39.84,0:20:40.80,Default,Arnold,0,0,0,,I see.
+Dialogue: 0,0:20:41.11,0:20:45.11,Default,Arnold,0,0,0,,So the mistress is attempting to perceive \Nthis "mana" which you describe?
+Dialogue: 0,0:20:45.11,0:20:46.80,Default,Grace,0,0,0,,Hey, Arnold.
+Dialogue: 0,0:20:46.80,0:20:48.97,Default,Grace,0,0,0,,Are you interested in ancient rituals now?
+Dialogue: 0,0:20:48.97,0:20:49.51,Default,Arnold,0,0,0,,No.
+Dialogue: 0,0:20:49.51,0:20:56.39,Default,Arnold,0,0,0,,But your father has asked me to report \Non his darling daughter's progress.
+Dialogue: 0,0:20:56.98,0:20:58.48,Default,Grace,0,0,0,,Father...
+Dialogue: 0,0:20:58.48,0:20:59.95,Default,Grace,0,0,0,,Darn it!
+Dialogue: 0,0:20:59.95,0:21:03.52,Default,Grace,0,0,0,,Tell him I'm working hard to help Bolmern!
+Dialogue: 0,0:21:03.52,0:21:05.67,Default,Grace,0,0,0,,I'm fifteen years old already!
+Dialogue: 0,0:21:05.67,0:21:09.12,Main - Top,Grace,0,0,0,,Tell him to stop treating me like \Na little child all the time!
+Dialogue: 0,0:21:07.43,0:21:12.76,Default,Philia,0,0,0,,{\i1}I'd also like to help the people of \Nthis kingdom who've been so kind to me.
+Dialogue: 0,0:21:09.12,0:21:13.75,Main - Top,Grace,0,0,0,,I'm a saint now, so I'm working really,\N really hard on my own!
+Dialogue: 0,0:21:14.64,0:21:16.62,Default,Philia,0,0,0,,{\i1}I'd also like to help...?
+Dialogue: 0,0:21:17.18,0:21:20.50,Default,Philia,0,0,0,,{\i1}Wait. In ancient rituals...
+Dialogue: 0,0:21:22.01,0:21:25.34,Default,Philia,0,0,0,,Pardon me. That will be all \Nfor our lesson today.
+Dialogue: 0,0:21:30.96,0:21:32.39,Default,Osvalt,0,0,0,,Brother.
+Dialogue: 0,0:21:32.84,0:21:36.01,Default,Osvalt,0,0,0,,Why have you summoned me so suddenly?
+Dialogue: 0,0:21:36.01,0:21:36.89,Default,Reichardt,0,0,0,,Right.
+Dialogue: 0,0:21:37.45,0:21:39.40,Default,Reichardt,0,0,0,,This letter just arrived.
+Dialogue: 0,0:21:41.68,0:21:44.52,Default,Osvalt,0,0,0,,Wait, is this some kind of joke?
+Dialogue: 0,0:21:44.52,0:21:49.02,Default,Reichardt,0,0,0,,No. For reasons unknown, \Nthe Kingdom of Girtonia...
+Dialogue: 0,0:21:50.90,0:21:53.85,Default,Reichardt,0,0,0,,has requested that we return Saint Philia.
+Dialogue: 0,0:23:26.87,0:23:32.39,Default,Philia,0,0,0,,{\i1}The Too-Perfect Saint: Tossed Aside by \NMy Fiancé and Sold to Another Kingdom{\i0}.
+Dialogue: 0,0:23:33.36,0:23:35.01,Default,Philia,0,0,0,,Next time, episode 6:
+Dialogue: 0,0:23:35.01,0:23:40.02,Default,sign,0,0,0,,{\shad1\bord0\fs18\fnGeorgia\c&HFBFFFF&\3c&H0F0F10&\4c&H302E2C&\pos(320,67.102)\b1}Next Time
+Dialogue: 0,0:23:35.01,0:23:40.02,Default,sign,0,0,0,,{\shad1\bord0\fs14\fnGeorgia\c&HFBFFFF&\3c&H4E4E4E&\4c&H4E4E4E&\b1\pos(320,120.348)}Episode 6
+Dialogue: 0,0:23:35.01,0:23:40.02,Default,sign,0,0,0,,{\shad1\bord0\an8\fnGeorgia\c&HFBFFFF&\3c&H4E4E4E&\fs20\4c&H6A6763&\b1\pos(320,255)}"{\fs24\c&HBDE53E&\4c&HFFFFFF&}Reason {\fs20\c&HFBFFFF&\4c&H6A6763&}and {\fs24\c&HBDE53E&\4c&HFFFFFF&}Emotion{\fs20\c&HFBFFFF&\4c&H6A6763&}"
+Dialogue: 0,0:23:36.13,0:23:37.72,Default,Philia,0,0,0,,"Reason and Emotion."

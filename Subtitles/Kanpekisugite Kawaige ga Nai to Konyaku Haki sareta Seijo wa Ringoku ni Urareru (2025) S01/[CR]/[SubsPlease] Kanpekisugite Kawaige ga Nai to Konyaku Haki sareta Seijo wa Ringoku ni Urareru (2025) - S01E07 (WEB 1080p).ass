@@ -1,0 +1,391 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Main - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Default - No margins,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.53,0:00:05.65,Default,Pierre,0,0,0,,Good morning, Saint Mia.
+Dialogue: 0,0:00:05.65,0:00:09.63,Default,Pierre,0,0,0,,I've been appointed to lead\N your personal guard.
+Dialogue: 0,0:00:09.40,0:00:10.90,Default,sign,0,0,0,,{\fad(150,1)\fnGeorgia\fs10\shad0\blur4\c&H433347&\3c&HEFF5F2&\b1\pos(534.467,290.001)}Captain of the Saint's Personal Guard\N {\fs14}Pierre
+Dialogue: 0,0:00:09.63,0:00:10.90,Default,Pierre,0,0,0,,My name is Pierre.
+Dialogue: 0,0:00:11.46,0:00:12.80,Default,Mia,0,0,0,,You're the one?
+Dialogue: 0,0:00:14.98,0:00:17.64,Default,Pierre,0,0,0,,Shall we proceed with your duties?
+Dialogue: 0,0:00:18.98,0:00:19.87,Default,Mia,0,0,0,,First...
+Dialogue: 0,0:00:21.31,0:00:24.42,Default,Mia,0,0,0,,There's somewhere I'd like to go.
+Dialogue: 0,0:00:25.12,0:00:29.00,Default,Mia,0,0,0,,Take me to Crown Prince Fernand.
+Dialogue: 0,0:00:29.34,0:00:35.13,Default,sign,0,0,0,,{\fad(690,1)\shad1\bord0\fnGeorgia\fs10\c&HF9F8FA&\3c&H4E4E4E&\4c&H252526&\pos(518,283.044)}Episode 7\N"The Imprisoned {\fs12\c&HF4A04E&}Prince{\fs10\c&HF9F8FA&}"
+Dialogue: 1,0:00:31.23,0:00:35.13,Main - Top,Pierre,0,0,0,,I'd never have expected you were on our side.
+Dialogue: 0,0:00:35.66,0:00:37.21,Default,Mia,0,0,0,,I could say the same.
+Dialogue: 0,0:00:37.21,0:00:41.79,Default,Mia,0,0,0,,To think someone from the crown prince \Nfaction would be assigned to my guard...
+Dialogue: 0,0:00:42.40,0:00:46.35,Default,Pierre,0,0,0,,Support for the crown prince \Nis common among the soldiers,
+Dialogue: 0,0:00:46.35,0:00:50.22,Default,Pierre,0,0,0,,though they keep their loyalties quiet \Nso that Prince Julius doesn't catch wind.
+Dialogue: 0,0:00:50.88,0:00:53.15,Default,Mia,0,0,0,,{\i1}It's just as Himari told me.
+Dialogue: 0,0:00:53.15,0:00:56.92,Default,Mia,0,0,0,,{\i1}Prince Fernand has been sickly since birth.
+Dialogue: 0,0:00:56.92,0:01:02.46,Default,Mia,0,0,0,,{\i1}The nobles who sought to promote \NPrince Julius took advantage of that
+Dialogue: 0,0:01:02.46,0:01:05.54,Default,Mia,0,0,0,,{\i1}to cut the crown prince \Nfaction off at the knees.
+Dialogue: 0,0:01:05.54,0:01:10.55,Default,Pierre,0,0,0,,Prince Julius treats \Nthe soldiers as disposable.
+Dialogue: 0,0:01:10.55,0:01:15.55,Default,Pierre,0,0,0,,He works us to the bone and diverts \Nmanpower for building his golden statue.
+Dialogue: 0,0:01:15.55,0:01:19.19,Default,Pierre,0,0,0,,I'm afraid there will be no\Ndefending the kingdom like this.
+Dialogue: 0,0:01:19.19,0:01:24.25,Default,Mia,0,0,0,,I've heard you were formerly part \Nof Prince Fernand's personal guard.
+Dialogue: 0,0:01:24.25,0:01:26.62,Default,Mia,0,0,0,,How does he seem to be doing?
+Dialogue: 0,0:01:27.56,0:01:28.56,Default,Pierre,0,0,0,,Right now...
+Dialogue: 0,0:01:28.56,0:01:31.07,Default,Pierre,0,0,0,,He's waning, both in body and spirit.
+Dialogue: 0,0:01:32.15,0:01:33.59,Default,Pierre,0,0,0,,It's understandable.
+Dialogue: 0,0:01:33.59,0:01:40.12,Default,Pierre,0,0,0,,Prince Julius and his lackeys drove him \Nfrom the main castle into house arrest here
+Dialogue: 0,0:01:40.12,0:01:42.12,Default,Pierre,0,0,0,,under the pretext of helping him recuperate.
+Dialogue: 0,0:01:44.90,0:01:48.68,Default,Pierre,0,0,0,,The prince has resigned himself to his fate.
+Dialogue: 0,0:01:51.16,0:01:54.62,Default,Pierre,0,0,0,,When he realized what Prince Julius was up to, \NHis Majesty flew into a rage
+Dialogue: 0,0:01:54.62,0:01:56.51,Default,Pierre,0,0,0,,and lifted the house arrest,
+Dialogue: 0,0:01:56.85,0:01:59.91,Default,Pierre,0,0,0,,but Prince Fernand has refused \Nto take his freedom
+Dialogue: 0,0:01:59.91,0:02:02.60,Default,Pierre,0,0,0,,and hides away here in his estate to this day.
+Dialogue: 0,0:02:03.25,0:02:05.38,Default,Mia,0,0,0,,How long has it been now?
+Dialogue: 0,0:02:05.38,0:02:06.52,Default,Pierre,0,0,0,,Twelve years.
+Dialogue: 0,0:02:06.52,0:02:08.52,Default,Mia,0,0,0,,Twelve years?!
+Dialogue: 0,0:02:08.80,0:02:14.57,Default,Mia,0,0,0,,{\i1}This is going to take more \Neffort than I thought.
+Dialogue: 0,0:02:15.09,0:02:16.85,Default,Pierre,0,0,0,,Prince Fernand is inside.
+Dialogue: 0,0:02:17.73,0:02:20.66,Default,Mia,0,0,0,,{\i1}Girtonia has no time to lose.
+Dialogue: 0,0:02:21.32,0:02:24.45,Default,Mia,0,0,0,,{\i1}I have to get through to him, no matter what!
+Dialogue: 0,0:02:28.41,0:02:29.74,Default,Mia,0,0,0,,Excuse me.
+Dialogue: 0,0:02:38.76,0:02:42.38,Default,Mia,0,0,0,,Prince Fernand. \NWhat a pleasure it is to meet you.
+Dialogue: 0,0:02:42.38,0:02:44.89,Default,Mia,0,0,0,,I am Prince Julius's betrothed,
+Dialogue: 0,0:02:45.60,0:02:47.60,Default,Mia,0,0,0,,Mia Adenauer.
+Dialogue: 0,0:02:48.87,0:02:49.90,Default,Fernand,0,0,0,,"Mia"?
+Dialogue: 0,0:02:50.55,0:02:54.65,Default,Fernand,0,0,0,,I thought that his fiancée's name was Philia.
+Dialogue: 0,0:02:54.65,0:02:56.25,Default,Mia,0,0,0,,Philia is my elder sister.
+Dialogue: 0,0:02:56.25,0:02:58.69,Default,Mia,0,0,0,,Their engagement was called off so that
+Dialogue: 0,0:02:58.69,0:03:01.78,Default,Mia,0,0,0,,she could serve as saint \Nfor our neighbors in Parnacorta.
+Dialogue: 0,0:03:02.57,0:03:03.49,Default,Fernand,0,0,0,,Ah.
+Dialogue: 0,0:03:03.99,0:03:06.08,Default,Fernand,0,0,0,,So we let Philia go.
+Dialogue: 0,0:03:06.75,0:03:09.52,Default,Fernand,0,0,0,,I'm surprised my father made such a decision.
+Dialogue: 0,0:03:09.52,0:03:11.83,Default,Mia,0,0,0,,I'm sorry to say His Majesty has taken ill.
+Dialogue: 0,0:03:12.14,0:03:15.44,Default,Mia,0,0,0,,Prince Julius is handling affairs of state.
+Dialogue: 0,0:03:15.44,0:03:16.96,Default,Fernand,0,0,0,,I see.
+Dialogue: 0,0:03:16.96,0:03:20.08,Default,Fernand,0,0,0,,So he's playing at the kingship now.
+Dialogue: 0,0:03:20.08,0:03:23.05,Default,Fernand,0,0,0,,I'm sure he'll get rid\N of me too, soon enough.
+Dialogue: 0,0:03:23.05,0:03:24.47,Default,sign,0,0,0,,{\fad(150,1)\fnGeorgia\fs10\shad0\blur4\c&H433347&\3c&HEFF5F2&\b1\pos(190.639,285.103)}Crown Prince of Girtonia\N {\fs14}Fernand Girtonia
+Dialogue: 0,0:03:24.80,0:03:26.09,Default,Mia,0,0,0,,{\i1}I didn't expect this.
+Dialogue: 0,0:03:26.09,0:03:29.63,Default,Mia,0,0,0,,{\i1}He's not mincing words about it \Nyet seems completely unfazed.
+Dialogue: 0,0:03:29.63,0:03:31.48,Default,Fernand,0,0,0,,So, what did you want to speak to me about?
+Dialogue: 0,0:03:32.80,0:03:34.90,Default,Mia,0,0,0,,I want you to stand against him.
+Dialogue: 0,0:03:34.90,0:03:39.79,Default,Mia,0,0,0,,To save our kingdom, I want \Nyou to depose Prince Julius.
+Dialogue: 0,0:03:41.53,0:03:47.01,Default,Mia,0,0,0,,There are people in the kingdom \Nwho want you to take the throne.
+Dialogue: 0,0:03:47.01,0:03:50.29,Default,Fernand,0,0,0,,Just traditionalists preoccupied \Nwith appearances,
+Dialogue: 0,0:03:50.66,0:03:54.75,Default,Fernand,0,0,0,,entrenched in the notion that \Nthe eldest son must inherit.
+Dialogue: 0,0:03:55.21,0:03:57.50,Default,Mia,0,0,0,,No, it's much more serious than that!
+Dialogue: 0,0:03:57.81,0:04:02.11,Default,Mia,0,0,0,,Girtonia is on the brink \Nof a terrible disaster.
+Dialogue: 0,0:04:02.11,0:04:04.51,Default,Mia,0,0,0,,If Prince Julius remains in power,
+Dialogue: 0,0:04:04.51,0:04:06.59,Default,Mia,0,0,0,,the whole kingdom will fall!
+Dialogue: 0,0:04:06.59,0:04:11.08,Default,Fernand,0,0,0,,Is that how you talk about your own fiancé?
+Dialogue: 0,0:04:12.16,0:04:14.21,Default,Fernand,0,0,0,,Do you hate my brother?
+Dialogue: 0,0:04:14.21,0:04:15.77,Default,Mia,0,0,0,,Yes, very much so.
+Dialogue: 0,0:04:16.32,0:04:18.88,Default,Mia,0,0,0,,But this isn't about my personal feelings.
+Dialogue: 0,0:04:18.88,0:04:21.56,Default,Mia,0,0,0,,I'm speaking as the saint of this kingdom.
+Dialogue: 0,0:04:21.56,0:04:24.28,Default,Fernand,0,0,0,,I see. You're a saint too, are you?
+Dialogue: 0,0:04:25.98,0:04:26.95,Default,Fernand,0,0,0,,In that case...
+Dialogue: 0,0:04:28.32,0:04:29.68,Default,Fernand,0,0,0,,You should leave.
+Dialogue: 0,0:04:31.36,0:04:35.13,Default,Mia,0,0,0,,Wait, Your Highness! \NPlease, I need your help!
+Dialogue: 0,0:04:35.13,0:04:35.87,Default,Fernand,0,0,0,,Pass.
+Dialogue: 0,0:04:35.87,0:04:37.20,Default,Mia,0,0,0,,But the disaster—
+Dialogue: 0,0:04:37.20,0:04:38.09,Default,Fernand,0,0,0,,Don't care.
+Dialogue: 0,0:04:40.81,0:04:42.12,Default,Mia,0,0,0,,Honestly!
+Dialogue: 0,0:04:42.12,0:04:44.97,Default,Mia,0,0,0,,Why are both of those brothers so stubborn?!
+Dialogue: 0,0:04:47.03,0:04:48.30,Default,Pierre,0,0,0,,Don't worry.
+Dialogue: 0,0:04:48.92,0:04:51.57,Default,Pierre,0,0,0,,Everyone on this team is \Nof the crown prince faction.
+Dialogue: 0,0:04:53.60,0:04:57.81,Default,Mia,0,0,0,,I knew this wouldn't be easy, \Nbut it's feeling almost insurmountable.
+Dialogue: 0,0:04:58.32,0:05:03.10,Default,Pierre,0,0,0,,I once hinted to him that he \Nmight go outside more often...
+Dialogue: 0,0:05:03.10,0:05:04.07,Default,Mia,0,0,0,,And?
+Dialogue: 0,0:05:04.90,0:05:07.32,Default,Pierre,0,0,0,,He rejected the idea completely.
+Dialogue: 0,0:05:08.65,0:05:12.38,Default,Mia,0,0,0,,He's lost heart after \Nspending a decade indoors.
+Dialogue: 0,0:05:12.38,0:05:13.17,Default,Mia,0,0,0,,I know!
+Dialogue: 0,0:05:13.17,0:05:16.41,Default,Mia,0,0,0,,My first priority will be building up \Nhis stamina and curing his illness!
+Dialogue: 0,0:05:16.41,0:05:17.58,Default,Pierre,0,0,0,,Now that you mention it...
+Dialogue: 0,0:05:18.01,0:05:23.87,Default,Pierre,0,0,0,,His condition improved for a time after \Nhe took some medicine Saint Philia prepared.
+Dialogue: 0,0:05:24.76,0:05:28.93,Default,Mia,0,0,0,,Don't tell me... Did Prince Julius \Nsabotage that medicine, too?
+Dialogue: 0,0:05:28.93,0:05:30.52,Default,Pierre,0,0,0,,No, actually.
+Dialogue: 0,0:05:30.99,0:05:33.52,Default,Pierre,0,0,0,,Soon after the prince's health improved...
+Dialogue: 0,0:05:41.04,0:05:44.40,Default,Lena,0,0,0,,You made all of these, Saint Philia?!
+Dialogue: 0,0:05:44.40,0:05:45.59,Default,Philia,0,0,0,,Yes.
+Dialogue: 0,0:05:45.59,0:05:50.32,Default,Philia,0,0,0,,I want to give Prince Osvalt a present,\N so I've been practicing.
+Dialogue: 0,0:05:50.65,0:05:55.11,Default,Philia,0,0,0,,He's been so kind to me since \Nmy arrival in Parnacorta.
+Dialogue: 0,0:05:55.11,0:05:56.54,Default,Philia,0,0,0,,I mean to thank him.
+Dialogue: 0,0:05:56.54,0:05:59.08,Default,Lena,0,0,0,,That's going to make him so happy!
+Dialogue: 0,0:05:59.42,0:06:00.56,Default,Philia,0,0,0,,Do you think so?
+Dialogue: 0,0:06:00.56,0:06:02.51,Default,Lena,0,0,0,,Definitely!
+Dialogue: 0,0:06:04.08,0:06:07.34,Default,Philia,0,0,0,,I gave Mia a hairpin once before.
+Dialogue: 0,0:06:07.82,0:06:11.35,Default,Philia,0,0,0,,She did seem very pleased with it at the time.
+Dialogue: 0,0:06:11.89,0:06:14.90,Default,Philia,0,0,0,,I was thinking I'd give the prince \Nsomething he could wear as well.
+Dialogue: 0,0:06:14.90,0:06:17.94,Default,Lena,0,0,0,,Totally, totally! I just know he'll love it!
+Dialogue: 0,0:06:17.94,0:06:22.63,Default,Lena,0,0,0,,Someone almost worryingly \Nunconcerned with fashion
+Dialogue: 0,0:06:22.63,0:06:27.86,Default,Lena,0,0,0,,giving you a handmade accessory... \NWhat could be more inspiring?!
+Dialogue: 0,0:06:31.54,0:06:32.62,Default,Philia,0,0,0,,Lena.
+Dialogue: 0,0:06:33.69,0:06:34.55,Default,Philia,0,0,0,,Here.
+Dialogue: 0,0:06:35.84,0:06:38.96,Default,Philia,0,0,0,,You can have this, if you'd like.
+Dialogue: 0,0:06:40.56,0:06:43.92,Default,Philia,0,0,0,,I was thinking of you when I made it.
+Dialogue: 0,0:06:43.92,0:06:46.26,Default,Philia,0,0,0,,I think it turned out quite well—
+Dialogue: 0,0:06:45.20,0:06:46.26,Default,Lena,0,0,0,,Saint Philia!
+Dialogue: 0,0:06:46.48,0:06:47.56,Default,Lena,0,0,0,,Saint Philia!
+Dialogue: 0,0:06:47.56,0:06:49.26,Default,Lena,0,0,0,,Thank you so much!
+Dialogue: 0,0:06:49.26,0:06:52.01,Default,Lena,0,0,0,,I love it! I'll treasure it forever!
+Dialogue: 0,0:06:56.26,0:06:59.80,Default,Lena,0,0,0,,It's so beautiful, Saint Philia!
+Dialogue: 0,0:07:01.81,0:07:03.52,Default,Leonardo,0,0,0,,Excuse me.
+Dialogue: 0,0:07:05.03,0:07:06.02,Default,Leonardo,0,0,0,,Saint Philia.
+Dialogue: 0,0:07:06.38,0:07:09.62,Default,Leonardo,0,0,0,,Himari has sent her report from Girtonia.
+Dialogue: 0,0:07:14.16,0:07:15.66,Default,Fernand,0,0,0,,You again?
+Dialogue: 0,0:07:16.48,0:07:17.57,Default,Mia,0,0,0,,Your Highness.
+Dialogue: 0,0:07:17.57,0:07:21.04,Default,Mia,0,0,0,,Why did you stop taking the \Nmedicine my sister made?
+Dialogue: 0,0:07:25.85,0:07:27.50,Default,Fernand,0,0,0,,That medicine...
+Dialogue: 0,0:07:28.57,0:07:32.01,Default,Fernand,0,0,0,,That was a terrible thing \Nyour sister created.
+Dialogue: 0,0:07:33.45,0:07:34.51,Default,Fernand,0,0,0,,Listen to me.
+Dialogue: 0,0:07:34.51,0:07:39.93,Default,Fernand,0,0,0,,An improvement in my health now \Nwould lead to nothing but conflict.
+Dialogue: 0,0:07:39.93,0:07:42.70,Default,Fernand,0,0,0,,It would spur Julius to try to kill me.
+Dialogue: 0,0:07:44.82,0:07:50.27,Default,Fernand,0,0,0,,When I took that medicine and started\N feeling better, I couldn't stop shaking.
+Dialogue: 0,0:07:50.27,0:07:55.21,Default,Fernand,0,0,0,,If I recover, it will restart talk of\N my succession. They'll want me killed!
+Dialogue: 0,0:07:55.21,0:07:58.12,Default,Fernand,0,0,0,,Why would I take that medicine knowing\Nwhat it would lead to?!
+Dialogue: 0,0:07:59.06,0:08:00.70,Default,Mia,0,0,0,,What if...
+Dialogue: 0,0:08:00.70,0:08:03.48,Default,Mia,0,0,0,,I said I would protect you?
+Dialogue: 0,0:08:05.92,0:08:08.21,Default,Mia,0,0,0,,If I could guarantee your safety,
+Dialogue: 0,0:08:08.21,0:08:11.73,Default,Mia,0,0,0,,would you take the medicine \Nand regain your strength?
+Dialogue: 0,0:08:16.80,0:08:17.47,Default,Fernand,0,0,0,,I...
+Dialogue: 0,0:08:17.97,0:08:19.40,Default,Fernand,0,0,0,,I don't know.
+Dialogue: 0,0:08:20.18,0:08:22.56,Default,Fernand,0,0,0,,No, I can't do it!
+Dialogue: 0,0:08:25.28,0:08:27.66,Default,Mia,0,0,0,,I'm on your side, Your Highness.
+Dialogue: 0,0:08:29.82,0:08:31.19,Default,Mia,0,0,0,,I'll be back.
+Dialogue: 0,0:08:37.65,0:08:40.77,Default,Fernand,0,0,0,,Please... never come again.
+Dialogue: 0,0:08:42.93,0:08:47.83,Default,Mia,0,0,0,,I'm sorry. But I simply \Ndon't have time to wait.
+Dialogue: 0,0:08:48.71,0:08:52.16,Default,Mia,0,0,0,,Because I am this kingdom's saint.
+Dialogue: 0,0:08:51.03,0:08:53.01,Default,Sign,0,0,0,,{\an2\fnGeorgia\b1\fs10\shad0\bord0\c&H884FD9&\pos(323,110)}The Too-Perfect Saint{\c&H9B9999&}: {\c&HDEC58D&}Tossed {\c&HDDBF93&}Aside\N{\c&HE2B99A&}by {\c&HC8ACAD&}My {\c&HDDB3B4&}Fiancé {\c&HDCBAC3&}and {\c&HD79BB3&}Sold {\c&HCEA8CE&}to {\c&HD4A8D5&}Another {\c&HC3A8E2&}Kingdom
+Dialogue: 0,0:08:54.36,0:08:56.61,Default,Philia,0,0,0,,A summons from the king...
+Dialogue: 0,0:08:57.35,0:09:00.71,Default,Philia,0,0,0,,Have I done something wrong?
+Dialogue: 0,0:09:00.71,0:09:03.52,Default,Philia,0,0,0,,You don't think he's angry that
+Dialogue: 0,0:09:03.52,0:09:06.42,Default,Philia,0,0,0,,the Great Purification Circle keeps\N me from my saintly duties?
+Dialogue: 0,0:09:07.30,0:09:09.36,Default,Osvalt,0,0,0,,Of course not!
+Dialogue: 0,0:09:09.36,0:09:12.30,Default,Osvalt,0,0,0,,My father just wants to meet you.
+Dialogue: 0,0:09:12.75,0:09:14.99,Default,Osvalt,0,0,0,,If anyone dared to speak ill of you,
+Dialogue: 0,0:09:14.99,0:09:18.20,Default,Osvalt,0,0,0,,I'd cut out their tongues like King Enma!
+Dialogue: 0,0:09:19.71,0:09:23.54,Default,Philia,0,0,0,,Isn't that a punishment \Nfor liars in the afterlife?
+Dialogue: 0,0:09:23.54,0:09:26.23,Default,Osvalt,0,0,0,,Wow, you've heard that one?
+Dialogue: 0,0:09:26.23,0:09:28.33,Default,Osvalt,0,0,0,,Yeah, it's the underworld mythos of Murasame.
+Dialogue: 0,0:09:28.69,0:09:31.68,Default,Osvalt,0,0,0,,I was just trying to cut \Nthe tension with a joke.
+Dialogue: 0,0:09:32.41,0:09:36.32,Default,Osvalt,0,0,0,,But if my father did say \Nsomething to offend you,
+Dialogue: 0,0:09:36.32,0:09:37.95,Default,Osvalt,0,0,0,,I'd probably take him to task.
+Dialogue: 0,0:09:39.16,0:09:43.60,Default,Osvalt,0,0,0,,Seeing you hurt is the \None thing I can't stand.
+Dialogue: 0,0:09:43.60,0:09:44.98,Default,Osvalt,0,0,0,,It gets me emotional.
+Dialogue: 0,0:09:46.75,0:09:50.98,Default,Philia,0,0,0,,I wouldn't want you\N to lose face because of me.
+Dialogue: 0,0:09:51.28,0:09:53.15,Default,Philia,0,0,0,,I hope you'll refrain.
+Dialogue: 0,0:09:53.61,0:09:57.65,Default,Osvalt,0,0,0,,Is that a request based \Non emotion? Or reason?
+Dialogue: 0,0:09:58.81,0:10:00.34,Default,Philia,0,0,0,,I'm not sure.
+Dialogue: 0,0:10:01.28,0:10:08.00,Default,Philia,0,0,0,,Rationally speaking, it would be scandalous \Nfor anyone to take the king to task,
+Dialogue: 0,0:10:08.00,0:10:10.08,Default,Philia,0,0,0,,even his own son.
+Dialogue: 0,0:10:10.08,0:10:11.52,Default,Philia,0,0,0,,So it's most likely the latter.
+Dialogue: 0,0:10:12.89,0:10:14.55,Default,Osvalt,0,0,0,,I knew you'd say something like that.
+Dialogue: 0,0:10:19.10,0:10:21.55,Default,Eigelstein,0,0,0,,Forgive me for taking so \Nlong to meet with you.
+Dialogue: 0,0:10:22.24,0:10:26.56,Default,Eigelstein,0,0,0,,I am Eigelstein Parnacorta, \Nsovereign of this realm.
+Dialogue: 0,0:10:27.73,0:10:30.22,Default,Philia,0,0,0,,I am Philia Adenauer.
+Dialogue: 0,0:10:30.22,0:10:33.07,Default,Eigelstein,0,0,0,,My son has told me all about you.
+Dialogue: 0,0:10:33.07,0:10:38.99,Default,Eigelstein,0,0,0,,You anticipated a potentially \Ncatastrophic threat to our kingdom
+Dialogue: 0,0:10:38.99,0:10:42.32,Default,Eigelstein,0,0,0,,and executed an excellent \Npreventative measure.
+Dialogue: 0,0:10:42.32,0:10:46.16,Default,Philia,0,0,0,,I merely did my duty as saint.
+Dialogue: 0,0:10:46.16,0:10:48.38,Default,Eigelstein,0,0,0,,Raise your head.
+Dialogue: 0,0:10:51.45,0:10:57.46,Default,Eigelstein,0,0,0,,If I did not reward your achievement, \NMiss Philia, I would become a laughingstock.
+Dialogue: 0,0:10:57.83,0:11:01.44,Default,Philia,0,0,0,,{\i1}He reminds me of Prince Osvalt somehow...
+Dialogue: 0,0:11:01.44,0:11:03.89,Default,Eigelstein,0,0,0,,What do you wish for?
+Dialogue: 0,0:11:04.23,0:11:08.01,Default,Eigelstein,0,0,0,,Tell me, and I will grant it \Nto the best of my ability.
+Dialogue: 0,0:11:08.48,0:11:09.98,Default,Philia,0,0,0,,What I wish for...
+Dialogue: 0,0:11:10.63,0:11:13.60,Flashback - Italics,Himari,0,0,0,,No prospect of improvement here in Girtonia.
+Dialogue: 0,0:11:13.60,0:11:17.49,Flashback - Italics,Himari,0,0,0,,Even with the help of the \Nformer Saint Hildegard,
+Dialogue: 0,0:11:17.49,0:11:19.59,Flashback - Italics,Himari,0,0,0,,it's too much for Saint Mia to handle.
+Dialogue: 0,0:11:23.33,0:11:27.29,Default,Eigelstein,0,0,0,,Would you like to help your sister \Nin our neighboring kingdom?
+Dialogue: 0,0:11:29.30,0:11:31.24,Default,Philia,0,0,0,,Y-Yes, I would!
+Dialogue: 0,0:11:31.24,0:11:32.62,Default,Philia,0,0,0,,I would very much like that!
+Dialogue: 0,0:11:33.42,0:11:38.41,Default,Philia,0,0,0,,My sister is still fighting hard \Nto fulfill her duties as saint,
+Dialogue: 0,0:11:38.41,0:11:40.56,Default,Philia,0,0,0,,but things are just so bad.
+Dialogue: 0,0:11:40.56,0:11:42.85,Default,Philia,0,0,0,,When I think about the possibilities...
+Dialogue: 0,0:11:42.85,0:11:45.58,Default,Philia,0,0,0,,I just feel so helpless.
+Dialogue: 0,0:11:46.80,0:11:47.95,Default,Philia,0,0,0,,{\i1}What's going on?
+Dialogue: 0,0:11:47.95,0:11:52.22,Default,Philia,0,0,0,,{\i1}I never realized I was so afraid...
+Dialogue: 0,0:11:52.84,0:11:54.96,Default,Philia,0,0,0,,{\i1}I've been scared all this time.
+Dialogue: 0,0:11:55.59,0:11:58.36,Default,Philia,0,0,0,,{\i1}Mia, I don't want to lose you.
+Dialogue: 0,0:11:58.90,0:12:01.86,Default,Philia,0,0,0,,{\i1}Is this what it means... to get emotional?
+Dialogue: 0,0:12:02.99,0:12:04.87,Default,Philia,0,0,0,,F-Forgive me, Your Majesty.
+Dialogue: 0,0:12:05.25,0:12:06.51,Default,Philia,0,0,0,,Please, ignore what I—
+Dialogue: 0,0:12:06.51,0:12:07.62,Default,Eigelstein,0,0,0,,No need for that.
+Dialogue: 0,0:12:09.72,0:12:13.25,Default,Eigelstein,0,0,0,,I have heard your request.
+Dialogue: 0,0:12:13.67,0:12:17.08,Default,Eigelstein,0,0,0,,I wanted to hear it from your own lips.
+Dialogue: 0,0:12:17.08,0:12:19.35,Default,Philia,0,0,0,,But I'm a saint, so...
+Dialogue: 0,0:12:19.35,0:12:22.74,Default,Eigelstein,0,0,0,,So you're afraid to speak your own mind?
+Dialogue: 0,0:12:24.16,0:12:27.21,Default,Eigelstein,0,0,0,,But speaking your mind is the \Nonly way to make things happen.
+Dialogue: 0,0:12:27.21,0:12:29.72,Default,Eigelstein,0,0,0,,Put your faith in those around \Nyou and ask them for help.
+Dialogue: 0,0:12:30.15,0:12:33.49,Default,Eigelstein,0,0,0,,I recommend that you become more selfish.
+Dialogue: 0,0:12:36.27,0:12:37.48,Default,Eigelstein,0,0,0,,Osvalt.
+Dialogue: 0,0:12:37.48,0:12:41.79,Default,Eigelstein,0,0,0,,I approve the dispatch of \NParnacorta's knights to Girtonia.
+Dialogue: 0,0:12:41.79,0:12:44.21,Default,Eigelstein,0,0,0,,Begin talks with their leaders at once.
+Dialogue: 0,0:12:44.21,0:12:44.99,Default,Osvalt,0,0,0,,Understood!
+Dialogue: 0,0:12:46.60,0:12:47.99,Default,Eigelstein,0,0,0,,Be at ease.
+Dialogue: 0,0:12:47.99,0:12:51.22,Default,Eigelstein,0,0,0,,I'll do whatever I can \Nto help you, Miss Philia.
+Dialogue: 0,0:12:51.22,0:12:55.72,Default,Eigelstein,0,0,0,,You have saved our kingdom, so it's our \Nresponsibility to see your wishes granted.
+Dialogue: 0,0:12:56.49,0:12:58.70,Default,Osvalt,0,0,0,,You're good with words now and then, Father.
+Dialogue: 0,0:12:58.70,0:13:00.38,Default,Eigelstein,0,0,0,,As for you, layabout son of mine...
+Dialogue: 0,0:13:00.38,0:13:03.90,Default,Eigelstein,0,0,0,,Think about ways to help Miss Philia.
+Dialogue: 0,0:13:03.90,0:13:05.80,Default,Osvalt,0,0,0,,Yeah, right. Already on it!
+Dialogue: 0,0:13:05.80,0:13:07.87,Main - Top,Eigelstein,0,0,0,,Just make sure it's with \Ndeeds, not just words.
+Dialogue: 0,0:13:07.87,0:13:09.63,Main - Top,Osvalt,0,0,0,,Yeah, yeah. I hear you.
+Dialogue: 0,0:13:08.58,0:13:10.88,Default,Philia,0,0,0,,{\i1}I can't believe this is happening.
+Dialogue: 0,0:13:10.88,0:13:12.81,Default,Osvalt,0,0,0,,But Miss Philia...
+Dialogue: 0,0:13:13.13,0:13:18.21,Default,Osvalt,0,0,0,,I've heard that the monsters continue\N to surge outside of our borders.
+Dialogue: 0,0:13:18.21,0:13:22.35,Default,Osvalt,0,0,0,,At this rate, not even our knights \Nwill be able to hold them off forever.
+Dialogue: 0,0:13:22.81,0:13:27.07,Default,Philia,0,0,0,,Yes. I've had an idea regarding that.
+Dialogue: 0,0:13:28.50,0:13:32.62,Default,Philia,0,0,0,,If you and the people \Nof this kingdom will allow it,
+Dialogue: 0,0:13:32.62,0:13:37.50,Default,Philia,0,0,0,,it could save Girtonia \Nand all of our neighbors.
+Dialogue: 0,0:13:37.50,0:13:38.91,Default,Eigelstein,0,0,0,,Incredible.
+Dialogue: 0,0:13:38.91,0:13:41.21,Default,Eigelstein,0,0,0,,You have another wonder in store for us?
+Dialogue: 0,0:13:41.63,0:13:45.70,Default,Philia,0,0,0,,No, I'm not the key to this plan.
+Dialogue: 0,0:13:45.70,0:13:49.11,Default,Philia,0,0,0,,It will all be up to Grace.
+Dialogue: 0,0:13:49.11,0:13:49.89,Default,Grace,0,0,0,,What...
+Dialogue: 0,0:13:50.16,0:13:51.51,Default,Grace,0,0,0,,What did you say?
+Dialogue: 0,0:13:51.80,0:13:54.97,Default,Philia,0,0,0,,The simplest way to save Girtonia
+Dialogue: 0,0:13:54.97,0:13:59.01,Default,Philia,0,0,0,,is to place a Great Purification Circle \Nover the entire continent.
+Dialogue: 0,0:13:59.01,0:14:01.02,Default,Osvalt,0,0,0,,Oh, I get it!
+Dialogue: 0,0:14:01.02,0:14:03.96,Default,Osvalt,0,0,0,,That {\i1}would{\i0} be the most effective thing.
+Dialogue: 0,0:14:03.96,0:14:07.86,Default,Osvalt,0,0,0,,But couldn't you have just \Ndone that from the start?
+Dialogue: 0,0:14:07.86,0:14:13.95,Default,Grace,0,0,0,,Not even Saint Philia has enough magic power \Nto erect a barrier over the whole continent!
+Dialogue: 0,0:14:13.95,0:14:15.41,Default,Philia,0,0,0,,That's correct.
+Dialogue: 0,0:14:15.41,0:14:19.00,Default,Philia,0,0,0,,Which is why I want to borrow \Nmagic power from you, Grace.
+Dialogue: 0,0:14:19.39,0:14:21.85,Default,Grace,0,0,0,,Magic power... from me?
+Dialogue: 0,0:14:24.16,0:14:28.47,Default,Philia,0,0,0,,There's an ancient ritual called \Na magic-convergence spell.
+Dialogue: 0,0:14:28.47,0:14:33.72,Default,Philia,0,0,0,,It allows multiple people to pool resources \Nby passing magic power between them.
+Dialogue: 0,0:14:34.01,0:14:39.68,Default,Osvalt,0,0,0,,So Miss Grace can give you some\N of her magic to enlarge the circle?
+Dialogue: 0,0:14:39.68,0:14:41.40,Default,Grace,0,0,0,,I-I can't do that!
+Dialogue: 0,0:14:41.40,0:14:44.61,Default,Grace,0,0,0,,I clearly don't have enough \Nmagic to make that possible!
+Dialogue: 0,0:14:44.94,0:14:48.21,Default,Osvalt,0,0,0,,True. It is a big continent.
+Dialogue: 0,0:14:48.21,0:14:52.07,Default,Osvalt,0,0,0,,Even an amateur like me can \Ntell that doesn't add up.
+Dialogue: 0,0:14:52.61,0:14:56.98,Default,Philia,0,0,0,,You said you have older sisters who \Nare saints as well, didn't you?
+Dialogue: 0,0:14:56.98,0:14:59.29,Default,Grace,0,0,0,,Yes. Three of them.
+Dialogue: 0,0:14:59.61,0:15:00.54,Default,Grace,0,0,0,,Wait a minute...
+Dialogue: 0,0:15:01.40,0:15:05.84,Default,Philia,0,0,0,,I will teach you the magic-convergence spell.
+Dialogue: 0,0:15:05.84,0:15:09.17,Default,Philia,0,0,0,,I then want you to teach it to your sisters.
+Dialogue: 0,0:15:09.17,0:15:14.13,Default,Osvalt,0,0,0,,Of course! With magic \Nfrom five people combined,
+Dialogue: 0,0:15:14.13,0:15:16.86,Default,Osvalt,0,0,0,,you can make the Great Purification \NCircle that much bigger.
+Dialogue: 0,0:15:16.86,0:15:21.01,Default,Osvalt,0,0,0,,I'm sure our knights can stave off \Ndisaster long enough for you to do it.
+Dialogue: 0,0:15:21.01,0:15:22.14,Default,Philia,0,0,0,,Grace.
+Dialogue: 0,0:15:23.48,0:15:28.62,Default,Philia,0,0,0,,I've learned so much since \Ncoming to this kingdom.
+Dialogue: 0,0:15:28.62,0:15:32.44,Default,Philia,0,0,0,,That if you can't do something by yourself, \Nyou can ask someone else for help.
+Dialogue: 0,0:15:32.44,0:15:34.90,Default,Philia,0,0,0,,That if you lack what you need,\N you can borrow it.
+Dialogue: 0,0:15:35.58,0:15:39.83,Default,Philia,0,0,0,,This is the answer I've learned in Parnacorta.
+Dialogue: 0,0:15:42.84,0:15:46.01,Default,Philia,0,0,0,,Please... help me.
+Dialogue: 0,0:15:51.84,0:15:52.51,Default,Philia,0,0,0,,Do you—
+Dialogue: 0,0:15:52.51,0:15:53.72,Default,Grace,0,0,0,,Saint Philia!
+Dialogue: 0,0:15:54.34,0:15:56.30,Default,Grace,0,0,0,,I'll do it!
+Dialogue: 0,0:15:56.30,0:16:01.52,Default,Grace,0,0,0,,Because there's nothing I'd love \Nmore than being of help to you!
+Dialogue: 0,0:16:01.97,0:16:05.94,Default,Grace,0,0,0,,I'll do my part as your number one student!
+Dialogue: 0,0:16:06.25,0:16:09.19,Default,Grace,0,0,0,,Let's start practicing the ritual at once!
+Dialogue: 0,0:16:10.02,0:16:12.48,Default,Philia,0,0,0,,Thank you, Grace.
+Dialogue: 0,0:16:32.68,0:16:34.09,Default,Reichardt,0,0,0,,All going as planned?
+Dialogue: 0,0:16:35.32,0:16:37.06,Default,Reichardt,0,0,0,,My brother told me everything.
+Dialogue: 0,0:16:37.66,0:16:41.45,Default,Reichardt,0,0,0,,You're practicing something called \Na magic-convergence spell?
+Dialogue: 0,0:16:41.91,0:16:45.69,Default,Philia,0,0,0,,Yes. She's very close to learning it.
+Dialogue: 0,0:16:45.69,0:16:46.60,Default,Reichardt,0,0,0,,I see.
+Dialogue: 0,0:16:47.84,0:16:53.14,Default,Philia,0,0,0,,{\i1}That's right. I still don't know how \NReichardt feels about all of this...
+Dialogue: 0,0:16:53.99,0:16:57.34,Default,Reichardt,0,0,0,,Oh, I think it's a wonderful idea.
+Dialogue: 0,0:16:58.82,0:17:03.62,Default,Reichardt,0,0,0,,After all, it will put other kingdoms in \Nour debt with no sacrifice on our part.
+Dialogue: 0,0:17:03.62,0:17:08.86,Default,Reichardt,0,0,0,,It's a logical move from a saint acting \Nin the interests of Parnacorta.
+Dialogue: 0,0:17:09.61,0:17:10.63,Default,Philia,0,0,0,,Well...
+Dialogue: 0,0:17:12.15,0:17:13.50,Default,Philia,0,0,0,,That's right.
+Dialogue: 0,0:17:13.50,0:17:17.14,Default,Philia,0,0,0,,As I am now the saint of Parnacorta,
+Dialogue: 0,0:17:17.14,0:17:20.39,Default,Philia,0,0,0,,I'm aware that I should \Nalways act in its interests.
+Dialogue: 0,0:17:21.05,0:17:26.64,Default,Philia,0,0,0,,However, it also makes me happy to devote \Nmyself to my family, the people around me,
+Dialogue: 0,0:17:26.98,0:17:32.24,Default,Philia,0,0,0,,and countless others out there \Nwhom I haven't even met.
+Dialogue: 0,0:17:36.92,0:17:38.45,Default,Reichardt,0,0,0,,Devoting ourselves to others
+Dialogue: 0,0:17:39.06,0:17:43.37,Default,Reichardt,0,0,0,,and our kingdom's prosperity is a sacred \Nobligation we were both born into.
+Dialogue: 0,0:17:44.06,0:17:46.21,Default,Reichardt,0,0,0,,I believe we may have much in common.
+Dialogue: 0,0:17:47.06,0:17:54.34,Default,Reichardt,0,0,0,,But I may have lost my chance to devote myself\Nto acting in the interest of my beloved.
+Dialogue: 0,0:17:54.34,0:17:55.97,Default,Philia,0,0,0,,Prince Reichardt...
+Dialogue: 0,0:17:56.84,0:18:00.26,Default,Reichardt,0,0,0,,Philia, see to it that you act \Nnot just for the sake of others.
+Dialogue: 0,0:18:00.26,0:18:03.89,Default,Reichardt,0,0,0,,See that you take care of yourself as well.
+Dialogue: 0,0:18:04.88,0:18:08.27,Default,Philia,0,0,0,,Yes. I will.
+Dialogue: 0,0:18:13.27,0:18:14.27,Default,Philia,0,0,0,,Your Highness.
+Dialogue: 0,0:18:16.15,0:18:17.88,Default,Philia,0,0,0,,I'm not going to die.
+Dialogue: 0,0:18:18.32,0:18:21.80,Default,Philia,0,0,0,,If I have a sacred obligation to fulfill,
+Dialogue: 0,0:18:21.80,0:18:24.66,Default,Philia,0,0,0,,I want to live on and fulfill it \Nalongside the people here.
+Dialogue: 0,0:18:24.66,0:18:28.04,Default,Philia,0,0,0,,Because I love this kingdom.
+Dialogue: 0,0:18:40.52,0:18:41.88,Default,Reichardt,0,0,0,,She's got me beat.
+Dialogue: 0,0:18:47.28,0:18:48.64,Default,Mia,0,0,0,,Highness!
+Dialogue: 0,0:18:48.64,0:18:51.81,Default,Mia,0,0,0,,Sunshine is good for you.
+Dialogue: 0,0:18:51.81,0:18:54.32,Default,Mia,0,0,0,,It'll give you a sunny disposition, too.
+Dialogue: 0,0:18:55.01,0:18:57.88,Default,Mia,0,0,0,,I made you a picnic lunch.
+Dialogue: 0,0:18:57.88,0:19:01.57,Default,Mia,0,0,0,,I hear you rarely finish your meals.
+Dialogue: 0,0:19:05.30,0:19:08.33,Default,Fernand,0,0,0,,Why are you going to such lengths?
+Dialogue: 0,0:19:10.23,0:19:12.08,Default,Fernand,0,0,0,,Pierre told me...
+Dialogue: 0,0:19:12.08,0:19:16.01,Default,Fernand,0,0,0,,You spend your days slaying monsters, \Nyour nights buttering up Julius,
+Dialogue: 0,0:19:16.01,0:19:18.37,Default,Fernand,0,0,0,,and in between, you come here.
+Dialogue: 0,0:19:18.37,0:19:21.20,Default,Fernand,0,0,0,,You don't have time to be making lunches.
+Dialogue: 0,0:19:21.20,0:19:23.04,Default,Fernand,0,0,0,,You're pushing yourself too hard.
+Dialogue: 0,0:19:24.34,0:19:27.85,Default,Mia,0,0,0,,This is a critical time.\NI have to push myself!
+Dialogue: 0,0:19:27.85,0:19:33.27,Default,Mia,0,0,0,,I can't stand the thought of a \Nlouse like him ruining my life.
+Dialogue: 0,0:19:33.27,0:19:36.07,Default,Mia,0,0,0,,Doesn't it burn you to think\Nsomeone who's trying to hurt you
+Dialogue: 0,0:19:36.07,0:19:37.73,Default,Mia,0,0,0,,is getting everything he wants?
+Dialogue: 0,0:19:37.73,0:19:42.18,Default,Fernand,0,0,0,,You feel that way because you're so strong.
+Dialogue: 0,0:19:42.94,0:19:44.37,Default,Fernand,0,0,0,,I'm not strong at all.
+Dialogue: 0,0:19:44.84,0:19:47.80,Default,Fernand,0,0,0,,Don't pin your hopes on a weakling like me.
+Dialogue: 0,0:19:47.80,0:19:51.45,Default,Fernand,0,0,0,,My father, my mother, everyone around me...
+Dialogue: 0,0:19:51.45,0:19:54.38,Default,Fernand,0,0,0,,My health has only ever let them all down.
+Dialogue: 0,0:19:54.38,0:19:56.30,Default,Fernand,0,0,0,,I hate it so much.
+Dialogue: 0,0:19:56.85,0:20:01.26,Default,Fernand,0,0,0,,Yet at some point... \Npart of me began relying on it.
+Dialogue: 0,0:20:01.72,0:20:03.55,Flashback,Julius,0,0,0,,Useless creature.
+Dialogue: 0,0:20:03.55,0:20:05.44,Default,Fernand,0,0,0,,"I'm sickly, so I don't have a choice."
+Dialogue: 0,0:20:05.44,0:20:07.53,Default,Fernand,0,0,0,,"This is just how I am, so I have no choice."
+Dialogue: 0,0:20:07.53,0:20:11.37,Default,Fernand,0,0,0,,I decided I'd never fare better\N and gave up on trying.
+Dialogue: 0,0:20:11.37,0:20:12.64,Default,Fernand,0,0,0,,I'm afraid!
+Dialogue: 0,0:20:12.64,0:20:15.06,Default,Fernand,0,0,0,,I'm afraid to face what \NI've run from for so long!
+Dialogue: 0,0:20:15.06,0:20:16.85,Default,Fernand,0,0,0,,It's not death I fear!
+Dialogue: 0,0:20:16.85,0:20:20.57,Default,Fernand,0,0,0,,I'm absolutely terrified of having to face \Nwhat a failure I've been all this time!
+Dialogue: 0,0:20:20.57,0:20:21.85,Default,Fernand,0,0,0,,And that I feel this way...
+Dialogue: 0,0:20:21.85,0:20:24.23,Default,Mia,0,0,0,,Is what you hate more than anything else?
+Dialogue: 0,0:20:25.65,0:20:28.12,Default,Mia,0,0,0,,You're just like me, then.
+Dialogue: 0,0:20:33.84,0:20:37.17,Default,Fernand,0,0,0,,{\i1}Why are you crying?
+Dialogue: 0,0:20:37.17,0:20:39.09,Default,Fernand,0,0,0,,{\i1}You're a saint, aren't you?
+Dialogue: 0,0:20:39.09,0:20:42.59,Default,Fernand,0,0,0,,{\i1}You're strong and earnest... \NNothing like me!
+Dialogue: 0,0:20:44.62,0:20:49.40,Default,Mia,0,0,0,,Your Highness. If you fail to stand now, \Nyou won't even be a failure.
+Dialogue: 0,0:20:50.27,0:20:55.97,Default,Mia,0,0,0,,Because failure is a right you earn\N only when you fight!
+Dialogue: 0,0:20:55.97,0:20:58.35,Default,Mia,0,0,0,,If you never do more than \Nrun away and make excuses,
+Dialogue: 0,0:20:58.35,0:21:00.69,Default,Mia,0,0,0,,you won't even rise to the level of failure!
+Dialogue: 0,0:21:00.69,0:21:02.49,Default,Mia,0,0,0,,There's nothing wrong with failing!
+Dialogue: 0,0:21:02.49,0:21:05.85,Default,Mia,0,0,0,,It means you can hold your head high \Nand say you didn't run from fate!
+Dialogue: 0,0:21:05.85,0:21:07.13,Default,Mia,0,0,0,,It's a wonderful thing!
+Dialogue: 0,0:21:08.40,0:21:09.69,Default,Mia,0,0,0,,I have to go.
+Dialogue: 0,0:21:14.88,0:21:17.92,Default,Fernand,0,0,0,,{\i1}Do you... feel the same way?
+Dialogue: 0,0:21:18.93,0:21:24.05,Default,Fernand,0,0,0,,{\i1}You've been disappointed in yourself \Nyet continued to strive.
+Dialogue: 0,0:21:28.43,0:21:32.14,Default,Fernand,0,0,0,,{\i1}I bet she's grown sick of me now, too.
+Dialogue: 0,0:21:32.56,0:21:34.14,Default,Fernand,0,0,0,,{\i1}She'll never come back here again.
+Dialogue: 0,0:21:35.81,0:21:37.15,Default,Fernand,0,0,0,,I hate the thought...
+Dialogue: 0,0:21:40.13,0:21:42.86,Default,Fernand,0,0,0,,Wait, that's right.
+Dialogue: 0,0:21:44.02,0:21:46.44,Default,Fernand,0,0,0,,I could go to see {\i1}her{\i0}!
+Dialogue: 0,0:21:50.00,0:21:54.04,Default,Fernand,0,0,0,,You've worn me down, Mia.
+Dialogue: 0,0:23:26.88,0:23:32.93,Default,Philia,0,0,0,,{\i1}The Too-Perfect Saint Tossed Aside by \NMy Fiancé and Sold to Another Kingdom{\i0}.
+Dialogue: 0,0:23:33.55,0:23:35.01,Default,Philia,0,0,0,,Next time, episode 8:
+Dialogue: 0,0:23:35.01,0:23:40.02,Default,Sign,0,0,0,,{\shad1\bord0\fs18\fnGeorgia\c&HFBFFFF&\3c&H0F0F10&\4c&H302E2C&\pos(320,67.102)\b1}Next Time
+Dialogue: 0,0:23:35.01,0:23:40.02,Default,Sign,0,0,0,,{\shad1\bord0\fs14\fnGeorgia\c&HFBFFFF&\3c&H4E4E4E&\4c&H4E4E4E&\b1\pos(320,120.348)}Episode 8
+Dialogue: 0,0:23:35.01,0:23:40.02,Default,Sign,0,0,0,,{\shad1\bord0\an8\fnGeorgia\c&HFBFFFF&\3c&H4E4E4E&\fs20\4c&H6A6763&\b1\pos(320,255)}"With {\fs24\c&H0CDD21&\4c&HFFFFFF&}You{\fs20\c&HFBFFFF&\4c&H6A6763&}, Who Gave Me {\fs24\c&H0CDD21&\4c&HFFFFFF&}Courage{\fs20\c&HFBFFFF&\4c&H6A6763&}"
+Dialogue: 0,0:23:36.11,0:23:38.16,Default,Philia,0,0,0,,"With You, Who Gave Me Courage."
