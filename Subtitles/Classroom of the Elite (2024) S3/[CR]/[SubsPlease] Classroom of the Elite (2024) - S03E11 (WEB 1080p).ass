@@ -1,0 +1,447 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main_Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics_Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics_Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: OpeningQuote,Times New Roman,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,65,1
+Style: QuoteAttribution,Times New Roman,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,3,359,86,125,1
+Style: Settings,Times New Roman,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,110,0,0,1,0,0,2,10,10,70,1
+Style: sign_18260_230_Tokyo_Metropolit,Times New Roman,12,&H00546A4D,&H000000FF,&H00B6E0C0,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,70,20,117,1
+Style: sign_18272_231_At_this_school__,Times New Roman,13,&H004C684D,&H000000FF,&H00B6E0C0,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,94,0,226,1
+Style: Credits Point list,Times New Roman,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,2,7,310,20,40,1
+Style: Class Point List,Times New Roman,16,&H00E5E967,&H000000FF,&H00615437,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,40,421,20,1
+Style: sign_34416_398_Abandon_all_hope,Times New Roman,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,126,196,68,1
+Style: sign_139_2_Dante_Alighieri_,Times New Roman,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,3,114,108,126,1
+Style: sign_34416_427_Kierkegaard___Wo,Times New Roman,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,3,339,106,108,1
+Style: sign_34416_426_Every_man_has_in,Times New Roman,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,140,214,18,1
+Style: sign_34188_421_Summer_Special_T,Times New Roman,12,&H00F6E6B2,&H000000FF,&H00BF9F71,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,161,316,52,1
+Style: sign_34188_422_Class_A,Times New Roman,12,&H00F6E6B2,&H000000FF,&H00BF9F71,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,222,373,128,1
+Style: sign_34188_423_Class_B,Times New Roman,12,&H00F6E6B2,&H000000FF,&H00BF9F71,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,240,356,178,1
+Style: sign_34188_424_Class_C,Times New Roman,12,&H00F6E6B2,&H000000FF,&H00BF9F71,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,260,335,121,1
+Style: sign_34188_425_Class_D,Times New Roman,12,&H00F6E6B2,&H000000FF,&H00BF9F71,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,272,323,71,1
+Style: sign_34417_368_What_people_comm,Times New Roman,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,79,85,68,1
+Style: sign_34417_369_Schopenhauer__Ph,Times New Roman,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,3,323,74,114,1
+Style: sign_3430_6_Test__Day_2,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,260,260,20,1
+Style: sign_1583_3_Schopenhauer__Ph,Times New Roman,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,3,20,108,124,1
+Style: sign_1484_2_Genius,Times New Roman,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,78,66,1
+Style: sign_1521_9_Classroom_of_the,Consolas,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,10,0,1,0,0,5,5,5,0,1
+Style: sign_40_1_Every_man_has_in,Times New Roman,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,179,207,20,1
+Style: sign_140_2_Kierkegaard___Wo,Times New Roman,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,3,359,86,98,1
+Style: sign_22854_247_Point_Transfer,Times New Roman,14,&H00FFFFFF,&H000000FF,&H008A644F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,300,47,60,1
+Style: sign_22854_248_Point_Transfer_i,Times New Roman,14,&H00FDFF33,&H000000FF,&H008A644F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,125,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.00,0:00:12.01,OpeningQuote,sign,0,0,0,,{\fad(2075,0)\pos(320,22)}There is only one rule in love:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hbring happiness to those you love.
+Dialogue: 0,0:00:05.79,0:00:12.01,QuoteAttribution,sign,0,0,0,,{\fad(775,0)\q2\pos(576,255)}Stendhal, "Journal, 19 June 1805"
+Dialogue: 0,0:00:14.99,0:00:17.98,Flashback,Researcher A,0,0,0,,This is amazing, Ayanokoji-sensei.
+Dialogue: 0,0:00:17.98,0:00:21.39,Flashback,Researcher A,0,0,0,,Kiyotaka-kun is an unquestioned genius.
+Dialogue: 0,0:00:21.39,0:00:24.47,Flashback,Ayanokoji's Father,0,0,0,,Being born a genius means nothing.
+Dialogue: 0,0:00:25.00,0:00:28.22,Flashback,Ayanokoji's Father,0,0,0,,Don't forget, the purpose \Nof this organization
+Dialogue: 0,0:00:28.22,0:00:32.26,Flashback,Ayanokoji's Father,0,0,0,,is to produce excellence from \Neven the most inferior DNA.
+Dialogue: 0,0:00:32.26,0:00:33.51,Flashback,Researcher A,0,0,0,,R-Right.
+Dialogue: 0,0:00:33.87,0:00:37.48,Flashback,Ayanokoji's Father,0,0,0,,Don't show bias to him \Njust because he's my son.
+Dialogue: 0,0:00:39.11,0:00:41.69,Flashback,Ayanokoji's Father,0,0,0,,Even if that means it breaks him.
+Dialogue: 0,0:00:43.83,0:00:46.44,Flashback,Sakayanagi's Father,0,0,0,,You surprise me, Arisu.
+Dialogue: 0,0:00:46.86,0:00:49.33,Flashback,Sakayanagi's Father,0,0,0,,You don't usually take so \Nmuch interest in things.
+Dialogue: 0,0:00:49.83,0:00:53.44,Flashback,Sakayanagi,0,0,0,,Experiments to create artificial genius...
+Dialogue: 0,0:00:53.79,0:00:56.06,Flashback,Sakayanagi,0,0,0,,It's only natural that I'm curious.
+Dialogue: 0,0:00:56.47,0:00:58.81,Flashback,Sakayanagi's Father,0,0,0,,You never change, do you?
+Dialogue: 0,0:01:00.06,0:01:01.13,Flashback,Sakayanagi,0,0,0,,That boy...
+Dialogue: 0,0:01:01.77,0:01:05.21,Flashback,Sakayanagi's Father,0,0,0,,Oh, that's Sensei's son.
+Dialogue: 0,0:01:06.01,0:01:07.58,Flashback,Sakayanagi's Father,0,0,0,,His name, I believe...
+Dialogue: 0,0:01:08.04,0:01:11.96,Flashback,Sakayanagi's Father,0,0,0,,is Ayanokoji Kiyotaka-kun.
+Dialogue: 0,0:01:12.78,0:01:16.24,Flashback,Sakayanagi,0,0,0,,Ayanokoji Kiyotaka...
+Dialogue: 0,0:01:18.47,0:01:23.22,Main,Sakagami,0,0,0,,We will now begin this \Nyear's final special exam.
+Dialogue: 0,0:01:23.85,0:01:30.72,Main,Sakagami,0,0,0,,Each class, choose five of the presented \Nten subjects, and press "confirm."
+Dialogue: 0,0:01:25.08,0:01:27.50,Sign_Basic,sign,0,0,0,,{\fad(100,0)\pos(45.143,145.143)\c&H89614B&\fs12\shad0\3c&HE2C3B1&\frz349.7\frx12\fry22}Final Special Exam
+Dialogue: 0,0:01:31.92,0:01:34.24,Sign_Basic,sign,0,0,0,,{\fad(100,0)\pos(102,140)\fnArial\b1\fs18\c&H781400&\bord0\shad0}English
+Dialogue: 0,0:01:34.91,0:01:38.72,Main,Sakayanagi,0,0,0,,I've been waiting for the day we'd do battle.
+Dialogue: 0,0:01:39.37,0:01:43.12,Main,Sakayanagi,0,0,0,,I'm sure it was destiny that made it happen.
+Dialogue: 0,0:01:43.12,0:01:45.85,Sign_Basic,sign,0,0,0,,{\pos(102,140)\fnArial\b1\fs18\c&H781400&\bord0\shad0}English
+Dialogue: 0,0:01:46.81,0:01:47.87,Sign_Basic,sign,0,0,0,,{\fad(150,0)\fnArial\b1\fs12\c&H59002E&\bord0\shad0\pos(488,210)}English
+Dialogue: 0,0:01:46.98,0:01:47.87,Sign_Basic,sign,0,0,0,,{\fad(200,0)\fnArial\b1\fs12\c&H59002E&\bord0\shad0\pos(555,210)}Modern Lit
+Dialogue: 0,0:01:47.14,0:01:47.87,Sign_Basic,sign,0,0,0,,{\fad(200,0)\fnArial\b1\fs12\c&H390608&\bord0\shad0\pos(450,308)}Math
+Dialogue: 0,0:01:47.31,0:01:47.87,Sign_Basic,sign,0,0,0,,{\fad(200,0)\fnArial\b1\fs12\c&H670422&\bord0\shad0\pos(522,316)}Mental Math
+Dialogue: 0,0:01:48.19,0:01:49.69,Main,Ayanokoji,0,0,0,,Destiny, huh?
+Dialogue: 0,0:01:50.12,0:01:52.88,Main,Ayanokoji,0,0,0,,That's a very abstract concept.
+Dialogue: 0,0:01:53.32,0:01:55.09,Main,Sakayanagi,0,0,0,,Well, I am a young maiden.
+Dialogue: 0,0:01:55.38,0:01:59.36,Main,Hoshinomiya,0,0,0,,After all that effort to \Nmake it up to Class C,
+Dialogue: 0,0:01:59.36,0:02:01.73,Main,Hoshinomiya,0,0,0,,he has to face Sakayanagi-san...
+Dialogue: 0,0:02:01.73,0:02:04.19,Main,Hoshinomiya,0,0,0,,Poor Ayanokoji-kun.
+Dialogue: 0,0:02:04.19,0:02:06.11,Main,Hoshinomiya,0,0,0,,I can't help but sympathize.
+Dialogue: 0,0:02:06.11,0:02:08.35,Main,Sakagami,0,0,0,,Just see that you remain impartial.
+Dialogue: 0,0:02:08.35,0:02:09.98,Main,Hoshinomiya,0,0,0,,Sorry!
+Dialogue: 0,0:02:11.02,0:02:12.11,Main,Sakagami,0,0,0,,Well, then.
+Dialogue: 0,0:02:12.46,0:02:15.10,Main,Sakagami,0,0,0,,Let's determine the first subject.
+Dialogue: 0,0:02:16.97,0:02:21.61,Main,Sakayanagi,0,0,0,,Normally, I'd ask that \Nyou take it easy on me...
+Dialogue: 0,0:02:22.67,0:02:25.34,Main,Sakayanagi,0,0,0,,But I hope you'll give it \Neverything you have.
+Dialogue: 0,0:02:27.43,0:02:29.12,Sign_Basic,sign,0,0,0,,{\pos(320,90)\fnTimes New Roman\b1\bord0\shad0}Round 1
+Dialogue: 0,0:02:36.94,0:02:41.89,Main,Sakayanagi,0,0,0,,Intentionally keeping your ace, \NSudo-kun, in reserve?
+Dialogue: 0,0:02:44.19,0:02:46.89,Main,Sakayanagi,0,0,0,,The captains' rule for this round
+Dialogue: 0,0:02:46.89,0:02:51.89,Main,Sakayanagi,0,0,0,,lets us swap in one participant \Nat the moment of our choosing...
+Dialogue: 0,0:02:46.89,0:02:51.90,Sign_Basic,sign,0,0,0,,{\pos(382.667,38)\an8\fnTimes New Roman\b1\shad0\3c&H583C29&\frx0\fry4}Captains' Special Rule
+Dialogue: 0,0:02:46.89,0:02:51.90,Sign_Basic,sign,0,0,0,,{\fnTimes New Roman\b1\shad0\3c&H583C29&\an7\pos(96.667,159.333)\fay-.042\frx4\fry0}Ability to swap out one member at chosen time.
+Dialogue: 0,0:02:52.65,0:02:54.02,Main,Sakayanagi,0,0,0,,I see.
+Dialogue: 0,0:03:14.14,0:03:17.05,Main,Hasebe,0,0,0,,They're doing pretty great for \Nnot having Sudo-kun in there.
+Dialogue: 0,0:03:17.40,0:03:18.60,Main,Horikita,0,0,0,,It's strange.
+Dialogue: 0,0:03:18.60,0:03:20.42,Main,Horikita,0,0,0,,This seems far too easy.
+Dialogue: 0,0:03:24.81,0:03:26.93,Main,Ayanokoji,0,0,0,,I'm invoking the captains' rule.
+Dialogue: 0,0:03:26.93,0:03:28.20,Main,Ayanokoji,0,0,0,,Swapping members.
+Dialogue: 0,0:03:28.20,0:03:29.25,Main_Top,Sudo,0,0,0,,Great work.
+Dialogue: 0,0:03:28.76,0:03:32.19,Main,Ayanokoji,0,0,0,,Sudo Ken swaps in for Hondo Ryotaro.
+Dialogue: 0,0:03:29.25,0:03:30.86,Main_Top,Hondo,0,0,0,,Give it your best!
+Dialogue: 0,0:03:33.09,0:03:36.29,Italics,Sakayanagi,0,0,0,,I should have known that simple \Nstrategy wouldn't fool you.
+Dialogue: 0,0:03:36.86,0:03:38.69,Italics,Sakayanagi,0,0,0,,Just as I want it.
+Dialogue: 0,0:03:44.78,0:03:45.82,Main,Kito,0,0,0,,What's wrong?
+Dialogue: 0,0:03:46.06,0:03:50.08,Main,Kito,0,0,0,,Left completely helpless \Nagainst an amateur like me?
+Dialogue: 0,0:03:50.08,0:03:52.75,Main,Sudo,0,0,0,,Damn it... You've played \Nbasketball before, huh?
+Dialogue: 0,0:03:57.46,0:04:00.00,Main,Sudo,0,0,0,,You were going easy on us before!
+Dialogue: 0,0:04:01.47,0:04:04.68,Main,Kito,0,0,0,,No. You just suck that bad.
+Dialogue: 0,0:04:04.68,0:04:06.64,Main,Sudo,0,0,0,,Screw you!
+Dialogue: 0,0:04:10.46,0:04:14.94,Main,Sakayanagi,0,0,0,,The smallest of psychological blows \Nwill cause Sudo-kun to crumble.
+Dialogue: 0,0:04:15.24,0:04:19.63,Main,Sakayanagi,0,0,0,,No matter how superlative one's \Nskills, if the mind is weak...
+Dialogue: 0,0:04:19.63,0:04:20.66,Main,Ayanokoji,0,0,0,,Weak?
+Dialogue: 0,0:04:21.87,0:04:23.95,Main,Ayanokoji,0,0,0,,When did you get your information on that?
+Dialogue: 0,0:04:25.93,0:04:29.70,Main,Kito,0,0,0,,Your team lost the lead after \Nyou came out, basketball club.
+Dialogue: 0,0:04:29.70,0:04:31.91,Main,Sudo,0,0,0,,Like hell! I'll show you!
+Dialogue: 0,0:04:32.14,0:04:33.54,Main,Kito,0,0,0,,So simple-minded.
+Dialogue: 0,0:04:35.33,0:04:36.00,Main,Sudo,0,0,0,,Kanji!
+Dialogue: 0,0:04:39.67,0:04:41.11,Main_Top,Koenji,0,0,0,,Oh?
+Dialogue: 0,0:04:39.67,0:04:41.11,Main,All,0,0,0,,Yeah!
+Dialogue: 0,0:04:40.29,0:04:42.34,Main_Top,Wang,0,0,0,,We can still turn it around!
+Dialogue: 0,0:04:41.11,0:04:42.67,Main,Sato,0,0,0,,That's our Sudo!
+Dialogue: 0,0:04:41.34,0:04:42.67,Main_Top,Shinohara,0,0,0,,Hey, looking cool!
+Dialogue: 0,0:04:42.67,0:04:44.26,Main,Hasebe,0,0,0,,Onodera-san, nice shot!
+Dialogue: 0,0:04:44.26,0:04:45.42,Main,Hirata,0,0,0,,We've still got time!
+Dialogue: 0,0:04:45.42,0:04:47.69,Main,Yukimura,0,0,0,,Ike and Sudo are in total sync, huh?
+Dialogue: 0,0:04:50.42,0:04:52.68,Main,Sakagami,0,0,0,,The winner: Class C!
+Dialogue: 0,0:04:52.68,0:04:54.41,Main,Sudo,0,0,0,,Hell yeah!
+Dialogue: 0,0:04:54.41,0:04:56.19,Main,Sudo,0,0,0,,We did it, guys!
+Dialogue: 0,0:04:57.38,0:04:58.94,Main,Sakayanagi,0,0,0,,I see.
+Dialogue: 0,0:04:59.21,0:05:02.32,Main,Sakayanagi,0,0,0,,You're suggesting he's matured, as well?
+Dialogue: 0,0:05:03.90,0:05:05.50,Main,Wang,0,0,0,,Awesome!
+Dialogue: 0,0:05:03.90,0:05:05.75,Main,Hirata,0,0,0,,Great job, everyone!
+Dialogue: 0,0:05:05.50,0:05:07.41,Main,Koenji,0,0,0,,How surprising.
+Dialogue: 0,0:05:05.75,0:05:07.41,Main,Yukimura,0,0,0,,We beat Class A!
+Dialogue: 0,0:05:07.41,0:05:09.66,Sign_Basic,sign,0,0,0,,{\pos(320,5)\an8\fnTimes New Roman\b1\fs16\bord0\shad0}Final Special Exam
+Dialogue: 0,0:05:07.41,0:05:09.66,Sign_Basic,sign,0,0,0,,{\an7\fnTimes New Roman\b1\fs24\bord0\shad0\pos(225,64)\c&HF6F7F6&}3x3 Basketball
+Dialogue: 0,0:05:08.63,0:05:09.66,Italics,Horikita,0,0,0,,Although...
+Dialogue: 0,0:05:10.40,0:05:14.30,Italics,Horikita,0,0,0,,We've played a powerful \Ncard in Sudo-kun early on.
+Dialogue: 0,0:05:14.30,0:05:18.17,Main,Sakagami,0,0,0,,Match two, typing battle.
+Dialogue: 0,0:05:15.81,0:05:18.17,Sign_Basic,sign,0,0,0,,{\pos(320,90)\fnTimes New Roman\b1\bord0\shad0}Round 2
+Dialogue: 0,0:05:15.81,0:05:18.17,Sign_Basic,sign,0,0,0,,{\an8\shad0\1a&HFF&\fnTimes New Roman\3c&HFFFFFF&\pos(320,160)\b1}Typing Battle
+Dialogue: 0,0:05:18.59,0:05:21.80,Main,Sakayanagi,0,0,0,,Another of Class C's chosen subjects?
+Dialogue: 0,0:05:22.30,0:05:25.02,Main,Sakayanagi,0,0,0,,It appears you have the luck of the draw.
+Dialogue: 0,0:05:25.47,0:05:27.93,Sign_Basic,sign,0,0,0,,{\fad(675,0)\fnTimes New Roman\bord1.5\shad0\c&HFFFFFF&\fs24\pos(320,20)\an8\3c&H3C423E&}Round Two: Typing
+Dialogue: 0,0:05:29.93,0:05:33.43,Main,sign,0,0,0,,{\fnTimes New Roman\bord1.5\shad0\c&HFFFFFF&\fs14\an7\3c&HBE4791&\frz341.5\fay-.03\frx342\fry334\pos(116,38)}Sotomura Hideo Class C
+Dialogue: 0,0:05:29.93,0:05:33.43,Sign_Basic,sign,0,0,0,,{\an8\fnTimes New Roman\fs12\3c&H595954&\shad0\frx2\fry352\pos(379.333,16)\frz345.7}Final Special Exam Round Two\N{\fs20}Typing Battle
+Dialogue: 0,0:05:29.93,0:05:33.43,Sign_Basic,sign,0,0,0,,{\fnTimes New Roman\bord1.5\shad0\c&HFFFFFF&\fs14\an9\3c&H203087&\frz341.5\fay-.03\pos(636,194.666)\frx0\fry6}Class A Yoshida Kenta
+Dialogue: 0,0:05:33.47,0:05:37.44,Sign_Basic,sign,0,0,0,,{\fad(675,0)\fnTimes New Roman\bord1.5\shad0\c&HFFFFFF&\fs24\pos(320,20)\an8\3c&H3C423E&}Round 3: English Test
+Dialogue: 0,0:05:37.48,0:05:41.94,Sign_Basic,sign,0,0,0,,{\fad(675,0)\fnTimes New Roman\bord1.5\shad0\c&HFFFFFF&\fs24\an1\3c&H262C29&\pos(48,310)}Class C Entrants:\NInogashira, Shinohara, Sato, Karuizawa
+Dialogue: 0,0:05:45.94,0:05:49.95,Sign_Basic,sign,0,0,0,,{\fad(675,0)\fnTimes New Roman\bord1.5\shad0\c&HFFFFFF&\fs24\pos(320,20)\an8\3c&H3C423E&}Round 4: Math Test
+Dialogue: 0,0:05:49.95,0:05:54.45,Sign_Basic,sign,0,0,0,,{\fad(675,0)\fnTimes New Roman\bord1.5\shad0\c&HFFFFFF&\fs24\an1\3c&H262C29&\pos(48,310)}Class C Entrants:\NYukimura, Hirata, Wang, Kushida
+Dialogue: 0,0:05:54.45,0:05:59.96,Sign_Basic,sign,0,0,0,,{\fad(675,0)\fnTimes New Roman\bord1.5\shad0\c&HFFFFFF&\fs24\pos(320,20)\an8\3c&H3C423E&}Round 5: Archery
+Dialogue: 0,0:06:00.96,0:06:03.46,Sign_Basic,sign,0,0,0,,{\fad(675,0)\fnTimes New Roman\bord1.5\shad0\c&HFFFFFF&\fs24\an1\3c&H262C29&\pos(56,331.692)}Class C Entrant:\NMiyake
+Dialogue: 0,0:06:03.87,0:06:05.46,Main,Sakayanagi,0,0,0,,Quite impressive.
+Dialogue: 0,0:06:05.46,0:06:06.61,Main,Yukimura,0,0,0,,Just one more!
+Dialogue: 0,0:06:05.46,0:06:07.71,Sign_Basic,sign,0,0,0,,{\pos(320,5)\an8\fnTimes New Roman\b1\fs16\bord0\shad0}Final Special Exam
+Dialogue: 0,0:06:05.46,0:06:07.71,Sign_Basic,sign,0,0,0,,{\an7\fnTimes New Roman\b1\fs24\bord0\shad0\pos(225,64)\c&HF6F7F6&}3x3 Basketball
+Dialogue: 0,0:06:05.46,0:06:07.71,Sign_Basic,sign,0,0,0,,{\an7\fnTimes New Roman\b0\fs22\bord0\shad0\c&HF6F7F6&\b1\pos(318,120)}Typing
+Dialogue: 0,0:06:05.46,0:06:07.71,Sign_Basic,sign,0,0,0,,{\an7\fnTimes New Roman\b0\fs22\bord0\shad0\c&HF6F7F6&\b1\pos(318,160)}English
+Dialogue: 0,0:06:05.46,0:06:07.71,Sign_Basic,sign,0,0,0,,{\an7\fnTimes New Roman\b0\fs22\bord0\shad0\c&HF6F7F6&\b1\pos(318,198)}Math
+Dialogue: 0,0:06:05.46,0:06:07.71,Sign_Basic,sign,0,0,0,,{\an7\fnTimes New Roman\b0\fs22\bord0\shad0\c&HF6F7F6&\b1\pos(318,235)}Archery
+Dialogue: 0,0:06:06.61,0:06:08.30,Main,Sudo,0,0,0,,Yes! We're almost there!
+Dialogue: 0,0:06:08.30,0:06:11.72,Main,Hirata,0,0,0,,We're winning all the subjects we submitted!
+Dialogue: 0,0:06:11.72,0:06:13.39,Main,Hasebe,0,0,0,,Which means...
+Dialogue: 0,0:06:13.39,0:06:15.98,Main,Sato,0,0,0,,If we get a good pull on the next subject...
+Dialogue: 0,0:06:15.98,0:06:18.46,Main,Sakagami,0,0,0,,The next competition will be...
+Dialogue: 0,0:06:18.44,0:06:19.60,Sign_Basic,sign,0,0,0,,{\pos(320,90)\fnTimes New Roman\b1\bord0\shad0}Round 6
+Dialogue: 0,0:06:18.44,0:06:19.60,Sign_Basic,sign,0,0,0,,{\an8\shad0\1a&HFF&\fnTimes New Roman\3c&HFFFFFF&\pos(320,160)\b1}Mental Math
+Dialogue: 0,0:06:19.60,0:06:21.33,Main,Shinohara,0,0,0,,It's one of theirs?
+Dialogue: 0,0:06:20.71,0:06:21.99,Main,Wang,0,0,0,,Oh, no...
+Dialogue: 0,0:06:21.35,0:06:23.86,Main,Sakagami,0,0,0,,Choose the students to participate.
+Dialogue: 0,0:06:24.28,0:06:27.69,Main,Sakayanagi,0,0,0,,I suppose I can't afford to lose this one.
+Dialogue: 0,0:06:28.53,0:06:32.55,Main,Sakayanagi,0,0,0,,Our participants will be Tamiya Emi-san
+Dialogue: 0,0:06:31.39,0:06:36.12,Sign_Basic,sign,0,0,0,,{\fad(225,0)\pos(180,190)\an8\c&H75655E&\3c&HFAF8EC&\fnTimes New Roman\shad0\fs22\bord1\b1}Tamiya Emi
+Dialogue: 0,0:06:32.55,0:06:36.12,Main,Sakayanagi,0,0,0,,and Katsuragi Kohei-kun.
+Dialogue: 0,0:06:36.42,0:06:37.37,Main,Yukimura,0,0,0,,Okay!
+Dialogue: 0,0:06:37.71,0:06:40.03,Main,Ayanokoji,0,0,0,,I'll go with Matsushita Chiaki
+Dialogue: 0,0:06:40.37,0:06:43.09,Sign_Basic,sign,0,0,0,,{\an8\c&H000000&\3c&HFFFFFF&\fnTimes New Roman\shad0\fs22\bord1.5\b1\move(271,210,185,210)}Matsushita Chiaki
+Dialogue: 0,0:06:40.37,0:06:43.09,Main,sign,0,0,0,,{\an8\c&H000000&\3c&HFFFFFF&\fnTimes New Roman\shad0\fs22\bord1.5\b1\move(576,210,494,210)\alpha&HFF&\t(1073,1406,1 \alpha&H00&)}Koenji Rokusuke
+Dialogue: 0,0:06:40.70,0:06:42.48,Main,Ayanokoji,0,0,0,,and Koenji Rokusuke.
+Dialogue: 0,0:06:43.09,0:06:46.10,Main,Sakayanagi,0,0,0,,I see. Because the rule is that the \Nwinner isn't decided by combined score,
+Dialogue: 0,0:06:43.09,0:06:50.09,Sign_Basic,sign,0,0,0,,{\fad(675,0)\fnTimes New Roman\bord1.5\shad0\c&HFFFFFF&\fs24\pos(320,20)\an8\3c&H3C423E&}Round 6: Mental Math
+Dialogue: 0,0:06:46.10,0:06:50.09,Main,Sakayanagi,0,0,0,,but by the single student \Nwith the highest score.
+Dialogue: 0,0:06:50.71,0:06:53.37,Main,Sakayanagi,0,0,0,,The plan is that even if Koenji-kun \Ndoesn't take it seriously,
+Dialogue: 0,0:06:53.37,0:06:56.31,Main,Sakayanagi,0,0,0,,Matsushita-san is there to cover him.
+Dialogue: 0,0:06:56.67,0:06:58.85,Main,Sakagami,0,0,0,,There will be ten questions in all.
+Dialogue: 0,0:06:58.85,0:07:03.14,Main,Sakagami,0,0,0,,The further you go, the harder they will \Nbecome, but the more they will be worth.
+Dialogue: 0,0:07:03.96,0:07:05.11,Main,Sakagami,0,0,0,,Begin!
+Dialogue: 0,0:07:07.61,0:07:09.61,Sign_Basic,sign,0,0,0,,{\fnTimes New Roman\b1\bord0\shad0\fs16\an5\pos(374,318)\fay.03\frx0\fry332}Final Special Exam Round 6\N{\fs28}Question 1
+Dialogue: 0,0:07:11.87,0:07:13.40,Main,Ike,0,0,0,,Huh? What the...
+Dialogue: 0,0:07:12.11,0:07:14.54,Main,Hashimoto,0,0,0,,Hang on, that's impossible!
+Dialogue: 0,0:07:13.73,0:07:15.06,Main,Onodera,0,0,0,,All of those?!
+Dialogue: 0,0:07:14.54,0:07:16.37,Main,Hasebe,0,0,0,,There's not enough time!
+Dialogue: 0,0:07:15.06,0:07:16.37,Main,Hondo,0,0,0,,I couldn't remember them all.
+Dialogue: 0,0:07:24.88,0:07:26.50,Main,Sudo,0,0,0,,That damn Koenji...
+Dialogue: 0,0:07:26.50,0:07:27.88,Main,Sudo,0,0,0,,He's not taking it seriously at all!
+Dialogue: 0,0:07:28.12,0:07:29.49,Main,Hirata,0,0,0,,Koenji-kun...
+Dialogue: 0,0:07:30.13,0:07:34.64,Sign_Basic,sign,0,0,0,,{\pos(497,108)\fnTimes New Roman\b1\fs18\bord0\shad0\frx354\fry358\frz359}End
+Dialogue: 0,0:07:30.13,0:07:34.64,Sign_Basic,sign,0,0,0,,{\fnTimes New Roman\b1\fs18\bord0\shad0\pos(152,108)\frx348\fry0\frz0.4834}End
+Dialogue: 0,0:07:30.74,0:07:32.44,Main,Sakagami,0,0,0,,That was all ten questions.
+Dialogue: 0,0:07:32.44,0:07:34.18,Main,Sakagami,0,0,0,,Pencils down.
+Dialogue: 0,0:07:34.92,0:07:38.28,Main,Hoshinomiya,0,0,0,,Did they not even try to \Nsolve those last ones?
+Dialogue: 0,0:07:39.52,0:07:44.65,Main,Sakagami,0,0,0,,The captains' rule is that the captain \Nmay answer one question themselves.
+Dialogue: 0,0:07:44.65,0:07:47.81,Main,Sakayanagi,0,0,0,,I'll answer question 10.
+Dialogue: 0,0:07:45.21,0:07:46.96,Sign_Basic,sign,0,0,0,,{\fad(0,150)\fs14\b1\fnTimes New Roman\bord0\shad0\pos(300.666,64.667)}Select question to answer.
+Dialogue: 0,0:07:47.00,0:07:49.64,Sign_Basic,sign,0,0,0,,{\fad(75,0)\fs14\b1\fnTimes New Roman\bord0\shad0\pos(300.666,64.667)}Please enter your answer.
+Dialogue: 0,0:07:47.81,0:07:49.64,Main,Sakayanagi,0,0,0,,What about you, Ayanokoji-kun?
+Dialogue: 0,0:07:49.64,0:07:50.51,Sign_Basic,sign,0,0,0,,{\fad(0,150)\fs20\b1\fnTimes New Roman\bord0\shad0\pos(442,102)}Select question to answer.
+Dialogue: 0,0:07:49.96,0:07:51.47,Main,Ayanokoji,0,0,0,,I'll do the same.
+Dialogue: 0,0:07:50.55,0:07:51.90,Sign_Basic,sign,0,0,0,,{\fad(100,0)\fs20\b1\fnTimes New Roman\bord0\shad0\pos(440,102)}Please enter your answer.
+Dialogue: 0,0:07:54.41,0:07:58.63,Italics,Koenji,0,0,0,,I've never tried it before, but it's \Nquite an amusing little pastime.
+Dialogue: 0,0:07:59.56,0:08:01.91,Italics,Koenji,0,0,0,,The answer to the last question
+Dialogue: 0,0:08:01.91,0:08:05.42,Italics,Koenji,0,0,0,,is 7,619, isn't it?
+Dialogue: 0,0:08:05.42,0:08:07.36,Main,Sakayanagi,0,0,0,,Well, well.
+Dialogue: 0,0:08:05.42,0:08:09.17,Sign_Basic,sign,0,0,0,,{\fs24\b1\fnTimes New Roman\bord0\shad0\pos(320,80)}Please enter your answer.
+Dialogue: 0,0:08:07.36,0:08:09.17,Main,Sakayanagi,0,0,0,,Isn't that a surprise?
+Dialogue: 0,0:08:10.67,0:08:13.18,Main,Sakagami,0,0,0,,I will now announce the results.
+Dialogue: 0,0:08:13.18,0:08:16.70,Main,Sakagami,0,0,0,,The top placer is Katsuragi Kohei.
+Dialogue: 0,0:08:13.18,0:08:19.68,Sign_Basic,sign,0,0,0,,{\an7\fs6\shad0\b1\3c&H141111&\pos(345.334,109.333)}1st: Katsuragi Kohei\N 2nd: Matsushita Chiaki\N 3rd: Tamiya Emi\N 4th: Koenji Rokusuke
+Dialogue: 0,0:08:16.70,0:08:18.73,Main,Sakagami,0,0,0,,The winner is Class A.
+Dialogue: 0,0:08:18.73,0:08:20.73,Main,Ike,0,0,0,,Guess it's no use.
+Dialogue: 0,0:08:19.68,0:08:20.84,Main,Yukimura,0,0,0,,Damn it!
+Dialogue: 0,0:08:19.93,0:08:21.18,Main_Top,Wang,0,0,0,,Koenji-kun...
+Dialogue: 0,0:08:21.46,0:08:25.19,Main,Sakayanagi,0,0,0,,I told Katsuragi-kun in advance...
+Dialogue: 0,0:08:25.19,0:08:31.18,Main,Sakayanagi,0,0,0,,that if he betrayed us, I'd have a \Nhard-working Class A student expelled.
+Dialogue: 0,0:08:33.20,0:08:36.20,Sign_Basic,sign,0,0,0,,{\an8\fnTimes New Roman\b1\fs16\3c&H191914&\shad0\pos(365.333,26.667)}Final Special Exam Round 6\N Mental Math
+Dialogue: 0,0:08:33.20,0:08:36.20,Sign_Basic,sign,0,0,0,,{\c&HF2E7D5&\3c&H574029&\shad0\fnTimes New Roman\b1\fs16\an6\pos(134,225.334)}Matsushita Chiaki\NKoenji Rokusuke\N Katsuragi Kohei\N Tamiya Emi
+Dialogue: 0,0:08:40.51,0:08:44.21,Main,Sakayanagi,0,0,0,,I'm glad Koenji-kun didn't take it seriously.
+Dialogue: 0,0:08:44.21,0:08:46.28,Main,Ayanokoji,0,0,0,,When you don't have control \Nover a kind of power,
+Dialogue: 0,0:08:46.28,0:08:48.52,Main,Ayanokoji,0,0,0,,you can't integrate it into your strategy.
+Dialogue: 0,0:08:48.52,0:08:49.75,Main,Sakayanagi,0,0,0,,Indeed.
+Dialogue: 0,0:08:50.63,0:08:53.47,Main,Sakayanagi,0,0,0,,Still, it's three against three now.
+Dialogue: 0,0:08:53.87,0:08:57.72,Main,Ayanokoji,0,0,0,,You caught up to us, \Nbut you don't seem happy.
+Dialogue: 0,0:08:57.72,0:09:03.06,Main,Sakayanagi,0,0,0,,Because after this last subject, \Nour fun time together will end.
+Dialogue: 0,0:09:06.48,0:09:07.80,Main,Sakayanagi,0,0,0,,That just leaves...
+Dialogue: 0,0:09:08.23,0:09:12.26,Main,Sakagami,0,0,0,,I will now announce the \Nseventh and final subject.
+Dialogue: 0,0:09:12.99,0:09:14.74,Sign_Basic,sign,0,0,0,,{\pos(320,40)\fnTimes New Roman\b1\bord0\shad0}Round 7
+Dialogue: 0,0:09:12.99,0:09:14.74,Sign_Basic,sign,0,0,0,,{\an8\shad0\fnTimes New Roman\3c&HFFFFFF&\pos(320,140)\b1\c&H000000&}Chess
+Dialogue: 0,0:09:15.29,0:09:18.49,Main,Sakayanagi,0,0,0,,To think this would be the \Nfinal subject chosen...
+Dialogue: 0,0:09:18.49,0:09:26.75,Sign_Basic,sign,0,0,0,,{\an8\fnTimes New Roman\b1\shad0\3c&H583C29&\pos(381.334,6.667)\frx352\fry8}Captains' Special Rule
+Dialogue: 0,0:09:18.49,0:09:26.75,Sign_Basic,sign,0,0,0,,{\fnTimes New Roman\b1\shad0\3c&H583C29&\an8\fay-.027\pos(368.667,98)\frx2\fry8}The captain can freely give instructions to the \Nplayer for up to 30 minutes of the allotted time.
+Dialogue: 0,0:09:18.71,0:09:22.24,Main,Sakayanagi,0,0,0,,A rule that gives the captains a \Nlot of time to give instructions...
+Dialogue: 0,0:09:22.24,0:09:26.75,Main,Sakayanagi,0,0,0,,Which means the battle will \Nbe between the two of us.
+Dialogue: 0,0:09:26.75,0:09:30.50,Main,Ayanokoji,0,0,0,,I'm sorry to tell you, chess is my specialty.
+Dialogue: 0,0:09:30.78,0:09:32.58,Main,Sakayanagi,0,0,0,,Well, well.
+Dialogue: 0,0:09:33.01,0:09:34.57,Main,Sakayanagi,0,0,0,,What a happy coincidence.
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(260.467,62.366)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(277.867,62.366)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(121.267,79.466)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(138.667,79.466)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(156.067,79.466)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(173.467,79.466)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(190.867,79.466)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(208.267,79.466)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(225.667,79.466)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(243.067,79.466)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(260.467,79.466)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(277.867,79.466)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\fs6.6\q2\fsp1.5\an3\fscx90\fnImpact\pos(286.267,53.966)}3rd Season
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\fs3.3\q2\fsp0\an7\pos(114.067,72.266)}Classroom{\fs3.6}\Nof\Nthe\NElite
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\fscx60\fscy60\pos(184.267,62.366)}C{\c&H000000&}l{\c&HFFFFFF&}a{\c&H000000&}s{\c&HFFFFFF&}s{\c&H000000&}r{\c&HFFFFFF&}o{\c&H000000&}o{\c&HFFFFFF&}m {\c&H000000&}o{\c&HFFFFFF&}f
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\c&H000000&\fscx60\fscy60\pos(209.467,79.466)}t{\c&HFFFFFF&}h{\c&H000000&}e {\c&HFFFFFF&}E{\c&H000000&}l{\c&HFFFFFF&}i{\c&H000000&}t{\c&HFFFFFF&}e
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\c&H000000&\an3\bord0.6\pos(285.967,53.366)}m 6 0 l 45 0 l 45 6 l 0 6
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(86.467,62.366)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(103.867,62.366)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(121.267,62.366)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(138.667,62.366)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(156.067,62.366)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(173.467,62.366)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(190.867,62.366)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(208.267,62.366)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(225.667,62.366)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:35.63,0:09:40.01,sign_1521_9_Classroom_of_the,sign,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(243.067,62.366)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:09:47.81,0:09:50.73,Flashback,Sakayanagi's Father,0,0,0,,He's the most excellent subject here.
+Dialogue: 0,0:09:51.10,0:09:55.67,Flashback,Sakayanagi's Father,0,0,0,,But I can't help but pity the boy.
+Dialogue: 0,0:09:56.35,0:09:57.84,Flashback,Sakayanagi,0,0,0,,Why?
+Dialogue: 0,0:09:57.84,0:10:01.99,Flashback,Sakayanagi's Father,0,0,0,,He's been in this facility \Nsince the moment of his birth.
+Dialogue: 0,0:10:02.23,0:10:03.99,Flashback,Sakayanagi's Father,0,0,0,,He's never once experienced
+Dialogue: 0,0:10:03.99,0:10:06.75,Flashback,Sakayanagi's Father,0,0,0,,the love of a parent or the \Nwarmth of a human touch.
+Dialogue: 0,0:10:27.52,0:10:29.52,Sign_Basic,sign,0,0,0,,{\pos(502,70)\c&H0A0C0C&\3c&H3D4143&\fs14\bord1\frx0\fry6}Captain A
+Dialogue: 0,0:10:37.13,0:10:38.51,Sign_Basic,sign,0,0,0,,{\fad(100,0)\frx0\fry0\pos(318,86)\fnTimes New Roman\c&H150E0A&\3c&HFFFFFF&\bord1\shad0\b1}Final Special Exam Round 7
+Dialogue: 0,0:10:37.13,0:10:38.51,Sign_Basic,sign,0,0,0,,{\fad(100,0)\fnVerdana\pos(318,270)\b1\c&H360A07&\bord0\shad0\fs30}Chess
+Dialogue: 0,0:10:37.80,0:10:39.03,Sign_Basic,sign,0,0,0,,{\fad(475,0)\pos(570,238)\fs12\fnTimes New Roman\b1\shad0\bord4\c&H000000&\3c&HA793A3&}Horikita Suzune
+Dialogue: 0,0:10:37.80,0:10:39.03,Sign_Basic,sign,0,0,0,,{\fad(475,0)\fs12\fnTimes New Roman\b1\shad0\bord4\an8\c&H000000&\3c&H777A78&\pos(66,126)}Hashimoto Masayoshi
+Dialogue: 0,0:10:42.43,0:10:45.73,Main,Sakagami,0,0,0,,Let us now begin the final round.
+Dialogue: 0,0:11:01.31,0:11:04.15,Main,Hashimoto,0,0,0,,I only learned chess a few months ago,
+Dialogue: 0,0:11:04.54,0:11:06.22,Main,Hashimoto,0,0,0,,so please take it easy on me.
+Dialogue: 0,0:11:06.62,0:11:08.21,Main,Horikita,0,0,0,,I'm in the same boat.
+Dialogue: 0,0:11:08.21,0:11:10.15,Main,Horikita,0,0,0,,I only started a week ago.
+Dialogue: 0,0:11:11.63,0:11:16.30,Flashback_Italics,Ayanokoji,0,0,0,,No one can beat me when I'm not holding back.
+Dialogue: 0,0:11:14.73,0:11:17.03,Sign_Basic,sign,0,0,0,,{\fad(0,550)\fnTimes New Roman\b1\fs12\c&HDCD3D2&\bord0\shad0\frz11.33\pos(287.333,110.666)}Ayanokoji Kiyotaka
+Dialogue: 0,0:11:19.26,0:11:20.45,Italics,Horikita,0,0,0,,I wonder why...
+Dialogue: 0,0:11:21.11,0:11:22.73,Italics,Horikita,0,0,0,,I feel like I'll win this.
+Dialogue: 0,0:11:40.76,0:11:43.40,Main,Hashimoto,0,0,0,,Pretty twisted attack, right?
+Dialogue: 0,0:11:43.40,0:11:45.64,Main,Horikita,0,0,0,,Did Sakayanagi-san teach it to you?
+Dialogue: 0,0:11:46.51,0:11:50.63,Main,Hashimoto,0,0,0,,Seems like you learned from \Nsomeone pretty skilled, too.
+Dialogue: 0,0:11:50.63,0:11:52.51,Main,Horikita,0,0,0,,You'll just have to speculate.
+Dialogue: 0,0:11:53.02,0:11:54.84,Main,Hashimoto,0,0,0,,Well, that's fine.
+Dialogue: 0,0:11:55.31,0:11:59.03,Main,Hashimoto,0,0,0,,Although... mind if I \Nask you about Ayanokoji?
+Dialogue: 0,0:12:00.91,0:12:08.17,Main,Hashimoto,0,0,0,,Since the island test, I've been wondering \Nif he might be the real mastermind.
+Dialogue: 0,0:12:08.17,0:12:10.00,Main,Horikita,0,0,0,,What makes you think that?
+Dialogue: 0,0:12:10.47,0:12:12.03,Main,Hashimoto,0,0,0,,Just instinct.
+Dialogue: 0,0:12:12.03,0:12:13.50,Main,Hashimoto,0,0,0,,Could you give me an answer?
+Dialogue: 0,0:12:13.83,0:12:15.34,Main,Horikita,0,0,0,,Give you an answer?
+Dialogue: 0,0:12:15.87,0:12:19.00,Main,Horikita,0,0,0,,I don't have the slightest idea \Nwhat you're talking about.
+Dialogue: 0,0:12:19.00,0:12:20.59,Main,Hashimoto,0,0,0,,Oh, really?
+Dialogue: 0,0:12:20.59,0:12:23.26,Main,Hashimoto,0,0,0,,You seem a little flustered to me.
+Dialogue: 0,0:12:23.54,0:12:27.18,Main,Horikita,0,0,0,,I'd anticipated that you \Nmight try to shake me.
+Dialogue: 0,0:12:27.18,0:12:30.79,Main,Horikita,0,0,0,,But that won't be enough to \Nbreak through my stronghold.
+Dialogue: 0,0:12:34.90,0:12:39.40,Main,Horikita,0,0,0,,Are you sure you can afford \Nto spend this time talking?
+Dialogue: 0,0:12:39.40,0:12:41.90,Main,Hashimoto,0,0,0,,Now it's getting interesting.
+Dialogue: 0,0:12:44.43,0:12:48.66,Main,Sakayanagi,0,0,0,,The endgame seems sadly \Npredictable at this rate.
+Dialogue: 0,0:12:49.06,0:12:51.66,Main,Sakayanagi,0,0,0,,I suppose it's time I got involved.
+Dialogue: 0,0:12:55.67,0:12:58.53,Main,Hashimoto,0,0,0,,I'd like to say I'm still in this,
+Dialogue: 0,0:12:59.32,0:13:01.06,Main,Hashimoto,0,0,0,,but I'm actually pretty grateful.
+Dialogue: 0,0:13:08.70,0:13:11.23,Italics,Horikita,0,0,0,,Is the gap in our abilities this wide?
+Dialogue: 0,0:13:11.93,0:13:13.43,Sign_Basic,sign,0,0,0,,{\c&HB1BBC0&\3c&H3D4143&\fs14\bord1\frx0\fry6\shad0\pos(301.333,62.667)\frz3.429}Captain C
+Dialogue: 0,0:13:13.81,0:13:17.91,Main,Sakayanagi,0,0,0,,Not going to step in, Ayanokoji-kun?
+Dialogue: 0,0:13:19.74,0:13:24.01,Main,Sakayanagi,0,0,0,,I suppose I'll have no choice \Nbut to go on and win.
+Dialogue: 0,0:13:26.44,0:13:27.97,Italics,Horikita,0,0,0,,I'm not strong enough for this.
+Dialogue: 0,0:13:29.71,0:13:31.09,Italics,Horikita,0,0,0,,Ayanokoji-kun!
+Dialogue: 0,0:13:33.32,0:13:34.96,Main,Ayanokoji,0,0,0,,I suppose it's time.
+Dialogue: 0,0:13:37.14,0:13:38.96,Sign_Basic,sign,0,0,0,,{\pos(75,126)\an7\fnGeorgia\fs14\3c&H77792B&\shad0\b1\fscx85}In accordance with the\Nspecial rule, Class C's captain\Nhas joined.
+Dialogue: 0,0:13:39.35,0:13:43.41,Main,Sakayanagi,0,0,0,,At last, we'll be able to compete.
+Dialogue: 0,0:13:51.97,0:13:57.98,Sign_Basic,sign,0,0,0,,{\pos(570,238)\fs12\fnTimes New Roman\b1\shad0\bord4\c&H000000&\3c&HA793A3&}Horikita Suzune\N{\c&HFFFFFF&\bord1\3c&H000000&}Captain C
+Dialogue: 0,0:13:51.97,0:13:57.98,Sign_Basic,sign,0,0,0,,{\fs12\fnTimes New Roman\b1\shad0\bord4\an8\c&H000000&\3c&H777A78&\pos(66,126)}Hashimoto Masayoshi\N{\c&HFFFFFF&\bord1\3c&H000000&}Captain A
+Dialogue: 0,0:14:05.07,0:14:07.07,Main,Hashimoto,0,0,0,,Hey, you guys.
+Dialogue: 0,0:14:07.44,0:14:10.02,Main,Hashimoto,0,0,0,,Just how fast do you think?
+Dialogue: 0,0:14:11.34,0:14:15.09,Main,Horikita,0,0,0,,Our battle must appear rather pathetic.
+Dialogue: 0,0:14:15.49,0:14:16.58,Main,Hashimoto,0,0,0,,Agreed.
+Dialogue: 0,0:14:17.08,0:14:19.70,Main,Sakayanagi,0,0,0,,What do you think, Ayanokoji-kun?
+Dialogue: 0,0:14:19.70,0:14:23.96,Main,Sakayanagi,0,0,0,,Has my playstyle touched your heart?
+Dialogue: 0,0:14:23.96,0:14:26.54,Main,Ayanokoji,0,0,0,,Yes, painfully so.
+Dialogue: 0,0:14:26.93,0:14:29.97,Main,Ayanokoji,0,0,0,,If I made a single mistake, \Nyou'd overwhelm me.
+Dialogue: 0,0:14:29.97,0:14:32.22,Main,Sakayanagi,0,0,0,,I'm not worried.
+Dialogue: 0,0:14:33.17,0:14:37.43,Main,Sakayanagi,0,0,0,,I know you won't make even \Nthe smallest of mistakes.
+Dialogue: 0,0:14:38.18,0:14:41.48,Main,Ayanokoji,0,0,0,,You could give up if you wanted to, then.
+Dialogue: 0,0:14:41.48,0:14:43.81,Main,Sakayanagi,0,0,0,,I'm afraid I can't do that.
+Dialogue: 0,0:14:44.18,0:14:45.73,Main,Sakayanagi,0,0,0,,If you won't make a mistake,
+Dialogue: 0,0:14:45.73,0:14:48.99,Main,Sakayanagi,0,0,0,,I'll just have to crush \Nyou with pure ability.
+Dialogue: 0,0:14:53.24,0:14:58.00,Main,Sakayanagi,0,0,0,,Oh, I'm having so much fun.
+Dialogue: 0,0:15:02.38,0:15:06.25,Main,Sakayanagi,0,0,0,,I'm sure this won't be enough to end you.
+Dialogue: 0,0:15:10.84,0:15:12.26,Italics,Horikita,0,0,0,,Wait, that move...
+Dialogue: 0,0:15:18.04,0:15:19.52,Flashback,Sakayanagi's Father,0,0,0,,Listen, Arisu.
+Dialogue: 0,0:15:20.01,0:15:25.02,Flashback,Sakayanagi's Father,0,0,0,,If the children here grow \Nup into superior specimens,
+Dialogue: 0,0:15:25.02,0:15:28.53,Flashback,Sakayanagi's Father,0,0,0,,and facilities like these become commonplace,
+Dialogue: 0,0:15:28.53,0:15:32.78,Flashback,Sakayanagi's Father,0,0,0,,I think that will be the \Nbeginning of something awful.
+Dialogue: 0,0:15:35.96,0:15:37.79,Flashback,Sakayanagi,0,0,0,,Don't worry.
+Dialogue: 0,0:15:37.79,0:15:41.18,Flashback,Sakayanagi,0,0,0,,I will stop that from happening.
+Dialogue: 0,0:15:42.98,0:15:46.02,Main,Sakayanagi,0,0,0,,You really are brilliant, Ayanokoji-kun.
+Dialogue: 0,0:15:47.49,0:15:49.35,Main,Sakayanagi,0,0,0,,I had a lot of fun with you.
+Dialogue: 0,0:15:50.05,0:15:52.70,Main,Sakayanagi,0,0,0,,It really is a shame to end it.
+Dialogue: 0,0:15:53.09,0:15:54.13,Main,Sakayanagi,0,0,0,,But...
+Dialogue: 0,0:15:55.97,0:15:57.81,Main,Sakayanagi,0,0,0,,This will be the end.
+Dialogue: 0,0:16:10.20,0:16:11.71,Italics,Horikita,0,0,0,,Ayanokoji-kun.
+Dialogue: 0,0:16:12.32,0:16:13.85,Italics,Horikita,0,0,0,,I don't want to lose.
+Dialogue: 0,0:16:14.95,0:16:16.32,Italics,Horikita,0,0,0,,I...
+Dialogue: 0,0:16:16.60,0:16:18.91,Italics,Horikita,0,0,0,,I don't want to admit defeat.
+Dialogue: 0,0:16:19.30,0:16:20.33,Italics,Horikita,0,0,0,,I want to win!
+Dialogue: 0,0:16:21.47,0:16:23.17,Italics,Horikita,0,0,0,,I can't do it.
+Dialogue: 0,0:16:23.17,0:16:26.46,Italics,Horikita,0,0,0,,I can't figure out how to beat Sakayanagi.
+Dialogue: 0,0:16:28.29,0:16:30.01,Italics,Horikita,0,0,0,,You're the only one who can!
+Dialogue: 0,0:16:35.56,0:16:37.10,Italics,Horikita,0,0,0,,This move...
+Dialogue: 0,0:16:43.25,0:16:45.85,Main,Sakayanagi,0,0,0,,That was brilliant, Ayanokoji-kun.
+Dialogue: 0,0:16:45.85,0:16:52.86,Main,Sakayanagi,0,0,0,,There's no doubt in my mind that an ordinary \Nperson couldn't make a play like that.
+Dialogue: 0,0:16:53.19,0:16:54.47,Main,Sakayanagi,0,0,0,,However...
+Dialogue: 0,0:16:54.78,0:16:57.87,Main,Sakayanagi,0,0,0,,I have a reason why I need to win, as well.
+Dialogue: 0,0:16:59.45,0:17:02.62,Italics,Sakayanagi,0,0,0,,Genius must be something you're born with.
+Dialogue: 0,0:17:02.62,0:17:06.04,Italics,Sakayanagi,0,0,0,,As the heir to truly superior DNA,
+Dialogue: 0,0:17:06.04,0:17:11.63,Italics,Sakayanagi,0,0,0,,I will prove that facilities \Nlike that one are meaningless.
+Dialogue: 0,0:17:11.63,0:17:15.30,Italics,Sakayanagi,0,0,0,,That is the salvation that I must provide.
+Dialogue: 0,0:17:16.38,0:17:20.86,Italics,Sakayanagi,0,0,0,,And... there's something \Nthat I must show you.
+Dialogue: 0,0:17:22.83,0:17:23.89,Main,Sakayanagi,0,0,0,,Check.
+Dialogue: 0,0:17:45.17,0:17:47.38,Main,Horikita,0,0,0,,I forfeit.
+Dialogue: 0,0:17:47.74,0:17:48.83,Main,Sakagami,0,0,0,,That's it.
+Dialogue: 0,0:17:48.83,0:17:50.98,Main,Sakagami,0,0,0,,The winner is Class A.
+Dialogue: 0,0:17:56.63,0:17:58.76,Main,Sakayanagi,0,0,0,,It was a fine match.
+Dialogue: 0,0:17:59.13,0:18:02.43,Main,Sakayanagi,0,0,0,,It could have gone either way at any time.
+Dialogue: 0,0:18:03.27,0:18:04.14,Main,Sakayanagi,0,0,0,,But...
+Dialogue: 0,0:18:05.38,0:18:06.29,Main,Ayanokoji,0,0,0,,What?
+Dialogue: 0,0:18:06.64,0:18:12.50,Main,Sakayanagi,0,0,0,,That last move... Did you really make it \Nbecause you thought it would be ideal?
+Dialogue: 0,0:18:12.50,0:18:14.51,Main,Ayanokoji,0,0,0,,Why else would I?
+Dialogue: 0,0:18:15.58,0:18:19.06,Main,Tsukishiro,0,0,0,,You're a cruel person, Ayanokoji-kun.
+Dialogue: 0,0:18:20.78,0:18:24.12,Main,Tsukishiro,0,0,0,,You could just be honest with her.
+Dialogue: 0,0:18:24.70,0:18:26.41,Main,Ayanokoji,0,0,0,,About what?
+Dialogue: 0,0:18:26.41,0:18:32.42,Main,Tsukishiro,0,0,0,,You normally would have been \Nthe one to win that match.
+Dialogue: 0,0:18:34.02,0:18:37.97,Main,Tsukishiro,0,0,0,,The move he made then was \Neven better than the one
+Dialogue: 0,0:18:37.97,0:18:40.79,Main,Tsukishiro,0,0,0,,that would have been considered ideal.
+Dialogue: 0,0:18:40.79,0:18:45.97,Main,Sakayanagi,0,0,0,,Are you saying... you interfered in our test?
+Dialogue: 0,0:18:46.95,0:18:53.27,Main,Sakayanagi,0,0,0,,You altered Ayanokoji-kun's command to \Nchange the one Horikita-san received?
+Dialogue: 0,0:18:59.79,0:19:02.74,Main,Sakayanagi,0,0,0,,Why didn't you admit to it?
+Dialogue: 0,0:19:03.27,0:19:10.25,Main,Tsukishiro,0,0,0,,You really think he'd reveal \Nthings he didn't have to?
+Dialogue: 0,0:19:11.54,0:19:14.00,Main,Tsukishiro,0,0,0,,It's all your fault, you know.
+Dialogue: 0,0:19:14.28,0:19:19.21,Main,Tsukishiro,0,0,0,,Because you gave Ayanokoji-kun \Nthat ridiculous protection point.
+Dialogue: 0,0:19:20.51,0:19:24.51,Main,Tsukishiro,0,0,0,,However... pathetic though it is, \Na victory is a victory.
+Dialogue: 0,0:19:24.51,0:19:26.53,Main,Tsukishiro,0,0,0,,Why not celebrate it?
+Dialogue: 0,0:19:27.02,0:19:29.26,Main,Sakayanagi,0,0,0,,You're skilled at provocation.
+Dialogue: 0,0:19:29.75,0:19:32.27,Main,Sakayanagi,0,0,0,,You will pay a high price for this.
+Dialogue: 0,0:19:32.27,0:19:34.42,Main,Tsukishiro,0,0,0,,A child like you?
+Dialogue: 0,0:19:34.42,0:19:38.03,Main,Tsukishiro,0,0,0,,That's an interesting claim.
+Dialogue: 0,0:19:39.19,0:19:41.11,Main,Tsukishiro,0,0,0,,You're free to try what you like.
+Dialogue: 0,0:21:18.15,0:21:20.82,Main,Sakayanagi,0,0,0,,Just as expected, Ayanokoji-kun.
+Dialogue: 0,0:21:21.13,0:21:22.71,Main,Sakayanagi,0,0,0,,I lose.
+Dialogue: 0,0:21:23.34,0:21:25.72,Main,Ayanokoji,0,0,0,,You accepted that very readily.
+Dialogue: 0,0:21:26.14,0:21:30.22,Main,Sakayanagi,0,0,0,,I lost in a replay of the same conditions.
+Dialogue: 0,0:21:30.22,0:21:32.92,Main,Sakayanagi,0,0,0,,I'm satisfied with that result.
+Dialogue: 0,0:21:33.66,0:21:35.29,Main,Ayanokoji,0,0,0,,For this special exam,
+Dialogue: 0,0:21:35.72,0:21:40.85,Main,Ayanokoji,0,0,0,,you could have submitted only one-on-one \Nmatches to ensure that we fought.
+Dialogue: 0,0:21:41.89,0:21:43.75,Main,Ayanokoji,0,0,0,,Why didn't you?
+Dialogue: 0,0:21:44.38,0:21:50.30,Main,Sakayanagi,0,0,0,,I wanted to avoid your abilities \Nbecoming publicly known.
+Dialogue: 0,0:21:50.92,0:21:53.75,Main,Ayanokoji,0,0,0,,Consideration for me, then?
+Dialogue: 0,0:21:54.14,0:21:56.07,Main,Sakayanagi,0,0,0,,I'm glad I got to fight you.
+Dialogue: 0,0:21:56.74,0:22:00.26,Main,Sakayanagi,0,0,0,,I now have the answer I was seeking.
+Dialogue: 0,0:22:01.53,0:22:05.19,Main,Sakayanagi,0,0,0,,You are a true genius.
+Dialogue: 0,0:22:05.83,0:22:08.42,Main,Sakayanagi,0,0,0,,You're not simply pretending at all.
+Dialogue: 0,0:22:11.05,0:22:15.70,Main,Ayanokoji,0,0,0,,You saw me in the White Room, then?
+Dialogue: 0,0:22:15.70,0:22:19.93,Main,Sakayanagi,0,0,0,,I began to play chess after that,
+Dialogue: 0,0:22:20.77,0:22:24.19,Main,Sakayanagi,0,0,0,,hoping I'd get to face you someday.
+Dialogue: 0,0:22:24.53,0:22:29.99,Main,Sakayanagi,0,0,0,,I desperately wanted to know more about you.
+Dialogue: 0,0:22:30.45,0:22:37.88,Main,Sakayanagi,0,0,0,,Like a childhood friend who pined after \Nyou for years, yet never found you.
+Dialogue: 0,0:22:38.89,0:22:41.79,Main,Sakayanagi,0,0,0,,Allow me to apologize for one thing.
+Dialogue: 0,0:22:42.15,0:22:43.19,Main,Ayanokoji,0,0,0,,Apologize?
+Dialogue: 0,0:22:43.19,0:22:47.30,Main,Sakayanagi,0,0,0,,I told you the reason I wanted \Nto avoid a one-on-one,
+Dialogue: 0,0:22:47.79,0:22:49.48,Main,Sakayanagi,0,0,0,,but that was a lie.
+Dialogue: 0,0:22:52.01,0:22:53.21,Main,Sakayanagi,0,0,0,,The truth is...
+Dialogue: 0,0:22:53.57,0:22:58.81,Main,Sakayanagi,0,0,0,,I wanted to be in the same space \Nas you for as long as I could.
+Dialogue: 0,0:23:01.41,0:23:06.07,Main,Sakayanagi,0,0,0,,People learn warmth through contact.
+Dialogue: 0,0:23:06.68,0:23:09.16,Main,Sakayanagi,0,0,0,,That's a very important thing.
+Dialogue: 0,0:23:17.21,0:23:21.90,Main,Sakayanagi,0,0,0,,There's nothing wrong with \Nthe warmth of human contact.
+Dialogue: 0,0:23:22.91,0:23:24.79,Main,Sakayanagi,0,0,0,,Do remember that.
+Dialogue: 0,0:23:25.41,0:23:26.77,Main,Ayanokoji,0,0,0,,What do you mean by that?
+Dialogue: 0,0:23:27.81,0:23:31.54,Main,Sakayanagi,0,0,0,,That's a message from me, \Ndelivered later than I meant it.
+Dialogue: 0,0:23:36.52,0:23:38.98,Main,Sakayanagi,0,0,0,,Now, let's head home.

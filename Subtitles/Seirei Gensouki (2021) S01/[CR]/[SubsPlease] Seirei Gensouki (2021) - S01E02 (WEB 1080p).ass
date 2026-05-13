@@ -1,0 +1,519 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: sign_3238_18_Seirei_Gensouki,Trebuchet MS,40,&H00FAFFFF,&H000000FF,&H00E6B519,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,20,1
+Style: sign_5011_20_The_Kingdom_of_B,Arial,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+Style: sign_5131_21_Memories_of_the_,Trebuchet MS,10,&H00FFFFFC,&H000000FF,&H0040AB29,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+Style: sign_33925_315_Next_Time_Royal_,Trebuchet MS,15,&H00FAFFFF,&H000000FF,&H00CBB281,&H00BDB85F,0,0,0,0,100,100,0,0,1,2,1,2,30,30,20,1
+Style: sign_34045_321_Exciting_Bonus_M,Trebuchet MS,37,&H00C28D31,&H000000FF,&H00EAEAEA,&H00000000,-1,0,0,0,100,100,0,0,3,4,0,1,10,242,20,1
+Style: sign_34045_320_Spirit_Chronicle,Trebuchet MS,25,&H00DEEEEB,&H000000FF,&H00B98B31,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,30,30,20,1
+Style: sign_34045_323_By_Minazuki_Futa,Comic Sans MS,20,&H003A3A3A,&H000000FF,&H00EBEBEB,&H00000000,0,0,0,0,100,100,0,0,3,1,0,1,30,30,20,1
+Style: sign_34045_319_I_had_a_dream_th,Trebuchet MS,24,&H00141414,&H000000FF,&H00EBEBEB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+Style: sign_34127_328_Ha_ha,Verdana,20,&H00282828,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_34212_329_Meow,Verdana,40,&H00EAEAEA,&H000000FF,&H00181818,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.49,0:00:04.48,sign_5011_20_The_Kingdom_of_B,text,0,0,0,,{\pos(320,300)\fad(1512,1)}Year 991 of the Holy Era
+Dialogue: 0,0:00:04.99,0:00:05.78,main,Celia,0,0,0,,Rio...
+Dialogue: 0,0:00:06.21,0:00:08.82,main,Celia,0,0,0,,We haven't evaluated your \Nacademic abilities yet,
+Dialogue: 0,0:00:09.13,0:00:11.32,main,Celia,0,0,0,,but I was wondering, can you read and write?
+Dialogue: 0,0:00:11.32,0:00:14.36,main,Rio,0,0,0,,No. I've never studied writing, so...
+Dialogue: 0,0:00:14.82,0:00:18.20,main,Celia,0,0,0,,I see. Then, I'll tutor you!
+Dialogue: 0,0:00:18.44,0:00:22.85,main,Celia,0,0,0,,Come to my research lab after school. \NIt's in the basement of the library tower.
+Dialogue: 0,0:00:23.65,0:00:24.92,main,Rio,0,0,0,,Thank you.
+Dialogue: 0,0:00:26.05,0:00:27.65,main,Celia,0,0,0,,Oh, and...
+Dialogue: 0,0:00:27.65,0:00:28.78,main,Rio,0,0,0,,Yes?
+Dialogue: 0,0:00:28.78,0:00:32.67,main,Celia,0,0,0,,Many of the children here are from \Nroyal or titled families, so...
+Dialogue: 0,0:00:34.32,0:00:37.38,main,Celia,0,0,0,,In the beginning, they may be a little...
+Dialogue: 0,0:00:37.38,0:00:38.29,main,Rio,0,0,0,,It's all right.
+Dialogue: 0,0:00:38.29,0:00:39.06,main,Celia,0,0,0,,What?
+Dialogue: 0,0:00:39.06,0:00:41.81,main,Rio,0,0,0,,I know my place.
+Dialogue: 0,0:00:42.93,0:00:43.96,main,Celia,0,0,0,,I see.
+Dialogue: 0,0:00:43.96,0:00:47.54,main,Celia,0,0,0,,But if you have any problems, please don't\N hesitate to come to me, all right?
+Dialogue: 0,0:00:47.54,0:00:48.28,main,Rio,0,0,0,,I will.
+Dialogue: 0,0:00:49.68,0:00:52.91,main,Celia,0,0,0,,Welcome to the Beltrum Royal Academy!
+Dialogue: 0,0:01:11.05,0:01:14.22,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\pos(345,125)\blur4\fad(897,1)}Seirei Gensouki
+Dialogue: 0,0:01:11.05,0:01:14.22,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\pos(345,125)\blur4\c&H7AFBFF&\clip(217,107,471,123)\fad(897,1)}Seirei Gensouki
+Dialogue: 0,0:02:24.99,0:02:29.00,sign_5131_21_Memories_of_the_,text,0,0,0,,{\pos(530,295)\blur3\fad(505,1)}Royal Academy
+Dialogue: 0,0:02:24.99,0:02:29.00,sign_5131_21_Memories_of_the_,text,0,0,0,,{\pos(530,295)\blur3\c&H87FFF1&\clip(438,296,590,302)\fad(505,1)}Royal Academy
+Dialogue: 0,0:02:25.83,0:02:27.13,main,students,0,0,0,,Huh? Who is that?
+Dialogue: 0,0:02:27.13,0:02:28.50,main,students,0,0,0,,A transfer student?
+Dialogue: 0,0:02:29.24,0:02:33.50,main,Celia,0,0,0,,A transfer student will be joining this class\N starting today. His name is Rio.
+Dialogue: 0,0:02:30.81,0:02:32.28,top,students,0,0,0,,I've never seen him before.
+Dialogue: 0,0:02:33.50,0:02:36.34,main,Celia,0,0,0,,Everyone, be nice to him, all right?
+Dialogue: 0,0:02:33.80,0:02:35.60,top,student A,0,0,0,,So, he's the transfer student \Nfrom the slums, huh?
+Dialogue: 0,0:02:36.34,0:02:37.15,main,student B,0,0,0,,The slums?
+Dialogue: 0,0:02:38.41,0:02:40.97,main,student B,0,0,0,,Someone as lowly as that is joining \Nour glorious Royal Academy?
+Dialogue: 0,0:02:40.97,0:02:42.58,main,student C,0,0,0,,I heard that he saved Princess Flora,
+Dialogue: 0,0:02:42.58,0:02:45.50,main,student C,0,0,0,,so His Majesty, the King, \Napproved his enrollment.
+Dialogue: 0,0:02:46.76,0:02:51.27,flashback,Philip III,0,0,0,,On this occasion, you have done well in \Nsaving my daughter. I give you my thanks.
+Dialogue: 0,0:02:51.27,0:02:53.07,flashback,Rio,0,0,0,,Your words do me too great an honor.
+Dialogue: 0,0:02:53.07,0:02:54.84,flashback,Rio,0,0,0,,I am both humbled and delighted.
+Dialogue: 0,0:02:55.29,0:02:56.15,flashback,Philip III,0,0,0,,Very good.
+Dialogue: 0,0:02:56.40,0:03:00.35,flashback,Philip III,0,0,0,,Then, we shall have you attend the \NRoyal Academy's primary school
+Dialogue: 0,0:03:00.35,0:03:02.37,flashback,Philip III,0,0,0,,as a scholarship student.
+Dialogue: 0,0:03:03.25,0:03:04.10,main,Celia,0,0,0,,Rio?
+Dialogue: 0,0:03:05.41,0:03:07.61,main,Celia,0,0,0,,Introduce yourself to everyone.
+Dialogue: 0,0:03:07.61,0:03:08.31,main,Rio,0,0,0,,Yes, miss.
+Dialogue: 0,0:03:08.76,0:03:09.91,main,Rio,0,0,0,,My name is Rio.
+Dialogue: 0,0:03:10.50,0:03:12.92,main,Rio,0,0,0,,Through the kindness bestowed \Nupon me by His Majesty, the King,
+Dialogue: 0,0:03:12.92,0:03:15.86,main,Rio,0,0,0,,I have been allowed to attend \Nthis place of learning.
+Dialogue: 0,0:03:16.42,0:03:18.66,main,Rio,0,0,0,,I know that I am lacking in many ways,
+Dialogue: 0,0:03:19.57,0:03:21.37,main,Rio,0,0,0,,but I hope that you will \Nlook favorably upon me.
+Dialogue: 0,0:03:21.37,0:03:22.13,main,Celia,0,0,0,,Very nice.
+Dialogue: 0,0:03:22.68,0:03:25.30,main,Alphonse,0,0,0,,It seems he can speak as \Nwell as a servant, at least.
+Dialogue: 0,0:03:27.35,0:03:30.55,main,Celia,0,0,0,,Well then, Rio, if you'll \Ntake a seat there, please.
+Dialogue: 0,0:03:30.55,0:03:31.20,main,Rio,0,0,0,,Yes, miss.
+Dialogue: 0,0:03:38.78,0:03:42.22,main,Celia,0,0,0,,All right, everyone, we're starting our lesson.
+Dialogue: 0,0:03:42.22,0:03:44.01,main,Celia,0,0,0,,Let's all study hard again today.
+Dialogue: 0,0:03:44.01,0:03:45.16,main,students,0,0,0,,Yes, miss.
+Dialogue: 0,0:03:46.12,0:03:50.73,main,Celia,0,0,0,,Open up your notebooks and copy \Ndown this numerical formula.
+Dialogue: 0,0:03:53.33,0:03:56.62,main,Celia,0,0,0,,Now then, everyone try solving \Nthese problems on your own.
+Dialogue: 0,0:03:56.62,0:03:57.91,main,students,0,0,0,,Yes, miss.
+Dialogue: 0,0:03:59.79,0:04:01.66,main,Alphonse,0,0,0,,These are so easy.
+Dialogue: 0,0:04:06.01,0:04:06.79,main,Celia,0,0,0,,Rio?
+Dialogue: 0,0:04:07.78,0:04:09.99,main,Celia,0,0,0,,You don't need to push yourself \Ntoo hard today, all right?
+Dialogue: 0,0:04:09.99,0:04:12.81,main,Rio,0,0,0,,Yes, miss. Thank you for your concern.
+Dialogue: 0,0:04:15.17,0:04:16.77,main,students,0,0,0,,I don't think he can read.
+Dialogue: 0,0:04:16.77,0:04:19.96,main,Celia,0,0,0,,All right, everyone. Focus on your work.
+Dialogue: 0,0:04:27.49,0:04:28.69,main,Celia,0,0,0,,Where is it?!
+Dialogue: 0,0:04:28.69,0:04:33.25,main,Celia,0,0,0,,There was a hint hidden in that paper!\N Where has it gone?!
+Dialogue: 0,0:04:30.05,0:04:31.14,top,Rio,0,0,0,,Is this it?
+Dialogue: 0,0:04:32.19,0:04:33.25,top,Rio,0,0,0,,Professor Celia?
+Dialogue: 0,0:04:33.25,0:04:34.33,main,Celia,0,0,0,,Oh, honestly!
+Dialogue: 0,0:04:35.71,0:04:38.26,main,Celia,0,0,0,,Can't you read the sign?
+Dialogue: 0,0:04:38.63,0:04:40.88,main,Rio,0,0,0,,Oh, I'm sorry.
+Dialogue: 0,0:04:40.88,0:04:42.37,main,Rio,0,0,0,,I can't read.
+Dialogue: 0,0:04:42.78,0:04:44.02,main,Celia,0,0,0,,Rio?
+Dialogue: 0,0:04:44.02,0:04:46.53,main,Rio,0,0,0,,I came to inquire about my \Nprivate tutoring, but...
+Dialogue: 0,0:04:47.30,0:04:51.64,main,Celia,0,0,0,,Yes! Well done in coming here. \NI've been waiting for you. Yes!
+Dialogue: 0,0:04:51.64,0:04:54.79,italics,Rio,0,0,0,,She completely forgot, didn't she?
+Dialogue: 0,0:04:55.29,0:04:57.63,main,Celia,0,0,0,,W-Well then, come in.
+Dialogue: 0,0:04:57.63,0:04:58.61,main,Rio,0,0,0,,Yes, miss.
+Dialogue: 0,0:04:58.89,0:04:59.90,main,Rio,0,0,0,,Please, excuse my intrusion—
+Dialogue: 0,0:05:01.37,0:05:05.97,main,Celia,0,0,0,,I-It's just a tiny bit messy at the moment.
+Dialogue: 0,0:05:05.97,0:05:06.86,main,Rio,0,0,0,,I see.
+Dialogue: 0,0:05:06.86,0:05:09.99,main,Celia,0,0,0,,U-Usually, I'm much more organized.
+Dialogue: 0,0:05:10.48,0:05:14.39,main,Celia,0,0,0,,Just a moment. I'll make us some space.
+Dialogue: 0,0:05:14.39,0:05:17.12,main,Rio,0,0,0,,There are a lot of \Ndifficult-looking books here.
+Dialogue: 0,0:05:17.12,0:05:19.21,main,Rio,0,0,0,,But you look so young, Professor.
+Dialogue: 0,0:05:19.21,0:05:21.31,main,Celia,0,0,0,,Hm? Oh, yes.
+Dialogue: 0,0:05:21.31,0:05:23.53,main,Celia,0,0,0,,I'm still only twelve, after all.
+Dialogue: 0,0:05:23.53,0:05:24.49,main,Rio,0,0,0,,What?
+Dialogue: 0,0:05:24.49,0:05:27.56,main,Celia,0,0,0,,Really, I should be attending \Nprimary school,
+Dialogue: 0,0:05:27.89,0:05:30.76,main,Celia,0,0,0,,but I skipped grades and ended up \Ngraduating from high school.
+Dialogue: 0,0:05:31.11,0:05:32.60,main,Rio,0,0,0,,You must be quite brilliant.
+Dialogue: 0,0:05:32.84,0:05:34.49,main,Celia,0,0,0,,W-Well, I suppose.
+Dialogue: 0,0:05:39.73,0:05:40.90,main,Rio,0,0,0,,I've finished.
+Dialogue: 0,0:05:40.90,0:05:42.33,main,Celia,0,0,0,,A-Already?
+Dialogue: 0,0:05:42.86,0:05:45.82,main,Celia,0,0,0,,What? This is amazing! \NAll your answers are correct!
+Dialogue: 0,0:05:45.82,0:05:48.45,main,Celia,0,0,0,,And you did it so quickly with \Nonly mental calculations...
+Dialogue: 0,0:05:48.45,0:05:51.28,main,Rio,0,0,0,,Well, it was only simple \Nmultiplication and division.
+Dialogue: 0,0:05:51.28,0:05:53.15,main,Rio,0,0,0,,Once I understood how to write \Nthe numbers and symbols...
+Dialogue: 0,0:05:53.15,0:05:54.27,main,Celia,0,0,0,,Simple?
+Dialogue: 0,0:05:54.27,0:05:57.83,main,Celia,0,0,0,,Pretty much the only one in your class \Nwho can do this is Princess Christina.
+Dialogue: 0,0:05:57.83,0:06:00.33,main,Rio,0,0,0,,What? I-I see.
+Dialogue: 0,0:06:01.70,0:06:03.13,italics,Rio,0,0,0,,Well, that makes sense.
+Dialogue: 0,0:06:04.51,0:06:05.76,italics,Rio,0,0,0,,I...
+Dialogue: 0,0:06:06.35,0:06:08.30,italics,Rio,0,0,0,,was a university student, after all.
+Dialogue: 0,0:06:08.30,0:06:09.28,main,Celia,0,0,0,,Rio...
+Dialogue: 0,0:06:10.05,0:06:12.30,main,Celia,0,0,0,,Where did you learn arithmetic?
+Dialogue: 0,0:06:13.25,0:06:15.38,main,Rio,0,0,0,,From my mother, who died.
+Dialogue: 0,0:06:15.38,0:06:16.53,main,Celia,0,0,0,,I see.
+Dialogue: 0,0:06:16.53,0:06:19.27,main,Celia,0,0,0,,Your mother was quite cultured.
+Dialogue: 0,0:06:19.27,0:06:20.27,main,Rio,0,0,0,,Yes.
+Dialogue: 0,0:06:20.56,0:06:23.49,main,Rio,0,0,0,,She was a kind and warm person.
+Dialogue: 0,0:06:24.02,0:06:26.42,main,Celia,0,0,0,,I'm sorry for making you think of her.
+Dialogue: 0,0:06:26.42,0:06:28.40,main,Rio,0,0,0,,Don't be. I'm fine.
+Dialogue: 0,0:06:29.10,0:06:31.86,main,Celia,0,0,0,,That's a relief. I'll make \Nus some tea, all right?
+Dialogue: 0,0:06:39.19,0:06:41.08,main,Celia,0,0,0,,Here you are. Please, have some.
+Dialogue: 0,0:06:41.65,0:06:43.01,main,Rio,0,0,0,,Thank you.
+Dialogue: 0,0:06:45.46,0:06:46.59,main,Rio,0,0,0,,It's very good.
+Dialogue: 0,0:06:46.59,0:06:49.64,main,Celia,0,0,0,,I'm glad you like it! \NWhen you drink a good cup of tea...
+Dialogue: 0,0:06:52.00,0:06:54.62,main,Celia,0,0,0,,It just makes you feel happy, doesn't it?
+Dialogue: 0,0:06:57.57,0:06:58.55,main,Celia,0,0,0,,Rio?
+Dialogue: 0,0:06:58.55,0:06:59.23,main,Rio,0,0,0,,Yes?
+Dialogue: 0,0:06:59.60,0:07:02.53,main,Celia,0,0,0,,How was your first day of academy life?
+Dialogue: 0,0:07:03.04,0:07:05.65,main,Celia,0,0,0,,Please, tell me. Did you have any problems?
+Dialogue: 0,0:07:05.65,0:07:06.19,main,Rio,0,0,0,,No.
+Dialogue: 0,0:07:08.83,0:07:10.07,main,Rio,0,0,0,,Nothing in particular.
+Dialogue: 0,0:07:10.73,0:07:13.26,main,Celia,0,0,0,,I see. Well, if there is anything—
+Dialogue: 0,0:07:14.29,0:07:15.75,main,Rio,0,0,0,,In that case, just one thing.
+Dialogue: 0,0:07:15.75,0:07:16.74,main,Celia,0,0,0,,What is it?
+Dialogue: 0,0:07:17.53,0:07:20.21,main,Rio,0,0,0,,Will you recommend me some children's books?
+Dialogue: 0,0:07:20.21,0:07:21.92,main,Celia,0,0,0,,Books?
+Dialogue: 0,0:07:22.35,0:07:23.99,main,Rio,0,0,0,,I want to learn my letters.
+Dialogue: 0,0:07:23.99,0:07:25.38,main,Celia,0,0,0,,Oh... Yes.
+Dialogue: 0,0:07:25.38,0:07:27.43,main,Celia,0,0,0,,I'll pick out a few for you from the library.
+Dialogue: 0,0:07:27.43,0:07:28.11,main,Rio,0,0,0,,Thank you.
+Dialogue: 0,0:07:29.04,0:07:33.47,main,students,0,0,0,,One, two, three, four, five!
+Dialogue: 0,0:07:33.47,0:07:36.43,main,Christina,0,0,0,,One! Two! Three!
+Dialogue: 0,0:07:33.47,0:07:38.56,top,students; background,0,0,0,,One, two, three, four, five!
+Dialogue: 0,0:07:36.67,0:07:38.56,main,Alphonse,0,0,0,,Four! Five!
+Dialogue: 0,0:07:38.56,0:07:39.56,main,instructor,0,0,0,,Stay agile!
+Dialogue: 0,0:07:38.56,0:07:43.33,top,students; background,0,0,0,,One, two, three, four, five!
+Dialogue: 0,0:07:42.95,0:07:43.61,main,instructor,0,0,0,,Rio.
+Dialogue: 0,0:07:43.61,0:07:44.56,main,Rio,0,0,0,,Y-Yes, Sir?
+Dialogue: 0,0:07:43.90,0:07:49.32,top,students; background,0,0,0,,One, two, three, four, five!
+Dialogue: 0,0:07:44.56,0:07:47.26,main,instructor,0,0,0,,Come and strike me in any way you see fit.
+Dialogue: 0,0:07:47.26,0:07:48.07,main,Rio,0,0,0,,What?
+Dialogue: 0,0:07:48.07,0:07:49.32,main,Rio,0,0,0,,Yes, sir.
+Dialogue: 0,0:07:52.52,0:07:53.64,main,instructor,0,0,0,,Interesting.
+Dialogue: 0,0:07:53.64,0:07:55.49,main,students,0,0,0,,What? Huh?
+Dialogue: 0,0:07:55.49,0:07:56.28,main,Roanna,0,0,0,,What?
+Dialogue: 0,0:07:56.28,0:07:57.23,main,students,0,0,0,,What kind of stance is that?
+Dialogue: 0,0:07:57.23,0:07:58.16,main,students,0,0,0,,That stance is weird.
+Dialogue: 0,0:07:58.16,0:07:59.75,main,instructor,0,0,0,,Now, attack.
+Dialogue: 0,0:08:00.21,0:08:01.62,flashback italics,grandfather,0,0,0,,Now, Haruto!
+Dialogue: 0,0:08:03.79,0:08:05.29,flashback,grandfather,0,0,0,,Don't hold back. Attack!
+Dialogue: 0,0:08:06.90,0:08:08.01,flashback,grandfather,0,0,0,,Don't hesitate!
+Dialogue: 0,0:08:14.22,0:08:15.88,main,instructor,0,0,0,,Good swordsmanship.
+Dialogue: 0,0:08:17.63,0:08:18.51,main,instructor,0,0,0,,Advance!
+Dialogue: 0,0:08:22.65,0:08:23.66,flashback,grandfather,0,0,0,,Haruto!
+Dialogue: 0,0:08:23.66,0:08:24.94,flashback,grandfather,0,0,0,,Don't dodge it!
+Dialogue: 0,0:08:24.94,0:08:27.37,flashback,grandfather,0,0,0,,Drive toward your opponent's chest!
+Dialogue: 0,0:08:35.55,0:08:38.71,main,Roana,0,0,0,,Instead of evading to the outside, \Nhe drove toward his opponent.
+Dialogue: 0,0:08:38.71,0:08:40.83,main,Alphonse,0,0,0,,His form isn't right at all.
+Dialogue: 0,0:08:40.83,0:08:43.05,main,Alphonse,0,0,0,,It seems there's no end to his vulgarity.
+Dialogue: 0,0:08:44.54,0:08:46.33,main,instructor,0,0,0,,All right. That's enough.
+Dialogue: 0,0:08:48.56,0:08:52.16,main,instructor,0,0,0,,Rio, you have the makings \Nof a knight, indeed.
+Dialogue: 0,0:08:52.16,0:08:53.55,main,Rio,0,0,0,,I'm terribly sorry,
+Dialogue: 0,0:08:53.94,0:08:55.93,main,Rio,0,0,0,,but I have no interest in joining the knights.
+Dialogue: 0,0:08:55.93,0:08:56.83,main,instructor,0,0,0,,Really...
+Dialogue: 0,0:08:56.83,0:08:59.18,main,Rio,0,0,0,,I thank you for your kind words.
+Dialogue: 0,0:08:59.18,0:09:00.26,main,Alphonse,0,0,0,,What?
+Dialogue: 0,0:09:00.26,0:09:01.47,main,students,0,0,0,,What did he just say?
+Dialogue: 0,0:09:01.47,0:09:02.22,main,students,0,0,0,,That's crazy.
+Dialogue: 0,0:09:05.70,0:09:06.60,main,Celia,0,0,0,,Rio?
+Dialogue: 0,0:09:06.60,0:09:07.23,main,Rio,0,0,0,,Yes?
+Dialogue: 0,0:09:07.23,0:09:09.24,main,Celia,0,0,0,,You're even studious after classes end.
+Dialogue: 0,0:09:09.83,0:09:11.94,main,Rio,0,0,0,,End-of-term exams are coming up soon.
+Dialogue: 0,0:09:11.94,0:09:16.58,main,Celia,0,0,0,,You've only just enrolled here. You don't \Nneed to worry about your grades too much.
+Dialogue: 0,0:09:16.58,0:09:17.49,main,Rio,0,0,0,,I won't.
+Dialogue: 0,0:09:18.03,0:09:19.99,main,Rio,0,0,0,,But I'll give it everything I have.
+Dialogue: 0,0:09:20.86,0:09:22.34,main,Celia,0,0,0,,Very good.
+Dialogue: 0,0:09:24.48,0:09:26.77,main,Celia,0,0,0,,Does everyone have an examination paper?
+Dialogue: 0,0:09:26.77,0:09:28.18,main,students,0,0,0,,Yes, miss.
+Dialogue: 0,0:09:28.18,0:09:29.38,main,Celia,0,0,0,,Then, begin!
+Dialogue: 0,0:09:29.38,0:09:31.00,main,students,0,0,0,,Yikes! Um...
+Dialogue: 0,0:09:29.82,0:09:32.69,top,students,0,0,0,,One, two, three...
+Dialogue: 0,0:09:32.69,0:09:35.11,main,Celia,0,0,0,,Mouths closed, everyone!
+Dialogue: 0,0:09:41.24,0:09:43.13,main,Celia,0,0,0,,Everyone, do your best!
+Dialogue: 0,0:09:56.52,0:09:57.15,italics,Haruto,0,0,0,,Mii...
+Dialogue: 0,0:09:57.51,0:09:58.36,main,Rio,0,0,0,,...chan.
+Dialogue: 0,0:09:59.66,0:10:00.85,main,,0,0,0,,There he is.
+Dialogue: 0,0:10:00.85,0:10:01.66,main,students,0,0,0,,Is that him?
+Dialogue: 0,0:10:01.66,0:10:02.42,main,students,0,0,0,,Really?
+Dialogue: 0,0:10:02.42,0:10:04.44,main,students,0,0,0,,A kid from the slums enrolled here.
+Dialogue: 0,0:10:04.44,0:10:06.65,main,students,0,0,0,,His Majesty, the King, is pretty eccentric.
+Dialogue: 0,0:10:09.26,0:10:10.70,main,Rio,0,0,0,,Ayase Miharu was...
+Dialogue: 0,0:10:11.53,0:10:14.24,main,Rio,0,0,0,,Amakawa Haruto's childhood friend.
+Dialogue: 0,0:10:15.16,0:10:19.92,italics,Rio,0,0,0,,But when Haruto's parents divorced, \Nthe two of them were separated.
+Dialogue: 0,0:10:21.11,0:10:24.33,italics,Haruto,0,0,0,,Then I saw Mii-chan again in high school...
+Dialogue: 0,0:10:24.80,0:10:25.87,italics,Haruto,0,0,0,,and that was it.
+Dialogue: 0,0:10:27.02,0:10:29.25,italics,Haruto,0,0,0,,She never came back to school.
+Dialogue: 0,0:10:29.25,0:10:32.65,italics,Haruto,0,0,0,,It was as though she'd erased \Nherself from my sight.
+Dialogue: 0,0:10:34.47,0:10:36.65,main,Rio,0,0,0,,And what of it?
+Dialogue: 0,0:10:37.10,0:10:39.15,main,Rio,0,0,0,,Amakawa Haruto is dead.
+Dialogue: 0,0:10:39.58,0:10:40.92,main,Rio,0,0,0,,Right now, I am Rio.
+Dialogue: 0,0:10:41.34,0:10:43.09,main,Rio,0,0,0,,I'm not Amakawa Haruto anymore.
+Dialogue: 0,0:10:44.10,0:10:44.97,main,Rio,0,0,0,,That's why...
+Dialogue: 0,0:10:45.37,0:10:46.94,main,Rio,0,0,0,,I will live through this.
+Dialogue: 0,0:10:46.94,0:10:48.97,main,Rio,0,0,0,,I will be tenacious and strong.
+Dialogue: 0,0:10:49.87,0:10:50.89,main,students,0,0,0,,This can't be right!
+Dialogue: 0,0:10:50.89,0:10:51.80,main,students,0,0,0,,It can't be.
+Dialogue: 0,0:10:51.80,0:10:52.63,main,students,0,0,0,,That guy?
+Dialogue: 0,0:10:52.63,0:10:53.88,main,students,0,0,0,,Really?
+Dialogue: 0,0:10:53.88,0:10:55.38,main,students,0,0,0,,Alongside Princess Christina?
+Dialogue: 0,0:10:55.38,0:10:56.40,main,students,0,0,0,,That's impossible!
+Dialogue: 0,0:10:56.40,0:10:57.85,main,Roana,0,0,0,,I'm third?
+Dialogue: 0,0:10:58.34,0:11:01.13,main,Alphonse,0,0,0,,You've got to be kidding me! \NThis must be some kind of mistake!
+Dialogue: 0,0:11:01.13,0:11:02.59,main,student A,0,0,0,,That's right!
+Dialogue: 0,0:11:03.09,0:11:04.18,main,student A,0,0,0,,Hey, he's here.
+Dialogue: 0,0:11:04.18,0:11:06.57,main,Alphonse,0,0,0,,You! What impropriety have you perpetrated?
+Dialogue: 0,0:11:06.57,0:11:08.39,main,Rio,0,0,0,,What do you mean?
+Dialogue: 0,0:11:08.39,0:11:09.39,main,Alphonse,0,0,0,,That!
+Dialogue: 0,0:11:09.39,0:11:10.85,main,Alphonse,0,0,0,,A commoner like you
+Dialogue: 0,0:11:10.85,0:11:14.22,main,Alphonse,0,0,0,,could never stand with Princess Christina \Nat the top of the class!
+Dialogue: 0,0:11:14.22,0:11:15.65,main,Alphonse,0,0,0,,Anything other than fraud is unthinkable!
+Dialogue: 0,0:11:15.65,0:11:16.53,main,Rio,0,0,0,,Top of the class?
+Dialogue: 0,0:11:16.53,0:11:19.40,main,Alphonse,0,0,0,,You must have used some kind of dirty trick!
+Dialogue: 0,0:11:19.69,0:11:22.20,main,Rio,0,0,0,,I simply took the exam, that's all.
+Dialogue: 0,0:11:22.20,0:11:23.10,main,Alphonse,0,0,0,,Liar!
+Dialogue: 0,0:11:23.10,0:11:24.52,main,Roanna,0,0,0,,Leave it, Alphonse.
+Dialogue: 0,0:11:26.30,0:11:28.87,main,Roanna,0,0,0,,The jealousy of a gentleman is unsightly.
+Dialogue: 0,0:11:29.72,0:11:32.45,main,Alphonse,0,0,0,,I-I can't let this pass unchallenged! \NI will have this injustice—
+Dialogue: 0,0:11:32.45,0:11:34.69,main,Christina,0,0,0,,Do you have any concrete evidence?
+Dialogue: 0,0:11:35.27,0:11:36.50,main,Alphonse,0,0,0,,That's...
+Dialogue: 0,0:11:36.50,0:11:40.35,main,Christina,0,0,0,,Unsubstantiated allegations only serve to\N sully the dignity of the academy.
+Dialogue: 0,0:11:40.76,0:11:42.09,top,Alphonse,0,0,0,,But...
+Dialogue: 0,0:11:41.32,0:11:45.22,main,Celia,0,0,0,,This achievement is the result \Nof Rio's hard work.
+Dialogue: 0,0:11:45.22,0:11:47.41,main,Celia,0,0,0,,I can attest to that.
+Dialogue: 0,0:11:47.41,0:11:49.35,main,Alphonse,0,0,0,,Professor Celia...
+Dialogue: 0,0:11:49.35,0:11:51.26,main,Alphonse,0,0,0,,I will never accept this!
+Dialogue: 0,0:11:52.73,0:11:53.79,main,student A,0,0,0,,Let's go.
+Dialogue: 0,0:11:53.79,0:11:54.86,main,students,0,0,0,,Yeah.
+Dialogue: 0,0:11:56.33,0:11:57.20,main,Rio,0,0,0,,Thank you for—
+Dialogue: 0,0:11:57.20,0:12:00.27,main,Roanna,0,0,0,,It was nothing. And I didn't \Nintervene for your sake.
+Dialogue: 0,0:12:00.27,0:12:01.30,main,Rio,0,0,0,,I see.
+Dialogue: 0,0:12:01.94,0:12:03.60,main,Roanna,0,0,0,,You won't beat me next time.
+Dialogue: 0,0:12:06.65,0:12:07.55,main,Celia,0,0,0,,Rio!
+Dialogue: 0,0:12:07.55,0:12:09.82,main,Celia,0,0,0,,Congratulations on placing \Nfirst in the end-of-term exams!
+Dialogue: 0,0:12:09.82,0:12:11.13,main,Rio,0,0,0,,Thank you.
+Dialogue: 0,0:12:11.13,0:12:12.76,main,Celia,0,0,0,,To tell you the truth...
+Dialogue: 0,0:12:13.31,0:12:15.23,main,Celia,0,0,0,,I'm a little worried.
+Dialogue: 0,0:12:15.23,0:12:16.09,main,Rio,0,0,0,,Worried?
+Dialogue: 0,0:12:16.09,0:12:16.63,main,Celia,0,0,0,,Yes.
+Dialogue: 0,0:12:17.13,0:12:21.63,main,Celia,0,0,0,,When I think that even more students may \Nlook for ways to find fault with you...
+Dialogue: 0,0:12:22.33,0:12:23.88,main,Rio,0,0,0,,I'm used to it already.
+Dialogue: 0,0:12:23.88,0:12:24.63,main,Celia,0,0,0,,Oh, dear.
+Dialogue: 0,0:12:24.91,0:12:27.85,main,Celia,0,0,0,,This bullying by nobles shows poor \Ncharacter on their part, you know.
+Dialogue: 0,0:12:29.15,0:12:33.14,main,Rio,0,0,0,,Professor Celia, you said that you excelled. \NDid anything similar happen to you?
+Dialogue: 0,0:12:33.14,0:12:38.73,main,Celia,0,0,0,,Well, this and that from those of a higher \Nsocial standing and their followers.
+Dialogue: 0,0:12:38.73,0:12:40.23,main,Celia,0,0,0,,I ignored all of it, though.
+Dialogue: 0,0:12:40.23,0:12:41.42,main,Rio,0,0,0,,Just as I thought.
+Dialogue: 0,0:12:41.42,0:12:44.27,main,Celia,0,0,0,,I-In my case, I had friends!
+Dialogue: 0,0:12:44.27,0:12:46.42,main,Rio,0,0,0,,Then, I'll be fine, too.
+Dialogue: 0,0:12:46.42,0:12:47.45,main,Celia,0,0,0,,What?
+Dialogue: 0,0:12:47.45,0:12:49.61,main,Rio,0,0,0,,I have you, Professor Celia.
+Dialogue: 0,0:12:50.09,0:12:50.68,main,Celia,0,0,0,,Huh?
+Dialogue: 0,0:12:51.42,0:12:52.04,main,Celia,0,0,0,,What?
+Dialogue: 0,0:12:52.94,0:12:54.58,main,Celia,0,0,0,,Oh, Rio!
+Dialogue: 0,0:12:54.58,0:12:55.08,main,Rio,0,0,0,,Yes?
+Dialogue: 0,0:12:55.08,0:12:58.72,main,Celia,0,0,0,,You're making fun of me, aren't you?\N Treating me like a child!
+Dialogue: 0,0:12:58.72,0:13:01.35,main,Rio,0,0,0,,But you're older than me, Professor.
+Dialogue: 0,0:13:01.35,0:13:09.19,main,Celia,0,0,0,,Y-Yes, but... well... it means you \Nthink of me as a friend, right?
+Dialogue: 0,0:13:09.19,0:13:09.95,main,Rio,0,0,0,,Yes.
+Dialogue: 0,0:13:10.43,0:13:12.26,main,Rio,0,0,0,,Would you rather I didn't?
+Dialogue: 0,0:13:12.26,0:13:14.15,main,Celia,0,0,0,,I... don't mind.
+Dialogue: 0,0:13:14.15,0:13:14.56,main,Rio,0,0,0,,What?
+Dialogue: 0,0:13:15.21,0:13:17.56,main,Celia,0,0,0,,I... don't mind.
+Dialogue: 0,0:13:17.77,0:13:20.55,main,Rio,0,0,0,,Will you say it just one more time, please?
+Dialogue: 0,0:13:20.96,0:13:21.57,main,Celia,0,0,0,,I...
+Dialogue: 0,0:13:22.57,0:13:25.82,main,Celia,0,0,0,,I said I don't mind! You're so mean, Rio!
+Dialogue: 0,0:13:25.82,0:13:28.12,main,Celia,0,0,0,,Figure it out from the mood,\N can't you? Honestly!
+Dialogue: 0,0:13:28.12,0:13:29.09,main,Rio,0,0,0,,Then...
+Dialogue: 0,0:13:29.66,0:13:35.08,main,Rio,0,0,0,,If ever I'm in trouble, advise me as \Nmy teacher and as my friend, won't you?
+Dialogue: 0,0:13:35.90,0:13:37.58,main,Celia,0,0,0,,O-Of course!
+Dialogue: 0,0:13:37.92,0:13:42.95,main,Celia,0,0,0,,When you're about to cry from all \Nthe bullying, I'll take you to my bosom.
+Dialogue: 0,0:13:42.95,0:13:47.47,main,Rio,0,0,0,,You're small, so in terms of positioning, \Nyou do seem perfect for clinging to.
+Dialogue: 0,0:13:47.70,0:13:51.86,main,Celia,0,0,0,,Don't say "small"! I'm still growing!
+Dialogue: 0,0:13:52.59,0:13:53.74,main,Celia,0,0,0,,Oh, we're the perfect heights.
+Dialogue: 0,0:13:55.31,0:13:56.03,main,Rio,0,0,0,,Yes.
+Dialogue: 0,0:13:58.35,0:14:00.46,main,Celia,0,0,0,,Oh, Rio, you silly!
+Dialogue: 0,0:14:00.98,0:14:06.95,sign_5011_20_The_Kingdom_of_B,text,0,0,0,,{\pos(320,303)}Year 966 of the Holy Era
+Dialogue: 0,0:14:02.16,0:14:06.95,top,instructor,0,0,0,,An exhibition tournament between the knights\N of the realm will be held again this year.
+Dialogue: 0,0:14:06.95,0:14:11.56,main,instructor,0,0,0,,Representatives for the primary school \Ndivision have been selected from this class.
+Dialogue: 0,0:14:11.56,0:14:13.95,main,instructor,0,0,0,,If your name is called, step forward!
+Dialogue: 0,0:14:14.38,0:14:16.83,main,instructor,0,0,0,,Sixth-year, Alphonse Rodan!
+Dialogue: 0,0:14:17.04,0:14:17.89,main,Alphonse,0,0,0,,Sir!
+Dialogue: 0,0:14:17.89,0:14:20.30,main,instructor,0,0,0,,Fifth-year, Stewart Huguenot.
+Dialogue: 0,0:14:20.30,0:14:20.92,main,Stewart,0,0,0,,Sir!
+Dialogue: 0,0:14:22.73,0:14:23.64,main,instructor,0,0,0,,And...
+Dialogue: 0,0:14:23.96,0:14:24.85,main,instructor,0,0,0,,Rio!
+Dialogue: 0,0:14:25.46,0:14:27.84,main,students,0,0,0,,What? It can't be true.
+Dialogue: 0,0:14:26.03,0:14:26.78,main,instructor,0,0,0,,Step forward!
+Dialogue: 0,0:14:26.78,0:14:27.84,main,,0,0,0,,Sir.
+Dialogue: 0,0:14:27.84,0:14:28.84,main,students,0,0,0,,Him? Why?
+Dialogue: 0,0:14:29.79,0:14:30.99,main,Alphonse,0,0,0,,Wait!
+Dialogue: 0,0:14:30.99,0:14:32.08,main,instructor,0,0,0,,What is it?
+Dialogue: 0,0:14:32.08,0:14:33.56,main,Alphonse,0,0,0,,I cannot accept this.
+Dialogue: 0,0:14:33.79,0:14:38.13,main,Alphonse,0,0,0,,For someone so lowly to have been chosen to \Nparticipate in a knightly tournament...
+Dialogue: 0,0:14:35.99,0:14:37.45,top,students; background,0,0,0,,That's right!
+Dialogue: 0,0:14:38.13,0:14:39.84,main,Alphonse,0,0,0,,It is a disgrace!
+Dialogue: 0,0:14:39.84,0:14:43.03,main,Alphonse,0,0,0,,Besides, he can't even use magic.
+Dialogue: 0,0:14:43.03,0:14:45.73,main,instructor,0,0,0,,It has already been decided.
+Dialogue: 0,0:14:45.97,0:14:47.45,main,instructor,0,0,0,,No objections will be entertained.
+Dialogue: 0,0:14:47.45,0:14:48.40,main,students; background,0,0,0,,But how?
+Dialogue: 0,0:14:50.78,0:14:52.16,main,students; background,0,0,0,,I just can't accept it.
+Dialogue: 0,0:14:53.10,0:14:55.58,main,Celia,0,0,0,,I heard you'll be participating \Nin the tournament.
+Dialogue: 0,0:14:56.79,0:14:58.47,main,Rio,0,0,0,,Yes, well...
+Dialogue: 0,0:14:59.45,0:15:01.30,main,Celia,0,0,0,,If you do well in the tournament,
+Dialogue: 0,0:15:01.30,0:15:05.56,main,Celia,0,0,0,,the knights may scout you even \Nbefore you graduate, you... know.
+Dialogue: 0,0:15:06.24,0:15:09.52,main,Rio,0,0,0,,I have no intention of becoming a knight.
+Dialogue: 0,0:15:09.52,0:15:10.51,main,Celia,0,0,0,,Rio...
+Dialogue: 0,0:15:10.51,0:15:11.30,main,Rio,0,0,0,,Yes?
+Dialogue: 0,0:15:12.06,0:15:14.16,main,Celia,0,0,0,,You've gotten taller, haven't you?
+Dialogue: 0,0:15:14.16,0:15:14.78,main,Rio,0,0,0,,What?
+Dialogue: 0,0:15:15.71,0:15:18.15,main,Celia,0,0,0,,Well, I suppose it has \Nbeen five years already.
+Dialogue: 0,0:15:19.65,0:15:20.86,main,Rio,0,0,0,,Professor...
+Dialogue: 0,0:15:20.86,0:15:21.85,main,Celia,0,0,0,,What is it?
+Dialogue: 0,0:15:22.11,0:15:24.10,main,Rio,0,0,0,,You're still just as small \Nas ever, aren't you?
+Dialogue: 0,0:15:24.10,0:15:27.20,main,Celia,0,0,0,,Don't say "small"! \NI'm still growing, I tell you!
+Dialogue: 0,0:15:27.20,0:15:28.97,main,Rio,0,0,0,,You said the same thing five years ago.
+Dialogue: 0,0:15:28.97,0:15:30.38,main,Celia,0,0,0,,Hmph!
+Dialogue: 0,0:15:30.38,0:15:31.86,main,Rio,0,0,0,,The tea will get cold.
+Dialogue: 0,0:15:31.86,0:15:32.86,main,Celia,0,0,0,,Oh...
+Dialogue: 0,0:15:34.82,0:15:36.72,main,Celia,0,0,0,,Such a lovely aroma!
+Dialogue: 0,0:15:38.24,0:15:39.96,main,Celia,0,0,0,,It's so good!
+Dialogue: 0,0:15:39.96,0:15:41.29,main,Celia,0,0,0,,They're the same leaves,
+Dialogue: 0,0:15:41.29,0:15:44.79,main,Celia,0,0,0,,but when you make the tea, Rio, \Nthe scent is completely different!
+Dialogue: 0,0:15:44.79,0:15:47.42,main,Rio,0,0,0,,I simply follow the instructions\N I read in a book.
+Dialogue: 0,0:15:48.95,0:15:51.33,main,Celia,0,0,0,,You say you have no intention \Nof becoming a knight.
+Dialogue: 0,0:15:51.33,0:15:53.05,main,Celia,0,0,0,,What will you do after you graduate?
+Dialogue: 0,0:15:53.05,0:15:54.65,main,Rio,0,0,0,,I thought I'd go on a journey.
+Dialogue: 0,0:15:54.65,0:15:55.62,main,Celia,0,0,0,,What?
+Dialogue: 0,0:15:55.62,0:15:57.40,main,Rio,0,0,0,,There's somewhere I'd like to go.
+Dialogue: 0,0:15:57.83,0:16:00.62,main,Celia,0,0,0,,Then... you plan to leave this country?
+Dialogue: 0,0:16:00.62,0:16:01.87,main,Rio,0,0,0,,This country...
+Dialogue: 0,0:16:02.99,0:16:04.69,main,Rio,0,0,0,,is difficult for me to live in.
+Dialogue: 0,0:16:05.32,0:16:07.28,main,Celia,0,0,0,,That may be so, but...
+Dialogue: 0,0:16:09.69,0:16:11.53,main,Celia,0,0,0,,Why don't you work here?
+Dialogue: 0,0:16:11.53,0:16:12.11,main,Rio,0,0,0,,What?
+Dialogue: 0,0:16:12.11,0:16:14.80,main,Celia,0,0,0,,Without you around, \Nall sorts of things will go wrong.
+Dialogue: 0,0:16:14.80,0:16:16.12,main,Rio,0,0,0,,That's not true.
+Dialogue: 0,0:16:16.12,0:16:19.31,main,Celia,0,0,0,,You see? The way you tidied here...\N It's so clean!
+Dialogue: 0,0:16:19.31,0:16:21.33,main,Celia,0,0,0,,And you make such wonderful tea!
+Dialogue: 0,0:16:21.33,0:16:25.63,main,Celia,0,0,0,,You always chide me when I get too \Ncaught up in my research. And...
+Dialogue: 0,0:16:25.63,0:16:27.59,main,Rio,0,0,0,,I'm grateful for your consideration, but...
+Dialogue: 0,0:16:27.59,0:16:31.25,main,Rio,0,0,0,,Professor, sooner or later you'll \Nenter into marriage talks, won't you?
+Dialogue: 0,0:16:31.25,0:16:32.86,main,Celia,0,0,0,,What's this all of a sudden?
+Dialogue: 0,0:16:32.86,0:16:36.88,main,Rio,0,0,0,,It wouldn't be good to have some \Nunknown commoner in your research lab.
+Dialogue: 0,0:16:37.64,0:16:40.89,main,Celia,0,0,0,,I've no intention of getting \Nmarried for a long time, though.
+Dialogue: 0,0:16:41.11,0:16:44.02,main,Rio,0,0,0,,Well, I'm sure you're free \Nto do as you like, Professor.
+Dialogue: 0,0:16:44.02,0:16:47.26,main,Celia,0,0,0,,Hey! You're thinking I'm going to miss \Nmy chance to get married, aren't you?
+Dialogue: 0,0:16:47.87,0:16:51.94,main,Rio,0,0,0,,Professor Celia, you look so youthful \Nand lovely, I'm sure you'll be fine.
+Dialogue: 0,0:16:52.29,0:16:55.84,main,Celia,0,0,0,,So you're saying I look like a child.
+Dialogue: 0,0:16:56.59,0:16:59.58,main,Rio,0,0,0,,Not at all. You're a charming woman.
+Dialogue: 0,0:16:59.91,0:17:02.33,main,Celia,0,0,0,,D-Don't tease me like that.
+Dialogue: 0,0:17:02.33,0:17:03.06,main,Rio,0,0,0,,What was that?
+Dialogue: 0,0:17:03.06,0:17:07.58,main,Celia,0,0,0,,Oh! Um, well... Where is it \Nthat you want to go, Rio?
+Dialogue: 0,0:17:07.58,0:17:10.54,main,Rio,0,0,0,,My parents' homeland, the Yagumo region.
+Dialogue: 0,0:17:11.59,0:17:15.09,main,Celia,0,0,0,,Yagumo? The place at the \Nedge of the wilderness?
+Dialogue: 0,0:17:17.03,0:17:17.67,main,Rio,0,0,0,,Yes.
+Dialogue: 0,0:17:19.47,0:17:24.68,flashback,Ayame,0,0,0,,When you're bigger, I'll take you there.\N It's a place called Yagumo.
+Dialogue: 0,0:17:24.68,0:17:27.19,flashback,Rio; 5 yo,0,0,0,,Really? You promised, okay?
+Dialogue: 0,0:17:28.11,0:17:28.97,main,Celia,0,0,0,,Rio?
+Dialogue: 0,0:17:29.65,0:17:32.53,main,Rio,0,0,0,,I-It's only a plan at the moment.
+Dialogue: 0,0:17:33.63,0:17:34.74,italics,Celia,0,0,0,,Rio...
+Dialogue: 0,0:17:37.76,0:17:40.85,main,Emerle,0,0,0,,Now, the tournament between the \Nglorious knights of the realm
+Dialogue: 0,0:17:40.85,0:17:43.79,main,Emerle,0,0,0,,and the students of the \NRoyal Academy will begin!
+Dialogue: 0,0:17:45.43,0:17:51.17,main,Emerle,0,0,0,,And I, Alfred Emerle, unworthy as \NI am, will serve as referee today!
+Dialogue: 0,0:17:51.40,0:17:53.42,main,nobles,0,0,0,,As noble as ever!
+Dialogue: 0,0:17:54.05,0:17:55.42,main,girls,0,0,0,,Emerle-sama!
+Dialogue: 0,0:17:56.06,0:18:00.43,main,Emerle,0,0,0,,Beltrum Royal Academy primary school! \NFirst challenger, Rio! Stand forward!
+Dialogue: 0,0:18:05.32,0:18:07.81,main,Alphonse,0,0,0,,Hey! Don't put on a pathetic \Nperformance out there.
+Dialogue: 0,0:18:08.19,0:18:10.26,main,Alphonse,0,0,0,,You'll lower people's opinions of me as well.
+Dialogue: 0,0:18:10.72,0:18:13.32,main,Rio,0,0,0,,I will do my best not to \Nfight an unsightly match.
+Dialogue: 0,0:18:13.32,0:18:16.44,main,Alphonse,0,0,0,,No one is expecting anything from you anyway.
+Dialogue: 0,0:18:19.63,0:18:20.74,main,Celia,0,0,0,,Rio!
+Dialogue: 0,0:18:20.74,0:18:22.49,main,Celia,0,0,0,,Keep it together!
+Dialogue: 0,0:18:23.09,0:18:24.85,main,Rio,0,0,0,,I am ready to begin.
+Dialogue: 0,0:18:24.85,0:18:25.75,main,Emerle,0,0,0,,Good.
+Dialogue: 0,0:18:25.75,0:18:27.50,main,Emerle,0,0,0,,And from the Knights of the Royal Guard,
+Dialogue: 0,0:18:27.50,0:18:28.50,main,Emerle,0,0,0,,the first challenger,
+Dialogue: 0,0:18:28.50,0:18:29.72,main,Emerle,0,0,0,,Charles Arbor!
+Dialogue: 0,0:18:34.91,0:18:37.81,main,Charles,0,0,0,,I knew you'd enrolled in the academy,
+Dialogue: 0,0:18:37.81,0:18:40.38,main,Charles,0,0,0,,but I'd never have imagined that the \Ndirty little brat from back then
+Dialogue: 0,0:18:40.38,0:18:42.80,main,Charles,0,0,0,,would be my opponent.
+Dialogue: 0,0:18:42.80,0:18:45.43,main,Rio,0,0,0,,I owe you a debt for your care of me back then.
+Dialogue: 0,0:18:45.66,0:18:50.00,main,Rio,0,0,0,,I was so very sorry I couldn't \Nhave been of more help.
+Dialogue: 0,0:18:50.90,0:18:52.61,main,Emerle,0,0,0,,Cease your chatter.
+Dialogue: 0,0:18:53.69,0:18:55.10,main,Emerle,0,0,0,,Challengers at the ready!
+Dialogue: 0,0:18:58.50,0:18:59.83,italics,Emerle,0,0,0,,What is that stance?
+Dialogue: 0,0:19:00.73,0:19:03.00,italics,Charles,0,0,0,,He doesn't have a shield. Is he mocking me?
+Dialogue: 0,0:19:03.87,0:19:04.91,main,Emerle,0,0,0,,Begin!
+Dialogue: 0,0:19:09.58,0:19:11.08,main,Celia,0,0,0,,Rio's amazing!
+Dialogue: 0,0:19:11.61,0:19:13.59,main,Roanna,0,0,0,,He's staying calm and parrying the blows.
+Dialogue: 0,0:19:14.25,0:19:18.88,italics,Charles,0,0,0,,Because of you, I was punished \Nwith a demotion five years ago!
+Dialogue: 0,0:19:19.33,0:19:21.47,italics,Charles,0,0,0,,I will never forget that humiliation!
+Dialogue: 0,0:19:22.05,0:19:23.22,main,Celia,0,0,0,,H-Hold on!
+Dialogue: 0,0:19:23.22,0:19:26.14,main,Celia,0,0,0,,How could a knight fight so \Nseriously against a student?!
+Dialogue: 0,0:19:28.40,0:19:29.34,main,instructor,0,0,0,,Now, Rio!
+Dialogue: 0,0:19:29.34,0:19:29.93,main,Celia,0,0,0,,What?
+Dialogue: 0,0:19:30.17,0:19:32.02,main,Charles,0,0,0,,This will finish you!
+Dialogue: 0,0:19:39.23,0:19:40.20,main,Emerle,0,0,0,,Hold!
+Dialogue: 0,0:19:40.48,0:19:43.27,main,Emerle,0,0,0,,The winner, representing the academy, is Rio!
+Dialogue: 0,0:19:43.83,0:19:44.99,main,Charles,0,0,0,,W-Wait, please!
+Dialogue: 0,0:19:44.99,0:19:47.18,main,Charles,0,0,0,,I let down my guard. That's all!
+Dialogue: 0,0:19:47.18,0:19:48.05,main,Emerle,0,0,0,,What?
+Dialogue: 0,0:19:48.84,0:19:49.82,main,Charles,0,0,0,,I'll fight for real next—
+Dialogue: 0,0:19:49.82,0:19:51.08,main,Emerle,0,0,0,,Idiot!
+Dialogue: 0,0:19:51.08,0:19:52.58,main,Emerle,0,0,0,,A loss is a loss!
+Dialogue: 0,0:19:53.21,0:19:54.73,main,Charles,0,0,0,,Alfred...
+Dialogue: 0,0:19:54.73,0:19:55.94,main,Emerle,0,0,0,,Charles.
+Dialogue: 0,0:19:55.94,0:19:58.30,main,Emerle,0,0,0,,If you are a member of the honorable \NKnights of the Royal Guard,
+Dialogue: 0,0:19:58.30,0:20:01.31,main,Emerle,0,0,0,,you will graciously accept your \Ndefeat and take your leave.
+Dialogue: 0,0:20:03.77,0:20:06.47,main,Charles,0,0,0,,I-I admit my defeat.
+Dialogue: 0,0:20:06.98,0:20:08.55,main,Rio,0,0,0,,Thank you for the match.
+Dialogue: 0,0:20:09.22,0:20:10.23,main,Emerle,0,0,0,,Very good.
+Dialogue: 0,0:20:10.23,0:20:12.03,main,Celia,0,0,0,,Amazing! Amazing!
+Dialogue: 0,0:20:13.08,0:20:14.11,main,instructor,0,0,0,,Indeed.
+Dialogue: 0,0:20:21.20,0:20:22.24,italics,Emerle,0,0,0,,Rio, was it?
+Dialogue: 0,0:20:22.65,0:20:24.49,italics,Emerle,0,0,0,,I look forward to his future.
+Dialogue: 0,0:20:28.18,0:20:30.79,main,Charles,0,0,0,,Blast that annoying brat!
+Dialogue: 0,0:20:31.66,0:20:34.37,main,Charles,0,0,0,,If I'd been serious, I would have won!
+Dialogue: 0,0:20:34.64,0:20:39.30,main,Reiss,0,0,0,,In that sort of situation, it isn't so \Nbad to let the students take the glory.
+Dialogue: 0,0:20:40.17,0:20:42.13,main,Reiss,0,0,0,,With no understanding\N of such consideration,
+Dialogue: 0,0:20:42.37,0:20:45.21,main,Reiss,0,0,0,,in the end, the other Knights \Nof the Royal Guard all won.
+Dialogue: 0,0:20:45.21,0:20:47.14,main,Reiss,0,0,0,,Dear, dear. How childish of them.
+Dialogue: 0,0:20:47.14,0:20:48.41,main,Charles,0,0,0,,Th-That's right!
+Dialogue: 0,0:20:48.41,0:20:50.52,main,Charles,0,0,0,,I let him take the glory!
+Dialogue: 0,0:20:50.52,0:20:52.82,main,Charles,0,0,0,,Just as you'd expect from the Honorable \NAmbassador of the Proxia Empire.
+Dialogue: 0,0:20:52.82,0:20:54.17,main,Charles,0,0,0,,You understand!
+Dialogue: 0,0:20:55.98,0:20:59.45,main,Reiss,0,0,0,,And that student who fought against you...
+Dialogue: 0,0:20:59.45,0:21:00.16,main,Charles,0,0,0,,Huh?
+Dialogue: 0,0:21:00.16,0:21:02.57,main,Reiss,0,0,0,,He certainly moved very well.
+Dialogue: 0,0:21:04.24,0:21:05.72,main,Charles,0,0,0,,That brat!
+Dialogue: 0,0:21:05.72,0:21:06.61,main,Charles,0,0,0,,Five years ago,
+Dialogue: 0,0:21:06.61,0:21:10.37,main,Charles,0,0,0,,it was thought he might have been \Ninvolved in Princess Flora's kidnapping.
+Dialogue: 0,0:21:10.91,0:21:14.87,main,Charles,0,0,0,,At the time, I investigated vigorously, but...
+Dialogue: 0,0:21:14.87,0:21:17.17,main,Charles,0,0,0,,In the end, he never talked.
+Dialogue: 0,0:21:17.17,0:21:17.88,main,Reiss,0,0,0,,I see!
+Dialogue: 0,0:21:18.27,0:21:20.71,main,Reiss,0,0,0,,So you two were fated \Nto face each other, then.
+Dialogue: 0,0:21:20.71,0:21:22.36,main,Charles,0,0,0,,I don't know about fated.
+Dialogue: 0,0:21:25.43,0:21:28.35,italics,Reiss,0,0,0,,I see. From back then...
+Dialogue: 0,0:21:32.30,0:21:36.23,main,Celia,0,0,0,,I hope he comes soon. I need \Nto celebrate his win with him!
+Dialogue: 0,0:21:36.83,0:21:37.48,main,Celia,0,0,0,,Rio!
+Dialogue: 0,0:21:41.35,0:21:43.11,main,Celia,0,0,0,,I wonder where he's going.
+Dialogue: 0,0:21:45.99,0:21:48.30,main,younger female student,0,0,0,,H-Here. Please, read it!
+Dialogue: 0,0:21:48.30,0:21:49.46,main,Rio,0,0,0,,What is it?
+Dialogue: 0,0:21:49.46,0:21:53.48,main,younger female student,0,0,0,,Y-Yesterday's match! \NYou were so... so very dashing!
+Dialogue: 0,0:21:55.26,0:21:56.66,main,younger female student,0,0,0,,So gallant!
+Dialogue: 0,0:21:56.66,0:21:57.90,main,Rio,0,0,0,,Oh! Excuse me!
+Dialogue: 0,0:21:58.64,0:21:59.98,main,Rio,0,0,0,,Wait, you there!
+Dialogue: 0,0:23:34.97,0:23:39.98,sign_33925_315_Next_Time_Royal_,text,0,0,0,,{\pos(320,120)\blur1.5}Next Time
+Dialogue: 0,0:23:34.97,0:23:39.98,sign_33925_315_Next_Time_Royal_,text,0,0,0,,{\fs35\an8\pos(320,225)\blur1.5}Kingdom of Lies
+Dialogue: 0,0:23:36.42,0:23:37.97,main,Rio,0,0,0,,"Kingdom of Lies."
+Dialogue: 0,0:23:39.98,0:23:42.08,sign_34045_320_Spirit_Chronicle,text; yellow,0,0,0,,{\pos(37,270)\fsp3\fad(1,120)}Spirit Chronicles
+Dialogue: 0,0:23:39.98,0:23:42.08,sign_34045_320_Spirit_Chronicle,text; yellow,0,0,0,,{\pos(37,270)\fsp3\c&H63E9E9&\clip(33,259,256,270)\fad(1,120)}Spirit Chronicles
+Dialogue: 0,0:23:39.98,0:23:42.08,sign_34045_321_Exciting_Bonus_M,text; blue,0,0,0,,{\pos(32,340)\fad(1,120)}Exciting Bonus Manga
+Dialogue: 0,0:23:39.98,0:23:50.25,sign_34045_323_By_Minazuki_Futa,text; black,0,0,0,,{\pos(450,320)\fsp2}By Minazuki Futago
+Dialogue: 0,0:23:41.08,0:23:42.48,sign_34127_328_Ha_ha,text; sfx,0,0,0,,{\an8\pos(115,20)\t(1,923,\fs40)}stare
+Dialogue: 0,0:23:42.60,0:23:44.50,Default,text; Rio,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\shad0\bord0\c&HE7EAE7&}m 554 19 l 590 19 591 244 557 243
+Dialogue: 0,0:23:42.60,0:23:44.50,sign_34045_319_I_had_a_dream_th,text; Rio,0,0,0,,{\pos(570,95)\fad(488,1)}She's\Nwatching\Nme...
+Dialogue: 0,0:23:44.50,0:23:48.00,Default,text; Roanna,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 494 18 l 612 19 612 294 497 297
+Dialogue: 0,0:23:44.50,0:23:48.00,sign_34045_319_I_had_a_dream_th,text; Roanna,0,0,0,,{\pos(555,65)}I-It's not\Nas though\NI'm looking\Nat you out\Nof affection.\NDon't get\Nthe wrong\Nidea!
+Dialogue: 0,0:23:46.25,0:23:48.00,Default,text; Roanna,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 28 12 l 65 13 67 289 28 289
+Dialogue: 0,0:23:46.25,0:23:48.00,sign_34045_319_I_had_a_dream_th,text; Roanna,0,0,0,,{\pos(55,80)}Do\Nnot\Nget\Nthe\Nwrong\N idea!
+Dialogue: 0,0:23:48.00,0:23:50.25,Default,text; Rio; right,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 530 63 l 564 63 566 161 529 161
+Dialogue: 0,0:23:48.00,0:23:50.25,sign_34045_319_I_had_a_dream_th,text; Rio; right,0,0,0,,{\fad(343,1)\pos(550,90)}Huh?\NRight...
+Dialogue: 0,0:23:48.59,0:23:50.25,Default,text; Rio; left,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 55 62 l 90 63 91 160 56 157
+Dialogue: 0,0:23:48.59,0:23:50.25,sign_34045_319_I_had_a_dream_th,text; Rio; left,0,0,0,,{\fad(379,1)\pos(75,85)}I\Nwon't...

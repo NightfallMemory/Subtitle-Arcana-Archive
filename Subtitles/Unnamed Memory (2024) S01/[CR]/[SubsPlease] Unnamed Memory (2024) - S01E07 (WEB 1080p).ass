@@ -1,0 +1,374 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default-Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics-Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback-Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics-Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Ep Title,Trebuchet MS,18,&H149A645C,&H008B3081,&H80FFEADE,&H20000000,0,0,0,0,110,100,0,0,1,1,0,8,30,30,140,0
+Style: Next Ep Title,Trebuchet MS,30,&H00FFFFFF,&H008B3081,&H88000000,&HA8000000,0,0,0,0,110,100,0,0,1,1,2,8,30,30,120,0
+Style: White-Standard,Trebuchet MS,18,&H00FFFFFF,&H0000FFFF,&H5B000000,&H5F000000,-1,0,0,0,100,100,0,0,1,0,2,2,20,20,65,0
+Style: Black-Standard,Arial,19,&H004E5955,&H0000FFFF,&HADDFECE6,&H9A000000,-1,0,0,0,100,100,0,13,1,2,0,8,20,20,20,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.85,White-Standard,Sign,0,0,0,,{\fad(1,500)}Tayiri    Tayiri Castle    {\fs14}Irityrdia-Worshiping Nation
+Dialogue: 0,0:00:04.03,0:00:08.15,Default-Top,Reust,0,0,0,,{\i1}To think that Cuscull's wretched mages \Nwould defeat us so soundly.
+Dialogue: 0,0:00:05.86,0:00:08.82,White-Standard,Sign,0,0,0,,{\fad(1,500)}Reust    {\fs14}Tayiri Crown Prince
+Dialogue: 0,0:00:08.71,0:00:13.41,Default-Top,Reust,0,0,0,,{\i1}I'll marshal the troops yet again \Nand personally take command this time...
+Dialogue: 0,0:00:16.61,0:00:18.12,Default,Tinasha,0,0,0,,Prince Reust.
+Dialogue: 0,0:00:19.49,0:00:21.29,Default,Reust,0,0,0,,Could you be...
+Dialogue: 0,0:00:21.29,0:00:22.46,Default,Reust,0,0,0,,What do you want?!
+Dialogue: 0,0:00:22.72,0:00:24.80,Default-Top,Reust,0,0,0,,Accursed Witch of the Azure Moon!
+Dialogue: 0,0:00:24.21,0:00:27.42,White-Standard,Sign,0,0,0,,{\fad(500,500)\pos(127,295)}Tris    {\fs14}Cuscull Mage
+Dialogue: 0,0:00:24.80,0:00:26.92,Default-Top,Tris,0,0,0,,Hey, what's with that attitude?
+Dialogue: 0,0:00:26.92,0:00:28.76,Default-Top,Tris,0,0,0,,Show Lady Aeterna some respect!
+Dialogue: 0,0:00:28.76,0:00:30.00,Default,Tinasha,0,0,0,,Shush, Tris.
+Dialogue: 0,0:00:30.00,0:00:30.62,Default,Tris,0,0,0,,What?
+Dialogue: 0,0:00:30.62,0:00:31.61,Default,Tinasha,0,0,0,,Pamyra.
+Dialogue: 0,0:00:31.61,0:00:32.93,Default,Tris,0,0,0,,What? Hey!
+Dialogue: 0,0:00:32.93,0:00:34.79,Default,Tris,0,0,0,,Ah, wait!
+Dialogue: 0,0:00:36.26,0:00:39.22,Default,Tinasha,0,0,0,,Everything will end in two weeks.
+Dialogue: 0,0:00:39.22,0:00:42.52,Default,Tinasha,0,0,0,,I'd like for you to hold off on\Nmarching into Cuscull until then.
+Dialogue: 0,0:00:42.78,0:00:44.43,Default,Reust,0,0,0,,What?
+Dialogue: 0,0:00:44.43,0:00:45.56,Default,Reust,0,0,0,,What's the meaning of this?!
+Dialogue: 0,0:00:45.84,0:00:48.25,Default,Reust,0,0,0,,Come down here if you want to ask me a favor!
+Dialogue: 0,0:00:48.25,0:00:49.90,Default,Reust,0,0,0,,You lowly mage!
+Dialogue: 0,0:00:50.46,0:00:52.32,Default,Tinasha,0,0,0,,Lowly mage, you say?
+Dialogue: 0,0:00:52.70,0:00:56.24,Default,Tinasha,0,0,0,,Can't you see that stance is what's \Nbrought these events upon you?
+Dialogue: 0,0:00:56.55,0:01:01.10,Default,Reust,0,0,0,,Mages disrupt the world of the one \Ntrue god, Irityrdia, with their powers!
+Dialogue: 0,0:01:03.25,0:01:07.25,Default,Tinasha,0,0,0,,Have you ever swung your sword \Ndown on an infant's skull?
+Dialogue: 0,0:01:07.87,0:01:08.96,Default,Reust,0,0,0,,What's this now?
+Dialogue: 0,0:01:08.96,0:01:14.03,Default,Tinasha,0,0,0,,Or burned alive a mother \Nclinging to her crying child?
+Dialogue: 0,0:01:15.13,0:01:17.87,Default,Tinasha,0,0,0,,Tayiri is the one who has tolerated these acts.
+Dialogue: 0,0:01:18.46,0:01:21.25,Default,Tinasha,0,0,0,,None other than your very own nation.
+Dialogue: 0,0:01:23.39,0:01:29.70,Default,Tinasha,0,0,0,,As successor to the throne, you've studied \Nhistory and how other nations govern.
+Dialogue: 0,0:01:30.58,0:01:32.89,Default,Tinasha,0,0,0,,Three hundred years \Nhave passed since the Dark Age.
+Dialogue: 0,0:01:32.89,0:01:36.73,Default,Tinasha,0,0,0,,No other nation as fiercely \Nethnocentric as yours has survived.
+Dialogue: 0,0:01:37.07,0:01:40.72,Default,Tinasha,0,0,0,,What you're doing is akin to \Neating away at your own innards.
+Dialogue: 0,0:01:40.72,0:01:42.99,Default,Tinasha,0,0,0,,I'm sure you can understand that much.
+Dialogue: 0,0:01:43.36,0:01:45.25,Default,Pamyra,0,0,0,,Lady Tinasha, we must be going.
+Dialogue: 0,0:01:45.91,0:01:47.58,Default,Tinasha,0,0,0,,I've warned you.
+Dialogue: 0,0:01:47.58,0:01:49.04,Default,Tinasha,0,0,0,,Give it some good thought.
+Dialogue: 0,0:01:49.36,0:01:51.67,Default,Reust,0,0,0,,Wait, I'm not done talki—
+Dialogue: 0,0:03:28.18,0:03:32.98,Ep Title,Sign,0,0,0,,{\fad(400,1)}~ The End of the Dream ~
+Dialogue: 0,0:03:32.98,0:03:35.36,White-Standard,Sign,0,0,0,,{\fad(1,500)}Cuscull Castle    {\fs14}Nation of Mages
+Dialogue: 0,0:03:33.41,0:03:35.40,Default-Top,Lanak,0,0,0,,The Four Great Nations joining forces?
+Dialogue: 0,0:03:35.90,0:03:37.38,Default,Lanak,0,0,0,,How over the top.
+Dialogue: 0,0:03:37.82,0:03:40.24,Default,Lanak,0,0,0,,Even though it's meaningless.
+Dialogue: 0,0:03:40.95,0:03:41.90,Default,Lanak,0,0,0,,There.
+Dialogue: 0,0:03:43.95,0:03:46.63,Default,Lanak,0,0,0,,The new map of the mainland \Nwill look like this.
+Dialogue: 0,0:03:47.59,0:03:54.45,Default,Mage F,0,0,0,,I-Is it really possible to create a spell \Nthat covers the entire mainland?
+Dialogue: 0,0:03:54.45,0:03:56.06,Default,Lanak,0,0,0,,Don't worry.
+Dialogue: 0,0:03:56.06,0:03:57.37,Default,Lanak,0,0,0,,We have Aeti.
+Dialogue: 0,0:03:57.94,0:04:00.74,Default,Lanak,0,0,0,,No matter how large or complex \Nthe composition of the spell,
+Dialogue: 0,0:04:00.74,0:04:04.75,Default,Lanak,0,0,0,,with enough magical power, \Nyou can construct it piece by piece.
+Dialogue: 0,0:04:05.53,0:04:08.29,Default,Lanak,0,0,0,,I taught you that a long time ago.
+Dialogue: 0,0:04:09.48,0:04:12.25,Default,Lanak,0,0,0,,You were an excellent student.\N So open-minded.
+Dialogue: 0,0:04:12.25,0:04:15.04,Default,Lanak,0,0,0,,Always quick to pick up on \Nwhat you were taught.
+Dialogue: 0,0:04:15.40,0:04:18.32,Default,Lanak,0,0,0,,Far surpassing me...
+Dialogue: 0,0:04:18.83,0:04:20.37,Default,Tinasha,0,0,0,,What's wrong?
+Dialogue: 0,0:04:20.37,0:04:22.24,Default,Tinasha,0,0,0,,Did you recall something?
+Dialogue: 0,0:04:22.98,0:04:24.69,Default,Lanak,0,0,0,,I just can't do it.
+Dialogue: 0,0:04:25.21,0:04:27.41,Default,Lanak,0,0,0,,It's like I'm still in a dream.
+Dialogue: 0,0:04:27.93,0:04:29.33,Default,Tinasha,0,0,0,,This is no dream.
+Dialogue: 0,0:04:29.75,0:04:31.07,Default,Lanak,0,0,0,,I know that.
+Dialogue: 0,0:04:36.42,0:04:38.25,Default,Lanak,0,0,0,,There's no need for any worry.
+Dialogue: 0,0:04:38.91,0:04:42.11,Default,Lanak,0,0,0,,I'll be the one to protect you, Aeti.
+Dialogue: 0,0:04:43.83,0:04:46.53,Default,Renart,0,0,0,,About His Majesty's behavior earlier...
+Dialogue: 0,0:04:46.53,0:04:47.53,Default,Tinasha,0,0,0,,Renart.
+Dialogue: 0,0:04:48.09,0:04:52.04,Default,Tinasha,0,0,0,,Do you know why all the witches \Nof the mainland are women?
+Dialogue: 0,0:04:52.04,0:04:52.71,Default,Renart,0,0,0,,What?
+Dialogue: 0,0:04:53.10,0:04:56.07,White-Standard,Sign,0,0,0,,{\fad(1,500)\pos(250,295)}Renart    {\fs14}Cuscull Mage
+Dialogue: 0,0:04:53.59,0:04:57.12,Default-Top,Tinasha,0,0,0,,Men's bodies, magically speaking, are unstable,
+Dialogue: 0,0:04:57.12,0:05:00.15,Default,Tinasha,0,0,0,,and have difficulties \Nholding up over a long time.
+Dialogue: 0,0:05:00.64,0:05:02.64,Default,Renart,0,0,0,,So you mean His Majesty...
+Dialogue: 0,0:05:02.64,0:05:05.07,Default,Tinasha,0,0,0,,He's feeling the psychological effects.
+Dialogue: 0,0:05:05.62,0:05:10.37,Default,Renart,0,0,0,,With His Majesty in this state, a spell \Ncomposition covering the entire mainland...
+Dialogue: 0,0:05:10.37,0:05:11.47,Default,Tinasha,0,0,0,,It's possible.
+Dialogue: 0,0:05:12.82,0:05:14.96,Default,Tinasha,0,0,0,,If we use my magic.
+Dialogue: 0,0:05:15.41,0:05:20.23,Default,Tinasha,0,0,0,,But if it comes to fruition, \Nthe mainland is sure to change drastically.
+Dialogue: 0,0:05:24.72,0:05:28.70,Default,Oscar,0,0,0,,They were the ones who called me here, \Nso why are we not advancing?
+Dialogue: 0,0:05:28.70,0:05:30.60,Default,Oscar,0,0,0,,It's been six days since we came to Tayiri.
+Dialogue: 0,0:05:31.21,0:05:35.77,Default,Sylvia,0,0,0,,Is it due to the crushing defeat \Nthey suffered in the Asdra Plains?
+Dialogue: 0,0:05:36.26,0:05:38.81,Default,Als,0,0,0,,We have combined forces \Nfrom all Four Great Nations now,
+Dialogue: 0,0:05:38.81,0:05:42.88,Default,Als,0,0,0,,so I'm surprised at how cautious \NPrince Reust is being.
+Dialogue: 0,0:05:42.88,0:05:43.57,Default,Kav,0,0,0,,Your Majesty!
+Dialogue: 0,0:05:44.03,0:05:46.29,Default,Kav,0,0,0,,Those mass disappearance cases...
+Dialogue: 0,0:05:46.29,0:05:48.24,Default,Kav,0,0,0,,The same thing's happened in Farsas!
+Dialogue: 0,0:05:48.71,0:05:50.92,Default,Oscar,0,0,0,,While we're stuck twiddling our thumbs here,
+Dialogue: 0,0:05:50.92,0:05:54.73,Default,Oscar,0,0,0,,cities in all Four Great Nations \Nhave been attacked.
+Dialogue: 0,0:05:57.42,0:05:59.58,Default,Oscar,0,0,0,,Do you think she's the one behind this?
+Dialogue: 0,0:05:59.89,0:06:02.75,Default,Doan,0,0,0,,If she wasn't, that'd be \Ntroubling in its own right.
+Dialogue: 0,0:06:05.27,0:06:06.61,Default,Cecelia,0,0,0,,King Oscar!
+Dialogue: 0,0:06:07.94,0:06:09.36,Default,Cecelia,0,0,0,,It's Cecelia.
+Dialogue: 0,0:06:09.36,0:06:11.10,Default,Cecelia,0,0,0,,Do you have a moment?
+Dialogue: 0,0:06:11.70,0:06:13.29,Default,Cecelia,0,0,0,,Pardon my intrusion.
+Dialogue: 0,0:06:14.37,0:06:16.02,Default,Oscar,0,0,0,,You visit me every day.
+Dialogue: 0,0:06:16.45,0:06:18.31,Default,Oscar,0,0,0,,What are you after?
+Dialogue: 0,0:06:18.94,0:06:21.09,Default,Cecelia,0,0,0,,Young king of Farsas,
+Dialogue: 0,0:06:21.09,0:06:23.52,Default,Cecelia,0,0,0,,is there something wrong \Nwith wanting to see you?
+Dialogue: 0,0:06:24.91,0:06:29.66,Default,Cecelia,0,0,0,,If you continue to be so cold, \NI have some ideas of my own.
+Dialogue: 0,0:06:29.66,0:06:31.16,Default,Oscar,0,0,0,,Oh? Like what?
+Dialogue: 0,0:06:31.74,0:06:35.58,Default,Cecelia,0,0,0,,That mage woman \Nwho accompanied you in Farsas...
+Dialogue: 0,0:06:35.90,0:06:39.99,Default,Cecelia,0,0,0,,She was the Witch of \Nthe Azure Moon, was she not?
+Dialogue: 0,0:06:41.93,0:06:43.72,Default,Oscar,0,0,0,,Maybe they just look very similar.
+Dialogue: 0,0:06:43.72,0:06:46.17,Default,Cecelia,0,0,0,,I won't let you dodge me with that excuse.
+Dialogue: 0,0:06:46.55,0:06:49.09,Default,Cecelia,0,0,0,,I saw her again.
+Dialogue: 0,0:06:49.09,0:06:50.17,Default,Oscar,0,0,0,,Where?
+Dialogue: 0,0:06:50.17,0:06:51.93,Default,Oscar,0,0,0,,I find that hard to believe.
+Dialogue: 0,0:06:54.14,0:06:58.24,Default,Cecelia,0,0,0,,That woman visits my brother every night.
+Dialogue: 0,0:06:58.24,0:07:00.42,Default,Cecelia,0,0,0,,The nerve of that traitor.
+Dialogue: 0,0:07:01.19,0:07:03.54,Default,Cecelia,0,0,0,,It should almost be time tonight...
+Dialogue: 0,0:07:06.12,0:07:08.69,Default,Oscar,0,0,0,,Show me the way to Prince Reust's room.
+Dialogue: 0,0:07:14.21,0:07:16.22,Default,Cecelia,0,0,0,,Dear brother, it's me.
+Dialogue: 0,0:07:17.95,0:07:19.10,Default,Reust,0,0,0,,What business have you here?!
+Dialogue: 0,0:07:19.10,0:07:21.75,Default,Oscar,0,0,0,,Was it not Tayiri that asked me \Nto slay the witch?
+Dialogue: 0,0:07:21.75,0:07:23.21,Default,Reust,0,0,0,,Please wait!
+Dialogue: 0,0:07:23.21,0:07:25.19,Default,Reust,0,0,0,,What are you talking about?
+Dialogue: 0,0:07:25.92,0:07:28.59,Default,Oscar,0,0,0,,Playing dumb will only \Nput you in a worse spot.
+Dialogue: 0,0:07:32.29,0:07:33.30,Default,Reust,0,0,0,,Stay away!
+Dialogue: 0,0:07:38.94,0:07:40.21,Default-Top,Tris,0,0,0,,Akashia's wielder!
+Dialogue: 0,0:07:39.43,0:07:41.39,White-Standard,Sign,0,0,0,,{\fad(500,500)\pos(128,295)}Pamyra    {\fs14}Cuscull Mage
+Dialogue: 0,0:07:40.21,0:07:41.44,Default-Top,Pamyra,0,0,0,,You deceived us!
+Dialogue: 0,0:07:43.70,0:07:44.58,Default,Oscar,0,0,0,,Come.
+Dialogue: 0,0:07:45.74,0:07:46.74,Default,Tinasha,0,0,0,,Oscar.
+Dialogue: 0,0:07:48.27,0:07:49.25,Default,Pamyra,0,0,0,,Lady Tinasha!
+Dialogue: 0,0:07:49.25,0:07:50.19,Default,Tris,0,0,0,,Let's withdraw!
+Dialogue: 0,0:07:50.49,0:07:51.36,Default,Renart,0,0,0,,Hurry!
+Dialogue: 0,0:07:51.64,0:07:52.93,Default,Renart,0,0,0,,It won't last for long!
+Dialogue: 0,0:07:52.93,0:07:53.66,Default,Renart,0,0,0,,Quickly!
+Dialogue: 0,0:07:54.01,0:07:54.74,Default,Oscar,0,0,0,,Tinasha!
+Dialogue: 0,0:08:08.55,0:08:12.94,Default,Oscar,0,0,0,,Thanks to Prince Reust, \Nwe sure did waste a lot of time.
+Dialogue: 0,0:08:12.94,0:08:16.74,Default,Oscar,0,0,0,,I'm curious what it means that the date \Nshe specified has passed.
+Dialogue: 0,0:08:20.47,0:08:22.65,Default,Lucrezia,0,0,0,,I went around checking all the towns.
+Dialogue: 0,0:08:22.65,0:08:23.89,Default,Lucrezia,0,0,0,,What a pain!
+Dialogue: 0,0:08:24.31,0:08:25.93,Default,Oscar,0,0,0,,So, what'd you find?
+Dialogue: 0,0:08:25.93,0:08:28.07,Default,Lucrezia,0,0,0,,That girl sure is diligent.
+Dialogue: 0,0:08:28.61,0:08:30.56,Default,Lucrezia,0,0,0,,It looked like everyone had disappeared,
+Dialogue: 0,0:08:30.56,0:08:34.03,Default,Lucrezia,0,0,0,,but she had just put up a defensive barrier \Nso they couldn't be perceived.
+Dialogue: 0,0:08:34.33,0:08:36.80,Default,Lucrezia,0,0,0,,Everyone in town is safe, even as we speak.
+Dialogue: 0,0:08:36.80,0:08:37.74,Default,Oscar,0,0,0,,I see.
+Dialogue: 0,0:08:40.93,0:08:42.83,Default,Lucrezia,0,0,0,,She won't protect herself.
+Dialogue: 0,0:08:43.20,0:08:45.49,Default,Lucrezia,0,0,0,,You need to act as her shield.
+Dialogue: 0,0:08:45.49,0:08:46.25,Default,Oscar,0,0,0,,Sure.
+Dialogue: 0,0:08:47.81,0:08:49.29,Default,Oscar,0,0,0,,That's what happened.
+Dialogue: 0,0:08:49.29,0:08:52.26,White-Standard,Sign,0,0,0,,{\fad(1,500)\pos(124,295)}Gandona General
+Dialogue: 0,0:08:49.29,0:08:52.26,White-Standard,Sign,0,0,0,,{\fad(1,500)\pos(462,295)}Cezar General
+Dialogue: 0,0:08:49.76,0:08:52.16,Default-Top,Cezar General,0,0,0,,That's a hard story to swallow at first glance.
+Dialogue: 0,0:08:52.16,0:08:53.01,Default-Top,Gandona General,0,0,0,,Indeed.
+Dialogue: 0,0:08:54.91,0:08:56.43,Default,Bardalos,0,0,0,,Well, well.
+Dialogue: 0,0:08:56.43,0:08:58.35,Default,Bardalos,0,0,0,,It seems you're at a loss.
+Dialogue: 0,0:08:59.33,0:09:01.52,Default,Bardalos,0,0,0,,Pleased to make your acquaintance.
+Dialogue: 0,0:09:01.94,0:09:05.56,Default,Bardalos,0,0,0,,I am Bardalos, chief mage of Cuscull.
+Dialogue: 0,0:09:05.56,0:09:06.46,Default,Gandona General,0,0,0,,What?!
+Dialogue: 0,0:09:06.46,0:09:07.52,Default,Cezar General,0,0,0,,Blasted clown!
+Dialogue: 0,0:09:07.52,0:09:08.94,Default,Cezar General,0,0,0,,What do you want?!
+Dialogue: 0,0:09:09.20,0:09:11.70,Default,Bardalos,0,0,0,,Come now, calm yourselves.
+Dialogue: 0,0:09:11.70,0:09:18.01,Default,Bardalos,0,0,0,,I thought you'd want to watch our mighty king \Nextend his dominion over the mainland.
+Dialogue: 0,0:09:18.01,0:09:21.62,Default,Bardalos,0,0,0,,If I may have the honor of \Nguiding all of you there.
+Dialogue: 0,0:09:21.62,0:09:23.66,Default,Gandona Soldier,0,0,0,,Who would agree to that?!
+Dialogue: 0,0:09:23.66,0:09:25.76,Default,Cezar Soldier,0,0,0,,Don't get too full of yourself!
+Dialogue: 0,0:09:25.76,0:09:26.63,Default,Oscar,0,0,0,,I understand.
+Dialogue: 0,0:09:27.29,0:09:28.63,Default,Kumu,0,0,0,,Your Majesty?!
+Dialogue: 0,0:09:28.63,0:09:29.71,Default,Oscar,0,0,0,,Take me there.
+Dialogue: 0,0:09:29.71,0:09:32.38,Default,Bardalos,0,0,0,,Why, I'd be happy to oblige.
+Dialogue: 0,0:09:32.38,0:09:35.70,Default,Bardalos,0,0,0,,However, all of you will be coming along.
+Dialogue: 0,0:09:43.71,0:09:44.89,Default,Oscar,0,0,0,,I see.
+Dialogue: 0,0:09:45.35,0:09:47.74,Default,Oscar,0,0,0,,The very definition of an ambush.
+Dialogue: 0,0:09:54.78,0:09:56.07,Default,Oscar,0,0,0,,Lanak.
+Dialogue: 0,0:09:56.07,0:09:57.78,Default,Lanak,0,0,0,,Welcome...
+Dialogue: 0,0:09:57.78,0:10:01.50,Default,Lanak,0,0,0,,to the ruins of Tuldarr's cathedral.
+Dialogue: 0,0:10:02.95,0:10:05.91,White-Standard,Sign,0,0,0,,{\fad(1,500)}Formerly Tuldarr    {\fs14}Cathedral Ruins
+Dialogue: 0,0:10:04.35,0:10:06.87,Default-Top,Lanak,0,0,0,,I've asked you to join us here today...
+Dialogue: 0,0:10:07.29,0:10:09.79,Default,Lanak,0,0,0,,because I have a proposal.
+Dialogue: 0,0:10:10.41,0:10:14.56,Default,Lanak,0,0,0,,Currently, the mainland is rife \Nwith cruel discrimination and conflict.
+Dialogue: 0,0:10:14.56,0:10:17.22,Default,Lanak,0,0,0,,However, let's put an end to all of it.
+Dialogue: 0,0:10:17.53,0:10:21.40,Default,Lanak,0,0,0,,Those who don't comply, \Nno matter where they may be,
+Dialogue: 0,0:10:21.40,0:10:23.18,Default,Lanak,0,0,0,,will instantly receive divine punishment.
+Dialogue: 0,0:10:23.59,0:10:26.81,Default,Lanak,0,0,0,,I will gain the powers \Nneeded to carry this out.
+Dialogue: 0,0:10:27.21,0:10:28.98,Default,Oscar,0,0,0,,Are you trying to become a god?
+Dialogue: 0,0:10:30.66,0:10:34.07,Default,Lanak,0,0,0,,Now then, let me introduce you to my bride.
+Dialogue: 0,0:10:49.85,0:10:51.79,Default,Lanak,0,0,0,,Is something wrong, Aeti?
+Dialogue: 0,0:10:52.73,0:10:54.65,Default,Tinasha,0,0,0,,Why are they here?
+Dialogue: 0,0:10:54.65,0:10:56.84,Default,Lanak,0,0,0,,I had Bardalos bring them there.
+Dialogue: 0,0:10:57.29,0:11:02.34,Default,Lanak,0,0,0,,I wanted everyone to witness the moments \Nuntil the procedure is complete.
+Dialogue: 0,0:11:03.58,0:11:04.46,Default,Tinasha,0,0,0,,I see.
+Dialogue: 0,0:11:17.03,0:11:20.11,Default,Lanak,0,0,0,,Silence swaying in the sea of lament.
+Dialogue: 0,0:11:20.40,0:11:24.03,Default,Lanak,0,0,0,,I choose the countless outstretched hands.
+Dialogue: 0,0:11:34.69,0:11:36.18,Default,Oscar,0,0,0,,I need an opening.
+Dialogue: 0,0:11:36.81,0:11:38.67,Default,Lanak,0,0,0,,I am he who defines.
+Dialogue: 0,0:11:39.00,0:11:42.78,Default,Lanak,0,0,0,,I command the first lake \Nto be born, Compassion.
+Dialogue: 0,0:11:43.78,0:11:45.48,Default,Lanak,0,0,0,,Place yourself at daybreak.
+Dialogue: 0,0:11:45.48,0:11:50.02,Default,Lanak,0,0,0,,{\i1}The five magical lakes formed \Nfrom nature's energy and magic,
+Dialogue: 0,0:11:50.02,0:11:51.54,Default,Lanak,0,0,0,,{\i1}along with countless human souls.
+Dialogue: 0,0:11:51.54,0:11:55.27,Default,Lanak,0,0,0,,I command the second lake\N to be born, Jealousy.
+Dialogue: 0,0:11:55.62,0:11:57.25,Default,Lanak,0,0,0,,Place yourself at morning.
+Dialogue: 0,0:11:58.19,0:12:01.86,Default,Lanak,0,0,0,,{\i1}If I can connect them again \Nthrough a spell composition...
+Dialogue: 0,0:12:02.17,0:12:05.78,Default,Lanak,0,0,0,,I command the third lake to be born, Denial.
+Dialogue: 0,0:12:06.07,0:12:07.71,Default,Lanak,0,0,0,,Place yourself at noon.
+Dialogue: 0,0:12:08.97,0:12:13.12,Default,Lanak,0,0,0,,{\i1}I can watch over the entire \Nmainland from right here.
+Dialogue: 0,0:12:13.12,0:12:16.84,Default,Lanak,0,0,0,,I command the fourth lake to be born, Longing.
+Dialogue: 0,0:12:17.27,0:12:19.10,Default,Lanak,0,0,0,,Place yourself at twilight.
+Dialogue: 0,0:12:19.93,0:12:23.30,Default,Lanak,0,0,0,,{\i1}I can even command the weather to my will.
+Dialogue: 0,0:12:23.74,0:12:27.55,Default,Lanak,0,0,0,,I command the final lake to be born, Hatred.
+Dialogue: 0,0:12:27.89,0:12:29.63,Default,Lanak,0,0,0,,Place yourself at midnight.
+Dialogue: 0,0:12:36.27,0:12:38.35,Default,Lanak,0,0,0,,Not too shabby, huh?
+Dialogue: 0,0:12:38.89,0:12:41.23,Default,Lanak,0,0,0,,Now, let us celebrate together...
+Dialogue: 0,0:12:41.82,0:12:44.07,Default,Lanak,0,0,0,,the dawn of a new age.
+Dialogue: 0,0:12:52.13,0:12:54.37,Default,Lanak,0,0,0,,A-Aeti, what are you...
+Dialogue: 0,0:12:55.06,0:12:55.87,Default,Tinasha,0,0,0,,Come.
+Dialogue: 0,0:13:01.04,0:13:02.97,Default,Lanak,0,0,0,,What is the meaning of this?!
+Dialogue: 0,0:13:02.97,0:13:04.21,Default,Tinasha,0,0,0,,It took so long.
+Dialogue: 0,0:13:05.04,0:13:07.37,Default,Tinasha,0,0,0,,I had searched for you all this time.
+Dialogue: 0,0:13:08.05,0:13:11.58,Default,Tinasha,0,0,0,,When I found you, I was \Nso happy I could have cried.
+Dialogue: 0,0:13:12.71,0:13:15.35,Default,Tinasha,0,0,0,,You were truly necessary.
+Dialogue: 0,0:13:15.35,0:13:18.02,Default,Tinasha,0,0,0,,As the one who summoned the magical lakes,
+Dialogue: 0,0:13:18.02,0:13:21.15,Default,Tinasha,0,0,0,,you were the only one \Nwho knew their defined names.
+Dialogue: 0,0:13:23.38,0:13:25.72,Default,Tinasha,0,0,0,,The souls of the citizens you killed \Nfour hundred years ago,
+Dialogue: 0,0:13:25.72,0:13:28.98,Default,Tinasha,0,0,0,,who melted into and were bound \Nby the magical lakes...
+Dialogue: 0,0:13:28.98,0:13:31.38,Default,Tinasha,0,0,0,,Now I can finally free them!
+Dialogue: 0,0:13:31.38,0:13:32.83,Default,Lanak,0,0,0,,Aeti...
+Dialogue: 0,0:13:32.83,0:13:36.21,Default,Lanak,0,0,0,,Yet again, you would betray me?!
+Dialogue: 0,0:13:36.63,0:13:37.50,Default,Tinasha,0,0,0,,Betray you?
+Dialogue: 0,0:13:39.65,0:13:42.66,Default,Tinasha,0,0,0,,Come, let us begin your atonement.
+Dialogue: 0,0:13:43.86,0:13:45.55,Default,Lanak,0,0,0,,Incapacitate her!
+Dialogue: 0,0:13:45.86,0:13:48.25,Default,Lanak,0,0,0,,I don't care if she loses her limbs!
+Dialogue: 0,0:13:49.13,0:13:51.78,Default,Tinasha,0,0,0,,That's the same look you had back then.
+Dialogue: 0,0:13:51.78,0:13:53.18,Default,Tinasha,0,0,0,,Have you finally awoken?
+Dialogue: 0,0:13:53.18,0:13:55.02,Default,Lanak,0,0,0,,Shut your mouth, little girl!
+Dialogue: 0,0:14:04.21,0:14:05.69,Default,Pamyra,0,0,0,,Ah, I knew it!
+Dialogue: 0,0:14:06.15,0:14:07.41,Default,Tinasha,0,0,0,,Pamyra. Renart.
+Dialogue: 0,0:14:08.46,0:14:09.66,Default,Tinasha,0,0,0,,Hurry up and run away.
+Dialogue: 0,0:14:10.07,0:14:11.32,Default,Pamyra,0,0,0,,No way.
+Dialogue: 0,0:14:11.32,0:14:12.62,Default,Renart,0,0,0,,I refuse.
+Dialogue: 0,0:14:12.88,0:14:16.79,Default,Pamyra,0,0,0,,Overwriting such an immense spell \Nand sublimating the magical lakes...
+Dialogue: 0,0:14:17.37,0:14:19.23,Default,Pamyra,0,0,0,,You're the only one who could pull it off!
+Dialogue: 0,0:14:19.62,0:14:23.05,Default,Renart,0,0,0,,Protecting you is our duty.
+Dialogue: 0,0:14:25.84,0:14:26.82,Default,Tinasha,0,0,0,,Pamyra!
+Dialogue: 0,0:14:28.04,0:14:30.13,Default,Bardalos,0,0,0,,You really {\i1}did{\i0} betray us?
+Dialogue: 0,0:14:30.13,0:14:31.60,Default,Bardalos,0,0,0,,How amusing!
+Dialogue: 0,0:14:32.03,0:14:33.24,Default,Renart,0,0,0,,Lady Tinasha!
+Dialogue: 0,0:14:37.01,0:14:38.09,Default,Tinasha,0,0,0,,Oscar!
+Dialogue: 0,0:14:39.82,0:14:41.78,Default,Oscar,0,0,0,,Ask me for help already.
+Dialogue: 0,0:14:41.78,0:14:43.23,Default,Oscar,0,0,0,,What should I do?
+Dialogue: 0,0:14:43.98,0:14:45.82,Default,Tinasha,0,0,0,,I just need ten minutes.
+Dialogue: 0,0:14:46.19,0:14:47.22,Default,Oscar,0,0,0,,Got it.
+Dialogue: 0,0:14:48.14,0:14:50.73,Default,Bardalos,0,0,0,,The swordsman who wields Akashia?
+Dialogue: 0,0:14:50.73,0:14:54.45,Default,Bardalos,0,0,0,,I've heard the legends, \Nbut how much of it is true?
+Dialogue: 0,0:14:54.76,0:14:56.62,Default,Oscar,0,0,0,,Dunno. Never interested me.
+Dialogue: 0,0:15:00.77,0:15:01.58,Default,Tris,0,0,0,,It can't be!
+Dialogue: 0,0:15:02.19,0:15:04.82,Default,Tris,0,0,0,,Lady Aeterna would never betray us!
+Dialogue: 0,0:15:09.54,0:15:11.09,Default,Lanak,0,0,0,,Summon the demons!
+Dialogue: 0,0:15:11.42,0:15:12.76,Default,Lanak,0,0,0,,Kill them!
+Dialogue: 0,0:15:27.03,0:15:28.57,Default,Young Mage,0,0,0,,Take this!
+Dialogue: 0,0:15:30.84,0:15:32.23,Default,Young Mage,0,0,0,,It's...
+Dialogue: 0,0:15:32.23,0:15:34.41,Default,Young Mage,0,0,0,,It's your fault that my sister...
+Dialogue: 0,0:15:35.12,0:15:40.28,Default,Reust,0,0,0,,{\i1}So these are the centuries of \Naccumulated sins that Tayiri bears?!
+Dialogue: 0,0:15:40.28,0:15:42.83,Default,Young Mage,0,0,0,,Die! You monster—
+Dialogue: 0,0:15:47.31,0:15:50.14,Default,Doan,0,0,0,,Save your contemplation for later!
+Dialogue: 0,0:15:51.18,0:15:52.11,Default,Reust,0,0,0,,Yeah...
+Dialogue: 0,0:15:56.50,0:16:00.21,Default,Tinasha,0,0,0,,Inscribed pacts woven of a voiceless voice.
+Dialogue: 0,0:16:00.65,0:16:04.65,Default,Tinasha,0,0,0,,Hope is born in the depths of despair.
+Dialogue: 0,0:16:01.60,0:16:03.14,Default-Top,Renart,0,0,0,,A double incantation?
+Dialogue: 0,0:16:03.14,0:16:04.65,Default-Top,Renart,0,0,0,,And what's more, this is...
+Dialogue: 0,0:16:04.65,0:16:06.34,Default-Top,Pamyra,0,0,0,,From Tuldarr's...
+Dialogue: 0,0:16:05.08,0:16:09.73,Default,Tinasha,0,0,0,,The flow of time is irreversible, and \Nthe sea that holds it forms consciousness...
+Dialogue: 0,0:16:07.06,0:16:08.63,Default-Top,Pamyra,0,0,0,,coronation ceremony!
+Dialogue: 0,0:16:13.29,0:16:14.32,Default,Lanak,0,0,0,,Aeti...
+Dialogue: 0,0:16:14.87,0:16:16.02,Default,Lanak,0,0,0,,It couldn't be...
+Dialogue: 0,0:16:16.74,0:16:21.71,Default,Kumu,0,0,0,,The spirits of Tuldarr allegedly \Nsummoned by their first ruler?
+Dialogue: 0,0:16:21.71,0:16:24.58,Default,Sylvia,0,0,0,,I thought that was just a myth!
+Dialogue: 0,0:16:24.58,0:16:28.04,Default,Sylvia,0,0,0,,Controlling multiple high-ranking \Ndemons is impossible!
+Dialogue: 0,0:16:28.32,0:16:30.81,Default,Doan,0,0,0,,And twelve of them in all...
+Dialogue: 0,0:16:30.81,0:16:31.46,Default,Doan,0,0,0,,There's no way.
+Dialogue: 0,0:16:32.19,0:16:34.18,Default,Bardalos,0,0,0,,The end is nigh.
+Dialogue: 0,0:16:34.71,0:16:38.35,Default,Bardalos,0,0,0,,What a shame, just when I'd come \Nface to face with the mage killers.
+Dialogue: 0,0:16:38.75,0:16:41.77,Default,Oscar,0,0,0,,Don't worry. I'm keen to end it here, too.
+Dialogue: 0,0:16:41.77,0:16:44.94,Default,Bardalos,0,0,0,,If you want to end it, then come at me.
+Dialogue: 0,0:16:45.43,0:16:47.61,Default,Bardalos,0,0,0,,Go on, burn to cinders.
+Dialogue: 0,0:16:53.13,0:16:54.15,Default,Oscar,0,0,0,,I'm here.
+Dialogue: 0,0:17:03.41,0:17:07.13,Default,Tinasha,0,0,0,,Though distant the day it began, \Nye be unchanging.
+Dialogue: 0,0:17:07.71,0:17:08.49,Default,Oscar,0,0,0,,So?
+Dialogue: 0,0:17:08.49,0:17:10.15,Default,Oscar,0,0,0,,What are you going to show us?
+Dialogue: 0,0:17:11.22,0:17:12.51,Default,Tinasha,0,0,0,,Appear before me!
+Dialogue: 0,0:17:12.99,0:17:16.93,Default,Tinasha,0,0,0,,Spirits tied to Tuldarr by ancient pact!
+Dialogue: 0,0:17:17.37,0:17:22.18,Default,Tinasha,0,0,0,,I am Tinasha As Meyer Ur Aeterna Tuldarr!
+Dialogue: 0,0:17:22.81,0:17:25.85,Default,Tinasha,0,0,0,,As your ruler, my declaration defines you!
+Dialogue: 0,0:17:26.50,0:17:27.81,Default,Tinasha,0,0,0,,Come to me!
+Dialogue: 0,0:17:31.57,0:17:33.74,White-Standard,Sign,0,0,0,,{\fad(1,500)}Twelve Spirits of Tuldarr
+Dialogue: 0,0:17:37.34,0:17:39.77,Default,Mila,0,0,0,,It's been a while since we emerged.
+Dialogue: 0,0:17:42.65,0:17:43.75,Default,Tinasha,0,0,0,,I command you.
+Dialogue: 0,0:17:43.75,0:17:45.71,Default,Tinasha,0,0,0,,Annihilate my enemies.
+Dialogue: 0,0:17:45.71,0:17:48.12,Default,Tinasha,0,0,0,,Feel free to ignore those \Nwithout the will to fight.
+Dialogue: 0,0:17:48.50,0:17:50.21,Default,Tinasha,0,0,0,,If you can, don't kill them.
+Dialogue: 0,0:18:17.59,0:18:19.26,Default,Lanak,0,0,0,,Aeti...
+Dialogue: 0,0:18:20.07,0:18:21.58,Default,Lanak,0,0,0,,Aeterna...
+Dialogue: 0,0:18:29.30,0:18:32.59,Default,Lanak,0,0,0,,Oh, so we meet again.
+Dialogue: 0,0:18:35.40,0:18:37.12,Default,Lanak,0,0,0,,What do you want?
+Dialogue: 0,0:18:37.12,0:18:38.09,Default,Oscar,0,0,0,,Not much.
+Dialogue: 0,0:18:38.94,0:18:40.82,Default,Oscar,0,0,0,,I just have one question.
+Dialogue: 0,0:18:41.49,0:18:45.81,Default,Lanak,0,0,0,,If you want to know something, ask Aeterna.
+Dialogue: 0,0:18:45.81,0:18:48.27,Default,Lanak,0,0,0,,Aeti knows everything.
+Dialogue: 0,0:18:48.91,0:18:51.41,Default,Lanak,0,0,0,,That's why I'm met with pity.
+Dialogue: 0,0:18:52.21,0:18:55.61,Default,Lanak,0,0,0,,If she had been weaker, \Nnone of this would have...
+Dialogue: 0,0:18:56.21,0:18:59.05,Default,Lanak,0,0,0,,It's her fault that Tuldarr was destroyed.
+Dialogue: 0,0:18:59.05,0:19:01.87,Default,Lanak,0,0,0,,It's because of her that I'm...
+Dialogue: 0,0:19:02.70,0:19:05.71,Default,Oscar,0,0,0,,She believed in you until the very end.
+Dialogue: 0,0:19:06.49,0:19:08.74,Default,Oscar,0,0,0,,When you sliced her belly open...
+Dialogue: 0,0:19:08.74,0:19:09.99,Default,Oscar,0,0,0,,What did you feel?
+Dialogue: 0,0:19:15.11,0:19:17.37,Default,Lanak,0,0,0,,Nothing at all.
+Dialogue: 0,0:19:19.53,0:19:21.76,Default,Lanak,0,0,0,,She's nothing but a tool.
+Dialogue: 0,0:19:46.93,0:19:48.45,Default,Gandona General,0,0,0,,King of Farsas.
+Dialogue: 0,0:19:49.14,0:19:53.09,Default,Gandona General,0,0,0,,As the wielder of Akashia, \Nyou know what must be done.
+Dialogue: 0,0:20:02.25,0:20:03.85,Default,Tinasha,0,0,0,,It's fine, you two.
+Dialogue: 0,0:20:05.50,0:20:06.47,Default,Tinasha,0,0,0,,Thanks.
+Dialogue: 0,0:20:14.98,0:20:19.91,Default,Oscar,0,0,0,,When you broke Lucrezia's spell, \Ndo you remember what I said?
+Dialogue: 0,0:20:38.59,0:20:39.59,Default,Oscar,0,0,0,,Tinasha!
+Dialogue: 0,0:20:41.15,0:20:42.22,Default,Oscar,0,0,0,,You've come to?
+Dialogue: 0,0:20:42.91,0:20:45.53,Default,Oscar,0,0,0,,I didn't expect you to sleep for a full week.
+Dialogue: 0,0:20:48.37,0:20:51.27,Default,Tinasha,0,0,0,,Why am I still alive?
+Dialogue: 0,0:20:52.78,0:20:53.78,Default,Oscar,0,0,0,,Whoa there.
+Dialogue: 0,0:20:54.31,0:20:56.17,Default,Oscar,0,0,0,,Cutting right to the chase?
+Dialogue: 0,0:20:56.17,0:20:58.11,Default,Oscar,0,0,0,,If you weren't recovering, \NI'd give you a noogie.
+Dialogue: 0,0:20:59.39,0:21:03.29,Default,Oscar,0,0,0,,In the end, Prince Reust decided \Nnot to initiate force on Cuscull,
+Dialogue: 0,0:21:03.29,0:21:05.41,Default,Oscar,0,0,0,,leaving it as an autonomous state for mages.
+Dialogue: 0,0:21:05.41,0:21:06.06,Default,Tinasha,0,0,0,,What?
+Dialogue: 0,0:21:07.10,0:21:09.55,Default,Oscar,0,0,0,,Your lecturing must have gotten through to him.
+Dialogue: 0,0:21:10.33,0:21:12.87,Default,Tinasha,0,0,0,,You... really think so?
+Dialogue: 0,0:21:13.42,0:21:15.93,Default,Tinasha,0,0,0,,A lot happened.
+Dialogue: 0,0:21:16.62,0:21:19.01,Default,Tinasha,0,0,0,,In the past, and the present.
+Dialogue: 0,0:21:19.74,0:21:21.42,Default,Tinasha,0,0,0,,Even so, I'm...
+Dialogue: 0,0:21:22.17,0:21:23.07,Default,Oscar,0,0,0,,I see.
+Dialogue: 0,0:21:26.25,0:21:28.47,Default,Oscar,0,0,0,,Oh, that reminds me.
+Dialogue: 0,0:21:28.95,0:21:32.33,Default,Oscar,0,0,0,,You're officially my fiancée now.
+Dialogue: 0,0:21:32.33,0:21:33.57,Default,Tinasha,0,0,0,,Why's that?!
+Dialogue: 0,0:21:33.57,0:21:37.31,Default,Oscar,0,0,0,,That was the only way to bring\N you back alive in that situation.
+Dialogue: 0,0:21:37.71,0:21:39.96,Default,Oscar,0,0,0,,There were those who wanted you dead,
+Dialogue: 0,0:21:39.96,0:21:44.17,Default,Oscar,0,0,0,,but a lot more of them \Nwanted to use your powers.
+Dialogue: 0,0:21:44.17,0:21:46.61,Default,Tinasha,0,0,0,,And what about what {\i1}I{\i0} think?!
+Dialogue: 0,0:21:46.94,0:21:51.41,Default,Oscar,0,0,0,,Well, now that it's come to this, \Nwork hard for the remaining half a year.
+Dialogue: 0,0:21:54.94,0:21:58.54,Default,Tinasha,0,0,0,,As you wish, my contract holder.
+Dialogue: 0,0:22:01.01,0:22:02.02,Default,Tinasha,0,0,0,,Thanks.
+Dialogue: 0,0:23:35.47,0:23:39.98,Next Ep Title,Sign,0,0,0,,{\fad(500,1)}~ Green Vines ~

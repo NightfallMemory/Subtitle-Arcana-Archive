@@ -1,0 +1,366 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: sign_3238_18_Seirei_Gensouki,Trebuchet MS,40,&H00FAFFFF,&H000000FF,&H00E6B519,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,20,1
+Style: sign_5011_20_The_Kingdom_of_B,Arial,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+Style: sign_5131_21_Memories_of_the_,Trebuchet MS,10,&H00FFFFFC,&H000000FF,&H0040AB29,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+Style: sign_33925_315_Next_Time_Royal_,Trebuchet MS,15,&H00FAFFFF,&H000000FF,&H00CBB281,&H00BDB85F,0,0,0,0,100,100,0,0,1,2,1,2,30,30,20,1
+Style: sign_34045_321_Exciting_Bonus_M,Trebuchet MS,37,&H00C28D31,&H000000FF,&H00EAEAEA,&H00000000,-1,0,0,0,100,100,0,0,3,4,0,1,30,30,20,1
+Style: sign_34045_320_Spirit_Chronicle,Trebuchet MS,25,&H00DEEEEB,&H000000FF,&H00B98B31,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,30,30,20,1
+Style: sign_34045_323_By_Minazuki_Futa,Comic Sans MS,20,&H003A3A3A,&H000000FF,&H00EBEBEB,&H00000000,0,0,0,0,100,100,0,0,3,1,0,1,30,30,20,1
+Style: sign_34045_319_I_had_a_dream_th,Trebuchet MS,24,&H00141414,&H000000FF,&H00EBEBEB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+Style: sign_34127_328_Ha_ha,Verdana,20,&H00282828,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_34212_329_Meow,Verdana,40,&H00EAEAEA,&H000000FF,&H00181818,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+Style: sign_31638_280_No_Service,Arial,20,&H006E3828,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,20,1
+Style: sign_34166_323_Thank_you_for_wa,Comic Sans MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.88,0:00:02.85,main,Rio,0,0,0,,Professor...
+Dialogue: 0,0:00:02.85,0:00:04.58,main,Rio,0,0,0,,You're getting married, aren't you?
+Dialogue: 0,0:00:07.71,0:00:11.11,main,Celia,0,0,0,,This wedding is something \NI have agreed to, of course.
+Dialogue: 0,0:00:11.68,0:00:14.86,main,Rio,0,0,0,,Even though the person \Nyou're marrying... is Charles Arbor?
+Dialogue: 0,0:00:14.86,0:00:17.94,main,Celia,0,0,0,,Then, will you marry me instead, Rio?
+Dialogue: 0,0:00:17.94,0:00:23.37,main,Celia,0,0,0,,Or will you take me somewhere and\Nlive the rest of your life with me?
+Dialogue: 0,0:00:25.11,0:00:26.30,main,Charles,0,0,0,,Celia...
+Dialogue: 0,0:00:28.71,0:00:29.99,italics,Celia,0,0,0,,I am...
+Dialogue: 0,0:00:30.79,0:00:31.89,italics,Celia,0,0,0,,a doll.
+Dialogue: 0,0:00:34.93,0:00:36.09,main,soldier 1,0,0,0,,Halt!
+Dialogue: 0,0:00:37.26,0:00:38.68,main,soldier 2,0,0,0,,Seize him!
+Dialogue: 0,0:00:42.48,0:00:43.18,main,soldier 3,0,0,0,,You little...
+Dialogue: 0,0:00:43.85,0:00:45.15,main,soldier,0,0,0,,Who is this guy?
+Dialogue: 0,0:00:45.15,0:00:46.48,main,soldier,0,0,0,,Seize him! Now!
+Dialogue: 0,0:00:47.50,0:00:50.28,main,knight captain,0,0,0,,Fall back to the side and \Nform a single-file wall!
+Dialogue: 0,0:00:50.28,0:00:52.19,main,knight captain,0,0,0,,Don't let him get close!
+Dialogue: 0,0:00:57.72,0:00:59.62,main,knight captain,0,0,0,,Mage squad, contain him!
+Dialogue: 0,0:01:00.32,0:01:02.08,main,mages,0,0,0,,Photon Bullet!
+Dialogue: 0,0:01:13.09,0:01:13.92,main,knight captain,0,0,0,,This is bad!
+Dialogue: 0,0:01:14.28,0:01:15.97,main,knight captain,0,0,0,,Protect the bride and groom!
+Dialogue: 0,0:01:16.32,0:01:18.64,main,knights,0,0,0,,Enchant Physical Ability!
+Dialogue: 0,0:01:22.81,0:01:24.73,main,knight captain,0,0,0,,Encircle and capture him!
+Dialogue: 0,0:01:24.73,0:01:25.52,main,knights,0,0,0,,Sir!
+Dialogue: 0,0:01:26.18,0:01:28.65,main,Charles,0,0,0,,Everything is fine, Celia.
+Dialogue: 0,0:01:28.65,0:01:31.10,main,Charles,0,0,0,,This is just a nice show before the ceremony.
+Dialogue: 0,0:01:31.10,0:01:34.33,main,Charles,0,0,0,,They are the elite among \Nthe elite of our kingdom,
+Dialogue: 0,0:01:34.89,0:01:38.56,main,Charles,0,0,0,,the chosen few with proven \Npedigrees and skills.
+Dialogue: 0,0:01:43.72,0:01:47.66,main,Charles,0,0,0,,No lawless brigand could \Npossibly hope to topple...
+Dialogue: 0,0:02:02.68,0:02:03.68,main,Celia,0,0,0,,Um...
+Dialogue: 0,0:02:22.99,0:02:26.16,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\pos(345,125)\blur4\fad(897,1)}Seirei Gensouki
+Dialogue: 0,0:02:22.99,0:02:26.16,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\pos(345,125)\blur4\c&H7AFBFF&\clip(217,107,471,123)\fad(897,1)}Seirei Gensouki
+Dialogue: 0,0:03:39.51,0:03:40.78,main,Roland,0,0,0,,Celia!
+Dialogue: 0,0:03:40.78,0:03:43.16,main,Vanessa,0,0,0,,Count Claire, please wait!
+Dialogue: 0,0:03:43.72,0:03:45.34,main,Duke Arbor,0,0,0,,That fool.
+Dialogue: 0,0:03:45.34,0:03:47.83,main,Duke Arbor,0,0,0,,Bringing disgrace upon my house...
+Dialogue: 0,0:03:47.83,0:03:49.08,main,guard A,0,0,0,,Duke Arbor!
+Dialogue: 0,0:03:49.72,0:03:51.16,main,Roland,0,0,0,,Unhand me!
+Dialogue: 0,0:03:51.16,0:03:54.00,main,Roland,0,0,0,,The security for this was \Nsupposed to be flawless!
+Dialogue: 0,0:03:54.00,0:03:55.99,main,Vanessa,0,0,0,,We will do everything we can.
+Dialogue: 0,0:03:55.99,0:03:59.09,main,Vanessa,0,0,0,,So, please, don't provoke the insurgent.
+Dialogue: 0,0:03:59.73,0:04:00.76,main,Vanessa,0,0,0,,My lord Count!
+Dialogue: 0,0:04:04.02,0:04:05.23,main,Rio,0,0,0,,Professor Celia...
+Dialogue: 0,0:04:06.32,0:04:08.35,main,Rio,0,0,0,,I apologize for the disturbance,
+Dialogue: 0,0:04:08.35,0:04:11.85,main,Rio,0,0,0,,but while those around us are in turmoil, \NI'd like to explain the situation.
+Dialogue: 0,0:04:12.24,0:04:15.15,main,Rio,0,0,0,,If you would keep quiet for a little \Nwhile, it would be a great help.
+Dialogue: 0,0:04:15.15,0:04:17.71,main,Celia,0,0,0,,Rio, what is going on?
+Dialogue: 0,0:04:19.00,0:04:21.85,main,Rio,0,0,0,,I am speaking directly into your \Nconsciousness through telepathy.
+Dialogue: 0,0:04:22.37,0:04:27.58,main,Rio,0,0,0,,Focus your words in your mind\N and your voice will reach me.
+Dialogue: 0,0:04:28.04,0:04:29.62,main,Charles,0,0,0,,Y-You villain...
+Dialogue: 0,0:04:29.62,0:04:31.25,main,Charles,0,0,0,,What do you want here?
+Dialogue: 0,0:04:31.25,0:04:32.26,main,Rio,0,0,0,,Silence!
+Dialogue: 0,0:04:32.98,0:04:35.05,main,Rio,0,0,0,,I have a grievance with you!
+Dialogue: 0,0:04:35.05,0:04:38.78,main,Rio,0,0,0,,Maybe I'll just go ahead and \Ncrush your spine under my foot!
+Dialogue: 0,0:04:39.51,0:04:41.78,main,Celia,0,0,0,,H-Hold on, Rio!
+Dialogue: 0,0:04:41.78,0:04:46.07,main,Rio,0,0,0,,I won't kill anyone. This is an act,\N part of the disturbance.
+Dialogue: 0,0:04:46.46,0:04:47.97,main,Celia,0,0,0,,A-All right...
+Dialogue: 0,0:04:48.92,0:04:53.43,italics,Charles,0,0,0,,Why is he... so strong?
+Dialogue: 0,0:04:54.20,0:04:57.94,main,Rio,0,0,0,,We don't have much time. \NI'll finish explaining quickly.
+Dialogue: 0,0:04:55.66,0:04:57.94,top,Alfred; background,0,0,0,,Take the guests into the inner sanctum.
+Dialogue: 0,0:04:58.28,0:05:02.23,main,Rio,0,0,0,,Before you are wed, I want to ask \Nonce more, what is your will?
+Dialogue: 0,0:05:02.23,0:05:06.51,main,Celia,0,0,0,,Just for that, you've done all this...\N I told you already! I...
+Dialogue: 0,0:05:06.95,0:05:09.89,main,Rio,0,0,0,,I said I want to know your will, Professor.
+Dialogue: 0,0:05:10.58,0:05:14.96,main,Rio,0,0,0,,You're being half-threatened into this \Nby Duke Arbor's house, aren't you?
+Dialogue: 0,0:05:15.96,0:05:17.95,main,Duke Arbor,0,0,0,,What is the security team doing?!
+Dialogue: 0,0:05:20.84,0:05:24.84,main,Rio,0,0,0,,If you wish it, Professor, \NI will put an end to this wedding.
+Dialogue: 0,0:05:26.36,0:05:27.51,main,Celia,0,0,0,,You're being domineering!
+Dialogue: 0,0:05:27.51,0:05:31.84,main,Rio,0,0,0,,I know full well that I'm being \Ndomineering and arrogant.
+Dialogue: 0,0:05:31.84,0:05:35.23,main,Rio,0,0,0,,But, Professor, you are precious \Nto me. I owe you so much.
+Dialogue: 0,0:05:36.38,0:05:39.82,main,Rio,0,0,0,,I don't want to just dstand by \Nand lose what's important to me!
+Dialogue: 0,0:05:40.14,0:05:42.75,main,Rio,0,0,0,,I know I'd regret it for the rest of my life.
+Dialogue: 0,0:05:51.98,0:05:55.07,main,Rio,0,0,0,,Once something is lost, \Nit will never come back,
+Dialogue: 0,0:05:55.61,0:05:58.12,main,Rio,0,0,0,,but if you haven't lost it yet, \Nthen there's still time!
+Dialogue: 0,0:05:58.12,0:06:03.63,main,Rio,0,0,0,,I see a future where your dignity will \Nbe trampled on for the rest of your life.
+Dialogue: 0,0:06:04.05,0:06:05.68,main,Rio,0,0,0,,I wouldn't be able stand that.
+Dialogue: 0,0:06:07.35,0:06:10.15,main,Rio,0,0,0,,Professor, will this marriage make you happy?
+Dialogue: 0,0:06:13.88,0:06:17.18,main,Celia,0,0,0,,If I put my own feelings before all else,
+Dialogue: 0,0:06:17.18,0:06:20.69,main,Celia,0,0,0,,I may cause trouble for others.
+Dialogue: 0,0:06:20.69,0:06:23.89,main,Celia,0,0,0,,Would that... be the right thing to do?
+Dialogue: 0,0:06:25.57,0:06:26.68,main,Rio,0,0,0,,I don't know.
+Dialogue: 0,0:06:27.64,0:06:31.61,main,Rio,0,0,0,,But if this wedding were \Ntruly the right thing to do,
+Dialogue: 0,0:06:32.08,0:06:34.08,main,Rio,0,0,0,,then you wouldn't have that look on your face.
+Dialogue: 0,0:06:35.73,0:06:38.30,main,Rio,0,0,0,,Professor, I will make your wish come true.
+Dialogue: 0,0:06:38.30,0:06:40.85,main,Rio,0,0,0,,So, please, don't give up!
+Dialogue: 0,0:06:41.60,0:06:45.98,main,Celia,0,0,0,,If I say I don't want to get married, \Nwhat are you planning to do?
+Dialogue: 0,0:06:46.67,0:06:49.68,main,Rio,0,0,0,,I will take you and run away from this place.
+Dialogue: 0,0:06:50.01,0:06:53.85,main,Rio,0,0,0,,That way, no one would question whether \NCount Claire was involved, right?
+Dialogue: 0,0:06:55.01,0:06:56.43,main,Celia,0,0,0,,Why would that...
+Dialogue: 0,0:06:59.23,0:07:01.81,main,Celia,0,0,0,,Rio, they'll catch you.
+Dialogue: 0,0:07:02.60,0:07:07.03,main,Rio,0,0,0,,Don't worry. I will make your \Nwish come true, Professor.
+Dialogue: 0,0:07:07.45,0:07:11.66,main,Rio,0,0,0,,Though that isn't something someone holding \Na knife to your throat should be saying.
+Dialogue: 0,0:07:15.42,0:07:16.44,main,Celia,0,0,0,,Rio...
+Dialogue: 0,0:07:17.66,0:07:20.66,main,Celia,0,0,0,,I... want you to take me away.
+Dialogue: 0,0:07:24.06,0:07:25.59,main,Rio,0,0,0,,Leave it to me.
+Dialogue: 0,0:07:26.00,0:07:26.96,main,Rio,0,0,0,,I've decided!
+Dialogue: 0,0:07:26.96,0:07:28.13,main,Rio,0,0,0,,I made up my mind!
+Dialogue: 0,0:07:28.13,0:07:29.34,main,Rio,0,0,0,,Feel the humiliation!
+Dialogue: 0,0:07:29.65,0:07:33.05,main,Rio,0,0,0,,I will abduct your bride \Nright before everyone's eyes!
+Dialogue: 0,0:07:36.41,0:07:37.68,main,Rio,0,0,0,,Here we go.
+Dialogue: 0,0:07:42.04,0:07:43.06,main,Charles,0,0,0,,Celia!
+Dialogue: 0,0:07:44.01,0:07:46.00,main,Celia,0,0,0,,L-Lord Charles!
+Dialogue: 0,0:07:46.00,0:07:47.73,main,Roland,0,0,0,,C-Celia!
+Dialogue: 0,0:07:48.02,0:07:50.85,italics,Celia,0,0,0,,I-I'm so sorry, father.
+Dialogue: 0,0:07:51.17,0:07:53.70,italics,Celia,0,0,0,,I promise I'll see you again.
+Dialogue: 0,0:07:55.45,0:07:58.20,main,Charles,0,0,0,,What are you doing? Hurry up and capture him!
+Dialogue: 0,0:07:58.20,0:08:00.08,main,section commander,0,0,0,,All troops, after him!
+Dialogue: 0,0:08:00.08,0:08:00.95,main,Alfred,0,0,0,,Hold!
+Dialogue: 0,0:08:01.46,0:08:02.96,main,Alfred,0,0,0,,Do not break formation!
+Dialogue: 0,0:08:02.96,0:08:05.71,main,Charles,0,0,0,,You lot, catch him immediately!
+Dialogue: 0,0:08:05.71,0:08:07.05,main,section commander,0,0,0,,Charge!
+Dialogue: 0,0:08:07.05,0:08:08.21,main,soldiers,0,0,0,,Sir!
+Dialogue: 0,0:08:08.21,0:08:09.21,main,Alfred,0,0,0,,It can't be!
+Dialogue: 0,0:08:10.00,0:08:10.55,main,section commander,0,0,0,,What?
+Dialogue: 0,0:08:13.01,0:08:14.47,main,section commander,0,0,0,,H-Halt!
+Dialogue: 0,0:08:14.47,0:08:16.69,main,Charles,0,0,0,,Wh-What are you doing?
+Dialogue: 0,0:08:16.69,0:08:18.25,main,Charles,0,0,0,,Are you all incompetent?
+Dialogue: 0,0:08:18.25,0:08:20.22,main,Alfred,0,0,0,,This was his intent from the beginning.
+Dialogue: 0,0:08:20.65,0:08:23.98,main,Alfred,0,0,0,,Didn't you see his jumping \Nability when he charged in?
+Dialogue: 0,0:08:25.23,0:08:26.69,main,mages,0,0,0,,Photon Bullet!
+Dialogue: 0,0:08:31.71,0:08:32.95,italics,Reiss,0,0,0,,What's this?
+Dialogue: 0,0:08:32.95,0:08:36.89,italics,Reiss,0,0,0,,I thought he was using some kind \Nof magic item, but... spirit arts?
+Dialogue: 0,0:08:37.39,0:08:39.87,italics,Reiss,0,0,0,,Could he have been the one back then...
+Dialogue: 0,0:08:48.13,0:08:51.88,italics,Reiss,0,0,0,,He's gotten stronger since \Nthe last time I saw him.
+Dialogue: 0,0:08:51.88,0:08:54.93,italics,Reiss,0,0,0,,In that case, how about this?
+Dialogue: 0,0:09:00.01,0:09:01.52,main,Charles,0,0,0,,Celia!
+Dialogue: 0,0:09:05.93,0:09:07.13,italics,Reiss,0,0,0,,Impressive.
+Dialogue: 0,0:09:07.63,0:09:09.32,main,Charles,0,0,0,,What are you doing?
+Dialogue: 0,0:09:09.32,0:09:12.36,main,Charles,0,0,0,,Stop firing! What if you hit Celia?
+Dialogue: 0,0:09:14.36,0:09:16.87,main,Charles,0,0,0,,After him! Catch him!
+Dialogue: 0,0:09:16.87,0:09:18.04,main,Alfred,0,0,0,,Everyone, listen up!
+Dialogue: 0,0:09:19.45,0:09:22.92,main,Alfred,0,0,0,,Our Aerial Knights are now in pursuit.
+Dialogue: 0,0:09:23.34,0:09:27.71,main,Alfred,0,0,0,,All forces will now immediately spread \Nout in a net that encircles the capital!
+Dialogue: 0,0:09:27.71,0:09:29.88,main,troops,0,0,0,,S-Sir! Right away!
+Dialogue: 0,0:09:30.31,0:09:34.18,main,Alfred,0,0,0,,And I will leave the security of \Nthese grounds to you, Vanessa.
+Dialogue: 0,0:09:35.17,0:09:37.25,main,Alfred,0,0,0,,Coordinate between the captains of each unit.
+Dialogue: 0,0:09:37.63,0:09:38.93,main,Alfred,0,0,0,,Show me how well you keep things moving.
+Dialogue: 0,0:09:38.93,0:09:41.90,main,Vanessa,0,0,0,,Sir! Understood, Elder Brother!
+Dialogue: 0,0:09:41.90,0:09:43.60,main,Charles,0,0,0,,Alfred!
+Dialogue: 0,0:09:43.60,0:09:48.23,main,Charles,0,0,0,,You've let the raider get away. \NWho gave you permission to take command?!
+Dialogue: 0,0:09:49.54,0:09:53.19,main,Alfred,0,0,0,,More importantly, do you have any \Nidea who the insurgent might be?
+Dialogue: 0,0:09:56.04,0:09:58.45,main,Charles,0,0,0,,He said he had a grievance with me.
+Dialogue: 0,0:09:58.68,0:10:01.45,main,Alfred,0,0,0,,It sounds like there may be a lot of candidates.
+Dialogue: 0,0:10:01.45,0:10:03.18,main,Charles,0,0,0,,S-Silence!
+Dialogue: 0,0:10:03.18,0:10:05.20,main,Charles,0,0,0,,You go and chase him, too! Immediately!
+Dialogue: 0,0:10:05.20,0:10:06.81,main,Charles,0,0,0,,Catch him and bring him back!
+Dialogue: 0,0:10:06.81,0:10:08.25,main,Alfred,0,0,0,,That is my intent.
+Dialogue: 0,0:10:08.25,0:10:09.10,main,Alfred,0,0,0,,Well, then...
+Dialogue: 0,0:10:11.71,0:10:12.76,main,Charles,0,0,0,,Blast.
+Dialogue: 0,0:10:12.76,0:10:15.80,main,Charles,0,0,0,,Blast. Blast! Blast him!
+Dialogue: 0,0:10:16.07,0:10:19.58,italics,Reiss,0,0,0,,This has become quite an \Nentertaining situation,
+Dialogue: 0,0:10:19.58,0:10:21.80,italics,Reiss,0,0,0,,but with the protections afforded \Nto me as an ambassador,
+Dialogue: 0,0:10:22.02,0:10:24.81,italics,Reiss,0,0,0,,I suppose I shouldn't slip away from here.
+Dialogue: 0,0:10:25.05,0:10:31.71,italics,Reiss,0,0,0,,I am very interested in him, and that \Nspirit that never showed itself, though.
+Dialogue: 0,0:10:38.63,0:10:40.24,main,Celia,0,0,0,,W-Wait, Rio!
+Dialogue: 0,0:10:40.52,0:10:43.62,main,Celia,0,0,0,,This is fast. We're going \Nvery fast, aren't we?
+Dialogue: 0,0:10:43.62,0:10:46.76,main,Rio,0,0,0,,Yes. Please be sure to hold on tightly.
+Dialogue: 0,0:10:47.21,0:10:52.65,main,Rio,0,0,0,,I'd rather not deal with griffin unit, \Nso I'm going to go a little faster.
+Dialogue: 0,0:10:53.26,0:10:55.00,main,Celia,0,0,0,,A-All right.
+Dialogue: 0,0:10:57.33,0:11:00.09,main,Celia,0,0,0,,You've grown into quite an impressive boy.
+Dialogue: 0,0:11:00.61,0:11:02.34,main,Rio,0,0,0,,Thank you very much.
+Dialogue: 0,0:11:02.34,0:11:05.04,main,Rio,0,0,0,,Have you gotten a little \Nmore used to this speed?
+Dialogue: 0,0:11:05.04,0:11:08.35,main,Celia,0,0,0,,Yup! If you can go faster, bring it on!
+Dialogue: 0,0:11:08.35,0:11:09.23,main,Celia,0,0,0,,Huh?
+Dialogue: 0,0:11:09.47,0:11:11.51,main,Celia,0,0,0,,Did you hear that just now, too?
+Dialogue: 0,0:11:11.51,0:11:13.27,main,Rio,0,0,0,,Then I'll take you at your word.
+Dialogue: 0,0:11:18.04,0:11:21.85,main,Rio,0,0,0,,Even if I keep running like this, \Nit will take time to shake them off,
+Dialogue: 0,0:11:21.85,0:11:23.40,main,Rio,0,0,0,,so we'll head down for a moment.
+Dialogue: 0,0:11:23.84,0:11:27.33,main,Rio,0,0,0,,I'll be passing on the baton, \Nso we'll meet up again later.
+Dialogue: 0,0:11:28.08,0:11:33.17,main,Celia,0,0,0,,P-Passing on the baton? And what \Ndo you mean, "meet up later"?
+Dialogue: 0,0:11:33.52,0:11:35.01,main,Rio,0,0,0,,It's part of the plan.
+Dialogue: 0,0:11:35.01,0:11:37.17,main,Rio,0,0,0,,The truth is, I have someone helping me.
+Dialogue: 0,0:11:37.17,0:11:39.74,main,Rio,0,0,0,,The girl who first spoke \Nto you telepathically.
+Dialogue: 0,0:11:49.74,0:11:50.70,main,Rio,0,0,0,,Aishia!
+Dialogue: 0,0:11:54.63,0:11:55.92,main,Rio,0,0,0,,Then, just as we planned it.
+Dialogue: 0,0:11:56.36,0:11:57.46,main,Aishia,0,0,0,,Understood.
+Dialogue: 0,0:11:57.46,0:11:58.66,main,Celia,0,0,0,,Wh-What?
+Dialogue: 0,0:11:58.66,0:12:00.69,main,Celia,0,0,0,,Wait! What's going on?
+Dialogue: 0,0:12:01.29,0:12:04.19,main,Rio,0,0,0,,I'll play decoy and buy some time.
+Dialogue: 0,0:12:04.19,0:12:09.07,main,Rio,0,0,0,,Professor, you and she will use this chance \Nto escape the royal capital together.
+Dialogue: 0,0:12:09.62,0:12:11.46,main,Rio,0,0,0,,I promise I will meet up with you later.
+Dialogue: 0,0:12:11.46,0:12:14.10,main,Rio,0,0,0,,And to explain about this girl...
+Dialogue: 0,0:12:14.54,0:12:16.21,main,Aishia,0,0,0,,I'll explain on the way.
+Dialogue: 0,0:12:16.48,0:12:17.99,main,Rio,0,0,0,,That's that.
+Dialogue: 0,0:12:17.99,0:12:19.76,main,Rio,0,0,0,,Look after her for me.
+Dialogue: 0,0:12:19.76,0:12:21.47,main,Celia,0,0,0,,W-Wait, Rio!
+Dialogue: 0,0:12:21.47,0:12:22.67,main,Celia,0,0,0,,I...
+Dialogue: 0,0:12:25.21,0:12:26.82,main,Aishia,0,0,0,,Shall we go, Celia?
+Dialogue: 0,0:12:27.30,0:12:28.51,main,Celia,0,0,0,,Yes.
+Dialogue: 0,0:12:32.30,0:12:33.52,main,aerial knight 1,0,0,0,,There he is!
+Dialogue: 0,0:12:33.90,0:12:36.86,main,aerial knight 2,0,0,0,,But I don't see Lady Celia!
+Dialogue: 0,0:12:37.50,0:12:39.85,main,aerial knight captain,0,0,0,,The alley he came out of is a dead end!
+Dialogue: 0,0:12:39.85,0:12:41.40,main,aerial knight captain,0,0,0,,Inform the teams on the ground!
+Dialogue: 0,0:12:41.40,0:12:42.40,main,aerial knight captain,0,0,0,,Send up a flare!
+Dialogue: 0,0:12:42.40,0:12:43.26,main,aerial knight 1,0,0,0,,Sir!
+Dialogue: 0,0:12:44.40,0:12:45.82,main,aerial knight 1,0,0,0,,Signal Flare!
+Dialogue: 0,0:12:49.24,0:12:52.29,italics,Rio,0,0,0,,They've called for reinforcements. \NIt's going just as we planned.
+Dialogue: 0,0:12:52.80,0:12:55.58,italics,Rio,0,0,0,,All that's left is for me to make \Na big show in drawing them away.
+Dialogue: 0,0:12:55.91,0:12:57.58,main,aerial knights,0,0,0,,Blitz Shot!
+Dialogue: 0,0:13:09.09,0:13:10.85,main,aerial knight 2,0,0,0,,He's so quick at evading!
+Dialogue: 0,0:13:10.85,0:13:12.76,main,aerial knight captain,0,0,0,,Continue the attack!
+Dialogue: 0,0:13:12.76,0:13:14.37,main,aerial knights,0,0,0,,Blitz Shot!
+Dialogue: 0,0:13:21.48,0:13:23.82,main,knight 7,0,0,0,,Over there! Let's go!
+Dialogue: 0,0:13:25.41,0:13:26.36,main,Rio,0,0,0,,Like I'd let you!
+Dialogue: 0,0:13:48.09,0:13:50.05,italics,Rio,0,0,0,,There really are a lot of them.
+Dialogue: 0,0:13:59.77,0:14:01.54,main,knight 7,0,0,0,,Don't give him a chance to rest!
+Dialogue: 0,0:14:01.54,0:14:04.94,main,knight 7,0,0,0,,Reinforcements are coming. \NLet's wear him down as much as we can!
+Dialogue: 0,0:14:04.94,0:14:06.13,main,knights,0,0,0,,Let's do it!
+Dialogue: 0,0:14:06.49,0:14:09.87,italics,Rio,0,0,0,,Not killing anyone... \Nmight be making this tougher.
+Dialogue: 0,0:14:11.15,0:14:11.83,italics,Rio,0,0,0,,But...
+Dialogue: 0,0:14:12.16,0:14:15.50,italics,Rio,0,0,0,,I just told Professor Celia not to give up.
+Dialogue: 0,0:14:15.73,0:14:17.30,italics,Rio,0,0,0,,I can't give up now!
+Dialogue: 0,0:14:17.30,0:14:18.79,main,Alfred,0,0,0,,That's as far as you go.
+Dialogue: 0,0:14:18.79,0:14:21.00,main,Alfred,0,0,0,,I will now restrain you.
+Dialogue: 0,0:14:21.63,0:14:23.00,main,knights,0,0,0,,Lord Alfred!
+Dialogue: 0,0:14:23.46,0:14:24.84,italics,Rio,0,0,0,,Alfred?
+Dialogue: 0,0:14:24.84,0:14:27.55,italics,Rio,0,0,0,,He's the one they call the \NKing's Sword, isn't he?
+Dialogue: 0,0:14:31.94,0:14:33.53,main,Alfred,0,0,0,,You will only add to the number of injured.
+Dialogue: 0,0:14:34.26,0:14:35.98,main,Alfred,0,0,0,,All of you, stand back.
+Dialogue: 0,0:14:35.98,0:14:36.85,main,knights,0,0,0,,Sir!
+Dialogue: 0,0:14:54.15,0:14:55.74,italics,Rio,0,0,0,,He's strong.
+Dialogue: 0,0:15:10.45,0:15:14.05,italics,Rio,0,0,0,,There's some kind of powerful \Nmagic formula cast on that sword.
+Dialogue: 0,0:15:34.02,0:15:36.99,main,knight 7,0,0,0,,L-Lord Alfred is being pushed back...
+Dialogue: 0,0:15:49.30,0:15:51.34,main,Alfred,0,0,0,,Why do you not turn your blades on me?
+Dialogue: 0,0:15:53.87,0:15:55.51,main,Alfred,0,0,0,,It seems you underestimate me.
+Dialogue: 0,0:15:55.91,0:15:57.65,main,Alfred,0,0,0,,But that ends now.
+Dialogue: 0,0:16:21.33,0:16:22.53,main,aerial knight captain,0,0,0,,Lord Alfred!
+Dialogue: 0,0:16:23.39,0:16:26.25,main,aerial knight captain,0,0,0,,I don't see the insurgent anywhere.\N What happened to him?
+Dialogue: 0,0:16:27.20,0:16:30.90,italics,Alfred,0,0,0,,If he took the full force of the blow, \Nnot a trace of him would be left, but...
+Dialogue: 0,0:16:32.11,0:16:33.99,italics,Alfred,0,0,0,,I didn't feel it hit him.
+Dialogue: 0,0:16:34.66,0:16:36.72,italics,Alfred,0,0,0,,And there's evidence he \Nfled into the back streets.
+Dialogue: 0,0:16:37.04,0:16:39.22,main,Alfred,0,0,0,,Just to be sure, search the surrounding area!
+Dialogue: 0,0:16:40.07,0:16:41.78,main,Alfred,0,0,0,,And we'll look for Miss Celia as well!
+Dialogue: 0,0:16:41.78,0:16:42.56,main,knights,0,0,0,,Sir!
+Dialogue: 0,0:17:15.59,0:17:19.26,main,Celia,0,0,0,,Aishia... Rio is all right, isn't he?
+Dialogue: 0,0:17:20.44,0:17:22.77,main,Aishia,0,0,0,,He's fine. He's almost here.
+Dialogue: 0,0:17:30.25,0:17:31.23,main,Celia,0,0,0,,Aishia?
+Dialogue: 0,0:17:31.23,0:17:33.15,main,Celia,0,0,0,,Is he really all right?
+Dialogue: 0,0:17:33.68,0:17:35.26,main,Rio,0,0,0,,I've just returned.
+Dialogue: 0,0:17:43.17,0:17:44.87,main,Celia,0,0,0,,Rio! I'm so glad!
+Dialogue: 0,0:17:48.35,0:17:52.65,main,Rio,0,0,0,,I know I worried you, but everything \Nis all right now, Professor.
+Dialogue: 0,0:17:53.50,0:17:54.86,main,Celia,0,0,0,,Y-Yes.
+Dialogue: 0,0:17:56.22,0:17:58.28,main,Celia,0,0,0,,Rio, you aren't hurt, are you?
+Dialogue: 0,0:17:58.28,0:17:59.42,main,Rio,0,0,0,,No, I'm not.
+Dialogue: 0,0:17:59.42,0:18:00.47,main,Rio,0,0,0,,And Aishia...
+Dialogue: 0,0:18:00.73,0:18:01.91,main,Rio,0,0,0,,Thank you.
+Dialogue: 0,0:18:01.91,0:18:05.67,main,Aishia,0,0,0,,Not at all. I didn't do \Nanything of importance.
+Dialogue: 0,0:18:06.07,0:18:08.10,main,Rio,0,0,0,,Well, shall we go?
+Dialogue: 0,0:18:08.56,0:18:09.47,main,Celia,0,0,0,,Yes.
+Dialogue: 0,0:18:11.82,0:18:13.15,main,Celia,0,0,0,,Is this really all right?
+Dialogue: 0,0:18:13.49,0:18:14.97,main,Rio,0,0,0,,Do you want to go back?
+Dialogue: 0,0:18:15.60,0:18:17.71,main,Rio,0,0,0,,You could still make it in time, but...
+Dialogue: 0,0:18:17.71,0:18:19.99,main,Celia,0,0,0,,What? N-No!
+Dialogue: 0,0:18:21.39,0:18:26.00,main,Celia,0,0,0,,I was just thinking it doesn't \Nfeel real, that's all.
+Dialogue: 0,0:18:26.52,0:18:31.96,main,Celia,0,0,0,,After all, for a moment my future was \Nso bleak, I thought my life was over.
+Dialogue: 0,0:18:33.41,0:18:36.98,main,Celia,0,0,0,,But you're here with me now, Rio.
+Dialogue: 0,0:18:37.45,0:18:40.97,main,Celia,0,0,0,,Thank you, Rio, for kidnapping me!
+Dialogue: 0,0:18:41.58,0:18:42.97,main,Rio,0,0,0,,You're very welcome.
+Dialogue: 0,0:18:44.56,0:18:47.69,main,Celia,0,0,0,,We'll have to think about \Nwhat we're going to do next.
+Dialogue: 0,0:18:48.71,0:18:50.38,main,Rio,0,0,0,,Yes, that's true.
+Dialogue: 0,0:18:51.60,0:18:55.48,main,Rio,0,0,0,,Professor Celia, I have something \NI absolutely must do.
+Dialogue: 0,0:18:57.94,0:19:01.96,main,Rio,0,0,0,,But I won't let you suffer for lack of \Nanything when it comes to daily necessities.
+Dialogue: 0,0:19:01.96,0:19:03.49,main,Rio,0,0,0,,Rest assured on that point.
+Dialogue: 0,0:19:05.56,0:19:06.62,main,Celia,0,0,0,,I see.
+Dialogue: 0,0:19:07.58,0:19:10.43,main,Celia,0,0,0,,Well then, I suppose I'll take \Nyou up on that for a while.
+Dialogue: 0,0:19:11.16,0:19:14.42,main,Celia,0,0,0,,I am inexperienced and inept, \Nbut I hope you will look on me kindly.
+Dialogue: 0,0:19:14.84,0:19:17.93,main,Rio,0,0,0,,I am the one who hopes you \Nwill look on me kindly.
+Dialogue: 0,0:19:18.79,0:19:19.91,main,Celia,0,0,0,,And...
+Dialogue: 0,0:19:19.91,0:19:23.93,main,Celia,0,0,0,,Let's talk a lot to make up for all \Nthe time we didn't see each other!
+Dialogue: 0,0:19:24.31,0:19:25.93,main,Rio,0,0,0,,Yes, let's!
+Dialogue: 0,0:19:26.33,0:19:27.27,italics,Aishia,0,0,0,,It's coming.
+Dialogue: 0,0:20:04.57,0:20:05.51,main,Rio,0,0,0,,Aishia?
+Dialogue: 0,0:20:07.45,0:20:10.02,main,Aishia,0,0,0,,Haruto, please, help them!
+Dialogue: 0,0:20:10.02,0:20:10.90,main,Rio,0,0,0,,What?
+Dialogue: 0,0:20:11.52,0:20:13.52,main,Aishia,0,0,0,,I will protect Celia.
+Dialogue: 0,0:20:14.08,0:20:15.07,main,Aishia,0,0,0,,Please!
+Dialogue: 0,0:21:50.26,0:21:52.33,main,Aki,0,0,0,,Masato, where are we?
+Dialogue: 0,0:21:52.33,0:21:53.54,main,Masato,0,0,0,,Don't ask me!
+Dialogue: 0,0:21:53.95,0:21:58.93,main,Miharu,0,0,0,,W-Well... for now, shall we \Ntry to find out where we are?
+Dialogue: 0,0:21:59.54,0:22:02.55,sign_31638_280_No_Service,text,0,0,0,,No Service
+Dialogue: 0,0:21:59.99,0:22:01.23,main,Miharu,0,0,0,,No service?
+Dialogue: 0,0:22:06.05,0:22:07.24,main,Masato,0,0,0,,That hurts!
+Dialogue: 0,0:22:06.05,0:22:07.24,main,Aki,0,0,0,,No!
+Dialogue: 0,0:22:07.24,0:22:08.48,main,Miharu,0,0,0,,Masato-kun!
+Dialogue: 0,0:22:07.82,0:22:09.93,top,Aki,0,0,0,,No! Someone, help!
+Dialogue: 0,0:22:08.48,0:22:09.93,top,Masato,0,0,0,,Aki-neechan!
+Dialogue: 0,0:22:09.02,0:22:11.93,main,Miharu,0,0,0,,Please, don't do anything \Nhorrible with those children!
+Dialogue: 0,0:22:12.33,0:22:15.06,top,man,0,0,0,,You go in a different cart. This way.
+Dialogue: 0,0:22:18.75,0:22:22.36,top,Rio,0,0,0,,One of your guards was carrying this.
+Dialogue: 0,0:22:22.36,0:22:24.96,top,man with hat,0,0,0,,What is that thing? \NDon't know anything about it.
+Dialogue: 0,0:22:25.31,0:22:27.36,main,Aki,0,0,0,,Someone, help us!
+Dialogue: 0,0:22:27.36,0:22:28.53,italics,Rio,0,0,0,,Japanese?
+Dialogue: 0,0:22:28.84,0:22:31.62,main,Aki,0,0,0,,Please! Let us out of here!
+Dialogue: 0,0:22:43.82,0:22:45.51,main,Rio,0,0,0,,Is it just the two of you?
+Dialogue: 0,0:22:46.34,0:22:48.67,main,Aki,0,0,0,,You speak Japanese?
+Dialogue: 0,0:22:49.18,0:22:50.68,main,Masato,0,0,0,,There's one more.
+Dialogue: 0,0:23:03.87,0:23:06.94,flashback,Haruto; 7 yo,0,0,0,,That way we can always be \Ntogether, side by side...
+Dialogue: 0,0:23:06.94,0:23:09.61,flashback,Haruto; 7 yo,0,0,0,,Even if I die, I'll protect you, Mii-chan!
+Dialogue: 0,0:23:10.28,0:23:12.49,flashback,Haruto; 7 yo,0,0,0,,Or, do you not want to...
+Dialogue: 0,0:23:13.38,0:23:14.93,main,Rio,0,0,0,,You're...
+Dialogue: 0,0:23:14.93,0:23:18.97,main,Miharu,0,0,0,,Th-Thank you so much for saving us.
+Dialogue: 0,0:23:19.42,0:23:22.50,main,Miharu,0,0,0,,My name is Ayase Miharu.
+Dialogue: 0,0:23:30.07,0:23:34.97,sign_5131_21_Memories_of_the_,text,0,0,0,,{\blur3\fad(505,1)\pos(520,295)}Fated Reunion
+Dialogue: 0,0:23:30.07,0:23:34.97,sign_5131_21_Memories_of_the_,text,0,0,0,,{\blur3\fad(505,1)\c&H97FFEC&\pos(520,295)\clip(486,291,552,298)}Fated Reunion
+Dialogue: 0,0:23:34.97,0:23:37.08,sign_34045_320_Spirit_Chronicle,text; yellow,0,0,0,,{\fsp3\fad(1,120)\an7\pos(39,21)}Spirit Chronicles
+Dialogue: 0,0:23:34.97,0:23:37.08,sign_34045_320_Spirit_Chronicle,text; yellow,0,0,0,,{\fsp3\c&H63E9E9&\fad(1,120)\an7\clip(m 34 38 l 262 38 261 54 34 53)\pos(39,21)}Spirit Chronicles
+Dialogue: 0,0:23:34.97,0:23:37.08,sign_34045_321_Exciting_Bonus_M,text; blue,0,0,0,,{\fad(1,120)\an7\pos(36,55)}Exciting Bonus Manga
+Dialogue: 0,0:23:34.97,0:23:37.49,Default,text; bubble,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 557 41 l 593 40 592 131 560 131
+Dialogue: 0,0:23:34.97,0:23:37.49,sign_34045_319_I_had_a_dream_th,text; bubble,0,0,0,,{\pos(575,70)\fs22}You're...
+Dialogue: 0,0:23:34.97,0:23:45.00,sign_34045_323_By_Minazuki_Futa,text; black,0,0,0,,{\an1\pos(450,323)}By Minazuki Futago
+Dialogue: 0,0:23:37.49,0:23:39.50,Default,text; bubble,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 547 8 l 614 8 609 133 571 177 549 165
+Dialogue: 0,0:23:37.49,0:23:39.50,sign_34045_319_I_had_a_dream_th,text; bubble,0,0,0,,{\pos(575,60)}Yes! \NCelia here!
+Dialogue: 0,0:23:39.50,0:23:42.00,Default,text; bubble,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 571 11 l 619 11 617 143 596 160 578 147
+Dialogue: 0,0:23:39.50,0:23:42.00,sign_34045_319_I_had_a_dream_th,text; bubble,0,0,0,,{\pos(590,75)}Aishia...
+Dialogue: 0,0:23:39.91,0:23:42.00,sign_34127_328_Ha_ha,text; sfx,0,0,0,,{\an8\pos(240,85)\fad(50,1)}Hiss
+Dialogue: 0,0:23:42.00,0:23:45.00,Default,text; bubble,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 548 17 l 616 17 615 164 556 164
+Dialogue: 0,0:23:42.00,0:23:45.00,sign_34045_319_I_had_a_dream_th,text; bubble,0,0,0,,{\pos(575,65)}Ha ha ha...\NIt's so lively\N here.
+Dialogue: 0,0:23:42.00,0:23:45.00,sign_34127_328_Ha_ha,text; aside; above Celia,0,0,0,,{\frz0\pos(215,85)}Rio
+Dialogue: 0,0:23:42.00,0:23:45.00,sign_34127_328_Ha_ha,text; aside; above Celia,0,0,0,,{\frz-17.1\pos(272,79)}Rio
+Dialogue: 0,0:23:42.00,0:23:45.00,sign_34127_328_Ha_ha,text; aside; above Aishia,0,0,0,,{\an7\fs15\bord2)\3c&HE7EAE7&}Haruto... I'm sorry, it's too early...
+Dialogue: 0,0:23:42.00,0:23:45.00,sign_34127_328_Ha_ha,text; aside; by Latifa,0,0,0,,{\pos(185,350)\fs15\bord2)\3c&HE7EAE7&}Onii-chan
+Dialogue: 0,0:23:45.00,0:23:50.25,sign_5131_21_Memories_of_the_,text,0,0,0,,{\pos(555,295)\blur3}Seirei Gensouki:\NSpirit Chronicles
+Dialogue: 0,0:23:45.00,0:23:50.25,sign_5131_21_Memories_of_the_,text,0,0,0,,{\pos(555,295)\blur3\c&H97FFEC&\clip(509,290,602,299)}Seirei Gensouki:\NSpirit Chronicles
+Dialogue: 0,0:23:45.00,0:23:50.25,sign_34166_323_Thank_you_for_wa,text,0,0,0,,{\pos(380,125)}Thank you for watching

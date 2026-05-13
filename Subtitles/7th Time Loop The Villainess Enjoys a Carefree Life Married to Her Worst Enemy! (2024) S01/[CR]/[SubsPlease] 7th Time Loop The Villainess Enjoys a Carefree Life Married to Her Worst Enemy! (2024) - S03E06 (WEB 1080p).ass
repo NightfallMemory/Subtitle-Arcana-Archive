@@ -1,0 +1,362 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.43,0:00:13.03,main,Theodore,0,0,0,,Hello, dear sister.
+Dialogue: 0,0:00:13.60,0:00:15.17,main,Theodore,0,0,0,,How are you feeling?
+Dialogue: 0,0:00:15.99,0:00:19.92,main,Theodore,0,0,0,,Getting kidnapped by the maid you took \Nsuch good care of... You poor thing.
+Dialogue: 0,0:00:21.68,0:00:23.82,main,Rishe,0,0,0,,Why would you do something like this?
+Dialogue: 0,0:00:24.25,0:00:27.39,main,Theodore,0,0,0,,To make my dear brother angry, of course.
+Dialogue: 0,0:00:29.31,0:00:32.56,main,Theodore,0,0,0,,Up until now, my brother hasn't \Npaid any attention to me.
+Dialogue: 0,0:00:32.56,0:00:36.09,main,Theodore,0,0,0,,It's was only when I interacted \Nwith you that he looked at me.
+Dialogue: 0,0:00:36.56,0:00:40.56,main,Theodore,0,0,0,,When my brother is angry, \Nhis emotions turn toward me.
+Dialogue: 0,0:00:41.00,0:00:43.69,main,Theodore,0,0,0,,That realization gave me a sense \Nof peace deep within my heart.
+Dialogue: 0,0:00:46.43,0:00:49.23,top,Rishe,0,0,0,,You want to be closer to your older \Nbrother, don't you, Your Highness?
+Dialogue: 0,0:00:51.00,0:00:51.73,main,Theodore,0,0,0,,What?
+Dialogue: 0,0:00:53.13,0:00:54.38,main,Theodore,0,0,0,,This is stupid.
+Dialogue: 0,0:00:54.86,0:00:57.26,top,Theodore,0,0,0,,I'm going to go play with \Nmy older brother now.
+Dialogue: 0,0:00:57.99,0:01:00.15,top,Theodore,0,0,0,,Make sure you behave yourself.
+Dialogue: 0,0:01:10.00,0:01:11.05,flashback,Elsie,0,0,0,,Lady Rishe!
+Dialogue: 0,0:01:11.54,0:01:12.55,flashback,Elsie,0,0,0,,Are you all right?
+Dialogue: 0,0:01:13.20,0:01:14.89,flashback,Elise,0,0,0,,Please don't worry.
+Dialogue: 0,0:01:14.89,0:01:18.46,flashback,Elise,0,0,0,,No matter what happens, I \Npromise I'll protect you.
+Dialogue: 0,0:01:18.46,0:01:19.63,flashback,Elise,0,0,0,,I promise!
+Dialogue: 0,0:01:19.63,0:01:21.98,flashback,Kamil,0,0,0,,Lady Rishe, I swear I will help you.
+Dialogue: 0,0:01:23.84,0:01:28.06,flashback,Rishe,0,0,0,,Prince Theodore has ordered you \Ntwo to do something, hasn't he?
+Dialogue: 0,0:01:29.35,0:01:31.44,flashback,Elise,0,0,0,,How did you know?
+Dialogue: 0,0:01:31.91,0:01:35.80,flashback,Rishe,0,0,0,,The letter I received from Prince \NTheodore the other day...
+Dialogue: 0,0:01:35.80,0:01:36.95,flashback,Rishe,0,0,0,,that was you, Elsie, wasn't it?
+Dialogue: 0,0:01:38.71,0:01:42.12,flashback,Rishe,0,0,0,,You're the only maid here \Nwho is from the slums.
+Dialogue: 0,0:01:42.61,0:01:44.58,flashback,Rishe,0,0,0,,Sir Kamil, you're from there, too.
+Dialogue: 0,0:01:45.76,0:01:51.40,flashback,Rishe,0,0,0,,And for many years, Prince Theodore has \Nbeen privately supporting the slums.
+Dialogue: 0,0:01:53.97,0:01:57.76,flashback,Kamil,0,0,0,,Lady Rishe, we've been \Nordered to imprison you.
+Dialogue: 0,0:01:57.76,0:02:00.97,flashback,Elsie,0,0,0,,But we've been told to \Nmake sure you aren't hurt.
+Dialogue: 0,0:02:01.24,0:02:04.53,flashback,Rishe,0,0,0,,I see. You can tell me the details later.
+Dialogue: 0,0:02:05.24,0:02:06.88,flashback,Rishe,0,0,0,,For now, we should be on our way.
+Dialogue: 0,0:02:07.41,0:02:08.85,flashback,Kamil,0,0,0,,On our way?
+Dialogue: 0,0:02:09.11,0:02:10.22,flashback,Rishe,0,0,0,,Of course.
+Dialogue: 0,0:02:10.22,0:02:14.61,flashback,Rishe,0,0,0,,I will go and be imprisoned, just \Nas Prince Theodore has ordered.
+Dialogue: 0,0:02:14.61,0:02:15.36,flashback,Elsie,0,0,0,,What?
+Dialogue: 0,0:02:31.62,0:02:33.19,main,Theodore,0,0,0,,This makes me so happy!
+Dialogue: 0,0:02:33.19,0:02:36.51,main,Theodore,0,0,0,,To think you'd come all the \Nway here just to see me!
+Dialogue: 0,0:02:37.38,0:02:41.12,main,Theodore,0,0,0,,How many years has it been since \Nwe've spoken this way, dear brother?
+Dialogue: 0,0:02:41.12,0:02:43.14,main,Theodore,0,0,0,,Wait, this is the first time!
+Dialogue: 0,0:02:48.79,0:02:52.40,main,Theodore,0,0,0,,So, if it's for her sake, \Nyou'll do what I say.
+Dialogue: 0,0:02:52.79,0:02:54.77,main,Arnold,0,0,0,,Get to the point.
+Dialogue: 0,0:02:55.93,0:02:58.07,main,Theodore,0,0,0,,What I want...
+Dialogue: 0,0:02:58.07,0:03:00.11,main,Theodore,0,0,0,,is to be next in line for the throne.
+Dialogue: 0,0:03:00.80,0:03:02.96,main,Theodore,0,0,0,,If you want my dear older \Nsister returned to you,
+Dialogue: 0,0:03:02.96,0:03:05.33,main,Theodore,0,0,0,,then renounce your claim to the throne.
+Dialogue: 0,0:03:05.75,0:03:09.20,main,Theodore,0,0,0,,If you don't comply, I can't be bothered\Nto make sure nothing untoward befalls her.
+Dialogue: 0,0:03:09.20,0:03:11.79,main,Theodore,0,0,0,,You don't want that to happen, do you?
+Dialogue: 0,0:03:13.79,0:03:17.25,main,Theodore,0,0,0,,Your expression seems unconcerned, \Nbut you're worried, aren't you?
+Dialogue: 0,0:03:17.25,0:03:19.41,main,Theodore,0,0,0,,You're absolutely beside yourself with worry.
+Dialogue: 0,0:03:19.41,0:03:22.55,main,Theodore,0,0,0,,Because that's how important \Nshe is to you, right?
+Dialogue: 0,0:03:22.87,0:03:24.55,main,Theodore,0,0,0,,You treasure her!
+Dialogue: 0,0:03:24.55,0:03:26.62,main,Theodore,0,0,0,,You show interest and concern for her!
+Dialogue: 0,0:03:26.62,0:03:29.20,main,Theodore,0,0,0,,You want to keep her by your side!
+Dialogue: 0,0:03:29.20,0:03:32.28,main,Theodore,0,0,0,,Unlike me! You don't even \Nwant to see my face!
+Dialogue: 0,0:03:33.79,0:03:35.44,main,Theodore,0,0,0,,I can tell that much, you know?
+Dialogue: 0,0:03:36.59,0:03:37.48,main,Theodore,0,0,0,,After all...
+Dialogue: 0,0:03:38.39,0:03:42.27,main,Theodore,0,0,0,,I've been watching you all this time.
+Dialogue: 0,0:03:43.90,0:03:46.43,main,Theodore,0,0,0,,Come on, Brother. Say it.
+Dialogue: 0,0:03:46.87,0:03:48.45,main,Theodore,0,0,0,,Say, "You win."
+Dialogue: 0,0:03:48.87,0:03:50.99,main,Theodore,0,0,0,,Say, "This time, you've beaten me."
+Dialogue: 0,0:03:52.30,0:03:54.46,main,Theodore,0,0,0,,If you'd just do that...
+Dialogue: 0,0:03:55.63,0:03:56.87,main,Theodore,0,0,0,,my life would be complete.
+Dialogue: 0,0:04:00.27,0:04:01.34,main,Arnold,0,0,0,,Theodore.
+Dialogue: 0,0:04:02.29,0:04:04.64,main,Arnold,0,0,0,,You said that you'd imprisoned her,
+Dialogue: 0,0:04:04.64,0:04:06.65,main,Arnold,0,0,0,,but did you put her in a prison?
+Dialogue: 0,0:04:08.19,0:04:10.57,main,Theodore,0,0,0,,I put her in a room that's \Nas good as a prison.
+Dialogue: 0,0:04:10.57,0:04:12.29,main,Theodore,0,0,0,,And the door is locked, of course.
+Dialogue: 0,0:04:12.79,0:04:15.27,main,Arnold,0,0,0,,Locked, is it? What else?
+Dialogue: 0,0:04:15.27,0:04:18.30,main,Theodore,0,0,0,,There are some rough types keeping watch.
+Dialogue: 0,0:04:18.30,0:04:20.02,main,Theodore,0,0,0,,The room is on an upper floor,
+Dialogue: 0,0:04:20.02,0:04:22.08,main,Theodore,0,0,0,,so she won't be able to escape \Nout the window.
+Dialogue: 0,0:04:22.08,0:04:24.68,main,Arnold,0,0,0,,I see. So, there's a window, too.
+Dialogue: 0,0:04:25.40,0:04:27.32,main,Theodore,0,0,0,,What are you trying to say?
+Dialogue: 0,0:04:27.32,0:04:29.37,main,Theodore,0,0,0,,No one could possibly escape!
+Dialogue: 0,0:04:29.68,0:04:31.37,main,Arnold,0,0,0,,Not normally, no.
+Dialogue: 0,0:04:31.87,0:04:35.17,main,Theodore,0,0,0,,Let me warn you, if I \Ngive just one indication,
+Dialogue: 0,0:04:35.17,0:04:37.75,main,Theodore,0,0,0,,it will be all too easy \Nto hurt my dear sister.
+Dialogue: 0,0:04:38.15,0:04:39.50,main,Arnold,0,0,0,,My foolish little brother.
+Dialogue: 0,0:04:41.01,0:04:43.49,main,Arnold,0,0,0,,There isn't a single path \Nfor you to win here.
+Dialogue: 0,0:04:44.05,0:04:47.59,main,Arnold,0,0,0,,Not from the moment you thought \Nyou had captured that girl.
+Dialogue: 0,0:04:47.59,0:04:51.52,main,Theodore,0,0,0,,What? Brother, you aren't \Nacting like yourself.
+Dialogue: 0,0:04:51.52,0:04:53.64,main,Theodore,0,0,0,,If you have something to say, then just—
+Dialogue: 0,0:04:53.17,0:04:53.64,top,Arnold,0,0,0,,Listen.
+Dialogue: 0,0:04:54.08,0:04:54.89,main,Arnold,0,0,0,,Here it comes.
+Dialogue: 0,0:04:55.56,0:04:57.10,main,Theodore,0,0,0,,What are you talking—
+Dialogue: 0,0:05:05.39,0:05:06.33,main,Theodore,0,0,0,,This can't be real.
+Dialogue: 0,0:05:08.92,0:05:12.79,main,Rishe,0,0,0,,I've come to settle things \Nbetween us, Prince Theodore.
+Dialogue: 0,0:05:15.04,0:05:16.72,main,Theodore,0,0,0,,This isn't possible.
+Dialogue: 0,0:05:17.52,0:05:20.79,main,Arnold,0,0,0,,I heard you were being held in \Na room "as good as a prison."
+Dialogue: 0,0:05:21.15,0:05:22.90,main,Arnold,0,0,0,,Did you leave through the window?
+Dialogue: 0,0:05:22.90,0:05:25.42,main,Arnold,0,0,0,,Or, did you do something like \Npunch a hole through a wall?
+Dialogue: 0,0:05:26.61,0:05:28.80,main,Rishe,0,0,0,,I left through the door like a normal person!
+Dialogue: 0,0:05:29.76,0:05:33.37,main,Arnold,0,0,0,,Through a locked door being \Nwatched by guards. That's normal?
+Dialogue: 0,0:05:33.37,0:05:36.58,main,Theodore,0,0,0,,How did you do it? Has someone betrayed me?
+Dialogue: 0,0:05:36.58,0:05:37.97,main,Rishe,0,0,0,,Prince Theodore.
+Dialogue: 0,0:05:39.09,0:05:41.27,main,Rishe,0,0,0,,I respectfully offer you \Nthe following advice.
+Dialogue: 0,0:05:41.47,0:05:42.78,main,Theodore,0,0,0,,Advice?
+Dialogue: 0,0:05:44.50,0:05:46.15,main,Rishe,0,0,0,,First of all...
+Dialogue: 0,0:05:47.40,0:05:48.91,main,Rishe,0,0,0,,when you have captured a prisoner...
+Dialogue: 0,0:05:48.91,0:05:51.42,main,Rishe,0,0,0,,you must be careful never to \Ntake your eyes off them.
+Dialogue: 0,0:05:52.64,0:05:55.66,main,Rishe,0,0,0,,Even if you lock them into \Na room by themselves,
+Dialogue: 0,0:05:55.66,0:05:58.25,main,Rishe,0,0,0,,leaving them alone is \Ncompletely out of the question.
+Dialogue: 0,0:05:58.25,0:06:02.71,main,Rishe,0,0,0,,You should always leave at least \Ntwo guards in the room with them.
+Dialogue: 0,0:06:06.36,0:06:08.22,main,Rishe,0,0,0,,And second...
+Dialogue: 0,0:06:08.81,0:06:12.60,main,Rishe,0,0,0,,the search of the prisoner's body should \Nalways be conducted by multiple people.
+Dialogue: 0,0:06:12.93,0:06:14.98,main,Rishe,0,0,0,,Don't allow them to keep their clothes on.
+Dialogue: 0,0:06:14.98,0:06:17.73,main,Rishe,0,0,0,,Searching them while they are \Ncompletely nude is most effective.
+Dialogue: 0,0:06:17.73,0:06:21.32,main,Rishe,0,0,0,,That way, they won't be able to \Nhide weapons or tools for escape.
+Dialogue: 0,0:06:23.67,0:06:25.33,main,Rishe,0,0,0,,And third...
+Dialogue: 0,0:06:25.86,0:06:28.80,main,Rishe,0,0,0,,after you have shackled their \Nhands behind their back,
+Dialogue: 0,0:06:28.80,0:06:32.11,main,Rishe,0,0,0,,the best thing to do is to tie \Nthem to a pillar or a bed,
+Dialogue: 0,0:06:32.11,0:06:34.05,main,Rishe,0,0,0,,but that's still too lenient.
+Dialogue: 0,0:06:34.64,0:06:38.54,main,Rishe,0,0,0,,Do you know what the one thing \Nyou absolutely must do is?
+Dialogue: 0,0:06:40.89,0:06:43.88,main,Rishe,0,0,0,,Break both their arms and both their legs.
+Dialogue: 0,0:06:45.26,0:06:47.50,main,Rishe,0,0,0,,Restrain their broken limbs,
+Dialogue: 0,0:06:47.50,0:06:50.30,main,Rishe,0,0,0,,take everything they have, \Nand have a group guard them.
+Dialogue: 0,0:06:51.01,0:06:55.43,main,Rishe,0,0,0,,That's what it means to \Ntake someone prisoner.
+Dialogue: 0,0:07:00.02,0:07:03.61,main,Arnold,0,0,0,,Why are you instructing the \Nperson who took you captive?
+Dialogue: 0,0:07:03.61,0:07:06.34,main,Rishe,0,0,0,,Your Highness! I'm perfectly all right!
+Dialogue: 0,0:07:06.34,0:07:08.47,main,Arnold,0,0,0,,It's fine. You wear it.
+Dialogue: 0,0:07:08.47,0:07:10.03,main,Rishe,0,0,0,,But, your neck will be...
+Dialogue: 0,0:07:11.11,0:07:13.44,italics,Theodore; internal,0,0,0,,What is that scar?
+Dialogue: 0,0:07:14.13,0:07:15.62,italics,Theodore; internal,0,0,0,,I don't know anything about it.
+Dialogue: 0,0:07:19.22,0:07:21.76,italics,Theodore; internal,0,0,0,,I knew it. I'm not good enough after all.
+Dialogue: 0,0:07:23.75,0:07:25.29,main,Rishe,0,0,0,,Prince Theodore.
+Dialogue: 0,0:07:25.93,0:07:29.49,main,Rishe,0,0,0,,Please answer me. What is your aim in this?
+Dialogue: 0,0:07:30.99,0:07:33.41,main,Theodore,0,0,0,,To be next in line to the throne.
+Dialogue: 0,0:07:33.41,0:07:37.64,main,Theodore,0,0,0,,There's no other reason for two people in \Nthe line of succession to fight, is there?
+Dialogue: 0,0:07:37.64,0:07:40.06,main,Rishe,0,0,0,,I don't believe that to be true.
+Dialogue: 0,0:07:40.63,0:07:42.14,main,Rishe,0,0,0,,I think it's actually the opposite.
+Dialogue: 0,0:07:44.13,0:07:50.28,main,Rishe,0,0,0,,Your objective is to abdicate your place \Nin the line of succession, isn't it?
+Dialogue: 0,0:07:51.25,0:07:52.49,main,Theodore,0,0,0,,What are you talking about?
+Dialogue: 0,0:07:52.49,0:07:56.48,main,Rishe,0,0,0,,I couldn't understand \Nwhy you would target me.
+Dialogue: 0,0:07:56.48,0:07:59.93,main,Theodore,0,0,0,,I told you! It's to make my brother suffer!
+Dialogue: 0,0:07:59.93,0:08:04.13,main,Theodore,0,0,0,,If he couldn't protect his fiancée, then \Nhis reputation would be completely destroyed!
+Dialogue: 0,0:08:04.13,0:08:07.25,main,Rishe,0,0,0,,Using someone as trivial as \Nme to steal the throne...
+Dialogue: 0,0:08:07.25,0:08:09.85,main,Rishe,0,0,0,,You don't seriously believe \Nthat would work, do you?
+Dialogue: 0,0:08:11.00,0:08:13.36,main,Rishe,0,0,0,,By playing out this farce of a kidnapping,
+Dialogue: 0,0:08:13.36,0:08:17.55,main,Rishe,0,0,0,,you intended to create a commotion and \Ndisgrace yourself as a criminal, didn't you?
+Dialogue: 0,0:08:18.48,0:08:19.46,main,Theodore,0,0,0,,You're wrong.
+Dialogue: 0,0:08:20.30,0:08:22.53,main,Rishe,0,0,0,,There was a certain moment at which
+Dialogue: 0,0:08:22.53,0:08:26.10,main,Rishe,0,0,0,,you ceased your public works \Nin the slums, didn't you?
+Dialogue: 0,0:08:26.91,0:08:29.36,main,Theodore,0,0,0,,I grew weary of that ludicrous charity work.
+Dialogue: 0,0:08:29.36,0:08:30.86,main,Rishe,0,0,0,,That's a lie.
+Dialogue: 0,0:08:31.34,0:08:35.66,main,Rishe,0,0,0,,Even very recently, you've been sending \Nsupport to the slums, haven't you?
+Dialogue: 0,0:08:36.27,0:08:38.66,main,Rishe,0,0,0,,There isn't any evidence \Nof public funds being used,
+Dialogue: 0,0:08:38.66,0:08:41.02,main,Rishe,0,0,0,,so you must be investing your own money.
+Dialogue: 0,0:08:42.90,0:08:47.49,main,Rishe,0,0,0,,You worry more for the people \Nof the slums than anyone else,
+Dialogue: 0,0:08:47.49,0:08:49.81,main,Rishe,0,0,0,,and you've approached them with kindness.
+Dialogue: 0,0:08:51.01,0:08:54.09,main,Rishe,0,0,0,,But you have deliberately \Nneglected your public duties.
+Dialogue: 0,0:08:54.83,0:08:58.08,main,Theodore,0,0,0,,I just want to beat my brother, that's all.
+Dialogue: 0,0:08:58.08,0:09:02.16,main,Rishe,0,0,0,,If that were the case, then you'd \Nhave attacked Prince Arnold directly.
+Dialogue: 0,0:09:02.16,0:09:03.21,main,Theodore,0,0,0,,You're wrong.
+Dialogue: 0,0:09:03.21,0:09:05.39,main,Rishe,0,0,0,,But you couldn't do that.
+Dialogue: 0,0:09:05.39,0:09:08.23,main,Rishe,0,0,0,,That's because everything you do \Nis for your older brother's sake—
+Dialogue: 0,0:09:08.23,0:09:09.23,main,Theodore,0,0,0,,You're wrong!
+Dialogue: 0,0:09:09.23,0:09:11.72,main,Theodore,0,0,0,,You're wrong! Wrong, wrong, wrong!
+Dialogue: 0,0:09:11.72,0:09:15.00,main,Theodore,0,0,0,,Honestly, what is all this \Nnonsense you're spouting?
+Dialogue: 0,0:09:15.00,0:09:19.97,main,Theodore,0,0,0,,I want my brother to hate me! \NTo despise me! To cast me out!
+Dialogue: 0,0:09:19.97,0:09:24.37,main,Theodore,0,0,0,,If he'll never accept me, then being \Nkilled by him would be so much better!
+Dialogue: 0,0:09:24.37,0:09:26.37,main,Arnold,0,0,0,,That's enough. This stops here.
+Dialogue: 0,0:09:26.63,0:09:28.30,main,Rishe,0,0,0,,Prince Arnold.
+Dialogue: 0,0:09:28.30,0:09:29.99,main,Arnold,0,0,0,,I've told you, Rishe.
+Dialogue: 0,0:09:29.99,0:09:31.94,main,Arnold,0,0,0,,Don't interact with him.
+Dialogue: 0,0:09:31.94,0:09:34.97,main,Rishe,0,0,0,,Please, wait. Your younger \Nbrother's true feelings are—
+Dialogue: 0,0:09:34.97,0:09:37.05,main,Arnold,0,0,0,,I don't care.
+Dialogue: 0,0:09:38.17,0:09:40.79,main,Arnold,0,0,0,,Regardless of what his desires may be,
+Dialogue: 0,0:09:40.79,0:09:42.97,main,Arnold,0,0,0,,they have nothing to do with me.
+Dialogue: 0,0:09:44.72,0:09:48.06,main,Theodore,0,0,0,,I already knew that all too well.
+Dialogue: 0,0:09:51.13,0:09:52.73,main,Rishe,0,0,0,,Prince Theodore!
+Dialogue: 0,0:09:52.73,0:09:53.89,main,Arnold,0,0,0,,Leave him be.
+Dialogue: 0,0:09:55.83,0:10:00.24,main,Rishe,0,0,0,,Why do you intentionally try to \Ndistance yourself from your brother?
+Dialogue: 0,0:10:00.46,0:10:03.24,main,Arnold,0,0,0,,I told you. He doesn't matter to me.
+Dialogue: 0,0:10:03.48,0:10:05.80,main,Rishe,0,0,0,,If you really felt that way,
+Dialogue: 0,0:10:05.80,0:10:08.87,main,Rishe,0,0,0,,then you wouldn't order me to \Nstay away from him, would you?
+Dialogue: 0,0:10:09.94,0:10:12.63,main,Rishe,0,0,0,,You said something the other day.
+Dialogue: 0,0:10:12.63,0:10:15.83,main,Rishe,0,0,0,,You said, "The resolve to be my \Nwife? There's no need for that."
+Dialogue: 0,0:10:16.64,0:10:20.64,main,Rishe,0,0,0,,I've been trying all this time to \Nunderstand what your words meant.
+Dialogue: 0,0:10:21.77,0:10:26.98,main,Rishe,0,0,0,,You are looking at the future \Nwhich should be yours
+Dialogue: 0,0:10:26.98,0:10:29.67,main,Rishe,0,0,0,,with the intention of throwing \Nit all away, aren't you?
+Dialogue: 0,0:10:31.60,0:10:35.27,main,Rishe,0,0,0,,That's what your younger brother \Nis afraid of, isn't he?
+Dialogue: 0,0:10:35.73,0:10:40.08,main,Rishe,0,0,0,,That's why he puts on an act of being the \Nsecond prince with no aspirations to the throne,
+Dialogue: 0,0:10:40.08,0:10:43.28,main,Rishe,0,0,0,,of being someone who should disappear \Nfrom the future of this empire.
+Dialogue: 0,0:10:43.96,0:10:48.76,main,Rishe,0,0,0,,But isn't there some other \Npath for you two brothers?
+Dialogue: 0,0:10:50.48,0:10:52.94,main,Rishe,0,0,0,,Please tell me what you're thinking.
+Dialogue: 0,0:11:05.15,0:11:07.18,main,Arnold,0,0,0,,Oh, I see.
+Dialogue: 0,0:11:11.84,0:11:15.65,main,Arnold,0,0,0,,And now, I've finally confirmed it.
+Dialogue: 0,0:11:21.04,0:11:23.87,main,Arnold,0,0,0,,You're quite adorable.
+Dialogue: 0,0:11:24.08,0:11:25.29,main,Rishe,0,0,0,,What are you...
+Dialogue: 0,0:11:25.29,0:11:27.89,main,Arnold,0,0,0,,You can't understand my intentions,
+Dialogue: 0,0:11:27.89,0:11:29.56,main,Arnold,0,0,0,,so you feel confused, right?
+Dialogue: 0,0:11:30.25,0:11:32.36,main,Arnold,0,0,0,,But it's better that you don't understand.
+Dialogue: 0,0:11:33.62,0:11:37.76,main,Arnold,0,0,0,,I will say it again, leave Theodore alone.
+Dialogue: 0,0:11:43.60,0:11:47.47,main,Arnold,0,0,0,,He should never have gotten \Ninvolved with someone like me.
+Dialogue: 0,0:11:50.70,0:11:53.21,main,Rishe,0,0,0,,You do adore your brother, don't you?
+Dialogue: 0,0:11:53.69,0:11:54.80,main,Arnold,0,0,0,,What?
+Dialogue: 0,0:11:54.80,0:11:56.71,main,Rishe,0,0,0,,If you didn't treasure him,
+Dialogue: 0,0:11:56.71,0:11:59.15,main,Rishe,0,0,0,,you would never have said \Nsomething like that.
+Dialogue: 0,0:11:59.39,0:12:04.74,main,Rishe,0,0,0,,Your Highness, have you ever considered a \Nfuture opposite to one where you disappear?
+Dialogue: 0,0:12:05.50,0:12:06.82,main,Arnold,0,0,0,,Opposite?
+Dialogue: 0,0:12:07.49,0:12:09.71,main,Rishe,0,0,0,,One where your brother disappears.
+Dialogue: 0,0:12:09.71,0:12:12.25,main,Rishe,0,0,0,,There may be a future like that, too.
+Dialogue: 0,0:12:12.25,0:12:16.03,main,Rishe,0,0,0,,Please live your life in a way that you \Nhave no regrets if that does come to pass.
+Dialogue: 0,0:12:17.15,0:12:20.76,italics,Rishe; internal,0,0,0,,And if I had my wish, I'd do the same.
+Dialogue: 0,0:12:21.05,0:12:24.38,italics,Rishe; internal,0,0,0,,So that even if this life is my last...
+Dialogue: 0,0:12:27.71,0:12:34.02,main,Rishe,0,0,0,,And I intend to live my life \Nas your wife with no regrets.
+Dialogue: 0,0:12:42.09,0:12:42.93,main,Arnold,0,0,0,,Damn it.
+Dialogue: 0,0:12:49.40,0:12:51.71,main,Rishe,0,0,0,,This is just about all I have left in me.
+Dialogue: 0,0:12:52.49,0:12:53.38,main,Rishe,0,0,0,,But...
+Dialogue: 0,0:13:01.03,0:13:04.44,italics,Theodore; narration,0,0,0,,I can still remember what \Nhappened on the battlefield.
+Dialogue: 0,0:13:05.01,0:13:08.35,flashback,Theodore,0,0,0,,Hang in there! The medicine \Nwill be here soon!
+Dialogue: 0,0:13:08.35,0:13:10.75,flashback,soldier,0,0,0,,Thank you.
+Dialogue: 0,0:13:11.60,0:13:12.77,flashback,man A,0,0,0,,We're being attacked!
+Dialogue: 0,0:13:21.62,0:13:24.69,italics,Theodore; narration,0,0,0,,There wasn't anything that someone \Nas useless as me could do.
+Dialogue: 0,0:13:24.69,0:13:26.58,italics,Theodore; narration,0,0,0,,I knew that, but I still...
+Dialogue: 0,0:13:37.29,0:13:38.42,flashback,Theodore,0,0,0,,Brother?
+Dialogue: 0,0:13:42.40,0:13:45.20,flashback,Arnold,0,0,0,,As a member of the imperial family, \NI can't praise your actions.
+Dialogue: 0,0:13:46.62,0:13:49.42,flashback,Arnold,0,0,0,,Next time, don't do anything \Nthat puts your life at risk.
+Dialogue: 0,0:13:50.72,0:13:54.27,flashback,Arnold,0,0,0,,But the fact that you acted \Nto protect your vassal...
+Dialogue: 0,0:13:54.27,0:13:56.13,flashback,Arnold,0,0,0,,That's something to be proud of.
+Dialogue: 0,0:13:58.01,0:13:59.05,flashback,Arnold,0,0,0,,Well done.
+Dialogue: 0,0:14:07.26,0:14:08.73,main,Rishe,0,0,0,,Prince Theodore.
+Dialogue: 0,0:14:10.98,0:14:15.00,main,Theodore,0,0,0,,Are you planning to follow your lecture \Non imprisonment with one on escaping?
+Dialogue: 0,0:14:15.28,0:14:17.75,main,Rishe,0,0,0,,You weren't planning on \Nescaping, though, were you?
+Dialogue: 0,0:14:20.23,0:14:24.51,main,Theodore,0,0,0,,My brother, you see, never shows his \Nachievements to the outside world.
+Dialogue: 0,0:14:25.08,0:14:29.26,main,Theodore,0,0,0,,On the other hand, his infamy spreads \Nto other countries unnaturally quickly.
+Dialogue: 0,0:14:29.26,0:14:30.64,main,Theodore,0,0,0,,Why do you think that is?
+Dialogue: 0,0:14:31.37,0:14:35.77,main,Rishe,0,0,0,,Prince Arnold is intentionally \Nspreading it himself, isn't he?
+Dialogue: 0,0:14:36.17,0:14:38.79,main,Theodore,0,0,0,,I know because I've been \Nwatching him all this time.
+Dialogue: 0,0:14:38.79,0:14:43.25,main,Theodore,0,0,0,,I see him and think, "He's acting in a way \Nthat will let him disappear at any moment."
+Dialogue: 0,0:14:44.36,0:14:48.13,main,Theodore,0,0,0,,But for a person as wonderful \Nas him to disappear...
+Dialogue: 0,0:14:49.04,0:14:50.60,main,Theodore,0,0,0,,that just isn't right.
+Dialogue: 0,0:14:53.17,0:14:56.35,main,Theodore,0,0,0,,If he intends to entrust the \Nempire to me and disappear,
+Dialogue: 0,0:14:56.35,0:14:58.29,main,Theodore,0,0,0,,then I just need to disappear first.
+Dialogue: 0,0:14:59.05,0:15:02.92,main,Theodore,0,0,0,,If I do, then my brother won't be \Nable to do anything stupid anymore.
+Dialogue: 0,0:15:03.23,0:15:08.53,main,Theodore,0,0,0,,It's the one and only way that \NI can be useful to my brother.
+Dialogue: 0,0:15:10.96,0:15:16.32,main,Rishe,0,0,0,,I'm certain that your older brother intends \Nto do something utterly unreasonable.
+Dialogue: 0,0:15:17.16,0:15:19.81,main,Rishe,0,0,0,,Which is why I plan to use \Neverything I have to stop him.
+Dialogue: 0,0:15:20.36,0:15:23.02,main,Rishe,0,0,0,,If there are others whose strengths \NI can call on, I will do so.
+Dialogue: 0,0:15:23.02,0:15:25.32,main,Rishe,0,0,0,,And, Prince Theodore...
+Dialogue: 0,0:15:25.66,0:15:28.06,main,Rishe,0,0,0,,I need your strength, too.
+Dialogue: 0,0:15:31.10,0:15:34.20,main,Theodore,0,0,0,,Someone like me will never \Nbe a strength for you.
+Dialogue: 0,0:15:34.20,0:15:37.38,main,Rishe,0,0,0,,No, that's not true.
+Dialogue: 0,0:15:37.38,0:15:38.17,main,Rishe,0,0,0,,After all...
+Dialogue: 0,0:15:38.91,0:15:43.06,main,Rishe,0,0,0,,you are the only little brother he \Nhas in this whole world, aren't you?
+Dialogue: 0,0:15:57.80,0:16:01.72,main,Theodore,0,0,0,,I wanted to help my brother one day.
+Dialogue: 0,0:16:03.61,0:16:05.03,main,Theodore,0,0,0,,Thank you, Sister.
+Dialogue: 0,0:16:05.89,0:16:10.31,main,Theodore,0,0,0,,For you to tell me you need me is \Nunexpected, but it makes me happy.
+Dialogue: 0,0:16:11.28,0:16:15.78,main,Theodore,0,0,0,,But I will decide how I will best be used.
+Dialogue: 0,0:16:18.74,0:16:22.29,main,Theodore,0,0,0,,I should have done this a long time ago.
+Dialogue: 0,0:16:23.03,0:16:23.87,italics,Rishe; internal,0,0,0,,He couldn't possibly!
+Dialogue: 0,0:16:24.09,0:16:27.13,main,Theodore,0,0,0,,This was all such a huge failure, wasn't it?
+Dialogue: 0,0:16:27.13,0:16:28.34,main,Rishe,0,0,0,,Your Highness!
+Dialogue: 0,0:16:58.76,0:16:59.90,main,Theodore,0,0,0,,Brother?
+Dialogue: 0,0:17:19.56,0:17:22.39,main,Arnold,0,0,0,,What were you thinking?
+Dialogue: 0,0:17:23.29,0:17:24.19,main,Theodore,0,0,0,,But...
+Dialogue: 0,0:17:24.81,0:17:30.87,main,Theodore,0,0,0,,But... this is the only way \NI can be useful to you.
+Dialogue: 0,0:17:31.52,0:17:36.17,main,Arnold,0,0,0,,I have never once done anything \Nto be a big brother to you.
+Dialogue: 0,0:17:36.17,0:17:38.66,main,Arnold,0,0,0,,What kind of idiot risks his \Nlife for someone like that?
+Dialogue: 0,0:17:43.63,0:17:47.90,main,Rishe,0,0,0,,The choice your little brother made \Nmay not have been the right one,
+Dialogue: 0,0:17:48.42,0:17:54.86,main,Rishe,0,0,0,,but his desire to become a strength \Nfor you isn't wrong, is it?
+Dialogue: 0,0:17:56.55,0:17:59.18,main,Theodore,0,0,0,,It's just as she says.
+Dialogue: 0,0:17:59.67,0:18:01.90,main,Theodore,0,0,0,,I'll wish this over and over again.
+Dialogue: 0,0:18:02.68,0:18:04.91,main,Theodore,0,0,0,,I want to be a strength to you!
+Dialogue: 0,0:18:04.91,0:18:06.57,main,Theodore,0,0,0,,I want to be useful to you!
+Dialogue: 0,0:18:06.57,0:18:08.67,main,Theodore,0,0,0,,If I can be of help to you, \Nthen I'll do anything!
+Dialogue: 0,0:18:09.20,0:18:14.31,main,Theodore,0,0,0,,Because you're my only big \Nbrother in the whole world,
+Dialogue: 0,0:18:14.31,0:18:16.22,main,Theodore,0,0,0,,and I look up to you so much!
+Dialogue: 0,0:18:21.82,0:18:25.58,main,Arnold,0,0,0,,Never do anything this foolish ever again.
+Dialogue: 0,0:18:28.08,0:18:29.46,main,Arnold,0,0,0,,I told you.
+Dialogue: 0,0:18:31.37,0:18:34.84,main,Arnold,0,0,0,,Don't ever put your life at risk again.
+Dialogue: 0,0:18:39.06,0:18:40.19,main,Theodore,0,0,0,,You remember?
+Dialogue: 0,0:18:40.90,0:18:42.05,main,Arnold,0,0,0,,Of course I do.
+Dialogue: 0,0:18:47.87,0:18:49.63,main,Theodore,0,0,0,,I'm sorry!
+Dialogue: 0,0:18:50.06,0:18:52.48,main,Theodore,0,0,0,,I'm sorry, Big Brother!
+Dialogue: 0,0:18:52.48,0:18:54.68,main,Theodore,0,0,0,,I'm sorry, Big Sister!
+Dialogue: 0,0:18:54.68,0:18:55.86,main,Theodore,0,0,0,,I'm sorry...
+Dialogue: 0,0:18:56.73,0:18:58.34,main,Arnold,0,0,0,,I understand, so stop crying.
+Dialogue: 0,0:18:58.92,0:19:00.08,main,Theodore,0,0,0,,But, this is just...
+Dialogue: 0,0:19:08.40,0:19:09.43,main,Arnold,0,0,0,,Rishe.
+Dialogue: 0,0:19:09.43,0:19:11.50,main,Rishe,0,0,0,,You came for him, didn't you?
+Dialogue: 0,0:19:12.04,0:19:14.22,main,Arnold,0,0,0,,Because you said something that bothered me.
+Dialogue: 0,0:19:15.09,0:19:18.51,main,Rishe,0,0,0,,I'm glad you two were able to mend things.
+Dialogue: 0,0:19:18.88,0:19:20.98,main,Rishe,0,0,0,,I'm so glad...
+Dialogue: 0,0:19:21.44,0:19:22.22,main,Arnold,0,0,0,,Rishe?
+Dialogue: 0,0:19:24.07,0:19:27.20,main,Theodore,0,0,0,,Sister! What do I do? This is all my fault!
+Dialogue: 0,0:19:27.20,0:19:28.27,main,Arnold,0,0,0,,No, it isn't.
+Dialogue: 0,0:19:28.27,0:19:28.77,main,Theodore,0,0,0,,What?
+Dialogue: 0,0:19:30.54,0:19:32.06,main,Arnold,0,0,0,,She's just sleeping.
+Dialogue: 0,0:19:33.16,0:19:35.71,main,Theodore,0,0,0,,You can't be serious. In these circumstances?
+Dialogue: 0,0:19:43.52,0:19:46.32,main,Arnold,0,0,0,,Theodore, you have a carriage \Nat the ready, don't you?
+Dialogue: 0,0:19:47.04,0:19:48.97,main,Theodore,0,0,0,,O-Of course I do.
+Dialogue: 0,0:19:48.97,0:19:50.29,main,Theodore,0,0,0,,I'll call for it right away.
+Dialogue: 0,0:19:50.59,0:19:51.57,main,Arnold,0,0,0,,I'll leave it to you.
+Dialogue: 0,0:20:00.72,0:20:02.43,main,Theodore,0,0,0,,"I'll leave it to you," he said.
+Dialogue: 0,0:20:03.09,0:20:06.16,main,Theodore,0,0,0,,My big brother. To me.
+Dialogue: 0,0:20:27.80,0:20:29.58,main,Arnold,0,0,0,,You're already awake?
+Dialogue: 0,0:20:29.58,0:20:32.24,main,Rishe,0,0,0,,Have you stayed with me all this time?
+Dialogue: 0,0:20:32.24,0:20:34.08,main,Rishe,0,0,0,,I'm so very sorry!
+Dialogue: 0,0:20:34.61,0:20:35.76,main,Arnold,0,0,0,,How are you?
+Dialogue: 0,0:20:35.76,0:20:37.37,main,Rishe,0,0,0,,I'm fine now.
+Dialogue: 0,0:20:37.84,0:20:38.71,main,Arnold,0,0,0,,Good.
+Dialogue: 0,0:20:44.02,0:20:45.18,italics,Theodore,0,0,0,,To my sister,
+Dialogue: 0,0:20:45.69,0:20:48.58,italics,Theodore,0,0,0,,I'm sorry for doing all \Nthose awful things to you.
+Dialogue: 0,0:20:48.58,0:20:53.85,italics,Theodore,0,0,0,,There are many things I want to say, but \Nfirstly, I promise to repay the debt I owe you.
+Dialogue: 0,0:20:54.80,0:20:59.04,italics,Theodore,0,0,0,,And you said you'd stop whatever it is that \Nmy brother is trying to do, didn't you?
+Dialogue: 0,0:20:59.56,0:21:03.15,italics,Theodore,0,0,0,,Given the way things are now, \NI'd like to help you with that.
+Dialogue: 0,0:21:04.06,0:21:07.24,italics,Theodore,0,0,0,,To that end, I'll let you \Nborrow my people in the slums.
+Dialogue: 0,0:21:07.51,0:21:09.86,italics,Theodore,0,0,0,,That's what people refer to \Nas a common front, right?
+Dialogue: 0,0:21:09.86,0:21:11.92,italics,Theodore,0,0,0,,Come to me for help any time.
+Dialogue: 0,0:21:11.92,0:21:14.00,italics,Theodore,0,0,0,,With due gratitude to me, of course.
+Dialogue: 0,0:21:15.48,0:21:16.50,italics,Theodore,0,0,0,,Lastly...
+Dialogue: 0,0:21:17.23,0:21:19.33,italics,Theodore,0,0,0,,thank you, Big Sister.
+Dialogue: 0,0:21:20.25,0:21:23.64,main,Rishe,0,0,0,,You and Prince Theodore \Nhad a talk, didn't you?
+Dialogue: 0,0:21:24.11,0:21:26.91,main,Arnold,0,0,0,,Why are you smiling like that?
+Dialogue: 0,0:21:26.91,0:21:29.01,main,Rishe,0,0,0,,Because I'm happy, of course.
+Dialogue: 0,0:21:33.12,0:21:36.04,main,Arnold,0,0,0,,Think of something else you want.
+Dialogue: 0,0:21:37.57,0:21:40.10,main,Arnold,0,0,0,,My promise not to touch you.
+Dialogue: 0,0:21:40.10,0:21:42.40,main,Arnold,0,0,0,,I broke it again, didn't I?
+Dialogue: 0,0:21:50.23,0:21:52.37,main,Rishe,0,0,0,,I-I don't need anything!
+Dialogue: 0,0:21:52.37,0:21:55.55,main,Rishe,0,0,0,,More importantly, the reason why \NYour Highness would do such a—
+Dialogue: 0,0:21:55.55,0:21:56.46,main,Arnold,0,0,0,,Do you want to know why?
+Dialogue: 0,0:21:56.46,0:21:57.92,main,Rishe,0,0,0,,I do not!
+Dialogue: 0,0:22:00.63,0:22:01.46,main,Arnold,0,0,0,,Rishe.
+Dialogue: 0,0:22:01.46,0:22:03.11,main,Rishe,0,0,0,,What is it now?
+Dialogue: 0,0:22:04.24,0:22:07.05,main,Arnold,0,0,0,,Thank you for looking \Nafter my little brother.
+Dialogue: 0,0:22:09.02,0:22:09.96,main,Rishe,0,0,0,,Not at all.
+Dialogue: 0,0:22:10.51,0:22:14.30,main,Rishe,0,0,0,,He will be my little brother, too, after all.
+Dialogue: 0,0:22:17.62,0:22:18.63,main,Arnold,0,0,0,,I see.

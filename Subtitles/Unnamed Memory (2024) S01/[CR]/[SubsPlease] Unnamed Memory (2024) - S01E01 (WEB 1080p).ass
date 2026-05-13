@@ -1,0 +1,414 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default-Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics-Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback-Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics-Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Ep Title,Trebuchet MS,18,&H149A645C,&H008B3081,&H80FFEADE,&H20000000,0,0,0,0,110,100,0,0,1,1,0,8,30,30,140,0
+Style: Next Ep Title,Trebuchet MS,30,&H00FFFFFF,&H008B3081,&H88000000,&HA8000000,0,0,0,0,110,100,0,0,1,1,2,8,30,30,120,0
+Style: White-Standard,Arial,25,&H00FFFFFF,&H0000FFFF,&H30000000,&H79000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,70,0
+Style: Black-Standard,Arial,19,&H004E5955,&H0000FFFF,&HADDFECE6,&H9A000000,-1,0,0,0,100,100,0,13,1,2,0,8,20,20,20,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.65,0:00:03.71,Default,Lazar,0,0,0,,Your Highness!
+Dialogue: 0,0:00:04.28,0:00:05.70,Default,Lazar,0,0,0,,Prince Oscar!
+Dialogue: 0,0:00:06.21,0:00:08.17,Default,Lazar,0,0,0,,This really is too dangerous!
+Dialogue: 0,0:00:08.17,0:00:09.48,Default,Lazar,0,0,0,,We should go back!
+Dialogue: 0,0:00:09.85,0:00:11.56,Default,Lazar,0,0,0,,Please, Your Highness!
+Dialogue: 0,0:00:11.56,0:00:13.28,Default,Oscar,0,0,0,,Quiet, Lazar.
+Dialogue: 0,0:00:13.28,0:00:15.45,Default,Oscar,0,0,0,,All our efforts to sneak out of the castle
+Dialogue: 0,0:00:15.45,0:00:17.39,Default,Oscar,0,0,0,,will have been for nothing if we return now.
+Dialogue: 0,0:00:17.86,0:00:20.93,Default,Lazar,0,0,0,,What if the witch ends up \Ncasting another curse on you?
+Dialogue: 0,0:00:21.41,0:00:23.06,Default,Oscar,0,0,0,,I'll worry about it then.
+Dialogue: 0,0:00:23.06,0:00:25.15,Default,Oscar,0,0,0,,We don't have any other leads.
+Dialogue: 0,0:00:25.15,0:00:27.25,Default,Lazar,0,0,0,,I'm sure there must be some other way!
+Dialogue: 0,0:00:27.25,0:00:29.87,Default,Oscar,0,0,0,,Fifteen years, and I've found nothing.
+Dialogue: 0,0:00:29.87,0:00:34.59,Default,Oscar,0,0,0,,First, we'll find the Witch of the Azure Moon \Nand ask her how to lift the curse.
+Dialogue: 0,0:00:34.59,0:00:39.46,Default,Oscar,0,0,0,,If that fails, we'll find the one \Nresponsible, the Witch of Silence.
+Dialogue: 0,0:00:40.47,0:00:41.55,Default,Oscar,0,0,0,,Flawless, right?
+Dialogue: 0,0:00:43.64,0:00:47.07,Narration,Tinasha,0,0,0,,A witch residing in an azure tower.
+Dialogue: 0,0:00:47.85,0:00:49.76,Narration,Tinasha,0,0,0,,A royal prince struck by a curse.
+Dialogue: 0,0:00:50.49,0:00:53.73,Narration,Tinasha,0,0,0,,If they could turn back time, \Nwhat would they wish for?
+Dialogue: 0,0:00:54.81,0:00:58.64,Narration,Tinasha,0,0,0,,This is a story where everything \Ncan be rewritten.
+Dialogue: 0,0:02:32.17,0:02:37.01,Ep Title,Sign,0,0,0,,{\fad(400,1)}~ Cursed Words and the Azure Tower ~
+Dialogue: 0,0:02:37.69,0:02:38.71,Default,Oscar,0,0,0,,Okay, let's go.
+Dialogue: 0,0:02:38.71,0:02:40.74,Default,Lazar,0,0,0,,P-Please wait!
+Dialogue: 0,0:02:40.74,0:02:42.68,Default,Lazar,0,0,0,,I know how you must feel, Your Highness,
+Dialogue: 0,0:02:42.68,0:02:44.86,Default,Lazar,0,0,0,,but the risk is too great!
+Dialogue: 0,0:02:44.86,0:02:49.15,Default,Lazar,0,0,0,,To begin with, the Witch of Silence hasn't \Nbeen spotted in the last fifteen years.
+Dialogue: 0,0:02:49.49,0:02:51.38,Default,Lazar,0,0,0,,And as for the Witch of the Azure Moon,
+Dialogue: 0,0:02:51.38,0:02:54.58,Default,Lazar,0,0,0,,no one's ever managed to reach \Nthe top of that tower in all those years!
+Dialogue: 0,0:02:56.84,0:02:59.01,Default,Oscar,0,0,0,,Well, I'm sure it'll work out.
+Dialogue: 0,0:03:00.02,0:03:01.73,Default,Lazar,0,0,0,,No, it won't!
+Dialogue: 0,0:03:01.73,0:03:05.94,Default,Lazar,0,0,0,,If something happens to you, \Nhow would I ever return to the castle?!
+Dialogue: 0,0:03:06.29,0:03:07.86,Default,Oscar,0,0,0,,Just put on a grieving face.
+Dialogue: 0,0:03:07.86,0:03:09.81,Default,Lazar,0,0,0,,You know I can't do that!
+Dialogue: 0,0:03:11.26,0:03:12.50,Default,Lazar,0,0,0,,Ah, Your Highness!
+Dialogue: 0,0:03:12.50,0:03:14.54,Default,Lazar,0,0,0,,Don't just open the doors so carelessly!
+Dialogue: 0,0:03:14.54,0:03:16.81,Default,Lazar,0,0,0,,Please act with a little more caution!
+Dialogue: 0,0:03:18.17,0:03:21.35,Default,Oscar,0,0,0,,The entrance is pretty much \Nas the records say.
+Dialogue: 0,0:03:21.66,0:03:23.24,Default,Lazar,0,0,0,,That's true.
+Dialogue: 0,0:03:23.24,0:03:25.42,Default,Lazar,0,0,0,,And if the records are to be believed,
+Dialogue: 0,0:03:25.42,0:03:29.63,Default,Lazar,0,0,0,,within these walls \Nawait a number of challenges!
+Dialogue: 0,0:03:29.84,0:03:33.55,Default,Oscar,0,0,0,,And the one who overcomes \Nthem to reach the very top
+Dialogue: 0,0:03:33.55,0:03:36.14,Default,Oscar,0,0,0,,will have his wish granted by the witch.
+Dialogue: 0,0:03:36.14,0:03:37.30,Default,Oscar,0,0,0,,Let's move quickly here.
+Dialogue: 0,0:03:37.30,0:03:38.03,Default,Oscar,0,0,0,,Nice and quick.
+Dialogue: 0,0:03:38.03,0:03:39.80,Default,Lazar,0,0,0,,Ah, please wait up!
+Dialogue: 0,0:03:40.19,0:03:42.28,Default,Oscar,0,0,0,,It's dangerous, so you just wait here.
+Dialogue: 0,0:03:42.28,0:03:44.28,Default,Oscar,0,0,0,,I'll be back before sunset.
+Dialogue: 0,0:03:44.58,0:03:47.48,Default,Lazar,0,0,0,,N-No, I can't let you do that.
+Dialogue: 0,0:03:56.67,0:03:57.72,Default,Lazar,0,0,0,,Your Highness.
+Dialogue: 0,0:03:57.72,0:03:59.24,Default,Oscar,0,0,0,,I'm thinking here.
+Dialogue: 0,0:03:59.24,0:04:01.66,Default,Lazar,0,0,0,,N-No, actually...
+Dialogue: 0,0:04:02.63,0:04:04.97,Default,Lazar,0,0,0,,We're surrounded by snakes!
+Dialogue: 0,0:04:05.61,0:04:07.07,Default,Oscar,0,0,0,,I can see that just fine.
+Dialogue: 0,0:04:09.56,0:04:11.63,Default,Oscar,0,0,0,,We'll be fine. They're not venomous.
+Dialogue: 0,0:04:14.39,0:04:16.94,Default,Oscar,0,0,0,,This must be the first challenge.
+Dialogue: 0,0:04:17.37,0:04:22.69,Default,Oscar,0,0,0,,This is a mathematical theory studied about \Na hundred years ago in a tiny eastern nation.
+Dialogue: 0,0:04:22.69,0:04:25.57,Default,Oscar,0,0,0,,It was famous for being \Nan unsolvable problem.
+Dialogue: 0,0:04:25.92,0:04:27.56,Default,Lazar,0,0,0,,It's unsolvable?!
+Dialogue: 0,0:04:27.56,0:04:28.62,Default,Oscar,0,0,0,,It {\i1}was{\i0}, back then.
+Dialogue: 0,0:04:29.26,0:04:31.22,Default,Oscar,0,0,0,,They figured it out around a decade ago.
+Dialogue: 0,0:04:40.08,0:04:42.73,Default,Oscar,0,0,0,,I see. So that's how it works.
+Dialogue: 0,0:04:42.73,0:04:44.70,Default,Lazar,0,0,0,,Are you sure you don't want to go back?
+Dialogue: 0,0:04:44.70,0:04:46.77,Default,Oscar,0,0,0,,Nuh-uh. It's just getting interesting.
+Dialogue: 0,0:04:52.43,0:04:55.49,Default,Litola,0,0,0,,We seem to have our first \Nchallengers in a while, Master.
+Dialogue: 0,0:04:56.14,0:04:57.76,Default,Tinasha,0,0,0,,How rare.
+Dialogue: 0,0:04:57.76,0:05:01.07,Default,Tinasha,0,0,0,,I was sure they'd all forgotten \Nthis tower existed.
+Dialogue: 0,0:05:01.96,0:05:04.05,Default,Litola,0,0,0,,There was another one just a month ago.
+Dialogue: 0,0:05:04.05,0:05:07.65,Default,Litola,0,0,0,,They ran out of time after being \Nunable to solve the first tablet.
+Dialogue: 0,0:05:07.99,0:05:09.19,Default,Tinasha,0,0,0,,Right.
+Dialogue: 0,0:05:09.85,0:05:13.81,Default,Litola,0,0,0,,These challengers are steadily \Nmaking their way up the tower.
+Dialogue: 0,0:05:13.81,0:05:15.73,Default,Litola,0,0,0,,Would you care to observe them?
+Dialogue: 0,0:05:15.73,0:05:17.13,Default,Tinasha,0,0,0,,I'm not going.
+Dialogue: 0,0:05:17.13,0:05:19.49,Default,Tinasha,0,0,0,,It can wait until they reach the top.
+Dialogue: 0,0:05:20.01,0:05:21.21,Default,Litola,0,0,0,,As you wish.
+Dialogue: 0,0:05:21.21,0:05:23.26,Default,Tinasha,0,0,0,,Go on, Litola.
+Dialogue: 0,0:05:23.26,0:05:26.29,Default,Tinasha,0,0,0,,You know what to do when they fail.
+Dialogue: 0,0:05:27.09,0:05:28.46,Default,Litola,0,0,0,,Very well.
+Dialogue: 0,0:05:30.39,0:05:33.26,Default,Tinasha,0,0,0,,They may be progressing steadily now,
+Dialogue: 0,0:05:33.26,0:05:37.64,Default,Tinasha,0,0,0,,but most of them don't make it \Npast the first guardian beast.
+Dialogue: 0,0:05:40.53,0:05:43.62,Default,Oscar,0,0,0,,I thought this thing looked \Nawfully white, but it's not real.
+Dialogue: 0,0:05:44.09,0:05:46.30,Default,Oscar,0,0,0,,Must be a guardian beast animated by magic.
+Dialogue: 0,0:05:46.30,0:05:48.87,Default,Lazar,0,0,0,,I'd be scared if a real lion was this huge.
+Dialogue: 0,0:05:48.87,0:05:51.39,Default,Lazar,0,0,0,,Your fearlessness is just as scary!
+Dialogue: 0,0:05:51.39,0:05:53.32,Default,Oscar,0,0,0,,It made for a good warm-up.
+Dialogue: 0,0:05:54.91,0:05:56.29,Default,Oscar,0,0,0,,You think I'd die if I fell down?
+Dialogue: 0,0:05:56.74,0:05:59.22,Default,Lazar,0,0,0,,Ah! Please don't get so close to the edge!
+Dialogue: 0,0:05:59.22,0:06:01.45,Default,Oscar,0,0,0,,You should have just waited at the bottom.
+Dialogue: 0,0:06:01.86,0:06:04.43,Default,Lazar,0,0,0,,I can't let you die all alone here, \NYour Highness!
+Dialogue: 0,0:06:04.43,0:06:05.85,Default,Oscar,0,0,0,,I'm not dying.
+Dialogue: 0,0:06:08.73,0:06:10.29,Default,Oscar,0,0,0,,How far have we come?
+Dialogue: 0,0:06:11.10,0:06:13.73,Default,Lazar,0,0,0,,We should be past the midway point, at least.
+Dialogue: 0,0:06:14.68,0:06:18.06,Default,Oscar,0,0,0,,The last person to succeed \Nwas my great-grandfather, was it?
+Dialogue: 0,0:06:18.06,0:06:21.23,Default,Lazar,0,0,0,,Yes, around seventy years ago now.
+Dialogue: 0,0:06:22.02,0:06:24.08,Default,Lazar,0,0,0,,Back then, ten men embarked on the climb,
+Dialogue: 0,0:06:24.08,0:06:28.53,Default,Lazar,0,0,0,,but only King Regius, who reigned \Nat the time, reached the top.
+Dialogue: 0,0:06:29.54,0:06:30.54,Default,Oscar,0,0,0,,I see.
+Dialogue: 0,0:06:31.07,0:06:33.21,Default,Oscar,0,0,0,,So far, it's been pretty easy.
+Dialogue: 0,0:06:33.48,0:06:34.90,Default,Lazar,0,0,0,,We really should turn back!
+Dialogue: 0,0:06:34.90,0:06:36.27,Default,Oscar,0,0,0,,You go back on your own.
+Dialogue: 0,0:06:36.27,0:06:37.68,Default,Oscar,0,0,0,,It's not like you're helping.
+Dialogue: 0,0:06:37.68,0:06:39.90,Default,Lazar,0,0,0,,Let's return together!
+Dialogue: 0,0:06:41.43,0:06:42.62,Default,Lazar,0,0,0,,Your Highness!
+Dialogue: 0,0:06:42.62,0:06:44.07,Default,Lazar,0,0,0,,Are you listening?
+Dialogue: 0,0:06:53.54,0:06:55.21,Default,Lazar,0,0,0,,Those are definitely coming to life!
+Dialogue: 0,0:06:55.21,0:06:56.22,Default,Lazar,0,0,0,,Let's head back!
+Dialogue: 0,0:06:56.22,0:06:58.44,Default,Oscar,0,0,0,,Seriously, you wait outside.
+Dialogue: 0,0:07:05.42,0:07:06.35,Default,Oscar,0,0,0,,Whoa there.
+Dialogue: 0,0:07:18.70,0:07:22.96,Default,Litola,0,0,0,,Master, the challengers have made it \Nto the stone statue room.
+Dialogue: 0,0:07:22.96,0:07:25.29,Default,Tinasha,0,0,0,,Quite the feat. How many are there?
+Dialogue: 0,0:07:25.93,0:07:27.02,Default,Litola,0,0,0,,Two of them.
+Dialogue: 0,0:07:27.02,0:07:29.06,Default,Litola,0,0,0,,No, in practice, just one.
+Dialogue: 0,0:07:29.49,0:07:30.50,Default,Tinasha,0,0,0,,One person...
+Dialogue: 0,0:07:31.85,0:07:35.33,Default,Tinasha,0,0,0,,I was making some tea for them, \Nbut it seems it'll go to waste.
+Dialogue: 0,0:07:35.97,0:07:39.14,Default,Tinasha,0,0,0,,Should we give them a consolation \Nprize for the effort?
+Dialogue: 0,0:07:39.14,0:07:41.11,Default,Litola,0,0,0,,It looks like he'll clear it easily.
+Dialogue: 0,0:07:41.41,0:07:42.09,Default,Tinasha,0,0,0,,What?
+Dialogue: 0,0:07:49.06,0:07:50.75,Default,Oscar,0,0,0,,These were a real pain.
+Dialogue: 0,0:07:51.41,0:07:53.16,Default,Lazar,0,0,0,,I'm glad you're unhurt.
+Dialogue: 0,0:07:53.51,0:07:55.61,Default,Oscar,0,0,0,,One hit from them, \Nand I'd be worse than hurt.
+Dialogue: 0,0:07:56.85,0:07:57.56,Default,Oscar,0,0,0,,Let's go.
+Dialogue: 0,0:07:57.56,0:07:58.45,Default,Lazar,0,0,0,,Yes.
+Dialogue: 0,0:07:59.40,0:07:59.98,Default,Oscar,0,0,0,,What?!
+Dialogue: 0,0:07:59.98,0:08:00.70,Default,Lazar,0,0,0,,Your Highness!
+Dialogue: 0,0:08:01.41,0:08:02.51,Default,Oscar,0,0,0,,Hurry, Lazar!
+Dialogue: 0,0:08:03.72,0:08:05.49,Default,Lazar,0,0,0,,Y-Your Highness...
+Dialogue: 0,0:08:06.93,0:08:07.51,Default,Oscar,0,0,0,,Wait right there!
+Dialogue: 0,0:08:07.51,0:08:08.47,Default,Lazar,0,0,0,,You mustn't!
+Dialogue: 0,0:08:10.09,0:08:10.98,Default,Lazar,0,0,0,,Your Highness.
+Dialogue: 0,0:08:11.81,0:08:13.38,Default,Lazar,0,0,0,,Please go on ahead.
+Dialogue: 0,0:08:13.70,0:08:14.61,Default,Oscar,0,0,0,,Don't be stupid!
+Dialogue: 0,0:08:14.61,0:08:15.45,Default,Oscar,0,0,0,,You'll fall!
+Dialogue: 0,0:08:15.45,0:08:17.58,Default,Lazar,0,0,0,,No, I'll be fine.
+Dialogue: 0,0:08:17.58,0:08:22.32,Default,Lazar,0,0,0,,My apologies, but I'll \Nbe returning without you.
+Dialogue: 0,0:08:25.34,0:08:26.22,Default,Lazar,0,0,0,,Your Highness!
+Dialogue: 0,0:08:26.50,0:08:27.98,Default,Lazar,0,0,0,,Please go ahead.
+Dialogue: 0,0:08:27.98,0:08:32.70,Default,Lazar,0,0,0,,I greatly await the day that you become king.
+Dialogue: 0,0:08:32.98,0:08:34.17,Default,Oscar,0,0,0,,Wait, Lazar!
+Dialogue: 0,0:08:34.17,0:08:35.23,Default,Oscar,0,0,0,,Lazar!
+Dialogue: 0,0:09:14.24,0:09:15.26,Default,Tinasha,0,0,0,,Welcome.
+Dialogue: 0,0:09:16.05,0:09:17.65,Default,Tinasha,0,0,0,,I've brewed us some tea.
+Dialogue: 0,0:09:22.68,0:09:24.12,Default,Tinasha,0,0,0,,Please, take a seat.
+Dialogue: 0,0:09:27.13,0:09:28.13,Default,Tinasha,0,0,0,,Pleasure to meet you.
+Dialogue: 0,0:09:28.48,0:09:30.73,Default,Tinasha,0,0,0,,My name is Tinasha.
+Dialogue: 0,0:09:30.73,0:09:34.84,Default,Tinasha,0,0,0,,Though there are few who call me by my name.
+Dialogue: 0,0:09:34.84,0:09:35.84,Default,Oscar,0,0,0,,You're the witch?
+Dialogue: 0,0:09:36.77,0:09:38.03,Default,Oscar,0,0,0,,You don't look it to me.
+Dialogue: 0,0:09:38.47,0:09:41.21,Default,Tinasha,0,0,0,,How foolish to question a witch's appearance.
+Dialogue: 0,0:09:42.44,0:09:44.71,Default,Tinasha,0,0,0,,Your companion is sleeping down \Nat the bottom.
+Dialogue: 0,0:09:45.37,0:09:46.82,Default,Tinasha,0,0,0,,He remains uninjured.
+Dialogue: 0,0:09:47.19,0:09:48.24,Default,Oscar,0,0,0,,I see.
+Dialogue: 0,0:09:58.31,0:10:00.87,Default,Oscar,0,0,0,,Did you use magic to alter your appearance?
+Dialogue: 0,0:10:01.38,0:10:03.65,Default,Tinasha,0,0,0,,You ask some rude questions.
+Dialogue: 0,0:10:03.65,0:10:04.57,Default,Tinasha,0,0,0,,This is all natural.
+Dialogue: 0,0:10:04.88,0:10:08.04,Default,Oscar,0,0,0,,I heard you've lived hundreds of years, \Nbut you don't have any wrinkles.
+Dialogue: 0,0:10:08.36,0:10:10.66,Default,Tinasha,0,0,0,,We live many times longer than humans do.
+Dialogue: 0,0:10:10.66,0:10:13.24,Default,Tinasha,0,0,0,,My body has simply stopped aging.
+Dialogue: 0,0:10:13.80,0:10:14.90,Default,Tinasha,0,0,0,,Well?
+Dialogue: 0,0:10:14.90,0:10:17.47,Default,Tinasha,0,0,0,,Isn't it your turn to speak now?
+Dialogue: 0,0:10:18.47,0:10:22.51,Default,Tinasha,0,0,0,,You're the first one to climb this tower \Npractically by yourself.
+Dialogue: 0,0:10:23.07,0:10:25.19,Default,Tinasha,0,0,0,,Please, if you'd at least tell me your name.
+Dialogue: 0,0:10:25.19,0:10:26.41,Default,Oscar,0,0,0,,Sorry about that.
+Dialogue: 0,0:10:26.81,0:10:31.13,Default,Oscar,0,0,0,,I am Oscar Lyeth Increatos Loz Farsas.
+Dialogue: 0,0:10:31.13,0:10:32.36,Default,Tinasha,0,0,0,,Farsas?
+Dialogue: 0,0:10:32.69,0:10:34.30,Default,Tinasha,0,0,0,,You're Farsas royalty?
+Dialogue: 0,0:10:34.63,0:10:36.77,Default,Oscar,0,0,0,,I'm the crown prince.
+Dialogue: 0,0:10:36.77,0:10:38.53,Default,Tinasha,0,0,0,,You're Regius's descendant?
+Dialogue: 0,0:10:38.53,0:10:39.74,Default,Oscar,0,0,0,,I'm his great-grandson.
+Dialogue: 0,0:10:39.98,0:10:42.04,Default,Tinasha,0,0,0,,What?!
+Dialogue: 0,0:10:42.04,0:10:44.31,Default,Tinasha,0,0,0,,You {\i1}do{\i0} look a bit like him.
+Dialogue: 0,0:10:44.62,0:10:45.55,Default,Tinasha,0,0,0,,Maybe?
+Dialogue: 0,0:10:46.24,0:10:49.88,Default,Tinasha,0,0,0,,Regius had a more kindhearted face, though.
+Dialogue: 0,0:10:50.19,0:10:52.35,Default,Oscar,0,0,0,,Sorry for looking so heartless.
+Dialogue: 0,0:10:56.68,0:10:57.92,Default,Tinasha,0,0,0,,My apologies.
+Dialogue: 0,0:10:58.24,0:11:01.19,Default,Tinasha,0,0,0,,That said, you're manlier than him.
+Dialogue: 0,0:11:01.67,0:11:03.49,Default,Tinasha,0,0,0,,Reg was too pure,
+Dialogue: 0,0:11:04.22,0:11:06.86,Default,Tinasha,0,0,0,,and he had a childish side to him.
+Dialogue: 0,0:11:10.64,0:11:13.80,Default,Oscar,0,0,0,,Do you live here alone?
+Dialogue: 0,0:11:13.80,0:11:15.87,Default,Tinasha,0,0,0,,I have a familiar with me.
+Dialogue: 0,0:11:15.87,0:11:16.61,Default,Tinasha,0,0,0,,Litola.
+Dialogue: 0,0:11:18.04,0:11:20.06,Default,Litola,0,0,0,,Pleased to make your acquaintance.
+Dialogue: 0,0:11:20.06,0:11:21.81,Default,Litola,0,0,0,,My name is Litola.
+Dialogue: 0,0:11:22.24,0:11:25.82,Default,Litola,0,0,0,,Your companion is sound asleep from my spell.
+Dialogue: 0,0:11:26.24,0:11:27.69,Default,Oscar,0,0,0,,Ah, thanks for that.
+Dialogue: 0,0:11:29.52,0:11:33.19,Default,Oscar,0,0,0,,What happens to the challengers \Nwho never make it back?
+Dialogue: 0,0:11:33.19,0:11:35.81,Default,Oscar,0,0,0,,Are they buried in a mass grave or something?
+Dialogue: 0,0:11:35.81,0:11:39.36,Default,Tinasha,0,0,0,,Can you not insinuate \Nthat I live by a graveyard?
+Dialogue: 0,0:11:39.80,0:11:44.44,Default,Tinasha,0,0,0,,I don't want to end up with corpses \Nin the tower, so I make sure no one dies.
+Dialogue: 0,0:11:44.72,0:11:47.80,Default,Oscar,0,0,0,,One hit from those stone statues \Nis more than enough to kill.
+Dialogue: 0,0:11:47.80,0:11:51.99,Default,Tinasha,0,0,0,,The instant that a fatal blow is about \Nto land, you get sent to the ground floor.
+Dialogue: 0,0:11:52.70,0:11:56.06,Default,Tinasha,0,0,0,,Those who fail \Nhave their memories altered a bit
+Dialogue: 0,0:11:56.06,0:11:58.85,Default,Tinasha,0,0,0,,and get sent off to random corners \Nof the mainland.
+Dialogue: 0,0:11:59.31,0:12:02.78,Default,Tinasha,0,0,0,,Most of them are just in it to \Nprove themselves or gain fame,
+Dialogue: 0,0:12:03.23,0:12:06.61,Default,Tinasha,0,0,0,,so it's more than \Na fair price to pay, I think.
+Dialogue: 0,0:12:07.33,0:12:12.36,Default,Litola,0,0,0,,But for challengers who come \Nto cure their child's illness or the like,
+Dialogue: 0,0:12:12.72,0:12:15.17,Default,Litola,0,0,0,,Master is kind enough \Nto do so even if they fail.
+Dialogue: 0,0:12:15.17,0:12:17.19,Default,Tinasha,0,0,0,,You don't need to tell him that!
+Dialogue: 0,0:12:22.33,0:12:23.71,Default,Oscar,0,0,0,,You sure are a mystery.
+Dialogue: 0,0:12:24.14,0:12:25.69,Default,Tinasha,0,0,0,,That's the way I like it.
+Dialogue: 0,0:12:26.99,0:12:28.88,Default,Oscar,0,0,0,,You don't ever go into town?
+Dialogue: 0,0:12:29.30,0:12:32.58,Default,Oscar,0,0,0,,I hear the other witches show \Nthemselves to humans more often.
+Dialogue: 0,0:12:33.07,0:12:36.20,Default,Tinasha,0,0,0,,I don't want to interfere \Nwith human lives too much.
+Dialogue: 0,0:12:36.60,0:12:40.33,Default,Tinasha,0,0,0,,My powers are not meant \Nto be wielded on a whim.
+Dialogue: 0,0:12:40.83,0:12:42.12,Default,Oscar,0,0,0,,I see.
+Dialogue: 0,0:12:42.53,0:12:46.73,Default,Oscar,0,0,0,,If only the Witch of Silence \Nthought the same way.
+Dialogue: 0,0:12:47.53,0:12:51.81,Default,Tinasha,0,0,0,,Is that related to why you came here?
+Dialogue: 0,0:12:52.46,0:12:55.21,Default,Oscar,0,0,0,,I've been cursed by the Witch of Silence.
+Dialogue: 0,0:12:57.44,0:13:01.45,Flashback,Lavinia,0,0,0,,Never again shall you beget an heir.
+Dialogue: 0,0:13:02.16,0:13:04.18,Flashback,Lavinia,0,0,0,,The same goes for that son of yours.
+Dialogue: 0,0:13:06.42,0:13:10.44,Flashback,Lavinia,0,0,0,,Your blood will eat away \Nat any womb it touches.
+Dialogue: 0,0:13:11.26,0:13:15.71,Flashback,Lavinia,0,0,0,,The Farsas bloodline ends with you.
+Dialogue: 0,0:13:18.26,0:13:21.23,Default,Tinasha,0,0,0,,Why did you end up with a curse like that?
+Dialogue: 0,0:13:21.65,0:13:26.06,Default,Oscar,0,0,0,,My father doesn't wish to speak of it, \Nso I've never directly asked him the cause.
+Dialogue: 0,0:13:26.54,0:13:30.07,Default,Oscar,0,0,0,,It seems related to my mother, \Nwho passed away immediately before.
+Dialogue: 0,0:13:30.83,0:13:32.31,Default,Tinasha,0,0,0,,I see.
+Dialogue: 0,0:13:32.72,0:13:36.31,Default,Oscar,0,0,0,,Of course, I tried to find \Na way to break the curse,
+Dialogue: 0,0:13:36.31,0:13:37.65,Default,Oscar,0,0,0,,but no matter how much I read
+Dialogue: 0,0:13:37.65,0:13:40.70,Default,Oscar,0,0,0,,or explored ruins that seemed promising,
+Dialogue: 0,0:13:40.70,0:13:43.72,Default,Oscar,0,0,0,,I couldn't find a single clue \Nto rid myself of this curse.
+Dialogue: 0,0:13:47.48,0:13:48.89,Default,Oscar,0,0,0,,And so, I came here.
+Dialogue: 0,0:13:50.65,0:13:52.70,Default,Tinasha,0,0,0,,Before we go any further,
+Dialogue: 0,0:13:52.70,0:13:56.03,Default,Tinasha,0,0,0,,there's no guarantee that a curse \Ncan be lifted in the first place.
+Dialogue: 0,0:13:57.40,0:14:02.64,Default,Tinasha,0,0,0,,What we call magic is organized and \Noperated using a shared set of rules.
+Dialogue: 0,0:14:02.64,0:14:05.09,Default,Tinasha,0,0,0,,However, curses don't follow any rules.
+Dialogue: 0,0:14:05.09,0:14:07.99,Default,Tinasha,0,0,0,,When you imbue arbitrary words \Nwith meaning that you define,
+Dialogue: 0,0:14:07.99,0:14:10.28,Default,Tinasha,0,0,0,,as well as magical power, \Nyou end up with a curse.
+Dialogue: 0,0:14:10.72,0:14:13.98,Default,Tinasha,0,0,0,,Which means, of course, \Nthat it varies depending on who casts it.
+Dialogue: 0,0:14:13.98,0:14:15.40,Default,Tinasha,0,0,0,,In the most extreme cases,
+Dialogue: 0,0:14:15.40,0:14:18.49,Default,Tinasha,0,0,0,,if breaking the curse is left undefined \Nat the time of casting,
+Dialogue: 0,0:14:18.49,0:14:20.11,Default,Tinasha,0,0,0,,not even the caster can undo it.
+Dialogue: 0,0:14:20.64,0:14:21.69,Default,Oscar,0,0,0,,They can't undo it?
+Dialogue: 0,0:14:21.95,0:14:23.10,Default,Tinasha,0,0,0,,They can't.
+Dialogue: 0,0:14:23.10,0:14:27.83,Default,Tinasha,0,0,0,,But in turn, curses don't hold \Noverwhelming power.
+Dialogue: 0,0:14:28.42,0:14:33.61,Default,Tinasha,0,0,0,,They can't directly kill people, \Nand they can only act in roundabout ways.
+Dialogue: 0,0:14:33.96,0:14:37.37,Default,Oscar,0,0,0,,But this curse seems fairly powerful.
+Dialogue: 0,0:14:37.63,0:14:38.51,Default,Tinasha,0,0,0,,Yes.
+Dialogue: 0,0:14:38.51,0:14:41.63,Default,Tinasha,0,0,0,,Your curse seems to go \Nbeyond what I described.
+Dialogue: 0,0:14:41.63,0:14:45.03,Default,Tinasha,0,0,0,,That's because what you've been \Nafflicted with is not a curse,
+Dialogue: 0,0:14:45.03,0:14:47.93,Default,Tinasha,0,0,0,,but a variant of what \Nyou might call a blessing.
+Dialogue: 0,0:14:48.82,0:14:49.52,Default,Oscar,0,0,0,,Huh?
+Dialogue: 0,0:14:51.96,0:14:53.08,Default,Oscar,0,0,0,,What's this?
+Dialogue: 0,0:14:53.08,0:14:56.92,Default,Tinasha,0,0,0,,I've made visible a part of the blessing \Nthat's been cast on you.
+Dialogue: 0,0:14:57.39,0:15:01.86,Default,Tinasha,0,0,0,,Fundamentally, blessings are cast \Nthe same way as curses,
+Dialogue: 0,0:15:01.86,0:15:03.73,Default,Tinasha,0,0,0,,but they vary in the direction of power.
+Dialogue: 0,0:15:04.33,0:15:07.05,Default,Tinasha,0,0,0,,They magnify the energy \Nthat's already present.
+Dialogue: 0,0:15:07.40,0:15:12.81,Default,Tinasha,0,0,0,,Which is why blessings can be quite powerful, \Ndepending on the caster's prowess.
+Dialogue: 0,0:15:13.99,0:15:17.42,Default,Tinasha,0,0,0,,The one that's been cast on you \Nsubverts the idea,
+Dialogue: 0,0:15:17.42,0:15:22.38,Default,Tinasha,0,0,0,,and tries to protect any unborn child \Nwith an extremely powerful force.
+Dialogue: 0,0:15:22.80,0:15:24.86,Default,Tinasha,0,0,0,,It'd be impossible \Nfor a normal mother to bear.
+Dialogue: 0,0:15:25.82,0:15:30.33,Default,Tinasha,0,0,0,,If the blessing could be analyzed, \Nyou could use magic to alleviate it,
+Dialogue: 0,0:15:30.67,0:15:33.64,Default,Tinasha,0,0,0,,but there are about \Ntwenty layers intertwined here.
+Dialogue: 0,0:15:35.09,0:15:37.50,Default,Tinasha,0,0,0,,The Witch of Silence is powerful indeed.
+Dialogue: 0,0:15:37.93,0:15:39.92,Default,Tinasha,0,0,0,,I'm terribly sorry.
+Dialogue: 0,0:15:40.44,0:15:43.36,Default,Oscar,0,0,0,,So... you can't break it?
+Dialogue: 0,0:15:45.97,0:15:46.96,Default,Oscar,0,0,0,,Hey.
+Dialogue: 0,0:15:47.68,0:15:48.88,Default,Tinasha,0,0,0,,W-Well...
+Dialogue: 0,0:15:49.38,0:15:52.55,Default,Tinasha,0,0,0,,You came all this way, so I can't \Nhave you leave empty-handed.
+Dialogue: 0,0:15:53.27,0:15:55.79,Default,Tinasha,0,0,0,,I'll do what I can here.
+Dialogue: 0,0:15:55.79,0:15:57.62,Default,Oscar,0,0,0,,So there's a way?
+Dialogue: 0,0:15:57.62,0:15:59.58,Default,Tinasha,0,0,0,,There's a simple answer here.
+Dialogue: 0,0:16:00.68,0:16:05.30,Default,Tinasha,0,0,0,,You just need to find a woman who can \Nwithstand the child's protective power.
+Dialogue: 0,0:16:06.01,0:16:08.07,Default,Oscar,0,0,0,,Does such a woman really exist?
+Dialogue: 0,0:16:08.07,0:16:11.55,Default,Tinasha,0,0,0,,I'm sure there must be one \Nor two on the mainland.
+Dialogue: 0,0:16:12.04,0:16:15.38,Default,Tinasha,0,0,0,,I'll look for someone based on their \Nmagical power and magical resistance,
+Dialogue: 0,0:16:15.38,0:16:17.27,Default,Tinasha,0,0,0,,so please overlook any other aspect.
+Dialogue: 0,0:16:17.27,0:16:20.24,Default,Oscar,0,0,0,,What if it's she's married, \Nelderly, or a child?
+Dialogue: 0,0:16:20.53,0:16:24.26,Default,Tinasha,0,0,0,,If she's married, then morally \Nthere's nothing you can do,
+Dialogue: 0,0:16:24.26,0:16:26.32,Default,Tinasha,0,0,0,,but the elderly should be fine \Nwith some magic.
+Dialogue: 0,0:16:26.84,0:16:30.71,Default,Tinasha,0,0,0,,If she's a child, you can raise her \Nto be your ideal woman!
+Dialogue: 0,0:16:30.71,0:16:34.23,Default,Tinasha,0,0,0,,You see marriages with gaps of \Ntwenty years all the time with royalty.
+Dialogue: 0,0:16:39.25,0:16:42.47,Default,Tinasha,0,0,0,,Anyway, I'll find someone, \Nso keep your chin up!
+Dialogue: 0,0:16:42.47,0:16:43.93,Default,Oscar,0,0,0,,Anyway?
+Dialogue: 0,0:16:45.34,0:16:46.67,Default,Oscar,0,0,0,,Hey.
+Dialogue: 0,0:16:51.08,0:16:52.19,Default,Oscar,0,0,0,,Tinasha.
+Dialogue: 0,0:16:52.19,0:16:53.24,Default,Tinasha,0,0,0,,You scared me.
+Dialogue: 0,0:16:53.49,0:16:55.10,Default,Oscar,0,0,0,,Why's that scare you?
+Dialogue: 0,0:16:55.10,0:16:58.12,Default,Tinasha,0,0,0,,Practically no one calls me by my name.
+Dialogue: 0,0:16:58.12,0:16:59.95,Default,Oscar,0,0,0,,You're the one who told me your name.
+Dialogue: 0,0:16:59.95,0:17:01.51,Default,Tinasha,0,0,0,,Sorry.
+Dialogue: 0,0:17:01.51,0:17:03.04,Default,Tinasha,0,0,0,,So? What is it?
+Dialogue: 0,0:17:03.04,0:17:03.98,Default,Oscar,0,0,0,,Ah, well...
+Dialogue: 0,0:17:04.56,0:17:06.00,Default,Oscar,0,0,0,,What about you?
+Dialogue: 0,0:17:07.81,0:17:12.01,Default,Oscar,0,0,0,,Can you withstand the \NWitch of Silence's magical power?
+Dialogue: 0,0:17:12.70,0:17:15.13,Default,Tinasha,0,0,0,,Sure, I'd have no trouble against that.
+Dialogue: 0,0:17:16.76,0:17:17.41,Default,Tinasha,0,0,0,,Wait.
+Dialogue: 0,0:17:17.84,0:17:19.54,Default,Oscar,0,0,0,,Then it's settled.
+Dialogue: 0,0:17:19.84,0:17:20.47,Default,Tinasha,0,0,0,,Eh?
+Dialogue: 0,0:17:21.03,0:17:22.67,Default,Tinasha,0,0,0,,Hold it right there.
+Dialogue: 0,0:17:24.55,0:17:28.21,Default,Oscar,0,0,0,,It's surer than trying to look for a woman \Nwho might not even exist.
+Dialogue: 0,0:17:28.64,0:17:34.45,Default,Oscar,0,0,0,,Let's say my wish as champion is that \Nyou leave this tower and become my wife.
+Dialogue: 0,0:17:36.62,0:17:39.97,Default,Tinasha,0,0,0,,I-I can't possibly accept that!
+Dialogue: 0,0:17:39.97,0:17:42.65,Default,Oscar,0,0,0,,Didn't you say you'd do what you could?
+Dialogue: 0,0:17:42.65,0:17:44.35,Default,Tinasha,0,0,0,,There are limits to that!
+Dialogue: 0,0:17:44.35,0:17:45.60,Default,Tinasha,0,0,0,,Nuh-uh, not happening!
+Dialogue: 0,0:17:45.60,0:17:47.80,Default,Oscar,0,0,0,,Could it be that you're actually married?
+Dialogue: 0,0:17:48.12,0:17:49.80,Default,Tinasha,0,0,0,,I have no history of marriage.
+Dialogue: 0,0:17:49.80,0:17:51.18,Default,Oscar,0,0,0,,Do you have a boyfriend?
+Dialogue: 0,0:17:51.18,0:17:52.69,Default,Tinasha,0,0,0,,I've never had one!
+Dialogue: 0,0:17:52.69,0:17:55.12,Default,Oscar,0,0,0,,Didn't you say the elderly should be fine?
+Dialogue: 0,0:17:55.12,0:17:59.50,Default,Tinasha,0,0,0,,I may be old, but being called \Nelderly ticks me off!
+Dialogue: 0,0:17:59.50,0:18:01.05,Default,Tinasha,0,0,0,,Wait, that's not the point!
+Dialogue: 0,0:18:01.46,0:18:04.91,Default,Tinasha,0,0,0,,You can't be sane, trying to introduce \Nwitch blood into the royal family!
+Dialogue: 0,0:18:04.91,0:18:07.51,Default,Tinasha,0,0,0,,The royal council would \Nspit up blood at the idea!
+Dialogue: 0,0:18:07.51,0:18:09.75,Default,Oscar,0,0,0,,I wouldn't mind seeing that.
+Dialogue: 0,0:18:10.57,0:18:13.53,Default,Tinasha,0,0,0,,I can't tell if you \Nremind me of Reg or not...
+Dialogue: 0,0:18:13.99,0:18:16.07,Default,Tinasha,0,0,0,,You're a real piece of work.
+Dialogue: 0,0:18:16.07,0:18:17.70,Default,Oscar,0,0,0,,I have a mean streak.
+Dialogue: 0,0:18:19.44,0:18:21.34,Default,Tinasha,0,0,0,,Anyway, no can do.
+Dialogue: 0,0:18:21.34,0:18:25.90,Default,Tinasha,0,0,0,,If I granted wishes like that, \NI'd be your great-grandmother by now.
+Dialogue: 0,0:18:28.21,0:18:30.83,Default,Oscar,0,0,0,,My great-grandfather might have backed down,
+Dialogue: 0,0:18:30.83,0:18:34.11,Default,Oscar,0,0,0,,but I'm my own man, \Nso it's got nothing to do with me.
+Dialogue: 0,0:18:34.39,0:18:35.89,Default,Tinasha,0,0,0,,What are you saying?
+Dialogue: 0,0:18:35.89,0:18:36.84,Default,Tinasha,0,0,0,,Neither is okay!
+Dialogue: 0,0:18:36.84,0:18:37.78,Default,Tinasha,0,0,0,,No exceptions!
+Dialogue: 0,0:18:37.78,0:18:41.20,Default,Oscar,0,0,0,,It's been seventy years, and you \Nrefuse to make any exceptions?
+Dialogue: 0,0:18:41.20,0:18:43.05,Default,Oscar,0,0,0,,Why don't you be a little more flexible?
+Dialogue: 0,0:18:43.05,0:18:45.52,Default,Tinasha,0,0,0,,There are limits, you know!
+Dialogue: 0,0:18:45.87,0:18:47.68,Default,Tinasha,0,0,0,,If you refuse to listen to me,
+Dialogue: 0,0:18:47.68,0:18:49.73,Default,Tinasha,0,0,0,,I'll alter your memories \Nand return you to the castle!
+Dialogue: 0,0:18:49.73,0:18:52.30,Default,Oscar,0,0,0,,That's one hell of a thing to say.
+Dialogue: 0,0:18:52.30,0:18:54.26,Default,Tinasha,0,0,0,,I could say the same thing.
+Dialogue: 0,0:18:54.53,0:18:56.23,Default,Oscar,0,0,0,,Hey, don't make me fight back.
+Dialogue: 0,0:18:58.51,0:19:00.44,Default,Tinasha,0,0,0,,The royal sword Akashia...
+Dialogue: 0,0:19:00.44,0:19:04.48,Default,Tinasha,0,0,0,,That's the only sword in the world \Nboasting full magical resistance.
+Dialogue: 0,0:19:04.97,0:19:07.40,Default,Tinasha,0,0,0,,Why are you walking around with that thing?
+Dialogue: 0,0:19:07.40,0:19:09.11,Default,Tinasha,0,0,0,,Isn't it a royal treasure?
+Dialogue: 0,0:19:09.36,0:19:12.32,Default,Oscar,0,0,0,,Items like these \Nare best put to practical use.
+Dialogue: 0,0:19:13.82,0:19:17.76,Default,Oscar,0,0,0,,Ah, this thing is your worst enemy, isn't it?
+Dialogue: 0,0:19:21.87,0:19:24.16,Default,Tinasha,0,0,0,,Let's talk things out a bit more.
+Dialogue: 0,0:19:24.16,0:19:25.63,Default,Oscar,0,0,0,,I agree.
+Dialogue: 0,0:19:25.63,0:19:26.71,Default,Oscar,0,0,0,,Calm yourself.
+Dialogue: 0,0:19:28.22,0:19:31.57,Default,Tinasha,0,0,0,,You're so stubborn, \Nit's honestly a bit unusual.
+Dialogue: 0,0:19:31.57,0:19:33.50,Default,Tinasha,0,0,0,,Back down and concede.
+Dialogue: 0,0:19:33.84,0:19:35.97,Default,Oscar,0,0,0,,I could say the same of you.
+Dialogue: 0,0:19:39.68,0:19:45.31,Default,Oscar,0,0,0,,Oh yeah, I hear you lived in Farsas Castle \Nfor a while seventy years ago.
+Dialogue: 0,0:19:45.31,0:19:47.57,Default,Tinasha,0,0,0,,Only for about half a year.
+Dialogue: 0,0:19:47.57,0:19:50.42,Default,Tinasha,0,0,0,,Teaching magic, raising flowers, and so on.
+Dialogue: 0,0:19:50.74,0:19:52.46,Default,Tinasha,0,0,0,,I had a pretty good time.
+Dialogue: 0,0:19:53.58,0:19:56.15,Default,Oscar,0,0,0,,Was that my great-grandfather's wish?
+Dialogue: 0,0:19:56.15,0:19:56.86,Default,Tinasha,0,0,0,,No.
+Dialogue: 0,0:19:59.92,0:20:01.80,Default,Oscar,0,0,0,,Then how about this?
+Dialogue: 0,0:20:03.09,0:20:04.16,Default,Oscar,0,0,0,,One year.
+Dialogue: 0,0:20:04.76,0:20:08.67,Default,Oscar,0,0,0,,Leave this place for one year \Nand live with me in Farsas.
+Dialogue: 0,0:20:08.96,0:20:11.88,Default,Oscar,0,0,0,,That is my request as champion.
+Dialogue: 0,0:20:12.27,0:20:14.11,Default,Oscar,0,0,0,,Will you accept it?
+Dialogue: 0,0:20:20.79,0:20:22.04,Default,Tinasha,0,0,0,,I understand.
+Dialogue: 0,0:20:22.48,0:20:26.96,Default,Tinasha,0,0,0,,Then I will leave this tower \Nto act as your protector.
+Dialogue: 0,0:20:28.62,0:20:29.66,Default,Lazar,0,0,0,,Your Highness.
+Dialogue: 0,0:20:30.03,0:20:31.43,Default,Lazar,0,0,0,,We really should give up.
+Dialogue: 0,0:20:31.43,0:20:32.36,Default,Oscar,0,0,0,,Lazar.
+Dialogue: 0,0:20:32.88,0:20:34.83,Default,Oscar,0,0,0,,Lazar! Wake up, Lazar!
+Dialogue: 0,0:20:36.16,0:20:37.33,Default,Lazar,0,0,0,,Yes!
+Dialogue: 0,0:20:37.33,0:20:39.17,Default,Lazar,0,0,0,,Huh? Your Highness?
+Dialogue: 0,0:20:41.39,0:20:42.35,Default,Lazar,0,0,0,,It's night already...
+Dialogue: 0,0:20:42.35,0:20:43.54,Default,Oscar,0,0,0,,C'mon, let's go home.
+Dialogue: 0,0:20:43.95,0:20:46.24,Default,Lazar,0,0,0,,Are you okay with returning home?
+Dialogue: 0,0:20:46.24,0:20:48.70,Default,Lazar,0,0,0,,Yeah, I'm all done here.
+Dialogue: 0,0:20:50.57,0:20:53.14,Default,Lazar,0,0,0,,Your Highness, who's that?
+Dialogue: 0,0:20:53.14,0:20:54.64,Default,Oscar,0,0,0,,She's the witch's pupil.
+Dialogue: 0,0:20:54.64,0:20:58.46,Default,Oscar,0,0,0,,She'll be staying at the castle \Nto help me remove the curse.
+Dialogue: 0,0:20:58.46,0:20:59.82,Default,Tinasha,0,0,0,,Call me Tinasha.
+Dialogue: 0,0:21:00.49,0:21:02.53,Default,Lazar,0,0,0,,I-I'm Lazar!
+Dialogue: 0,0:21:03.93,0:21:05.87,Default,Lazar,0,0,0,,Did you meet the witch as well?
+Dialogue: 0,0:21:05.87,0:21:07.39,Default,Oscar,0,0,0,,Yeah, I did.
+Dialogue: 0,0:21:07.39,0:21:09.19,Default,Lazar,0,0,0,,She didn't eat you alive?
+Dialogue: 0,0:21:11.27,0:21:13.00,Default,Oscar,0,0,0,,You're just asking for it now.
+Dialogue: 0,0:21:19.75,0:21:21.78,Default,Oscar,0,0,0,,Well, she was quite the interesting one.
+Dialogue: 0,0:21:24.21,0:21:25.55,Default,Lazar,0,0,0,,Ah, Your Highness.
+Dialogue: 0,0:21:25.55,0:21:27.03,Default,Lazar,0,0,0,,Please wait for me!
+Dialogue: 0,0:21:33.06,0:21:34.37,Default,Oscar,0,0,0,,Magic, huh?
+Dialogue: 0,0:21:34.37,0:21:35.26,Default,Oscar,0,0,0,,Pretty nifty.
+Dialogue: 0,0:21:35.52,0:21:37.57,Default,Tinasha,0,0,0,,I can use this whenever you'd like.
+Dialogue: 0,0:21:37.57,0:21:40.73,Default,Tinasha,0,0,0,,Ask me if you need something \Nburnt to a crisp.
+Dialogue: 0,0:21:42.46,0:21:43.68,Default,Oscar,0,0,0,,That won't be needed.
+Dialogue: 0,0:21:43.68,0:21:45.94,Default,Oscar,0,0,0,,You just need to stay by my side.
+Dialogue: 0,0:21:47.88,0:21:48.84,Default,Oscar,0,0,0,,Tinasha.
+Dialogue: 0,0:21:50.08,0:21:51.92,Default,Oscar,0,0,0,,If you change your mind halfway through,
+Dialogue: 0,0:21:51.92,0:21:53.94,Default,Oscar,0,0,0,,you can always make your home in Farsas.
+Dialogue: 0,0:21:56.81,0:21:58.55,Default,Tinasha,0,0,0,,That won't happen.
+Dialogue: 0,0:23:35.48,0:23:40.02,Next Ep Title,Sign,0,0,0,,{\fad(500,1)}~ The Past Recalled Once Again ~

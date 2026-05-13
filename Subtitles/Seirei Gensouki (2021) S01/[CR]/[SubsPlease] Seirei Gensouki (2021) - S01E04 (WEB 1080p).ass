@@ -1,0 +1,394 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: sign_3238_18_Seirei_Gensouki,Trebuchet MS,40,&H00FAFFFF,&H000000FF,&H00E6B519,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,20,1
+Style: sign_5011_20_The_Kingdom_of_B,Arial,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+Style: sign_5131_21_Memories_of_the_,Trebuchet MS,10,&H00FFFFFC,&H000000FF,&H0040AB29,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+Style: sign_33925_315_Next_Time_Royal_,Trebuchet MS,15,&H00FAFFFF,&H000000FF,&H00CBB281,&H00BDB85F,0,0,0,0,100,100,0,0,1,2,1,2,30,30,20,1
+Style: sign_34045_321_Exciting_Bonus_M,Trebuchet MS,37,&H00C28D31,&H000000FF,&H00EAEAEA,&H00000000,-1,0,0,0,100,100,0,0,3,4,0,1,30,30,20,1
+Style: sign_34045_320_Spirit_Chronicle,Trebuchet MS,25,&H00DEEEEB,&H000000FF,&H00B98B31,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,30,30,20,1
+Style: sign_34045_323_By_Minazuki_Futa,Comic Sans MS,20,&H003A3A3A,&H000000FF,&H00EBEBEB,&H00000000,0,0,0,0,100,100,0,0,3,1,0,1,30,30,20,1
+Style: sign_34045_319_I_had_a_dream_th,Trebuchet MS,24,&H00141414,&H000000FF,&H00EBEBEB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+Style: sign_34127_328_Ha_ha,Verdana,20,&H00282828,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_34212_329_Meow,Verdana,40,&H00EAEAEA,&H000000FF,&H00181818,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:20.74,0:00:22.20,italics,Rio,0,0,0,,Professor Celia,
+Dialogue: 0,0:00:22.70,0:00:26.21,italics,Rio,0,0,0,,It's been three days since I left Beltrant,\N the royal capital.
+Dialogue: 0,0:00:26.21,0:00:29.21,sign_5011_20_The_Kingdom_of_B,text,0,0,0,,{\pos(320,300)}Year 996 of the Holy Era, Summer
+Dialogue: 0,0:00:26.97,0:00:28.33,italicstop,Rio,0,0,0,,I've safely reached a neighboring kingdom,
+Dialogue: 0,0:00:29.21,0:00:31.71,italicstop,Rio,0,0,0,,and arrived in Amande, a market \Ntown in the Kingdom of Galarc.
+Dialogue: 0,0:00:29.21,0:00:33.24,sign_5011_20_The_Kingdom_of_B,text,0,0,0,,{\pos(320,300)}Kingdom of Galarc, Amande Market Town
+Dialogue: 0,0:00:37.77,0:00:39.76,main,Rio,0,0,0,,Not here... right?
+Dialogue: 0,0:00:40.18,0:00:42.39,italics,Rio,0,0,0,,As there were wanted posters \Ncirculating in the royal capital,
+Dialogue: 0,0:00:42.99,0:00:46.35,italics,Rio,0,0,0,,it was difficult to procure the \Nitems I needed for my journey,
+Dialogue: 0,0:00:46.35,0:00:48.94,italics,Rio,0,0,0,,but they haven't reached this town yet,
+Dialogue: 0,0:00:48.94,0:00:50.38,italics,Rio,0,0,0,,so please don't worry about me.
+Dialogue: 0,0:00:51.52,0:00:55.32,italics,Rio,0,0,0,,Amande is a bustling, lively town.
+Dialogue: 0,0:00:55.54,0:00:57.28,italics,Rio,0,0,0,,Foodstuffs are plentiful,
+Dialogue: 0,0:00:57.28,0:01:00.49,italics,Rio,0,0,0,,and it looks like I'll be able to acquire \Npreserved foods quickly, which is a relief.
+Dialogue: 0,0:01:07.21,0:01:08.77,italics,Rio,0,0,0,,I guess I'm a little too on edge.
+Dialogue: 0,0:01:28.98,0:01:32.15,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\pos(345,125)\blur4\fad(897,1)}Seirei Gensouki
+Dialogue: 0,0:01:28.98,0:01:32.15,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\pos(345,125)\blur4\c&H7AFBFF&\clip(217,107,471,123)\fad(897,1)}Seirei Gensouki
+Dialogue: 0,0:02:44.51,0:02:48.73,sign_5131_21_Memories_of_the_,text,0,0,0,,{\blur3\fad(505,1)\pos(505,295)}The Assassin Girl
+Dialogue: 0,0:02:44.51,0:02:48.73,sign_5131_21_Memories_of_the_,text,0,0,0,,{\blur3\c&H87FFF1&\fad(505,1)\clip(84,293,165,297)\pos(505,295)}The Assassin Girl
+Dialogue: 0,0:02:46.81,0:02:48.14,main,shop owner,0,0,0,,Welcome!
+Dialogue: 0,0:02:49.07,0:02:50.49,main,shop owner,0,0,0,,We have soup-style pasta!
+Dialogue: 0,0:02:50.88,0:02:53.23,main,shop owner,0,0,0,,One bowl for eight lesser coppers!
+Dialogue: 0,0:02:53.93,0:02:56.07,main,Rio,0,0,0,,Did you say... pasta?
+Dialogue: 0,0:02:56.07,0:02:59.18,main,shop owner,0,0,0,,Huh? Son, is this your \Nfirst time in this town?
+Dialogue: 0,0:02:59.18,0:03:00.57,main,Rio,0,0,0,,Uh, yes.
+Dialogue: 0,0:03:01.28,0:03:05.26,main,shop owner,0,0,0,,Soup-style pasta! Lady Liselotte, \Nthe one who governs Amande,
+Dialogue: 0,0:03:05.26,0:03:08.82,main,shop owner,0,0,0,,invented something out of wheat called \N"noodles," and this dish uses those.
+Dialogue: 0,0:03:09.65,0:03:11.20,main,Rio,0,0,0,,Liselotte...
+Dialogue: 0,0:03:11.20,0:03:13.38,main,shop owner,0,0,0,,This is the finished dish.
+Dialogue: 0,0:03:14.35,0:03:15.29,main,shop owner,0,0,0,,Thanks for waiting!
+Dialogue: 0,0:03:15.84,0:03:16.97,italics,Rio,0,0,0,,Pasta...
+Dialogue: 0,0:03:17.45,0:03:19.48,italics,Rio,0,0,0,,It's the first time I've \Nseen it in this world.
+Dialogue: 0,0:03:19.81,0:03:21.43,italics,Rio,0,0,0,,And I heard the word "noodles," too.
+Dialogue: 0,0:03:24.47,0:03:26.00,main,shop owner,0,0,0,,Looks good, right?
+Dialogue: 0,0:03:26.00,0:03:27.75,main,shop owner,0,0,0,,And it really is good, too!
+Dialogue: 0,0:03:27.75,0:03:29.32,main,Rio,0,0,0,,Then, can I have one bowl, please?
+Dialogue: 0,0:03:29.32,0:03:30.45,main,shop owner,0,0,0,,Thanks for the business!
+Dialogue: 0,0:03:36.73,0:03:37.91,main,Rio,0,0,0,,It's delicious!
+Dialogue: 0,0:03:37.91,0:03:39.27,main,shop owner,0,0,0,,Right?
+Dialogue: 0,0:03:40.28,0:03:41.82,italics,Rio,0,0,0,,It's a nostalgic flavor.
+Dialogue: 0,0:03:44.20,0:03:48.34,italics,Rio,0,0,0,,Could it be that this Liselotte person \Nalso came from the same world as Haruto?
+Dialogue: 0,0:03:49.91,0:03:51.39,italics,Rio,0,0,0,,Not that it matters at this point.
+Dialogue: 0,0:03:51.90,0:03:54.49,italics,Rio,0,0,0,,Thinking about that stuff doesn't mean \Nthere's anything that can be done about it.
+Dialogue: 0,0:03:57.92,0:04:03.40,flashback,Rio's mom,0,0,0,,When you're bigger, I'll take you there.\N It's a place called Yagumo.
+Dialogue: 0,0:04:03.40,0:04:05.77,flashback,Rio; 5 yo,0,0,0,,Really? You promised, okay?
+Dialogue: 0,0:04:06.50,0:04:07.51,italics,Rio,0,0,0,,I...
+Dialogue: 0,0:04:08.17,0:04:11.14,italics,Rio,0,0,0,,I want to see the place my \Nmother and father came from.
+Dialogue: 0,0:04:11.73,0:04:13.64,italics,Rio,0,0,0,,It was a promise I made with my mother.
+Dialogue: 0,0:04:17.13,0:04:18.26,main,Rio,0,0,0,,Is that it?
+Dialogue: 0,0:04:19.70,0:04:21.74,flashback,shop owner,0,0,0,,You want to buy noodles?
+Dialogue: 0,0:04:21.74,0:04:24.99,flashback,Rio,0,0,0,,Yes. I think they'll be good \Nto take on my journey.
+Dialogue: 0,0:04:24.99,0:04:27.30,flashback,Rio,0,0,0,,Oh, and this was delicious.
+Dialogue: 0,0:04:27.30,0:04:30.49,flashback,shop owner,0,0,0,,In that case, try heading down that \Nway to the Ricca merchant guild.
+Dialogue: 0,0:04:31.12,0:04:34.18,flashback,shop owner,0,0,0,,There should be a long line to the \Nmenjuu shop on the first floor,
+Dialogue: 0,0:04:34.18,0:04:35.69,flashback,shop owner,0,0,0,,so I'm sure you'll recognize it right away.
+Dialogue: 0,0:04:36.15,0:04:38.50,flashback,Rio,0,0,0,,Did you say... menjuu?
+Dialogue: 0,0:04:38.50,0:04:41.33,flashback,shop owner,0,0,0,,Yeah! It's another thing \Nthat Lady Liselotte...
+Dialogue: 0,0:04:41.33,0:04:42.70,main,boy's mom,0,0,0,,It's yummy, isn't it?
+Dialogue: 0,0:04:42.70,0:04:43.75,main,boy,0,0,0,,Yeah!
+Dialogue: 0,0:04:43.75,0:04:47.47,main,manjuu shop,0,0,0,,Two meat menjuu and one cheese menjuu!
+Dialogue: 0,0:04:47.47,0:04:48.85,main,manjuu shop,0,0,0,,Thank you for waiting!
+Dialogue: 0,0:04:49.23,0:04:51.35,main,manjuu shop,0,0,0,,They're hot, so please be careful.
+Dialogue: 0,0:04:51.68,0:04:53.10,italics,Rio,0,0,0,,Manjuu meat buns?
+Dialogue: 0,0:04:53.44,0:04:55.31,italics,Rio,0,0,0,,That feels nostalgic, somehow.
+Dialogue: 0,0:04:55.58,0:04:58.56,main,Lotte,0,0,0,,Hello. Welcome to the Ricca merchant guild.
+Dialogue: 0,0:04:58.56,0:05:00.27,main,Cosette,0,0,0,,Thank you very much.
+Dialogue: 0,0:05:00.82,0:05:02.93,main,Cosette,0,0,0,,We hope you'll come again soon.
+Dialogue: 0,0:05:04.17,0:05:05.47,main,Lotte,0,0,0,,Sir?
+Dialogue: 0,0:05:06.07,0:05:10.37,main,Lotte,0,0,0,,We ask that you refrain from \Nwearing a sword within the store.
+Dialogue: 0,0:05:10.37,0:05:13.45,main,Lotte,0,0,0,,You can check your things, and we can \Nlook after them for you if you'd like.
+Dialogue: 0,0:05:13.45,0:05:15.23,main,Rio,0,0,0,,Oh, thank you.
+Dialogue: 0,0:05:16.87,0:05:18.41,italics,Lotte,0,0,0,,Black hair?
+Dialogue: 0,0:05:19.63,0:05:21.88,main,Rio,0,0,0,,If you would, please.
+Dialogue: 0,0:05:21.88,0:05:24.38,main,Lotte,0,0,0,,Thank you for your cooperation.
+Dialogue: 0,0:05:24.38,0:05:28.77,main,Lotte,0,0,0,,I will be helping you today.\N My name is Lotte.
+Dialogue: 0,0:05:42.51,0:05:43.82,main,Rio,0,0,0,,Come in.
+Dialogue: 0,0:05:43.82,0:05:45.24,main,Lotte,0,0,0,,Excuse me.
+Dialogue: 0,0:05:46.07,0:05:47.61,main,Lotte,0,0,0,,Thank you for waiting.
+Dialogue: 0,0:05:47.61,0:05:51.94,main,Lotte,0,0,0,,Fifteen kilos of dried pasta \Nand ten kilos of barley.
+Dialogue: 0,0:05:51.94,0:05:55.75,main,Lotte,0,0,0,,I've also readied cooking \Nimplements and seasonings.
+Dialogue: 0,0:05:55.75,0:05:58.66,main,Rio,0,0,0,,Have you? Thank you very much.
+Dialogue: 0,0:05:58.66,0:06:04.11,main,Lotte,0,0,0,,I added a large rucksack, \Nbut it's all very heavy.
+Dialogue: 0,0:06:04.11,0:06:06.17,main,Lotte,0,0,0,,Will you be all right carrying it home?
+Dialogue: 0,0:06:07.06,0:06:08.14,main,Cosette,0,0,0,,Please, have some.
+Dialogue: 0,0:06:08.14,0:06:09.34,main,Rio,0,0,0,,Thank you.
+Dialogue: 0,0:06:09.67,0:06:13.50,main,Rio,0,0,0,,I may not look it, but I've done a lot of \Nphysical training. Please, don't worry.
+Dialogue: 0,0:06:17.23,0:06:19.94,main,Lotte,0,0,0,,Are you accustomed to drinking black tea?
+Dialogue: 0,0:06:23.48,0:06:26.50,main,Rio,0,0,0,,Among my acquaintances is \Na lady who loves black tea.
+Dialogue: 0,0:06:26.50,0:06:29.24,main,Rio,0,0,0,,As I drank it with her, I learned a lot.
+Dialogue: 0,0:06:29.53,0:06:33.99,main,Lotte,0,0,0,,In that case, could it be that you \Nrecognize what those tea leaves are?
+Dialogue: 0,0:06:35.65,0:06:38.95,main,Rio,0,0,0,,This unique aroma and slight astringency...
+Dialogue: 0,0:06:39.74,0:06:44.01,main,Rio,0,0,0,,Are these leaves from Lis? \NYou use very good tea here.
+Dialogue: 0,0:06:44.48,0:06:45.75,main,Rio,0,0,0,,And this teaware, too.
+Dialogue: 0,0:06:45.75,0:06:49.08,main,Lotte,0,0,0,,In order to have the best possible \Ndealings with our customers,
+Dialogue: 0,0:06:49.08,0:06:51.76,main,Lotte,0,0,0,,the environment for the negotiations \Nmust be as perfect as possible.
+Dialogue: 0,0:06:51.76,0:06:54.83,main,Lotte,0,0,0,,That's our merchant guild's motto!
+Dialogue: 0,0:06:55.21,0:07:00.77,main,Lotte,0,0,0,,Then... may we undertake the \Ndelivery of a letter for you?
+Dialogue: 0,0:07:01.72,0:07:02.77,main,Rio,0,0,0,,Yes.
+Dialogue: 0,0:07:02.77,0:07:07.54,italics,Rio,0,0,0,,And so, I've successfully completed \Nmy purchases, and I'm about to set out.
+Dialogue: 0,0:07:07.54,0:07:11.33,italics,Rio,0,0,0,,Once I leave the Strahl region, \NI won't be able to send more letters,
+Dialogue: 0,0:07:11.33,0:07:12.96,italics,Rio,0,0,0,,but please don't worry.
+Dialogue: 0,0:07:13.49,0:07:15.95,italics,Rio,0,0,0,,No news of me is proof that I am doing well.
+Dialogue: 0,0:07:16.88,0:07:17.98,italics,Rio,0,0,0,,I'm off.
+Dialogue: 0,0:07:18.40,0:07:19.14,italics,Rio,0,0,0,,Haruto.
+Dialogue: 0,0:07:20.60,0:07:21.93,main,Lotte,0,0,0,,Take care.
+Dialogue: 0,0:07:22.33,0:07:23.82,main,Rio,0,0,0,,Thank you for all your help.
+Dialogue: 0,0:07:27.91,0:07:32.22,main,Cosette,0,0,0,,That boy was a bit mysterious, \Nwasn't he, Lady Liselotte?
+Dialogue: 0,0:07:32.22,0:07:35.61,main,Lotte,0,0,0,,I'm Lotte right now, Cosette.
+Dialogue: 0,0:07:36.22,0:07:37.47,main,Cosette,0,0,0,,So you are.
+Dialogue: 0,0:07:45.22,0:07:46.11,italics,Rio,0,0,0,,A child?
+Dialogue: 0,0:07:46.75,0:07:48.36,main,Rio,0,0,0,,Hey, are you all right?
+Dialogue: 0,0:08:01.10,0:08:02.29,italics,Rio,0,0,0,,Poison?
+Dialogue: 0,0:08:09.99,0:08:11.13,main,Rio,0,0,0,,A beast person?
+Dialogue: 0,0:08:12.18,0:08:13.09,main,Latifa,0,0,0,,I will...
+Dialogue: 0,0:08:14.67,0:08:15.95,main,Latifa,0,0,0,,kill you.
+Dialogue: 0,0:08:20.04,0:08:21.42,italics,Rio,0,0,0,,I have to neutralize the poison, or else...
+Dialogue: 0,0:08:25.66,0:08:30.32,main,Rio,0,0,0,,I'm sorry. I can't let you kill me.
+Dialogue: 0,0:08:33.99,0:08:35.70,italics,Latifa,0,0,0,,The poison didn't work?
+Dialogue: 0,0:08:38.77,0:08:39.91,italics,Rio,0,0,0,,She's fast!
+Dialogue: 0,0:08:48.38,0:08:50.55,main,Latifa,0,0,0,,Enchant Physical Ability!
+Dialogue: 0,0:08:50.55,0:08:54.38,italics,Rio,0,0,0,,She hadn't already enhanced her \Nphysical abilities with magic?
+Dialogue: 0,0:08:54.88,0:08:56.70,italics,Rio,0,0,0,,But that movement...
+Dialogue: 0,0:08:56.70,0:08:59.68,italics,Rio,0,0,0,,How fast will she be after enhancing?
+Dialogue: 0,0:09:06.83,0:09:09.31,italics,Latifa,0,0,0,,Why... Why is this person...
+Dialogue: 0,0:09:09.31,0:09:12.41,italics,Latifa,0,0,0,,He's human. Why is he so fast?
+Dialogue: 0,0:09:26.29,0:09:28.95,italics,Rio,0,0,0,,She's too focused on the knife.
+Dialogue: 0,0:09:44.47,0:09:47.48,main,Rio,0,0,0,,This is as far as it goes. \NYou understand me, right?
+Dialogue: 0,0:09:51.63,0:09:54.43,main,Latifa,0,0,0,,N-No... No!
+Dialogue: 0,0:09:55.11,0:09:56.99,main,Latifa,0,0,0,,I don't want to die!
+Dialogue: 0,0:09:56.99,0:09:59.58,main,Rio,0,0,0,,H-Hey! Calm down!
+Dialogue: 0,0:10:00.83,0:10:04.24,main,Latifa,0,0,0,,H-Help me! Mom!
+Dialogue: 0,0:10:04.24,0:10:05.98,main,Latifa,0,0,0,,Mama!
+Dialogue: 0,0:10:06.37,0:10:07.66,italics,Rio,0,0,0,,I suppose I have no choice.
+Dialogue: 0,0:10:18.94,0:10:21.05,italics,Rio,0,0,0,,A Collar of Submission?
+Dialogue: 0,0:10:26.38,0:10:28.56,italics,Rio,0,0,0,,The magic in that book...
+Dialogue: 0,0:10:28.56,0:10:30.33,italics,Rio,0,0,0,,Dispell, was it?
+Dialogue: 0,0:10:32.33,0:10:34.40,italics,Rio,0,0,0,,If I imitate that, will this come off?
+Dialogue: 0,0:10:50.99,0:10:54.31,flashback,Stewart; aged 6,0,0,0,,Hey, Latifa! Wake up!
+Dialogue: 0,0:11:01.95,0:11:03.14,flashback,Stewart,0,0,0,,Latifa...
+Dialogue: 0,0:11:03.40,0:11:05.03,flashback,Latifa; aged 4,0,0,0,,Latifa?
+Dialogue: 0,0:11:05.03,0:11:07.69,flashback,Latifa,0,0,0,,I'm Endo Suzune.
+Dialogue: 0,0:11:07.69,0:11:09.56,flashback,Stewart,0,0,0,,Are you still half-asleep?
+Dialogue: 0,0:11:18.97,0:11:20.35,flashback,Stewart,0,0,0,,Latifa...
+Dialogue: 0,0:11:21.29,0:11:23.03,flashback,Stewart,0,0,0,,What am I to you?
+Dialogue: 0,0:11:24.20,0:11:26.03,flashback,Stewart,0,0,0,,I am your esteemed older brother, Stewart.
+Dialogue: 0,0:11:26.28,0:11:28.97,flashback,Stewart,0,0,0,,Come on, say, "my esteemed older brother"!
+Dialogue: 0,0:11:30.27,0:11:33.00,flashback,Latifa,0,0,0,,I-I don't want—
+Dialogue: 0,0:11:36.46,0:11:40.17,flashback,Latifa,0,0,0,,It hurts! It hurts! It hurts! It hurts!
+Dialogue: 0,0:11:40.17,0:11:42.68,flashback,Stewart,0,0,0,,"Esteemed older brother." Say it!
+Dialogue: 0,0:11:43.52,0:11:45.86,flashback,Latifa,0,0,0,,E-Esteemed older brother...
+Dialogue: 0,0:11:49.52,0:11:51.69,main,Rio,0,0,0,,Hey. Wake up.
+Dialogue: 0,0:11:55.07,0:11:57.79,main,Rio,0,0,0,,Stop that. Your hands and legs are bound.
+Dialogue: 0,0:11:59.11,0:12:01.31,main,Rio,0,0,0,,It seems you understand the situation.
+Dialogue: 0,0:12:01.31,0:12:04.38,main,Rio,0,0,0,,If you don't want to die, \Ndon't get violent like you did earlier.
+Dialogue: 0,0:12:07.08,0:12:10.12,main,Latifa,0,0,0,,If I don't fight, then you won't kill me?
+Dialogue: 0,0:12:10.35,0:12:12.09,main,Rio,0,0,0,,That depends on you.
+Dialogue: 0,0:12:13.80,0:12:15.55,main,Rio,0,0,0,,Did you come here from Beltrant?
+Dialogue: 0,0:12:17.24,0:12:18.25,main,Rio,0,0,0,,Then...
+Dialogue: 0,0:12:18.25,0:12:20.47,main,Rio,0,0,0,,Do you know what this is?
+Dialogue: 0,0:12:20.47,0:12:22.30,main,Latifa,0,0,0,,A... collar?
+Dialogue: 0,0:12:24.39,0:12:26.34,main,Latifa,0,0,0,,It's... gone!
+Dialogue: 0,0:12:26.34,0:12:27.47,main,Latifa,0,0,0,,Why?
+Dialogue: 0,0:12:27.47,0:12:31.60,main,Rio,0,0,0,,This collar was the reason \Nyou were obeying orders, right?
+Dialogue: 0,0:12:32.13,0:12:34.30,main,Rio,0,0,0,,You won't be stricken with pain any more.
+Dialogue: 0,0:12:49.27,0:12:53.62,main,Rio,0,0,0,,Since the collar is gone, you won't have \Nany problems answering my questions, right?
+Dialogue: 0,0:12:55.02,0:12:57.07,main,Rio,0,0,0,,Who gave you your orders?
+Dialogue: 0,0:12:59.63,0:13:02.63,main,Rio,0,0,0,,You and I are the only \Nones here. Don't worry.
+Dialogue: 0,0:13:02.63,0:13:06.75,main,Latifa,0,0,0,,I-I don't know my master's name.
+Dialogue: 0,0:13:06.75,0:13:09.52,main,Latifa,0,0,0,,I've never been told, so...
+Dialogue: 0,0:13:09.52,0:13:11.55,main,Rio,0,0,0,,You don't even know the name of their house?
+Dialogue: 0,0:13:11.55,0:13:12.64,main,Latifa,0,0,0,,The name of the house?
+Dialogue: 0,0:13:14.93,0:13:18.43,main,Latifa,0,0,0,,B-But I do know the name of \Nmy esteemed older brother!
+Dialogue: 0,0:13:18.43,0:13:20.61,main,Latifa,0,0,0,,He said it was Stewart!
+Dialogue: 0,0:13:20.61,0:13:24.63,main,Rio,0,0,0,,Stewart... Is he a beast person, like you?
+Dialogue: 0,0:13:24.63,0:13:27.54,main,Latifa,0,0,0,,My older brother is human.
+Dialogue: 0,0:13:27.54,0:13:29.87,main,Latifa,0,0,0,,The human who trained me.
+Dialogue: 0,0:13:30.15,0:13:31.13,main,Rio,0,0,0,,Human...
+Dialogue: 0,0:13:32.09,0:13:33.87,italics,Rio,0,0,0,,Then, it must be him.
+Dialogue: 0,0:13:34.61,0:13:37.00,flashback,Stewart,0,0,0,,It's that commoner who's responsible!
+Dialogue: 0,0:13:37.00,0:13:39.60,italics,Rio,0,0,0,,Fearing that the truth may come to light,
+Dialogue: 0,0:13:39.93,0:13:43.00,italics,Rio,0,0,0,,Duke Huguenot decided to make me disappear.\N Thinking about it that way,
+Dialogue: 0,0:13:43.37,0:13:44.83,italics,Rio,0,0,0,,everything seems consistent, but...
+Dialogue: 0,0:13:47.47,0:13:50.44,main,Rio,0,0,0,,Are there others besides \Nyou trying to kill me?
+Dialogue: 0,0:13:50.97,0:13:53.06,main,Latifa,0,0,0,,I don't know.
+Dialogue: 0,0:13:53.06,0:13:56.76,main,Latifa,0,0,0,,But I don't think so... probably.
+Dialogue: 0,0:13:57.07,0:13:58.02,main,Rio,0,0,0,,Then,
+Dialogue: 0,0:13:58.02,0:13:59.94,main,Rio,0,0,0,,here is my final question.
+Dialogue: 0,0:13:59.94,0:14:00.81,main,Latifa,0,0,0,,All right.
+Dialogue: 0,0:14:01.98,0:14:05.03,main,Rio,0,0,0,,Do you still intend to kill me?
+Dialogue: 0,0:14:08.05,0:14:10.11,main,Latifa,0,0,0,,I won't k-kill you!
+Dialogue: 0,0:14:11.13,0:14:12.57,main,Rio,0,0,0,,Do as you like, then.
+Dialogue: 0,0:14:13.05,0:14:16.37,main,Rio,0,0,0,,I've left all your equipment \Nwith that robe over there.
+Dialogue: 0,0:14:19.97,0:14:22.38,main,Rio,0,0,0,,It means you're free to run away.
+Dialogue: 0,0:14:23.56,0:14:26.71,main,Rio,0,0,0,,Since the collar that controlled you is gone,
+Dialogue: 0,0:14:26.71,0:14:29.38,main,Rio,0,0,0,,there's no need for you \Nto go back to your master.
+Dialogue: 0,0:14:30.89,0:14:34.39,italics,Rio,0,0,0,,But here in Strahl, where \Nbeast people are made slaves,
+Dialogue: 0,0:14:34.67,0:14:36.21,italics,Rio,0,0,0,,there is nowhere safe for this girl.
+Dialogue: 0,0:14:38.09,0:14:40.41,main,Rio,0,0,0,,If you leave this kingdom \Nand head to the east,
+Dialogue: 0,0:14:40.41,0:14:42.99,main,Rio,0,0,0,,there is a vast area known as the Wilderness.
+Dialogue: 0,0:14:44.42,0:14:45.95,main,Rio,0,0,0,,Somewhere in that place,
+Dialogue: 0,0:14:45.95,0:14:50.64,main,Rio,0,0,0,,there is a land where beast people like \Nyou and other demi-humans live together.
+Dialogue: 0,0:14:51.35,0:14:54.41,main,Latifa,0,0,0,,The Wilderness? East...
+Dialogue: 0,0:14:54.41,0:14:57.25,main,Rio,0,0,0,,The direction I've been traveling.
+Dialogue: 0,0:14:58.19,0:15:00.20,main,Rio,0,0,0,,Instead of staying here,
+Dialogue: 0,0:15:00.20,0:15:02.92,main,Rio,0,0,0,,looking for others of your kind there \Nmight be an easier way for you to live.
+Dialogue: 0,0:15:02.92,0:15:06.99,main,Latifa,0,0,0,,Others of my kind. East. Wilderness.
+Dialogue: 0,0:15:08.88,0:15:10.59,main,Rio,0,0,0,,I'll be going, then.
+Dialogue: 0,0:15:10.59,0:15:14.30,main,Rio,0,0,0,,Let me tell you this. The next time \Nyou attack me, I won't show any mercy.
+Dialogue: 0,0:15:26.49,0:15:28.82,main,Rio,0,0,0,,Did you still have some \Nkind of business with me?
+Dialogue: 0,0:15:28.82,0:15:31.49,main,Latifa,0,0,0,,U-Um, east...
+Dialogue: 0,0:15:31.49,0:15:34.57,main,Latifa,0,0,0,,I want to go with you.
+Dialogue: 0,0:15:35.67,0:15:38.09,main,Rio,0,0,0,,You seem to have misunderstood.
+Dialogue: 0,0:15:38.67,0:15:42.81,main,Rio,0,0,0,,I didn't release you from your enslavement \Nbecause I wanted to rescue you.
+Dialogue: 0,0:15:44.21,0:15:48.09,main,Rio,0,0,0,,It's only that not killing you was \Nmore convenient for me. That's all.
+Dialogue: 0,0:15:48.39,0:15:52.72,main,Latifa,0,0,0,,B-But... I don't know what I should do.
+Dialogue: 0,0:15:53.61,0:15:58.14,main,Rio,0,0,0,,You know, I'm human, just like \Nthe people who enslaved you.
+Dialogue: 0,0:15:58.14,0:15:59.72,main,Rio,0,0,0,,Aren't you scared?
+Dialogue: 0,0:16:01.09,0:16:03.98,main,Latifa,0,0,0,,You don't feel... bad.
+Dialogue: 0,0:16:03.98,0:16:08.97,main,Rio,0,0,0,,You believe I would think nothing \Nof you trying to kill me?
+Dialogue: 0,0:16:14.32,0:16:16.11,main,Latifa,0,0,0,,I-I'm sorry.
+Dialogue: 0,0:16:16.70,0:16:19.23,main,Rio,0,0,0,,It's not like I'm angry.
+Dialogue: 0,0:16:19.23,0:16:22.21,main,Rio,0,0,0,,You couldn't disobey your \Norders is all, right?
+Dialogue: 0,0:16:23.18,0:16:27.38,main,Rio,0,0,0,,But there's no guarantee that \Nyou won't attack me again.
+Dialogue: 0,0:16:28.80,0:16:31.76,main,Rio,0,0,0,,In short, I can't trust you.\N Do you understand?
+Dialogue: 0,0:16:31.76,0:16:36.12,main,Latifa,0,0,0,,Then, th-this collar! You can put it on me!
+Dialogue: 0,0:16:36.12,0:16:39.51,main,Latifa,0,0,0,,I don't mind! So please...
+Dialogue: 0,0:16:39.51,0:16:42.02,main,Rio,0,0,0,,Wh-Why did you bring that?
+Dialogue: 0,0:16:42.02,0:16:44.89,main,Rio,0,0,0,,You hated having that collar on, didn't you?
+Dialogue: 0,0:16:45.41,0:16:49.82,main,Latifa,0,0,0,,I hate being alone like this more.
+Dialogue: 0,0:16:49.82,0:16:51.24,main,Latifa,0,0,0,,I'm scared.
+Dialogue: 0,0:16:51.61,0:16:52.90,main,Latifa,0,0,0,,Please...
+Dialogue: 0,0:16:56.27,0:16:58.31,main,Rio,0,0,0,,All right. Do what you want.
+Dialogue: 0,0:16:59.41,0:17:01.37,main,Latifa,0,0,0,,Oh, uh, I will!
+Dialogue: 0,0:17:01.37,0:17:02.91,main,Latifa,0,0,0,,Thank you very much!
+Dialogue: 0,0:17:02.91,0:17:04.94,main,Rio,0,0,0,,Get rid of that collar.
+Dialogue: 0,0:17:04.94,0:17:06.12,main,Latifa,0,0,0,,Oh!
+Dialogue: 0,0:17:07.60,0:17:09.54,main,Rio,0,0,0,,What's your name?
+Dialogue: 0,0:17:10.21,0:17:12.10,main,Latifa,0,0,0,,It's Latifa.
+Dialogue: 0,0:17:12.10,0:17:13.30,main,Rio,0,0,0,,I see.
+Dialogue: 0,0:17:13.57,0:17:14.78,main,Rio,0,0,0,,I'm Rio.
+Dialogue: 0,0:17:15.09,0:17:17.05,main,Rio,0,0,0,,Nice to meet you, Latifa.
+Dialogue: 0,0:17:17.79,0:17:19.90,main,Latifa,0,0,0,,Yes, it is!
+Dialogue: 0,0:17:28.31,0:17:30.52,main,Latifa,0,0,0,,I-I'm sorry.
+Dialogue: 0,0:17:30.52,0:17:33.07,main,Rio,0,0,0,,You don't need to apologize \Nfor something like that.
+Dialogue: 0,0:17:33.33,0:17:34.22,main,Rio,0,0,0,,Here.
+Dialogue: 0,0:17:34.22,0:17:36.47,main,Latifa,0,0,0,,I'm allowed to eat that?
+Dialogue: 0,0:17:36.47,0:17:38.82,main,Rio,0,0,0,,Yes. No need to be polite.
+Dialogue: 0,0:17:44.67,0:17:46.22,main,Latifa,0,0,0,,It's delicious.
+Dialogue: 0,0:17:46.22,0:17:47.25,main,Rio,0,0,0,,Yeah.
+Dialogue: 0,0:17:52.45,0:17:55.31,main,Rio,0,0,0,,No one's going to steal it from you.\N Take your time eating.
+Dialogue: 0,0:17:56.37,0:18:01.47,main,Latifa,0,0,0,,My meals... They said it was pet food... \NEvery day, my older brother would...
+Dialogue: 0,0:18:09.14,0:18:10.73,main,Rio,0,0,0,,We've just about reached the Wilderness.
+Dialogue: 0,0:18:11.04,0:18:12.60,main,Rio,0,0,0,,It's not too hard for you?
+Dialogue: 0,0:18:12.60,0:18:14.52,main,Latifa,0,0,0,,I'm fine.
+Dialogue: 0,0:18:16.55,0:18:18.14,main,Rio,0,0,0,,We've already crossed the border, so...
+Dialogue: 0,0:18:18.74,0:18:22.37,main,Rio,0,0,0,,It's a little early, but let's make camp here.
+Dialogue: 0,0:18:22.94,0:18:24.56,main,Latifa,0,0,0,,I'm sorry.
+Dialogue: 0,0:18:24.56,0:18:26.10,main,Rio,0,0,0,,Why are you apologizing?
+Dialogue: 0,0:18:26.10,0:18:27.75,main,Latifa,0,0,0,,Because I'm holding you back.
+Dialogue: 0,0:18:27.75,0:18:29.25,main,Rio,0,0,0,,No, you're not.
+Dialogue: 0,0:18:36.58,0:18:37.83,main,Celia,0,0,0,,Haruto...
+Dialogue: 0,0:18:38.15,0:18:39.88,main,Celia,0,0,0,,It's a letter from Rio!
+Dialogue: 0,0:18:40.36,0:18:42.32,main,Celia,0,0,0,,I'm so glad he seems well.
+Dialogue: 0,0:18:42.32,0:18:45.71,main,Celia,0,0,0,,Reaching Amande in three days...\NThat's so fast!
+Dialogue: 0,0:18:45.71,0:18:48.47,main,Celia,0,0,0,,Not receiving more news makes \Nme feel a little lonely, but..
+Dialogue: 0,0:18:48.89,0:18:52.66,main,Celia,0,0,0,,I hope that, wherever you are \Non your journey, you are safe.
+Dialogue: 0,0:18:58.51,0:19:00.61,main,Latifa,0,0,0,,Wow! Spaghetti?
+Dialogue: 0,0:19:00.61,0:19:02.73,main,Rio,0,0,0,,You know what this is?
+Dialogue: 0,0:19:02.73,0:19:05.05,main,Latifa,0,0,0,,Yes! It's spaghetti!
+Dialogue: 0,0:19:05.05,0:19:07.00,main,Latifa,0,0,0,,May I eat some?
+Dialogue: 0,0:19:07.00,0:19:08.41,main,Rio,0,0,0,,S-Sure.
+Dialogue: 0,0:19:08.41,0:19:10.37,main,Latifa,0,0,0,,Thank you for... the food!
+Dialogue: 0,0:19:16.09,0:19:18.23,main,Rio,0,0,0,,You've eaten pasta before?
+Dialogue: 0,0:19:18.23,0:19:19.14,main,Latifa,0,0,0,,Yes!
+Dialogue: 0,0:19:19.75,0:19:24.85,main,Latifa,0,0,0,,Oh, um... Yes, I used to eat it. I think.
+Dialogue: 0,0:19:24.85,0:19:26.25,main,Rio,0,0,0,,I see.
+Dialogue: 0,0:19:26.25,0:19:28.57,main,Rio,0,0,0,,I thought you seemed accustomed to eating it.
+Dialogue: 0,0:19:28.97,0:19:31.85,main,Rio,0,0,0,,There's more. Eat as much as you want.
+Dialogue: 0,0:19:32.99,0:19:34.82,main,Latifa,0,0,0,,Thank you!
+Dialogue: 0,0:19:35.78,0:19:38.14,italics,Rio,0,0,0,,Calling this pasta "spaghetti" means...
+Dialogue: 0,0:19:38.51,0:19:41.05,italics,Rio,0,0,0,,Could it be that this girl is also...
+Dialogue: 0,0:19:46.35,0:19:47.84,main,Rio,0,0,0,,What's wrong?
+Dialogue: 0,0:19:47.84,0:19:51.12,main,Latifa,0,0,0,,I don't like this! Where am I?
+Dialogue: 0,0:19:51.12,0:19:53.63,main,Latifa,0,0,0,,I want to go home.
+Dialogue: 0,0:19:56.97,0:20:00.43,main,Rio,0,0,0,,It's all right. It's not scary anymore.
+Dialogue: 0,0:20:00.43,0:20:04.29,main,Latifa,0,0,0,,Mom, Dad, Onii-san...
+Dialogue: 0,0:20:04.29,0:20:06.80,main,Latifa,0,0,0,,I want to go home to Tokyo...
+Dialogue: 0,0:20:07.06,0:20:08.32,main,Rio,0,0,0,,Tokyo?!
+Dialogue: 0,0:20:10.35,0:20:13.37,italics,Rio,0,0,0,,There really is no mistake. \NThis girl is also...
+Dialogue: 0,0:20:14.72,0:20:16.27,main,Latifa,0,0,0,,Onii-san...
+Dialogue: 0,0:20:16.94,0:20:18.44,main,Rio,0,0,0,,Rest easy. Sleep.
+Dialogue: 0,0:20:38.91,0:20:41.04,italics,Latifa,0,0,0,,His hair is black.
+Dialogue: 0,0:20:41.04,0:20:42.98,italics,Latifa,0,0,0,,He does look like him, doesn't he?
+Dialogue: 0,0:20:45.17,0:20:46.30,main,Latifa,0,0,0,,Onii-chan...
+Dialogue: 0,0:20:48.09,0:20:51.07,main,Rio,0,0,0,,Good morning. Did you sleep well?
+Dialogue: 0,0:20:53.53,0:20:54.60,main,Rio,0,0,0,,Are you all right?
+Dialogue: 0,0:20:54.60,0:20:58.10,main,Latifa,0,0,0,,Yes, Onii...Rio!
+Dialogue: 0,0:20:58.10,0:21:00.05,main,Rio,0,0,0,,Oni Rio?
+Dialogue: 0,0:21:00.05,0:21:01.82,main,Latifa,0,0,0,,N-No, that's not what I meant!
+Dialogue: 0,0:21:02.18,0:21:06.20,main,Latifa,0,0,0,,I was about to say "Onii-chan," and then...
+Dialogue: 0,0:21:06.20,0:21:11.00,main,Latifa,0,0,0,,Rio, would you mind if \NI called you O-Onii-chan?
+Dialogue: 0,0:21:11.00,0:21:11.71,main,Rio,0,0,0,,What?
+Dialogue: 0,0:21:12.11,0:21:13.90,main,Latifa,0,0,0,,You d-don't want me to?
+Dialogue: 0,0:21:13.90,0:21:16.33,main,Rio,0,0,0,,It's not that I mind, but...
+Dialogue: 0,0:21:16.81,0:21:20.47,flashback,Latifa,0,0,0,,Mom, Dad, Onii-san...
+Dialogue: 0,0:21:20.47,0:21:22.96,flashback,Latifa,0,0,0,,I want to go home to Tokyo...
+Dialogue: 0,0:21:23.27,0:21:25.30,italics,Rio,0,0,0,,A girl who was still so young
+Dialogue: 0,0:21:25.74,0:21:29.58,italics,Rio,0,0,0,,reincarnated from Earth to \Nthis world and was made a slave.
+Dialogue: 0,0:21:29.93,0:21:31.65,italics,Rio,0,0,0,,She must have felt so alone.
+Dialogue: 0,0:21:32.05,0:21:35.47,italics,Rio,0,0,0,,If this will comfort her \Nheart even a little, then...
+Dialogue: 0,0:21:54.60,0:21:55.58,main,Latifa,0,0,0,,Onii-chan!
+Dialogue: 0,0:21:55.58,0:21:57.90,main,Latifa,0,0,0,,What are we having for breakfast today?
+Dialogue: 0,0:21:57.90,0:21:59.84,main,Rio,0,0,0,,What do you want to eat, Latifa?
+Dialogue: 0,0:21:59.84,0:22:02.82,main,Latifa,0,0,0,,I want omelets! With cheese in them!
+Dialogue: 0,0:22:02.82,0:22:04.95,main,Rio,0,0,0,,Omelets, huh? All right.
+Dialogue: 0,0:22:09.64,0:22:11.10,main,Rio,0,0,0,,Say, Latifa?
+Dialogue: 0,0:22:11.47,0:22:14.73,main,Rio,0,0,0,,You really can't see that big \Ntree over there, can you?
+Dialogue: 0,0:22:14.73,0:22:18.65,main,Latifa,0,0,0,,The one you were talking about yesterday?\NI can only see regular forest.
+Dialogue: 0,0:22:18.65,0:22:22.01,italics,Rio,0,0,0,,Latifa can't see it. That means...
+Dialogue: 0,0:22:22.33,0:22:25.34,italics,Rio,0,0,0,,Is it being blocked from people's \Nawareness through magic?
+Dialogue: 0,0:22:27.35,0:22:28.61,main,Latifa,0,0,0,,Onii-chan...
+Dialogue: 0,0:22:28.89,0:22:31.90,main,Latifa,0,0,0,,Are we really going in there?\NWe won't get lost?
+Dialogue: 0,0:22:31.90,0:22:33.15,main,Rio,0,0,0,,We'll be fine.
+Dialogue: 0,0:22:36.58,0:22:41.27,main,Latifa,0,0,0,,Onii-chan, it's very faint, \Nbut I smell something I don't recognize.
+Dialogue: 0,0:22:41.27,0:22:42.50,main,Latifa,0,0,0,,More than one scent.
+Dialogue: 0,0:22:42.50,0:22:44.71,main,Rio,0,0,0,,Is it different from an animal's scent?
+Dialogue: 0,0:22:45.05,0:22:45.73,main,Latifa,0,0,0,,Yes.
+Dialogue: 0,0:22:47.59,0:22:51.28,main,Rio,0,0,0,,Since it's faint, whatever the scent \Nbelongs to isn't nearby, right?
+Dialogue: 0,0:22:51.62,0:22:54.14,main,Latifa,0,0,0,,Yes, I think.
+Dialogue: 0,0:22:54.14,0:22:56.89,main,Rio,0,0,0,,In that case, why don't we \Nrest around here for today?
+Dialogue: 0,0:22:57.26,0:22:59.64,main,Rio,0,0,0,,Our goal may be close by.
+Dialogue: 0,0:22:59.64,0:23:01.18,main,Latifa,0,0,0,,Really?
+Dialogue: 0,0:23:01.18,0:23:03.58,main,Latifa,0,0,0,,We'll finally be able to leave the forest!
+Dialogue: 0,0:23:11.29,0:23:13.41,main,Rio,0,0,0,,Is she having another nightmare?
+Dialogue: 0,0:23:17.34,0:23:20.27,italics,Rio,0,0,0,,With this, she won't have any scary dreams.
+Dialogue: 0,0:23:31.90,0:23:32.70,main,Rio,0,0,0,,What?!
+Dialogue: 0,0:23:34.89,0:23:39.89,sign_33925_315_Next_Time_Royal_,text; top,0,0,0,,{\pos(320,120)\blur1.5}Next Time
+Dialogue: 0,0:23:34.89,0:23:39.89,sign_33925_315_Next_Time_Royal_,text,0,0,0,,{\fs35\an8\pos(320,225)\blur1.5}Forest of Spirits
+Dialogue: 0,0:23:36.38,0:23:37.86,main,Rio,0,0,0,,"Forest of Spirits."
+Dialogue: 0,0:23:39.89,0:23:42.00,sign_34045_320_Spirit_Chronicle,text; yellow,0,0,0,,{\fsp3\fad(1,120)\an7\pos(39,77)\fs17}Spirit Chronicles
+Dialogue: 0,0:23:39.89,0:23:42.00,sign_34045_320_Spirit_Chronicle,text; yellow,0,0,0,,{\fsp3\c&H63E9E9&\fad(1,120)\an7\pos(39,77)\fs17\clip(35,86,206,97)}Spirit Chronicles
+Dialogue: 0,0:23:39.89,0:23:42.00,sign_34045_321_Exciting_Bonus_M,text; blue,0,0,0,,{\fad(1,120)\an7\pos(40,100)\fs27}Exciting Bonus Manga
+Dialogue: 0,0:23:39.89,0:23:42.42,Default,text; bubble,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 522 14 l 603 14 607 225 516 220
+Dialogue: 0,0:23:39.89,0:23:42.42,sign_34045_319_I_had_a_dream_th,text; bubble,0,0,0,,{\pos(560,40)}That boy\Nwas a bit\Nmysterious,\Nwasn't he,\NLady Liselotte?
+Dialogue: 0,0:23:39.89,0:23:50.25,sign_34045_323_By_Minazuki_Futa,text; black,0,0,0,,{\pos(450,320)\fsp2}By Minazuki Futago
+Dialogue: 0,0:23:42.42,0:23:44.42,Default,text; bubble,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 71 33 l 131 33 130 252 67 251
+Dialogue: 0,0:23:42.42,0:23:44.42,sign_34045_319_I_had_a_dream_th,text; bubble,0,0,0,,{\pos(100,80)}I'm\NLotte\Nright\Nnow,\Nthough.
+Dialogue: 0,0:23:44.42,0:23:47.42,Default,text; bubble,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 545 16 l 606 16 606 249 546 251
+Dialogue: 0,0:23:44.42,0:23:47.42,sign_34045_319_I_had_a_dream_th,text; bubble,0,0,0,,{\pos(570,65)}So\Nyou\Nare,\NLady\NLiselotte!
+Dialogue: 0,0:23:47.42,0:23:50.25,Default,text; bubble,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 551 13 l 615 14 611 207 550 207
+Dialogue: 0,0:23:47.42,0:23:50.25,sign_34045_319_I_had_a_dream_th,text; bubble,0,0,0,,{\pos(580,26)}You're\Ndoing\Nthat\Non\Npurpose...\Naren't\Nyou?
+Dialogue: 0,0:23:48.34,0:23:50.25,sign_34127_328_Ha_ha,text; sfx,0,0,0,,{\pos(335,65)}Tee-hee

@@ -1,0 +1,411 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: sign_Arial,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ArialBlack,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_CourierNew,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ComicSansMS,Comic Sans MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Georgia,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Impact,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TimesNewRoman,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TrebuchetMS,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Verdana,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_3238_18_Seirei_Gensouki,Trebuchet MS,40,&H00FAFFFF,&H000000FF,&H00E6B519,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,20,1
+Style: sign_31638_280_No_Service,Arial,20,&H006E3828,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,20,1
+Style: sign_33925_315_Next_Time_Royal_,Trebuchet MS,15,&H00FAFFFF,&H000000FF,&H00CBB281,&H00BDB85F,0,0,0,0,100,100,0,0,1,2,1,2,30,30,20,1
+Style: sign_5011_20_The_Kingdom_of_B,Arial,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.29,0:00:03.98,sign_5011_20_The_Kingdom_of_B,text,0,0,0,,{\pos(320,300)\fad(507,495)}Galarc Kingdom, Amande Market Town
+Dialogue: 0,0:00:02.85,0:00:07.02,top,Liselotte,0,0,0,,I'll send a messenger \Nto you tomorrow morning.
+Dialogue: 0,0:00:07.45,0:00:10.92,main,Rio,0,0,0,,Thank you for conveying me all the way here.
+Dialogue: 0,0:00:14.86,0:00:17.62,main,Aria,0,0,0,,Allow me to show you to your \Nlodgings, Master Haruto.
+Dialogue: 0,0:00:17.62,0:00:19.31,main,Rio,0,0,0,,Thank you.
+Dialogue: 0,0:00:38.53,0:00:41.62,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\pos(345,125)\blur4\fad(897,248)}Spirit Chronicles 2
+Dialogue: 0,0:01:42.12,0:01:45.11,main,Alphonse,0,0,0,,I'm not averse to striking \Nsomeone down for discourtesy.
+Dialogue: 0,0:01:45.11,0:01:46.46,main,Alphonse,0,0,0,,Why, you...
+Dialogue: 0,0:01:48.36,0:01:49.75,main,Stewart,0,0,0,,You little...
+Dialogue: 0,0:01:52.27,0:01:56.28,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\blur4\c&H7AFBFF&\fad(897,498)\an1\fs21\fsp6\pos(444.111,292.111)}Intruders
+Dialogue: 0,0:01:56.64,0:01:57.66,main,Celia,0,0,0,,Haruto!
+Dialogue: 0,0:01:58.69,0:02:00.62,main,Rio,0,0,0,,Sorry to keep you waiting, Cecilia.
+Dialogue: 0,0:02:00.96,0:02:03.82,main,Celia,0,0,0,,Is everything all right? You're not hurt?
+Dialogue: 0,0:02:03.82,0:02:06.98,main,Rio,0,0,0,,I'm not injured anywhere. \NPlease, don't worry.
+Dialogue: 0,0:02:07.61,0:02:10.73,main,Rio,0,0,0,,We seem to be attracting attention \Nfrom everyone in this restaurant.
+Dialogue: 0,0:02:11.69,0:02:12.44,main,Celia,0,0,0,,What?
+Dialogue: 0,0:02:15.98,0:02:20.23,main,Rio,0,0,0,,And so, Miss Liselotte has \Narranged a place for us to stay.
+Dialogue: 0,0:02:20.57,0:02:24.07,main,Rio,0,0,0,,We'll be sojourning here in \NAmande for the next few days.
+Dialogue: 0,0:02:24.48,0:02:25.61,main,Aishia,0,0,0,,All right.
+Dialogue: 0,0:02:25.92,0:02:28.83,main,Rio,0,0,0,,I'm sorry to tell you this only \Nafter everything's been decided.
+Dialogue: 0,0:02:28.83,0:02:32.22,main,Celia,0,0,0,,That's all right. What about Aria?
+Dialogue: 0,0:02:32.85,0:02:37.72,main,Rio,0,0,0,,As Cecilia, you give off a much different \Nimpression, so I think we'll be all right.
+Dialogue: 0,0:02:38.39,0:02:39.49,main,Rio,0,0,0,,More worrying is...
+Dialogue: 0,0:02:40.49,0:02:43.02,main,Rio,0,0,0,,There were nobles associated \Nwith the Beltrum Kingdom's
+Dialogue: 0,0:02:43.02,0:02:44.77,main,Rio,0,0,0,,royal family traveling with them.
+Dialogue: 0,0:02:44.77,0:02:46.22,main,Celia,0,0,0,,What? Who?
+Dialogue: 0,0:02:46.22,0:02:49.99,main,Rio,0,0,0,,Her Highness the second princess, \NFlora, as well as Duke Huguenot,
+Dialogue: 0,0:02:49.99,0:02:53.54,main,Rio,0,0,0,,and Miss Roanna, from the \Nducal house of Fontaine.
+Dialogue: 0,0:02:53.54,0:02:55.19,main,Celia,0,0,0,,They're all quite important people.
+Dialogue: 0,0:02:55.70,0:03:00.27,main,Celia,0,0,0,,Princess Flora and Miss Roanna \Nknow you very well, don't they?
+Dialogue: 0,0:03:00.27,0:03:01.77,main,Celia,0,0,0,,They didn't notice?
+Dialogue: 0,0:03:02.28,0:03:06.74,main,Rio,0,0,0,,Princess Flora's instincts are sharp.\NShe seems to have sensed something is odd.
+Dialogue: 0,0:03:07.46,0:03:11.23,main,Rio,0,0,0,,But I've changed my hair color, \Nso I'm sure we'll be all right.
+Dialogue: 0,0:03:11.23,0:03:15.64,main,Celia,0,0,0,,Maybe it would be better for \Nus to leave Amande after all.
+Dialogue: 0,0:03:15.64,0:03:18.28,main,Rio,0,0,0,,No. There is some risk in staying,
+Dialogue: 0,0:03:18.28,0:03:22.07,main,Rio,0,0,0,,but I want to establish a good \Nrapport with Miss Liselotte.
+Dialogue: 0,0:03:22.39,0:03:24.22,main,Celia,0,0,0,,With Miss Liselotte?
+Dialogue: 0,0:03:24.22,0:03:29.11,main,Rio,0,0,0,,If the Hero of the Kingdom of Galarc \Nis someone I've been looking for,
+Dialogue: 0,0:03:29.11,0:03:32.33,main,Rio,0,0,0,,then establishing a rapport with someone \Nwho has authority in this country
+Dialogue: 0,0:03:32.33,0:03:33.38,main,Rio,0,0,0,,is for the best.
+Dialogue: 0,0:03:34.01,0:03:37.36,main,Celia,0,0,0,,All right. But don't let your guard down.
+Dialogue: 0,0:03:37.61,0:03:41.38,main,Celia,0,0,0,,Miss Liselotte is famous for \Nbeing shrewd and capable.
+Dialogue: 0,0:03:41.38,0:03:42.11,main,Rio,0,0,0,,Right.
+Dialogue: 0,0:03:42.38,0:03:45.62,main,Celia,0,0,0,,If there's anything I can do, just tell me!
+Dialogue: 0,0:03:46.01,0:03:49.73,main,Rio,0,0,0,,Thank you. Actually, there is something.
+Dialogue: 0,0:03:49.73,0:03:50.83,main,Celia,0,0,0,,What is it?
+Dialogue: 0,0:03:50.83,0:03:54.86,main,Rio,0,0,0,,The thing is, I'm meant to \Nvisit Miss Liselotte tomorrow.
+Dialogue: 0,0:03:55.20,0:03:56.50,main,Rio,0,0,0,,If you wouldn't mind,
+Dialogue: 0,0:03:56.50,0:04:01.07,main,Rio,0,0,0,,would you teach me the proper manners \Nfor visiting a noble's house?
+Dialogue: 0,0:04:01.07,0:04:02.30,main,Celia,0,0,0,,Leave it to me!
+Dialogue: 0,0:04:03.37,0:04:08.51,main,Huguenot,0,0,0,,Still, Liselotte, that attendant \Nof yours... Aria, was it?
+Dialogue: 0,0:04:08.51,0:04:11.67,main,Huguenot,0,0,0,,Her work is truly outstanding.
+Dialogue: 0,0:04:11.67,0:04:13.54,main,Liselotte,0,0,0,,Thank you.
+Dialogue: 0,0:04:13.54,0:04:19.42,main,Liselotte,0,0,0,,But the Hero would have had the power \Nto overturn that situation, wouldn't he?
+Dialogue: 0,0:04:19.85,0:04:24.67,main,Huguenot,0,0,0,,Possibly. Unfortunately, he is \Nlacking in practical experience.
+Dialogue: 0,0:04:25.80,0:04:30.24,main,Liselotte,0,0,0,,Still, he had the strength to \Nlift the minotaur's greatsword.
+Dialogue: 0,0:04:30.87,0:04:34.17,main,Liselotte,0,0,0,,Would it be right to think that that \Nstrength came from his Divine Arms?
+Dialogue: 0,0:04:34.96,0:04:36.69,main,Huguenot,0,0,0,,That is very likely.
+Dialogue: 0,0:04:37.04,0:04:41.46,main,Huguenot,0,0,0,,As with enchanted swords, a person must have\N an affinity for Divine Arms to use their power.
+Dialogue: 0,0:04:41.46,0:04:45.48,main,Huguenot,0,0,0,,But it is said that the affinity for \NDivine Arms rests solely with Heroes.
+Dialogue: 0,0:04:46.09,0:04:48.38,main,Huguenot,0,0,0,,That he could draw on that \Npower to such an extent
+Dialogue: 0,0:04:48.38,0:04:50.85,main,Huguenot,0,0,0,,with no training leaves \Nus with many questions.
+Dialogue: 0,0:04:51.74,0:04:55.70,main,Liselotte,0,0,0,,Then, practical experience is the \Nonly thing he is missing after all.
+Dialogue: 0,0:04:55.70,0:04:59.89,main,Huguenot,0,0,0,,The Hero is important. I do not relish \Nthe thought of sending him into danger.
+Dialogue: 0,0:05:00.22,0:05:03.96,main,Huguenot,0,0,0,,It would be premature to send him into \Nbattle simply to gain experience,
+Dialogue: 0,0:05:03.96,0:05:06.61,main,Huguenot,0,0,0,,so I have had him fighting \Nmock battles with the knights.
+Dialogue: 0,0:05:06.61,0:05:10.98,main,Liselotte,0,0,0,,His first experience with battle \Nended up being quite a dire one.
+Dialogue: 0,0:05:10.98,0:05:15.87,main,Huguenot,0,0,0,,We'll turn it into a positive by remembering \Nthat he's gained valuable experience.
+Dialogue: 0,0:05:16.70,0:05:20.08,italics,Liselotte; internal,0,0,0,,As I thought, the duke \Nisn't looking for the Hero
+Dialogue: 0,0:05:20.08,0:05:23.68,italics,Liselotte; internal,0,0,0,,to be more than a symbol of power right now.
+Dialogue: 0,0:05:24.73,0:05:26.53,main,Huguenot,0,0,0,,In the end...
+Dialogue: 0,0:05:26.53,0:05:30.43,main,Huguenot,0,0,0,,if that person hadn't shown up, it's possible \Nthat all of us would have been slaughtered.
+Dialogue: 0,0:05:30.86,0:05:33.00,main,Liselotte,0,0,0,,You're speaking of Master Haruto.
+Dialogue: 0,0:05:34.38,0:05:38.06,main,Huguenot,0,0,0,,He slew three minotaurs \Nin the blink of an eye.
+Dialogue: 0,0:05:38.06,0:05:41.61,main,Huguenot,0,0,0,,That simply isn't possible unless one can \Nmanipulate an enchanted sword at will.
+Dialogue: 0,0:05:42.44,0:05:44.92,main,Huguenot,0,0,0,,And the true identity of an enchanted \Nswordsman of this caliber...
+Dialogue: 0,0:05:45.23,0:05:47.48,main,Huguenot,0,0,0,,Liselotte, what do you think?
+Dialogue: 0,0:05:48.21,0:05:50.43,main,Liselotte,0,0,0,,His skill with a sword,
+Dialogue: 0,0:05:50.43,0:05:53.98,main,Liselotte,0,0,0,,as well as all of his words and actions, \Nspeak of refinement and education.
+Dialogue: 0,0:05:54.57,0:05:59.22,main,Liselotte,0,0,0,,He may be hiding his identity, \Nor he may be from a fallen noble house.
+Dialogue: 0,0:06:01.87,0:06:05.17,main,Huguenot,0,0,0,,I'd like to know a little \Nmore about him
+Dialogue: 0,0:06:05.17,0:06:08.09,main,Huguenot,0,0,0,,before building a future relationship.
+Dialogue: 0,0:06:08.54,0:06:11.32,main,Liselotte,0,0,0,,Would you like to attend my \Nmeeting with him tomorrow?
+Dialogue: 0,0:06:11.97,0:06:14.10,main,Huguenot,0,0,0,,It's a great help that you \Ncomprehend things so quickly.
+Dialogue: 0,0:06:14.50,0:06:15.91,main,Liselotte,0,0,0,,I understand.
+Dialogue: 0,0:06:16.27,0:06:20.41,main,Huguenot,0,0,0,,It wouldn't do to call it thanks, \Nbut please make use of my knights.
+Dialogue: 0,0:06:20.41,0:06:22.77,main,Liselotte,0,0,0,,Your knights, Your Grace?
+Dialogue: 0,0:06:23.64,0:06:27.21,main,Huguenot,0,0,0,,You intend to investigate the cause \Nof the monster spawnings, don't you?
+Dialogue: 0,0:06:27.87,0:06:31.64,main,Huguenot,0,0,0,,When exploring the forest, having more \Npersonnel available will never go amiss.
+Dialogue: 0,0:06:31.64,0:06:33.41,main,Liselotte,0,0,0,,That would be a great help. Thank you.
+Dialogue: 0,0:06:33.67,0:06:36.91,main,Huguenot,0,0,0,,Well, we continue to be faced \Nwith unusual situations.
+Dialogue: 0,0:06:37.21,0:06:40.87,main,Liselotte,0,0,0,,Yes. Not long ago, \Nwe began receiving reports
+Dialogue: 0,0:06:40.87,0:06:43.75,main,Liselotte,0,0,0,,that the number of adventurer \Ndisappearances had been increasing.
+Dialogue: 0,0:06:44.85,0:06:46.94,main,Alphonse,0,0,0,,It was over here, wasn't it?
+Dialogue: 0,0:06:46.94,0:06:47.85,main,Stewart,0,0,0,,Indeed.
+Dialogue: 0,0:06:47.85,0:06:51.97,main,woman A,0,0,0,,Are you really going to \Ntake us to that restaurant?
+Dialogue: 0,0:06:51.97,0:06:55.26,main,woman B,0,0,0,,It's famous for having incredibly \Nhigh prices, you know?
+Dialogue: 0,0:06:55.26,0:07:00.48,main,Stewart,0,0,0,,There's no need to worry about money.\NWe've been there before.
+Dialogue: 0,0:07:00.86,0:07:04.19,main,Alphonse,0,0,0,,Don't you know who we are?
+Dialogue: 0,0:07:04.19,0:07:06.44,main,woman A; B,0,0,0,,You're nobles!
+Dialogue: 0,0:07:08.44,0:07:11.82,main,Alphonse,0,0,0,,I'm in a very good mood! \NWhat about you, Stewart?
+Dialogue: 0,0:07:11.82,0:07:16.70,main,Stewart,0,0,0,,Yes, Alphonse. And this has washed \Naway the events of this afternoon.
+Dialogue: 0,0:07:17.24,0:07:19.44,main,Alphonse,0,0,0,,Don't talk about that!
+Dialogue: 0,0:07:19.44,0:07:24.44,main,Alphonse,0,0,0,,That Haruto or whatever his name is... \Nswooping in from nowhere like that.
+Dialogue: 0,0:07:24.44,0:07:25.91,main,Alphonse,0,0,0,,Who does he think he is?
+Dialogue: 0,0:07:25.91,0:07:28.89,main,Stewart,0,0,0,,More than that, what about that Hero?
+Dialogue: 0,0:07:28.89,0:07:34.22,flashback,Sakata,0,0,0,,You two. In that battle earlier, you freaked \Nout and hid in the back, didn't you?
+Dialogue: 0,0:07:34.22,0:07:36.35,flashback,Sakata,0,0,0,,Your legs totally gave out on you.
+Dialogue: 0,0:07:36.64,0:07:40.63,flashback,Sakata,0,0,0,,You'd better get your acts together, \NO honorable knights.
+Dialogue: 0,0:07:41.43,0:07:43.94,main,Stewart,0,0,0,,It wasn't our legs that gave out in fear!
+Dialogue: 0,0:07:43.94,0:07:46.77,main,Stewart,0,0,0,,He treats us as though we're \Ninsignificant weaklings!
+Dialogue: 0,0:07:47.19,0:07:50.92,main,Alphonse,0,0,0,,Stop talking about him! \NNow I need another drink!
+Dialogue: 0,0:07:52.95,0:07:54.41,main,Stewart,0,0,0,,We can't use it?
+Dialogue: 0,0:07:54.41,0:07:56.53,main,Stewart,0,0,0,,I'm talking about the room \Nwith a view of the garden!
+Dialogue: 0,0:07:56.53,0:08:01.54,main,server A,0,0,0,,Yes. Some other customers \Nare already using that room.
+Dialogue: 0,0:08:01.54,0:08:04.06,main,server A,0,0,0,,Any other room would be ready immediately.
+Dialogue: 0,0:08:04.06,0:08:07.93,main,Alphonse,0,0,0,,Just have those other customers switch rooms.
+Dialogue: 0,0:08:07.93,0:08:09.93,main,Alphonse,0,0,0,,If it's about money, I'll pay you triple.
+Dialogue: 0,0:08:09.93,0:08:11.55,main,server A,0,0,0,,I'm very sorry.
+Dialogue: 0,0:08:13.26,0:08:18.26,main,Celia,0,0,0,,And this silly girl had \Nfallen asleep in the bath!
+Dialogue: 0,0:08:18.26,0:08:20.80,main,Celia,0,0,0,,I went in later and got such a shock.
+Dialogue: 0,0:08:20.80,0:08:23.19,main,Aishia,0,0,0,,It's so cozy and feels so good.
+Dialogue: 0,0:08:23.19,0:08:25.56,main,Rio,0,0,0,,Maybe we should try to \Nkeep the sleeping to beds.
+Dialogue: 0,0:08:25.56,0:08:27.27,main,Stewart,0,0,0,,You're in my way! Move!
+Dialogue: 0,0:08:27.27,0:08:29.01,main,server B,0,0,0,,Please don't do this, sir.
+Dialogue: 0,0:08:29.82,0:08:34.43,main,Stewart,0,0,0,,You're not worth talking to. Don't blame \Nme for whatever happens to you later!
+Dialogue: 0,0:08:34.43,0:08:35.56,main,server B,0,0,0,,What happens to me does not matter.
+Dialogue: 0,0:08:35.94,0:08:36.82,main,Celia,0,0,0,,Is someone fighting?
+Dialogue: 0,0:08:37.66,0:08:39.45,main,Stewart,0,0,0,,This guy just doesn't listen to money.
+Dialogue: 0,0:08:39.45,0:08:44.01,main,Alphonse,0,0,0,,Enough, Stewart. We'll just talk \Nto these other customers ourselves.
+Dialogue: 0,0:08:44.01,0:08:45.44,main,server B,0,0,0,,Please, stop.
+Dialogue: 0,0:08:46.12,0:08:48.88,main,server B,0,0,0,,My deepest apologies, sir.
+Dialogue: 0,0:08:48.88,0:08:50.70,main,Rio,0,0,0,,May I ask you for an explanation?
+Dialogue: 0,0:08:51.45,0:08:55.09,main,Stewart,0,0,0,,You're... Haruto or something, aren't you?
+Dialogue: 0,0:08:55.38,0:08:59.35,main,Rio,0,0,0,,I'm very sorry. May I ask who you are?
+Dialogue: 0,0:08:59.35,0:09:01.72,main,Stewart,0,0,0,,Oh, my apologies.
+Dialogue: 0,0:09:01.72,0:09:03.84,main,Stewart,0,0,0,,I am Stewart Huguenot.
+Dialogue: 0,0:09:03.84,0:09:06.06,main,Stewart,0,0,0,,This is Alphonse Rodan.
+Dialogue: 0,0:09:06.06,0:09:09.98,main,Stewart,0,0,0,,We are knights affiliated with \Nthe group that you rescued today.
+Dialogue: 0,0:09:12.05,0:09:15.29,italics,Rio; internal,0,0,0,,Stewart? Alphonse?
+Dialogue: 0,0:09:16.22,0:09:20.12,main,Rio,0,0,0,,I see. I apologize for not recognizing you.
+Dialogue: 0,0:09:20.49,0:09:22.37,main,Rio,0,0,0,,Now, what brings you here?
+Dialogue: 0,0:09:22.78,0:09:25.66,main,Alphonse,0,0,0,,We want to use this room, you see.
+Dialogue: 0,0:09:27.08,0:09:31.14,main,Rio,0,0,0,,I see. We were just finishing our meal.
+Dialogue: 0,0:09:31.50,0:09:32.91,main,Rio,0,0,0,,Please, come in, if you'd like.
+Dialogue: 0,0:09:35.45,0:09:36.87,main,Rio,0,0,0,,Come over here, both of you.
+Dialogue: 0,0:09:38.15,0:09:39.50,main,Alphonse,0,0,0,,Now, now.
+Dialogue: 0,0:09:39.50,0:09:40.87,main,Alphonse,0,0,0,,Stop right there.
+Dialogue: 0,0:09:40.87,0:09:41.76,main,Rio,0,0,0,,What is it?
+Dialogue: 0,0:09:41.76,0:09:46.28,main,Alphonse,0,0,0,,You two. Since you're here,\Nwhy don't you stay and dine with us?
+Dialogue: 0,0:09:46.28,0:09:50.33,main,Rio,0,0,0,,Unfortunately, we've already \Nhad our fill of food and drink.
+Dialogue: 0,0:09:50.33,0:09:53.69,main,Alphonse,0,0,0,,What's this? You're refusing our invitation?
+Dialogue: 0,0:09:53.69,0:09:55.61,main,Rio,0,0,0,,We are also tired from our journey.
+Dialogue: 0,0:09:55.61,0:09:57.37,main,Alphonse,0,0,0,,I can't say I'm impressed.
+Dialogue: 0,0:09:57.37,0:10:01.77,main,Alphonse,0,0,0,,You may be good with a sword,\Nbut you're a commoner, aren't you?
+Dialogue: 0,0:10:01.77,0:10:03.45,main,Rio,0,0,0,,I beg that you pardon us.
+Dialogue: 0,0:10:04.62,0:10:06.96,main,Stewart,0,0,0,,Alphonse, we should probably...
+Dialogue: 0,0:10:06.96,0:10:11.17,main,server B,0,0,0,,Sir, if you continue to \Ntrouble other patrons,
+Dialogue: 0,0:10:11.17,0:10:13.84,main,server B,0,0,0,,we will have to take appropriate measures.
+Dialogue: 0,0:10:13.84,0:10:14.91,main,Rio,0,0,0,,We'll go, then.
+Dialogue: 0,0:10:14.91,0:10:15.67,main,Alphonse,0,0,0,,Stop.
+Dialogue: 0,0:10:15.67,0:10:17.84,main,Stewart,0,0,0,,A-Alphonse?
+Dialogue: 0,0:10:18.37,0:10:19.59,main,Rio,0,0,0,,What is it?
+Dialogue: 0,0:10:19.59,0:10:23.11,main,Alphonse,0,0,0,,It appears that you don't know the \Nproper way to interact with nobility.
+Dialogue: 0,0:10:23.61,0:10:26.10,main,Rio,0,0,0,,Unfortunately, I was born a commoner.
+Dialogue: 0,0:10:26.69,0:10:29.61,main,Alphonse,0,0,0,,I'm not averse to striking \Nsomeone down for discourtesy.
+Dialogue: 0,0:10:30.02,0:10:36.03,main,Rio,0,0,0,,I've heard that national and regional \Nlaws place limits on discourtesy kills.
+Dialogue: 0,0:10:36.77,0:10:42.23,main,Rio,0,0,0,,Have I committed some discourtesy which \Nwould be applicable under such laws?
+Dialogue: 0,0:10:43.27,0:10:44.66,main,Alphonse,0,0,0,,Why, you...
+Dialogue: 0,0:10:44.66,0:10:47.41,main,Alphonse,0,0,0,,Who do you think you are, you scum?!
+Dialogue: 0,0:10:48.18,0:10:49.40,main,Alphonse,0,0,0,,You little...
+Dialogue: 0,0:10:51.48,0:10:52.83,main,Stewart,0,0,0,,Alphonse!
+Dialogue: 0,0:10:52.83,0:10:54.23,main,Stewart,0,0,0,,Let him go, you vermin!
+Dialogue: 0,0:10:54.23,0:10:57.34,main,Rio,0,0,0,,If I let him go, it's likely \Nhe'll try to hit me again.
+Dialogue: 0,0:10:57.34,0:10:58.34,main,Stewart,0,0,0,,Stop playing around!
+Dialogue: 0,0:11:00.55,0:11:03.10,main,Alphonse,0,0,0,,What you've done is unforgivable!
+Dialogue: 0,0:11:07.54,0:11:08.58,main,Stewart,0,0,0,,You little...
+Dialogue: 0,0:11:11.39,0:11:15.64,main,Rio,0,0,0,,It doesn't seem we'll be able to \Nsettle this peaceably anymore.
+Dialogue: 0,0:11:16.53,0:11:17.97,main,Rio,0,0,0,,Could I trouble you
+Dialogue: 0,0:11:17.97,0:11:21.21,top,Rio,0,0,0,,to bring someone who might be able to \Ndeal with them as is appropriate?
+Dialogue: 0,0:11:19.05,0:11:23.03,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\fs23\fad(502,1)\blur4\pos(142,284)}Spirit Chronicles {\c&H29FFF4&}2
+Dialogue: 0,0:11:24.09,0:11:26.54,main,Aria,0,0,0,,Those are the particulars of the situation.
+Dialogue: 0,0:11:26.92,0:11:29.50,main,Aria,0,0,0,,Testimony from the staff \Ncorroborates the information.
+Dialogue: 0,0:11:30.09,0:11:31.67,main,Liselotte,0,0,0,,I see.
+Dialogue: 0,0:11:31.95,0:11:33.71,italics,Liselotte; internal,0,0,0,,This couldn't be worse!
+Dialogue: 0,0:11:33.71,0:11:36.85,italics,Liselotte; internal,0,0,0,,I didn't want him to think \Nthat nobles are arrogant,
+Dialogue: 0,0:11:36.85,0:11:40.92,italics,Liselotte; internal,0,0,0,,but given an incident like this, \Nhe's sure to be more wary!
+Dialogue: 0,0:11:41.33,0:11:43.43,main,Huguenot,0,0,0,,Those arrogant fools.
+Dialogue: 0,0:11:43.43,0:11:45.10,main,Liselotte,0,0,0,,Where is Master Haruto?
+Dialogue: 0,0:11:45.10,0:11:47.63,main,Aria,0,0,0,,He has returned to the inn to rest.
+Dialogue: 0,0:11:47.94,0:11:51.18,main,Liselotte,0,0,0,,Then I'll go and apologize \Nto him tomorrow morning.
+Dialogue: 0,0:11:51.18,0:11:54.39,main,Aria,0,0,0,,Understood. I will make the \Nappropriate preparations.
+Dialogue: 0,0:11:54.76,0:11:58.32,main,Huguenot,0,0,0,,As a parent, I will settle those \Nignorant fools' misconduct personally.
+Dialogue: 0,0:11:58.89,0:12:03.49,main,Huguenot,0,0,0,,Might I ask you to convey my \Napologies and sincerity to him?
+Dialogue: 0,0:12:03.93,0:12:05.42,main,Liselotte,0,0,0,,Of course, Your Grace.
+Dialogue: 0,0:12:10.96,0:12:12.50,main,Huguenot,0,0,0,,Little fools.
+Dialogue: 0,0:12:14.56,0:12:17.69,main,Huguenot,0,0,0,,I didn't expect much from you,
+Dialogue: 0,0:12:17.69,0:12:20.88,main,Huguenot,0,0,0,,but this incident has made me despair \Nfrom the depths of my heart.
+Dialogue: 0,0:12:21.21,0:12:25.66,main,Huguenot,0,0,0,,I told you not to expect a second chance.
+Dialogue: 0,0:12:26.91,0:12:30.91,main,Huguenot,0,0,0,,Rejoice! I shall disinherit you,\Njust as you wished.
+Dialogue: 0,0:12:30.91,0:12:32.79,main,Stewart,0,0,0,,D-Disinherit?!
+Dialogue: 0,0:12:32.79,0:12:34.71,main,Alphonse,0,0,0,,That's going too far!
+Dialogue: 0,0:12:34.71,0:12:38.27,main,Alphonse,0,0,0,,It was just a quarrel with \Nsome commoner swordsman.
+Dialogue: 0,0:12:38.27,0:12:39.90,main,Huguenot,0,0,0,,Just a commoner?
+Dialogue: 0,0:12:39.90,0:12:42.66,main,Huguenot,0,0,0,,He appears to be far more \Ncompetent than you are.
+Dialogue: 0,0:12:43.40,0:12:46.41,main,Huguenot,0,0,0,,Though your great lack of \Nability is also a factor.
+Dialogue: 0,0:12:46.76,0:12:48.60,main,Alphonse,0,0,0,,What did you say?
+Dialogue: 0,0:12:49.48,0:12:54.66,main,Alphonse,0,0,0,,You may be a duke, Your Grace,\N but I must ask that you take back those words!
+Dialogue: 0,0:12:55.19,0:12:59.04,main,Huguenot,0,0,0,,That swordsman handled three minotaurs \Nas if they were merely playthings.
+Dialogue: 0,0:12:59.04,0:13:02.02,main,Huguenot,0,0,0,,Can you do the same?
+Dialogue: 0,0:13:02.02,0:13:04.96,main,Alphonse,0,0,0,,If I had an enchanted sword, then I...
+Dialogue: 0,0:13:05.27,0:13:10.43,main,Huguenot,0,0,0,,I heard that the two of you attacked him \Ntogether, and he turned the tables on you.
+Dialogue: 0,0:13:11.68,0:13:15.65,main,Huguenot,0,0,0,,Well, I will grant you an \Nopportunity to clear your name.
+Dialogue: 0,0:13:16.17,0:13:19.88,main,Huguenot,0,0,0,,After all, I'm certain you would have \Ndifficulty facing your father as things stand.
+Dialogue: 0,0:13:20.28,0:13:23.03,main,Alphonse,0,0,0,,I'll do it! Please give me a chance!
+Dialogue: 0,0:13:23.03,0:13:28.16,main,Huguenot,0,0,0,,Liselotte will be investigating \Nthe forest to the west of Amande.
+Dialogue: 0,0:13:28.16,0:13:30.83,main,Alphonse,0,0,0,,And you want me to help her.
+Dialogue: 0,0:13:30.83,0:13:34.58,main,Huguenot,0,0,0,,Should you distinguish yourself \Nsomehow as part of the advance party,
+Dialogue: 0,0:13:34.58,0:13:38.56,main,Huguenot,0,0,0,,then I wouldn't mind putting in a good \Nword for you as regards this matter.
+Dialogue: 0,0:13:39.71,0:13:42.14,main,Huguenot,0,0,0,,Of course, should you \Nfail to produce results,
+Dialogue: 0,0:13:42.14,0:13:44.94,main,Huguenot,0,0,0,,I will ask that you return to \NRodania and remain confined there.
+Dialogue: 0,0:13:44.94,0:13:46.88,main,Alphonse,0,0,0,,Please, allow me to take this opportunity!
+Dialogue: 0,0:13:46.88,0:13:49.34,main,Huguenot,0,0,0,,Very well. However...
+Dialogue: 0,0:13:49.71,0:13:52.99,main,Huguenot,0,0,0,,only on the condition that you \Napologize to Master Haruto first.
+Dialogue: 0,0:13:53.97,0:13:55.16,main,Huguenot,0,0,0,,Do you understand?
+Dialogue: 0,0:13:55.16,0:13:56.79,main,Stewart,0,0,0,,Y-Yes.
+Dialogue: 0,0:13:57.14,0:13:58.08,main,Alphonse,0,0,0,,Yes, Your Grace.
+Dialogue: 0,0:14:00.82,0:14:02.84,main,Rio,0,0,0,,I'm sorry about yesterday.
+Dialogue: 0,0:14:03.31,0:14:07.72,main,Rio,0,0,0,,Because I asked you to accompany me, \NI subjected you to even more worry.
+Dialogue: 0,0:14:08.20,0:14:12.07,main,Celia,0,0,0,,It's all right, though my heart \Nis still racing a little.
+Dialogue: 0,0:14:12.07,0:14:17.77,main,Rio,0,0,0,,Then, Cecilia, would you like to stay in \Nthe stone house with Aishia starting today?
+Dialogue: 0,0:14:17.77,0:14:20.96,main,Celia,0,0,0,,I couldn't! It's all right. \NEverything is fine.
+Dialogue: 0,0:14:20.96,0:14:24.34,main,Rio,0,0,0,,But it's difficult for you \Nto feel at ease, isn't it?
+Dialogue: 0,0:14:24.34,0:14:27.92,main,Celia,0,0,0,,It's all right. Besides, I don't \Nwant to leave your side, Haruto.
+Dialogue: 0,0:14:29.87,0:14:34.18,main,Celia,0,0,0,,Oh! Out of concern! \NI'm just concerned about you!
+Dialogue: 0,0:14:34.18,0:14:36.85,main,Rio,0,0,0,,Yes. Thank you.
+Dialogue: 0,0:14:37.27,0:14:39.50,main,Aishia,0,0,0,,If the time comes, we can just run away.
+Dialogue: 0,0:14:40.34,0:14:42.31,main,Celia,0,0,0,,Th-That's right!
+Dialogue: 0,0:14:47.77,0:14:49.52,main,Liselotte,0,0,0,,Stay here and stand by.
+Dialogue: 0,0:14:49.52,0:14:50.23,main,Aria,0,0,0,,Yes, my lady.
+Dialogue: 0,0:14:52.60,0:14:54.25,main,Celia,0,0,0,,My name is Cecilia.
+Dialogue: 0,0:14:54.25,0:14:55.54,main,Aishia,0,0,0,,I'm Aishia.
+Dialogue: 0,0:14:55.89,0:15:01.00,main,Liselotte,0,0,0,,I'm pleased to meet you.\NBoth of you are very beautiful.
+Dialogue: 0,0:15:01.00,0:15:02.67,main,Celia,0,0,0,,Thank you.
+Dialogue: 0,0:15:03.05,0:15:06.55,main,Rio,0,0,0,,Would the two of you mind \Nwaiting in the other room?
+Dialogue: 0,0:15:06.55,0:15:07.53,main,Aishia,0,0,0,,All right.
+Dialogue: 0,0:15:08.17,0:15:09.51,main,Celia,0,0,0,,If you'll excuse us.
+Dialogue: 0,0:15:11.53,0:15:16.01,main,Liselotte,0,0,0,,Duke Huguenot wishes to apologize \Nto you, Master Haruto.
+Dialogue: 0,0:15:16.01,0:15:17.19,main,Rio,0,0,0,,I see.
+Dialogue: 0,0:15:17.68,0:15:21.93,main,Liselotte,0,0,0,,If you have any requests, he asks that \Nyou make them, whatever they may be.
+Dialogue: 0,0:15:22.44,0:15:27.90,main,Rio,0,0,0,,Then, may I ask that testimony that \Nthe dispute was settled amicably
+Dialogue: 0,0:15:27.90,0:15:29.67,main,Rio,0,0,0,,be put into writing?
+Dialogue: 0,0:15:30.15,0:15:31.61,main,Liselotte,0,0,0,,Of course.
+Dialogue: 0,0:15:31.92,0:15:35.56,main,Liselotte,0,0,0,,I will act as an arbitrator and \Nhave such a document created.
+Dialogue: 0,0:15:35.90,0:15:37.32,main,Rio,0,0,0,,Thank you.
+Dialogue: 0,0:15:37.91,0:15:43.45,main,Liselotte,0,0,0,,And, if you have no objections, I will \Ninvite you to my home as planned.
+Dialogue: 0,0:15:43.45,0:15:47.80,main,Liselotte,0,0,0,,Would you like to come for lunch? \NYour two companions are welcome, too.
+Dialogue: 0,0:15:48.20,0:15:53.51,main,Rio,0,0,0,,I'm very sorry. They seem to still be \Ntired from the events of last night.
+Dialogue: 0,0:15:53.51,0:15:55.74,main,Rio,0,0,0,,I will call on you alone.
+Dialogue: 0,0:15:57.73,0:16:01.20,main,Huguenot,0,0,0,,What do you think?
+Dialogue: 0,0:16:01.20,0:16:04.73,main,Rio,0,0,0,,I feel it favors me too heavily.
+Dialogue: 0,0:16:05.39,0:16:08.36,main,Rio,0,0,0,,If you have no objections \Nto it, Your Grace, then...
+Dialogue: 0,0:16:08.69,0:16:10.57,main,Huguenot,0,0,0,,It's only natural that I do this.
+Dialogue: 0,0:16:10.57,0:16:18.39,main,Huguenot,0,0,0,,Then we'll leave drawing up the official \Ncontract to our third party, Liselotte.
+Dialogue: 0,0:16:18.83,0:16:20.58,main,Liselotte,0,0,0,,Of course, Your Grace.
+Dialogue: 0,0:16:20.32,0:16:25.93,top,Huguenot,0,0,0,,Now, as a parent... I would like to take \Nresponsibility and atone for this crime.
+Dialogue: 0,0:16:27.27,0:16:32.15,main,Huguenot,0,0,0,,Would you be willing to grant them \Nan opportunity to apologize to you?
+Dialogue: 0,0:16:32.49,0:16:34.68,main,Rio,0,0,0,,Yes, I wouldn't mind.
+Dialogue: 0,0:16:35.12,0:16:36.22,main,Huguenot,0,0,0,,Thank you.
+Dialogue: 0,0:16:36.63,0:16:37.76,main,Huguenot,0,0,0,,Come in!
+Dialogue: 0,0:16:41.57,0:16:47.07,main,Huguenot,0,0,0,,Now, be grateful that he is so magnanimous.\NApologize properly.
+Dialogue: 0,0:16:48.27,0:16:50.65,main,Stewart; Alphonse,0,0,0,,We are very sorry!
+Dialogue: 0,0:16:53.83,0:16:56.11,main,Rio,0,0,0,,Please raise your heads.
+Dialogue: 0,0:16:59.12,0:17:01.12,main,Flora,0,0,0,,Oh! Master Haruto!
+Dialogue: 0,0:17:01.12,0:17:04.79,main,Rio,0,0,0,,I am honored to see you a \Nsecond time, Princess Flora.
+Dialogue: 0,0:17:04.79,0:17:08.16,main,Sakata,0,0,0,,Well, have a seat. Seems like \Nyou've had it pretty rough.
+Dialogue: 0,0:17:08.16,0:17:10.38,main,Rio,0,0,0,,Not at all. If you'll permit me.
+Dialogue: 0,0:17:11.04,0:17:12.61,main,Sakata,0,0,0,,I'd expect nothing less.
+Dialogue: 0,0:17:12.61,0:17:15.75,main,Sakata,0,0,0,,The chef here at Liselotte's \Nmansion has impressive skills.
+Dialogue: 0,0:17:15.75,0:17:17.22,main,Liselotte,0,0,0,,I'm honored you think so.
+Dialogue: 0,0:17:17.22,0:17:21.27,main,Sakata,0,0,0,,But when I eat good meat, \Nit does make me crave rice.
+Dialogue: 0,0:17:21.27,0:17:24.87,main,Liselotte,0,0,0,,Actually, we tried to prepare \Nthis rice you speak of...
+Dialogue: 0,0:17:24.87,0:17:26.46,main,Sakata,0,0,0,,You did?
+Dialogue: 0,0:17:26.81,0:17:31.52,main,Liselotte,0,0,0,,But it seems to be slightly different \Nfrom the rice of your world, Sir Hiroaki.
+Dialogue: 0,0:17:31.52,0:17:35.18,main,Liselotte,0,0,0,,We tried boiling it as it was, but the \Ntaste wasn't particularly pleasing.
+Dialogue: 0,0:17:36.26,0:17:39.79,main,Liselotte,0,0,0,,So we made some adjustments.
+Dialogue: 0,0:17:41.67,0:17:44.45,main,Sakata,0,0,0,,Well... Let's see now.
+Dialogue: 0,0:17:44.45,0:17:45.91,italics,Rio; internal,0,0,0,,This is...
+Dialogue: 0,0:17:48.50,0:17:51.04,main,Sakata,0,0,0,,This is good! Cheese risotto, huh?
+Dialogue: 0,0:17:51.48,0:17:57.01,main,Liselotte,0,0,0,,I'm honored you feel that way.\NYou're aware of this dish, then, Sir Hiroaki?
+Dialogue: 0,0:17:57.28,0:18:01.03,main,Sakata,0,0,0,,Oh, it's the name of a dish from my \Nworld that's a lot like this one.
+Dialogue: 0,0:18:01.03,0:18:05.96,main,Liselotte,0,0,0,,If that's the case, then I will take this \Nopportunity to name this dish "risotto."
+Dialogue: 0,0:18:05.96,0:18:07.35,main,Sakata,0,0,0,,Sure. That's fine with me.
+Dialogue: 0,0:18:07.71,0:18:09.33,main,Roanna,0,0,0,,It's delicious!
+Dialogue: 0,0:18:09.33,0:18:11.73,main,Flora,0,0,0,,It's so rich from all the cheese.
+Dialogue: 0,0:18:13.00,0:18:15.11,main,Huguenot,0,0,0,,This isn't bad at all.
+Dialogue: 0,0:18:15.55,0:18:18.92,italics,Rio; internal,0,0,0,,There's this and also the pasta that \Nthe Ricca Company developed.
+Dialogue: 0,0:18:19.71,0:18:23.83,italics,Rio; internal,0,0,0,,She must have knowledge from Earth.
+Dialogue: 0,0:18:24.88,0:18:27.58,main,Liselotte,0,0,0,,How do you like it, Master Haruto?
+Dialogue: 0,0:18:28.04,0:18:30.03,main,Rio,0,0,0,,It's wonderful!
+Dialogue: 0,0:18:30.03,0:18:33.37,main,Rio,0,0,0,,I never imagined that rice \Ncould be made edible.
+Dialogue: 0,0:18:33.80,0:18:37.04,main,Flora,0,0,0,,Master Haruto, how old were you \Nwhen you began your journey?
+Dialogue: 0,0:18:37.04,0:18:38.97,main,Rio,0,0,0,,I was eleven years old.
+Dialogue: 0,0:18:38.97,0:18:41.69,main,Sakata,0,0,0,,Speaking of which, how old are you now?
+Dialogue: 0,0:18:42.07,0:18:43.69,main,Rio,0,0,0,,I am sixteen now.
+Dialogue: 0,0:18:44.36,0:18:46.90,main,Sakata,0,0,0,,And you've been traveling \Nsince you were a kid?
+Dialogue: 0,0:18:47.53,0:18:51.17,main,Sakata,0,0,0,,I guess if you were with your parents,\Nit wouldn't be impossible.
+Dialogue: 0,0:18:51.17,0:18:54.81,main,Rio,0,0,0,,Both of my parents died before \NI set out on my journey.
+Dialogue: 0,0:18:55.30,0:18:57.01,main,Rio,0,0,0,,In general, I've traveled alone.
+Dialogue: 0,0:18:58.00,0:18:58.74,main,Sakata,0,0,0,,I see.
+Dialogue: 0,0:18:58.97,0:19:00.33,main,Sakata,0,0,0,,I'm sorry to make you speak of it.
+Dialogue: 0,0:19:00.33,0:19:02.70,main,Rio,0,0,0,,It's all right. Please, \Ndon't let it bother you.
+Dialogue: 0,0:19:02.97,0:19:09.09,main,Flora,0,0,0,,Um, Master Haruto, why did you decide \Nto set out on a journey alone?
+Dialogue: 0,0:19:09.09,0:19:10.80,main,Rio,0,0,0,,I think it was because
+Dialogue: 0,0:19:10.80,0:19:13.72,main,Rio,0,0,0,,I was searching for someone with a \Ncertain connection to my parents.
+Dialogue: 0,0:19:14.59,0:19:18.09,main,Huguenot,0,0,0,,Do you have any intention of \Nsettling somewhere permanently?
+Dialogue: 0,0:19:18.09,0:19:20.45,main,Rio,0,0,0,,I am still in the midst of my journey.
+Dialogue: 0,0:19:22.02,0:19:24.20,main,Huguenot,0,0,0,,In that case, I do hope you'll consider
+Dialogue: 0,0:19:24.20,0:19:27.84,main,Huguenot,0,0,0,,the Kingdom of Beltrum for a \Nfuture permanent residence.
+Dialogue: 0,0:19:27.84,0:19:31.69,main,Huguenot,0,0,0,,I would be willing to grant very favorable \Nterms to a swordsman of your caliber.
+Dialogue: 0,0:19:31.69,0:19:36.23,main,Liselotte,0,0,0,,Oh, my! In that case, I would like to \Nsubmit my name for consideration as well.
+Dialogue: 0,0:19:36.23,0:19:39.74,main,Rio,0,0,0,,I am most grateful. If the fates allow.
+Dialogue: 0,0:19:40.07,0:19:44.81,main,Sakata,0,0,0,,Look at everyone fawning over you! \NIs this the birth of a new hero?
+Dialogue: 0,0:19:45.14,0:19:46.57,main,Rio,0,0,0,,I would never presume!
+Dialogue: 0,0:19:46.57,0:19:51.88,main,Rio,0,0,0,,Someone like me could never measure up \Nto a real Hero like you, Sir Hiroaki!
+Dialogue: 0,0:19:51.88,0:19:55.30,main,Sakata,0,0,0,,Well, no matter how much good you may do,
+Dialogue: 0,0:19:55.30,0:19:59.63,main,Sakata,0,0,0,,there's a certain status and strength \Nthat only a real Hero possesses.
+Dialogue: 0,0:20:00.14,0:20:05.42,main,Sakata,0,0,0,,But if you understand that, then you might \Nend up going farther than anyone thinks.
+Dialogue: 0,0:20:05.42,0:20:07.08,main,Rio,0,0,0,,I am honored you think so.
+Dialogue: 0,0:20:07.08,0:20:09.64,main,Rio,0,0,0,,Which reminds me... I've heard rumors
+Dialogue: 0,0:20:09.64,0:20:14.15,main,Rio,0,0,0,,that a Hero has arrived in the \NKingdom of Galarc as well.
+Dialogue: 0,0:20:14.15,0:20:18.65,main,Liselotte,0,0,0,,Given such a conspicuous pillar, \Nit would be impossible to hide it.
+Dialogue: 0,0:20:18.65,0:20:22.35,main,Sakata,0,0,0,,The Hero is supposed to be officially \Npresented at the soirée, right?
+Dialogue: 0,0:20:22.67,0:20:25.03,main,Sakata,0,0,0,,Galarc's Lady Hero or whatever.
+Dialogue: 0,0:20:26.11,0:20:28.28,main,Rio,0,0,0,,The Hero is a woman?
+Dialogue: 0,0:20:28.28,0:20:31.29,main,Liselotte,0,0,0,,Yes, Dame Sumeragi Satsuki.
+Dialogue: 0,0:20:31.65,0:20:34.43,main,Liselotte,0,0,0,,She is the Hero who was \Nsummoned to our kingdom.
+Dialogue: 0,0:20:35.59,0:20:38.54,italics,Rio; internal,0,0,0,,Sumeragi Satsuki?
+Dialogue: 0,0:20:38.54,0:20:43.80,flashback,Miharu,0,0,0,,Satsuki-san and Takahisa-kun vanished first.\N Do you think they came to this world?
+Dialogue: 0,0:20:42.14,0:20:46.53,italicstop,Rio; internal,0,0,0,,There's no mistake. She's one of the \Npeople Miharu-san is searching for.
+Dialogue: 0,0:20:47.05,0:20:51.63,main,Huguenot,0,0,0,,Sir Hiroaki will also be \Npresented at that party.
+Dialogue: 0,0:20:51.63,0:20:57.06,main,Liselotte,0,0,0,,The Hero of the Kingdom of Beltrum,\NSir Shigekura Rui, has also been invited.
+Dialogue: 0,0:20:57.56,0:21:00.62,main,Sakata,0,0,0,,It's annoying to be treated \Nlike an object to be shown off,
+Dialogue: 0,0:21:01.18,0:21:04.83,main,Sakata,0,0,0,,but this is one of the duties of a Hero, too.
+Dialogue: 0,0:21:04.83,0:21:07.66,main,Rio,0,0,0,,It sounds like it there will be \Nmany important personages there.
+Dialogue: 0,0:21:07.94,0:21:09.36,main,Huguenot,0,0,0,,There may be one more.
+Dialogue: 0,0:21:09.36,0:21:16.08,main,Huguenot,0,0,0,,It's rumored that the Hero summoned \Nto the Centostella Kingdom may attend.
+Dialogue: 0,0:21:16.08,0:21:17.96,main,Rio,0,0,0,,I see.
+Dialogue: 0,0:21:18.46,0:21:22.05,italics,Rio; internal,0,0,0,,This finally gets us one step closer.\NThat's incredible progress.
+Dialogue: 0,0:21:23.23,0:21:26.05,italics,Rio; internal,0,0,0,,This means I'll have good news \Nfor Miharu-san and the others!
+Dialogue: 0,0:21:34.18,0:21:36.69,italics,Alphonse; internal,0,0,0,,Blast it! Why am I forced to do this...
+Dialogue: 0,0:21:37.03,0:21:39.35,italics,Alphonse; internal,0,0,0,,because of that riffraff?
+Dialogue: 0,0:21:39.81,0:21:42.43,italics,Alphonse; internal,0,0,0,,I am not talentless.
+Dialogue: 0,0:21:42.43,0:21:44.69,italics,Alphonse; internal,0,0,0,,You rotten duke, you just watch!
+Dialogue: 0,0:21:44.69,0:21:46.57,italics,Alphonse; internal,0,0,0,,I'll show you!
+Dialogue: 0,0:21:46.57,0:21:48.54,main,officer,0,0,0,,Stay alert!
+Dialogue: 0,0:21:48.54,0:21:51.37,main,officer,0,0,0,,We may encounter another \Nminotaur at any time!
+Dialogue: 0,0:21:52.33,0:21:54.57,main,Lucius,0,0,0,,No need for that.
+Dialogue: 0,0:21:58.31,0:22:01.39,main,Lucius,0,0,0,,There aren't any monsters \Nleft in the forest, you see?
+Dialogue: 0,0:22:02.34,0:22:03.16,main,officer,0,0,0,,Who are you?
+Dialogue: 0,0:23:40.06,0:23:45.06,sign_33925_315_Next_Time_Royal_,text; top line,0,0,0,,{\pos(320,120)\blur1.5\3c&HF489C7&\shad0}Next Time
+Dialogue: 0,0:23:40.06,0:23:45.06,sign_33925_315_Next_Time_Royal_,text,0,0,0,,{\fs35\an8\pos(320,225)\blur1.5\3c&HF98DC4&\shad0\fscx60}The Clutches of Evil, Stealing Ever Closer
+Dialogue: 0,0:23:41.05,0:23:42.59,main,Rio,0,0,0,,"The Clutches of Evil, Stealing Ever Closer."
+Dialogue: 0,0:23:45.06,0:23:50.25,sign_3238_18_Seirei_Gensouki,text; top right,0,0,0,,{\fs23\blur4\an8\c&H29FFF4&\pos(512.333,12.222)}Spirit Chronicles 2
+Dialogue: 0,0:23:45.06,0:23:50.25,sign_Georgia,text; bottom right,0,0,0,,{\an1\c&H000700&\bord2\shad2\4c&H838556&\fs11\3c&HFFFFFF&\3a&HAF&\pos(456.667,316.889)}Illustration: Minazuki Futago

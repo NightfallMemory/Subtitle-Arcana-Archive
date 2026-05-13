@@ -1,1 +1,373 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
 
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: sign_Arial,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ArialBlack,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_CourierNew,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ComicSansMS,Comic Sans MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Georgia,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Impact,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TimesNewRoman,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TrebuchetMS,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Verdana,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_3238_18_Seirei_Gensouki,Trebuchet MS,40,&H00FAFFFF,&H000000FF,&H00E6B519,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,20,1
+Style: sign_31638_280_No_Service,Arial,20,&H006E3828,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,20,1
+Style: sign_33925_315_Next_Time_Royal_,Trebuchet MS,15,&H00FAFFFF,&H000000FF,&H00CBB281,&H00BDB85F,0,0,0,0,100,100,0,0,1,2,1,2,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.35,0:00:09.36,flashbacktop,7 yo Miharu; background,0,0,0,,Haru-kun, I don't want you to go!
+Dialogue: 0,0:00:08.12,0:00:12.30,italics,Rio; narration,0,0,0,,Ayase Miharu was \NAmakawa Haruto's childhood friend.
+Dialogue: 0,0:00:09.87,0:00:13.21,flashbacktop,7 yo Haruto; background; background,0,0,0,,Mii-chan, don't cry. \NWe'll see each other again, okay?
+Dialogue: 0,0:00:12.80,0:00:15.30,italics,Rio; narration,0,0,0,,They lived in two apartments \Nnext to each other.
+Dialogue: 0,0:00:13.59,0:00:16.67,flashbacktop,7 yo Miharu; background,0,0,0,,I hate this! Don't go, Haru-kun!
+Dialogue: 0,0:00:15.30,0:00:17.66,italics,Rio; narration,0,0,0,,They were always together...
+Dialogue: 0,0:00:16.67,0:00:21.13,flashbacktop,7 yo Miharu; background,0,0,0,,Please. Why? Why are you...
+Dialogue: 0,0:00:17.66,0:00:21.13,italics,Rio; narration,0,0,0,,until Haruto's parents divorced\N and he had to move away,
+Dialogue: 0,0:00:21.13,0:00:23.64,flashbacktop,7 yo Haruto; background,0,0,0,,When I grow up, I'll come and get you!
+Dialogue: 0,0:00:21.93,0:00:27.96,italics,Rio; narration,0,0,0,,Which is why, when they parted,\Nthey were already very special to each other.
+Dialogue: 0,0:00:24.86,0:00:27.00,flashbacktop,7 yo Haruto,0,0,0,,So... So, when I do, let's get married!
+Dialogue: 0,0:00:27.28,0:00:30.38,flashbacktop,7 yo Haruto,0,0,0,,That way we can always be \Ntogether, side by side.
+Dialogue: 0,0:00:30.38,0:00:34.97,flashback,7 yo Miharu,0,0,0,,I'll do it! I will! Haru-kun, I'll marry you!
+Dialogue: 0,0:00:35.55,0:00:38.43,italics,Rio; narration,0,0,0,,That's the promise they made each other.
+Dialogue: 0,0:00:41.20,0:00:47.10,sign_TimesNewRoman,text; small,0,0,0,,{\an8\c&H6D4E47&\3c&HF7FCF9&\shad0\fs15\fad(446,1)}Inaba University's Affiliate High School\N{\fs20} Entrance Ceremony
+Dialogue: 0,0:00:42.18,0:00:44.55,italics,Rio; narration,0,0,0,,And so he worked diligently at his studies.
+Dialogue: 0,0:00:44.91,0:00:48.86,italics,Rio; narration,0,0,0,,There was a famous school in the \Ntown where he and Miharu had lived,
+Dialogue: 0,0:00:48.86,0:00:51.24,italics,Rio; narration,0,0,0,,and he worked very hard \Nin order to enroll there.
+Dialogue: 0,0:00:51.61,0:00:54.36,sign_TimesNewRoman,text; sign on left,0,0,0,,{\an8\c&H3D362E&\3c&HE7E9CE&\shad0\fs15\move(75,27,-10,27)}Inaba High\N Hardball Baseball
+Dialogue: 0,0:00:51.61,0:00:54.36,sign_TimesNewRoman,text; top line,0,0,0,,{\frz3.49\fax0.1\c&HAC9C35&\3c&HF6FBF6&\shad0\fs15\move(405,215,320,215)}Chemistry Club
+Dialogue: 0,0:00:51.61,0:00:54.36,sign_TimesNewRoman,text; middle line,0,0,0,,{\frz17.39\fax-0.16\fay.05\c&H8CD56E&\3c&HF6FBF6&\shad0\fs15\move(435,271,350,271)}New Members
+Dialogue: 0,0:00:51.61,0:00:54.36,sign_TimesNewRoman,text; bottom line,0,0,0,,{\frz17.39\fax-0.16\fay.05\c&H8D05B6&\3c&HF6FBF6&\shad0\fs15\move(435,315,355,315)}Inquire Here!
+Dialogue: 0,0:00:52.36,0:00:54.36,flashbackitalicstop,Haruto; internal,0,0,0,,I don't have time to join a club.
+Dialogue: 0,0:00:55.36,0:00:58.72,flashback italics,Haruto; internal,0,0,0,,I really pushed my father to let me \Ncome back to this neighborhood.
+Dialogue: 0,0:00:55.36,0:00:59.12,sign_Arial,text; top; bold,0,0,0,,{\frz6.81\c&H5A3D3C&\shad0\bord0\fs8\pos(312,142)}Part-Time Work Permission Form
+Dialogue: 0,0:00:59.12,0:01:01.66,flashback italics,Haruto; internal,0,0,0,,I have to earn money for \Nmy living expenses myself.
+Dialogue: 0,0:01:06.86,0:01:08.10,flashback,Haruto,0,0,0,,Mii-chan?
+Dialogue: 0,0:01:08.10,0:01:09.63,flashback,Takahisa,0,0,0,,Hey, Miharu!
+Dialogue: 0,0:01:09.63,0:01:11.21,flashback,Miharu,0,0,0,,Oh! Takahisa-kun!
+Dialogue: 0,0:01:11.46,0:01:12.67,flashback,Takahisa,0,0,0,,Did I keep you waiting?
+Dialogue: 0,0:01:12.67,0:01:15.88,flashback,Miharu,0,0,0,,No, I only just got here.
+Dialogue: 0,0:01:15.88,0:01:18.68,flashback,Takahisa,0,0,0,,Really? Well, let's go.
+Dialogue: 0,0:01:18.68,0:01:21.18,flashback,Satsuki,0,0,0,,A moment please, Takahisa-kun?
+Dialogue: 0,0:01:22.73,0:01:26.71,flashback,Satsuki,0,0,0,,Have you forgotten that \Nyou came here with me?
+Dialogue: 0,0:01:26.71,0:01:30.77,flashback,Takahisa,0,0,0,,S-Satsuki-san! No, of course I haven't.
+Dialogue: 0,0:01:31.03,0:01:34.73,flashback,Satsuki,0,0,0,,The moment you spotted Miharu-chan, \Nyou ran off on your own.
+Dialogue: 0,0:01:34.73,0:01:37.35,flashback,Satsuki,0,0,0,,You're no different than \Nyou were in middle school.
+Dialogue: 0,0:01:38.68,0:01:41.72,flashback,Takahisa,0,0,0,,We're keeping Aki and Masato \Nwaiting. We should go.
+Dialogue: 0,0:01:55.53,0:01:57.81,flashback,Aki,0,0,0,,Oh! Oniichan!
+Dialogue: 0,0:01:57.81,0:01:58.68,flashback,Takahisa,0,0,0,,Aki!
+Dialogue: 0,0:01:59.17,0:02:01.50,flashback,Masato,0,0,0,,It's been a while, Satsuki-neechan!
+Dialogue: 0,0:02:01.50,0:02:03.68,flashback,Aki,0,0,0,,We haven't seen you lately, Satsuki-san.
+Dialogue: 0,0:02:03.68,0:02:06.89,flashback,Satsuki,0,0,0,,Yes, and you've both grown so much!
+Dialogue: 0,0:02:07.17,0:02:10.52,flashback,Masato,0,0,0,,Satsuki-neechan, you've \Ngotten even more beautiful!
+Dialogue: 0,0:02:11.94,0:02:15.21,flashback,Satsuki,0,0,0,,You say the nicest things, Masato-kun!
+Dialogue: 0,0:02:15.21,0:02:18.78,flashback,Satsuki,0,0,0,,Okay, as I am your senpai, \Ntoday, it's my treat!
+Dialogue: 0,0:02:18.78,0:02:22.12,flashback,Satsuki,0,0,0,,Miharu-chan and Takahisa-kun \Nhave entered high school.
+Dialogue: 0,0:02:22.12,0:02:24.46,flashback,Satsuki,0,0,0,,Aki-chan has entered middle school.
+Dialogue: 0,0:02:24.46,0:02:28.83,flashback,Satsuki,0,0,0,,And Masato-kun has moved up to sixth grade.\NIn honor of all of that...
+Dialogue: 0,0:02:29.11,0:02:31.60,flashback,Satsuki,0,0,0,,Let's have a huge celebration!
+Dialogue: 0,0:02:31.60,0:02:35.23,flashback,Masato,0,0,0,,Wow, that's awesome! Yay! \NThank you, Satsuki-neechan!
+Dialogue: 0,0:02:35.23,0:02:37.84,flashback,Aki,0,0,0,,Y-You should show a little more restraint.
+Dialogue: 0,0:02:45.61,0:02:46.72,flashback,Aki,0,0,0,,Onii—
+Dialogue: 0,0:03:11.36,0:03:12.29,flashback,Rio,0,0,0,,Aishia?
+Dialogue: 0,0:03:13.91,0:03:16.46,flashback,Aishia,0,0,0,,Haruto, please, help them!
+Dialogue: 0,0:03:16.78,0:03:17.55,flashback,Rio,0,0,0,,What?
+Dialogue: 0,0:03:34.42,0:03:37.59,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\pos(345,125)\blur4\fad(897,248)}Spirit Chronicles 2
+Dialogue: 0,0:04:38.08,0:04:38.91,main,Aishia,0,0,0,,Rio?
+Dialogue: 0,0:04:41.96,0:04:45.68,main,Celia,0,0,0,,J-Just what do you two think you're doing?!
+Dialogue: 0,0:04:48.66,0:04:52.02,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\blur4\c&H7AFBFF&\fad(897,1)\an1\fs21\pos(226,291)}When I Met You in This World, You Were...
+Dialogue: 0,0:04:52.30,0:04:54.27,main,Aki,0,0,0,,Masato, where are we?
+Dialogue: 0,0:04:54.27,0:04:55.52,main,Masato,0,0,0,,Don't ask me.
+Dialogue: 0,0:04:55.90,0:05:01.28,main,Miharu,0,0,0,,W-Well, why don't we try to \Nfigure out what this place is?
+Dialogue: 0,0:05:01.28,0:05:04.28,sign_31638_280_No_Service,text,0,0,0,,{\3c&HF8E7EA&\bord3}No Service
+Dialogue: 0,0:05:01.93,0:05:03.21,main,Miharu,0,0,0,,No service?
+Dialogue: 0,0:05:08.87,0:05:11.32,italics,Rio; telepathy,0,0,0,,Is this the right direction, Aishia?
+Dialogue: 0,0:05:11.32,0:05:13.95,italics,Aishia; telepathy,0,0,0,,Yes. Keep going southeast.
+Dialogue: 0,0:05:27.55,0:05:30.93,italics,Rio; internal,0,0,0,,What's this? Did someone\N use spatial magic?
+Dialogue: 0,0:05:39.36,0:05:40.69,italics,Rio; internal,0,0,0,,This is...
+Dialogue: 0,0:05:42.29,0:05:44.78,italics,Rio; internal,0,0,0,,What's going on?
+Dialogue: 0,0:05:52.99,0:05:53.74,main,Aki,0,0,0,,No!
+Dialogue: 0,0:05:53.74,0:05:54.32,main,Masato,0,0,0,,Let go!
+Dialogue: 0,0:05:54.32,0:05:55.86,main,Aki,0,0,0,,No, stop!
+Dialogue: 0,0:05:55.86,0:05:58.34,main,Masato,0,0,0,,What're you doing? Stop! Aki-neechan!
+Dialogue: 0,0:06:00.62,0:06:03.92,main,Miharu,0,0,0,,Please! Please let them go.
+Dialogue: 0,0:06:03.92,0:06:05.31,main,Miharu,0,0,0,,I'm begging you!
+Dialogue: 0,0:06:05.44,0:06:08.01,top,text; slave trader,0,0,0,,I don't understand what you're saying.
+Dialogue: 0,0:06:08.01,0:06:08.72,top,text; slave trader,0,0,0,,Come on!
+Dialogue: 0,0:06:08.86,0:06:10.11,top,text; slave trader,0,0,0,,You're over here.
+Dialogue: 0,0:06:10.58,0:06:11.89,main,Miharu,0,0,0,,Stop this!
+Dialogue: 0,0:06:11.89,0:06:14.09,main,Aki,0,0,0,,What are you planning to \Ndo with Miharu-oneechan?
+Dialogue: 0,0:06:14.09,0:06:15.39,main,Aki,0,0,0,,Miharu-oneechan!
+Dialogue: 0,0:06:17.41,0:06:19.16,top,text; guard A,0,0,0,,Silence! Keep quiet!
+Dialogue: 0,0:06:20.34,0:06:23.93,main,Masato,0,0,0,,A-Aki-neechan, I think maybe \Nwe shouldn't make a fuss.
+Dialogue: 0,0:06:23.93,0:06:25.47,main,Aki,0,0,0,,What are you saying?
+Dialogue: 0,0:06:32.91,0:06:33.95,main,Rio; internal,0,0,0,,Smoke?
+Dialogue: 0,0:06:34.67,0:06:35.95,main,Rio,0,0,0,,Is someone over there?
+Dialogue: 0,0:06:53.06,0:06:55.85,main,Aki,0,0,0,,Huh? What is it? What's going on?
+Dialogue: 0,0:07:01.04,0:07:03.42,top,text; Rio,0,0,0,,I'm looking for the person who dropped this.
+Dialogue: 0,0:07:04.04,0:07:05.29,top,text; Rio,0,0,0,,Do you happen to know anything about it?
+Dialogue: 0,0:07:05.92,0:07:08.65,top,text; slave trader,0,0,0,,What's that? Never seen it before.
+Dialogue: 0,0:07:11.06,0:07:14.76,italics,Rio; internal,0,0,0,,Starting a fight in this situation \Nwouldn't be a smart idea.
+Dialogue: 0,0:07:15.60,0:07:17.54,top,text; Rio,0,0,0,,I see. Sorry to have bothered you.
+Dialogue: 0,0:07:19.38,0:07:21.92,main,Aki,0,0,0,,Help! Please, help us!
+Dialogue: 0,0:07:22.39,0:07:23.73,top,text; guard A,0,0,0,,Stop it! Keep quiet!
+Dialogue: 0,0:07:23.73,0:07:26.94,main,Masato,0,0,0,,Neechan! Aki-neechan, are you okay?
+Dialogue: 0,0:07:26.94,0:07:27.82,italics,Rio; internal,0,0,0,,Japanese?
+Dialogue: 0,0:07:28.90,0:07:31.65,top,text; slave trader,0,0,0,,Our newest merchandise is \Na little noisy, that's all.
+Dialogue: 0,0:07:33.61,0:07:35.87,top,text; Rio,0,0,0,,The children who just spoke \Nare the ones I'm looking for.
+Dialogue: 0,0:07:36.62,0:07:39.12,top,text; Rio,0,0,0,,I heard one of them asking for help. \NExactly what is going on here?
+Dialogue: 0,0:07:39.48,0:07:41.75,top,text; slave trader,0,0,0,,You understand their language?
+Dialogue: 0,0:07:41.87,0:07:43.23,top,text; slave trader,0,0,0,,Kill him!
+Dialogue: 0,0:07:43.37,0:07:44.98,top,text; guard leader,0,0,0,,Hey! Time to get to work!
+Dialogue: 0,0:07:47.17,0:07:51.24,italics,Rio; internal,0,0,0,,Their movements are well-organized. \NThey're used to fighting as a group.
+Dialogue: 0,0:07:51.24,0:07:53.99,top,text; slave trader,0,0,0,,Looks like you mistook \Nrecklessness for courage.
+Dialogue: 0,0:07:54.26,0:07:57.49,top,text; Rio,0,0,0,,If you want a fight, then I won't hold back.
+Dialogue: 0,0:08:04.98,0:08:06.08,top,text; guard leader,0,0,0,,Photon Bullet!
+Dialogue: 0,0:08:17.68,0:08:22.08,italics,Rio; internal,0,0,0,,I wanted to take their leader hostage \Nand conduct negotiations quickly,
+Dialogue: 0,0:08:22.08,0:08:23.69,italics,Rio; internal,0,0,0,,but it seems things won't be that simple.
+Dialogue: 0,0:08:23.69,0:08:24.94,italics,Rio; internal,0,0,0,,I have no choice.
+Dialogue: 0,0:08:38.09,0:08:38.95,top,text; guard captain,0,0,0,,You fool!
+Dialogue: 0,0:08:39.39,0:08:40.39,top,text; guard captain,0,0,0,,Fireball!
+Dialogue: 0,0:08:51.00,0:08:51.78,top,text; guard captain,0,0,0,,Gah!
+Dialogue: 0,0:09:17.13,0:09:19.26,top,text; Rio,0,0,0,,Release the children you've abducted.
+Dialogue: 0,0:09:19.76,0:09:22.51,top,text; Rio,0,0,0,,The others won't make a move \Nwithout your order, am I right?
+Dialogue: 0,0:09:23.81,0:09:24.68,top,text; Rio,0,0,0,,Do it now!
+Dialogue: 0,0:09:25.14,0:09:28.98,top,text; slave trader,0,0,0,,Release them! Hurry!
+Dialogue: 0,0:09:33.07,0:09:34.38,main,Rio,0,0,0,,Are you all right?
+Dialogue: 0,0:09:34.62,0:09:36.88,main,Aki,0,0,0,,Y-You understand Japanese?
+Dialogue: 0,0:09:37.27,0:09:40.85,main,Rio,0,0,0,,I do, but... I'll explain later.
+Dialogue: 0,0:09:40.85,0:09:43.49,main,Rio,0,0,0,,Are you the only ones who were captured?
+Dialogue: 0,0:09:43.49,0:09:44.61,main,Masato,0,0,0,,Th-There's one more.
+Dialogue: 0,0:09:44.61,0:09:47.73,main,Masato,0,0,0,,They put her in that wagon over there.
+Dialogue: 0,0:10:06.33,0:10:09.08,main,Rio,0,0,0,,I came to help. Are you all right?
+Dialogue: 0,0:10:11.04,0:10:11.75,italics,Rio; internal,0,0,0,,How?
+Dialogue: 0,0:10:13.37,0:10:14.76,italics,Rio; internal,0,0,0,,Why are you...
+Dialogue: 0,0:10:16.03,0:10:20.01,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\fs23\fad(502,1)\pos(512,283)\blur4}Spirit Chronicles {\c&H29FFF4&}2
+Dialogue: 0,0:10:16.90,0:10:18.35,italics,Rio; internal,0,0,0,,here in this place?
+Dialogue: 0,0:10:24.49,0:10:25.50,italics,Rio; telepathy,0,0,0,,Aishia.
+Dialogue: 0,0:10:26.02,0:10:29.03,italics,Rio; telepathy,0,0,0,,I think I've saved the people \Nyou were talking about.
+Dialogue: 0,0:10:29.03,0:10:31.06,italics,Rio; telepathy,0,0,0,,Let's meet up before sundown.
+Dialogue: 0,0:10:31.37,0:10:32.77,italics,Rio; telepathy,0,0,0,,Can you tell where I am?
+Dialogue: 0,0:10:33.02,0:10:36.61,italics,Aishia; telepathy,0,0,0,,Yes, I can. I'll bring Celia with me.
+Dialogue: 0,0:10:36.61,0:10:37.53,italics,Rio; telepathy,0,0,0,,Thank you.
+Dialogue: 0,0:10:37.90,0:10:39.28,main,Aki,0,0,0,,It's beautiful!
+Dialogue: 0,0:10:47.54,0:10:51.03,main,Miharu,0,0,0,,U-Um, I'm sorry. \NMay I speak with you a moment?
+Dialogue: 0,0:10:51.65,0:10:52.93,main,Rio,0,0,0,,What is it?
+Dialogue: 0,0:10:53.42,0:10:57.12,main,Miharu,0,0,0,,Thank you so much for saving us.
+Dialogue: 0,0:10:57.12,0:11:01.65,main,Miharu,0,0,0,,If you hadn't come, I don't know \Nwhat would have happened to us.
+Dialogue: 0,0:11:01.65,0:11:04.81,main,Rio,0,0,0,,No, I only did what needed to be done.
+Dialogue: 0,0:11:04.81,0:11:06.56,main,Rio,0,0,0,,And there was something \NI wanted to ask you, too.
+Dialogue: 0,0:11:06.56,0:11:08.16,main,Miharu,0,0,0,,Something you wanted to ask?
+Dialogue: 0,0:11:08.82,0:11:09.81,main,Rio,0,0,0,,Uh, I mean...
+Dialogue: 0,0:11:11.01,0:11:17.28,main,Miharu,0,0,0,,My name is Ayase Miharu. \NMay I ask what your name is?
+Dialogue: 0,0:11:17.28,0:11:20.28,main,Rio,0,0,0,,Name? My name is...
+Dialogue: 0,0:11:22.16,0:11:26.98,main,Rio,0,0,0,,I'm in the middle of a certain situation, \Nso I'm currently going by the name Haruto.
+Dialogue: 0,0:11:27.60,0:11:28.91,main,Rio,0,0,0,,I don't have a family name.
+Dialogue: 0,0:11:29.27,0:11:30.98,main,Miharu,0,0,0,,Haruto?
+Dialogue: 0,0:11:32.17,0:11:33.89,italics,Aki; internal,0,0,0,,Haruto?
+Dialogue: 0,0:11:33.89,0:11:34.98,main,Miharu,0,0,0,,Aki-chan.
+Dialogue: 0,0:11:38.61,0:11:39.55,main,Rio,0,0,0,,Aki?
+Dialogue: 0,0:11:40.24,0:11:43.49,italics,Rio; internal,0,0,0,,Haruto had a sister three \Nyears younger than himself.
+Dialogue: 0,0:11:43.49,0:11:45.68,italics,Rio; internal,0,0,0,,He never saw her again after that, but...
+Dialogue: 0,0:11:46.35,0:11:47.49,italics,Rio; internal,0,0,0,,Is this girl her?
+Dialogue: 0,0:11:48.05,0:11:50.37,italics,Rio; internal,0,0,0,,There is a certain resemblance...
+Dialogue: 0,0:11:50.84,0:11:55.13,italics,Rio; internal,0,0,0,,but what's more, Mii-chan... or rather, Miharu-san\N called her "Aki." That's pretty conclusive.
+Dialogue: 0,0:11:55.91,0:11:57.69,main,Aki,0,0,0,,Um, I...
+Dialogue: 0,0:11:57.69,0:11:59.66,main,Rio,0,0,0,,Oh, sorry.
+Dialogue: 0,0:11:59.66,0:12:02.73,main,Rio,0,0,0,,I was just wondering if there was \Nsomething wrong with my name.
+Dialogue: 0,0:12:03.11,0:12:05.70,main,Aki,0,0,0,,I'm sorry. It's nothing.
+Dialogue: 0,0:12:06.09,0:12:10.70,main,Masato,0,0,0,,Hey, Haruto-niichan? What did you mean when \Nyou said you don't have a family name?
+Dialogue: 0,0:12:11.02,0:12:13.46,main,Masato,0,0,0,,Oh, I'm Sendo Masato.
+Dialogue: 0,0:12:13.46,0:12:15.46,main,Masato,0,0,0,,I'm Aki-neechan's little brother.
+Dialogue: 0,0:12:16.20,0:12:18.83,italics,Rio; internal,0,0,0,,Amakawa Haruto didn't have a younger brother.
+Dialogue: 0,0:12:19.28,0:12:21.43,italics,Rio; internal,0,0,0,,And he doesn't carry the Amakawa family name.
+Dialogue: 0,0:12:21.83,0:12:26.69,italics,Rio; internal,0,0,0,,If he's Aki's little brother, then perhaps... \NHaruto's mother remarried?
+Dialogue: 0,0:12:27.89,0:12:29.06,main,Rio,0,0,0,,Her little brother.
+Dialogue: 0,0:12:29.80,0:12:33.23,main,Rio,0,0,0,,Then, would Aki-chan's \Nfull name be Sendo Aki?
+Dialogue: 0,0:12:33.59,0:12:35.62,main,Aki,0,0,0,,Oh! Yes, that's right.
+Dialogue: 0,0:12:36.10,0:12:38.73,main,Aki,0,0,0,,I'm sorry for not introducing myself.
+Dialogue: 0,0:12:38.99,0:12:42.44,main,Rio,0,0,0,,Not at all. You were asking why \NI don't have a family name, weren't you?
+Dialogue: 0,0:12:43.99,0:12:45.69,main,Rio,0,0,0,,The sun is about to set.
+Dialogue: 0,0:12:46.06,0:12:48.74,main,Rio,0,0,0,,This story is likely to be a long one, \Nso why don't we go somewhere else?
+Dialogue: 0,0:12:49.89,0:12:52.83,main,Rio,0,0,0,,I'll prepare a spot that's more comfortable.\NThis way, please.
+Dialogue: 0,0:13:15.41,0:13:17.21,main,Rio,0,0,0,,This seems like a good spot.
+Dialogue: 0,0:13:18.79,0:13:19.79,top,text; Rio,0,0,0,,Discharge.
+Dialogue: 0,0:13:25.43,0:13:27.03,main,Aki,0,0,0,,Wh-What is that?
+Dialogue: 0,0:13:30.36,0:13:32.37,main,Rio,0,0,0,,It looks like it's just a boulder,
+Dialogue: 0,0:13:32.66,0:13:35.06,main,Rio,0,0,0,,but there's a living space inside.
+Dialogue: 0,0:13:35.40,0:13:36.51,main,Rio,0,0,0,,This way, please.
+Dialogue: 0,0:13:36.51,0:13:38.21,main,Celia,0,0,0,,Rio!
+Dialogue: 0,0:13:39.27,0:13:40.84,main,Masato,0,0,0,,Th-They're flying!
+Dialogue: 0,0:13:48.78,0:13:51.53,top,text; Celia,0,0,0,,Are you all right? You're not hurt?
+Dialogue: 0,0:13:51.78,0:13:53.79,top,text; Rio,0,0,0,,Yes, I'm fine, Celia.
+Dialogue: 0,0:13:56.00,0:13:57.00,top,text; Celia,0,0,0,,I'm so glad.
+Dialogue: 0,0:13:57.37,0:14:00.50,top,text; Celia,0,0,0,,You're the ones Aishia was \Ntalking about, aren't you?
+Dialogue: 0,0:14:00.88,0:14:01.88,top,text; Celia,0,0,0,,You saved them!
+Dialogue: 0,0:14:02.50,0:14:04.50,top,text; Rio,0,0,0,,Yes. This is Miss Ayase Miharu,
+Dialogue: 0,0:14:05.26,0:14:09.51,top,text; Rio,0,0,0,,Miss Sendo Aki, and her younger \Nbrother, Master Sendo Masato.
+Dialogue: 0,0:14:09.88,0:14:13.89,top,text; Celia,0,0,0,,I see. I'm Celia, Celia Claire.
+Dialogue: 0,0:14:14.14,0:14:15.37,top,text; Celia,0,0,0,,Pleased to meet you.
+Dialogue: 0,0:14:17.19,0:14:20.66,main,Rio,0,0,0,,This is Professor Celia. She was \Nmy teacher and I owe her a lot.
+Dialogue: 0,0:14:22.09,0:14:24.14,main,Miharu,0,0,0,,I'm very pleased to meet you.
+Dialogue: 0,0:14:24.14,0:14:26.88,main,Miharu,0,0,0,,My name is Ayase Miharu.
+Dialogue: 0,0:14:27.82,0:14:28.95,top,text; Celia,0,0,0,,Um...
+Dialogue: 0,0:14:29.57,0:14:32.45,top,text; Rio,0,0,0,,They don't speak Strahlian.
+Dialogue: 0,0:14:33.20,0:14:34.95,top,text; Celia,0,0,0,,Oh, I see.
+Dialogue: 0,0:14:35.35,0:14:36.32,main,Aishia,0,0,0,,Celia?
+Dialogue: 0,0:14:45.59,0:14:47.34,top,text; Celia,0,0,0,,What are you doing?
+Dialogue: 0,0:14:56.84,0:14:59.29,main,Rio; Strahlian,0,0,0,,Aishia, what are you doing?
+Dialogue: 0,0:14:59.29,0:15:01.21,main,Miharu,0,0,0,,What? Why...
+Dialogue: 0,0:15:02.24,0:15:03.76,main,Celia; Strahlian,0,0,0,,Strahlian?
+Dialogue: 0,0:15:03.76,0:15:06.05,main,Aishia,0,0,0,,I formed a temporary path between you two.
+Dialogue: 0,0:15:06.05,0:15:09.52,main,Aishia,0,0,0,,For the present, I can interpret for you.
+Dialogue: 0,0:15:09.52,0:15:12.73,main,Rio,0,0,0,,Aishia... You can do that?
+Dialogue: 0,0:15:12.73,0:15:15.30,main,Aishia,0,0,0,,I can do it because you understand \Nthe languages, Haruto.
+Dialogue: 0,0:15:15.30,0:15:17.31,main,Aishia,0,0,0,,If you don't, then I can't.
+Dialogue: 0,0:15:17.31,0:15:18.81,main,Rio,0,0,0,,I see.
+Dialogue: 0,0:15:18.81,0:15:21.48,main,Aishia,0,0,0,,Haruto, I'm hungry.
+Dialogue: 0,0:15:21.48,0:15:23.06,main,Rio,0,0,0,,Oh. Yes, you're right.
+Dialogue: 0,0:15:23.32,0:15:26.01,main,Rio,0,0,0,,Everyone, please come inside.
+Dialogue: 0,0:15:27.61,0:15:30.03,main,Miharu,0,0,0,,Oh, it's lovely!
+Dialogue: 0,0:15:31.63,0:15:32.78,main,Celia; Strahlian,0,0,0,,It's so big!
+Dialogue: 0,0:15:37.06,0:15:41.29,main,Rio,0,0,0,,Even better than the size, this place has a bath.\N Please feel free to make use of it.
+Dialogue: 0,0:15:41.57,0:15:44.03,main,Masato,0,0,0,,There's a bath here? Yay!
+Dialogue: 0,0:15:44.03,0:15:46.29,main,Aki,0,0,0,,Masato! You're getting way too excited.
+Dialogue: 0,0:15:57.98,0:16:01.73,main,Miharu,0,0,0,,Then Haruto-san's name is \Nactually Rio-san, is that right?
+Dialogue: 0,0:16:01.98,0:16:06.67,main,Miharu,0,0,0,,And Aishia-san is Rio-san's bond spirit?
+Dialogue: 0,0:16:06.67,0:16:08.91,main,Celia; Strahlian,0,0,0,,Yes, that's what they told me.
+Dialogue: 0,0:16:08.91,0:16:15.37,main,Celia; Strahlian,0,0,0,,Though, I've only just met Aishia today, \N so I don't know any of the details.
+Dialogue: 0,0:16:15.37,0:16:16.58,main,Aki,0,0,0,,Pardon me for joining you.
+Dialogue: 0,0:16:17.72,0:16:20.50,main,Aki,0,0,0,,Miharu-oneechan, what were you talking about?
+Dialogue: 0,0:16:20.77,0:16:24.41,main,Miharu,0,0,0,,She said that Aishia-san isn't \Na human. She's a spirit.
+Dialogue: 0,0:16:24.41,0:16:26.49,main,Aki,0,0,0,,What? A-A spirit?!
+Dialogue: 0,0:16:26.49,0:16:30.01,main,Aki,0,0,0,,So that's why she can do \Nsimultaneous interpretation!
+Dialogue: 0,0:16:30.46,0:16:33.15,main,Miharu,0,0,0,,Y-Yes, probably.
+Dialogue: 0,0:16:36.39,0:16:41.81,main,Masato,0,0,0,,So, basically, we came \Nto a fantasy RPG world?
+Dialogue: 0,0:16:41.81,0:16:46.48,main,Rio,0,0,0,,I didn't really play many games like \Nthat in my last life, so I'm not sure,
+Dialogue: 0,0:16:47.13,0:16:49.44,main,Rio,0,0,0,,but I think that sounds about right.
+Dialogue: 0,0:16:50.04,0:16:53.65,main,Rio,0,0,0,,It's just that, unlike a game, \Nthere's no reset button here.
+Dialogue: 0,0:16:53.99,0:16:59.16,main,Masato,0,0,0,,Oh. So if you hadn't shown up, Rio-niichan, \Nthings would've been really bad for us?
+Dialogue: 0,0:16:59.66,0:17:02.92,main,Rio,0,0,0,,Yes. You would have become slaves.
+Dialogue: 0,0:17:03.63,0:17:05.06,main,Masato,0,0,0,,I see.
+Dialogue: 0,0:17:05.60,0:17:09.13,main,Miharu,0,0,0,,The bath was wonderful! \NThank you, Haruto-san.
+Dialogue: 0,0:17:09.42,0:17:11.09,main,Rio,0,0,0,,I'm glad to hear it.
+Dialogue: 0,0:17:11.94,0:17:16.58,main,Celia; Strahlian,0,0,0,,Rio, I hadn't used a bath like that before,
+Dialogue: 0,0:17:16.58,0:17:18.99,main,Celia; Strahlian,0,0,0,,but it felt amazing and I had a lot of fun!
+Dialogue: 0,0:17:18.99,0:17:20.51,main,Celia; Strahlian,0,0,0,,Rio, why don't you take one, too?
+Dialogue: 0,0:17:21.18,0:17:23.48,main,Rio; Strahlian,0,0,0,,No, I'll take one after we eat.
+Dialogue: 0,0:17:28.27,0:17:29.23,main,Rio; Strahlian,0,0,0,,What are those clothes?
+Dialogue: 0,0:17:29.59,0:17:31.73,main,Celia; Strahlian,0,0,0,,Aki lent them to me.
+Dialogue: 0,0:17:31.73,0:17:35.99,main,Celia; Strahlian,0,0,0,,She said it would be odd to change back \Ninto a wedding dress after our bath.
+Dialogue: 0,0:17:36.87,0:17:37.99,main,Rio; Strahlian,0,0,0,,I see.
+Dialogue: 0,0:17:38.23,0:17:43.73,main,Celia; Strahlian,0,0,0,,These clothes are so easy to move in and so \Nnice against the skin. They surprised me!
+Dialogue: 0,0:17:43.73,0:17:45.69,main,Celia; Strahlian,0,0,0,,I've never seen this fabric before.
+Dialogue: 0,0:17:45.69,0:17:49.08,main,Aki,0,0,0,,I just bought these for my \Nschool's entrance ceremony today,
+Dialogue: 0,0:17:49.08,0:17:51.64,main,Aki,0,0,0,,so they aren't dirty or anything. \NI think they should be all right.
+Dialogue: 0,0:17:52.12,0:17:56.31,main,Rio,0,0,0,,I see. She says that she \Nlikes them very much.
+Dialogue: 0,0:17:56.99,0:17:59.43,main,Rio,0,0,0,,But if none of you have a \Nchange of clothes later,
+Dialogue: 0,0:17:59.43,0:18:00.54,main,Rio,0,0,0,,that will cause problems, won't it?
+Dialogue: 0,0:18:01.08,0:18:04.35,main,Rio,0,0,0,,Tomorrow, let's go and buy \Nsome daily necessities.
+Dialogue: 0,0:18:05.01,0:18:08.71,main,Miharu,0,0,0,,Oh, but we don't have any money.
+Dialogue: 0,0:18:08.71,0:18:13.52,main,Rio,0,0,0,,Don't worry. I can manage the \Ncost of some everyday items.
+Dialogue: 0,0:18:13.52,0:18:16.28,main,Celia; Strahlian,0,0,0,,But Rio, where will you go to buy them?
+Dialogue: 0,0:18:16.71,0:18:18.78,main,Rio; Strahlian,0,0,0,,What do you think of going to Amande?
+Dialogue: 0,0:18:19.10,0:18:24.29,main,Celia; Strahlian,0,0,0,,Amande! Then, do you think we could \Nexchange my wedding dress for money, too?
+Dialogue: 0,0:18:24.52,0:18:29.58,main,Rio; Strahlian,0,0,0,,You really don't need to worry about money.\N Please rest easy on that account.
+Dialogue: 0,0:18:30.14,0:18:32.39,main,Rio; Strahlian,0,0,0,,Now, why don't we go and eat?
+Dialogue: 0,0:18:32.39,0:18:33.55,main,Celia; Strahlian,0,0,0,,Yes, you're right.
+Dialogue: 0,0:18:34.14,0:18:37.05,main,Celia; Strahlian,0,0,0,,My! Rio, did you make all of this?
+Dialogue: 0,0:18:37.29,0:18:38.24,main,Rio; Strahlian,0,0,0,,Yes.
+Dialogue: 0,0:18:38.59,0:18:40.86,main,Rio,0,0,0,,Now, everyone, let's eat.
+Dialogue: 0,0:18:45.35,0:18:46.66,main,Rio,0,0,0,,I see.
+Dialogue: 0,0:18:46.66,0:18:49.17,main,Rio,0,0,0,,Piecing all of your accounts together,
+Dialogue: 0,0:18:49.17,0:18:52.59,main,Rio,0,0,0,,it sounds like you got caught up in a \Nphenomenon caused by summoning magic.
+Dialogue: 0,0:18:52.59,0:18:54.98,main,Rio,0,0,0,,That's likely how you came to this world.
+Dialogue: 0,0:18:55.36,0:18:59.74,main,Miharu,0,0,0,,Will it be impossible for \Nus to return to Earth?
+Dialogue: 0,0:19:00.06,0:19:02.22,main,Rio,0,0,0,,I don't know the answer to that.
+Dialogue: 0,0:19:02.73,0:19:07.50,main,Rio,0,0,0,,The situation is too different from \Nmy being reborn into this world.
+Dialogue: 0,0:19:08.14,0:19:11.98,main,Aki,0,0,0,,Haruto-san, you died in a traffic \Naccident as a university student.
+Dialogue: 0,0:19:11.98,0:19:17.03,main,Aki,0,0,0,,Then, those memories came back to \Nyou as a child in this world, right?
+Dialogue: 0,0:19:17.51,0:19:22.01,main,Rio,0,0,0,,Yes, which is why I don't think my \Nexperience will be of much help to you.
+Dialogue: 0,0:19:22.36,0:19:25.68,main,Celia; Strahlian,0,0,0,,Rio, may I speak, too?
+Dialogue: 0,0:19:25.68,0:19:27.09,main,Rio; Strahlian,0,0,0,,Yes, of course.
+Dialogue: 0,0:19:27.42,0:19:33.27,main,Celia; Strahlian,0,0,0,,Given all of your accounts,\Nthose six pillars of light we saw,
+Dialogue: 0,0:19:33.88,0:19:38.30,main,Celia; Strahlian,0,0,0,,and the events of this year, \NYear 1,000 of the Holy Era,
+Dialogue: 0,0:19:38.69,0:19:43.16,main,Celia; Strahlian,0,0,0,,this may all have something to do \Nwith the legend of the Six Wise Gods.
+Dialogue: 0,0:19:43.38,0:19:46.83,main,Rio; Strahlian,0,0,0,,Yes, I had the same thought.
+Dialogue: 0,0:19:46.83,0:19:49.74,main,Rio; Strahlian,0,0,0,,A thousand years after the Divine-Demon War,
+Dialogue: 0,0:19:49.74,0:19:52.23,main,Rio; Strahlian,0,0,0,,six sacred stones will glow \Nin different colors...
+Dialogue: 0,0:19:52.23,0:19:55.36,main,Rio; Strahlian,0,0,0,,and pillars of light will \Nsoar into the heavens.
+Dialogue: 0,0:19:55.97,0:20:00.42,main,Rio; Strahlian,0,0,0,,Heroes clad in powerful and divine raiment \Nwill return from outside of Strahl.
+Dialogue: 0,0:20:00.81,0:20:05.34,main,Rio; Strahlian,0,0,0,,And in place of the six wisest gods, \Nthey shall lead all of humanity.
+Dialogue: 0,0:20:06.57,0:20:11.94,main,Rio; Strahlian,0,0,0,,Still, I can't imagine that these \Nare the heroes the legend spoke of.
+Dialogue: 0,0:20:12.45,0:20:13.90,main,Rio; Strahlian,0,0,0,,What do you think?
+Dialogue: 0,0:20:13.90,0:20:16.90,main,Celia; Strahlian,0,0,0,,Yes, you're right.
+Dialogue: 0,0:20:17.83,0:20:18.88,main,Miharu,0,0,0,,Um...
+Dialogue: 0,0:20:18.88,0:20:19.81,main,Rio,0,0,0,,Yes?
+Dialogue: 0,0:20:19.81,0:20:23.43,main,Miharu,0,0,0,,We were with some other people \Nright before we came to this world.
+Dialogue: 0,0:20:23.43,0:20:28.66,main,Miharu,0,0,0,,Satsuki-san and Takahisa-kun. Do you \Nthink they came to this world, too?
+Dialogue: 0,0:20:28.91,0:20:30.90,main,Rio,0,0,0,,I don't know.
+Dialogue: 0,0:20:30.90,0:20:34.92,main,Rio,0,0,0,,I think it's a possibility, \Nbut I can't say for certain.
+Dialogue: 0,0:20:35.17,0:20:36.92,main,Miharu,0,0,0,,I see.
+Dialogue: 0,0:20:37.76,0:20:40.42,main,Rio,0,0,0,,You're worried about them, aren't you?
+Dialogue: 0,0:20:40.42,0:20:47.61,main,Miharu,0,0,0,,Yes. We were fortunate that you came \Nto save us, Haruto-san. So we're safe...
+Dialogue: 0,0:20:47.61,0:20:51.68,main,Miharu,0,0,0,,but our sense of "normal"\N carries no meaning in this world.
+Dialogue: 0,0:21:00.58,0:21:03.78,main,Aishia,0,0,0,,Haruto, I'm sleepy. Let's go to bed.
+Dialogue: 0,0:21:03.78,0:21:05.41,main,Rio,0,0,0,,Huh? Wait.
+Dialogue: 0,0:21:05.41,0:21:07.16,main,Rio,0,0,0,,Wait just a minute, Aishia.
+Dialogue: 0,0:21:07.52,0:21:11.79,main,Aishia,0,0,0,,I can't take it anymore. \NI've used too much power today.
+Dialogue: 0,0:21:16.83,0:21:20.59,main,Celia; Strahlian,0,0,0,,J-Just what do you two think you're doing?!
+Dialogue: 0,0:21:20.59,0:21:22.59,main,Aishia; Strahlian,0,0,0,,Replenishing my magic.
+Dialogue: 0,0:21:22.81,0:21:26.34,main,Celia; Strahlian,0,0,0,,No, no, no! You shouldn't be doing that!
+Dialogue: 0,0:21:26.57,0:21:27.84,main,Aishia; Strahlian,0,0,0,,Why?
+Dialogue: 0,0:21:28.07,0:21:29.85,main,Celia; Strahlian,0,0,0,,Why? Because...
+Dialogue: 0,0:21:29.85,0:21:32.85,main,Aishia; Strahlian,0,0,0,,I always do this. I sleep with Haruto.
+Dialogue: 0,0:21:33.21,0:21:34.12,main,Celia; Strahlian,0,0,0,,What?!
+Dialogue: 0,0:21:35.00,0:21:38.23,main,Rio; Strahlian,0,0,0,,No, Professor, there's a reason for this.
+Dialogue: 0,0:21:38.47,0:21:40.72,main,Aishia; Strahlian,0,0,0,,Haruto, let's hurry up and go to bed.
+Dialogue: 0,0:21:41.28,0:21:42.95,main,Celia; Strahlian,0,0,0,,W-Wait right there!
+Dialogue: 0,0:21:42.95,0:21:45.13,main,Celia; Strahlian,0,0,0,,R-Rio hasn't...
+Dialogue: 0,0:21:45.13,0:21:46.74,top,text; Celia,0,0,0,,Rio hasn't had a bath yet!
+Dialogue: 0,0:21:47.12,0:21:48.74,italics,Rio; internal,0,0,0,,What? That's what she's upset about?
+Dialogue: 0,0:21:49.17,0:21:50.49,main,Miharu,0,0,0,,E-Excuse me.
+Dialogue: 0,0:21:50.49,0:21:53.75,main,Miharu,0,0,0,,We'll tidy up here.
+Dialogue: 0,0:21:53.75,0:21:55.50,main,Rio,0,0,0,,Oh, you don't have to!
+Dialogue: 0,0:21:55.77,0:21:58.78,main,Aki,0,0,0,,Come on, Masato! You help, too!
+Dialogue: 0,0:21:58.78,0:22:00.00,main,Masato,0,0,0,,Huh? Right.
+Dialogue: 0,0:22:00.30,0:22:03.00,main,Rio,0,0,0,,It's all right! Please, just leave it!
+Dialogue: 0,0:22:03.00,0:22:04.28,main,Celia,0,0,0,,Rio!
+Dialogue: 0,0:22:05.03,0:22:06.03,top,text; Rio,0,0,0,,No, it's really just...
+Dialogue: 0,0:22:06.57,0:22:08.95,top,text; Rio,0,0,0,,Please, just listen to me!
+Dialogue: 0,0:23:39.98,0:23:44.98,sign_33925_315_Next_Time_Royal_,text; top line,0,0,0,,{\pos(320,120)\blur1.5\3c&HF489C7&\shad0}Next Time
+Dialogue: 0,0:23:39.98,0:23:44.98,sign_33925_315_Next_Time_Royal_,text; bottom line,0,0,0,,{\fs35\an8\pos(320,225)\blur1.5\3c&HF98DC4&\shad0}Shopping in Another World
+Dialogue: 0,0:23:40.86,0:23:42.60,main,Rio,0,0,0,,"Shopping in Another World."
+Dialogue: 0,0:23:44.98,0:23:50.25,sign_3238_18_Seirei_Gensouki,text; top right,0,0,0,,{\fs23\blur4\an8\pos(516,68)\c&H29FFF4&}Spirit Chronicles 2
+Dialogue: 0,0:23:44.98,0:23:50.25,sign_TrebuchetMS,text; left Celia,0,0,0,,{\c&H0A0D0A&\shad0\bord0\fs15\pos(53,159)}It's so long!
+Dialogue: 0,0:23:44.98,0:23:50.25,sign_TrebuchetMS,text; left; cat,0,0,0,,{\c&H0A0D0A&\shad0\bord0\fs15\pos(29,215)}Meow.
+Dialogue: 0,0:23:44.98,0:23:50.25,sign_Georgia,text; lower right,0,0,0,,{\an1\c&H000700&\bord2\shad2\4c&H838556&\pos(445,319)\fs11\3c&HFFFFFF&\3a&HAF&}Illustration: Minazuki Futago

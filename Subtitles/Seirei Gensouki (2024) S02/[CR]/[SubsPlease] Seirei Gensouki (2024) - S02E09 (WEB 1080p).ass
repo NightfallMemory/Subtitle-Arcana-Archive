@@ -1,0 +1,338 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: sign_Arial,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ArialBlack,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_CourierNew,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ComicSansMS,Comic Sans MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Georgia,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Impact,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TimesNewRoman,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TrebuchetMS,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Verdana,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_3238_18_Seirei_Gensouki,Trebuchet MS,40,&H00FAFFFF,&H000000FF,&H00E6B519,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,20,1
+Style: sign_31638_280_No_Service,Arial,20,&H006E3828,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,20,1
+Style: sign_33925_315_Next_Time_Royal_,Trebuchet MS,15,&H00FAFFFF,&H000000FF,&H00CBB281,&H00BDB85F,0,0,0,0,100,100,0,0,1,2,1,2,30,30,20,1
+Style: sign_5011_20_The_Kingdom_of_B,Arial,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.70,0:00:07.46,main,Celia,0,0,0,,Rio! Aishia!
+Dialogue: 0,0:00:07.46,0:00:08.43,main,Rio,0,0,0,,Professor!
+Dialogue: 0,0:00:08.43,0:00:10.93,main,Celia,0,0,0,,I'm so glad. What's going on?
+Dialogue: 0,0:00:11.48,0:00:13.61,main,Rio,0,0,0,,We're not certain of the details yet.
+Dialogue: 0,0:00:14.21,0:00:20.46,main,Rio,0,0,0,,A large number of monsters have appeared \Ninside or just outside the city.
+Dialogue: 0,0:00:20.87,0:00:22.86,main,Rio,0,0,0,,There are likely to be minotaurs among them.
+Dialogue: 0,0:00:23.93,0:00:25.03,main,Celia,0,0,0,,What will you do?
+Dialogue: 0,0:00:25.66,0:00:28.34,main,Rio,0,0,0,,Since it happened so suddenly,\NI don't know the whole situation.
+Dialogue: 0,0:00:28.58,0:00:31.31,main,Rio,0,0,0,,Gathering information is the first priority.
+Dialogue: 0,0:00:32.05,0:00:33.01,main,Celia,0,0,0,,Rio.
+Dialogue: 0,0:00:34.56,0:00:36.99,main,Celia,0,0,0,,If it's me you're worried \Nabout, I'm all right.
+Dialogue: 0,0:00:37.97,0:00:41.43,main,Celia,0,0,0,,I am fully aware that I seem \Nlike your greatest burden,
+Dialogue: 0,0:00:42.02,0:00:45.88,main,Celia,0,0,0,,but if I use magic, I can fight fairly well.
+Dialogue: 0,0:00:46.65,0:00:48.44,main,Celia,0,0,0,,So, um...
+Dialogue: 0,0:00:49.03,0:00:52.02,main,Celia,0,0,0,,Rio, you should take whatever \Naction you think is best!
+Dialogue: 0,0:00:53.21,0:00:54.05,main,Rio,0,0,0,,I will.
+Dialogue: 0,0:00:54.47,0:00:57.23,main,Rio,0,0,0,,In that case, to ensure that \Nwe can make a move at any time,
+Dialogue: 0,0:00:57.23,0:00:59.51,main,Rio,0,0,0,,the first thing to do is change our clothes.
+Dialogue: 0,0:00:59.51,0:01:00.24,main,Celia,0,0,0,,Yes.
+Dialogue: 0,0:01:17.49,0:01:20.57,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\pos(345,125)\blur4\fad(897,248)}Spirit Chronicles 2
+Dialogue: 0,0:02:20.63,0:02:23.28,main,Cosette,0,0,0,,You're magnificent, Master Haruto!
+Dialogue: 0,0:02:23.28,0:02:24.16,main,Rio,0,0,0,,What?
+Dialogue: 0,0:02:24.16,0:02:26.84,main,Natalie,0,0,0,,What are you saying?
+Dialogue: 0,0:02:26.84,0:02:29.12,main,Natalie,0,0,0,,Sir Haruto, please pay her no mind.
+Dialogue: 0,0:02:31.27,0:02:35.27,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\blur4\c&H7AFBFF&\fad(500,500)\an1\fs21\fscx85\pos(53.111,298.111)}The Battle to Defend Amande
+Dialogue: 0,0:02:40.69,0:02:42.23,main,crowd,0,0,0,,What's that? What's going on?
+Dialogue: 0,0:02:42.23,0:02:43.31,main,crowd,0,0,0,,Look at that!
+Dialogue: 0,0:02:43.31,0:02:45.30,main,crowd,0,0,0,,I heard they spotted monsters!
+Dialogue: 0,0:02:59.37,0:03:01.36,italics,Rio; internal,0,0,0,,Have they breached the gate?
+Dialogue: 0,0:03:02.28,0:03:04.73,italics,Rio; internal,0,0,0,,That certainly is a lot of monsters.
+Dialogue: 0,0:03:15.17,0:03:18.92,italics,Rio; internal,0,0,0,,Still... Amande's response is very fast.
+Dialogue: 0,0:03:23.07,0:03:25.20,italics,Rio; internal,0,0,0,,Reinforcements keep arriving.
+Dialogue: 0,0:03:26.73,0:03:27.73,italics,Rio; internal,0,0,0,,If things continue like this...
+Dialogue: 0,0:03:29.79,0:03:34.24,italics,Aishia; telepathy,0,0,0,,Haruto, I sense that a large number of \Nmonsters have appeared to the east.
+Dialogue: 0,0:03:34.24,0:03:35.28,main,Rio,0,0,0,,The east?
+Dialogue: 0,0:03:52.50,0:03:54.50,italics,Rio; internal,0,0,0,,They're coming from the east, too?
+Dialogue: 0,0:03:59.05,0:04:01.15,italics,Aishia; telepathy,0,0,0,,Haruto, what do you want to do?
+Dialogue: 0,0:04:14.79,0:04:17.15,italics,Rio; telepathy,0,0,0,,For right now, \Ncan you stay where you are?
+Dialogue: 0,0:04:17.72,0:04:20.51,italics,Rio; telepathy,0,0,0,,Will you stay on standby \Nwith the professor for me?
+Dialogue: 0,0:04:21.94,0:04:25.71,italics,Rio; telepathy,0,0,0,,The residents are evacuating en masse \Nfrom the west to the northern districts.
+Dialogue: 0,0:04:26.15,0:04:29.16,italics,Rio; telepathy,0,0,0,,Even if you left right now, \Nyou wouldn't be able to go anywhere.
+Dialogue: 0,0:04:29.86,0:04:34.04,italics,Rio; telepathy,0,0,0,,There will likely be a crush of residents \Nfleeing from the east very soon.
+Dialogue: 0,0:04:34.55,0:04:37.66,italics,Rio; telepathy,0,0,0,,Staying inside the inn \Nwill be the safest option for now.
+Dialogue: 0,0:04:38.35,0:04:40.02,italics,Aishia; telepathy,0,0,0,,What will you do, Haruto?
+Dialogue: 0,0:04:40.36,0:04:43.05,italics,Rio; telepathy,0,0,0,,The defense of the eastern \Ngate is shorthanded.
+Dialogue: 0,0:04:43.55,0:04:45.24,italics,Rio; telepathy,0,0,0,,I'll go and help hold the monsters off.
+Dialogue: 0,0:04:46.54,0:04:47.75,italics,Aishia; telepathy,0,0,0,,Be careful.
+Dialogue: 0,0:04:47.75,0:04:49.01,italics,Rio; telepathy,0,0,0,,Thank you.
+Dialogue: 0,0:04:49.38,0:04:51.83,italics,Rio; telepathy,0,0,0,,I don't intend to let any \Nmonsters get that far, but...
+Dialogue: 0,0:04:51.83,0:04:54.73,italics,Aishia; telepathy,0,0,0,,Yes, you can leave Celia to me.
+Dialogue: 0,0:05:02.28,0:05:06.30,sign_5011_20_The_Kingdom_of_B,text,0,0,0,,{\pos(320,300)\fad(1000,1000)}East Gate
+Dialogue: 0,0:05:06.53,0:05:08.20,main,Chloe,0,0,0,,Photon Bullet!
+Dialogue: 0,0:05:17.63,0:05:18.91,italics,Chloe; internal,0,0,0,,There are so many of them.
+Dialogue: 0,0:05:18.91,0:05:21.50,italics,Chloe; internal,0,0,0,,If reinforcements don't arrive soon...
+Dialogue: 0,0:05:26.09,0:05:27.38,main,Chloe,0,0,0,,Photon Bullet!
+Dialogue: 0,0:05:55.31,0:05:56.08,main,Chloe,0,0,0,,What?
+Dialogue: 0,0:06:03.01,0:06:07.13,main,Rio,0,0,0,,If it isn't overstepping my bounds,\N I'll assist until reinforcements arrive.
+Dialogue: 0,0:06:07.13,0:06:08.61,main,Chloe,0,0,0,,Master Haruto!
+Dialogue: 0,0:06:08.61,0:06:10.11,main,Rio,0,0,0,,It's... Miss Chloe, isn't it?
+Dialogue: 0,0:06:10.11,0:06:12.83,main,Chloe,0,0,0,,U-Um... Why are you here?
+Dialogue: 0,0:06:13.37,0:06:15.98,main,Rio,0,0,0,,The eastern gate is shorthanded \Nsince it was attacked second,
+Dialogue: 0,0:06:15.98,0:06:18.60,main,Rio,0,0,0,,so I came to lend my support.
+Dialogue: 0,0:06:19.22,0:06:21.10,main,Chloe,0,0,0,,Thank you so much!
+Dialogue: 0,0:06:21.10,0:06:24.04,main,Rio,0,0,0,,Then, while we're waiting for \Nreinforcements to arrive,
+Dialogue: 0,0:06:24.04,0:06:26.51,main,Rio,0,0,0,,let's try to reduce their \Nnumbers as much as we can.
+Dialogue: 0,0:06:27.35,0:06:30.30,main,Rio,0,0,0,,I'll take point. Is that all right?
+Dialogue: 0,0:06:30.71,0:06:33.25,main,Chloe,0,0,0,,Y-Yes! If you would!
+Dialogue: 0,0:06:34.08,0:06:38.33,main,Rio,0,0,0,,Then I'll leave the monsters that make \Nit into the square to all of you.
+Dialogue: 0,0:06:38.33,0:06:39.25,main,Chloe,0,0,0,,Understood!
+Dialogue: 0,0:07:09.15,0:07:11.12,main,soldier A,0,0,0,,I-Incredible.
+Dialogue: 0,0:07:11.12,0:07:13.66,main,soldier A,0,0,0,,He felled that many with just one blow.
+Dialogue: 0,0:07:16.47,0:07:18.54,main,Liselotte,0,0,0,,What we need right now is information.
+Dialogue: 0,0:07:19.04,0:07:22.12,main,Liselotte,0,0,0,,No matter how minor it may seem,\N report it to us.
+Dialogue: 0,0:07:22.12,0:07:23.01,main,attendant,0,0,0,,Yes, miss.
+Dialogue: 0,0:07:24.61,0:07:28.40,main,Natalie,0,0,0,,We've had word from the watchtower \Nthrough the magic telecommunicator.
+Dialogue: 0,0:07:28.95,0:07:33.69,main,Natalie,0,0,0,,A minotaur and a large number of monsters \Nhave appeared at the east gate.
+Dialogue: 0,0:07:34.39,0:07:36.78,main,Natalie,0,0,0,,It seems they've gained entry.
+Dialogue: 0,0:07:37.49,0:07:38.85,main,Liselotte,0,0,0,,What?
+Dialogue: 0,0:07:39.44,0:07:41.62,main,Liselotte,0,0,0,,How far in have they gotten?
+Dialogue: 0,0:07:41.62,0:07:44.33,main,Natalie,0,0,0,,At the moment, the precise \Ndetails are unknown.
+Dialogue: 0,0:07:44.33,0:07:47.51,main,Natalie,0,0,0,,They're being held at bay at the entrance \Nto the plaza inside the east gate.
+Dialogue: 0,0:07:47.51,0:07:49.74,main,Natalie,0,0,0,,However, our forces are outnumbered.
+Dialogue: 0,0:07:50.02,0:07:53.84,main,Natalie,0,0,0,,I believe we should divert \Nreinforcements there immediately.
+Dialogue: 0,0:07:54.84,0:07:57.74,main,Liselotte,0,0,0,,Even if we send soldiers and \Nadventurers from the rear guard,
+Dialogue: 0,0:07:58.05,0:08:01.29,main,Liselotte,0,0,0,,we risk them running into the citizens \Ncoming from the other direction.
+Dialogue: 0,0:08:03.03,0:08:05.41,main,Liselotte,0,0,0,,We dispatched attendants \Nto the areas near the east gate.
+Dialogue: 0,0:08:05.77,0:08:08.13,main,Liselotte,0,0,0,,Couldn't we send them there?
+Dialogue: 0,0:08:08.13,0:08:11.60,main,Natalie,0,0,0,,We sent the majority of our \Npeople to the west gate.
+Dialogue: 0,0:08:11.60,0:08:13.54,main,Natalie,0,0,0,,Currently, we only have Chloe there.
+Dialogue: 0,0:08:13.91,0:08:15.32,main,Natalie,0,0,0,,Though, Cosette and a few others
+Dialogue: 0,0:08:15.32,0:08:18.55,main,Natalie,0,0,0,,should be in the center of \Ntown directing the evacuation.
+Dialogue: 0,0:08:18.94,0:08:21.56,main,Liselotte,0,0,0,,Then you should head there immediately.
+Dialogue: 0,0:08:21.56,0:08:24.23,main,Liselotte,0,0,0,,Collect Cosette and the others on \Nyour way and take them with you.
+Dialogue: 0,0:08:24.23,0:08:25.65,main,Natalie,0,0,0,,Understood.
+Dialogue: 0,0:08:26.31,0:08:30.82,main,Liselotte,0,0,0,,Duke Huguenot's knights \Nhave stayed at the mansion,
+Dialogue: 0,0:08:31.66,0:08:34.07,main,Liselotte,0,0,0,,so there is no need to worry about me.
+Dialogue: 0,0:08:34.67,0:08:37.57,main,Liselotte,0,0,0,,Please think only of your duties.
+Dialogue: 0,0:08:37.82,0:08:39.20,main,Natalie,0,0,0,,Understood.
+Dialogue: 0,0:08:43.62,0:08:45.79,main,Natalie,0,0,0,,Enchant Physical Ability.
+Dialogue: 0,0:08:50.49,0:08:51.71,main,Grace,0,0,0,,Lady Liselotte.
+Dialogue: 0,0:08:52.37,0:08:54.80,main,Grace,0,0,0,,A skilled swordsman has \Nappeared at the east gate.
+Dialogue: 0,0:08:54.80,0:08:57.30,main,Grace,0,0,0,,He is pushing the monsters back on his own.
+Dialogue: 0,0:08:58.05,0:08:59.55,main,Liselotte,0,0,0,,Is it Sir Haruto?
+Dialogue: 0,0:08:59.55,0:09:00.43,main,Grace,0,0,0,,Most likely.
+Dialogue: 0,0:09:02.01,0:09:04.41,main,Liselotte,0,0,0,,It seems I owe him another great debt.
+Dialogue: 0,0:09:04.88,0:09:08.61,main,Liselotte,0,0,0,,But I'm very grateful.\NAnd Natalie is headed there, too.
+Dialogue: 0,0:09:08.61,0:09:11.75,main,Liselotte,0,0,0,,I think perhaps the east gate might \Nhave enough of a fighting force now.
+Dialogue: 0,0:09:20.05,0:09:24.11,main,Lucius,0,0,0,,To think we'd be able to sneak \Nin this far. It's too easy!
+Dialogue: 0,0:09:24.11,0:09:26.68,main,Reiss,0,0,0,,Please refrain from speaking unnecessarily.
+Dialogue: 0,0:09:26.68,0:09:28.67,main,Lucius,0,0,0,,You're no fun.
+Dialogue: 0,0:09:28.67,0:09:32.71,main,Lucius,0,0,0,,I'm here at a battle and I'm being \Ntold I have to wait until later.
+Dialogue: 0,0:09:32.71,0:09:34.83,main,Lucius,0,0,0,,The least you could do is talk to me.
+Dialogue: 0,0:09:35.35,0:09:37.68,main,Reiss,0,0,0,,Then let us speak about work.
+Dialogue: 0,0:09:38.33,0:09:42.79,main,Reiss,0,0,0,,As soon as we receive the signal from \Nthe minotaurs, we will take action.
+Dialogue: 0,0:09:43.20,0:09:46.48,main,Reiss,0,0,0,,Please make sure that you're \Nprepared to move at any moment.
+Dialogue: 0,0:09:46.48,0:09:48.57,main,Lucius,0,0,0,,Heard and understood.
+Dialogue: 0,0:09:50.14,0:09:53.38,italics,Reiss; internal,0,0,0,,Now, the aura of that\N spirit in human form
+Dialogue: 0,0:09:53.38,0:09:55.99,italics,Reiss; internal,0,0,0,,has been sitting quietly in the \Ncenter of town all this time.
+Dialogue: 0,0:09:56.88,0:10:01.76,italics,Reiss; internal,0,0,0,,Soon, the defensive forces will \Nall have moved to the front lines.
+Dialogue: 0,0:10:10.89,0:10:13.76,main,Chloe,0,0,0,,Incredible. He's really incredible!
+Dialogue: 0,0:10:15.36,0:10:20.17,main,soldier C,0,0,0,,Hey, Chloe, who is that? Who is \Nthat young man fighting over there?
+Dialogue: 0,0:10:20.95,0:10:22.39,main,Chloe,0,0,0,,That's Master Haruto!
+Dialogue: 0,0:10:22.39,0:10:25.98,main,Chloe,0,0,0,,He saved Lady Liselotte's life and \Nhe's a skilled swordsman!
+Dialogue: 0,0:10:29.58,0:10:32.31,main,soldier C,0,0,0,,The word "skilled" doesn't cover all of that!
+Dialogue: 0,0:10:32.99,0:10:37.51,main,Chloe,0,0,0,,But even Master Haruto will need to rest.
+Dialogue: 0,0:10:38.09,0:10:42.16,main,Chloe,0,0,0,,When he does, we'll be the ones fighting!
+Dialogue: 0,0:10:42.40,0:10:44.09,main,Chloe,0,0,0,,Please make sure you're ready for it!
+Dialogue: 0,0:10:44.56,0:10:47.22,main,soldier C,0,0,0,,Okay, leave the rear to us!
+Dialogue: 0,0:10:51.99,0:10:53.38,italics,Rio; internal,0,0,0,,This is strange.
+Dialogue: 0,0:10:53.76,0:10:58.06,italics,Rio; internal,0,0,0,,Why aren't the minotaur or those \Nhumanoid monsters fighting up in front?
+Dialogue: 0,0:10:59.06,0:11:01.32,italics,Rio; internal,0,0,0,,With the power those monsters have,
+Dialogue: 0,0:11:01.32,0:11:04.36,italics,Rio; internal,0,0,0,,they could push their way \Ndeep into town in an instant.
+Dialogue: 0,0:11:05.97,0:11:10.37,italics,Rio; internal,0,0,0,,That minotaur normally wouldn't\N hesitate about breaching the gate.
+Dialogue: 0,0:11:11.72,0:11:13.78,italics,Rio; internal,0,0,0,,Do they have some other objective?
+Dialogue: 0,0:11:15.55,0:11:18.86,italics,Rio; telepathy,0,0,0,,Aishia, has anything changed in town?
+Dialogue: 0,0:11:19.37,0:11:20.43,italics,Aishia; telepathy,0,0,0,,Nothing specific.
+Dialogue: 0,0:11:21.18,0:11:25.06,italics,Aishia; telepathy,0,0,0,,Only that people have started \Navoiding the plaza near here.
+Dialogue: 0,0:11:25.40,0:11:28.42,italics,Aishia; telepathy,0,0,0,,And the evacuation of the residents \Nshould be nearly complete.
+Dialogue: 0,0:11:29.03,0:11:31.00,italics,Rio; telepathy,0,0,0,,Is there any change in \Nthe monsters' movements?
+Dialogue: 0,0:11:31.81,0:11:32.60,italics,Aishia; telepathy,0,0,0,,No.
+Dialogue: 0,0:11:33.02,0:11:34.15,italics,Aishia; telepathy,0,0,0,,It seems like
+Dialogue: 0,0:11:34.15,0:11:36.62,italics,Aishia; telepathy,0,0,0,,they've been able to successfully hold \Noff the monsters at the west gate.
+Dialogue: 0,0:11:37.54,0:11:38.92,italics,Rio; telepathy,0,0,0,,I see.
+Dialogue: 0,0:11:39.26,0:11:40.21,italics,Rio; telepathy,0,0,0,,Thank you.
+Dialogue: 0,0:11:42.81,0:11:47.10,italics,Rio; telepathy,0,0,0,,I'll talk with the others and see if \Nit's all right for me to head back.
+Dialogue: 0,0:11:48.40,0:11:52.03,italics,Aishia; telepathy,0,0,0,,All right. If anything happens, \NI'll contact you immediately.
+Dialogue: 0,0:11:52.03,0:11:53.19,italics,Rio; telepathy,0,0,0,,Right.
+Dialogue: 0,0:11:53.65,0:11:54.57,main,Natalie,0,0,0,,Chloe!
+Dialogue: 0,0:11:55.21,0:11:57.84,main,Chloe,0,0,0,,Natalie! Cosette!
+Dialogue: 0,0:11:58.44,0:12:00.90,main,Natalie,0,0,0,,Um, has there been any damage?
+Dialogue: 0,0:12:00.90,0:12:06.12,main,Chloe,0,0,0,,Master Haruto has been fighting alone for us!
+Dialogue: 0,0:12:14.71,0:12:16.48,main,Cosette,0,0,0,,I'd expect no less from him.
+Dialogue: 0,0:12:16.48,0:12:21.81,main,Natalie,0,0,0,,He's amazing, but... \Nshouldn't we have him come back now?
+Dialogue: 0,0:12:22.13,0:12:24.06,main,Natalie,0,0,0,,He's been out there the \Nwhole time, hasn't he?
+Dialogue: 0,0:12:24.45,0:12:26.29,main,Natalie,0,0,0,,He won't be able to sustain his magic.
+Dialogue: 0,0:12:26.81,0:12:28.22,main,Cosette,0,0,0,,You're right.
+Dialogue: 0,0:12:28.65,0:12:33.31,main,Cosette,0,0,0,,Now that we're here, \Nwe should switch places with him.
+Dialogue: 0,0:12:33.31,0:12:34.39,main,Cosette,0,0,0,,Master Haruto!
+Dialogue: 0,0:12:35.09,0:12:38.00,main,Rio,0,0,0,,If I remember rightly, \Nit's Miss Cosette and...
+Dialogue: 0,0:12:38.41,0:12:42.24,main,Natalie,0,0,0,,I am one of Lady Liselotte's \Nattendants, Natalie.
+Dialogue: 0,0:12:42.59,0:12:47.66,main,Natalie,0,0,0,,Master Haruto, we offer you our \Ndeepest thanks for granting us your aid.
+Dialogue: 0,0:12:48.15,0:12:51.40,main,Cosette,0,0,0,,Please allow us express our \Ngratitude on behalf of our lady.
+Dialogue: 0,0:12:51.83,0:12:55.33,main,Rio,0,0,0,,Not at all. Actually, I have a favor to ask.
+Dialogue: 0,0:12:55.65,0:12:56.81,main,Natalie,0,0,0,,What is it?
+Dialogue: 0,0:12:57.37,0:12:59.83,main,Rio,0,0,0,,My travel companions are waiting at the inn.
+Dialogue: 0,0:13:00.53,0:13:02.64,main,Rio,0,0,0,,They haven't evacuated yet.
+Dialogue: 0,0:13:03.47,0:13:06.07,main,Rio,0,0,0,,I'd like to go back so \Nthat I can rejoin them.
+Dialogue: 0,0:13:06.56,0:13:09.64,main,Natalie,0,0,0,,I see. And that's your favor?
+Dialogue: 0,0:13:11.22,0:13:14.34,main,Rio,0,0,0,,I know it won't really make up for \Nallowing me to withdraw from here,
+Dialogue: 0,0:13:14.90,0:13:17.06,main,Rio,0,0,0,,but I will take care of that minotaur.
+Dialogue: 0,0:13:17.45,0:13:18.58,main,Rio,0,0,0,,What do you think?
+Dialogue: 0,0:13:19.33,0:13:25.76,main,Natalie,0,0,0,,Master Haruto, as you are an ordinary citizen,\Nwe have no reason to keep you here.
+Dialogue: 0,0:13:26.30,0:13:29.28,main,Natalie,0,0,0,,And you do realize that it's waiting \Nall the way in the back, don't you?
+Dialogue: 0,0:13:29.55,0:13:32.29,main,Rio,0,0,0,,It's all right. I can slay it from here.
+Dialogue: 0,0:13:32.29,0:13:34.00,main,Natalie,0,0,0,,Y-You can?
+Dialogue: 0,0:13:34.00,0:13:35.25,main,Rio,0,0,0,,I will take care of it now.
+Dialogue: 0,0:13:51.27,0:13:53.79,italics,Rio; internal,0,0,0,,I should give it a little more.
+Dialogue: 0,0:14:01.84,0:14:04.68,main,Rio,0,0,0,,And now, if you will excuse me,\NI'll take my leave.
+Dialogue: 0,0:14:04.68,0:14:07.48,main,Natalie,0,0,0,,Y-Yes! Thank you so much.
+Dialogue: 0,0:14:09.27,0:14:11.92,main,Cosette,0,0,0,,You're magnificent, Master Haruto!
+Dialogue: 0,0:14:11.92,0:14:12.58,main,Rio,0,0,0,,What?
+Dialogue: 0,0:14:13.00,0:14:15.50,main,Natalie,0,0,0,,Wh-What are you saying?
+Dialogue: 0,0:14:15.50,0:14:20.55,main,Natalie,0,0,0,,Sir Haruto, please pay her no mind \Nand return to your companions.
+Dialogue: 0,0:14:21.03,0:14:22.92,main,Rio,0,0,0,,Right. If you'll excuse me.
+Dialogue: 0,0:14:28.99,0:14:32.99,sign_5011_20_The_Kingdom_of_B,text,0,0,0,,{\pos(320,300)\fad(500,500)}West Gate
+Dialogue: 0,0:14:48.36,0:14:52.50,italics,Aria; internal,0,0,0,,There are clearly far more monsters here \Nthan when we were attacked in the forest.
+Dialogue: 0,0:14:53.38,0:14:56.33,italics,Aria; internal,0,0,0,,I'd like to use extravagant magic to \Nclear them away in one fell swoop,
+Dialogue: 0,0:14:56.60,0:15:00.15,italics,Aria; internal,0,0,0,,but if I'm not careful to ration \Nmy magical energy, I may run dry.
+Dialogue: 0,0:15:01.08,0:15:02.52,italics,Aria; internal,0,0,0,,What should I do?
+Dialogue: 0,0:15:03.84,0:15:07.66,italics,Aria; internal,0,0,0,,And why aren't they coming \Nto breach the gate?
+Dialogue: 0,0:15:08.53,0:15:09.70,italics,Aria; internal,0,0,0,,It's baffling.
+Dialogue: 0,0:15:10.89,0:15:15.14,main,Aria,0,0,0,,It's a little more dangerous, but my only \Nchoice is to strike further forward.
+Dialogue: 0,0:15:23.86,0:15:25.70,main,Aria,0,0,0,,What is all of this now?
+Dialogue: 0,0:15:41.02,0:15:45.00,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\fs23\fad(502,1)\blur4\pos(511,277)}Spirit Chronicles {\c&H29FFF4&}2
+Dialogue: 0,0:15:49.90,0:15:51.18,main,Reiss,0,0,0,,That's the signal.
+Dialogue: 0,0:15:51.18,0:15:53.01,main,Lucius,0,0,0,,It's finally our turn, huh?
+Dialogue: 0,0:15:53.01,0:15:59.70,main,Reiss,0,0,0,,Let's hurry. The monsters may all be slain \Nfar more quickly than we anticipated.
+Dialogue: 0,0:16:00.02,0:16:05.48,main,Reiss,0,0,0,,You're the one our hopes truly lie with. \NWe're relying on you, young Alphonse.
+Dialogue: 0,0:16:06.49,0:16:08.98,main,Alphonse,0,0,0,,I know. Leave it to me.
+Dialogue: 0,0:16:13.16,0:16:14.25,main,solider,0,0,0,,What are they?
+Dialogue: 0,0:16:20.36,0:16:23.20,main,Aria,0,0,0,,All units, do whatever you must to stop them!
+Dialogue: 0,0:16:28.24,0:16:30.51,main,Aria,0,0,0,,I will take care of that hulking beast!
+Dialogue: 0,0:16:46.54,0:16:49.35,main,Rio,0,0,0,,We should go, too. This way.
+Dialogue: 0,0:16:49.93,0:16:50.73,main,Aishia,0,0,0,,Haruto!
+Dialogue: 0,0:16:51.23,0:16:52.32,main,Aishia,0,0,0,,A monster!
+Dialogue: 0,0:17:01.14,0:17:02.70,main,Mireille,0,0,0,,D-Don't come over here!
+Dialogue: 0,0:17:02.70,0:17:04.55,main,Rebecca,0,0,0,,Mireille, run away!
+Dialogue: 0,0:17:04.55,0:17:05.33,italics,Rio; internal,0,0,0,,This is bad!
+Dialogue: 0,0:17:11.72,0:17:13.21,italics,Rio; internal,0,0,0,,There are more of them?
+Dialogue: 0,0:17:29.64,0:17:32.56,main,Rebecca,0,0,0,,Th-Thank you so much!
+Dialogue: 0,0:17:32.56,0:17:36.13,main,Rio,0,0,0,,Not at all. The important \Nthing is that you're unharmed.
+Dialogue: 0,0:17:36.13,0:17:39.51,main,Mireille,0,0,0,,Th-Thank you, mister!
+Dialogue: 0,0:17:39.89,0:17:41.83,main,Mireille,0,0,0,,Mother, are you all right?
+Dialogue: 0,0:17:41.83,0:17:43.75,main,Rebecca,0,0,0,,Yes, I'm fine.
+Dialogue: 0,0:17:44.03,0:17:46.37,main,Chloe,0,0,0,,Mother? Mireille?
+Dialogue: 0,0:17:46.81,0:17:49.11,main,Chloe,0,0,0,,Wh-What happened here?
+Dialogue: 0,0:17:49.11,0:17:53.72,main,Mireille,0,0,0,,We were attacked by monsters and he saved us!
+Dialogue: 0,0:17:54.30,0:17:56.38,main,Mireille,0,0,0,,He's really strong!
+Dialogue: 0,0:17:56.80,0:18:02.10,main,Chloe,0,0,0,,R-Really? Thank you so much, Master Haruto!
+Dialogue: 0,0:18:02.10,0:18:05.75,main,Rio,0,0,0,,It was nothing. But what brings \Nyou here, Miss Chloe?
+Dialogue: 0,0:18:05.75,0:18:11.38,main,Chloe,0,0,0,,W-Well, a few humanoid monsters \Nmanaged to make it into the city,
+Dialogue: 0,0:18:11.38,0:18:14.08,main,Chloe,0,0,0,,so I was headed to \NLady Liselotte to tell her.
+Dialogue: 0,0:18:14.73,0:18:16.63,main,old man A,0,0,0,,Oh, Chloe!
+Dialogue: 0,0:18:17.43,0:18:19.52,main,old woman B,0,0,0,,Rebecca, are you all right?
+Dialogue: 0,0:18:19.52,0:18:22.89,main,man C,0,0,0,,Hey, young man, thank you! You were amazing!
+Dialogue: 0,0:18:23.22,0:18:24.72,main,Chloe,0,0,0,,Oh, um...
+Dialogue: 0,0:18:25.08,0:18:29.86,main,Chloe,0,0,0,,I'm very sorry! I'm in a \Nhurry to deliver a message!
+Dialogue: 0,0:18:29.86,0:18:34.34,main,Chloe,0,0,0,,Will all of you hurry and evacuate to the north,\Ninside the estate walls, for me?
+Dialogue: 0,0:18:34.79,0:18:39.51,main,Chloe,0,0,0,,If you talk to the guards at the entrance \Nto the walls, they should let you in!
+Dialogue: 0,0:18:39.97,0:18:43.27,main,man C,0,0,0,,I see. Well then, get going, Chloe!
+Dialogue: 0,0:18:43.27,0:18:46.74,main,man C,0,0,0,,We'll go ahead and evacuate \Nwith this young man here!
+Dialogue: 0,0:18:46.74,0:18:48.77,main,Rio,0,0,0,,Oh, I, um...
+Dialogue: 0,0:18:49.52,0:18:51.37,main,Celia,0,0,0,,Let's go, Haruto.
+Dialogue: 0,0:18:51.37,0:18:52.73,main,Rio,0,0,0,,Cecilia...
+Dialogue: 0,0:18:53.15,0:18:55.77,main,Rio,0,0,0,,All right. Let's do that.
+Dialogue: 0,0:19:03.89,0:19:09.01,main,Sakata,0,0,0,,Hey, do monsters always \Nattack towns this often?
+Dialogue: 0,0:19:09.35,0:19:14.86,main,Huguenot,0,0,0,,They don't attack frequently, \Nbut it isn't unprecedented.
+Dialogue: 0,0:19:15.39,0:19:20.86,main,Huguenot,0,0,0,,In the past, towns and villages have \Nbeen completely destroyed by monsters.
+Dialogue: 0,0:19:21.25,0:19:22.31,main,Sakata,0,0,0,,I see.
+Dialogue: 0,0:19:29.27,0:19:31.46,main,Stewart,0,0,0,,Pardon me.
+Dialogue: 0,0:19:31.46,0:19:33.66,main,Stewart,0,0,0,,My nerves have made my throat dry.
+Dialogue: 0,0:19:35.46,0:19:39.42,sign_5011_20_The_Kingdom_of_B,text,0,0,0,,{\pos(320,300)\fad(500,500)}Estate Wall, North Gate
+Dialogue: 0,0:19:37.29,0:19:39.23,top,Mireille,0,0,0,,Now we can feel a little safer.
+Dialogue: 0,0:19:40.08,0:19:42.91,main,Mireille,0,0,0,,Thank you, mister.
+Dialogue: 0,0:19:42.91,0:19:45.32,main,Rio,0,0,0,,I didn't do anything much.
+Dialogue: 0,0:19:45.62,0:19:47.56,main,Rio,0,0,0,,All I did was walk with you.
+Dialogue: 0,0:19:47.98,0:19:51.27,main,soldier D,0,0,0,,Could it be that you're Master Haruto?
+Dialogue: 0,0:19:51.66,0:19:54.26,main,Rio,0,0,0,,Yes, I am. Why do you ask?
+Dialogue: 0,0:19:54.26,0:19:55.34,main,soldier D,0,0,0,,I thought so.
+Dialogue: 0,0:19:55.34,0:19:58.92,main,soldier D,0,0,0,,The truth is, we've been told that \Nif you and your companions arrive,
+Dialogue: 0,0:19:58.92,0:20:02.09,main,soldier D,0,0,0,,we're to make it our priority to \Nshow you to the mansion immediately.
+Dialogue: 0,0:20:02.09,0:20:04.95,main,soldier D,0,0,0,,It's a direct order from Lady Liselotte.
+Dialogue: 0,0:20:05.55,0:20:07.68,italics,Rio; internal,0,0,0,,Oh, I see.
+Dialogue: 0,0:20:09.47,0:20:11.89,main,soldier D,0,0,0,,You and your companions \Nare under our protection.
+Dialogue: 0,0:20:11.89,0:20:14.02,main,soldier D,0,0,0,,I realize it's sudden, \Nbut please come this way.
+Dialogue: 0,0:20:14.43,0:20:18.72,main,Rio,0,0,0,,In that case, we'll take you \Nat your word. Thank you.
+Dialogue: 0,0:20:19.20,0:20:20.40,main,soldier D,0,0,0,,Understood.
+Dialogue: 0,0:20:25.07,0:20:26.45,main,Alphonse,0,0,0,,This way.
+Dialogue: 0,0:20:26.80,0:20:30.08,main,Lucius,0,0,0,,It really is a lot easier \Nwhen you have a guide.
+Dialogue: 0,0:20:30.30,0:20:34.08,main,Lucius,0,0,0,,Those strengthened revenants \Ncan't handle this kind of work.
+Dialogue: 0,0:20:35.97,0:20:40.88,main,Alphonse,0,0,0,,The guest rooms are down that \Nway and around the corner.
+Dialogue: 0,0:20:41.59,0:20:46.59,main,Lucius,0,0,0,,Got it. Well then, the \Nrest of this job is yours.
+Dialogue: 0,0:20:47.07,0:20:49.36,main,Lucius,0,0,0,,Don't raise a hand to the princess.
+Dialogue: 0,0:20:49.36,0:20:50.96,main,Lucius,0,0,0,,And apparently, as long \Nas you don't kill him,
+Dialogue: 0,0:20:50.96,0:20:53.88,main,Lucius,0,0,0,,you're allowed to hurt the Hero if you want.
+Dialogue: 0,0:20:54.19,0:20:56.39,main,Alphonse,0,0,0,,I know. Leave it to me.
+Dialogue: 0,0:20:56.39,0:21:00.61,main,Alphonse,0,0,0,,As I am now, I am stronger than a minotaur.
+Dialogue: 0,0:21:00.61,0:21:02.18,main,Lucius,0,0,0,,Right.
+Dialogue: 0,0:21:02.18,0:21:06.79,main,Lucius,0,0,0,,I can't tell if his intellect \Nremains, or if it's broken.
+Dialogue: 0,0:21:06.79,0:21:08.14,main,knight C,0,0,0,,Is someone there?
+Dialogue: 0,0:21:11.38,0:21:12.89,main,Lucius,0,0,0,,Yes, we're over here.
+Dialogue: 0,0:21:12.89,0:21:13.95,main,knight C,0,0,0,,Who are you?
+Dialogue: 0,0:21:14.38,0:21:18.27,main,Lucius,0,0,0,,Oh, I was just taking care of a little \Nbusiness and now I'm about to leave.
+Dialogue: 0,0:21:18.63,0:21:20.02,main,Lucius,0,0,0,,Don't mind me.
+Dialogue: 0,0:21:21.42,0:21:22.09,main,knight C,0,0,0,,Stop!
+Dialogue: 0,0:21:22.83,0:21:23.82,main,knight C,0,0,0,,Show yourself.
+Dialogue: 0,0:21:24.82,0:21:26.15,main,Lucius,0,0,0,,Dear, dear.
+Dialogue: 0,0:21:27.43,0:21:30.17,main,knight C,0,0,0,,An adventurer? Are you alone?
+Dialogue: 0,0:21:30.17,0:21:32.01,main,knight C,0,0,0,,You were talking to someone, weren't you?
+Dialogue: 0,0:21:33.56,0:21:37.75,main,Lucius,0,0,0,,No, there aren't any other humans here.
+Dialogue: 0,0:21:40.32,0:21:43.87,main,Sakata,0,0,0,,Hey. Something just hit the door, didn't it?
+Dialogue: 0,0:21:43.87,0:21:45.10,main,Huguenot,0,0,0,,Indeed.
+Dialogue: 0,0:21:47.45,0:21:49.32,main,knight B,0,0,0,,Hey, what's going on?
+Dialogue: 0,0:21:57.86,0:21:58.96,main,Roanna,0,0,0,,What is that?
+Dialogue: 0,0:22:00.58,0:22:02.73,main,Stewart,0,0,0,,M-Monsters?
+Dialogue: 0,0:22:03.80,0:22:06.34,main,Huguenot,0,0,0,,H-How can they be here?
+Dialogue: 0,0:23:40.02,0:23:45.02,sign_33925_315_Next_Time_Royal_,text; top line,0,0,0,,{\pos(320,120)\blur1.5\3c&HF489C7&\shad0}Next Time
+Dialogue: 0,0:23:40.02,0:23:45.02,sign_33925_315_Next_Time_Royal_,text; bottom line,0,0,0,,{\fs35\an8\pos(320,225)\blur1.5\3c&HF98DC4&\shad0\fsp2}Destined Enemy
+Dialogue: 0,0:23:40.90,0:23:42.57,main,Rio,0,0,0,,"Destined Enemy."
+Dialogue: 0,0:23:45.02,0:23:50.25,sign_3238_18_Seirei_Gensouki,text; upper right,0,0,0,,{\fs23\blur4\an8\c&H29FFF4&\pos(409.333,15.222)}Spirit Chronicles 2
+Dialogue: 0,0:23:45.02,0:23:50.25,sign_Georgia,text; bottom,0,0,0,,{\an1\c&H000700&\bord2\shad2\4c&H838556&\fs11\3c&HFFFFFF&\3a&HAF&\pos(275.667,319.889)}Illustration: Minazuki Futago
+Dialogue: 0,0:23:45.02,0:23:50.25,sign_TrebuchetMS,text; around monster,0,0,0,,{\c&H000401&\bord0\shad0\pos(487,233)}I'm Alphonse!

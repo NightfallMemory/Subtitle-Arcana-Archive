@@ -1,0 +1,268 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: sign_Arial,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ArialBlack,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_CourierNew,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ComicSansMS,Comic Sans MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Georgia,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Impact,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TimesNewRoman,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TrebuchetMS,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Verdana,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_3238_18_Seirei_Gensouki,Trebuchet MS,40,&H00FAFFFF,&H000000FF,&H00E6B519,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,20,1
+Style: sign_31638_280_No_Service,Arial,20,&H006E3828,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,20,1
+Style: sign_33925_315_Next_Time_Royal_,Trebuchet MS,15,&H00FAFFFF,&H000000FF,&H00CBB281,&H00BDB85F,0,0,0,0,100,100,0,0,1,2,1,2,30,30,20,1
+Style: sign_5011_20_The_Kingdom_of_B,Arial,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.86,0:00:14.35,main,Sakata,0,0,0,,Hey. Something just hit the door, didn't it?
+Dialogue: 0,0:00:14.35,0:00:15.45,main,Huguenot,0,0,0,,Indeed.
+Dialogue: 0,0:00:17.99,0:00:19.71,main,Knight B,0,0,0,,Hey, what's going on?
+Dialogue: 0,0:00:28.42,0:00:29.50,main,Roanna,0,0,0,,What is that?
+Dialogue: 0,0:00:31.00,0:00:33.21,main,Stewart,0,0,0,,M-Monsters?
+Dialogue: 0,0:00:34.34,0:00:36.90,main,Huguenot,0,0,0,,H-How can they be here?
+Dialogue: 0,0:00:41.64,0:00:43.85,main,Raymond,0,0,0,,Enchant Physical Ability!
+Dialogue: 0,0:00:43.85,0:00:45.24,main,Alphonse,0,0,0,,Go.
+Dialogue: 0,0:00:54.96,0:00:55.85,main,Sakata,0,0,0,,Run!
+Dialogue: 0,0:00:56.19,0:00:57.26,main,Flora,0,0,0,,What?
+Dialogue: 0,0:00:57.26,0:00:58.66,main,Roanna,0,0,0,,Princess Flora, this way!
+Dialogue: 0,0:00:58.66,0:01:00.25,main,Stewart,0,0,0,,These things...
+Dialogue: 0,0:01:03.02,0:01:03.91,main,Alphonse,0,0,0,,Go.
+Dialogue: 0,0:01:14.03,0:01:14.63,main,Sakata,0,0,0,,Crap.
+Dialogue: 0,0:01:15.64,0:01:16.55,main,Sakata,0,0,0,,Take that!
+Dialogue: 0,0:01:27.94,0:01:29.47,main,Stewart,0,0,0,,These things...
+Dialogue: 0,0:01:34.97,0:01:36.91,main,Sakata,0,0,0,,Hey, Yamata no Orochi.
+Dialogue: 0,0:01:45.97,0:01:47.02,main,Alphonse,0,0,0,,Move.
+Dialogue: 0,0:02:20.55,0:02:23.55,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\pos(345,125)\blur4\fad(897,248)}Spirit Chronicles 2
+Dialogue: 0,0:03:23.81,0:03:25.10,main,Sakata,0,0,0,,Roanna, get down!
+Dialogue: 0,0:03:30.07,0:03:31.48,main,Sakata,0,0,0,,I'll kill you.
+Dialogue: 0,0:03:42.26,0:03:43.53,main,Roanna,0,0,0,,Sir Hiroaki!
+Dialogue: 0,0:03:45.53,0:03:51.08,main,Alphonse,0,0,0,,I've been wanting to punch this \Nguy in the face as hard as I could!
+Dialogue: 0,0:03:51.51,0:03:54.08,italics,Huguenot; internal,0,0,0,,That monster... is talking!
+Dialogue: 0,0:03:54.86,0:03:59.69,main,Alphonse,0,0,0,,You're next. It won't be a peaceful death.
+Dialogue: 0,0:04:02.93,0:04:05.47,main,Roanna,0,0,0,,Princess Flora! Please stay back!
+Dialogue: 0,0:04:06.81,0:04:07.89,main,Huguenot,0,0,0,,You!
+Dialogue: 0,0:04:19.78,0:04:20.79,main,Stewart,0,0,0,,Father!
+Dialogue: 0,0:04:21.24,0:04:23.39,main,Stewart,0,0,0,,Get out of my way! Let go!
+Dialogue: 0,0:04:23.98,0:04:25.55,main,Raymond,0,0,0,,Duke Huguenot!
+Dialogue: 0,0:04:29.41,0:04:32.41,main,Alphonse,0,0,0,,This isn't nearly all you'll suffer.
+Dialogue: 0,0:04:34.69,0:04:35.87,main,Stewart,0,0,0,,Father!
+Dialogue: 0,0:04:46.53,0:04:49.08,main,Roanna,0,0,0,,Princess Flora, please run now,\Nwhile you can.
+Dialogue: 0,0:04:49.08,0:04:52.30,main,Flora,0,0,0,,What? But... what about you?
+Dialogue: 0,0:04:52.30,0:04:55.10,main,Roanna,0,0,0,,I will act as a decoy and buy you some time.
+Dialogue: 0,0:04:55.10,0:04:57.76,main,Roanna,0,0,0,,When you see an opening... \Nhurry toward the hallway.
+Dialogue: 0,0:04:57.76,0:05:00.26,main,Flora,0,0,0,,No, y-you mustn't!
+Dialogue: 0,0:05:00.26,0:05:01.61,main,Roanna,0,0,0,,Please.
+Dialogue: 0,0:05:01.61,0:05:03.86,main,Roanna,0,0,0,,If things continue like this...
+Dialogue: 0,0:05:04.61,0:05:06.04,main,Roanna,0,0,0,,we'll all die.
+Dialogue: 0,0:05:15.65,0:05:18.50,main,Raymond,0,0,0,,You! Monster!
+Dialogue: 0,0:05:40.59,0:05:41.50,main,Roanna,0,0,0,,Hurry!
+Dialogue: 0,0:05:51.51,0:05:54.67,main,Lucius,0,0,0,,Princess Flora? Princess Flora, are you there?
+Dialogue: 0,0:06:00.42,0:06:03.46,main,Roanna,0,0,0,,This is Princess Flora.\NPlease make sure she escapes.
+Dialogue: 0,0:06:06.47,0:06:08.68,main,Flora,0,0,0,,Roanna! Come with me!
+Dialogue: 0,0:06:08.91,0:06:10.00,main,Flora,0,0,0,,Roanna!
+Dialogue: 0,0:06:12.39,0:06:13.86,main,Roanna,0,0,0,,Photon Bullet!
+Dialogue: 0,0:06:14.92,0:06:16.14,main,Lucius,0,0,0,,Princess Flora.
+Dialogue: 0,0:06:16.58,0:06:18.39,main,Lucius,0,0,0,,This way.
+Dialogue: 0,0:06:18.39,0:06:19.51,main,Flora,0,0,0,,Wait!
+Dialogue: 0,0:06:20.54,0:06:21.81,main,Flora,0,0,0,,Let go of me!
+Dialogue: 0,0:06:21.81,0:06:23.52,main,Lucius,0,0,0,,Quickly now.
+Dialogue: 0,0:06:23.52,0:06:25.78,main,Flora,0,0,0,,Roanna!
+Dialogue: 0,0:06:32.53,0:06:34.54,main,soldier A,0,0,0,,Come now! No stopping, please!
+Dialogue: 0,0:06:34.97,0:06:37.00,main,soldier B,0,0,0,,Please move all the way inside.
+Dialogue: 0,0:06:40.30,0:06:41.25,main,Aishia,0,0,0,,Haruto.
+Dialogue: 0,0:06:43.21,0:06:45.99,main,Aishia,0,0,0,,I sense monsters over there.
+Dialogue: 0,0:06:45.99,0:06:46.71,main,Rio,0,0,0,,What?
+Dialogue: 0,0:06:47.47,0:06:48.78,main,Liselotte,0,0,0,,Sir Haruto!
+Dialogue: 0,0:06:50.14,0:06:53.97,main,Liselotte,0,0,0,,Miss Cecilia, and Miss Aishia, too!\NI'm glad you're safe!
+Dialogue: 0,0:06:53.97,0:06:55.74,main,Rio,0,0,0,,Yes. We've managed somehow.
+Dialogue: 0,0:06:55.74,0:06:59.67,main,Liselotte,0,0,0,,I heard that you kept the \Nmonsters at the east gate at bay.
+Dialogue: 0,0:06:59.67,0:07:02.17,main,Liselotte,0,0,0,,Truly, thank you so much!
+Dialogue: 0,0:07:02.17,0:07:07.23,main,Rio,0,0,0,,Not at all. It was only possible because \Nof the soldiers and your attendants.
+Dialogue: 0,0:07:07.78,0:07:12.56,main,Liselotte,0,0,0,,You both must be tired as well. \NLet us show you to somewhere safe.
+Dialogue: 0,0:07:12.56,0:07:14.18,main,Rio,0,0,0,,Oh. Before that...
+Dialogue: 0,0:07:14.99,0:07:17.49,main,Rio,0,0,0,,Have any monsters gotten in here?
+Dialogue: 0,0:07:20.17,0:07:21.28,main,Liselotte,0,0,0,,No.
+Dialogue: 0,0:07:21.28,0:07:26.00,main,Liselotte,0,0,0,,And we haven't heard any reports of \Nthat from the soldiers on patrol either.
+Dialogue: 0,0:07:26.29,0:07:27.50,main,Rio,0,0,0,,I see.
+Dialogue: 0,0:07:27.87,0:07:30.45,main,Liselotte,0,0,0,,Are you concerned about something?
+Dialogue: 0,0:07:30.45,0:07:35.73,main,Rio,0,0,0,,Actually, that area there... \NIt's giving off a strange aura.
+Dialogue: 0,0:07:37.69,0:07:44.14,main,Liselotte,0,0,0,,That is where the Hero and Princess Flora \Nhave evacuated to. It should be safe.
+Dialogue: 0,0:07:44.14,0:07:46.95,main,Grace,0,0,0,,I'll send word that the area \Nshould be checked, just in case.
+Dialogue: 0,0:07:47.89,0:07:51.11,main,Flora,0,0,0,,Let go! Please, let go of me!
+Dialogue: 0,0:07:51.11,0:07:52.66,main,Flora,0,0,0,,I must call for help!
+Dialogue: 0,0:07:54.38,0:07:57.70,main,Lucius,0,0,0,,The monsters in there are \Nstrengthened revenants.
+Dialogue: 0,0:07:57.92,0:08:00.89,main,Lucius,0,0,0,,It will be too late by the time help arrives.
+Dialogue: 0,0:08:02.19,0:08:04.46,main,Flora,0,0,0,,Who are you?
+Dialogue: 0,0:08:05.50,0:08:06.50,main,Lucius,0,0,0,,Well...
+Dialogue: 0,0:08:08.21,0:08:10.71,main,Lucius,0,0,0,,I'm just a piece of human garbage.
+Dialogue: 0,0:08:12.63,0:08:14.60,main,Flora,0,0,0,,Am I what you're after?
+Dialogue: 0,0:08:14.60,0:08:18.60,main,Lucius,0,0,0,,Yes. But leaving quietly with \Nyou like this would be boring.
+Dialogue: 0,0:08:19.16,0:08:23.69,main,Lucius,0,0,0,,Now, for example, that young lady \Nwho entrusted you to me...
+Dialogue: 0,0:08:23.69,0:08:27.48,main,Lucius,0,0,0,,If she learned that you'd been \Nkidnapped because of her,
+Dialogue: 0,0:08:27.72,0:08:33.56,main,Lucius,0,0,0,,I wonder how her face would look. \NEven just imagining it is fun.
+Dialogue: 0,0:08:34.74,0:08:36.99,main,Lucius,0,0,0,,Yes, that's it. That's the face.
+Dialogue: 0,0:08:38.18,0:08:39.79,main,Lucius,0,0,0,,That's very good.
+Dialogue: 0,0:08:40.50,0:08:42.20,main,Flora,0,0,0,,L-Let go of me!
+Dialogue: 0,0:08:42.20,0:08:44.51,main,Reiss,0,0,0,,You really are hopeless.
+Dialogue: 0,0:08:44.51,0:08:45.52,main,Lucius,0,0,0,,Hey, there.
+Dialogue: 0,0:08:45.52,0:08:49.21,main,Reiss,0,0,0,,Stop wasting time. Hurry up and go.
+Dialogue: 0,0:08:49.21,0:08:53.18,main,Reiss,0,0,0,,That human-form spirit \Nhas come to the mansion.
+Dialogue: 0,0:08:53.18,0:08:55.61,main,Reiss,0,0,0,,Confronting it would present a problem.
+Dialogue: 0,0:08:55.61,0:08:58.03,main,Lucius,0,0,0,,Really? All right, then.
+Dialogue: 0,0:09:00.91,0:09:04.81,main,Lucius,0,0,0,,If you don't want these \Npretty feet getting cut off...
+Dialogue: 0,0:09:06.06,0:09:07.88,main,Lucius,0,0,0,,don't make a fuss.
+Dialogue: 0,0:09:11.52,0:09:16.03,italics,Reiss; internal,0,0,0,,When his interest is piqued, he soon turns \Nto pursuing pleasure, living for the moment.
+Dialogue: 0,0:09:16.03,0:09:19.16,italics,Reiss; internal,0,0,0,,He's more of a beast than a man.
+Dialogue: 0,0:09:23.74,0:09:25.00,main,Roanna,0,0,0,,Photon Bullet!
+Dialogue: 0,0:09:26.31,0:09:28.08,main,Roanna,0,0,0,,We aren't finished here yet!
+Dialogue: 0,0:09:38.29,0:09:39.57,main,Roanna,0,0,0,,Photon Bullet!
+Dialogue: 0,0:09:41.01,0:09:44.27,main,Alphonse,0,0,0,,Huh? Did something just hit me?
+Dialogue: 0,0:09:45.29,0:09:46.50,main,Roanna,0,0,0,,Photon Bullet!
+Dialogue: 0,0:09:48.43,0:09:50.29,main,Roanna,0,0,0,,No damage at all?
+Dialogue: 0,0:09:50.29,0:09:51.89,main,Roanna,0,0,0,,Just how tough are they?
+Dialogue: 0,0:10:11.23,0:10:15.04,main,Sakata,0,0,0,,Oh, I'm angry now. Seriously angry.
+Dialogue: 0,0:10:15.52,0:10:16.92,main,Roanna,0,0,0,,Sir Hiroaki!
+Dialogue: 0,0:10:17.80,0:10:20.28,main,Sakata,0,0,0,,Hitting me with that dirty punch!
+Dialogue: 0,0:10:20.94,0:10:25.93,main,Alphonse,0,0,0,,You're tougher than I thought. \NI hit you with all my strength.
+Dialogue: 0,0:10:26.20,0:10:28.69,main,Sakata,0,0,0,,You cockroach.
+Dialogue: 0,0:10:29.08,0:10:30.40,main,Sakata,0,0,0,,You die now!
+Dialogue: 0,0:10:34.09,0:10:37.53,main,Sakata,0,0,0,,You're a piece of crap! \NAnd frikkin' annoying!
+Dialogue: 0,0:10:39.69,0:10:40.91,main,Alphonse,0,0,0,,What did you say?
+Dialogue: 0,0:10:41.20,0:10:43.16,main,Sakata,0,0,0,,You're next!
+Dialogue: 0,0:10:54.61,0:10:56.09,main,Sakata,0,0,0,,Roanna, get down!
+Dialogue: 0,0:11:15.32,0:11:16.77,main,Sakata,0,0,0,,I'll kill you!
+Dialogue: 0,0:11:19.30,0:11:20.20,main,Sakata,0,0,0,,Die!
+Dialogue: 0,0:11:28.79,0:11:31.96,sign_3238_18_Seirei_Gensouki,,0,0,0,,{\fs23\fad(502,1)\blur4\pos(511,277)}Spirit Chronicles {\c&H29FFF4&}2
+Dialogue: 0,0:11:35.25,0:11:37.59,main,Grace,0,0,0,,Please come this way.
+Dialogue: 0,0:11:37.59,0:11:38.51,main,Rio,0,0,0,,Of course.
+Dialogue: 0,0:11:46.98,0:11:47.87,main,Celia,0,0,0,,What is that?
+Dialogue: 0,0:11:48.47,0:11:49.49,main,Liselotte,0,0,0,,That's...
+Dialogue: 0,0:11:49.84,0:11:52.20,main,Liselotte,0,0,0,,That's the room the Hero \Nand the others are in!
+Dialogue: 0,0:12:11.19,0:12:12.43,main,Sakata,0,0,0,,Stop right there!
+Dialogue: 0,0:12:13.39,0:12:15.00,main,Reiss,0,0,0,,That's as far as you go.
+Dialogue: 0,0:12:16.34,0:12:22.11,main,Reiss,0,0,0,,It isn't likely, but we can't \Nhave you Awakening here, Hero.
+Dialogue: 0,0:12:22.47,0:12:24.45,main,Alphonse,0,0,0,,Y-You're...
+Dialogue: 0,0:12:24.45,0:12:30.10,main,Reiss,0,0,0,,You, go outside. There should be some \Ninteresting prey awaiting you there.
+Dialogue: 0,0:12:30.10,0:12:31.99,main,Alphonse,0,0,0,,A-All right.
+Dialogue: 0,0:12:33.53,0:12:37.19,italics,Reiss; internal,0,0,0,,As soon as it becomes excited,\Nit begins to play.
+Dialogue: 0,0:12:37.19,0:12:41.97,italics,Reiss; internal,0,0,0,,It is far from being a perfected work.\NA defective unit after all.
+Dialogue: 0,0:13:13.27,0:13:14.69,main,captain,0,0,0,,Hold them back!
+Dialogue: 0,0:13:36.41,0:13:37.87,main,Flora,0,0,0,,Let me go!
+Dialogue: 0,0:13:41.20,0:13:42.60,main,Rio,0,0,0,,Princess Flora!
+Dialogue: 0,0:13:50.23,0:13:51.51,main,Liselotte,0,0,0,,Princess Flora!
+Dialogue: 0,0:13:55.85,0:13:58.69,main,Lucius,0,0,0,,We'll be taking your princess!
+Dialogue: 0,0:14:00.03,0:14:03.07,main,Flora,0,0,0,,Oh! Roanna... and the Hero!
+Dialogue: 0,0:14:03.07,0:14:04.28,main,Flora,0,0,0,,Someone, please!
+Dialogue: 0,0:14:04.81,0:14:06.57,main,Lucius,0,0,0,,I'll cut them off.
+Dialogue: 0,0:14:11.59,0:14:12.67,italics,Rio; internal,0,0,0,,That voice...
+Dialogue: 0,0:14:28.80,0:14:30.97,main,Liselotte,0,0,0,,Catch that man!
+Dialogue: 0,0:14:30.97,0:14:31.78,main,soldiers,0,0,0,,Yes, my lady!
+Dialogue: 0,0:14:54.38,0:14:55.70,main,Grace,0,0,0,,Please, stay back!
+Dialogue: 0,0:14:57.07,0:14:59.16,main,Liselotte,0,0,0,,Aren't there more now than before?
+Dialogue: 0,0:15:05.14,0:15:06.15,main,Liselotte,0,0,0,,What?
+Dialogue: 0,0:15:17.70,0:15:19.10,main,Liselotte,0,0,0,,Everyone!
+Dialogue: 0,0:15:20.99,0:15:23.10,main,Grace,0,0,0,,Leave this to us.
+Dialogue: 0,0:15:23.35,0:15:25.56,main,Liselotte,0,0,0,,Protect the townspeople!
+Dialogue: 0,0:15:28.74,0:15:30.51,main,Liselotte,0,0,0,,What about Princess Flora?
+Dialogue: 0,0:15:36.95,0:15:38.65,main,Aishia,0,0,0,,Haruto, go.
+Dialogue: 0,0:15:39.69,0:15:41.05,main,Aishia,0,0,0,,You're worried, aren't you?
+Dialogue: 0,0:15:41.94,0:15:43.93,main,Celia,0,0,0,,Please help Princess Flora.
+Dialogue: 0,0:15:44.27,0:15:45.25,main,Rio,0,0,0,,But...
+Dialogue: 0,0:15:46.13,0:15:50.97,main,Aishia,0,0,0,,Right now... your expression \Nsays you're suffering a lot.
+Dialogue: 0,0:15:52.86,0:15:55.36,main,Celia,0,0,0,,Prioritize your own feelings right now.
+Dialogue: 0,0:15:55.71,0:15:57.51,main,Celia,0,0,0,,I'll be all right.
+Dialogue: 0,0:15:57.51,0:16:00.20,main,Celia,0,0,0,,This time, it's my turn to help you!
+Dialogue: 0,0:16:03.91,0:16:05.23,main,Celia,0,0,0,,Earth Prison!
+Dialogue: 0,0:16:16.53,0:16:17.93,main,Celia,0,0,0,,I told you, didn't I?
+Dialogue: 0,0:16:18.32,0:16:20.52,main,Celia,0,0,0,,I can fight too, you know!
+Dialogue: 0,0:16:21.39,0:16:23.02,main,Rio,0,0,0,,Thank you.
+Dialogue: 0,0:16:24.42,0:16:27.15,main,Rio,0,0,0,,Aishia, take care of things here.
+Dialogue: 0,0:16:27.48,0:16:28.35,main,Aishia,0,0,0,,Leave it to me.
+Dialogue: 0,0:16:29.64,0:16:34.20,main,Rio,0,0,0,,Lady Liselotte, I promise that I will \Nrescue Princess Flora and return.
+Dialogue: 0,0:16:34.51,0:16:35.93,main,Liselotte,0,0,0,,Please, I'm counting on you.
+Dialogue: 0,0:16:46.91,0:16:48.72,main,Liselotte,0,0,0,,Wh-What was that?
+Dialogue: 0,0:16:49.05,0:16:55.10,main,Aishia,0,0,0,,Cecilia, erect magic barriers to protect \Nthose people as well as yourself.
+Dialogue: 0,0:16:55.62,0:16:56.92,main,Celia,0,0,0,,All right.
+Dialogue: 0,0:16:56.92,0:16:59.63,main,Aishia,0,0,0,,I will go and reduce their numbers.
+Dialogue: 0,0:17:03.61,0:17:06.66,main,Celia,0,0,0,,Duodectet Magician, Magic Barrier!
+Dialogue: 0,0:17:21.82,0:17:24.53,italics,Liselotte; internal,0,0,0,,She covered areas in all \Ndirections with domes!
+Dialogue: 0,0:17:24.53,0:17:26.37,italics,Liselotte; internal,0,0,0,,And there are so many of them!
+Dialogue: 0,0:17:26.88,0:17:29.03,italics,Liselotte; internal,0,0,0,,Even court mages would \Nhave a difficult time...
+Dialogue: 0,0:17:31.62,0:17:35.06,main,Liselotte,0,0,0,,Will she be all right?
+Dialogue: 0,0:17:35.53,0:17:36.98,main,Liselotte,0,0,0,,She's unarmed, isn't she?
+Dialogue: 0,0:17:37.59,0:17:41.65,main,Celia,0,0,0,,She'll be all right.\NShe's just as strong as Haruto is.
+Dialogue: 0,0:17:41.65,0:17:43.26,main,Liselotte,0,0,0,,As strong as Sir Haruto?
+Dialogue: 0,0:17:43.26,0:17:45.27,main,Aishia,0,0,0,,Enchant Physical Ability!
+Dialogue: 0,0:18:02.04,0:18:03.14,main,Aishia,0,0,0,,Let me borrow that.
+Dialogue: 0,0:18:03.14,0:18:04.27,main,Chloe,0,0,0,,What?
+Dialogue: 0,0:18:04.72,0:18:06.37,main,Aishia,0,0,0,,That spear. Let me borrow it.
+Dialogue: 0,0:18:06.37,0:18:08.95,main,Liselotte,0,0,0,,Chloe, give it to her.
+Dialogue: 0,0:18:08.95,0:18:10.15,main,Chloe,0,0,0,,Y-Yes, my lady!
+Dialogue: 0,0:18:10.59,0:18:11.51,main,Chloe,0,0,0,,Here you are!
+Dialogue: 0,0:18:11.96,0:18:13.07,main,Aishia,0,0,0,,Thank you.
+Dialogue: 0,0:18:13.61,0:18:15.26,main,Aishia,0,0,0,,I'll handle the rest.
+Dialogue: 0,0:18:26.46,0:18:29.70,italics,Liselotte; internal,0,0,0,,Incredible. She really is \Nas strong as Sir Haruto.
+Dialogue: 0,0:18:30.31,0:18:33.67,italics,Liselotte; internal,0,0,0,,Just who are they really?
+Dialogue: 0,0:18:39.06,0:18:40.52,main,Liselotte,0,0,0,,Are you certain she's all right?
+Dialogue: 0,0:18:42.72,0:18:43.94,main,Celia,0,0,0,,Let's trust her.
+Dialogue: 0,0:18:52.03,0:18:52.86,main,Alphonse,0,0,0,,Huh?
+Dialogue: 0,0:18:53.67,0:18:57.36,main,Alphonse,0,0,0,,That woman... was there back then!
+Dialogue: 0,0:18:59.90,0:19:03.67,main,Alphonse,0,0,0,,Hey! Don't kill that woman!
+Dialogue: 0,0:19:04.56,0:19:07.01,main,Alphonse,0,0,0,,I will finish her.
+Dialogue: 0,0:19:07.01,0:19:08.91,main,Liselotte,0,0,0,,I-It's speaking?
+Dialogue: 0,0:19:09.71,0:19:10.92,main,Alphonse,0,0,0,,Go.
+Dialogue: 0,0:19:17.61,0:19:19.87,main,Alphonse,0,0,0,,Enough! I'll do it!
+Dialogue: 0,0:19:19.87,0:19:22.72,main,Alphonse,0,0,0,,All of you, go after that woman!
+Dialogue: 0,0:19:43.66,0:19:45.20,main,Celia,0,0,0,,Earth Prison!
+Dialogue: 0,0:20:04.30,0:20:09.60,main,Alphonse,0,0,0,,And now this... will be your end!
+Dialogue: 0,0:20:11.35,0:20:13.22,main,Alphonse,0,0,0,,Die!
+Dialogue: 0,0:20:27.58,0:20:28.98,main,Grace,0,0,0,,Miss Aishia!
+Dialogue: 0,0:20:36.03,0:20:37.93,main,Alphonse,0,0,0,,It... can't be.
+Dialogue: 0,0:20:55.45,0:20:56.42,main,Aishia,0,0,0,,You're in the way.
+Dialogue: 0,0:21:01.13,0:21:06.85,main,Alphonse,0,0,0,,Blast it! It can't be!
+Dialogue: 0,0:21:11.46,0:21:14.41,italics,Rio; internal,0,0,0,,There's no mistake. That was Lucius.
+Dialogue: 0,0:21:14.84,0:21:16.62,italics,Rio; internal,0,0,0,,I've been looking for him all this time.
+Dialogue: 0,0:21:17.21,0:21:17.98,italics,Rio; internal,0,0,0,,Where is he?
+Dialogue: 0,0:21:18.45,0:21:20.63,italics,Rio; internal,0,0,0,,There should be traces of the \Ndisturbance in the magical energy
+Dialogue: 0,0:21:20.63,0:21:22.33,italics,Rio; internal,0,0,0,,from his strengthening magic.
+Dialogue: 0,0:21:25.41,0:21:26.60,italics,Rio; internal,0,0,0,,I found him!
+Dialogue: 0,0:21:50.50,0:21:54.64,main,Lucius,0,0,0,,Who'd have imagined there'd be \Nanyone who could catch up to me?
+Dialogue: 0,0:21:54.64,0:21:55.52,main,Lucius,0,0,0,,So...
+Dialogue: 0,0:21:56.25,0:21:57.89,main,Lucius,0,0,0,,who are you?
+Dialogue: 0,0:22:06.01,0:22:10.01,sign_3238_18_Seirei_Gensouki,,0,0,0,,{\blur4\c&H7AFBFF&\fad(500,1)\an1\fs21\fsp1.5\pos(434.111,295.111)}Destined Enemy
+Dialogue: 0,0:23:39.98,0:23:44.98,sign_33925_315_Next_Time_Royal_,text; top line,0,0,0,,{\pos(320,120)\blur1.5\3c&HF489C7&\shad0}Next Time
+Dialogue: 0,0:23:39.98,0:23:44.98,sign_33925_315_Next_Time_Royal_,text; bottom line,0,0,0,,{\fs35\an8\pos(320,225)\blur1.5\3c&HF98DC4&\shad0\fsp2}Clash
+Dialogue: 0,0:23:40.93,0:23:42.09,main,Rio,0,0,0,,"Clash."
+Dialogue: 0,0:23:44.98,0:23:50.25,sign_3238_18_Seirei_Gensouki,text; top left,0,0,0,,{\fs23\blur4\an8\c&H29FFF4&\pos(137.333,74.222)}Spirit Chronicles 2
+Dialogue: 0,0:23:44.98,0:23:50.25,sign_TrebuchetMS,text; bottom left,0,0,0,,{\c&H000401&\bord0\shad0\pos(65,226)\frz10.73}Sir Hiroaki
+Dialogue: 0,0:23:44.98,0:23:50.25,sign_Georgia,text; bottom right,0,0,0,,{\an1\c&H000700&\bord2\shad2\4c&H838556&\fs11\3c&HFFFFFF&\3a&HAF&\pos(460,319.889)}Illustration: Minazuki Futago

@@ -1,0 +1,324 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,20,1
+Style: Ep_Title,Times New Roman,30,&H0008007C,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,80,1
+Style: Next_Episode,Trebuchet MS,21,&H00382B7E,&H000000FF,&H008280A1,&H00000000,-1,0,0,0,115,115,0,0,1,0,0,1,40,456,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.43,0:00:03.22,Main,CELINA,0,0,0,,We're back!
+Dialogue: 0,0:00:03.73,0:00:07.18,Main,DOLAN,0,0,0,,Let's put our stuff down\N and go report to the chief.
+Dialogue: 0,0:00:07.18,0:00:11.25,Main,CELINA,0,0,0,,Yes. There's so much \Nwe have to tell everyone.
+Dialogue: 0,0:00:52.74,0:00:53.62,Main,DOLAN,0,0,0,,Good.
+Dialogue: 0,0:00:53.62,0:00:55.50,Main,DOLAN,0,0,0,,They're growing well.
+Dialogue: 0,0:00:55.90,0:00:57.53,Main,CELINA,0,0,0,,Dolan!
+Dialogue: 0,0:01:01.75,0:01:03.88,Main,DOLAN,0,0,0,,Good morning, Celina.
+Dialogue: 0,0:02:35.34,0:02:40.01,Ep_Title,EPTITLE,0,0,0,,{\fad(700,0)}The People Saying Goodbye
+Dialogue: 0,0:02:41.23,0:02:46.20,Main,DOLAN,0,0,0,,All dragons trace their origins \Nback to a single dragon.
+Dialogue: 0,0:02:46.72,0:02:49.14,Main,DOLAN,0,0,0,,He was the progenitor dragon,
+Dialogue: 0,0:02:49.14,0:02:53.52,Main,DOLAN,0,0,0,,and his long life began when\N the world came into existence.
+Dialogue: 0,0:02:54.28,0:02:56.89,Main,DOLAN,0,0,0,,Eventually, the gods came to be,
+Dialogue: 0,0:02:56.89,0:03:00.96,Main,DOLAN,0,0,0,,and as they alternated between \Ndiscord and reconciliation...
+Dialogue: 0,0:03:01.40,0:03:06.04,Main,DOLAN,0,0,0,,The progenitor dragon came to \Nrealize that he was all alone.
+Dialogue: 0,0:03:06.86,0:03:13.84,Main,DOLAN,0,0,0,,Envious of the gods, he split his \Nbody apart and created new dragons.
+Dialogue: 0,0:03:15.11,0:03:19.00,Main,DOLAN,0,0,0,,From his tail, Hyperion the Destroyer.
+Dialogue: 0,0:03:19.61,0:03:23.26,Main,DOLAN,0,0,0,,From his wings, Vritra the Swift.
+Dialogue: 0,0:03:23.65,0:03:28.08,Main,DOLAN,0,0,0,,From his eyes, \NJormungand the All-Seeing.
+Dialogue: 0,0:03:28.40,0:03:32.27,Main,DOLAN,0,0,0,,From his fangs, Alexander the Piercer.
+Dialogue: 0,0:03:32.74,0:03:36.39,Main,DOLAN,0,0,0,,From his limbs, Leviathan the Eternal.
+Dialogue: 0,0:03:36.74,0:03:40.80,Main,DOLAN,0,0,0,,From his head, Bahamut the Free.
+Dialogue: 0,0:03:41.43,0:03:42.66,Main,DOLAN,0,0,0,,And...
+Dialogue: 0,0:03:44.01,0:03:50.04,Main,DOLAN,0,0,0,,From his heart and soul, which continued \Nto beat even after he tore himself apart,
+Dialogue: 0,0:03:50.04,0:03:54.68,Main,DOLAN,0,0,0,,one dragon that ruled \Nover them all was born.
+Dialogue: 0,0:03:54.68,0:03:57.78,Italics,DOLAN,0,0,0,,That would be me, in my past life.
+Dialogue: 0,0:03:58.21,0:03:59.81,Main,KIDS,0,0,0,,So cool...
+Dialogue: 0,0:04:00.16,0:04:02.29,Main,DOLAN,0,0,0,,We'll continue this tomorrow.
+Dialogue: 0,0:04:02.29,0:04:04.17,Main,KID1,0,0,0,,I like Bahamut!
+Dialogue: 0,0:04:04.17,0:04:06.30,Main,KID2,0,0,0,,Alexander for me!
+Dialogue: 0,0:04:07.80,0:04:12.30,Main,DIADORA,0,0,0,,Are you the resident \Nstoryteller for the kids?
+Dialogue: 0,0:04:12.30,0:04:16.95,Main,DOLAN,0,0,0,,At first, I was only telling my \Nlittle brother these stories,
+Dialogue: 0,0:04:16.95,0:04:20.44,Main,DOLAN,0,0,0,,but now, all the kids in the \Nvillage come to listen.
+Dialogue: 0,0:04:20.44,0:04:22.07,Main,FIO,0,0,0,,That was great.
+Dialogue: 0,0:04:22.07,0:04:25.01,Main,FIO,0,0,0,,It sounded almost like you've seen \Nthe dragons with your own eyes.
+Dialogue: 0,0:04:25.33,0:04:27.93,Main,DOLAN,0,0,0,,I'm glad you enjoyed it.
+Dialogue: 0,0:04:35.58,0:04:38.55,Main,CHRISTINA,0,0,0,,Things are really looking \Nup in this village.
+Dialogue: 0,0:04:38.90,0:04:43.05,Main,DOLAN,0,0,0,,All because the residents of the \NForest of Ente have started to visit.
+Dialogue: 0,0:04:43.53,0:04:48.09,Main,FIO,0,0,0,,We're all thankful to you for giving \Nthis opportunity to mingle and trade.
+Dialogue: 0,0:04:48.09,0:04:52.56,Main,DIADORA,0,0,0,,And you're our heroes for taking \Nout those Four Demonic Knights.
+Dialogue: 0,0:04:52.87,0:04:55.91,Main,DIADORA,0,0,0,,I don't blame the forest dwellers \Nfor wanting to come see you.
+Dialogue: 0,0:05:00.60,0:05:02.63,Main,ELF1,0,0,0,,Could you shake my hand?
+Dialogue: 0,0:05:02.63,0:05:04.70,Main,DOLAN,0,0,0,,Mm, sure thing.
+Dialogue: 0,0:05:04.70,0:05:06.75,Main,ELF2,0,0,0,,You're Christina, aren't you?
+Dialogue: 0,0:05:07.62,0:05:11.38,Main,DIADORA,0,0,0,,Sorry, she's talking to us right now.
+Dialogue: 0,0:05:15.41,0:05:20.09,Main,DIADORA,0,0,0,,Heh. You were the personification \Nof grace in combat,
+Dialogue: 0,0:05:20.09,0:05:22.30,Main,DIADORA,0,0,0,,but look at you now. How cute.
+Dialogue: 0,0:05:22.62,0:05:25.59,Main,CHRISTINA,0,0,0,,Are you making fun of me, Diadora?
+Dialogue: 0,0:05:25.85,0:05:29.47,Main,CELINA,0,0,0,,Whoa. You can stop teasing Chris now.
+Dialogue: 0,0:05:29.47,0:05:31.09,Main,DIADORA,0,0,0,,Yeah?
+Dialogue: 0,0:05:33.92,0:05:36.76,Main,DIADORA,0,0,0,,I know you're a powerful lamia,
+Dialogue: 0,0:05:36.76,0:05:39.74,Main,DIADORA,0,0,0,,but can you resist the \Nscent of my black roses?
+Dialogue: 0,0:05:39.74,0:05:43.19,Main,CELINA,0,0,0,,You smell amazing, Diadora.
+Dialogue: 0,0:05:43.97,0:05:47.69,Main,DOLAN,0,0,0,,What... exactly are you doing?
+Dialogue: 0,0:05:54.49,0:05:58.53,Main,CELINA,0,0,0,,Dolan, can we go hunting \Nwith Balan after this?
+Dialogue: 0,0:05:58.53,0:06:00.92,Main,CELINA,0,0,0,,Miu asked me to just before.
+Dialogue: 0,0:06:00.92,0:06:06.24,Main,DOLAN,0,0,0,,Sure. But if you're going, \NI'm not exactly needed, am I?
+Dialogue: 0,0:06:06.24,0:06:07.77,Main,CELINA,0,0,0,,What?!
+Dialogue: 0,0:06:09.34,0:06:10.34,Main,CELINA,0,0,0,,Oh.
+Dialogue: 0,0:06:10.97,0:06:14.29,Main,CELINA,0,0,0,,You just drank that milk, didn't you?
+Dialogue: 0,0:06:14.72,0:06:15.66,Main,DOLAN,0,0,0,,I did.
+Dialogue: 0,0:06:16.18,0:06:17.84,Main,DOLAN,0,0,0,,Wait...
+Dialogue: 0,0:06:18.09,0:06:21.80,Main,CELINA,0,0,0,,Exactly. Miu gave us that milk.
+Dialogue: 0,0:06:21.80,0:06:25.39,Main,CELINA,0,0,0,,You got paid for the job in advance!
+Dialogue: 0,0:06:25.39,0:06:27.95,Main,DIADORA,0,0,0,,Well, I suppose you'll have to go.
+Dialogue: 0,0:06:29.41,0:06:31.71,Main,DOLAN,0,0,0,,Very well. I'll go with you.
+Dialogue: 0,0:06:31.71,0:06:33.10,Main,CELINA,0,0,0,,Yay!
+Dialogue: 0,0:06:33.10,0:06:37.12,Main,DOLAN,0,0,0,,I'll have to be wary of the \Nthings you bring in the future.
+Dialogue: 0,0:06:37.90,0:06:41.03,Main,CELINA,0,0,0,,Don't be like that!
+Dialogue: 0,0:06:50.35,0:06:51.42,Main,CELINA,0,0,0,,Dolan.
+Dialogue: 0,0:06:51.88,0:06:55.00,Main,CELINA,0,0,0,,There's a den of armored bears up ahead.
+Dialogue: 0,0:06:55.00,0:06:55.93,Main,DOLAN,0,0,0,,Huh?
+Dialogue: 0,0:06:57.22,0:07:01.31,Main,CELINA,0,0,0,,I'll engage first! Jalaam!
+Dialogue: 0,0:07:04.00,0:07:05.69,Main,BALAN,0,0,0,,Now! Get 'em!
+Dialogue: 0,0:07:11.90,0:07:13.71,Main,DOLAN,0,0,0,,What are you doing?
+Dialogue: 0,0:07:14.02,0:07:17.29,Main,DOLAN,0,0,0,,These monsters haven't attacked anyone!
+Dialogue: 0,0:07:17.29,0:07:22.45,Main,DOLAN,0,0,0,,They've only just made it back home \Nwith the forest at peace now!
+Dialogue: 0,0:07:22.73,0:07:24.21,Main,BALAN,0,0,0,,Don't be stupid!
+Dialogue: 0,0:07:24.61,0:07:29.20,Main,BALAN,0,0,0,,Wherever they may live, \Nmonsters are a threat to people.
+Dialogue: 0,0:07:29.69,0:07:32.77,Main,BALAN,0,0,0,,What if that monster kills \Nsomeone in the village?
+Dialogue: 0,0:07:32.77,0:07:35.22,Main,BALAN,0,0,0,,How would you explain that to their family?!
+Dialogue: 0,0:07:37.49,0:07:38.46,Main,BALAN,0,0,0,,Keep going.
+Dialogue: 0,0:07:42.23,0:07:45.35,Main,DOLAN,0,0,0,,This is such meaningless killing...
+Dialogue: 0,0:07:45.35,0:07:46.73,Main,CELINA,0,0,0,,Dolan.
+Dialogue: 0,0:07:47.00,0:07:49.60,Main,CELINA,0,0,0,,No need to overthink it.
+Dialogue: 0,0:07:49.60,0:07:52.49,Main,CELINA,0,0,0,,They're harmful beasts, unlike me.
+Dialogue: 0,0:07:53.23,0:07:54.62,Main,DOLAN,0,0,0,,Celina?
+Dialogue: 0,0:08:01.24,0:08:03.16,Main,AIRI,0,0,0,,Dolan!
+Dialogue: 0,0:08:09.36,0:08:11.92,Main,AIRI,0,0,0,,Why are you checking on the fields?
+Dialogue: 0,0:08:12.15,0:08:13.99,Main,DOLAN,0,0,0,,Why, you ask?
+Dialogue: 0,0:08:13.99,0:08:16.93,Main,DOLAN,0,0,0,,I always check on the fields, don't I?
+Dialogue: 0,0:08:16.93,0:08:19.00,Main,AIRI,0,0,0,,Yeah, but...
+Dialogue: 0,0:08:19.00,0:08:23.18,Main,AIRI,0,0,0,,Why would you tend to these fields when \Nwe're abandoning the village anyway?
+Dialogue: 0,0:08:23.49,0:08:25.68,Main,DOLAN,0,0,0,,Huh? We're doing what?
+Dialogue: 0,0:08:26.06,0:08:31.43,Main,AIRI,0,0,0,,Oh, right. You wouldn't know \Nsince you were away so long.
+Dialogue: 0,0:08:32.03,0:08:33.73,Main,DOLAN,0,0,0,,What are you talking about?
+Dialogue: 0,0:08:33.73,0:08:36.25,Main,AIRI,0,0,0,,Old Maguru made the decision.
+Dialogue: 0,0:08:36.25,0:08:39.71,Main,DOLAN,0,0,0,,What? But where will we go \Nin these frontier lands?
+Dialogue: 0,0:08:39.71,0:08:44.96,Main,AIRI,0,0,0,,Dunno, but it seems we'll all be on our \Nown when it comes to finding new homes.
+Dialogue: 0,0:08:44.96,0:08:48.70,Main,DOLAN,0,0,0,,That's ridiculous! \NThere's no way that will work!
+Dialogue: 0,0:08:48.70,0:08:51.59,Main,AIRI,0,0,0,,Don't get so heated.
+Dialogue: 0,0:08:51.59,0:08:54.72,Main,AIRI,0,0,0,,The villagers have all come \Nto terms with it already.
+Dialogue: 0,0:08:54.72,0:09:00.22,Main,AIRI,0,0,0,,I hear Maguru and Balan are holding a \Nmeeting tonight to give us a rundown.
+Dialogue: 0,0:09:02.62,0:09:04.00,Italics,DOLAN,0,0,0,,This makes no sense!
+Dialogue: 0,0:09:04.00,0:09:06.63,Italics,DOLAN,0,0,0,,Why are we abandoning this village?!
+Dialogue: 0,0:09:09.20,0:09:11.48,Main,BALAN,0,0,0,,What's wrong? You look pale as a ghost.
+Dialogue: 0,0:09:11.48,0:09:14.98,Main,DOLAN,0,0,0,,Are you serious about \Nabandoning Verun Village?!
+Dialogue: 0,0:09:15.40,0:09:17.48,Main,CHIEF,0,0,0,,The decision has been made.
+Dialogue: 0,0:09:17.48,0:09:20.98,Main,DOLAN,0,0,0,,And I'm saying that the \Ndecision makes no sense!
+Dialogue: 0,0:09:22.61,0:09:27.55,Main,DOLAN,0,0,0,,There's no guarantee that everyone \Nhere will find new homes.
+Dialogue: 0,0:09:27.55,0:09:30.33,Main,DOLAN,0,0,0,,We might all be separated!
+Dialogue: 0,0:09:30.63,0:09:32.34,Main,DOLAN,0,0,0,,Are you okay with that?
+Dialogue: 0,0:09:32.66,0:09:36.50,Main,DOLAN,0,0,0,,All our years spent here have \Ngiven us knowledge, experience,
+Dialogue: 0,0:09:36.50,0:09:38.35,Main,DOLAN,0,0,0,,and most importantly, bonds to call our own!
+Dialogue: 0,0:09:38.99,0:09:41.15,Main,DOLAN,0,0,0,,We must not abandon these lands!
+Dialogue: 0,0:09:42.35,0:09:46.48,Main,CHIEF,0,0,0,,We cannot hope for further prosperity here.
+Dialogue: 0,0:09:46.48,0:09:48.62,Main,CHIEF,0,0,0,,And that is unacceptable.
+Dialogue: 0,0:09:48.98,0:09:52.35,Main,DOLAN,0,0,0,,I thought you all loved the village!
+Dialogue: 0,0:09:52.62,0:09:55.87,Main,MAGURU,0,0,0,,Perhaps you saw it that way, Dolan.
+Dialogue: 0,0:09:56.35,0:10:01.21,Main,MAGURU,0,0,0,,But we see things differently than you do.
+Dialogue: 0,0:10:02.22,0:10:04.62,Italics,DOLAN,0,0,0,,What does she mean?
+Dialogue: 0,0:10:04.94,0:10:09.53,Italics,DOLAN,0,0,0,,Was I the only one who loved this village?
+Dialogue: 0,0:10:15.00,0:10:16.91,Main,DOLAN,0,0,0,,Are you leaving already?
+Dialogue: 0,0:10:17.25,0:10:20.27,Main,VILLAGE1,0,0,0,,Yeah. We have a baby and all,
+Dialogue: 0,0:10:20.27,0:10:22.27,Main,VILLAGE1,0,0,0,,so the sooner the better.
+Dialogue: 0,0:10:29.71,0:10:32.82,Main,VILLAGE1,0,0,0,,Good bye, Dolan. Thanks for everything.
+Dialogue: 0,0:10:33.60,0:10:35.03,Main,DOLAN,0,0,0,,Farewell.
+Dialogue: 0,0:10:50.36,0:10:53.58,Main,MAGURU,0,0,0,,Is that the first grimoire I let you read?
+Dialogue: 0,0:10:53.58,0:10:54.91,Main,DOLAN,0,0,0,,Yes.
+Dialogue: 0,0:10:54.91,0:10:59.21,Main,MAGURU,0,0,0,,You can have it if you like. \NI have no need for it anymore.
+Dialogue: 0,0:11:00.55,0:11:02.81,Main,AIRI,0,0,0,,What will you do with it?
+Dialogue: 0,0:11:03.97,0:11:07.21,Main,DOLAN,0,0,0,,This book is very dear and memorable to me.
+Dialogue: 0,0:11:07.51,0:11:11.24,Main,AIRI,0,0,0,,Why are you staying back \Nin the village, anyway?
+Dialogue: 0,0:11:11.65,0:11:14.73,Main,DOLAN,0,0,0,,I don't want to let this place die.
+Dialogue: 0,0:11:14.73,0:11:16.97,Main,AIRI,0,0,0,,Even after it's empty?
+Dialogue: 0,0:11:17.66,0:11:20.43,Main,AIRI,0,0,0,,You really are a strange one.
+Dialogue: 0,0:11:24.49,0:11:25.82,Main,MARCO,0,0,0,,Big Bro!
+Dialogue: 0,0:11:28.50,0:11:31.84,Main,MARCO,0,0,0,,We're leaving today, too.
+Dialogue: 0,0:11:31.84,0:11:33.30,Main,DOLAN,0,0,0,,Oh...
+Dialogue: 0,0:11:33.30,0:11:35.72,Main,GORAON,0,0,0,,Are you really not coming with us?
+Dialogue: 0,0:11:37.28,0:11:41.20,Main,DOLAN,0,0,0,,I've decided to stay here, \Nand there's no changing that.
+Dialogue: 0,0:11:41.20,0:11:45.63,Main,ARSENA,0,0,0,,I suppose I've cooked my \Nlast meal for you, then.
+Dialogue: 0,0:11:46.38,0:11:49.77,Main,DOLAN,0,0,0,,Please write to me when you've \Nsettled down in your new home.
+Dialogue: 0,0:11:49.77,0:11:50.97,Main,DOLAN,0,0,0,,I'll come visit.
+Dialogue: 0,0:11:50.97,0:11:55.11,Main,ARSENA,0,0,0,,You say that, but we know you don't mean it.
+Dialogue: 0,0:11:55.36,0:11:56.92,Main,DOLAN,0,0,0,,Of course I do.
+Dialogue: 0,0:11:59.47,0:12:01.87,Main,ARSENA,0,0,0,,You're special, after all.
+Dialogue: 0,0:12:01.87,0:12:03.88,Main,ARSENA,0,0,0,,You'll be fine on your own.
+Dialogue: 0,0:12:15.75,0:12:19.76,Main,CHRISTINA,0,0,0,,You're sticking to your guns even \Nafter everyone else moved out, huh?
+Dialogue: 0,0:12:19.76,0:12:20.91,Main,DOLAN,0,0,0,,Chris?
+Dialogue: 0,0:12:20.91,0:12:24.75,Main,CHRISTINA,0,0,0,,You're the only one still unable \Nto let go. It's pathetic.
+Dialogue: 0,0:12:25.17,0:12:27.73,Main,DOLAN,0,0,0,,Why are you talking to me that way?
+Dialogue: 0,0:12:48.58,0:12:49.87,Main,CELINA,0,0,0,,Dolan!
+Dialogue: 0,0:12:50.42,0:12:52.37,Main,CELINA,0,0,0,,You seem tired.
+Dialogue: 0,0:12:53.08,0:12:55.92,Main,CELINA,0,0,0,,I just made some soup.
+Dialogue: 0,0:12:55.92,0:12:58.66,Main,CELINA,0,0,0,,I was about to take it to you.
+Dialogue: 0,0:12:58.66,0:13:00.09,Main,CELINA,0,0,0,,Will you have some?
+Dialogue: 0,0:13:00.96,0:13:03.37,Main,DOLAN,0,0,0,,I will, thank you.
+Dialogue: 0,0:13:06.38,0:13:09.09,Main,CELINA,0,0,0,,I used Miu's milk for it.
+Dialogue: 0,0:13:09.89,0:13:14.21,Main,CELINA,0,0,0,,It's probably not as good \Nas what you made for me,
+Dialogue: 0,0:13:19.87,0:13:22.23,Main,CELINA,0,0,0,,but I hope it will make you feel better.
+Dialogue: 0,0:13:23.54,0:13:24.76,Main,DOLAN,0,0,0,,Thank you.
+Dialogue: 0,0:13:28.73,0:13:31.83,Main,CELINA,0,0,0,,That's the last of Miu's milk.
+Dialogue: 0,0:13:31.83,0:13:35.13,Main,DOLAN,0,0,0,,Oh... I'm going to miss it.
+Dialogue: 0,0:13:38.53,0:13:40.01,Main,CELINA,0,0,0,,Are you okay?
+Dialogue: 0,0:13:41.30,0:13:42.80,Main,DOLAN,0,0,0,,I'm fine.
+Dialogue: 0,0:13:43.45,0:13:44.93,Main,DOLAN,0,0,0,,By the way...
+Dialogue: 0,0:13:44.93,0:13:47.92,Main,DOLAN,0,0,0,,Your shelves look awfully empty.
+Dialogue: 0,0:13:48.35,0:13:50.36,Main,CELINA,0,0,0,,Dolan, the thing is...
+Dialogue: 0,0:13:54.11,0:13:55.07,Main,CELINA,0,0,0,,Is that...
+Dialogue: 0,0:13:55.07,0:13:56.94,Main,CELINA,0,0,0,,your home?!
+Dialogue: 0,0:14:06.20,0:14:07.33,Main,CELINA,0,0,0,,Chris!
+Dialogue: 0,0:14:07.33,0:14:08.91,Main,CELINA,0,0,0,,You're not safe there!
+Dialogue: 0,0:14:10.09,0:14:14.71,Main,CHRISTINA,0,0,0,,I'll be fine. \NI'm just watching the place burn.
+Dialogue: 0,0:14:15.11,0:14:18.80,Main,DOLAN,0,0,0,,Don't tell me... \NDid you set fire to my home?
+Dialogue: 0,0:14:19.19,0:14:22.97,Main,CHRISTINA,0,0,0,,Yes, I did. And everyone helped.
+Dialogue: 0,0:14:25.79,0:14:28.77,Main,CHRISTINA,0,0,0,,You're only attached to this \Nplace because you have a home.
+Dialogue: 0,0:14:28.77,0:14:30.83,Main,CHRISTINA,0,0,0,,So I made it go away.
+Dialogue: 0,0:14:31.09,0:14:35.22,Main,DOLAN,0,0,0,,Home or no home, \NI'm not leaving this village!
+Dialogue: 0,0:14:35.95,0:14:38.34,Main,CHRISTINA,0,0,0,,Oh, that's right.
+Dialogue: 0,0:14:42.99,0:14:46.77,Main,CHRISTINA,0,0,0,,These fields are important to you, too.
+Dialogue: 0,0:14:49.53,0:14:50.61,Main,DOLAN,0,0,0,,Don't!
+Dialogue: 0,0:14:50.61,0:14:52.11,Main,DOLAN,0,0,0,,What's gotten into you?!
+Dialogue: 0,0:14:52.85,0:14:56.87,Main,CHRISTINA,0,0,0,,These fields won't be needed\N once you leave the village.
+Dialogue: 0,0:14:57.50,0:14:58.81,Main,DOLAN,0,0,0,,Chris...
+Dialogue: 0,0:14:59.46,0:15:01.35,Main,DOLAN,0,0,0,,Celina, help me talk sense into her!
+Dialogue: 0,0:15:01.35,0:15:03.24,Main,CELINA,0,0,0,,I'm sorry, Dolan.
+Dialogue: 0,0:15:03.54,0:15:04.63,Main,DOLAN,0,0,0,,Huh?
+Dialogue: 0,0:15:05.72,0:15:06.90,Main,DOLAN,0,0,0,,No way...
+Dialogue: 0,0:15:06.90,0:15:10.54,Main,CELINA,0,0,0,,Yeah, I'm leaving the village, too.
+Dialogue: 0,0:15:10.54,0:15:12.83,Main,CELINA,0,0,0,,Thank you for everything.
+Dialogue: 0,0:15:13.39,0:15:18.64,Main,DOLAN,0,0,0,,Why? We fought so hard so \Nthat you could live here!
+Dialogue: 0,0:15:21.38,0:15:25.21,Main,DOLAN,0,0,0,,And together, we can deal with \Nany monsters that appear!
+Dialogue: 0,0:15:25.21,0:15:26.65,Main,CELINA,0,0,0,,Yes, but...
+Dialogue: 0,0:15:27.00,0:15:28.80,Main,DOLAN,0,0,0,,Please, stay here with me!
+Dialogue: 0,0:15:28.80,0:15:30.84,Main,CHRISTINA,0,0,0,,Enough of your pathetic wailing.
+Dialogue: 0,0:15:31.27,0:15:36.01,Main,CHRISTINA,0,0,0,,Get it through your thick skull. \NNobody wants to live with you.
+Dialogue: 0,0:15:39.12,0:15:43.07,Main,CHRISTINA,0,0,0,,Your little human act has too many cracks.
+Dialogue: 0,0:15:43.07,0:15:46.09,Main,CHRISTINA,0,0,0,,Everyone knows what you are.
+Dialogue: 0,0:15:46.75,0:15:48.29,Main,DOLAN,0,0,0,,No...
+Dialogue: 0,0:15:48.29,0:15:51.22,Main,CHRISTINA,0,0,0,,You must be aware of the negative effects
+Dialogue: 0,0:15:51.22,0:15:54.58,Main,CHRISTINA,0,0,0,,that contact with a being like \Nyou can have on people's lives.
+Dialogue: 0,0:15:58.02,0:15:59.96,Italics,DOLAN,0,0,0,,Why?
+Dialogue: 0,0:16:00.39,0:16:02.10,Italics,DOLAN,0,0,0,,Where did I go wrong?
+Dialogue: 0,0:16:13.70,0:16:19.51,Italics,DOLAN,0,0,0,,For sixteen years, I thought I'd \Ndone my best to help the village.
+Dialogue: 0,0:16:20.03,0:16:25.27,Italics,DOLAN,0,0,0,,And yet, the rift had grown so \Nwide without my realizing it?
+Dialogue: 0,0:16:25.94,0:16:31.28,Main,KALAVITH,0,0,0,,"Help" them? \NAwfully condescending, aren't we?
+Dialogue: 0,0:16:31.28,0:16:32.91,Main,KALAVITH,0,0,0,,Who do you think you are?
+Dialogue: 0,0:16:32.91,0:16:37.80,Italics,DOLAN,0,0,0,,All I did was show my family \Nand fellow villagers my love.
+Dialogue: 0,0:16:38.96,0:16:43.17,Main,KALAVITH,0,0,0,,Well, that love was one-sided and lopsided.
+Dialogue: 0,0:16:43.17,0:16:45.22,Main,KALAVITH,0,0,0,,You were merely caressing your ego.
+Dialogue: 0,0:16:45.22,0:16:48.37,Main,KALAVITH,0,0,0,,You may want to live life as a human,
+Dialogue: 0,0:16:48.37,0:16:51.99,Main,KALAVITH,0,0,0,,but did you stop to think that the \Nhumans may not be so accepting of you?
+Dialogue: 0,0:16:52.27,0:16:54.65,Italics,DOLAN,0,0,0,,That can't be.
+Dialogue: 0,0:16:54.65,0:16:56.14,Main,KALAVITH,0,0,0,,I know the truth.
+Dialogue: 0,0:16:56.14,0:17:00.49,Main,KALAVITH,0,0,0,,You used your friend to say \Ngood bye to your past life.
+Dialogue: 0,0:17:00.49,0:17:04.67,Main,KALAVITH,0,0,0,,Your feelings have always been \None-sided, and always will be.
+Dialogue: 0,0:17:04.67,0:17:08.74,Main,KALAVITH,0,0,0,,Aw, you poor thing. \NYou will forever be all alone.
+Dialogue: 0,0:17:21.05,0:17:24.90,Main,DOLAN,0,0,0,,Is this the volcano I used to live in?
+Dialogue: 0,0:17:27.17,0:17:28.40,Main,DOLAN,0,0,0,,It's gone.
+Dialogue: 0,0:17:29.78,0:17:33.56,Main,DOLAN,0,0,0,,The wound the hero gave me is gone, too?
+Dialogue: 0,0:17:34.54,0:17:38.14,Main,DOLAN,0,0,0,,Was it all... just a dream?
+Dialogue: 0,0:17:39.61,0:17:45.66,Main,DOLAN,0,0,0,,Was my human life of \Nsixteen years all a dream?
+Dialogue: 0,0:17:47.29,0:17:51.52,Main,DOLAN,0,0,0,,Are the people I loved no longer beside me?
+Dialogue: 0,0:17:53.51,0:17:56.54,Main,KALAVITH,0,0,0,,That's right. It was all a dream.
+Dialogue: 0,0:17:57.03,0:18:00.84,Main,DOLAN,0,0,0,,No, no...
+Dialogue: 0,0:18:01.29,0:18:03.49,Main,KALAVITH,0,0,0,,You're no human.
+Dialogue: 0,0:18:03.49,0:18:07.59,Main,KALAVITH,0,0,0,,You're meant to be the protector \Nof all mankind, all life.
+Dialogue: 0,0:18:07.59,0:18:11.33,Main,KALAVITH,0,0,0,,That is your job, and it is who you are.
+Dialogue: 0,0:18:11.65,0:18:16.57,Main,DOLAN,0,0,0,,It can't be. I... \NI just wanted to be human.
+Dialogue: 0,0:18:16.57,0:18:19.90,Main,KALAVITH,0,0,0,,It's time to go back to who you really are.
+Dialogue: 0,0:18:19.90,0:18:21.76,Main,DOLAN,0,0,0,,No...
+Dialogue: 0,0:18:21.76,0:18:25.08,Main,CELINA,0,0,0,,Wow, that's one big dragon.
+Dialogue: 0,0:18:25.08,0:18:25.81,Main,KALAVITH,0,0,0,,Huh?
+Dialogue: 0,0:18:26.34,0:18:28.69,Main,CELINA,0,0,0,,This is my first time seeing a dragon,
+Dialogue: 0,0:18:28.69,0:18:31.77,Main,CELINA,0,0,0,,but for some reason, \NI feel like it resembles Dolan.
+Dialogue: 0,0:18:31.77,0:18:33.83,Main,CELINA,0,0,0,,This really must be a dream.
+Dialogue: 0,0:18:33.83,0:18:35.70,Main,KALAVITH,0,0,0,,How did you get in here?
+Dialogue: 0,0:18:35.70,0:18:37.98,Main,KALAVITH,0,0,0,,Wait, stop right there!
+Dialogue: 0,0:18:37.98,0:18:39.22,Main,DOLAN,0,0,0,,Celina?
+Dialogue: 0,0:18:39.22,0:18:42.47,Main,CELINA,0,0,0,,That tone of voice... I knew it!
+Dialogue: 0,0:18:57.89,0:19:00.83,Main,CELINA,0,0,0,,Dragon... You really are Dolan.
+Dialogue: 0,0:19:01.50,0:19:04.99,Main,DOLAN,0,0,0,,Celina? How are you here?
+Dialogue: 0,0:19:05.36,0:19:11.44,Main,CELINA,0,0,0,,Hm... I went to sleep hoping to see \Nyou first thing in the morning,
+Dialogue: 0,0:19:11.44,0:19:13.66,Main,CELINA,0,0,0,,and for some reason I was here.
+Dialogue: 0,0:19:14.85,0:19:18.08,Main,DOLAN,0,0,0,,You know who I am?
+Dialogue: 0,0:19:19.60,0:19:21.85,Main,CELINA,0,0,0,,Of course I do.
+Dialogue: 0,0:19:21.85,0:19:25.73,Main,CELINA,0,0,0,,You're Dolan of Verun Village, \Nand when we first met,
+Dialogue: 0,0:19:25.73,0:19:28.76,Main,CELINA,0,0,0,,we appeased an earth elemental together.
+Dialogue: 0,0:19:29.50,0:19:34.91,Main,CELINA,0,0,0,,Then we had soup and came up with \Na plan so I could live in Verun.
+Dialogue: 0,0:19:36.22,0:19:41.47,Main,CELINA,0,0,0,,Verun Village welcomed me with\N warmth and love, thanks to you.
+Dialogue: 0,0:19:42.27,0:19:45.83,Main,CELINA,0,0,0,,Whenever I was afraid, you were \Nthere to give me strength.
+Dialogue: 0,0:19:46.95,0:19:50.76,Main,CELINA,0,0,0,,Whenever I was in danger, \Nyou and Chris protected me.
+Dialogue: 0,0:19:54.82,0:19:59.92,Main,CELINA,0,0,0,,Then we went to the elven village\N and met Gio and the other villagers.
+Dialogue: 0,0:20:03.86,0:20:07.52,Main,CELINA,0,0,0,,We defeated those strong demons and \Nhad a wild adventure together.
+Dialogue: 0,0:20:11.00,0:20:15.84,Main,CELINA,0,0,0,,You are the strong and kind, \Nyet so very fragile,
+Dialogue: 0,0:20:16.49,0:20:18.57,Main,CELINA,0,0,0,,Dolan of Verun Village.
+Dialogue: 0,0:20:20.94,0:20:22.23,Main,CELINA,0,0,0,,Am I right?
+Dialogue: 0,0:20:30.67,0:20:34.04,Main,CELINA,0,0,0,,Dolan, over here.
+Dialogue: 0,0:20:40.33,0:20:42.88,Main,CELINA,0,0,0,,One, two... and there!
+Dialogue: 0,0:20:45.25,0:20:47.29,Main,CELINA,0,0,0,,You're so big, Dolan!
+Dialogue: 0,0:20:47.29,0:20:51.23,Main,DOLAN,0,0,0,,C-Celina? I hope you didn't fall off.
+Dialogue: 0,0:20:51.23,0:20:53.24,Main,CELINA,0,0,0,,You're right here.
+Dialogue: 0,0:20:53.99,0:20:57.10,Main,CELINA,0,0,0,,You found me when I was all by my lonesome.
+Dialogue: 0,0:20:58.35,0:21:02.05,Main,CELINA,0,0,0,,Thank you for coming into my life.
+Dialogue: 0,0:21:03.24,0:21:07.16,Main,DOLAN,0,0,0,,I should be the one thanking you, Celina.
+Dialogue: 0,0:21:08.06,0:21:11.68,Main,DOLAN,0,0,0,,Thank you for coming into my life.
+Dialogue: 0,0:21:14.08,0:21:16.96,Main,DOLAN,0,0,0,,You're not safe up there. Come over here.
+Dialogue: 0,0:21:21.62,0:21:23.67,Main,CELINA,0,0,0,,Wh-What did I just do?!
+Dialogue: 0,0:21:23.67,0:21:27.07,Main,CELINA,0,0,0,,Gah! I didn't say anything weird, did I?
+Dialogue: 0,0:21:27.07,0:21:31.60,Main,DOLAN,0,0,0,,I couldn't say. I heard it all, though.
+Dialogue: 0,0:21:31.60,0:21:35.12,Main,CELINA,0,0,0,,You're mean in all the same ways, too.
+Dialogue: 0,0:21:37.07,0:21:41.86,Main,CELINA,0,0,0,,That's weird. I'm starting to feel sleepy, \Neven though I'm already dreaming.
+Dialogue: 0,0:21:41.86,0:21:47.36,Main,DOLAN,0,0,0,,Don't worry. \NWhen you wake up, it will be morning.
+Dialogue: 0,0:21:47.68,0:21:52.62,Main,CELINA,0,0,0,,Right. I'll go see you \Ntomorrow morning, then.
+Dialogue: 0,0:21:52.62,0:21:55.60,Main,CELINA,0,0,0,,Good night until then, Dolan.
+Dialogue: 0,0:21:56.38,0:21:58.09,Main,DOLAN,0,0,0,,Good night.
+Dialogue: 0,0:22:04.86,0:22:08.10,Main,DOLAN,0,0,0,,Now, sorry I kept you waiting.
+Dialogue: 0,0:22:08.90,0:22:11.39,Main,KALAVITH,0,0,0,,No fair, Celina.
+Dialogue: 0,0:22:11.39,0:22:13.86,Main,KALAVITH,0,0,0,,She turned everything upside down.
+Dialogue: 0,0:22:13.86,0:22:17.39,Main,DOLAN,0,0,0,,Yes. I'm proud to call her my friend.
+Dialogue: 0,0:22:17.85,0:22:21.33,Main,DOLAN,0,0,0,,So, what do you want?
+Dialogue: 0,0:22:21.33,0:22:24.36,Main,DOLAN,0,0,0,,You can't call this a friendly \Nvisit to an old friend,
+Dialogue: 0,0:22:24.36,0:22:27.48,Main,DOLAN,0,0,0,,the world's most prominent fallen deity,
+Dialogue: 0,0:22:27.92,0:22:33.23,Main,DOLAN,0,0,0,,the goddess of destruction and \Noblivion and my greatest foe,
+Dialogue: 0,0:22:33.91,0:22:35.88,Main,DOLAN,0,0,0,,Al la Kalavith.
+Dialogue: 0,0:22:36.24,0:22:41.33,Main,DOLAN,0,0,0,,If you've shown me this nightmare, \Nare you once again...
+Dialogue: 0,0:22:42.04,0:22:45.22,Main,KALAVITH,0,0,0,,Exactly. Glad you're quick on the uptake.
+Dialogue: 0,0:22:45.22,0:22:48.55,Main,KALAVITH,0,0,0,,I've come all the way to kill you, Dolly.
+Dialogue: 0,0:23:54.99,0:24:00.00,Next_Episode,SIGN,0,0,0,,Next Episode
+Dialogue: 0,0:24:04.98,0:24:07.83,Main,AIRI,0,0,0,,This week's lucky item is grimoire!
+Dialogue: 0,0:24:07.83,0:24:09.78,Main,AIRI,0,0,0,,Look forward to next time!

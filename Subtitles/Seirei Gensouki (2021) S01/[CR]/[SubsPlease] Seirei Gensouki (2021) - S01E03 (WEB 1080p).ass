@@ -1,0 +1,411 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: sign_3238_18_Seirei_Gensouki,Trebuchet MS,40,&H00FAFFFF,&H000000FF,&H00E6B519,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,20,1
+Style: sign_5011_20_The_Kingdom_of_B,Arial,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+Style: sign_5131_21_Memories_of_the_,Trebuchet MS,10,&H00FFFFFC,&H000000FF,&H0040AB29,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+Style: sign_33925_315_Next_Time_Royal_,Trebuchet MS,15,&H00FAFFFF,&H000000FF,&H00CBB281,&H00BDB85F,0,0,0,0,100,100,0,0,1,2,1,2,30,30,20,1
+Style: sign_34045_321_Exciting_Bonus_M,Trebuchet MS,37,&H00C28D31,&H000000FF,&H00EAEAEA,&H00000000,-1,0,0,0,100,100,0,0,3,4,0,1,10,242,20,1
+Style: sign_34045_320_Spirit_Chronicle,Trebuchet MS,25,&H00DEEEEB,&H000000FF,&H00B98B31,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,30,30,20,1
+Style: sign_34045_323_By_Minazuki_Futa,Comic Sans MS,20,&H003A3A3A,&H000000FF,&H00EBEBEB,&H00000000,0,0,0,0,100,100,0,0,3,1,0,1,30,30,20,1
+Style: sign_34045_319_I_had_a_dream_th,Trebuchet MS,24,&H00141414,&H000000FF,&H00EBEBEB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+Style: sign_34127_328_Ha_ha,Verdana,20,&H00282828,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_34212_329_Meow,Verdana,40,&H00EAEAEA,&H000000FF,&H00181818,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:18.57,0:00:20.55,main,Celia,0,0,0,,These plans for after graduation...
+Dialogue: 0,0:00:21.03,0:00:23.50,main,Celia,0,0,0,,Rio's the only one who didn't write anything.
+Dialogue: 0,0:00:24.06,0:00:26.34,flashback,Celia,0,0,0,,Where is it that you want to go, Rio?
+Dialogue: 0,0:00:26.34,0:00:29.50,flashback,Rio,0,0,0,,My parents' homeland, the Yagumo region.
+Dialogue: 0,0:00:49.02,0:00:52.19,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\pos(345,125)\blur4\fad(897,1)}Seirei Gensouki
+Dialogue: 0,0:00:49.02,0:00:52.19,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\pos(345,125)\blur4\c&H7AFBFF&\clip(217,107,471,123)\fad(897,1)}Seirei Gensouki
+Dialogue: 0,0:02:02.97,0:02:07.99,sign_5131_21_Memories_of_the_,text,0,0,0,,{\pos(125,295)\blur3\fad(505,905)}Kingdom of Lies
+Dialogue: 0,0:02:02.97,0:02:07.99,sign_5131_21_Memories_of_the_,text,0,0,0,,{\pos(125,295)\blur3\fad(505,905)\c&H87FFF1&\fad(505,905)\clip(84,293,165,297)}Kingdom of Lies
+Dialogue: 0,0:02:05.98,0:02:07.99,main,Celia,0,0,0,,As you already know,
+Dialogue: 0,0:02:07.99,0:02:10.94,main,Celia,0,0,0,,magic uses formulae designed \Nto control magical power.
+Dialogue: 0,0:02:11.66,0:02:15.26,main,Celia,0,0,0,,By pouring od through them, this craft \Nmeddles with matters of the world.
+Dialogue: 0,0:02:15.97,0:02:19.46,main,Celia,0,0,0,,Today, the fifth and \Nsixth-years will use Lighting
+Dialogue: 0,0:02:19.46,0:02:22.29,main,Celia,0,0,0,,to deepen their understanding \Nof controlling magical power.
+Dialogue: 0,0:02:22.29,0:02:23.70,main,Alphonse,0,0,0,,Lighting?
+Dialogue: 0,0:02:23.70,0:02:28.92,main,Alphonse,0,0,0,,Professor! Anyone in this room should \Nbe able to use low-level magic like—
+Dialogue: 0,0:02:29.45,0:02:30.21,main,Alphonse,0,0,0,,No, wait.
+Dialogue: 0,0:02:30.70,0:02:33.13,main,Alphonse,0,0,0,,There is one person who can't use it.
+Dialogue: 0,0:02:33.13,0:02:34.69,main,Stewart,0,0,0,,Yes, there is!
+Dialogue: 0,0:02:34.69,0:02:37.70,main,Stewart,0,0,0,,A lecture intended for those \Nwith poor magic control...
+Dialogue: 0,0:02:37.70,0:02:39.68,main,Stewart,0,0,0,,Isn't it a little late for all of that?
+Dialogue: 0,0:02:46.12,0:02:47.11,main,Celia,0,0,0,,I see.
+Dialogue: 0,0:02:47.11,0:02:50.31,main,Celia,0,0,0,,Well then, will you two \Ntry using Lighting for me?
+Dialogue: 0,0:02:50.85,0:02:51.55,main,Alphonse,0,0,0,,Yes, Miss!
+Dialogue: 0,0:02:53.34,0:02:54.52,main,Alphonse; Stewart,0,0,0,,Lighting!
+Dialogue: 0,0:02:59.07,0:03:02.57,main,Celia,0,0,0,,At that level, I can't say \Nyou've mastered it yet.
+Dialogue: 0,0:03:03.74,0:03:05.47,main,Stewart,0,0,0,,What do you mean?
+Dialogue: 0,0:03:05.47,0:03:09.58,main,Celia,0,0,0,,Being able to cast a covenant formula \Ndepends on a person's affinity.
+Dialogue: 0,0:03:10.28,0:03:13.08,main,Celia,0,0,0,,It's not the same as being \Nskillful in magical control.
+Dialogue: 0,0:03:17.07,0:03:20.79,main,Celia,0,0,0,,Even without the use of magic, \Nwith the existence of artifacts,
+Dialogue: 0,0:03:20.79,0:03:23.71,main,Celia,0,0,0,,there are those who can use multiple \Nmagical techniques simultaneously.
+Dialogue: 0,0:03:24.30,0:03:25.39,main,Celia,0,0,0,,Like this.
+Dialogue: 0,0:03:26.54,0:03:27.90,main,Celia,0,0,0,,Dectet Magician.
+Dialogue: 0,0:03:29.31,0:03:30.23,main,Celia,0,0,0,,Lighting.
+Dialogue: 0,0:03:37.37,0:03:39.20,main,students,0,0,0,,That's amazing!
+Dialogue: 0,0:03:39.20,0:03:41.96,main,students,0,0,0,,One person can control that \Nmany Lightings at once?!
+Dialogue: 0,0:03:52.33,0:03:56.92,italics,Rio,0,0,0,,It's true that I can't cast magical \Ncovenant formulae like they can.
+Dialogue: 0,0:03:56.92,0:03:58.26,italics,Rio,0,0,0,,But...
+Dialogue: 0,0:03:58.26,0:04:00.41,italics,Rio,0,0,0,,by imitating the flow of magical power,
+Dialogue: 0,0:04:00.41,0:04:03.05,italics,Rio,0,0,0,,for some reason I'm able to \Nreproduce magical techniques.
+Dialogue: 0,0:04:06.97,0:04:07.68,main,Celia,0,0,0,,All right!
+Dialogue: 0,0:04:07.68,0:04:11.52,main,Celia,0,0,0,,Now, let's begin our lecture \Non magical control!
+Dialogue: 0,0:04:18.99,0:04:20.94,main,Stewart,0,0,0,,Just what I'd expect from you,\N Professor Celia!
+Dialogue: 0,0:04:20.94,0:04:23.16,main,Stewart,0,0,0,,I found that so moving!
+Dialogue: 0,0:04:24.44,0:04:26.04,main,Celia,0,0,0,,Why, thank you.
+Dialogue: 0,0:04:26.04,0:04:27.49,main,Stewart,0,0,0,,Hey, commoner.
+Dialogue: 0,0:04:27.88,0:04:31.70,main,Stewart,0,0,0,,It seems you've been seducing \Nthe female students of late.
+Dialogue: 0,0:04:32.51,0:04:34.12,main,Rio,0,0,0,,What do you mean?
+Dialogue: 0,0:04:34.12,0:04:35.83,main,Stewart,0,0,0,,Don't flatter yourself.
+Dialogue: 0,0:04:35.83,0:04:38.74,main,Stewart,0,0,0,,Your win in the tournament \Nwas simply a fluke.
+Dialogue: 0,0:04:40.32,0:04:42.21,main,Rio,0,0,0,,I understand completely.
+Dialogue: 0,0:04:42.21,0:04:44.40,main,Stewart,0,0,0,,Then stop trying to push yourself forward.
+Dialogue: 0,0:04:44.40,0:04:46.97,main,Celia,0,0,0,,Stewart, stop that, now.
+Dialogue: 0,0:04:46.97,0:04:49.10,main,Celia,0,0,0,,You're of the nobility, aren't you?
+Dialogue: 0,0:04:49.10,0:04:52.47,main,Celia,0,0,0,,You shouldn't lay criticism \Nwithout definite evidence.
+Dialogue: 0,0:04:52.47,0:04:56.48,main,Stewart,0,0,0,,B-But... this brat even \Ntries flirting with you!
+Dialogue: 0,0:04:56.48,0:04:58.98,main,Celia,0,0,0,,Nothing of that sort has ever happened.
+Dialogue: 0,0:05:02.06,0:05:03.60,main,Stewart,0,0,0,,Hey, commoner.
+Dialogue: 0,0:05:03.60,0:05:06.42,main,Stewart,0,0,0,,If you try anything foolish \Nduring the outdoor practicum,
+Dialogue: 0,0:05:06.42,0:05:09.16,main,Stewart,0,0,0,,the house of Duke Huguenot\N will not stay silent!
+Dialogue: 0,0:05:13.99,0:05:15.13,main,Flora,0,0,0,,Sir Rio...
+Dialogue: 0,0:05:15.87,0:05:16.91,main,Christina,0,0,0,,Flora?
+Dialogue: 0,0:05:18.62,0:05:19.43,main,Flora,0,0,0,,It's just...
+Dialogue: 0,0:05:19.92,0:05:23.30,main,Flora,0,0,0,,That was clearly a false accusation, wasn't it?
+Dialogue: 0,0:05:23.30,0:05:24.30,main,Christina,0,0,0,,Yes.
+Dialogue: 0,0:05:24.72,0:05:28.54,main,Christina,0,0,0,,But not getting involved \Nis best for all of us.
+Dialogue: 0,0:05:28.99,0:05:31.06,main,Christina,0,0,0,,I'm sure he understands that, too.
+Dialogue: 0,0:05:31.06,0:05:32.48,main,Flora,0,0,0,,Oh, but...
+Dialogue: 0,0:05:33.29,0:05:36.01,italics,Flora,0,0,0,,He is always taking care of \Nthings on his own like that.
+Dialogue: 0,0:05:36.53,0:05:39.56,italics,Flora,0,0,0,,And I still haven't been able \Nto do anything to repay him.
+Dialogue: 0,0:05:46.64,0:05:49.66,main,Flora,0,0,0,,This is where our outdoor practicum \Nis being held, isn't it?
+Dialogue: 0,0:05:49.66,0:05:50.42,main,Christina,0,0,0,,Yes.
+Dialogue: 0,0:05:51.03,0:05:54.70,main,Christina,0,0,0,,They're going to test how well we've \Nlearned military exercises at the academy.
+Dialogue: 0,0:05:54.70,0:05:56.94,main,Flora,0,0,0,,I'm a little nervous.
+Dialogue: 0,0:05:56.94,0:05:58.94,main,Roanna,0,0,0,,There is no need to worry.
+Dialogue: 0,0:05:58.94,0:06:02.80,main,Roanna,0,0,0,,It's a team competition, and all the most \Ndangerous monsters have been culled.
+Dialogue: 0,0:06:02.80,0:06:05.92,main,Alphonse,0,0,0,,Now, I will tell you the details \Nof the practicum from the notice.
+Dialogue: 0,0:06:06.70,0:06:09.70,main,Alphonse,0,0,0,,In order to withdraw from \Na battle zone, our units
+Dialogue: 0,0:06:09.70,0:06:13.43,main,Alphonse,0,0,0,,will travel the shortest course through \Nthis mountain forest and aim for the goal.
+Dialogue: 0,0:06:13.78,0:06:16.50,main,Alphonse,0,0,0,,The operation lasts until sunset.
+Dialogue: 0,0:06:16.50,0:06:20.69,main,Alphonse,0,0,0,,Good results here will have a tremendous \Nimpact on all of our grades.
+Dialogue: 0,0:06:20.69,0:06:24.37,main,Alphonse,0,0,0,,My friends, let's reach the \Ngoal by this afternoon!
+Dialogue: 0,0:06:24.37,0:06:25.69,main,boys,0,0,0,,Yeah!
+Dialogue: 0,0:06:25.69,0:06:27.69,main,Roanna,0,0,0,,Won't that be impossible?
+Dialogue: 0,0:06:27.69,0:06:30.08,main,Roanna,0,0,0,,This is a wooded, mountainous area.
+Dialogue: 0,0:06:30.08,0:06:32.87,main,Roanna,0,0,0,,It will take twice as \Nlong to travel anywhere.
+Dialogue: 0,0:06:32.87,0:06:34.93,main,Alphonse,0,0,0,,Not to worry.
+Dialogue: 0,0:06:34.93,0:06:37.87,main,Alphonse,0,0,0,,I've already got a special course in mind.
+Dialogue: 0,0:06:37.87,0:06:39.71,main,Roanna,0,0,0,,What do you mean?
+Dialogue: 0,0:06:39.71,0:06:42.14,main,Stewart,0,0,0,,The soldiers who serve in my home region
+Dialogue: 0,0:06:42.14,0:06:45.14,main,Stewart,0,0,0,,just happened to be quite knowledgeable \Nabout the geography of this area.
+Dialogue: 0,0:06:45.72,0:06:49.30,main,Stewart,0,0,0,,I had them tell me about all the animal \Npaths that can be used as shortcuts.
+Dialogue: 0,0:06:49.30,0:06:51.59,main,Stewart,0,0,0,,Then I passed it on to our upperclassmen.
+Dialogue: 0,0:06:52.75,0:06:56.06,main,Roanna,0,0,0,,It feels like cheating. I don't like it.
+Dialogue: 0,0:06:56.51,0:07:01.49,main,Alphonse,0,0,0,,To say that information controls \Neverything in war is no exaggeration.
+Dialogue: 0,0:07:01.49,0:07:05.52,main,Alphonse,0,0,0,,We're practically guaranteed \Na good result here.
+Dialogue: 0,0:07:06.14,0:07:08.74,main,Alphonse,0,0,0,,What do you think, Princess Christina?
+Dialogue: 0,0:07:11.16,0:07:12.29,main,Christina,0,0,0,,I'll leave it to you.
+Dialogue: 0,0:07:12.78,0:07:15.24,main,Christina,0,0,0,,After all, you are the \Ncommander of this unit.
+Dialogue: 0,0:07:15.70,0:07:17.44,main,Alphonse,0,0,0,,Thank you.
+Dialogue: 0,0:07:17.44,0:07:19.24,main,Alphonse,0,0,0,,Then, let's move out!
+Dialogue: 0,0:07:19.24,0:07:20.25,main,students,0,0,0,,Yeah!
+Dialogue: 0,0:07:20.25,0:07:21.90,main,Stewart,0,0,0,,Hey, commoner.
+Dialogue: 0,0:07:21.90,0:07:23.42,main,Stewart,0,0,0,,Consider yourself honored.
+Dialogue: 0,0:07:23.87,0:07:26.53,main,Stewart,0,0,0,,You're a hindrance who can't even use magic,
+Dialogue: 0,0:07:26.53,0:07:28.76,main,Stewart,0,0,0,,but we've prepared a job\N that even you can do.
+Dialogue: 0,0:07:28.76,0:07:30.73,main,Stewart,0,0,0,,This is everyone's luggage.
+Dialogue: 0,0:07:30.73,0:07:32.76,main,Stewart,0,0,0,,Carry it and follow us.
+Dialogue: 0,0:07:33.53,0:07:34.87,main,Rio,0,0,0,,Understood.
+Dialogue: 0,0:07:35.47,0:07:38.43,main,Stewart,0,0,0,,Don't you dare do anything uncalled for.
+Dialogue: 0,0:07:41.05,0:07:42.14,main,Flora,0,0,0,,Excuse me.
+Dialogue: 0,0:07:42.73,0:07:43.81,main,Flora,0,0,0,,Um...
+Dialogue: 0,0:07:44.59,0:07:46.94,main,Flora,0,0,0,,Shall I carry a little of that?
+Dialogue: 0,0:07:46.94,0:07:47.82,main,Rio,0,0,0,,What?
+Dialogue: 0,0:07:48.53,0:07:50.56,main,Rio,0,0,0,,No, I'm fine.
+Dialogue: 0,0:07:50.56,0:07:53.16,main,Rio,0,0,0,,Thank you for your concern.
+Dialogue: 0,0:08:03.51,0:08:05.56,main,Flora,0,0,0,,This just isn't right.
+Dialogue: 0,0:08:05.56,0:08:07.58,main,Flora,0,0,0,,Why is it only Sir Rio \Nwho must endure such...
+Dialogue: 0,0:08:07.58,0:08:08.50,main,student 1,0,0,0,,Monsters!
+Dialogue: 0,0:08:16.80,0:08:19.15,main,Alphonse,0,0,0,,Don't panic, everyone! They're goblins!
+Dialogue: 0,0:08:19.96,0:08:22.82,main,Alphonse,0,0,0,,The three in the vanguard should use \Nartifacts to boost their physical abilities.
+Dialogue: 0,0:08:22.82,0:08:23.90,main,Alphonse,0,0,0,,Charge!
+Dialogue: 0,0:08:23.90,0:08:26.81,main,vanguard,0,0,0,,Enchant Physical Ability!
+Dialogue: 0,0:08:39.24,0:08:43.55,main,Stewart,0,0,0,,They were nothing much. \NWe need more formidable monsters.
+Dialogue: 0,0:08:43.55,0:08:46.73,main,Alphonse,0,0,0,,Just as I'd expect from you, Stewart.\NYou're so reliable.
+Dialogue: 0,0:08:46.73,0:08:48.29,main,Alphonse,0,0,0,,By way of contrast...
+Dialogue: 0,0:08:49.09,0:08:50.25,main,Alphonse,0,0,0,,Hey, Rio!
+Dialogue: 0,0:08:50.25,0:08:51.84,main,Alphonse,0,0,0,,Don't just stand there in a daze!
+Dialogue: 0,0:08:53.17,0:08:54.84,main,Rio,0,0,0,,My apologies.
+Dialogue: 0,0:08:58.67,0:09:02.81,main,Reiss,0,0,0,,That was much too close. To think anyone \Nwould notice at this distance...
+Dialogue: 0,0:09:02.81,0:09:05.23,main,Reiss,0,0,0,,What an impossible child.
+Dialogue: 0,0:09:09.34,0:09:14.19,main,Reiss,0,0,0,,Shall we test him a little and\N see what his true capabilities are?
+Dialogue: 0,0:09:15.39,0:09:16.70,main,Alphonse,0,0,0,,We're out of the forest!
+Dialogue: 0,0:09:16.70,0:09:18.66,main,Alphonse,0,0,0,,The goal is close!
+Dialogue: 0,0:09:18.99,0:09:22.57,main,students,0,0,0,,All right! Hooray!
+Dialogue: 0,0:09:25.17,0:09:26.13,main,student 1,0,0,0,,A cliff?
+Dialogue: 0,0:09:26.54,0:09:27.76,main,Stewart,0,0,0,,It can't be!
+Dialogue: 0,0:09:27.76,0:09:28.95,main,Christina,0,0,0,,What's going on?
+Dialogue: 0,0:09:29.51,0:09:31.86,main,student 1,0,0,0,,Maybe his information was wrong?
+Dialogue: 0,0:09:31.86,0:09:34.30,main,student 2,0,0,0,,What are we going to do? \NGo back the way we came?
+Dialogue: 0,0:09:34.30,0:09:36.33,main,student 2,0,0,0,,We'd lose a lot of time.
+Dialogue: 0,0:09:38.71,0:09:39.64,main,Christina,0,0,0,,Commander.
+Dialogue: 0,0:09:40.19,0:09:41.51,main,Alphonse,0,0,0,,Y-Yes?
+Dialogue: 0,0:09:41.91,0:09:44.30,main,Christina,0,0,0,,Where do we head next?
+Dialogue: 0,0:09:44.30,0:09:46.71,main,Christina,0,0,0,,The path seems to come to an end here.
+Dialogue: 0,0:09:47.22,0:09:49.56,main,Alphonse,0,0,0,,Well... That's...
+Dialogue: 0,0:09:54.65,0:09:56.45,main,Roanna,0,0,0,,Th-There are orcs!
+Dialogue: 0,0:09:56.45,0:09:58.66,main,Roanna,0,0,0,,Everyone! Defenses!
+Dialogue: 0,0:10:00.12,0:10:01.76,main,Alphonse,0,0,0,,V-Vanguard!
+Dialogue: 0,0:10:01.76,0:10:03.66,main,Alphonse,0,0,0,,Raise shields and block the spears!
+Dialogue: 0,0:10:06.87,0:10:10.75,main,Stewart,0,0,0,,Ow! It hurts! It hurts!
+Dialogue: 0,0:10:10.75,0:10:11.70,main,Stewart,0,0,0,,Help me...
+Dialogue: 0,0:10:11.70,0:10:12.88,main,student 1,0,0,0,,Stop it!
+Dialogue: 0,0:10:20.43,0:10:21.42,main,Christina,0,0,0,,Flora!
+Dialogue: 0,0:10:46.24,0:10:47.40,main,Flora,0,0,0,,Sir Rio?
+Dialogue: 0,0:10:48.78,0:10:49.72,main,Christina,0,0,0,,Flora!
+Dialogue: 0,0:10:51.32,0:10:54.59,main,Roanna,0,0,0,,We need to focus on exterminating \Nthe monsters first!
+Dialogue: 0,0:10:54.59,0:10:56.59,main,Alphonse,0,0,0,,D-Defend!
+Dialogue: 0,0:10:56.91,0:10:59.19,main,Alphonse,0,0,0,,Vanguard, raise shields and form a wall.
+Dialogue: 0,0:10:59.19,0:11:02.17,main,Alphonse,0,0,0,,Rear guard, use attack magic \Nto lay down a barrage!
+Dialogue: 0,0:11:02.17,0:11:04.32,main,Alphonse,0,0,0,,Roanna, tend to the injured!
+Dialogue: 0,0:11:08.81,0:11:10.14,main,Elise,0,0,0,,Blitz Shot!
+Dialogue: 0,0:11:16.73,0:11:18.74,main,Christina,0,0,0,,Blitz Shot!
+Dialogue: 0,0:11:27.49,0:11:29.21,main,Christina,0,0,0,,Blitz Shot!
+Dialogue: 0,0:11:39.51,0:11:42.23,italics,Rio,0,0,0,,I wonder if falling from there without \Na single injury will make them
+Dialogue: 0,0:11:42.23,0:11:43.76,italics,Rio,0,0,0,,suspicious of me.
+Dialogue: 0,0:11:45.26,0:11:47.14,italics,Rio,0,0,0,,I saved her without thinking about it.
+Dialogue: 0,0:11:55.31,0:11:57.26,italics,Rio,0,0,0,,It isn't magic or magical techniques.
+Dialogue: 0,0:11:57.77,0:12:01.99,italics,Rio,0,0,0,,Even now, I don't know what \Nthis power actually is...
+Dialogue: 0,0:12:04.90,0:12:06.33,italics,Rio,0,0,0,,Or anything about that girl.
+Dialogue: 0,0:12:06.33,0:12:07.53,main,Stewart,0,0,0,,You can't be serious!
+Dialogue: 0,0:12:07.53,0:12:10.33,main,Stewart,0,0,0,,You say I pushed \NPrincess Flora off the cliff?!
+Dialogue: 0,0:12:10.33,0:12:12.79,main,Elise,0,0,0,,No, I wouldn't go so far as that.
+Dialogue: 0,0:12:12.79,0:12:17.77,main,Elise,0,0,0,,It's just that Alphonse asked me if anyone \Nmight have bumped into Princess Flora.
+Dialogue: 0,0:12:17.77,0:12:20.03,main,Stewart,0,0,0,,I was pushed, too!
+Dialogue: 0,0:12:20.03,0:12:21.63,main,Stewart,0,0,0,,I am a victim here!
+Dialogue: 0,0:12:21.63,0:12:23.58,main,Stewart,0,0,0,,Someone else is responsible!
+Dialogue: 0,0:12:23.58,0:12:25.93,main,Roanna,0,0,0,,Getting overexcited isn't \Ngood for your wounds.
+Dialogue: 0,0:12:25.93,0:12:27.97,main,Roanna,0,0,0,,And after I treated them for you, too.
+Dialogue: 0,0:12:27.97,0:12:30.30,main,Alphonse,0,0,0,,Stewart, please, calm down.
+Dialogue: 0,0:12:30.83,0:12:33.56,main,Alphonse,0,0,0,,I'm simply trying to understand \Nthe circumstances.
+Dialogue: 0,0:12:33.56,0:12:36.78,main,Stewart,0,0,0,,Th-That's right! I've just remembered.
+Dialogue: 0,0:12:37.26,0:12:40.45,main,Stewart,0,0,0,,It's that commoner who's responsible!
+Dialogue: 0,0:12:40.45,0:12:41.30,main,Christina,0,0,0,,Did you just...
+Dialogue: 0,0:12:41.73,0:12:42.53,main,Stewart,0,0,0,,Yes.
+Dialogue: 0,0:12:42.53,0:12:46.69,main,Stewart,0,0,0,,In that moment, the coward was so \Nfrightened of the monsters' attack that,
+Dialogue: 0,0:12:46.69,0:12:49.64,main,Stewart,0,0,0,,though I am injured, he pushed \Nme with all his might!
+Dialogue: 0,0:12:49.64,0:12:53.90,main,Stewart,0,0,0,,Because of that, I could not avoid \Ncolliding with Princess Flora!
+Dialogue: 0,0:12:53.90,0:12:57.65,main,Alphonse,0,0,0,,So, fearful of committing the crime of \Nkilling a member of the royal family,
+Dialogue: 0,0:12:57.65,0:13:00.03,main,Alphonse,0,0,0,,that man may have saved\N Princess Flora in his desperation,
+Dialogue: 0,0:13:00.03,0:13:03.05,main,Alphonse,0,0,0,,but in return, he fell from the cliff himself?
+Dialogue: 0,0:13:03.40,0:13:05.68,main,Flora,0,0,0,,Th-That can't be what happened!
+Dialogue: 0,0:13:06.08,0:13:09.39,main,Flora,0,0,0,,Sir Rio was simply trying \Nhis hardest to save me!
+Dialogue: 0,0:13:10.11,0:13:12.08,italics,Rio,0,0,0,,This has gotten problematic.
+Dialogue: 0,0:13:12.51,0:13:13.89,italics,Rio,0,0,0,,What should I do?
+Dialogue: 0,0:13:13.89,0:13:17.22,main,Stewart,0,0,0,,He's the one responsible. \NRight, my upperclassmen?
+Dialogue: 0,0:13:17.22,0:13:18.90,main,student 1,0,0,0,,Y-Yes.
+Dialogue: 0,0:13:18.90,0:13:21.98,main,Christina,0,0,0,,Is this really the time to \Nbe looking for a culprit?
+Dialogue: 0,0:13:21.98,0:13:22.86,main,Christina,0,0,0,,Commander!
+Dialogue: 0,0:13:22.86,0:13:26.37,main,Alphonse,0,0,0,,Th-Then, as Her Highness\N the Princess is safe,
+Dialogue: 0,0:13:26.37,0:13:28.66,main,Alphonse,0,0,0,,let's find a way out of the forest!
+Dialogue: 0,0:13:30.02,0:13:33.08,italics,Rio,0,0,0,,I had planned to graduate \Nfrom the academy, but...
+Dialogue: 0,0:13:34.64,0:13:35.91,main,Flora,0,0,0,,Please, wait!
+Dialogue: 0,0:13:36.40,0:13:38.67,main,Flora,0,0,0,,Are you saying we're \Ngoing to abandon Sir Rio?
+Dialogue: 0,0:13:38.67,0:13:42.00,main,Alphonse,0,0,0,,That fall was just him \Ngetting what he deserves.
+Dialogue: 0,0:13:42.00,0:13:43.85,main,Flora,0,0,0,,Getting what he deserves?
+Dialogue: 0,0:13:43.85,0:13:47.68,main,Flora,0,0,0,,Then my nearly falling was \Nme getting what I deserved.
+Dialogue: 0,0:13:48.03,0:13:51.18,main,Flora,0,0,0,,I am going to go help Sir Rio, \Neven if I have to go alone!
+Dialogue: 0,0:13:52.50,0:13:53.59,main,Roanna,0,0,0,,You mustn't!
+Dialogue: 0,0:13:53.59,0:13:56.04,main,Roanna,0,0,0,,What are you saying, Princess Flora?
+Dialogue: 0,0:13:56.04,0:13:57.88,main,Christina,0,0,0,,Flora, calm down.
+Dialogue: 0,0:13:57.88,0:14:01.19,main,Christina,0,0,0,,As soon as this practicum is over, \Nwe'll send out a search party!
+Dialogue: 0,0:14:21.71,0:14:23.50,main,Stewart,0,0,0,,Why is a monster like that...
+Dialogue: 0,0:14:23.89,0:14:26.78,main,Christina,0,0,0,,Why are you just standing there?\N We'll be killed!
+Dialogue: 0,0:14:27.72,0:14:29.51,main,Christina,0,0,0,,Thunder Ball!
+Dialogue: 0,0:14:36.43,0:14:37.43,main,Christina,0,0,0,,Wha—
+Dialogue: 0,0:14:39.61,0:14:42.73,main,Alphonse,0,0,0,,If Thunder Ball doesn't work, \Nwe need to use Ice Lance!
+Dialogue: 0,0:14:43.43,0:14:45.80,main,Alphonse,0,0,0,,Vanguard, increase your physical abilities!
+Dialogue: 0,0:14:46.33,0:14:47.74,main,Roanna; Christina; Flora,0,0,0,,Ice Lance!
+Dialogue: 0,0:14:49.29,0:14:51.74,main,vanguard,0,0,0,,Enchant Physical Ability!
+Dialogue: 0,0:15:04.04,0:15:05.05,main,Alphonse,0,0,0,,Re...
+Dialogue: 0,0:15:05.05,0:15:06.44,main,Alphonse,0,0,0,,Retreat!
+Dialogue: 0,0:15:06.44,0:15:08.28,main,Alphonse,0,0,0,,Run!
+Dialogue: 0,0:15:09.66,0:15:12.55,main,Roanna,0,0,0,,Princess Christina! \NPlease get a hold of yourself!
+Dialogue: 0,0:15:12.55,0:15:13.54,main,Christina,0,0,0,,Of course...
+Dialogue: 0,0:15:13.54,0:15:14.74,main,Christina,0,0,0,,Where is Flora?
+Dialogue: 0,0:15:15.50,0:15:17.78,main,Roanna,0,0,0,,I believe she has already escaped.
+Dialogue: 0,0:15:17.78,0:15:19.29,main,Roanna,0,0,0,,We should hurry as well.
+Dialogue: 0,0:15:24.43,0:15:25.73,main,Flora,0,0,0,,Are you all right?
+Dialogue: 0,0:15:42.12,0:15:44.26,main,Flora,0,0,0,,No!
+Dialogue: 0,0:15:48.27,0:15:50.55,main,Rio,0,0,0,,Please, take him and get away from here!
+Dialogue: 0,0:15:50.87,0:15:51.70,main,Flora,0,0,0,,Sir Rio!
+Dialogue: 0,0:15:51.70,0:15:52.76,main,Rio,0,0,0,,Hurry!
+Dialogue: 0,0:15:52.76,0:15:54.01,main,Flora,0,0,0,,Right!
+Dialogue: 0,0:15:54.01,0:15:55.11,main,Rio,0,0,0,,This way!
+Dialogue: 0,0:15:55.80,0:15:57.01,main,Rio,0,0,0,,Come on!
+Dialogue: 0,0:16:06.89,0:16:07.69,italics,Rio,0,0,0,,He's tough.
+Dialogue: 0,0:16:07.69,0:16:08.86,italics,Rio,0,0,0,,And...
+Dialogue: 0,0:16:08.86,0:16:09.61,italics,Rio,0,0,0,,He's fast!
+Dialogue: 0,0:16:11.05,0:16:12.95,italics,Rio,0,0,0,,I can't die here.
+Dialogue: 0,0:16:12.95,0:16:15.91,italics,Rio,0,0,0,,So why did I come back to save her?
+Dialogue: 0,0:16:20.36,0:16:21.29,main,Flora,0,0,0,,He's amazing!
+Dialogue: 0,0:16:48.90,0:16:49.44,italics,Rio,0,0,0,,Now.
+Dialogue: 0,0:17:07.50,0:17:09.08,main,Rio,0,0,0,,Why was that monster—
+Dialogue: 0,0:17:09.08,0:17:10.30,main,Roanna,0,0,0,,Princess Flora!
+Dialogue: 0,0:17:10.30,0:17:12.80,main,girls,0,0,0,,Princess Flora, are you hurt?
+Dialogue: 0,0:17:12.80,0:17:15.58,main,girls,0,0,0,,No. I'm s-so sorry!
+Dialogue: 0,0:17:21.26,0:17:25.88,italics,Reiss,0,0,0,,My. I got to witness something even \Nmore entertaining than I'd expected.
+Dialogue: 0,0:17:25.88,0:17:27.39,italics,Reiss,0,0,0,,That black hair...
+Dialogue: 0,0:17:27.39,0:17:31.15,italics,Reiss,0,0,0,,Is he the offspring of people who drifted \Nhere from the Yagumo region, I wonder?
+Dialogue: 0,0:17:31.15,0:17:35.02,italics,Reiss,0,0,0,,If so, I can see why he'd be \Nable to use the spirit arts.
+Dialogue: 0,0:17:35.53,0:17:37.77,italics,Reiss,0,0,0,,What a worrisome child.
+Dialogue: 0,0:17:41.74,0:17:43.08,main,Celia,0,0,0,,Honestly!
+Dialogue: 0,0:17:43.08,0:17:46.87,main,Celia,0,0,0,,The Head of the Academy\N is such a taskmaster!
+Dialogue: 0,0:17:46.87,0:17:49.99,main,Celia,0,0,0,,You could just do the \Nresearch yourself, you know!
+Dialogue: 0,0:17:49.99,0:17:53.00,main,Celia,0,0,0,,And these materials on monsters are so old...
+Dialogue: 0,0:17:54.76,0:17:57.13,main,Garcia,0,0,0,,And so, that commoner...
+Dialogue: 0,0:17:57.54,0:18:00.18,main,Garcia,0,0,0,,Rio has gone missing.
+Dialogue: 0,0:18:02.59,0:18:07.39,main,Garcia,0,0,0,,But Princess Flora is \Nadvocating for this... Rio.
+Dialogue: 0,0:18:07.39,0:18:09.17,main,Duke Huguenot,0,0,0,,Lord Garcia,
+Dialogue: 0,0:18:09.17,0:18:12.93,main,Duke Huguenot,0,0,0,,if the standing of the \NHouse of Huguenot is put at risk,
+Dialogue: 0,0:18:12.93,0:18:15.90,main,Duke Huguenot,0,0,0,,it will only embolden \Nthe house of Duke Arbor.
+Dialogue: 0,0:18:16.65,0:18:18.84,main,Duke Huguenot,0,0,0,,That would be bad for the kingdom,\N would it not?
+Dialogue: 0,0:18:20.94,0:18:24.43,italics,Garcia,0,0,0,,The royal family has become weak.
+Dialogue: 0,0:18:24.86,0:18:27.00,main,Garcia,0,0,0,,It's maddening!
+Dialogue: 0,0:18:27.00,0:18:31.66,main,Garcia,0,0,0,,Now that things have come to this, I suppose\N we have no choice but to blame the boy.
+Dialogue: 0,0:18:32.88,0:18:34.93,main,Garcia,0,0,0,,I'll leave the rest to you,
+Dialogue: 0,0:18:34.93,0:18:36.77,main,Garcia,0,0,0,,Duke Huguenot.
+Dialogue: 0,0:18:36.77,0:18:38.22,main,Duke Huguenot,0,0,0,,Understood.
+Dialogue: 0,0:18:38.22,0:18:40.68,main,Duke Huguenot,0,0,0,,Please leave the matter to me hereafter.
+Dialogue: 0,0:18:44.99,0:18:45.78,italics,Celia,0,0,0,,Rio...
+Dialogue: 0,0:18:46.19,0:18:48.01,italics,Celia,0,0,0,,What could have happened?
+Dialogue: 0,0:18:57.23,0:18:58.03,main,Celia,0,0,0,,Who's there?
+Dialogue: 0,0:18:59.45,0:19:00.80,main,Rio,0,0,0,,It's Rio.
+Dialogue: 0,0:19:00.80,0:19:02.53,main,Rio,0,0,0,,I'm sorry for causing such a commotion.
+Dialogue: 0,0:19:06.72,0:19:08.71,main,Rio,0,0,0,,P-Professor...
+Dialogue: 0,0:19:09.39,0:19:11.21,main,Celia,0,0,0,,I was really worried!
+Dialogue: 0,0:19:11.63,0:19:12.96,main,Rio,0,0,0,,I'm sorry.
+Dialogue: 0,0:19:12.96,0:19:15.54,main,Celia,0,0,0,,Are you hurt? Are you all right?
+Dialogue: 0,0:19:15.54,0:19:17.45,main,Rio,0,0,0,,That tickles!
+Dialogue: 0,0:19:21.28,0:19:25.22,main,Celia,0,0,0,,That's horrible. What are they thinking? \NThey're laying a false charge!
+Dialogue: 0,0:19:25.95,0:19:27.90,main,Celia,0,0,0,,Rio, you haven't done anything wrong!
+Dialogue: 0,0:19:29.33,0:19:32.70,main,Rio,0,0,0,,It's the people in power who \Ndecide what's wrong or not.
+Dialogue: 0,0:19:32.70,0:19:36.73,main,Rio,0,0,0,,Even if I appealed with the truth, \Nno one would acknowledge it.
+Dialogue: 0,0:19:37.27,0:19:39.32,main,Rio,0,0,0,,It's because I'm not of the nobility.
+Dialogue: 0,0:19:42.24,0:19:43.47,main,Celia,0,0,0,,I'm sorry.
+Dialogue: 0,0:19:43.47,0:19:47.74,main,Celia,0,0,0,,The truth is, I wish I could do \Nsomething about this for you, but...
+Dialogue: 0,0:19:48.29,0:19:50.14,main,Rio,0,0,0,,Please, don't apologize.
+Dialogue: 0,0:19:50.14,0:19:51.88,main,Rio,0,0,0,,Everything is thanks to you, Professor.
+Dialogue: 0,0:19:52.46,0:19:54.25,main,Rio,0,0,0,,It's thanks to you
+Dialogue: 0,0:19:54.75,0:19:57.75,main,Rio,0,0,0,,that I've been able to come this far \Nwithout crumbling and going bad.
+Dialogue: 0,0:19:58.81,0:20:00.65,main,Rio,0,0,0,,I'm glad I was able to meet you, Professor.
+Dialogue: 0,0:20:01.31,0:20:03.26,main,Rio,0,0,0,,I truly mean that.
+Dialogue: 0,0:20:04.66,0:20:05.83,main,Celia,0,0,0,,Rio...
+Dialogue: 0,0:20:05.83,0:20:09.27,main,Rio,0,0,0,,That's why you were the one person \NI wanted to say goodbye to, Professor.
+Dialogue: 0,0:20:09.66,0:20:11.80,main,Celia,0,0,0,,You're going to the Yagumo region, aren't you?
+Dialogue: 0,0:20:12.81,0:20:13.77,main,Rio,0,0,0,,Yes.
+Dialogue: 0,0:20:14.39,0:20:15.17,main,Celia,0,0,0,,I see.
+Dialogue: 0,0:20:17.55,0:20:20.22,main,Celia,0,0,0,,I wanted to see you graduate, but...
+Dialogue: 0,0:20:21.28,0:20:24.18,main,Rio,0,0,0,,I'll write you letters along the way.
+Dialogue: 0,0:20:24.18,0:20:25.80,main,Rio,0,0,0,,Though I'll be using an alias.
+Dialogue: 0,0:20:26.22,0:20:28.51,main,Celia,0,0,0,,All right. What name will you use?
+Dialogue: 0,0:20:31.29,0:20:32.29,main,Rio,0,0,0,,Haruto.
+Dialogue: 0,0:20:32.88,0:20:33.80,main,Celia,0,0,0,,Haruto...
+Dialogue: 0,0:20:35.45,0:20:36.38,main,Celia,0,0,0,,Haruto.
+Dialogue: 0,0:20:37.38,0:20:39.38,main,Rio,0,0,0,,Well then, I should be going.
+Dialogue: 0,0:20:40.01,0:20:41.46,main,Celia,0,0,0,,I'll see you again, won't I?
+Dialogue: 0,0:20:42.16,0:20:44.55,main,Rio,0,0,0,,Yes. I'm sure we'll meet again.
+Dialogue: 0,0:20:46.76,0:20:49.56,main,Celia,0,0,0,,For certain, absolutely certain, understand?
+Dialogue: 0,0:20:50.19,0:20:51.01,main,Celia,0,0,0,,Stay safe...
+Dialogue: 0,0:20:51.77,0:20:53.81,main,Celia,0,0,0,,until you return... all right?
+Dialogue: 0,0:21:02.71,0:21:03.99,main,Celia,0,0,0,,Have a safe trip!
+Dialogue: 0,0:21:04.40,0:21:06.15,main,Rio,0,0,0,,I will! I'm off!
+Dialogue: 0,0:21:10.84,0:21:12.81,main,Celia,0,0,0,,Your letters... I'll be waiting for them.
+Dialogue: 0,0:21:13.45,0:21:15.46,main,Celia,0,0,0,,I'll be waiting, okay?
+Dialogue: 0,0:21:36.47,0:21:38.52,flashback,Celia,0,0,0,,What is your name?
+Dialogue: 0,0:21:38.52,0:21:40.82,flashback,Celia,0,0,0,,I'm called Celia.
+Dialogue: 0,0:21:41.87,0:21:42.82,flashback,Rio,0,0,0,,Rio...
+Dialogue: 0,0:21:43.18,0:21:45.78,flashback,Celia,0,0,0,,Rio? That's an unusual name.
+Dialogue: 0,0:21:46.17,0:21:47.82,flashback,Rio,0,0,0,,My parents were immigrants.
+Dialogue: 0,0:21:48.22,0:21:49.65,flashback,Celia,0,0,0,,Are you all right?
+Dialogue: 0,0:21:49.65,0:21:51.70,flashback,Rio,0,0,0,,Don't touch me...
+Dialogue: 0,0:21:53.77,0:21:57.08,flashback,Celia,0,0,0,,Just a moment. I'll make us some space.
+Dialogue: 0,0:21:57.42,0:22:00.32,flashback,Rio,0,0,0,,There are a lot of \Ndifficult-looking books here.
+Dialogue: 0,0:22:00.32,0:22:02.55,flashback,Rio,0,0,0,,But you look so young, Professor.
+Dialogue: 0,0:22:02.55,0:22:04.72,flashback,Celia,0,0,0,,Hm? Oh, yes.
+Dialogue: 0,0:22:04.72,0:22:06.76,flashback,Celia,0,0,0,,I'm still only twelve, after all.
+Dialogue: 0,0:22:08.13,0:22:09.14,flashback,Rio,0,0,0,,It's very good.
+Dialogue: 0,0:22:09.14,0:22:12.28,flashback,Celia,0,0,0,,I'm glad you like it! \NWhen you drink a good cup of tea...
+Dialogue: 0,0:22:14.56,0:22:17.27,flashback,Celia,0,0,0,,It just makes you feel happy, doesn't it?
+Dialogue: 0,0:22:17.96,0:22:20.12,flashback,Rio,0,0,0,,I have you, Professor Celia.
+Dialogue: 0,0:22:20.67,0:22:21.48,flashback,Celia,0,0,0,,Huh?
+Dialogue: 0,0:22:21.83,0:22:22.65,flashback,Celia,0,0,0,,What?
+Dialogue: 0,0:22:23.37,0:22:25.02,flashback,Celia,0,0,0,,Oh, Rio!
+Dialogue: 0,0:22:25.02,0:22:25.44,flashback,Rio,0,0,0,,Yes?
+Dialogue: 0,0:22:25.44,0:22:29.23,flashback,Celia,0,0,0,,You're making fun of me, aren't you?\N Treating me like a child!
+Dialogue: 0,0:22:29.23,0:22:31.80,flashback,Rio,0,0,0,,But you're older than me, Professor.
+Dialogue: 0,0:22:31.80,0:22:39.62,flashback,Celia,0,0,0,,Y-Yes, but... well... it means you \Nthink of me as a friend, right?
+Dialogue: 0,0:22:39.62,0:22:40.43,flashback,Rio,0,0,0,,Yes.
+Dialogue: 0,0:22:40.86,0:22:42.41,flashback,Rio,0,0,0,,Would you rather I didn't?
+Dialogue: 0,0:22:42.86,0:22:44.42,flashback,Celia,0,0,0,,I... don't mind.
+Dialogue: 0,0:22:44.42,0:22:44.92,flashback,Rio,0,0,0,,What?
+Dialogue: 0,0:22:45.66,0:22:47.92,flashback,Celia,0,0,0,,I... don't mind.
+Dialogue: 0,0:23:11.27,0:23:13.68,main,Duke Huguenot,0,0,0,,That is the clothing of \Nthe assassination target.
+Dialogue: 0,0:23:13.68,0:23:14.95,main,Duke Huguenot,0,0,0,,Remember the scent.
+Dialogue: 0,0:23:15.75,0:23:20.27,main,Duke Huguenot,0,0,0,,The target is twelve years old\Nand male. Goes by Rio.
+Dialogue: 0,0:23:20.27,0:23:22.96,main,Duke Huguenot,0,0,0,,His hair is black, so you \Nshould recognize him quickly.
+Dialogue: 0,0:23:22.96,0:23:25.77,main,Duke Huguenot,0,0,0,,No matter what it takes, \Nfind him and kill him,
+Dialogue: 0,0:23:26.24,0:23:27.71,main,Duke Huguenot,0,0,0,,Latifa.
+Dialogue: 0,0:23:31.01,0:23:32.74,main,Latifa,0,0,0,,Understood.
+Dialogue: 0,0:23:35.01,0:23:40.04,sign_33925_315_Next_Time_Royal_,text,0,0,0,,{\pos(320,120)\blur1.5}Next Time
+Dialogue: 0,0:23:35.01,0:23:40.04,sign_33925_315_Next_Time_Royal_,text,0,0,0,,{\fs35\an8\pos(320,225)\blur1.5}Little Assassin Girl
+Dialogue: 0,0:23:36.46,0:23:38.07,main,Rio,0,0,0,,"Little Assassin Girl."
+Dialogue: 0,0:23:40.04,0:23:42.21,sign_34045_320_Spirit_Chronicle,text; yellow,0,0,0,,{\pos(37,270)\fsp3\fad(1,120)}Spirit Chronicles
+Dialogue: 0,0:23:40.04,0:23:42.21,sign_34045_320_Spirit_Chronicle,text; yellow,0,0,0,,{\pos(37,270)\fsp3\c&H63E9E9&\clip(33,259,256,270)\fad(1,120)}Spirit Chronicles
+Dialogue: 0,0:23:40.04,0:23:42.21,sign_34045_321_Exciting_Bonus_M,text; blue,0,0,0,,{\pos(32,340)\fad(1,120)}Exciting Bonus Manga
+Dialogue: 0,0:23:40.04,0:23:42.54,Default,text; bubble,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 563 16 l 596 16 600 215 564 218
+Dialogue: 0,0:23:40.04,0:23:42.54,sign_34045_319_I_had_a_dream_th,text; bubble,0,0,0,,{\pos(580,105)}I'm Flora.
+Dialogue: 0,0:23:40.04,0:23:50.25,sign_34045_323_By_Minazuki_Futa,text; black,0,0,0,,{\pos(450,320)\fsp2}By Minazuki Futago
+Dialogue: 0,0:23:42.54,0:23:45.04,Default,text; bubbles,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 539 34 l 611 36 608 209 545 205
+Dialogue: 0,0:23:42.54,0:23:45.04,sign_34045_319_I_had_a_dream_th,text; bubbles,0,0,0,,{\pos(580,86)}I wanted\Nto thank\N him...
+Dialogue: 0,0:23:42.54,0:23:45.04,Default,text; bubbles,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 26 26 l 91 25 85 227 19 225
+Dialogue: 0,0:23:42.54,0:23:45.04,sign_34045_319_I_had_a_dream_th,text; bubbles,0,0,0,,{\pos(60,60)}...for\Nsaving\Nme so\Nmany \Ntimes.
+Dialogue: 0,0:23:45.04,0:23:48.05,Default,text; bubbles,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 552 16 l 618 16 619 208 544 212
+Dialogue: 0,0:23:45.04,0:23:48.05,sign_34045_319_I_had_a_dream_th,text; bubbles,0,0,0,,{\pos(575,75)}Do you\Nhave any\Nidea...
+Dialogue: 0,0:23:45.04,0:23:48.05,Default,text; bubbles,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 28 15 l 97 15 93 241 27 240
+Dialogue: 0,0:23:45.04,0:23:48.05,sign_34045_319_I_had_a_dream_th,text; bubbles,0,0,0,,{\pos(65,80)}...where \NSir Rio\N is right\Nnow?
+Dialogue: 0,0:23:48.05,0:23:50.25,Default,text; bubble,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 542 35 l 585 36 580 189 544 185
+Dialogue: 0,0:23:48.05,0:23:50.25,sign_34045_319_I_had_a_dream_th,text; bubble,0,0,0,,{\pos(565,95)}N-No?
+Dialogue: 0,0:23:48.05,0:23:50.25,sign_34127_328_Ha_ha,text; aside,0,0,0,,{\bord4\3c&HE7EAE7&\pos(80,125)}She's\Nsurprisingly\N sharp...

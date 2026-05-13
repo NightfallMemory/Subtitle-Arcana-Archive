@@ -1,0 +1,347 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,0
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.45,0:00:01.93,main,knights,0,0,0,,Defend the castle!
+Dialogue: 0,0:01:11.73,0:01:13.93,main,knight 1,0,0,0,,Hasn't the crown prince escaped yet?
+Dialogue: 0,0:01:13.93,0:01:17.05,main,knight 2,0,0,0,,It's not that simple! The princes \Nare too young to flee swiftly!
+Dialogue: 0,0:01:20.82,0:01:22.56,main,Yoel,0,0,0,,In any case, we defend \Nthis place to the death!
+Dialogue: 0,0:01:22.56,0:01:24.39,main,Yoel,0,0,0,,Hold until the signal bell rings!
+Dialogue: 0,0:01:42.64,0:01:45.76,italics,Rishe,0,0,0,,Here is the man who brought about this war,
+Dialogue: 0,0:01:47.65,0:01:49.82,italics,Rishe,0,0,0,,the emperor of Galkhein:
+Dialogue: 0,0:01:50.29,0:01:52.04,italics,Rishe,0,0,0,,Arnold Hein.
+Dialogue: 0,0:02:06.39,0:02:07.28,main,Yoel,0,0,0,,Here we go!
+Dialogue: 0,0:02:07.28,0:02:08.29,main,knights,0,0,0,,Sir!
+Dialogue: 0,0:03:37.40,0:03:40.70,italics,Rishe,0,0,0,,I lived this life to the fullest, too.
+Dialogue: 0,0:03:45.07,0:03:46.32,italics,Rishe,0,0,0,,But...
+Dialogue: 0,0:03:47.29,0:03:51.00,italics,Rishe,0,0,0,,Next time... Next time, I'll...
+Dialogue: 0,0:04:16.03,0:04:18.50,main,Dietrich,0,0,0,,Rishe Irmgard Weitzner!
+Dialogue: 0,0:04:18.50,0:04:22.39,main,Dietrich,0,0,0,,You are a devious woman unworthy of \Nbeing the fiancée of a crown prince!
+Dialogue: 0,0:04:22.39,0:04:26.71,main,Dietrich,0,0,0,,Today, as of this moment, \NI annul my engagement to you!
+Dialogue: 0,0:04:28.80,0:04:30.66,main,Rishe,0,0,0,,Very well. I understand.
+Dialogue: 0,0:04:30.66,0:04:31.72,main,Dietrich,0,0,0,,Huh?
+Dialogue: 0,0:04:31.72,0:04:33.78,main,Dietrich,0,0,0,,Hold on. I'm voiding our engagement.
+Dialogue: 0,0:04:33.78,0:04:36.67,main,Dietrich,0,0,0,,You must be worried about \Nwhat will happen to you now.
+Dialogue: 0,0:04:36.67,0:04:38.14,main,Rishe,0,0,0,,No, not in the least.
+Dialogue: 0,0:04:38.42,0:04:39.57,main,Dietrich,0,0,0,,What?
+Dialogue: 0,0:04:40.78,0:04:42.08,main,Rishe,0,0,0,,If you'll pardon me.
+Dialogue: 0,0:04:42.08,0:04:43.73,main,Dietrich,0,0,0,,Huh? W-Wait!
+Dialogue: 0,0:04:43.73,0:04:45.68,main,Dietrich,0,0,0,,Rishe? Where are you going?
+Dialogue: 0,0:04:45.68,0:04:47.39,top,Dietrich; background,0,0,0,,Listen to me!
+Dialogue: 0,0:04:46.34,0:04:48.44,italics,Rishe,0,0,0,,Once again, I've returned.
+Dialogue: 0,0:04:47.39,0:04:51.15,top,Dietrich; background,0,0,0,,I spent a whole week thinking about \Nhow I'd read off your list of crimes!
+Dialogue: 0,0:04:51.15,0:04:54.42,top,Dietrich; background,0,0,0,,Listen! Hey! You! Come back here!
+Dialogue: 0,0:04:53.29,0:04:56.19,italics,Rishe,0,0,0,,I already know how I'm to be treated.
+Dialogue: 0,0:04:54.42,0:04:58.31,top,Dietrich; background,0,0,0,,Halt! Rishe! Listen to me \Nwhen I'm speaking to you!
+Dialogue: 0,0:04:57.35,0:04:58.53,italics,Rishe,0,0,0,,After all,
+Dialogue: 0,0:04:59.82,0:05:03.47,italics,Rishe,0,0,0,,this is the seventh time I've relived my life.
+Dialogue: 0,0:05:12.69,0:05:15.35,italics,Rishe,0,0,0,,Even now, I can recall it clearly...
+Dialogue: 0,0:05:15.35,0:05:17.66,italics,Rishe,0,0,0,,My very first life.
+Dialogue: 0,0:05:18.15,0:05:20.75,flashback,Dietrich,0,0,0,,Rishe Irmgard Weitzner!
+Dialogue: 0,0:05:20.75,0:05:24.48,flashback,Dietrich,0,0,0,,You are a devious woman unworthy of \Nbeing the fiancée of a crown prince!
+Dialogue: 0,0:05:24.48,0:05:28.64,flashbacktop,Dietrich,0,0,0,,Today, as of this moment, \NI annul my engagement to you!
+Dialogue: 0,0:05:28.64,0:05:31.64,flashbacktop,Rishe,0,0,0,,Wh-What? You're breaking off our engagement?
+Dialogue: 0,0:05:31.64,0:05:33.76,flashback,Rishe,0,0,0,,But... why?
+Dialogue: 0,0:05:33.76,0:05:36.14,flashback,Dietrich,0,0,0,,You will be exiled from this kingdom.
+Dialogue: 0,0:05:36.49,0:05:38.31,flashback,Rishe,0,0,0,,Crown Prince Dietrich...
+Dialogue: 0,0:05:38.31,0:05:40.40,flashback,Rishe,0,0,0,,Do you really mean what you're saying?
+Dialogue: 0,0:05:40.40,0:05:43.35,flashback,Dietrich,0,0,0,,I will now list your crimes.
+Dialogue: 0,0:05:43.35,0:05:44.77,flashback,Rishe,0,0,0,,Crimes?!
+Dialogue: 0,0:05:46.29,0:05:49.91,flashback,Rishe's dad,0,0,0,,We are a ducal house, with an \Noath of loyalty to the crown.
+Dialogue: 0,0:05:49.91,0:05:53.04,flashback,Rishe's dad,0,0,0,,To think that you, my only daughter, \Nwould betray that oath.
+Dialogue: 0,0:05:53.04,0:05:55.54,flashback,Rishe's mom,0,0,0,,You should be ashamed, Rishe.
+Dialogue: 0,0:05:55.54,0:05:58.42,flashback,Rishe,0,0,0,,They're false accusations! \NPlease, listen to me!
+Dialogue: 0,0:05:58.42,0:06:00.93,flashback,Rishe,0,0,0,,Father! Mother!
+Dialogue: 0,0:06:03.26,0:06:05.13,italics,Rishe,0,0,0,,My engagement was broken.
+Dialogue: 0,0:06:05.13,0:06:06.94,italics,Rishe,0,0,0,,My family abandoned me.
+Dialogue: 0,0:06:07.42,0:06:10.69,italics,Rishe,0,0,0,,With nothing but the clothes on \Nmy back, I wandered aimlessly.
+Dialogue: 0,0:06:21.79,0:06:24.15,flashback italics,Rishe,0,0,0,,What do I do now?
+Dialogue: 0,0:06:28.05,0:06:30.47,flashback,Tully,0,0,0,,Is it fun staring at the ground like that,
+Dialogue: 0,0:06:30.47,0:06:31.70,flashback,Tully,0,0,0,,young lady?
+Dialogue: 0,0:06:32.53,0:06:34.20,italics,Rishe,0,0,0,,That's when it happened.
+Dialogue: 0,0:06:34.20,0:06:37.09,italics,Rishe,0,0,0,,That's when I met that band \Nof traveling merchants.
+Dialogue: 0,0:06:38.32,0:06:40.86,flashback,Tully,0,0,0,,You look like you're going \Nthrough a rough patch.
+Dialogue: 0,0:06:40.86,0:06:43.71,flashback,Tully,0,0,0,,This cart is headed to the next \Ncountry over. Want a ride?
+Dialogue: 0,0:06:43.71,0:06:45.53,flashback,Chester,0,0,0,,You sure about this, chief?
+Dialogue: 0,0:06:45.53,0:06:48.62,flashback,Chester,0,0,0,,You're a real pushover when it \Ncomes to beauties like her.
+Dialogue: 0,0:06:49.54,0:06:52.19,flashback italics,Rishe,0,0,0,,Are these people merchants?
+Dialogue: 0,0:06:50.27,0:06:52.19,flashbacktop,traders; background,0,0,0,,That's true!
+Dialogue: 0,0:06:52.77,0:06:56.35,flashback,Tully; background,0,0,0,,Idiots. I've got a better eye \Nfor people than you think.
+Dialogue: 0,0:06:59.05,0:07:03.05,flashback,Tully,0,0,0,,Even in the moonlight, that silk \Nshines with an impressive luster.
+Dialogue: 0,0:07:03.73,0:07:05.48,flashback,Tully,0,0,0,,It's Vishkulha made, isn't it?
+Dialogue: 0,0:07:06.90,0:07:11.23,flashback,Tully,0,0,0,,So you're from the royal family, \Nor maybe a duke's house.
+Dialogue: 0,0:07:11.23,0:07:13.26,flashback,Tully,0,0,0,,A noble young lady like you \Nout this late can only—
+Dialogue: 0,0:07:13.26,0:07:14.37,flashback,Rishe,0,0,0,,Excuse me!
+Dialogue: 0,0:07:15.52,0:07:18.45,flashback,Rishe,0,0,0,,Would you buy this ring from me?
+Dialogue: 0,0:07:26.52,0:07:29.59,flashback,Tully,0,0,0,,We don't just buy and sell things.
+Dialogue: 0,0:07:30.20,0:07:34.26,flashback,Tully,0,0,0,,We find goods that set our \Nhearts ablaze—that fire us up—
+Dialogue: 0,0:07:34.26,0:07:37.26,flashback,Tully,0,0,0,,and we sell them to people who are \Njust as excited about them as us.
+Dialogue: 0,0:07:37.26,0:07:42.54,flashback,Tully,0,0,0,,Both buyer and seller love the wares, and \Nthat's what creates the profit in the trade.
+Dialogue: 0,0:07:43.58,0:07:47.02,flashback,Tully,0,0,0,,That's our creed—the creed \Nof the Aria Trading Company.
+Dialogue: 0,0:07:49.40,0:07:52.55,flashback,Tully,0,0,0,,That face... You just thought, \N"that sounds like fun," didn't you?
+Dialogue: 0,0:07:52.55,0:07:54.19,flashback,Rishe,0,0,0,,I-I...
+Dialogue: 0,0:07:54.19,0:07:57.79,flashback,Tully,0,0,0,,Your life's a blank slate right now, isn't it?
+Dialogue: 0,0:07:58.54,0:08:02.08,flashback,Tully,0,0,0,,Why don't you take this opportunity \Nto embark on the path of a merchant?
+Dialogue: 0,0:08:02.37,0:08:06.54,flashback,Rishe,0,0,0,,Me? I've never even considered it.
+Dialogue: 0,0:08:06.54,0:08:10.97,flashback,Tully,0,0,0,,You've been freed from your stifling destiny \Nas the wife of a crown prince.
+Dialogue: 0,0:08:11.45,0:08:14.39,flashback,Tully,0,0,0,,You can go anywhere.
+Dialogue: 0,0:08:14.86,0:08:16.55,flashback,Tully,0,0,0,,You're free to do whatever you want.
+Dialogue: 0,0:08:20.17,0:08:23.22,flashback,Rishe,0,0,0,,Free... to do what I want...
+Dialogue: 0,0:08:24.70,0:08:26.96,flashback,Tully,0,0,0,,You have a good eye.
+Dialogue: 0,0:08:26.96,0:08:28.07,flashback,Tully,0,0,0,,And...
+Dialogue: 0,0:08:28.39,0:08:34.07,flashback,Tully,0,0,0,,You possess the kind of amazing luck that \Nled you to a friendly caravan like ours!
+Dialogue: 0,0:08:34.07,0:08:38.08,flashback,Tully,0,0,0,,If you became a merchant, I think \Nthings would get pretty interesting.
+Dialogue: 0,0:08:41.18,0:08:42.60,flashback,Tully,0,0,0,,How about it? Are you in?
+Dialogue: 0,0:08:42.60,0:08:46.08,flashback,Rishe,0,0,0,,Yes, please! Please teach me \Nhow to be a merchant!
+Dialogue: 0,0:08:47.48,0:08:49.17,italics,Rishe,0,0,0,,My first life.
+Dialogue: 0,0:08:49.72,0:08:53.10,italics,Rishe,0,0,0,,I learned how to trade under Chief Tully.
+Dialogue: 0,0:08:53.62,0:08:56.69,italics,Rishe,0,0,0,,Then I set out on my own as a merchant.
+Dialogue: 0,0:08:56.69,0:09:01.37,italics,Rishe,0,0,0,,I traveled the world, pursuing my newfound \Ndream of visiting every country in it.
+Dialogue: 0,0:09:02.11,0:09:04.82,italics,Rishe,0,0,0,,And then, with just one \Ncountry left on my list,
+Dialogue: 0,0:09:04.82,0:09:07.45,italics,Rishe,0,0,0,,I was swept up in a war...
+Dialogue: 0,0:09:07.84,0:09:10.50,italics,Rishe,0,0,0,,and ended up losing my life.
+Dialogue: 0,0:09:32.41,0:09:33.51,flashback,Rishe,0,0,0,,What?
+Dialogue: 0,0:09:32.61,0:09:35.20,flashback,Dietrich,0,0,0,,Rishe Irmgard Weitzner!
+Dialogue: 0,0:09:35.20,0:09:38.96,flashback,Dietrich,0,0,0,,You are a devious woman unworthy of \Nbeing the fiancée of a crown prince!
+Dialogue: 0,0:09:38.96,0:09:43.06,flashback,Dietrich,0,0,0,,Today, as of this moment, \NI annul my engagement to you!
+Dialogue: 0,0:09:43.31,0:09:46.00,flashback,Rishe,0,0,0,,Crown Prince Dietrich?
+Dialogue: 0,0:09:47.99,0:09:49.61,flashback italics,Rishe,0,0,0,,What is all this?
+Dialogue: 0,0:09:50.45,0:09:53.22,flashback italics,Rishe,0,0,0,,My dress and ring are just \Nas they were on that day.
+Dialogue: 0,0:09:53.89,0:09:56.57,flashback italics,Rishe,0,0,0,,Is this... a dream?
+Dialogue: 0,0:09:56.69,0:09:59.82,flashback,Dietrich,0,0,0,,You will be exiled from this kingdom.
+Dialogue: 0,0:10:02.56,0:10:03.83,flashback,Rishe,0,0,0,,It hurts.
+Dialogue: 0,0:10:04.75,0:10:07.58,flashback,Dietrich,0,0,0,,Does the dissolution of our engagement \Nsadden you that much?
+Dialogue: 0,0:10:07.58,0:10:08.97,flashback italics,Rishe,0,0,0,,If this isn't a dream...
+Dialogue: 0,0:10:07.80,0:10:09.68,flashbacktop,Dietrich; background,0,0,0,,I see. I see.
+Dialogue: 0,0:10:08.97,0:10:10.83,flashback italics,Rishe,0,0,0,,then I don't have a moment to lose!
+Dialogue: 0,0:10:10.83,0:10:13.59,flashback italics,Rishe,0,0,0,,Soon, they'll lock me out of the mansion!
+Dialogue: 0,0:10:14.14,0:10:15.29,flashback,Rishe,0,0,0,,If you'll pardon me.
+Dialogue: 0,0:10:15.29,0:10:16.84,flashback,Dietrich,0,0,0,,Huh? W-Wait!
+Dialogue: 0,0:10:16.84,0:10:18.47,flashback,Dietrich,0,0,0,,Rishe? Where are you going?
+Dialogue: 0,0:10:18.47,0:10:19.71,flashbacktop,Dietrich; background,0,0,0,,Listen to me!
+Dialogue: 0,0:10:18.97,0:10:21.20,flashback italics,Rishe,0,0,0,,Thank you, gods!
+Dialogue: 0,0:10:19.71,0:10:23.50,flashbacktop,Dietrich; background,0,0,0,,I spent a whole week thinking about \Nhow I'd read off your list of crimes!
+Dialogue: 0,0:10:21.20,0:10:24.95,flashback italics,Rishe,0,0,0,,I don't understand how, \Nbut I've been given a second chance at life!
+Dialogue: 0,0:10:23.50,0:10:25.60,flashbacktop,Dietrich; background,0,0,0,,Listen! Hey! You! Come back here!
+Dialogue: 0,0:10:25.60,0:10:28.14,italics,Rishe,0,0,0,,The only regret I harbored about that night...
+Dialogue: 0,0:10:28.14,0:10:31.11,italics,Rishe,0,0,0,,was that I wasn't able to bring \Nmore of my personal effects with me.
+Dialogue: 0,0:10:31.11,0:10:33.07,italics,Rishe,0,0,0,,If I'd had more seed money as a merchant,
+Dialogue: 0,0:10:33.07,0:10:35.56,italics,Rishe,0,0,0,,I would have been able to grow \Nmy enterprise more quickly.
+Dialogue: 0,0:10:36.59,0:10:40.95,flashback italics,Rishe,0,0,0,,Now I just need to meet Chief Tully and \Neveryone from the Aria Trading Company again!
+Dialogue: 0,0:10:42.48,0:10:47.25,italics,Rishe,0,0,0,,But by the time I arrived, the Company's \Ncarts had already passed through.
+Dialogue: 0,0:10:47.83,0:10:52.00,italics,Rishe,0,0,0,,It can't be. Is this because I went \Nback home and gathered my things?
+Dialogue: 0,0:10:58.21,0:11:01.99,flashback,Rishe,0,0,0,,The {\i1}Pictorial Herbal of Foreign Medicinal \NPlants{\i0} my grandmother left me...
+Dialogue: 0,0:11:03.01,0:11:05.63,flashback italics,Rishe,0,0,0,,Unlike last time, I have money.
+Dialogue: 0,0:11:05.63,0:11:08.53,flashback italics,Rishe,0,0,0,,In which case, I just need to \Ndecide what to do with it.
+Dialogue: 0,0:11:10.29,0:11:14.59,italics,Rishe,0,0,0,,In my second life, I sold my possessions, \Nused the proceeds to cross the sea,
+Dialogue: 0,0:11:14.59,0:11:16.80,italics,Rishe,0,0,0,,and chose to study medicine.
+Dialogue: 0,0:11:17.56,0:11:20.35,italics,Rishe,0,0,0,,With information on where \Nmedicinal plants grew,
+Dialogue: 0,0:11:20.35,0:11:22.70,italics,Rishe,0,0,0,,and the knowledge of when \Nepidemics would spread,
+Dialogue: 0,0:11:22.70,0:11:27.20,italics,Rishe,0,0,0,,I was able to put the experience \NI'd gained from my first life to good use.
+Dialogue: 0,0:11:28.27,0:11:30.75,italics,Rishe,0,0,0,,One day, I traveled to a kingdom in the north
+Dialogue: 0,0:11:30.75,0:11:33.41,italics,Rishe,0,0,0,,and saved a sickly prince.
+Dialogue: 0,0:11:34.04,0:11:37.00,flashback,Michel,0,0,0,,Your complexion is looking much better, Kyle.
+Dialogue: 0,0:11:37.47,0:11:39.30,flashback,Kyle,0,0,0,,Thank you, Weitzner.
+Dialogue: 0,0:11:39.30,0:11:42.51,flashback,Kyle,0,0,0,,I feel so well today that \NI even surprise myself.
+Dialogue: 0,0:11:42.51,0:11:44.51,flashback,Kyle,0,0,0,,It's all thanks to your medicine.
+Dialogue: 0,0:11:44.71,0:11:46.26,flashback,Rishe,0,0,0,,I'm so glad.
+Dialogue: 0,0:11:46.26,0:11:50.79,italics,Rishe,0,0,0,,My life as an herbalist was fulfilling \Nand incredibly rewarding.
+Dialogue: 0,0:11:51.32,0:11:55.02,italics,Rishe,0,0,0,,But once again in my second life, \Njust as I'd been in my first...
+Dialogue: 0,0:11:55.02,0:11:58.35,italics,Rishe,0,0,0,,I was swept up in a war and died.
+Dialogue: 0,0:12:07.69,0:12:10.29,flashback,Dietrich,0,0,0,,Rishe Irmgard Weitzner!
+Dialogue: 0,0:12:10.29,0:12:14.13,flashback,Dietrich,0,0,0,,You are a devious woman unworthy of \Nbeing the fiancée of a crown prince!
+Dialogue: 0,0:12:14.13,0:12:17.59,flashback,Dietrich,0,0,0,,Today, as of this moment, \NI annul my engagement to—
+Dialogue: 0,0:12:17.59,0:12:18.84,flashback,Rishe,0,0,0,,I understand and comply.
+Dialogue: 0,0:12:18.84,0:12:20.24,flashback,Dietrich,0,0,0,,Understand what?!
+Dialogue: 0,0:12:20.99,0:12:23.80,italics,Rishe,0,0,0,,For my third life, I set my \Nsights on something else:
+Dialogue: 0,0:12:23.80,0:12:28.04,italics,Rishe,0,0,0,,a specialized branch of study that \NI'd learned of in my previous life,
+Dialogue: 0,0:12:28.83,0:12:31.75,italics,Rishe,0,0,0,,and a genius scholar who specialized in it.
+Dialogue: 0,0:12:32.31,0:12:36.88,italics,Rishe,0,0,0,,For me, his was the familiar face of \Nan acquaintance from my second life,
+Dialogue: 0,0:12:36.88,0:12:38.76,italics,Rishe,0,0,0,,Doctor Michel Evan.
+Dialogue: 0,0:12:39.91,0:12:42.44,flashback,Michel,0,0,0,,No matter how perfect you \Nbelieve your theory to be,
+Dialogue: 0,0:12:42.44,0:12:47.36,flashback,Michel,0,0,0,,it is only through repeated experimentation \Nthat you may draw a valid conclusion.
+Dialogue: 0,0:12:47.36,0:12:48.83,flashback,Rishe,0,0,0,,Yes, Doctor!
+Dialogue: 0,0:12:48.83,0:12:52.15,flashback,Michel,0,0,0,,You really do seem to enjoy your research.
+Dialogue: 0,0:12:52.15,0:12:55.33,flashback,Rishe,0,0,0,,Learning new things is so very exciting!
+Dialogue: 0,0:12:55.33,0:12:57.17,flashback,Rishe,0,0,0,,It expands my horizons,
+Dialogue: 0,0:12:57.17,0:13:00.21,flashback,Rishe,0,0,0,,and causes me to view even yesterday's \Nsights in a whole new light!
+Dialogue: 0,0:13:01.95,0:13:04.08,italics,Rishe,0,0,0,,After that, the good doctor and I parted ways,
+Dialogue: 0,0:13:04.08,0:13:08.10,italics,Rishe,0,0,0,,and as I continued my research alone, \Nonce again...
+Dialogue: 0,0:13:08.47,0:13:11.39,italics,Rishe,0,0,0,,I was swept up in a war and died.
+Dialogue: 0,0:13:12.87,0:13:16.98,italics,Rishe,0,0,0,,From serving as a handmaid in a \Nduke's household in my fourth life,
+Dialogue: 0,0:13:16.98,0:13:20.41,italics,Rishe,0,0,0,,to disguising myself as a man \Nand fighting as a knight in my sixth life...
+Dialogue: 0,0:13:20.99,0:13:23.54,italics,Rishe,0,0,0,,In each life, I found a sense of fulfillment,
+Dialogue: 0,0:13:23.54,0:13:25.21,italics,Rishe,0,0,0,,and I enjoyed them all very much.
+Dialogue: 0,0:13:25.87,0:13:26.81,italics,Rishe,0,0,0,,But...
+Dialogue: 0,0:13:29.43,0:13:32.05,italics,Rishe,0,0,0,,In each new life of mine, \Nonce five years have passed,
+Dialogue: 0,0:13:32.05,0:13:34.38,italics,Rishe,0,0,0,,I die without fail.
+Dialogue: 0,0:13:35.25,0:13:38.33,italics,Rishe,0,0,0,,Even when I didn't die from \Nbeing swept up in the war,
+Dialogue: 0,0:13:38.33,0:13:41.18,italics,Rishe,0,0,0,,I spent my days so busy \NI nearly died from overwork!
+Dialogue: 0,0:13:41.63,0:13:44.34,italics,Rishe,0,0,0,,And now, I find myself reliving \Nmy life for the seventh time.
+Dialogue: 0,0:13:44.65,0:13:48.34,italics,Rishe,0,0,0,,I want to spend this go-around taking it easy.
+Dialogue: 0,0:13:48.34,0:13:50.13,italics,Rishe,0,0,0,,And more than anything else,
+Dialogue: 0,0:13:50.91,0:13:53.75,italics,Rishe,0,0,0,,I swear I'll live a long life this time!
+Dialogue: 0,0:13:54.82,0:13:56.27,italics,Rishe,0,0,0,,Now that I think about it,
+Dialogue: 0,0:13:56.27,0:13:58.90,italics,Rishe,0,0,0,,up until this point, I've always \Nleft through the main entrance.
+Dialogue: 0,0:14:01.55,0:14:05.07,italics,Rishe,0,0,0,,But as I am now, this way will be quicker—
+Dialogue: 0,0:14:09.76,0:14:13.19,main,Rishe,0,0,0,,I'm so very... sorry...
+Dialogue: 0,0:14:21.68,0:14:23.55,main,Arnold,0,0,0,,You certainly charged around that corner—
+Dialogue: 0,0:14:26.46,0:14:28.57,main,Rishe,0,0,0,,Emperor Arnold Hein!
+Dialogue: 0,0:14:28.99,0:14:30.59,main,Arnold,0,0,0,,You know who I am?
+Dialogue: 0,0:14:31.05,0:14:33.68,main,Arnold,0,0,0,,This is the first time \NI've come to this kingdom.
+Dialogue: 0,0:14:36.04,0:14:40.17,main,Rishe,0,0,0,,My name is Rishe Imgard Weitzner.
+Dialogue: 0,0:14:40.93,0:14:43.33,main,Rishe,0,0,0,,Though this is the first time we have met,
+Dialogue: 0,0:14:43.33,0:14:45.69,main,Rishe,0,0,0,,I must say that your reputation precedes you.
+Dialogue: 0,0:14:45.69,0:14:48.95,main,Arnold,0,0,0,,Just now, you called me \N"emperor," didn't you?
+Dialogue: 0,0:14:50.56,0:14:55.41,main,Arnold,0,0,0,,As my father, the emperor, still lives, \NI am no more than a crown prince. And yet...
+Dialogue: 0,0:14:55.41,0:14:57.69,main,Rishe,0,0,0,,Well...
+Dialogue: 0,0:15:00.39,0:15:03.24,main,Rishe,0,0,0,,My deepest apologies, Your Royal Highness.
+Dialogue: 0,0:15:03.65,0:15:08.05,main,Rishe,0,0,0,,In my flustered state, it seems \NI misspoke most disrespectfully.
+Dialogue: 0,0:15:08.51,0:15:12.28,main,Rishe,0,0,0,,However, my engagement has presently \Nbeen annulled, so I am in no small hurry.
+Dialogue: 0,0:15:12.28,0:15:14.02,main,Rishe,0,0,0,,I must take my leave now.
+Dialogue: 0,0:15:16.61,0:15:18.02,main,Arnold,0,0,0,,A broken engagement?
+Dialogue: 0,0:15:32.07,0:15:33.15,main,Arnold,0,0,0,,Wait.
+Dialogue: 0,0:16:01.42,0:16:02.47,main,Rishe,0,0,0,,There.
+Dialogue: 0,0:16:12.42,0:16:14.20,main,Oliver,0,0,0,,Has something happened?
+Dialogue: 0,0:16:14.36,0:16:16.90,main,Arnold,0,0,0,,Oliver, ready my horse.
+Dialogue: 0,0:16:16.90,0:16:18.42,main,Oliver,0,0,0,,As you command.
+Dialogue: 0,0:16:18.42,0:16:20.20,main,Oliver,0,0,0,,What are you planning to do?
+Dialogue: 0,0:16:33.72,0:16:36.85,main,Rishe,0,0,0,,This body has far too little endurance.
+Dialogue: 0,0:16:36.85,0:16:39.06,main,Rishe,0,0,0,,I'll have to train all over again.
+Dialogue: 0,0:16:40.84,0:16:41.77,main,Rishe,0,0,0,,What?
+Dialogue: 0,0:16:44.48,0:16:46.73,main,Dietrich,0,0,0,,I've spent a week planning it—my masterpiece!
+Dialogue: 0,0:16:47.04,0:16:49.27,main,Ermitte knight,0,0,0,,Prince Dietrich! It's Lady Rishe!
+Dialogue: 0,0:16:49.27,0:16:50.23,main,Dietrich,0,0,0,,What?
+Dialogue: 0,0:16:50.23,0:16:52.99,main,Dietrich,0,0,0,,Out of the way! You, let me pass!
+Dialogue: 0,0:16:53.21,0:16:54.89,main,Dietrich,0,0,0,,You took your time, Rishe.
+Dialogue: 0,0:16:54.89,0:16:56.99,main,Dietrich,0,0,0,,You don't wish to hear your beloved,
+Dialogue: 0,0:16:56.99,0:17:00.25,main,Dietrich,0,0,0,,me, speak more words of \Ncondemnation. I understand.
+Dialogue: 0,0:17:00.25,0:17:02.40,main,Dietrich,0,0,0,,However, it won't go as you wish.
+Dialogue: 0,0:17:02.40,0:17:05.34,main,Dietrich,0,0,0,,Bringing the hammer of justice down \Nupon wicked women such as you
+Dialogue: 0,0:17:05.34,0:17:08.25,main,Dietrich,0,0,0,,is one of my duties as the \Nfuture king of this land!
+Dialogue: 0,0:17:06.45,0:17:08.25,top,Rishe,0,0,0,,Not only did I fail to make it in time,
+Dialogue: 0,0:17:08.25,0:17:11.51,main,Rishe,0,0,0,,this is the absolute worst \Ntiming of any of my lives.
+Dialogue: 0,0:17:11.51,0:17:13.78,main,Rishe; background,0,0,0,,If only I'd arrived later \Nthan in my first life,
+Dialogue: 0,0:17:13.78,0:17:16.43,main,Rishe; background,0,0,0,,I might have avoided seeing his face again.
+Dialogue: 0,0:17:14.51,0:17:16.43,top,Dietrich,0,0,0,,What are you mumbling about?
+Dialogue: 0,0:17:17.33,0:17:18.54,main,Dietrich,0,0,0,,It's just as I thought.
+Dialogue: 0,0:17:19.26,0:17:21.77,main,Dietrich,0,0,0,,At the soirée, you reacted \Nindifferently to my proclamation,
+Dialogue: 0,0:17:21.77,0:17:24.57,main,Dietrich,0,0,0,,but it seems to me that you \Nare deeply saddened at heart.
+Dialogue: 0,0:17:24.57,0:17:25.27,main,Rishe,0,0,0,,Pardon?
+Dialogue: 0,0:17:25.27,0:17:29.79,main,Dietrich,0,0,0,,My annulment of the engagement has you in \Nsuch despair that you don't know what to do.
+Dialogue: 0,0:17:29.79,0:17:32.53,main,Dietrich,0,0,0,,You've been walking, wandering, heartbroken.
+Dialogue: 0,0:17:32.53,0:17:35.15,main,Dietrich,0,0,0,,I can tell that much with a single glance!
+Dialogue: 0,0:17:35.15,0:17:38.66,main,Dietrich,0,0,0,,Your dress is covered in mud, \Nand you have wounds all over your body.
+Dialogue: 0,0:17:38.66,0:17:41.79,main,Dietrich,0,0,0,,To think that the grief of an engagement \Nbroken reduced you to such a state—
+Dialogue: 0,0:17:41.79,0:17:43.29,main,Rishe,0,0,0,,Are you stupid?
+Dialogue: 0,0:17:43.29,0:17:44.07,main,Dietrich,0,0,0,,What?
+Dialogue: 0,0:17:44.07,0:17:46.37,main,Rishe,0,0,0,,Grief does not dirty a dress.
+Dialogue: 0,0:17:46.37,0:17:50.71,main,Rishe,0,0,0,,More importantly, I am not sad that \Nyou have broken our engagement.
+Dialogue: 0,0:17:50.71,0:17:52.25,main,Dietrich,0,0,0,,Wh-What?!
+Dialogue: 0,0:17:52.63,0:17:56.13,main,woman 1,0,0,0,,Has the crown prince been \Nspurned by Lady Rishe?
+Dialogue: 0,0:17:56.13,0:18:00.20,main,man,0,0,0,,But Lady Rishe wasn't the one \Nwho broke the engagement, was she?
+Dialogue: 0,0:18:00.20,0:18:04.28,main,woman 1,0,0,0,,Still, the crown prince looks \Nmore hurt than she does to me.
+Dialogue: 0,0:18:05.04,0:18:06.39,main,man,0,0,0,,You're right!
+Dialogue: 0,0:18:06.39,0:18:08.35,main,Dietrich,0,0,0,,You there! You're being disrespectful!
+Dialogue: 0,0:18:08.35,0:18:09.40,main,Dietrich,0,0,0,,The nerve of you peasants!
+Dialogue: 0,0:18:09.40,0:18:14.35,italics,Rishe,0,0,0,,I am truly glad I did not have to spend \Nany of my lives married to this person.
+Dialogue: 0,0:18:15.05,0:18:19.64,main,Rishe,0,0,0,,Your Royal Highness, you are meant \Nto protect and cherish your people.
+Dialogue: 0,0:18:19.64,0:18:21.96,main,Rishe,0,0,0,,You mustn't speak like you just did.
+Dialogue: 0,0:18:21.96,0:18:24.31,main,Dietrich,0,0,0,,You are the one who needs \Nto correct their demeanor.
+Dialogue: 0,0:18:24.31,0:18:26.80,main,Dietrich,0,0,0,,Don't you have any intention \Nof asking for my forgiveness?
+Dialogue: 0,0:18:26.80,0:18:28.18,main,Rishe,0,0,0,,No. Not the slightest.
+Dialogue: 0,0:18:28.18,0:18:31.66,main,Rishe,0,0,0,,In fact, I'm filled with gratitude \Nto you for breaking our engagement.
+Dialogue: 0,0:18:31.66,0:18:32.67,main,Dietrich,0,0,0,,What?!
+Dialogue: 0,0:18:33.43,0:18:36.01,main,Dietrich,0,0,0,,Don't laugh at me!
+Dialogue: 0,0:18:36.01,0:18:39.01,main,Marie,0,0,0,,That's right! You're so mean, Lady Rishe!
+Dialogue: 0,0:18:39.01,0:18:44.06,main,Marie,0,0,0,,Please, don't hurt my precious Prince \NDietrich any more than you already have!
+Dialogue: 0,0:18:44.06,0:18:45.52,main,Rishe,0,0,0,,Lady Marie?
+Dialogue: 0,0:18:45.52,0:18:49.81,main,Dietrich,0,0,0,,Rishe, you bullied my darling \NMarie and made her cry, didn't you?
+Dialogue: 0,0:18:49.81,0:18:51.40,main,Dietrich,0,0,0,,I've heard all about it!
+Dialogue: 0,0:18:51.40,0:18:56.65,main,Dietrich,0,0,0,,Did you think that a woman as \Ntwisted as you could become queen?
+Dialogue: 0,0:18:58.69,0:19:01.16,main,Rishe,0,0,0,,Please, rest at ease.
+Dialogue: 0,0:19:01.45,0:19:04.51,main,Rishe,0,0,0,,I will obey your decree regarding \Nour broken engagement.
+Dialogue: 0,0:19:04.95,0:19:09.32,main,Rishe,0,0,0,,I will never again show \Nmyself before either of you.
+Dialogue: 0,0:19:09.32,0:19:10.17,main,Dietrich,0,0,0,,What?!
+Dialogue: 0,0:19:11.19,0:19:15.40,main,Rishe,0,0,0,,Ever since I was a child, I believed that \Nmy position as fiancée to the crown prince
+Dialogue: 0,0:19:15.40,0:19:17.53,main,Rishe,0,0,0,,was all that gave my life worth.
+Dialogue: 0,0:19:18.21,0:19:19.93,main,Rishe,0,0,0,,But I was mistaken.
+Dialogue: 0,0:19:20.27,0:19:22.99,main,Rishe,0,0,0,,I can find my worth myself.
+Dialogue: 0,0:19:22.99,0:19:25.43,main,Rishe,0,0,0,,Now that I know that, I have all I need.
+Dialogue: 0,0:19:25.43,0:19:28.02,main,Dietrich,0,0,0,,Huh? What are you talking about?
+Dialogue: 0,0:19:31.07,0:19:34.71,main,Rishe,0,0,0,,I do not require your presence in my life.
+Dialogue: 0,0:19:37.94,0:19:39.37,main,Marie,0,0,0,,Prince Dietrich!
+Dialogue: 0,0:19:39.88,0:19:41.91,main,Marie,0,0,0,,You're so mean, Lady Rishe!
+Dialogue: 0,0:19:41.91,0:19:43.10,main,Rishe,0,0,0,,Lady Marie.
+Dialogue: 0,0:19:43.65,0:19:48.30,main,Rishe,0,0,0,,Whatever lies you may tell to frame me, \NI hold no anger toward you.
+Dialogue: 0,0:19:49.27,0:19:52.54,main,Rishe,0,0,0,,Your marriage to His Royal Highness \Nis for your family's sake, isn't it?
+Dialogue: 0,0:19:52.54,0:19:54.60,main,Marie,0,0,0,,How do you know that?
+Dialogue: 0,0:19:55.22,0:19:57.29,main,Rishe,0,0,0,,But please don't forget.
+Dialogue: 0,0:19:57.29,0:20:01.22,main,Rishe,0,0,0,,If your future isn't one you wish for yourself, \Nthen there isn't any point to it.
+Dialogue: 0,0:20:01.50,0:20:04.36,main,Marie,0,0,0,,One I wish for?
+Dialogue: 0,0:20:04.89,0:20:09.50,main,Rishe,0,0,0,,Finding happiness for your family, \Nand finding happiness for yourself...
+Dialogue: 0,0:20:09.50,0:20:11.23,main,Rishe,0,0,0,,You should be able to do both at once.
+Dialogue: 0,0:20:11.66,0:20:16.86,main,Rishe,0,0,0,,Please lead a life where both you \Nand your family can keep smiling.
+Dialogue: 0,0:20:21.63,0:20:24.60,main,Rishe,0,0,0,,Now, the nuisance will remove herself.
+Dialogue: 0,0:20:25.28,0:20:26.49,main,Marie,0,0,0,,Lady Rishe!
+Dialogue: 0,0:20:26.49,0:20:30.37,italics,Rishe,0,0,0,,All I have is the clothes on my back, \Njust as I did in my first life.
+Dialogue: 0,0:20:27.13,0:20:28.44,top,Dietrich; background,0,0,0,,Stop, Rishe!
+Dialogue: 0,0:20:28.44,0:20:30.88,top,Dietrich; background,0,0,0,,Hey, knights! Apprehend Rishe!
+Dialogue: 0,0:20:30.37,0:20:33.00,italics,Rishe,0,0,0,,Now, where shall I go from here?
+Dialogue: 0,0:20:30.88,0:20:31.89,top,knights,0,0,0,,Sir!
+Dialogue: 0,0:20:33.00,0:20:37.09,main,knight 1,0,0,0,,Um, Lady Rishe? If you could \Nwait for just a moment...
+Dialogue: 0,0:20:47.60,0:20:49.95,main,Arnold,0,0,0,,As I thought. It seems you're \Nquite the sword master.
+Dialogue: 0,0:20:50.59,0:20:54.08,main,Arnold,0,0,0,,Where did you learn those sword skills?
+Dialogue: 0,0:20:54.08,0:20:55.90,italics,Rishe,0,0,0,,Arnold Hein.
+Dialogue: 0,0:20:56.95,0:20:58.36,main,Rishe,0,0,0,,It's a secret.
+Dialogue: 0,0:20:58.36,0:21:01.51,main,Rishe,0,0,0,,And my skills are not so great as \Nto be deserving of praise from you.
+Dialogue: 0,0:21:02.33,0:21:06.34,main,Rishe,0,0,0,,You were holding back with \Nthat strike, weren't you?
+Dialogue: 0,0:21:08.16,0:21:11.41,main,Dietrich,0,0,0,,Hey, who are you? Get away from Rishe!
+Dialogue: 0,0:21:11.41,0:21:13.43,main,Rishe,0,0,0,,Everyone, remain as you are!
+Dialogue: 0,0:21:13.43,0:21:17.75,main,Rishe,0,0,0,,We mustn't move aggressively against \Nthe crown prince of Galkhein.
+Dialogue: 0,0:21:17.75,0:21:20.42,main,Deitrich,0,0,0,,The crown prince of Galkhein?!
+Dialogue: 0,0:21:20.79,0:21:25.41,main,man 2,0,0,0,,The beast of a prince said to have single-\Nhandedly annihilated a troop of knights?
+Dialogue: 0,0:21:25.41,0:21:28.18,main,woman 1,0,0,0,,Stop that! You'll be killed, too!
+Dialogue: 0,0:21:28.73,0:21:32.59,main,Rishe,0,0,0,,Prince Arnold, may I ask \Nwhat brings you here?
+Dialogue: 0,0:21:32.59,0:21:36.26,main,Rishe,0,0,0,,I assume you didn't draw \Nyour sword just for sport.
+Dialogue: 0,0:21:36.26,0:21:37.19,main,Arnold,0,0,0,,That's right.
+Dialogue: 0,0:21:38.34,0:21:41.65,italics,Rishe,0,0,0,,My sixth life ended at the hands of this man.
+Dialogue: 0,0:21:42.27,0:21:45.86,italics,Rishe,0,0,0,,One day, he will cause a war \Nthat will envelop the whole world.
+Dialogue: 0,0:21:46.49,0:21:50.04,italics,Rishe,0,0,0,,The war that causes my death.
+Dialogue: 0,0:21:57.13,0:21:57.99,main,Rishe,0,0,0,,What?
+Dialogue: 0,0:21:58.84,0:22:01.59,main,Rishe,0,0,0,,What are you doing?
+Dialogue: 0,0:22:04.05,0:22:06.61,main,Arnold,0,0,0,,I apologize for my sudden discourtesy.
+Dialogue: 0,0:22:07.62,0:22:09.35,main,Arnold,0,0,0,,I have something I wish to ask of you.
+Dialogue: 0,0:22:09.35,0:22:10.65,main,Arnold,0,0,0,,Would you please...
+Dialogue: 0,0:22:12.63,0:22:15.61,main,Arnold,0,0,0,,do me the honor of becoming my wife?
+Dialogue: 0,0:22:17.31,0:22:18.34,main,Rishe,0,0,0,,What?

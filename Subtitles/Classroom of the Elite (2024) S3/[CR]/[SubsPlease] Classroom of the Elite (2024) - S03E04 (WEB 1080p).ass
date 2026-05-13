@@ -1,0 +1,514 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main_Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics_Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics_Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: OpeningQuote,Times New Roman,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,65,1
+Style: QuoteAttribution,Times New Roman,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,3,359,86,125,1
+Style: Settings,Times New Roman,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,110,0,0,1,0,0,2,10,10,70,1
+Style: sign_18260_230_Tokyo_Metropolit,Times New Roman,12,&H00546A4D,&H000000FF,&H00B6E0C0,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,70,20,117,1
+Style: sign_18272_231_At_this_school__,Times New Roman,13,&H004C684D,&H000000FF,&H00B6E0C0,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,94,0,226,1
+Style: Credits Point list,Times New Roman,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,2,7,310,20,40,1
+Style: Class Point List,Times New Roman,16,&H00E5E967,&H000000FF,&H00615437,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,40,421,20,1
+Style: sign_34416_398_Abandon_all_hope,Times New Roman,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,126,196,68,1
+Style: sign_139_2_Dante_Alighieri_,Times New Roman,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,3,114,108,126,1
+Style: sign_34416_427_Kierkegaard___Wo,Times New Roman,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,3,339,106,108,1
+Style: sign_34416_426_Every_man_has_in,Times New Roman,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,140,214,18,1
+Style: sign_34188_421_Summer_Special_T,Times New Roman,12,&H00F6E6B2,&H000000FF,&H00BF9F71,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,161,316,52,1
+Style: sign_34188_422_Class_A,Times New Roman,12,&H00F6E6B2,&H000000FF,&H00BF9F71,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,222,373,128,1
+Style: sign_34188_423_Class_B,Times New Roman,12,&H00F6E6B2,&H000000FF,&H00BF9F71,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,240,356,178,1
+Style: sign_34188_424_Class_C,Times New Roman,12,&H00F6E6B2,&H000000FF,&H00BF9F71,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,260,335,121,1
+Style: sign_34188_425_Class_D,Times New Roman,12,&H00F6E6B2,&H000000FF,&H00BF9F71,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,272,323,71,1
+Style: sign_34417_368_What_people_comm,Times New Roman,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,79,85,68,1
+Style: sign_34417_369_Schopenhauer__Ph,Times New Roman,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,3,323,74,114,1
+Style: sign_3430_6_Test__Day_2,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,260,260,20,1
+Style: sign_1583_3_Schopenhauer__Ph,Times New Roman,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,3,20,108,124,1
+Style: sign_1484_2_Genius,Times New Roman,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,78,66,1
+Style: sign_1521_9_Classroom_of_the,Consolas,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,10,0,1,0,0,5,5,5,0,1
+Style: sign_40_1_Every_man_has_in,Times New Roman,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,179,207,20,1
+Style: sign_140_2_Kierkegaard___Wo,Times New Roman,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,3,359,86,98,1
+Style: sign_22854_247_Point_Transfer,Times New Roman,14,&H00FFFFFF,&H000000FF,&H008A644F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,300,47,60,1
+Style: sign_22854_248_Point_Transfer_i,Times New Roman,14,&H00FDFF33,&H000000FF,&H008A644F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,125,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.89,0:00:11.99,OpeningQuote,title,0,0,0,,{\fad(1900,0)\pos(320,35)}"To work you have the right,\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hbut not to the fruits thereof."
+Dialogue: 0,0:00:05.77,0:00:11.99,QuoteAttribution,title,0,0,0,,{\fad(950,0)\q2\pos(578,250)}Author Unknown, "Bhagavad Gita"
+Dialogue: 0,0:00:18.49,0:00:21.95,Sign_Basic,sign,0,0,0,,{\c&HD3BAAE&\3c&H563B34&\shad0\fs14\move(307,247,307,117)\frz347.9\frx2\fry358}Missed Call
+Dialogue: 0,0:00:26.92,0:00:27.94,Sign_Basic,sign,0,0,0,,{\c&H997663&\fnTimes New Roman\fs10\b1\bord0\shad0\an5\frz348.3\pos(346,183)}Send
+Dialogue: 0,0:00:26.92,0:00:28.36,Sign_Basic,sign,0,0,0,,{\c&H997663&\fnTimes New Roman\fs10\b1\bord0\shad0\an5\pos(256,162)\frz348.3}Save as draft
+Dialogue: 0,0:00:26.92,0:00:28.40,Sign_Basic,sign,0,0,0,,{\c&HE5DE50&\fnTimes New Roman\fs10\b1\bord0\shad0\an5\pos(312,130)\frz349}Send message?
+Dialogue: 0,0:00:28.40,0:00:29.86,Sign_Basic,sign,0,0,0,,{\c&HE5DE50&\fnTimes New Roman\fs10\b1\bord0\shad0\an5\pos(306,142)\frz349}Sending
+Dialogue: 0,0:00:29.94,0:00:30.44,Sign_Basic,sign,0,0,0,,{\c&HE5DE50&\fnTimes New Roman\fs10\b1\bord0\shad0\an5\pos(306,142)\frz349}Message sent
+Dialogue: 0,0:00:41.52,0:00:44.98,Main,Karuizawa,0,0,0,,"I'd like to meet you after class and talk."
+Dialogue: 0,0:00:44.98,0:00:47.94,Main,Karuizawa,0,0,0,,"And what are you calling me for?"
+Dialogue: 0,0:00:47.94,0:00:50.94,Main,Karuizawa,0,0,0,,Doesn't he know what day today is?!
+Dialogue: 0,0:00:54.32,0:00:55.28,Main,Karuizawa,0,0,0,,Nothing serious.
+Dialogue: 0,0:00:55.28,0:00:58.57,Main,Karuizawa,0,0,0,,I just got the urge to call, that's all.
+Dialogue: 0,0:00:59.10,0:01:03.23,Main,Karuizawa,0,0,0,,Anyway, I'm fine with meeting up,\Nbut can we do it early?
+Dialogue: 0,0:01:03.75,0:01:05.21,Sign_Basic,sign,0,0,0,,{\fad(150,0)\c&HE5DE50&\fnTimes New Roman\fs16\b1\bord0\shad0\an5\frz8.589\frx32\fry4\pos(350,217.333)\fax.2}Sending
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\c&H000000&\an3\bord1\pos(572.166,41.499)}m 10 0 l 75 0 l 75 10 l 0 10
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&H5B00D4&\pos(239.666,56.5)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&HFFFFFF&\pos(268.666,56.5)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&H3E009A&\pos(297.666,56.5)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&HFFFFFF&\pos(326.666,56.5)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&H3E009A&\pos(355.666,56.5)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&HFFFFFF&\pos(384.666,56.5)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&H3E009A&\pos(413.666,56.5)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&HFFFFFF&\pos(442.666,56.5)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&H3E009A&\pos(471.666,56.5)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&HFFFFFF&\pos(500.666,56.5)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&HFFFFFF&\pos(529.666,56.5)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&H3E009A&\pos(558.666,56.5)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&H7B00D2&\pos(297.666,84.999)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&HFFFFFF&\pos(326.666,84.999)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&H3E009A&\pos(355.666,84.999)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&HFFFFFF&\pos(384.666,84.999)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&HFFFFFF&\pos(413.666,84.999)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&H5B00D4&\pos(442.666,84.999)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&HFFFFFF&\pos(471.666,84.999)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&H3E009A&\pos(500.666,84.999)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&HFFFFFF&\pos(529.666,84.999)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 1,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\p1\bord1\c&H3E009A&\pos(558.666,84.999)}m 0 0 l 27.5 0 l 27.5 27.5 l 0 27.5
+Dialogue: 2,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\fs11\q2\fsp2.5\an3\fscx90\fnImpact\pos(572.666,42.499)}3rd Season
+Dialogue: 2,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\fs5.5\q2\fsp0\an7\pos(285.666,72.999)}Classroom{\fs6}\Nof\Nthe\NElite
+Dialogue: 2,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\pos(402.666,56.5)}C{\c&H000000&}l{\c&HFFFFFF&}a{\c&H000000&}s{\c&HFFFFFF&}s{\c&H000000&}r{\c&HFFFFFF&}o{\c&H000000&}o{\c&HFFFFFF&}m {\c&H000000&}o{\c&HFFFFFF&}f
+Dialogue: 2,0:01:34.74,0:01:37.78,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(600,0)\c&H000000&\pos(444.666,84.999)}t{\c&HFFFFFF&}h{\c&H000000&}e {\c&HFFFFFF&}E{\c&H000000&}l{\c&HFFFFFF&}i{\c&H000000&}t{\c&HFFFFFF&}e
+Dialogue: 0,0:02:49.52,0:02:51.48,Main,Sudo,0,0,0,,Hey, Ayanokoji!
+Dialogue: 0,0:02:51.48,0:02:53.81,Main,Sudo,0,0,0,,Did you get any chocolate?
+Dialogue: 0,0:02:53.81,0:02:54.65,Main,Ayanokoji,0,0,0,,Chocolate?
+Dialogue: 0,0:02:54.90,0:02:59.90,Main,Ike,0,0,0,,Translation: he wants to know \Nif you got any from Horikita.
+Dialogue: 0,0:03:00.28,0:03:02.82,Main,Sudo,0,0,0,,Idiot! It's got nothing to do with Suzune!
+Dialogue: 0,0:03:03.45,0:03:05.45,Main,Sudo,0,0,0,,So? You get any?
+Dialogue: 0,0:03:06.37,0:03:07.95,Main,Ayanokoji,0,0,0,,I haven't gotten any.
+Dialogue: 0,0:03:07.95,0:03:09.66,Main,Ayanokoji,0,0,0,,I don't expect to get any.
+Dialogue: 0,0:03:11.41,0:03:12.79,Main,Sudo,0,0,0,,You serious?
+Dialogue: 0,0:03:12.79,0:03:13.75,Main,Ayanokoji,0,0,0,,Yes.
+Dialogue: 0,0:03:14.92,0:03:16.63,Main,Sudo,0,0,0,,Yeah, I'll bet!
+Dialogue: 0,0:03:16.63,0:03:18.81,Main,Sudo,0,0,0,,She'd never give {\i1}you{\i0} any, right?
+Dialogue: 0,0:03:20.88,0:03:24.59,Main,Sotomura,0,0,0,,Chocolate is nothing. \NI can do without it, myself.
+Dialogue: 0,0:03:24.59,0:03:26.14,Main,Ike,0,0,0,,Don't act tough.
+Dialogue: 0,0:03:26.72,0:03:29.85,Main,Ike,0,0,0,,Wait, Sotomura, what happened to \Nyour old-timey speech pattern?!
+Dialogue: 0,0:03:30.35,0:03:32.19,Main,Sotomura,0,0,0,,Oh, so you noticed.
+Dialogue: 0,0:03:32.55,0:03:36.40,Main,Sotomura,0,0,0,,Our recent meditation training \Nmade me realize my true self,
+Dialogue: 0,0:03:36.40,0:03:38.52,Main,Sotomura,0,0,0,,so I left that old character beh—
+Dialogue: 0,0:03:37.56,0:03:38.52,Main,Ike,0,0,0,,How about you, Hondo?
+Dialogue: 0,0:03:38.52,0:03:40.44,Main,Sotomura,0,0,0,,Hey, listen to my answer!
+Dialogue: 0,0:03:40.44,0:03:41.86,Main,Hondo,0,0,0,,Zero for me.
+Dialogue: 0,0:03:41.86,0:03:44.15,Main,Ike,0,0,0,,I hope I can get at least one.
+Dialogue: 0,0:03:44.15,0:03:46.70,Main,Sudo,0,0,0,,You want it from Shinohara, right?
+Dialogue: 0,0:03:46.70,0:03:48.45,Main,Ike,0,0,0,,Wh-Why would you say that?!
+Dialogue: 0,0:03:48.45,0:03:50.53,Main,Ike,0,0,0,,Why would you bring up Shinohara?!
+Dialogue: 0,0:03:50.53,0:03:53.70,Main,Hondo,0,0,0,,Well, you're always talking and stuff.
+Dialogue: 0,0:03:53.70,0:03:56.12,Main,Hondo,0,0,0,,Shinohara's got a soft \Nspot for you, right, Ike?
+Dialogue: 0,0:03:56.12,0:03:57.83,Main,Ike,0,0,0,,We're not {\i1}always{\i0} talking!
+Dialogue: 0,0:03:57.83,0:03:59.04,Main,Ike,0,0,0,,I don't like her like that.
+Dialogue: 0,0:03:59.04,0:04:02.63,Main,Sudo,0,0,0,,Just admit it, man. You like her, right?
+Dialogue: 0,0:04:02.63,0:04:04.42,Main,Ike,0,0,0,,N-No!
+Dialogue: 0,0:04:04.42,0:04:05.26,Main,Hondo,0,0,0,,I get it!
+Dialogue: 0,0:04:05.26,0:04:06.93,Main,Hondo,0,0,0,,The girls are just feeling shy,
+Dialogue: 0,0:04:06.93,0:04:09.22,Main,Hondo,0,0,0,,so they haven't started handing \Nout their chocolate yet.
+Dialogue: 0,0:04:09.22,0:04:09.80,Main,Ike,0,0,0,,Maybe!
+Dialogue: 0,0:04:09.80,0:04:12.31,Main,Sudo,0,0,0,,We might still have a chance!
+Dialogue: 0,0:04:13.43,0:04:14.06,Main,Hirata,0,0,0,,Whoops...
+Dialogue: 0,0:04:16.35,0:04:17.81,Main,Hirata,0,0,0,,Morning, everyone.
+Dialogue: 0,0:04:20.56,0:04:22.44,Main,Hondo,0,0,0,,Amazing.
+Dialogue: 0,0:04:22.44,0:04:25.94,Main,Sudo,0,0,0,,I guess they're not just feeling shy.
+Dialogue: 0,0:04:25.94,0:04:29.49,Main,Ike,0,0,0,,He breaks up with Karuizawa \Nand immediately gets this?
+Dialogue: 0,0:04:33.74,0:04:34.66,Main,Horikita,0,0,0,,What?
+Dialogue: 0,0:04:35.04,0:04:38.00,Main,Ayanokoji,0,0,0,,How have things been with Kushida?
+Dialogue: 0,0:04:38.00,0:04:39.08,Main,Horikita,0,0,0,,What do you mean?
+Dialogue: 0,0:04:39.58,0:04:41.84,Main,Ayanokoji,0,0,0,,Are they going well?
+Dialogue: 0,0:04:42.13,0:04:43.34,Main,Horikita,0,0,0,,I'm not sure.
+Dialogue: 0,0:04:43.71,0:04:46.80,Main,Horikita,0,0,0,,I'm still working hard to \Nimprove our relationship.
+Dialogue: 0,0:04:47.42,0:04:49.34,Main,Horikita,0,0,0,,Interested in helping?
+Dialogue: 0,0:04:49.97,0:04:51.76,Main,Ayanokoji,0,0,0,,Just asking.
+Dialogue: 0,0:04:51.76,0:04:53.01,Main,Horikita,0,0,0,,I thought so.
+Dialogue: 0,0:04:53.39,0:04:53.97,Main,Horikita,0,0,0,,However...
+Dialogue: 0,0:04:54.85,0:04:57.98,Main,Horikita,0,0,0,,Kushida-san has been \Nchanging, little by little.
+Dialogue: 0,0:04:58.39,0:05:01.98,Main,Horikita,0,0,0,,She agreed to join me at the \NKeyaki Mall café today after class.
+Dialogue: 0,0:05:02.56,0:05:05.07,Main,Horikita,0,0,0,,Even though she usually turns \Nme down flat when I ask...
+Dialogue: 0,0:05:05.57,0:05:06.86,Main,Ayanokoji,0,0,0,,Really?
+Dialogue: 0,0:05:07.32,0:05:09.57,Main,Horikita,0,0,0,,I believe we can talk this out rationally.
+Dialogue: 0,0:05:10.57,0:05:11.95,Main,Ayanokoji,0,0,0,,I'm glad to hear it.
+Dialogue: 0,0:05:11.95,0:05:13.24,Main,Horikita,0,0,0,,You sound so detached.
+Dialogue: 0,0:05:13.99,0:05:15.33,Main,Horikita,0,0,0,,As if it doesn't concern you...
+Dialogue: 0,0:05:17.45,0:05:18.75,Main,Sudo,0,0,0,,Suzune?
+Dialogue: 0,0:05:19.37,0:05:20.50,Main,Horikita,0,0,0,,Yes?
+Dialogue: 0,0:05:20.92,0:05:22.50,Main,Sudo,0,0,0,,Um...
+Dialogue: 0,0:05:22.84,0:05:26.51,Main,Sudo,0,0,0,,When can I come by for study help?
+Dialogue: 0,0:05:27.09,0:05:29.63,Main,Horikita,0,0,0,,You're being unusually assertive today.
+Dialogue: 0,0:05:29.63,0:05:31.51,Main,Sudo,0,0,0,,Well, sure I am.
+Dialogue: 0,0:05:31.51,0:05:33.39,Main,Sudo,0,0,0,,I don't wanna be expelled.
+Dialogue: 0,0:05:33.39,0:05:35.64,Main,Sudo,0,0,0,,S-So I thought, maybe today—
+Dialogue: 0,0:05:35.64,0:05:36.52,Main,Horikita,0,0,0,,No.
+Dialogue: 0,0:05:37.10,0:05:39.77,Main,Horikita,0,0,0,,We can start after clubs conclude. \NWe'll still have time then.
+Dialogue: 0,0:05:41.74,0:05:42.90,Main,Sudo,0,0,0,,Yeah, figures.
+Dialogue: 0,0:05:54.45,0:05:58.95,Italics,Ayanokoji,0,0,0,,According to Karuizawa's report, \NIchinose stayed home again today.
+Dialogue: 0,0:06:09.51,0:06:11.18,Main,Nagumo,0,0,0,,I was wondering who that was.
+Dialogue: 0,0:06:11.76,0:06:14.68,Main,Nagumo,0,0,0,,The first-years are having a \Nsecret meeting at this hour, too?
+Dialogue: 0,0:06:20.14,0:06:21.06,Main,Ryuen,0,0,0,,Get out of my way.
+Dialogue: 0,0:06:21.52,0:06:24.69,Main,Nagumo,0,0,0,,I'm not without fondness for \Npeople like you, you know.
+Dialogue: 0,0:06:25.40,0:06:28.57,Main,Nagumo,0,0,0,,Though my student council \Nwouldn't be the place for you.
+Dialogue: 0,0:06:34.91,0:06:38.91,Main,Nagumo,0,0,0,,Now, Horikita-senpai, \Nto get down to brass tacks...
+Dialogue: 0,0:06:38.91,0:06:41.08,Main,Manabu,0,0,0,,You want to discuss this \Nin front of the first-year?
+Dialogue: 0,0:06:43.58,0:06:45.46,Main,Nagumo,0,0,0,,I don't see a problem.
+Dialogue: 0,0:06:45.75,0:06:49.88,Main,Nagumo,0,0,0,,I want you to sit out the exam tomorrow.
+Dialogue: 0,0:06:49.88,0:06:52.72,Main,Manabu,0,0,0,,I'm sure you're aware that I can't do that.
+Dialogue: 0,0:06:53.05,0:06:56.64,Main,Nagumo,0,0,0,,You haven't anticipated my next move.
+Dialogue: 0,0:06:56.64,0:06:57.85,Main,Nagumo,0,0,0,,Rather...
+Dialogue: 0,0:06:57.85,0:07:02.48,Main,Nagumo,0,0,0,,There's not a single student in this school \Nwho can anticipate what I'm thinking.
+Dialogue: 0,0:07:03.06,0:07:06.06,Main,Nagumo,0,0,0,,That includes your personal favorite.
+Dialogue: 0,0:07:06.98,0:07:08.27,Main,Nagumo,0,0,0,,Oh, that's right...
+Dialogue: 0,0:07:08.27,0:07:11.44,Main,Nagumo,0,0,0,,You were in the same group as \Nthat first-year, weren't you?
+Dialogue: 0,0:07:12.15,0:07:14.45,Main,Nagumo,0,0,0,,Ayanokoji Kiyotaka.
+Dialogue: 0,0:07:18.33,0:07:21.58,Italics,Hashimoto,0,0,0,,The man of whom Horikita \NManabu thinks most highly...
+Dialogue: 0,0:07:22.04,0:07:27.46,Italics,Hashimoto,0,0,0,,And if Ayanokoji was involved \Nin Ryuen's downfall, then...
+Dialogue: 0,0:07:28.75,0:07:30.96,Italics,Hashimoto,0,0,0,,Maybe I'm overthinking it?
+Dialogue: 0,0:07:31.67,0:07:33.97,Italics,Hashimoto,0,0,0,,He doesn't look like a man with many layers.
+Dialogue: 0,0:07:42.14,0:07:43.48,Main,Karuizawa,0,0,0,,It's so cold!
+Dialogue: 0,0:07:43.93,0:07:47.35,Main,Karuizawa,0,0,0,,Why did we have to meet up here?
+Dialogue: 0,0:07:47.35,0:07:49.36,Main,Karuizawa,0,0,0,,There've gotta be better places!
+Dialogue: 0,0:07:52.86,0:07:54.36,Italics,Hashimoto,0,0,0,,Karuizawa?
+Dialogue: 0,0:07:54.36,0:07:57.45,Main,Ayanokoji,0,0,0,,We can't exactly meet up in the lobby.
+Dialogue: 0,0:07:57.45,0:08:01.37,Main,Ayanokoji,0,0,0,,Even if you have broken up with Hirata, \Nit could give rise to unsavory rumors.
+Dialogue: 0,0:08:01.83,0:08:04.04,Main,Ayanokoji,0,0,0,,You wouldn't want that, would you?
+Dialogue: 0,0:08:04.04,0:08:05.25,Main,Karuizawa,0,0,0,,I guess not.
+Dialogue: 0,0:08:05.83,0:08:08.67,Main,Karuizawa,0,0,0,,But doesn't sneaking around \Nmake it seem more fishy?
+Dialogue: 0,0:08:09.17,0:08:12.50,Main,Karuizawa,0,0,0,,If anyone spots us, \Nit'll totally lead to rumors.
+Dialogue: 0,0:08:12.80,0:08:14.26,Main,Ayanokoji,0,0,0,,No worries there.
+Dialogue: 0,0:08:14.26,0:08:18.26,Main,Karuizawa,0,0,0,,Sheesh, you're cautious about some \Nthings and not at all about others...
+Dialogue: 0,0:08:18.26,0:08:19.26,Main,Karuizawa,0,0,0,,Fine, then.
+Dialogue: 0,0:08:19.55,0:08:21.47,Main,Karuizawa,0,0,0,,Still, it's freezing out here!
+Dialogue: 0,0:08:21.47,0:08:23.85,Main,Karuizawa,0,0,0,,I wish it could just be summer already!
+Dialogue: 0,0:08:23.85,0:08:27.94,Main,Ayanokoji,0,0,0,,When summer comes, you'll just say, \N"I wish it could be winter," won't you?
+Dialogue: 0,0:08:28.81,0:08:31.02,Main,Karuizawa,0,0,0,,That's just how girls work, okay?
+Dialogue: 0,0:08:31.61,0:08:33.57,Italics,Hashimoto,0,0,0,,What are they talking about?
+Dialogue: 0,0:08:33.94,0:08:38.45,Italics,Hashimoto,0,0,0,,Karuizawa is the one Ayanokoji's \Nsecretly been contacting?
+Dialogue: 0,0:08:39.49,0:08:43.66,Main,Karuizawa,0,0,0,,So? Why'd you call me out today specifically?
+Dialogue: 0,0:08:43.91,0:08:46.41,Main,Ayanokoji,0,0,0,,It could have been any day, actually...
+Dialogue: 0,0:08:46.41,0:08:47.96,Main,Karuizawa,0,0,0,,Really?
+Dialogue: 0,0:08:48.67,0:08:53.30,Main,Karuizawa,0,0,0,,I thought there might be a specific \Nreason you asked to see me today...
+Dialogue: 0,0:08:53.59,0:08:57.80,Main,Ayanokoji,0,0,0,,No, there's just something \NI wanted to confirm ASAP.
+Dialogue: 0,0:09:01.09,0:09:03.76,Main,Ayanokoji,0,0,0,,Does this number ring any bells for you?
+Dialogue: 0,0:09:06.85,0:09:08.89,Main,Karuizawa,0,0,0,,Not sure who it could be...
+Dialogue: 0,0:09:11.02,0:09:13.86,Main,Karuizawa,0,0,0,,They're not on my contact list.
+Dialogue: 0,0:09:13.86,0:09:16.32,Main,Karuizawa,0,0,0,,Why don't you just call them back?
+Dialogue: 0,0:09:16.32,0:09:19.86,Main,Ayanokoji,0,0,0,,I've tried several times, \Nbut their phone was turned off.
+Dialogue: 0,0:09:20.36,0:09:22.87,Main,Karuizawa,0,0,0,,Is it important? Want me to start digging?
+Dialogue: 0,0:09:23.20,0:09:23.99,Main,Ayanokoji,0,0,0,,Yeah.
+Dialogue: 0,0:09:24.53,0:09:27.00,Main,Ayanokoji,0,0,0,,That's what I wanted to speak to you about.
+Dialogue: 0,0:09:27.00,0:09:29.75,Main,Ayanokoji,0,0,0,,But don't be careless about it, all right?
+Dialogue: 0,0:09:30.08,0:09:31.25,Main,Karuizawa,0,0,0,,You got it.
+Dialogue: 0,0:09:32.58,0:09:34.26,Main,Karuizawa,0,0,0,,Is that all you wanted?
+Dialogue: 0,0:09:34.63,0:09:35.75,Main,Ayanokoji,0,0,0,,Actually...
+Dialogue: 0,0:09:37.30,0:09:38.51,Main,Karuizawa,0,0,0,,Wh-What?
+Dialogue: 0,0:09:39.05,0:09:41.93,Main,Ayanokoji,0,0,0,,Are you feeling confident about finals?
+Dialogue: 0,0:09:41.93,0:09:44.01,Main,Ayanokoji,0,0,0,,I expect them to be rather difficult.
+Dialogue: 0,0:09:44.01,0:09:45.81,Main,Karuizawa,0,0,0,,For real?
+Dialogue: 0,0:09:46.43,0:09:48.89,Main,Karuizawa,0,0,0,,Hey... you mind tutoring me?
+Dialogue: 0,0:09:51.60,0:09:52.40,Main,Karuizawa,0,0,0,,Maybe not?
+Dialogue: 0,0:09:52.94,0:09:56.53,Main,Ayanokoji,0,0,0,,I can't allow you into our study group.
+Dialogue: 0,0:09:57.11,0:09:59.90,Main,Ayanokoji,0,0,0,,We'd need late-night sessions. \NWould that be acceptable?
+Dialogue: 0,0:10:00.28,0:10:02.78,Main,Karuizawa,0,0,0,,It's better than getting expelled!
+Dialogue: 0,0:10:02.78,0:10:03.74,Main,Ayanokoji,0,0,0,,True.
+Dialogue: 0,0:10:04.12,0:10:06.16,Main,Ayanokoji,0,0,0,,We'll set it up, then.
+Dialogue: 0,0:10:07.04,0:10:08.16,Main,Karuizawa,0,0,0,,See you then!
+Dialogue: 0,0:10:08.16,0:10:10.04,Main,Ayanokoji,0,0,0,,Yeah. See you later.
+Dialogue: 0,0:10:10.04,0:10:11.67,Main,Karuizawa,0,0,0,,Uh, hey, wait!
+Dialogue: 0,0:10:12.46,0:10:13.38,Main,Karuizawa,0,0,0,,So...
+Dialogue: 0,0:10:14.67,0:10:17.30,Main,Karuizawa,0,0,0,,Can I give you a little quiz?
+Dialogue: 0,0:10:17.59,0:10:18.55,Main,Ayanokoji,0,0,0,,A quiz?
+Dialogue: 0,0:10:18.96,0:10:21.38,Main,Karuizawa,0,0,0,,What day is today?
+Dialogue: 0,0:10:23.47,0:10:28.31,Main,Ayanokoji,0,0,0,,The answer seems so obvious, \NI feel like it has to be wrong.
+Dialogue: 0,0:10:29.52,0:10:32.64,Main,Karuizawa,0,0,0,,Don't overthink it. \NJust give me your first impulse.
+Dialogue: 0,0:10:33.15,0:10:33.85,Main,Ayanokoji,0,0,0,,Valenti—
+Dialogue: 0,0:10:33.85,0:10:35.44,Main,Karuizawa,0,0,0,,Yep, that's right.
+Dialogue: 0,0:10:35.73,0:10:37.44,Main,Ayanokoji,0,0,0,,For me?
+Dialogue: 0,0:10:37.44,0:10:41.24,Main,Karuizawa,0,0,0,,I originally bought it for Yosuke-kun,
+Dialogue: 0,0:10:41.78,0:10:43.82,Main,Karuizawa,0,0,0,,but there's no need for that now, so...
+Dialogue: 0,0:10:44.20,0:10:46.58,Main,Ayanokoji,0,0,0,,You prepared it for Hirata, then?
+Dialogue: 0,0:10:46.87,0:10:48.66,Main,Karuizawa,0,0,0,,What, got a problem with that?
+Dialogue: 0,0:10:48.66,0:10:54.42,Main,Ayanokoji,0,0,0,,No, I was just thinking, you must prepare \Nfor Valentine's Day a long time in advance.
+Dialogue: 0,0:10:54.42,0:10:57.09,Main,Karuizawa,0,0,0,,I-I like to be prepared.
+Dialogue: 0,0:10:58.00,0:11:00.09,Main,Karuizawa,0,0,0,,I'd made up my mind to break up,
+Dialogue: 0,0:11:00.09,0:11:03.59,Main,Karuizawa,0,0,0,,but there was a chance that I \Nmight still need it, you know?
+Dialogue: 0,0:11:04.22,0:11:06.09,Main,Ayanokoji,0,0,0,,Is that how it works?
+Dialogue: 0,0:11:06.30,0:11:10.60,Main,Karuizawa,0,0,0,,Well, since you don't have any romantic \Nexperience, I'm sure you wouldn't get it.
+Dialogue: 0,0:11:11.35,0:11:12.56,Main,Ayanokoji,0,0,0,,I suppose.
+Dialogue: 0,0:11:12.93,0:11:17.90,Main,Karuizawa,0,0,0,,Here I thought you'd chosen today \N'cause you wanted me to give you some.
+Dialogue: 0,0:11:17.90,0:11:21.32,Main,Ayanokoji,0,0,0,,Sorry. I wasn't thinking about that at all.
+Dialogue: 0,0:11:21.61,0:11:24.82,Main,Karuizawa,0,0,0,,Out of curiosity, did you \Nget any from anyone else?
+Dialogue: 0,0:11:24.82,0:11:26.45,Main,Ayanokoji,0,0,0,,No, none.
+Dialogue: 0,0:11:26.74,0:11:28.37,Main,Karuizawa,0,0,0,,Zero?!
+Dialogue: 0,0:11:28.37,0:11:31.20,Main,Karuizawa,0,0,0,,Typical. You're a man cut out for zeroes.
+Dialogue: 0,0:11:31.62,0:11:32.87,Main,Ayanokoji,0,0,0,,I suppose.
+Dialogue: 0,0:11:33.25,0:11:34.75,Main,Ayanokoji,0,0,0,,But are you sure about this?
+Dialogue: 0,0:11:34.75,0:11:37.46,Main,Ayanokoji,0,0,0,,If you give it to me, \Nit won't be zero anymore.
+Dialogue: 0,0:11:37.46,0:11:40.00,Main,Karuizawa,0,0,0,,Yeah, which would be \Npretty pathetic in itself.
+Dialogue: 0,0:11:40.00,0:11:42.84,Main,Karuizawa,0,0,0,,Think of me as your emergency backup.
+Dialogue: 0,0:11:43.13,0:11:47.05,Main,Karuizawa,0,0,0,,And feel free to give me double as thanks!
+Dialogue: 0,0:11:47.05,0:11:49.10,Main,Ayanokoji,0,0,0,,Is that how it works?
+Dialogue: 0,0:11:49.43,0:11:51.60,Main,Karuizawa,0,0,0,,You bet that's how it works.
+Dialogue: 0,0:11:52.14,0:11:54.23,Italics,Hashimoto,0,0,0,,Valentine's chocolate, huh?
+Dialogue: 0,0:11:54.81,0:11:59.15,Italics,Hashimoto,0,0,0,,If it's all romance stuff, I guess that's \Nabout as interesting as it'll get.
+Dialogue: 0,0:11:59.94,0:12:00.48,Italics,Hashimoto,0,0,0,,No, wait...
+Dialogue: 0,0:12:04.95,0:12:06.32,Main,Karuizawa,0,0,0,,By the way...
+Dialogue: 0,0:12:12.29,0:12:15.00,Main,Karuizawa,0,0,0,,A-Anyway, I'll head home.
+Dialogue: 0,0:12:15.25,0:12:19.00,Main,Hashimoto,0,0,0,,Hey there, you two.
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\c&H000000&\an3\bord0.6\pos(593.967,68.7)}m 6 0 l 45 0 l 45 6 l 0 6
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(394.467,77.7)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(411.867,77.7)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(429.267,77.7)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(446.667,77.7)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(464.067,77.7)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(481.467,77.7)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(498.867,77.7)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(516.267,77.7)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(533.667,77.7)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(551.067,77.7)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(568.467,77.7)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(585.867,77.7)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(429.267,94.8)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(446.667,94.8)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(464.067,94.8)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(481.467,94.8)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(498.867,94.8)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(516.267,94.8)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(533.667,94.8)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(551.067,94.8)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&HFFFFFF&\pos(568.467,94.8)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\p1\bord0.6\c&H5B00D4&\pos(585.867,94.8)}m 0 0 l 16.5 0 l 16.5 16.5 l 0 16.5
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\fs6.6\q2\fsp1.5\an3\fscx90\fnImpact\pos(594.267,69.3)}3rd Season
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\fs3.3\q2\fsp0\an7\pos(422.067,87.6)}Classroom{\fs3.6}\Nof\Nthe\NElite
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\fscx60\fscy60\pos(492.267,77.7)}C{\c&H000000&}l{\c&HFFFFFF&}a{\c&H000000&}s{\c&HFFFFFF&}s{\c&H000000&}r{\c&HFFFFFF&}o{\c&H000000&}o{\c&HFFFFFF&}m {\c&H000000&}o{\c&HFFFFFF&}f
+Dialogue: 0,0:12:22.63,0:12:27.01,sign_1521_9_Classroom_of_the,,0,0,0,,{\fad(2750,0)\c&H000000&\fscx60\fscy60\pos(517.467,94.8)}t{\c&HFFFFFF&}h{\c&H000000&}e {\c&HFFFFFF&}E{\c&H000000&}l{\c&HFFFFFF&}i{\c&H000000&}t{\c&HFFFFFF&}e
+Dialogue: 0,0:12:30.22,0:12:31.51,Main,Karuizawa,0,0,0,,Um...
+Dialogue: 0,0:12:31.84,0:12:32.89,Main,Karuizawa,0,0,0,,Who's that?
+Dialogue: 0,0:12:32.89,0:12:34.93,Main,Ayanokoji,0,0,0,,Hashimoto from Class A.
+Dialogue: 0,0:12:35.35,0:12:37.89,Main,Ayanokoji,0,0,0,,We were in the same group \Nat the training camp.
+Dialogue: 0,0:12:38.35,0:12:40.89,Main,Hashimoto,0,0,0,,A secret meeting in a place like this?
+Dialogue: 0,0:12:40.89,0:12:43.41,Main,Hashimoto,0,0,0,,You're more than meets the eye, Ayanokoji.
+Dialogue: 0,0:12:44.11,0:12:46.02,Main,Karuizawa,0,0,0,,There's nothing secret about it!
+Dialogue: 0,0:12:46.02,0:12:47.69,Main,Hashimoto,0,0,0,,No need to hide it.
+Dialogue: 0,0:12:47.69,0:12:49.53,Main,Hashimoto,0,0,0,,Today's Valentine's Day.
+Dialogue: 0,0:12:50.40,0:12:53.07,Main,Ayanokoji,0,0,0,,We weren't meeting up for Valentine's Day.
+Dialogue: 0,0:12:53.28,0:12:56.66,Main,Hashimoto,0,0,0,,No, no, I can see you've got chocolate.
+Dialogue: 0,0:12:57.62,0:13:02.87,Main,Ayanokoji,0,0,0,,I was on my way to the library \Nwhen Karuizawa called me over.
+Dialogue: 0,0:13:03.50,0:13:06.21,Main,Hashimoto,0,0,0,,Well, it amounts to the same thing.
+Dialogue: 0,0:13:06.67,0:13:08.80,Main,Ayanokoji,0,0,0,,I'm not sure I follow.
+Dialogue: 0,0:13:09.13,0:13:11.09,Main,Ayanokoji,0,0,0,,Do you have some issue with this?
+Dialogue: 0,0:13:11.09,0:13:13.39,Main,Hashimoto,0,0,0,,Well, it's just strange, right?
+Dialogue: 0,0:13:13.39,0:13:16.35,Main,Hashimoto,0,0,0,,Karuizawa's last boyfriend \Nwas Hirata, you know.
+Dialogue: 0,0:13:16.72,0:13:20.43,Main,Hashimoto,0,0,0,,Wanting Ayanokoji so bad you'd dump \Na swell guy like Hirata for him...
+Dialogue: 0,0:13:20.93,0:13:23.10,Main,Hashimoto,0,0,0,,That just piques the curiosity, you know?
+Dialogue: 0,0:13:23.48,0:13:25.06,Main,Karuizawa,0,0,0,,Oh, sorry.
+Dialogue: 0,0:13:25.06,0:13:27.98,Main,Karuizawa,0,0,0,,I think you've got the wrong idea about this.
+Dialogue: 0,0:13:27.98,0:13:28.98,Main,Hashimoto,0,0,0,,Wrong idea?
+Dialogue: 0,0:13:28.98,0:13:30.03,Main,Karuizawa,0,0,0,,Yeah.
+Dialogue: 0,0:13:30.36,0:13:33.32,Main,Karuizawa,0,0,0,,I was originally gonna give it to Hirata-kun,
+Dialogue: 0,0:13:33.32,0:13:36.07,Main,Karuizawa,0,0,0,,but throwing it out felt like a waste.
+Dialogue: 0,0:13:36.07,0:13:39.12,Main,Karuizawa,0,0,0,,So I needed a random guy, \Nand I chose Ayanokoji.
+Dialogue: 0,0:13:39.45,0:13:43.16,Main,Hashimoto,0,0,0,,You two seemed pretty friendly \Nfor him to be a "random guy."
+Dialogue: 0,0:13:43.16,0:13:45.25,Main,Hashimoto,0,0,0,,Sorry, I'm not buying it.
+Dialogue: 0,0:13:45.50,0:13:49.30,Main,Karuizawa,0,0,0,,Huh? You just jump out here \Nand start accusing us...
+Dialogue: 0,0:13:49.30,0:13:51.05,Main,Karuizawa,0,0,0,,What's your problem, anyway?
+Dialogue: 0,0:13:51.05,0:13:54.26,Main,Hashimoto,0,0,0,,I just want to know the truth.
+Dialogue: 0,0:13:54.84,0:13:58.05,Main,Ayanokoji,0,0,0,,You might as well just be honest with him.
+Dialogue: 0,0:13:58.39,0:14:02.27,Main,Ayanokoji,0,0,0,,Trying to hide it like this \Nwill make trouble later.
+Dialogue: 0,0:14:02.98,0:14:06.81,Main,Ayanokoji,0,0,0,,It would be worse if he thought \Nwe were dating, wouldn't it?
+Dialogue: 0,0:14:08.98,0:14:12.69,Main,Karuizawa,0,0,0,,Fine, I'll tell you, but you'd better \Nnot spread this around, okay?
+Dialogue: 0,0:14:12.69,0:14:13.90,Main,Hashimoto,0,0,0,,My lips are sealed.
+Dialogue: 0,0:14:14.32,0:14:17.82,Main,Karuizawa,0,0,0,,I'm just handing it off to Ayanokoji-kun
+Dialogue: 0,0:14:17.82,0:14:20.79,Main,Karuizawa,0,0,0,,so he can give it to the guy \NI've really got my eye on.
+Dialogue: 0,0:14:21.08,0:14:24.21,Main,Hashimoto,0,0,0,,So Ayanokoji is a go-between?
+Dialogue: 0,0:14:24.21,0:14:27.04,Main,Karuizawa,0,0,0,,That's right. Get it?
+Dialogue: 0,0:14:27.04,0:14:29.75,Main,Hashimoto,0,0,0,,So who's the chocolate really for?
+Dialogue: 0,0:14:29.75,0:14:33.55,Main,Karuizawa,0,0,0,,Huh? You expect me to tell \Nthat to some guy I just met?
+Dialogue: 0,0:14:33.55,0:14:34.55,Main,Karuizawa,0,0,0,,Are you some kinda moron?
+Dialogue: 0,0:14:34.55,0:14:36.09,Main,Hashimoto,0,0,0,,Well, I...
+Dialogue: 0,0:14:36.68,0:14:38.01,Main,Hashimoto,0,0,0,,Well, fair enough.
+Dialogue: 0,0:14:38.01,0:14:40.18,Main,Karuizawa,0,0,0,,Seriously, back off already.
+Dialogue: 0,0:14:41.93,0:14:44.56,Main,Hashimoto,0,0,0,,Yeah, guess I misinterpreted.
+Dialogue: 0,0:14:45.23,0:14:48.56,Main,Hashimoto,0,0,0,,Here I thought you two had \Na special relationship.
+Dialogue: 0,0:14:48.56,0:14:52.57,Main,Karuizawa,0,0,0,,It's not any of your business, so butt out.
+Dialogue: 0,0:14:54.40,0:14:55.70,Main,Hashimoto,0,0,0,,Well...
+Dialogue: 0,0:14:56.24,0:14:58.95,Main,Hashimoto,0,0,0,,It's not exactly {\i1}not{\i0} my business.
+Dialogue: 0,0:14:58.95,0:15:00.33,Main,Karuizawa,0,0,0,,What's your problem?
+Dialogue: 0,0:15:02.37,0:15:04.79,Main,Hashimoto,0,0,0,,I've liked you for a while now.
+Dialogue: 0,0:15:05.25,0:15:08.33,Main,Hashimoto,0,0,0,,You should go out with me, Karuizawa.
+Dialogue: 0,0:15:09.96,0:15:13.09,Main,Hashimoto,0,0,0,,I dunno who it is you've got your eye on now,
+Dialogue: 0,0:15:13.09,0:15:15.55,Main,Hashimoto,0,0,0,,but you haven't told him \Nhow you feel yet, right?
+Dialogue: 0,0:15:16.34,0:15:18.09,Main,Karuizawa,0,0,0,,What are you talking about?
+Dialogue: 0,0:15:18.09,0:15:20.85,Main,Karuizawa,0,0,0,,You really think I'd agree \Nto go out with you like this?
+Dialogue: 0,0:15:21.18,0:15:25.48,Main,Hashimoto,0,0,0,,Love is unpredictable. \NThat's what makes it so interesting.
+Dialogue: 0,0:15:25.73,0:15:28.23,Main,Ayanokoji,0,0,0,,Okay. Well, I'm leaving.
+Dialogue: 0,0:15:28.23,0:15:29.10,Main,Hashimoto,0,0,0,,H-Hey!
+Dialogue: 0,0:15:29.10,0:15:29.85,Main,Karuizawa,0,0,0,,Huh?
+Dialogue: 0,0:15:29.85,0:15:32.19,Main,Karuizawa,0,0,0,,Wait, I'm leaving, too!
+Dialogue: 0,0:15:33.48,0:15:35.07,Main,Hashimoto,0,0,0,,What a cold fish.
+Dialogue: 0,0:15:35.07,0:15:36.65,Main,Karuizawa,0,0,0,,What a creep!
+Dialogue: 0,0:15:38.20,0:15:40.57,Main,Hashimoto,0,0,0,,Sorry, Ayanokoji.
+Dialogue: 0,0:15:40.57,0:15:42.70,Main,Hashimoto,0,0,0,,I came in at an awkward time.
+Dialogue: 0,0:15:42.70,0:15:43.99,Main,Ayanokoji,0,0,0,,I'm fine with it.
+Dialogue: 0,0:15:44.33,0:15:47.41,Main,Hashimoto,0,0,0,,There's a lot I wanted to ask you about.
+Dialogue: 0,0:15:47.41,0:15:49.37,Main,Hashimoto,0,0,0,,Can I get your contact info?
+Dialogue: 0,0:15:50.63,0:15:51.63,Main,Ayanokoji,0,0,0,,Sure.
+Dialogue: 0,0:15:56.46,0:15:57.72,Main,Hashimoto,0,0,0,,Thanks a bunch.
+Dialogue: 0,0:15:58.47,0:16:01.34,Main,Hashimoto,0,0,0,,Well, I should head home for now.
+Dialogue: 0,0:16:01.97,0:16:04.01,Main,Hashimoto,0,0,0,,Later, Ayanokoji!
+Dialogue: 0,0:16:04.35,0:16:05.14,Main,Ayanokoji,0,0,0,,Sure.
+Dialogue: 0,0:16:12.44,0:16:15.53,Main,Ayanokoji,0,0,0,,I certainly wasn't expecting to get five.
+Dialogue: 0,0:16:12.44,0:16:15.90,Sign_Basic,sign,0,0,0,,{\fad(1425,0)\fs12\shad0\c&HB9B9BD&\3c&HF4F8FA&\frx354\fry354\frz8.195\pos(349.333,97.333)}Airi
+Dialogue: 0,0:16:12.44,0:16:15.90,Sign_Basic,sign,0,0,0,,{\fad(1425,0)\fs10\shad0\frx354\fry354\pos(456,289)\frz329\3c&HDCE7DD&\c&H8E8C9A&}Haruka
+Dialogue: 0,0:16:18.82,0:16:20.16,Main,Ayanokoji,0,0,0,,I guess it's about time.
+Dialogue: 0,0:16:41.38,0:16:42.47,Italics,Ichinose,0,0,0,,Yes?
+Dialogue: 0,0:16:42.47,0:16:44.01,Main,Ayanokoji,0,0,0,,It's me, Ichinose.
+Dialogue: 0,0:16:44.01,0:16:45.35,Main,Ayanokoji,0,0,0,,Ayanokoji.
+Dialogue: 0,0:16:45.68,0:16:47.52,Italics,Ichinose,0,0,0,,Ayanokoji-kun?
+Dialogue: 0,0:16:47.93,0:16:49.06,Italics,Ichinose,0,0,0,,What are you—
+Dialogue: 0,0:16:49.81,0:16:51.27,Main,Ayanokoji,0,0,0,,That sounds bad.
+Dialogue: 0,0:16:51.85,0:16:52.69,Main,Ayanokoji,0,0,0,,You have a cold?
+Dialogue: 0,0:16:53.02,0:16:56.69,Italics,Ichinose,0,0,0,,Yeah. So it's not a great time.
+Dialogue: 0,0:16:57.15,0:16:59.99,Main,Ayanokoji,0,0,0,,I thought maybe you hadn't been eating well.
+Dialogue: 0,0:17:00.82,0:17:02.66,Main,Ayanokoji,0,0,0,,Can you keep rice porridge down?
+Dialogue: 0,0:17:03.11,0:17:04.16,Italics,Ichinose,0,0,0,,But...
+Dialogue: 0,0:17:04.57,0:17:07.12,Main,Ayanokoji,0,0,0,,I'd rather no one see me out here.
+Dialogue: 0,0:17:07.72,0:17:09.73,Main,Ayanokoji,0,0,0,,Can you at least accept a check-in visit?
+Dialogue: 0,0:17:10.76,0:17:12.04,Italics,Ichinose,0,0,0,,Hang on a minute.
+Dialogue: 0,0:17:15.25,0:17:18.96,Main,Ichinose,0,0,0,,You don't take no for an \Nanswer, Ayanokoji-kun.
+Dialogue: 0,0:17:19.42,0:17:20.55,Main,Ayanokoji,0,0,0,,Sorry.
+Dialogue: 0,0:17:21.30,0:17:21.97,Main,Ayanokoji,0,0,0,,Here.
+Dialogue: 0,0:17:23.28,0:17:24.59,Main,Ichinose,0,0,0,,Thanks, I—
+Dialogue: 0,0:17:27.14,0:17:28.47,Main,Ichinose,0,0,0,,Sorry.
+Dialogue: 0,0:17:28.47,0:17:29.47,Main,Ayanokoji,0,0,0,,Are you all right?
+Dialogue: 0,0:17:29.81,0:17:30.77,Main,Ichinose,0,0,0,,Yeah.
+Dialogue: 0,0:17:31.23,0:17:34.48,Main,Ichinose,0,0,0,,Would you like to come inside?
+Dialogue: 0,0:17:39.94,0:17:41.11,Main,Ayanokoji,0,0,0,,Feeling better?
+Dialogue: 0,0:17:41.44,0:17:44.24,Main,Ichinose,0,0,0,,Yeah. Thanks a lot.
+Dialogue: 0,0:17:44.57,0:17:47.91,Main,Ichinose,0,0,0,,But... you really could have just called.
+Dialogue: 0,0:17:48.28,0:17:50.66,Main,Ayanokoji,0,0,0,,I wanted to talk in person.
+Dialogue: 0,0:17:51.00,0:17:53.12,Main,Ayanokoji,0,0,0,,Sorry to come so late.
+Dialogue: 0,0:17:54.08,0:17:55.34,Main,Ayanokoji,0,0,0,,Have you seen a doctor?
+Dialogue: 0,0:17:55.34,0:17:57.84,Main,Ichinose,0,0,0,,Yeah. They said it's a cold.
+Dialogue: 0,0:17:57.84,0:17:59.13,Main,Ayanokoji,0,0,0,,I see.
+Dialogue: 0,0:17:59.42,0:18:03.09,Main,Ichinose,0,0,0,,Sorry to make you wear a mask, too.
+Dialogue: 0,0:18:04.13,0:18:07.14,Main,Ichinose,0,0,0,,I don't want anyone catching my cold.
+Dialogue: 0,0:18:08.39,0:18:10.72,Main,Ichinose,0,0,0,,I'm feeling quite a lot better, though...
+Dialogue: 0,0:18:10.72,0:18:15.85,Main,Ichinose,0,0,0,,I think the oversleeping and under-eating \Nis doing most of the damage at this point.
+Dialogue: 0,0:18:17.19,0:18:20.53,Main,Ichinose,0,0,0,,And this... rice porridge? Did you make it?
+Dialogue: 0,0:18:20.53,0:18:21.48,Main,Ayanokoji,0,0,0,,Yeah.
+Dialogue: 0,0:18:21.82,0:18:23.40,Main,Ichinose,0,0,0,,I see.
+Dialogue: 0,0:18:23.40,0:18:25.82,Main,Ichinose,0,0,0,,I can't remember the last time I ate.
+Dialogue: 0,0:18:26.16,0:18:28.38,Main,Ayanokoji,0,0,0,,You need to eat proper meals.
+Dialogue: 0,0:18:28.38,0:18:29.33,Main,Ichinose,0,0,0,,Right.
+Dialogue: 0,0:18:29.80,0:18:32.89,Main,Ichinose,0,0,0,,I can't remember the last time \NI saw anyone in person, either.
+Dialogue: 0,0:18:33.12,0:18:34.58,Main,Ayanokoji,0,0,0,,Really?
+Dialogue: 0,0:18:35.46,0:18:39.71,Main,Ichinose,0,0,0,,A bunch of my friends came by to \Nsee me, but I turned them away.
+Dialogue: 0,0:18:39.71,0:18:43.63,Main,Ichinose,0,0,0,,After that, I think they were \Nconvinced I was depressed,
+Dialogue: 0,0:18:43.92,0:18:45.34,Main,Ichinose,0,0,0,,so they stopped trying.
+Dialogue: 0,0:18:46.70,0:18:49.99,Main,Ichinose,0,0,0,,Did you want to talk to me in person
+Dialogue: 0,0:18:49.99,0:18:52.81,Main,Ichinose,0,0,0,,because you were worried \Nthat I was taking off
+Dialogue: 0,0:18:52.81,0:18:54.68,Main,Ichinose,0,0,0,,because of the rumors?
+Dialogue: 0,0:18:55.10,0:18:56.41,Main,Ichinose,0,0,0,,I appreciate it.
+Dialogue: 0,0:18:57.30,0:19:01.27,Main,Ichinose,0,0,0,,I'd never skip school because \Nof some silly rumors, though.
+Dialogue: 0,0:19:01.94,0:19:03.53,Main,Ayanokoji,0,0,0,,You're a strong person.
+Dialogue: 0,0:19:04.19,0:19:06.92,Main,Ichinose,0,0,0,,I'm not sure about "strong"...
+Dialogue: 0,0:19:07.45,0:19:09.50,Italics,Ayanokoji,0,0,0,,She puts on a strong front,
+Dialogue: 0,0:19:09.50,0:19:14.18,Italics,Ayanokoji,0,0,0,,but emotional stress can have a \Ndemeritorious effect on the immune system.
+Dialogue: 0,0:19:17.21,0:19:20.54,Main,Ichinose,0,0,0,,Well, you shouldn't stay too long. \NYou'll catch my cold.
+Dialogue: 0,0:19:21.29,0:19:24.92,Main,Ayanokoji,0,0,0,,Yeah. I'm sorry for keeping you up, too.
+Dialogue: 0,0:19:24.92,0:19:27.93,Main,Ichinose,0,0,0,,Not at all. Thanks for visiting.
+Dialogue: 0,0:19:28.13,0:19:30.85,Main,Ayanokoji,0,0,0,,Yeah. Don't overdo it, okay?
+Dialogue: 0,0:19:34.68,0:19:35.93,Italics,Ayanokoji,0,0,0,,That should do it.
+Dialogue: 0,0:19:36.31,0:19:38.02,Main,Miyamoto,0,0,0,,Hey, are you kidding me?
+Dialogue: 0,0:19:36.89,0:19:38.39,Main_Top,Shinohara,0,0,0,,What in the world?!
+Dialogue: 0,0:19:38.39,0:19:40.27,Main_Top,Hondo,0,0,0,,Wh-Who could have done this?
+Dialogue: 0,0:19:38.39,0:19:40.27,Main,Miyashita,0,0,0,,You all got it, too?
+Dialogue: 0,0:19:40.27,0:19:41.02,Main_Top,Ike,0,0,0,,This is nuts!
+Dialogue: 0,0:19:41.40,0:19:42.90,Main,Sotomura,0,0,0,,Is this stuff true?
+Dialogue: 0,0:19:42.90,0:19:44.07,Main,Yamauchi,0,0,0,,That's awesome!
+Dialogue: 0,0:19:43.78,0:19:46.03,Sign_Basic,sign,0,0,0,,{\an7\fs14\b1\fnTimes New Roman\3c&HDEC8C5&\shad0\c&HA48B86&}Let's all have a study meeting to prepare for the test!\N{\c&HD3B9B6&\3c&H181110&}Ayanokoji Kiyotaka has a crush on Karuizawa Kei \N Hondo Ryotaro is only into fat girls
+Dialogue: 0,0:19:44.07,0:19:46.03,Main,Matsushita,0,0,0,,I had no idea.
+Dialogue: 0,0:19:46.03,0:19:47.45,Main,Sudo,0,0,0,,This is too damn mean!
+Dialogue: 0,0:19:46.03,0:19:48.28,Sign_Basic,sign,0,0,0,,{\an7\fs14\b1\fnTimes New Roman\shad0\c&HD3B9B6&\3c&H181110&}Ayanokoji Kiyotaka has a crush on Karuizawa Kei \N Hondo Ryotaro is only into fat girls\NShinohara Satsuki was a prostitute in middle school
+Dialogue: 0,0:19:47.45,0:19:50.53,Main,Wang,0,0,0,,By the time I got to class, \Nit was already everywhere...
+Dialogue: 0,0:19:48.28,0:19:50.53,Sign_Basic,sign,0,0,0,,{\an7\fs14\b1\fnTimes New Roman\shad0\c&HD3B9B6&\3c&H181110&}Shinohara Satsuki was a prostitute in middle school\N Sato Maya hates Onodera Kayano
+Dialogue: 0,0:19:50.53,0:19:52.78,Sign_Basic,sign,0,0,0,,{\an7\fs14\b1\fnTimes New Roman\shad0\c&HD3B9B6&\3c&H181110&}Shinohara Satsuki was a prostitute in middle school\N Sato Maya hates Onodera Kayano
+Dialogue: 0,0:19:55.31,0:19:56.79,Main,Shinohara,0,0,0,,They can't do this to me!
+Dialogue: 0,0:19:57.04,0:20:00.08,Main,Yamauchi,0,0,0,,Hey, Sato, you hate Onodera?
+Dialogue: 0,0:20:00.08,0:20:01.71,Main,Sato,0,0,0,,I-I do not!
+Dialogue: 0,0:20:01.71,0:20:03.67,Main,Matsushita,0,0,0,,This is all made up!
+Dialogue: 0,0:20:03.67,0:20:07.97,Main,Yamauchi,0,0,0,,I guess I'd better ask Onodera \Nif she knows what it's about.
+Dialogue: 0,0:20:07.97,0:20:09.30,Main,Sato,0,0,0,,H-Hey! Don't do that!
+Dialogue: 0,0:20:09.55,0:20:13.10,Main,Yamauchi,0,0,0,,But if it's not true, it's okay to ask, right?
+Dialogue: 0,0:20:13.10,0:20:14.43,Main,Wang,0,0,0,,That's awful, Yamauchi-kun!
+Dialogue: 0,0:20:14.43,0:20:15.06,Main,Yamauchi,0,0,0,,Shut up!
+Dialogue: 0,0:20:15.06,0:20:16.72,Main,Ike,0,0,0,,Knock it off already, man!
+Dialogue: 0,0:20:16.72,0:20:19.81,Main,Yamauchi,0,0,0,,I just wanna confirm if it's made up or not.
+Dialogue: 0,0:20:20.48,0:20:21.81,Main,Yamauchi,0,0,0,,Hey, Hondo!
+Dialogue: 0,0:20:22.40,0:20:24.32,Main,Yamauchi,0,0,0,,Is yours true, too?
+Dialogue: 0,0:20:25.57,0:20:27.07,Main,Yamauchi,0,0,0,,Ayanokoji!
+Dialogue: 0,0:20:27.40,0:20:30.41,Main,Yamauchi,0,0,0,,It says you're into Karuizawa!
+Dialogue: 0,0:20:30.41,0:20:31.36,Main,Ayanokoji,0,0,0,,I'm not.
+Dialogue: 0,0:20:31.70,0:20:33.99,Main,Yamauchi,0,0,0,,Aw, you're not?
+Dialogue: 0,0:20:33.99,0:20:35.62,Main,Yamauchi,0,0,0,,That's boring.
+Dialogue: 0,0:20:37.41,0:20:40.12,Main,Horikita,0,0,0,,The message board is awash with ugly rumors.
+Dialogue: 0,0:20:40.58,0:20:42.13,Main,Horikita,0,0,0,,There's one about you, too.
+Dialogue: 0,0:20:42.46,0:20:45.34,Main,Yamauchi,0,0,0,,Shi-no-ha-ra!
+Dialogue: 0,0:20:45.34,0:20:47.17,Main,Yamauchi,0,0,0,,You were a prostitute?!
+Dialogue: 0,0:20:47.17,0:20:48.38,Main,Shinohara,0,0,0,,I was not!
+Dialogue: 0,0:20:48.38,0:20:50.88,Main,Ike,0,0,0,,Yamauchi, knock it off already!
+Dialogue: 0,0:20:50.88,0:20:52.26,Main,Yamauchi,0,0,0,,C'mon, don't hide it!
+Dialogue: 0,0:20:52.26,0:20:53.68,Main,Shinohara,0,0,0,,This is stupid!
+Dialogue: 0,0:20:53.68,0:20:55.89,Main,Shinohara,0,0,0,,It's just a bunch of made-up rumors!
+Dialogue: 0,0:20:55.89,0:20:58.14,Main,Shinohara,0,0,0,,Maybe you wrote them yourself!
+Dialogue: 0,0:20:58.14,0:21:00.39,Main,Yamauchi,0,0,0,,Huh? It wasn't me!
+Dialogue: 0,0:21:00.73,0:21:04.02,Main,Shinohara,0,0,0,,Enough! Just come clean already!
+Dialogue: 0,0:21:04.02,0:21:06.48,Main,Shinohara,0,0,0,,Who wrote these rumors?!
+Dialogue: 0,0:21:06.48,0:21:09.74,Main,Yamauchi,0,0,0,,You know what they say. \N"Where there's smoke, there's fire."
+Dialogue: 0,0:21:09.74,0:21:10.65,Main,Ike,0,0,0,,Just shut up!
+Dialogue: 0,0:21:10.90,0:21:15.78,Main,Yamauchi,0,0,0,,I mean, the real problem is the \Npeople getting written about, right?
+Dialogue: 0,0:21:15.78,0:21:17.20,Main,Yamauchi,0,0,0,,Like, seriously.
+Dialogue: 0,0:21:17.54,0:21:19.87,Main,Yamauchi,0,0,0,,Come clean already.
+Dialogue: 0,0:21:20.12,0:21:21.12,Main,Ike,0,0,0,,Yamauchi!
+Dialogue: 0,0:21:21.12,0:21:22.21,Main,Sudo,0,0,0,,Wait!
+Dialogue: 0,0:21:22.54,0:21:24.79,Main,Sudo,0,0,0,,Yamauchi, you knock it off, too.
+Dialogue: 0,0:21:24.79,0:21:26.25,Main,Yamauchi,0,0,0,,Aw, c'mon.
+Dialogue: 0,0:21:26.25,0:21:29.96,Main,Yamauchi,0,0,0,,Shinohara's always so stuck-up. \NThis is our chance to get some payback.
+Dialogue: 0,0:21:29.96,0:21:31.55,Main,Ike,0,0,0,,Payback?!
+Dialogue: 0,0:21:31.92,0:21:33.38,Main,Ike,0,0,0,,She said it wasn't true!
+Dialogue: 0,0:21:33.80,0:21:35.39,Main,Yamauchi,0,0,0,,No way to know that.
+Dialogue: 0,0:21:35.39,0:21:39.39,Main,Yamauchi,0,0,0,,It's always the plain girls like her \Nwho've done the nastiest stuff.
+Dialogue: 0,0:21:39.68,0:21:41.14,Main,Ike,0,0,0,,It's not true!
+Dialogue: 0,0:21:41.14,0:21:42.89,Main,Shinohara,0,0,0,,I didn't do it.
+Dialogue: 0,0:21:42.89,0:21:44.60,Main,Sudo,0,0,0,,Knock it off already!
+Dialogue: 0,0:21:44.60,0:21:47.27,Main,Yamauchi,0,0,0,,Aw, you're no fun.
+Dialogue: 0,0:21:47.27,0:21:52.80,Main,Miyamoto,0,0,0,,But Sato-san really {\i1}doesn't{\i0} like \NOnodera-san very much, does she?
+Dialogue: 0,0:21:52.80,0:21:56.03,Main,Sato,0,0,0,,H-Hey, stop it, Miyamoto-kun!
+Dialogue: 0,0:21:56.03,0:22:00.29,Main,Yamauchi,0,0,0,,Yeah, we don't see you two \Nhanging out very often, do we?
+Dialogue: 0,0:22:00.29,0:22:02.79,Main,Sato,0,0,0,,Th-That's just...
+Dialogue: 0,0:22:03.04,0:22:04.78,Main,Horikita,0,0,0,,This is horrible.
+Dialogue: 0,0:22:04.78,0:22:07.54,Main,Horikita,0,0,0,,After we'd finally achieved \Nsome measure of class unity...

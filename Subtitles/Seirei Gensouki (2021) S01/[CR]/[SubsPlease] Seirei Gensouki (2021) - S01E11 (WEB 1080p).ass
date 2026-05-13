@@ -1,0 +1,494 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: sign_3238_18_Seirei_Gensouki,Trebuchet MS,40,&H00FAFFFF,&H000000FF,&H00E6B519,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,20,1
+Style: sign_5011_20_The_Kingdom_of_B,Arial,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+Style: sign_5131_21_Memories_of_the_,Trebuchet MS,10,&H00FFFFFC,&H000000FF,&H0040AB29,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+Style: sign_33925_315_Next_Time_Royal_,Trebuchet MS,15,&H00FAFFFF,&H000000FF,&H00CBB281,&H00BDB85F,0,0,0,0,100,100,0,0,1,2,1,2,30,30,20,1
+Style: sign_34045_321_Exciting_Bonus_M,Trebuchet MS,37,&H00C28D31,&H000000FF,&H00EAEAEA,&H00000000,-1,0,0,0,100,100,0,0,3,4,0,1,30,30,20,1
+Style: sign_34045_320_Spirit_Chronicle,Trebuchet MS,25,&H00DEEEEB,&H000000FF,&H00B98B31,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,30,30,20,1
+Style: sign_34045_323_By_Minazuki_Futa,Comic Sans MS,20,&H003A3A3A,&H000000FF,&H00EBEBEB,&H00000000,0,0,0,0,100,100,0,0,3,1,0,1,30,30,20,1
+Style: sign_34045_319_I_had_a_dream_th,Trebuchet MS,24,&H00141414,&H000000FF,&H00EBEBEB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+Style: sign_34127_328_Ha_ha,Verdana,20,&H00282828,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_34212_329_Meow,Verdana,40,&H00EAEAEA,&H000000FF,&H00181818,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:02.05,0:00:04.02,main,Rio,0,0,0,,Charles Arbor?
+Dialogue: 0,0:00:04.37,0:00:07.44,main,Rio,0,0,0,,That's who Professor Celia is marrying?
+Dialogue: 0,0:00:07.44,0:00:11.28,main,researcher,0,0,0,,Well, it is your quintessential \Nmarriage of convenience.
+Dialogue: 0,0:00:11.88,0:00:13.03,main,Rio,0,0,0,,By which you mean...
+Dialogue: 0,0:00:13.03,0:00:14.90,main,researcher,0,0,0,,In the last conflict,
+Dialogue: 0,0:00:14.90,0:00:19.04,main,researcher,0,0,0,,the Kingdom of Beltrum suffered a \Ncrushing defeat by the Proxia Empire.
+Dialogue: 0,0:00:19.43,0:00:22.10,main,researcher,0,0,0,,Thanks to the actions of \Nthe House of Duke Arbor,
+Dialogue: 0,0:00:22.10,0:00:25.68,main,researcher,0,0,0,,we just barely managed to \Ncommence negotiations for peace,
+Dialogue: 0,0:00:25.68,0:00:27.99,main,researcher,0,0,0,,but the power and authority \Nof the royal family was lost.
+Dialogue: 0,0:00:28.56,0:00:31.37,main,researcher,0,0,0,,When Duke Huguenot's faction was \Nmade to take responsibility,
+Dialogue: 0,0:00:31.37,0:00:33.05,main,researcher,0,0,0,,they fled the royal capital.
+Dialogue: 0,0:00:34.20,0:00:37.20,main,researcher,0,0,0,,The House of Duke Arbor has \Nrallied their momentum,
+Dialogue: 0,0:00:37.20,0:00:40.18,main,researcher,0,0,0,,and what they have chosen in \Norder to once more gain strength
+Dialogue: 0,0:00:40.18,0:00:42.95,main,researcher,0,0,0,,is the House of Count Claire.
+Dialogue: 0,0:00:42.95,0:00:48.86,main,Rio,0,0,0,,Does Professor Celia... no, does the House of \NCount Claire desire this political marriage?
+Dialogue: 0,0:00:49.56,0:00:50.69,main,researcher,0,0,0,,I don't know.
+Dialogue: 0,0:00:50.93,0:00:53.41,main,researcher,0,0,0,,I don't have such detailed information.
+Dialogue: 0,0:01:00.83,0:01:02.69,main,Aishia,0,0,0,,What will you do, Haruto?
+Dialogue: 0,0:01:03.04,0:01:04.59,main,Rio,0,0,0,,The wedding ceremony is tomorrow.
+Dialogue: 0,0:01:04.95,0:01:08.40,main,Rio,0,0,0,,Before it happens, I want to see \NProfessor Celia and ask her in person.
+Dialogue: 0,0:01:08.89,0:01:09.67,main,Aishia,0,0,0,,Yes.
+Dialogue: 0,0:01:09.67,0:01:12.90,main,Rio,0,0,0,,But the professor is in the castle.
+Dialogue: 0,0:01:13.90,0:01:16.56,main,Rio,0,0,0,,Their defenses will be even \Ntighter than the Academy.
+Dialogue: 0,0:01:16.56,0:01:19.75,main,Aishia,0,0,0,,Then I'll use my spirit form and investigate.
+Dialogue: 0,0:01:19.75,0:01:23.14,main,Rio,0,0,0,,A spirit in spirit form is \Na mass of od and mana...
+Dialogue: 0,0:01:23.14,0:01:26.75,main,Rio,0,0,0,,Something inside the castle may be set \Nto detect suspicious magical power.
+Dialogue: 0,0:01:27.52,0:01:28.54,main,Rio,0,0,0,,Will you be all right?
+Dialogue: 0,0:01:28.95,0:01:31.73,main,Aishia,0,0,0,,I can visually perceive barriers \Nthat are made to detect magic.
+Dialogue: 0,0:01:31.73,0:01:33.09,main,Rio,0,0,0,,I see.
+Dialogue: 0,0:01:33.09,0:01:35.19,main,Rio,0,0,0,,O-Oh, but Aishia, you and \Nthe professor haven't—
+Dialogue: 0,0:01:35.19,0:01:37.15,main,Aishia,0,0,0,,I know what Celia looks like.
+Dialogue: 0,0:01:37.84,0:01:39.12,main,Rio,0,0,0,,I'm counting on you, then.
+Dialogue: 0,0:01:39.38,0:01:40.93,main,Aishia,0,0,0,,Yes, leave it to me.
+Dialogue: 0,0:02:00.01,0:02:03.18,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\pos(345,125)\blur4\fad(897,1)}Seirei Gensouki
+Dialogue: 0,0:02:00.01,0:02:03.18,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\pos(345,125)\blur4\c&H7AFBFF&\clip(217,107,471,123)\fad(897,1)}Seirei Gensouki
+Dialogue: 0,0:03:14.00,0:03:20.03,sign_5131_21_Memories_of_the_,text,0,0,0,,{\blur3\fad(505,540)\pos(520,295)}Silver Bride
+Dialogue: 0,0:03:14.00,0:03:20.03,sign_5131_21_Memories_of_the_,text,0,0,0,,{\blur3\fad(505,540)\c&H97FFEC&\pos(520,295)\clip(486,291,552,298)}Silver Bride
+Dialogue: 0,0:03:22.55,0:03:24.37,main,Claire,0,0,0,,I'm so sorry, Celia.
+Dialogue: 0,0:03:24.37,0:03:27.07,main,Claire,0,0,0,,I just haven't been able to come to see you.
+Dialogue: 0,0:03:27.07,0:03:31.30,main,Claire,0,0,0,,And now... it's already the \Nnight before the wedding.
+Dialogue: 0,0:03:31.30,0:03:35.91,main,Celia,0,0,0,,It couldn't be helped, Father. \NYou're busy with official matters.
+Dialogue: 0,0:03:35.91,0:03:37.57,main,Charles,0,0,0,,Count Claire...
+Dialogue: 0,0:03:37.57,0:03:40.52,main,Charles,0,0,0,,No, I suppose I should be calling \Nyou "Father" now, shouldn't I?
+Dialogue: 0,0:03:40.52,0:03:44.32,main,Charles,0,0,0,,The preparations for the ceremony \Nare complete. Please set your mind at ease.
+Dialogue: 0,0:03:44.32,0:03:47.06,main,Claire,0,0,0,,I heard that the ceremony \Nwill be a large event.
+Dialogue: 0,0:03:47.06,0:03:48.15,main,Charles,0,0,0,,Yes.
+Dialogue: 0,0:03:48.15,0:03:51.26,main,Charles,0,0,0,,This is a wedding between \Nour House of Duke Arbor
+Dialogue: 0,0:03:51.26,0:03:53.84,main,Charles,0,0,0,,and the House of Count Claire, after all.
+Dialogue: 0,0:03:53.84,0:03:56.72,main,Charles,0,0,0,,We'll be able to show those \Ninside and outside the kingdom
+Dialogue: 0,0:03:56.72,0:03:58.92,main,Charles,0,0,0,,that the power of the \NKingdom of Beltrum is solid.
+Dialogue: 0,0:03:59.28,0:03:59.84,main,Claire,0,0,0,,That said,
+Dialogue: 0,0:04:00.22,0:04:02.90,main,Claire,0,0,0,,the state of affairs within the \Nkingdom is still disordered.
+Dialogue: 0,0:04:02.90,0:04:04.87,main,Claire,0,0,0,,Security will be flawless, I expect?
+Dialogue: 0,0:04:04.87,0:04:06.44,main,Charles,0,0,0,,Of course!
+Dialogue: 0,0:04:06.44,0:04:08.35,main,Charles,0,0,0,,The Knights of the Royal Guard, \Nthe Mage Corps, and others...
+Dialogue: 0,0:04:08.65,0:04:11.35,main,Charles,0,0,0,,I've gathered our kingdom's very best.
+Dialogue: 0,0:04:11.60,0:04:13.67,main,Claire,0,0,0,,Then I do feel more at ease. However...
+Dialogue: 0,0:04:13.98,0:04:17.11,main,Claire,0,0,0,,I suppose worrying about everything \Nis part of parental love.
+Dialogue: 0,0:04:17.61,0:04:19.91,main,Celia,0,0,0,,Thank you, Father.
+Dialogue: 0,0:04:20.85,0:04:25.89,main,Charles,0,0,0,,Instead of you worrying for us, \NFather, we are worried about you!
+Dialogue: 0,0:04:25.89,0:04:29.86,main,Charles,0,0,0,,For some time, strange rumors \Nhave been flowing from the royal court.
+Dialogue: 0,0:04:30.76,0:04:32.39,main,Charles,0,0,0,,That you and a portion of the nobles
+Dialogue: 0,0:04:32.39,0:04:36.88,main,Charles,0,0,0,,have been secretly in contact with \NDuke Huguenot, who fled the kingdom.
+Dialogue: 0,0:04:36.88,0:04:39.16,main,Claire,0,0,0,,That slander is completely unfounded.
+Dialogue: 0,0:04:39.16,0:04:40.88,main,Charles,0,0,0,,Yes, I know.
+Dialogue: 0,0:04:40.88,0:04:44.91,main,Charles,0,0,0,,But it is true that trust \Nin you has been shaken.
+Dialogue: 0,0:04:45.60,0:04:49.19,main,Claire,0,0,0,,I would never betray this kingdom.
+Dialogue: 0,0:04:49.19,0:04:51.39,main,Charles,0,0,0,,Father, please don't worry.
+Dialogue: 0,0:04:51.78,0:04:56.65,main,Charles,0,0,0,,My marriage to Celia is partly \Nto help protect your standing.
+Dialogue: 0,0:04:56.65,0:05:02.02,main,Charles,0,0,0,,The House of Duke Arbor would never \Nabandon the House of Count Claire.
+Dialogue: 0,0:05:03.15,0:05:06.66,main,Claire,0,0,0,,And I am very grateful for that.
+Dialogue: 0,0:05:08.16,0:05:10.01,main,Charles,0,0,0,,Father, soon we'll have
+Dialogue: 0,0:05:10.01,0:05:15.21,main,Charles,0,0,0,,you serve as commander and director \Nof the House of Duke Arbor.
+Dialogue: 0,0:05:15.21,0:05:17.08,main,Charles,0,0,0,,That's all right with you, isn't it?
+Dialogue: 0,0:05:17.32,0:05:19.07,italics,Claire,0,0,0,,That sounds like a threat...
+Dialogue: 0,0:05:20.77,0:05:23.31,italics,Claire,0,0,0,,My dear Celia, I am truly sorry.
+Dialogue: 0,0:05:23.31,0:05:26.83,italics,Claire,0,0,0,,If I were better at maneuvering...
+Dialogue: 0,0:05:28.77,0:05:32.45,main,Claire,0,0,0,,I understand. I will do everything in \Nmy power to fulfill this responsibility.
+Dialogue: 0,0:05:33.95,0:05:36.97,main,Charles,0,0,0,,Well, then! To the peace and \Nprosperity of both our houses!
+Dialogue: 0,0:05:36.97,0:05:40.80,main,Charles,0,0,0,,And to this beautiful bride.
+Dialogue: 0,0:05:42.87,0:05:44.32,main,Claire,0,0,0,,To the both of you.
+Dialogue: 0,0:05:44.73,0:05:47.34,main,Celia,0,0,0,,We are in your care, Lord Charles.
+Dialogue: 0,0:05:47.67,0:05:50.69,main,Celia,0,0,0,,Father and I will both dedicate \Nourselves entirely to this.
+Dialogue: 0,0:05:50.69,0:05:52.08,main,Charles,0,0,0,,No, it is I who am grateful to you.
+Dialogue: 0,0:05:52.08,0:05:54.83,main,Charles,0,0,0,,I look forward to the \Nwedding ceremony tomorrow.
+Dialogue: 0,0:05:56.20,0:05:57.27,main,Celia,0,0,0,,Yes.
+Dialogue: 0,0:06:03.15,0:06:05.34,italics,Rio,0,0,0,,The defenses are very strong,\N just as I thought.
+Dialogue: 0,0:06:05.84,0:06:08.13,italics,Rio,0,0,0,,Perhaps it's in preparation for tomorrow.
+Dialogue: 0,0:06:08.13,0:06:10.76,italics,Aishia,0,0,0,,Haruto, I've found where Celia is.
+Dialogue: 0,0:06:10.76,0:06:12.58,main,Rio,0,0,0,,Good. Where is she?
+Dialogue: 0,0:06:12.58,0:06:14.71,italics,Aishia,0,0,0,,She's outside the palace.
+Dialogue: 0,0:06:14.71,0:06:17.81,italics,Aishia,0,0,0,,Start at the main gate. On the left, \Na fair ways in, there's a large building.
+Dialogue: 0,0:06:18.54,0:06:20.68,main,Rio,0,0,0,,Understood. I'll head there now.
+Dialogue: 0,0:06:28.65,0:06:31.66,italics,Celia,0,0,0,,It's been such a long time \Nsince I've seen Father,
+Dialogue: 0,0:06:31.66,0:06:34.76,italics,Celia,0,0,0,,but we weren't able to speak \Nas parent and child at all.
+Dialogue: 0,0:06:35.89,0:06:40.08,italics,Celia,0,0,0,,Still, with this, Father and the \NHouse of Claire will be all right.
+Dialogue: 0,0:06:40.49,0:06:41.56,italics,Celia,0,0,0,,All that's left...
+Dialogue: 0,0:06:42.48,0:06:45.92,italics,Celia,0,0,0,,is for me to become that man's \Nproperty for the rest of my life.
+Dialogue: 0,0:06:52.74,0:06:54.01,italics,Celia,0,0,0,,Here at the very end...
+Dialogue: 0,0:06:54.62,0:06:56.22,italics,Celia,0,0,0,,I wish I could have seen him again.
+Dialogue: 0,0:06:58.46,0:07:01.10,flashback,Celia,0,0,0,,For certain, absolutely certain, understand?
+Dialogue: 0,0:07:01.92,0:07:02.90,flashback,Celia,0,0,0,,Stay safe...
+Dialogue: 0,0:07:03.56,0:07:05.65,flashback,Celia,0,0,0,,until you return, all right?
+Dialogue: 0,0:07:06.96,0:07:08.65,italics,Celia,0,0,0,,I think probably...
+Dialogue: 0,0:07:09.00,0:07:10.28,italics,Celia,0,0,0,,the feelings I have for Rio are...
+Dialogue: 0,0:07:25.02,0:07:26.09,main,Celia,0,0,0,,Who's there?
+Dialogue: 0,0:07:28.56,0:07:29.55,main,Rio,0,0,0,,Quiet.
+Dialogue: 0,0:07:29.55,0:07:31.80,main,Rio,0,0,0,,It's me, Professor Celia.
+Dialogue: 0,0:07:32.55,0:07:33.77,main,Rio,0,0,0,,Rio.
+Dialogue: 0,0:07:33.77,0:07:34.74,main,Celia,0,0,0,,What?
+Dialogue: 0,0:07:34.74,0:07:35.55,main,Rio,0,0,0,,Oh.
+Dialogue: 0,0:07:37.50,0:07:38.81,main,Rio,0,0,0,,It's been a long time.
+Dialogue: 0,0:07:39.22,0:07:41.06,main,Celia,0,0,0,,R-Rio?
+Dialogue: 0,0:07:41.06,0:07:42.08,main,Rio,0,0,0,,Yes.
+Dialogue: 0,0:07:42.90,0:07:45.52,main,Celia,0,0,0,,Is it really you, Rio?
+Dialogue: 0,0:07:45.78,0:07:48.02,main,Rio,0,0,0,,I've returned, just as I promised.
+Dialogue: 0,0:07:48.44,0:07:50.53,main,Rio,0,0,0,,Though it's taken me four years to do it.
+Dialogue: 0,0:07:55.46,0:07:56.40,main,Celia,0,0,0,,Rio!
+Dialogue: 0,0:07:57.71,0:07:59.20,main,Celia,0,0,0,,It is you.
+Dialogue: 0,0:07:59.20,0:08:01.85,main,Rio,0,0,0,,P-Professor...
+Dialogue: 0,0:08:01.85,0:08:02.71,main,Celia,0,0,0,,Yes...
+Dialogue: 0,0:08:02.71,0:08:06.58,main,Celia,0,0,0,,You're really here. It isn't a dream.
+Dialogue: 0,0:08:06.58,0:08:08.90,main,Rio,0,0,0,,Professor, I've missed you.
+Dialogue: 0,0:08:09.25,0:08:11.21,main,Celia,0,0,0,,Yes, as I have you!
+Dialogue: 0,0:08:11.21,0:08:12.97,main,Celia,0,0,0,,All this time...
+Dialogue: 0,0:08:13.25,0:08:13.97,main,Rio,0,0,0,,Yes.
+Dialogue: 0,0:08:14.38,0:08:15.33,main,Celia,0,0,0,,Rio...
+Dialogue: 0,0:08:15.97,0:08:18.31,main,Celia,0,0,0,,You've gotten quite a bit taller.
+Dialogue: 0,0:08:18.31,0:08:21.04,main,Rio,0,0,0,,You haven't changed very \Nmuch at all, Professor.
+Dialogue: 0,0:08:21.04,0:08:24.65,main,Celia,0,0,0,,I-I've grown a little more womanly!
+Dialogue: 0,0:08:24.65,0:08:25.48,main,Rio,0,0,0,,Yes.
+Dialogue: 0,0:08:25.48,0:08:29.48,main,Rio,0,0,0,,You have always been beautiful, \Nbut you've grown even more lovely.
+Dialogue: 0,0:08:31.40,0:08:34.69,main,Celia,0,0,0,,There you go, saying things\N like that again!
+Dialogue: 0,0:08:36.42,0:08:38.91,main,Celia,0,0,0,,You've grown dashing, Rio.
+Dialogue: 0,0:08:39.24,0:08:42.45,main,Celia,0,0,0,,Strong and gallant.
+Dialogue: 0,0:08:43.77,0:08:45.34,main,Rio,0,0,0,,Thank you very much.
+Dialogue: 0,0:08:49.82,0:08:53.27,main,Celia,0,0,0,,I-I'm so glad you came back safe and sound.
+Dialogue: 0,0:08:53.74,0:08:54.73,main,Celia,0,0,0,,Wait...
+Dialogue: 0,0:08:54.73,0:08:56.54,main,Celia,0,0,0,,How did you get here?
+Dialogue: 0,0:08:56.54,0:08:58.14,main,Celia,0,0,0,,You couldn't have snuck in, could you?
+Dialogue: 0,0:08:58.14,0:09:00.01,main,Rio,0,0,0,,Yes, well...
+Dialogue: 0,0:09:01.69,0:09:06.01,main,Celia,0,0,0,,Oh, right! Did you make it to the \NYagumo region? Where else did you go?
+Dialogue: 0,0:09:06.01,0:09:08.21,main,Celia,0,0,0,,I want to hear everything!
+Dialogue: 0,0:09:08.21,0:09:09.64,main,Rio,0,0,0,,Y-Yes...
+Dialogue: 0,0:09:09.64,0:09:11.02,main,Celia,0,0,0,,Oh, wait.
+Dialogue: 0,0:09:11.02,0:09:13.32,main,Celia,0,0,0,,Would you like some tea? Let's have some.
+Dialogue: 0,0:09:14.03,0:09:17.02,main,Rio,0,0,0,,We often had tea together, \Njust the two of us, didn't we?
+Dialogue: 0,0:09:17.02,0:09:18.45,main,Celia,0,0,0,,Yes, we did.
+Dialogue: 0,0:09:19.17,0:09:21.54,main,Celia,0,0,0,,Since then, I've always \Nhad tea alone, you know?
+Dialogue: 0,0:09:22.64,0:09:25.40,main,Rio,0,0,0,,Professor... You're getting \Nmarried, aren't you?
+Dialogue: 0,0:09:26.31,0:09:29.17,main,Rio,0,0,0,,I've heard that your groom is Charles Arbor.
+Dialogue: 0,0:09:29.66,0:09:31.55,main,Celia,0,0,0,,Y-Yes.
+Dialogue: 0,0:09:33.05,0:09:34.74,main,Celia,0,0,0,,That's right.
+Dialogue: 0,0:09:34.74,0:09:36.79,main,Rio,0,0,0,,I know it's rude to ask so suddenly, but...
+Dialogue: 0,0:09:36.79,0:09:39.42,main,Rio,0,0,0,,Is this wedding something \Nyou want, Professor?
+Dialogue: 0,0:09:40.46,0:09:43.06,main,Rio,0,0,0,,I am sorry to ask something like this.
+Dialogue: 0,0:09:43.80,0:09:46.94,main,Rio,0,0,0,,But when I heard that the \Nwedding ceremony is tomorrow...
+Dialogue: 0,0:09:47.78,0:09:51.23,main,Celia,0,0,0,,This wedding is something \NI have agreed to, of course.
+Dialogue: 0,0:09:51.58,0:09:54.99,main,Rio,0,0,0,,Even though the person \Nyou're marrying... is Charles Arbor?
+Dialogue: 0,0:09:56.23,0:09:58.99,main,Celia,0,0,0,,He's someone you have an ill-fated \Nconnection with, isn't he?
+Dialogue: 0,0:10:02.13,0:10:03.42,main,Rio,0,0,0,,I thought perhaps
+Dialogue: 0,0:10:03.42,0:10:06.20,main,Rio,0,0,0,,this might have something to do with \Nthe circumstances of your family.
+Dialogue: 0,0:10:06.20,0:10:09.21,main,Celia,0,0,0,,No. I am of age, after all.
+Dialogue: 0,0:10:09.61,0:10:13.59,main,Celia,0,0,0,,I can't think only of my research forever.
+Dialogue: 0,0:10:14.25,0:10:15.26,main,Rio,0,0,0,,Really?
+Dialogue: 0,0:10:15.26,0:10:16.28,main,Celia,0,0,0,,Yes!
+Dialogue: 0,0:10:16.28,0:10:22.08,main,Celia,0,0,0,,And in spite of appearances, Lord Charles \Nis chivalrous and kind toward women!
+Dialogue: 0,0:10:23.05,0:10:23.97,main,Rio,0,0,0,,Professor...
+Dialogue: 0,0:10:23.97,0:10:26.92,main,Celia,0,0,0,,Then, will you marry me instead, Rio?
+Dialogue: 0,0:10:26.92,0:10:32.48,main,Celia,0,0,0,,Or will you take me somewhere and\Nlive the rest of your life with me?
+Dialogue: 0,0:10:32.48,0:10:34.17,main,Rio,0,0,0,,I... uh...
+Dialogue: 0,0:10:34.73,0:10:36.14,main,Celia,0,0,0,,Just kidding.
+Dialogue: 0,0:10:37.36,0:10:37.95,main,Rio,0,0,0,,What?
+Dialogue: 0,0:10:37.95,0:10:41.05,main,Celia,0,0,0,,I'm sorry. Please forget all of that.
+Dialogue: 0,0:10:41.05,0:10:42.33,main,Rio,0,0,0,,Professor...
+Dialogue: 0,0:10:42.33,0:10:43.86,main,Celia,0,0,0,,Rio, you should leave.
+Dialogue: 0,0:10:43.86,0:10:45.75,main,Rio,0,0,0,,We haven't finished talking yet.
+Dialogue: 0,0:10:45.75,0:10:49.42,main,Celia,0,0,0,,You can't stay. The people who\N look after me will be here soon.
+Dialogue: 0,0:10:49.42,0:10:52.79,main,Celia,0,0,0,,I have an early day tomorrow, \Nand there are a lot of preparations left.
+Dialogue: 0,0:10:54.50,0:10:57.22,main,Celia,0,0,0,,I'm glad I was able to see \Nyou before the ceremony.
+Dialogue: 0,0:10:57.22,0:10:58.09,main,Celia,0,0,0,,Oh...
+Dialogue: 0,0:10:58.09,0:11:01.09,main,Celia,0,0,0,,And don't come to the ceremony. \NIt's too embarrassing.
+Dialogue: 0,0:11:01.97,0:11:04.10,main,Celia,0,0,0,,Now, then, hurry up and go.
+Dialogue: 0,0:11:04.44,0:11:07.19,main,Celia,0,0,0,,Be careful not to get caught as you leave.
+Dialogue: 0,0:11:07.19,0:11:11.18,main,Celia,0,0,0,,I'll close that door and give \Nyou twenty seconds to go.
+Dialogue: 0,0:11:11.74,0:11:12.59,main,Celia,0,0,0,,Go on.
+Dialogue: 0,0:11:12.96,0:11:15.86,main,Celia,0,0,0,,If you don't hurry up and leave, I'll scream.
+Dialogue: 0,0:11:16.75,0:11:17.84,main,Celia,0,0,0,,Come on!
+Dialogue: 0,0:11:21.83,0:11:28.14,main,Celia,0,0,0,,One, two, three, four, five, six...
+Dialogue: 0,0:11:33.78,0:11:35.57,italics,Celia,0,0,0,,Thank you, Rio...
+Dialogue: 0,0:11:35.57,0:11:37.80,italics,Celia,0,0,0,,for coming back, just as you promised.
+Dialogue: 0,0:11:38.52,0:11:40.35,italics,Celia,0,0,0,,It made me truly happy.
+Dialogue: 0,0:11:40.86,0:11:44.58,italics,Celia,0,0,0,,But I can't let you get caught up in this.
+Dialogue: 0,0:11:45.20,0:11:46.97,italics,Celia,0,0,0,,Bye-bye, Rio.
+Dialogue: 0,0:11:49.59,0:11:50.68,main,Aishia,0,0,0,,Haruto?
+Dialogue: 0,0:11:51.11,0:11:53.37,main,Rio,0,0,0,,I wasn't able to find out her true feelings.
+Dialogue: 0,0:11:53.81,0:11:54.81,main,Aishia,0,0,0,,What will you do?
+Dialogue: 0,0:11:55.39,0:11:56.48,main,Rio,0,0,0,,I don't know.
+Dialogue: 0,0:11:57.54,0:12:01.33,main,Rio,0,0,0,,But I want to know a little more \Nabout what's motivating this wedding.
+Dialogue: 0,0:12:01.71,0:12:02.97,main,Aishia,0,0,0,,I will help you.
+Dialogue: 0,0:12:03.65,0:12:04.57,main,Rio,0,0,0,,Sorry.
+Dialogue: 0,0:12:04.57,0:12:06.12,main,Aishia,0,0,0,,Why are you apologizing?
+Dialogue: 0,0:12:06.54,0:12:09.63,main,Rio,0,0,0,,Because all I do is have you help me, Aishia.
+Dialogue: 0,0:12:10.03,0:12:13.83,main,Aishia,0,0,0,,I believe I've told you. I will \Nalways be at your side, Haruto.
+Dialogue: 0,0:12:14.09,0:12:17.79,main,Aishia,0,0,0,,If you need me, you can come to me any time.
+Dialogue: 0,0:12:18.91,0:12:19.86,main,Rio,0,0,0,,Thank you.
+Dialogue: 0,0:12:24.26,0:12:25.28,main,captain,0,0,0,,Fall in!
+Dialogue: 0,0:12:25.28,0:12:25.69,main,troops,0,0,0,,Sir!
+Dialogue: 0,0:12:25.69,0:12:27.39,main,captain,0,0,0,,Right face!
+Dialogue: 0,0:12:27.39,0:12:29.94,main,soldier b,0,0,0,,Lord Charles, I have brought Sir Reiss.
+Dialogue: 0,0:12:29.94,0:12:31.39,main,Charles,0,0,0,,Ah!
+Dialogue: 0,0:12:31.39,0:12:33.35,main,Charles,0,0,0,,Sir Reiss!
+Dialogue: 0,0:12:33.73,0:12:37.15,main,Reiss,0,0,0,,Allow me to offer congratulations \Non this, the event of your wedding.
+Dialogue: 0,0:12:37.38,0:12:39.35,main,Charles,0,0,0,,Thank you so much for coming!
+Dialogue: 0,0:12:39.35,0:12:43.94,main,Reiss,0,0,0,,With our relationship? \NI am delighted to attend.
+Dialogue: 0,0:12:43.94,0:12:45.72,main,Charles,0,0,0,,Yes, thank you!
+Dialogue: 0,0:12:45.72,0:12:47.66,main,Charles,0,0,0,,When did you arrive in our royal capital?
+Dialogue: 0,0:12:47.66,0:12:48.91,main,Reiss,0,0,0,,I've just arrived.
+Dialogue: 0,0:12:48.91,0:12:53.83,main,Charles,0,0,0,,If I'd known earlier that you'd be staying, \NI'd have provided a proper welcome!
+Dialogue: 0,0:12:53.83,0:12:56.08,main,Reiss,0,0,0,,No, please don't trouble yourself.
+Dialogue: 0,0:12:56.37,0:12:59.63,main,Reiss,0,0,0,,Though we are officially at peace \Nwith the Kingdom of Beltrum,
+Dialogue: 0,0:12:59.63,0:13:01.90,main,Reiss,0,0,0,,we two are from enemy countries.
+Dialogue: 0,0:13:01.90,0:13:06.37,main,Reiss,0,0,0,,If you are too friendly with me, I am sure \Nthere are some who would not be amused.
+Dialogue: 0,0:13:06.37,0:13:07.78,main,Charles,0,0,0,,I see.
+Dialogue: 0,0:13:07.78,0:13:10.85,main,Reiss,0,0,0,,So this time, I will keep my visit quiet.
+Dialogue: 0,0:13:10.85,0:13:13.07,main,Charles,0,0,0,,I am touched by your consideration.
+Dialogue: 0,0:13:13.07,0:13:13.94,main,Reiss,0,0,0,,It's fine.
+Dialogue: 0,0:13:13.94,0:13:17.14,main,Charles,0,0,0,,But once the ceremony is over,\N please come to my home!
+Dialogue: 0,0:13:18.22,0:13:20.33,main,Reiss,0,0,0,,Tonight is your first night together.
+Dialogue: 0,0:13:20.33,0:13:22.36,main,Reiss,0,0,0,,I will visit another day.
+Dialogue: 0,0:13:22.36,0:13:23.85,main,Charles,0,0,0,,Oh, well, I...
+Dialogue: 0,0:13:25.11,0:13:28.50,top,Charles,0,0,0,,To take such trouble and to be \Nso considerate is quite, well...
+Dialogue: 0,0:13:26.83,0:13:28.50,italics,Reiss,0,0,0,,I sense a spirit.
+Dialogue: 0,0:13:28.50,0:13:29.78,italics,Reiss,0,0,0,,It's quite a powerful one.
+Dialogue: 0,0:13:29.78,0:13:30.62,main,Charles,0,0,0,,Sir Reiss...
+Dialogue: 0,0:13:30.62,0:13:32.25,main,Charles,0,0,0,,Is something wrong?
+Dialogue: 0,0:13:32.60,0:13:34.16,main,Reiss,0,0,0,,No, nothing.
+Dialogue: 0,0:13:34.16,0:13:37.77,main,Reiss,0,0,0,,I will go to the ceremony hall\N early and wait there.
+Dialogue: 0,0:13:37.77,0:13:39.99,main,Charles,0,0,0,,Allow me to send someone\N to show you the way.
+Dialogue: 0,0:13:39.99,0:13:43.13,top,Charles,0,0,0,,You there! Show Sir Reiss to the ceremony hall.
+Dialogue: 0,0:13:40.76,0:13:42.20,main,Reiss,0,0,0,,I am honored.
+Dialogue: 0,0:13:43.13,0:13:43.85,main,soldier C,0,0,0,,Sir!
+Dialogue: 0,0:13:44.27,0:13:46.15,top,Charles,0,0,0,,Be sure to show him every courtesy.
+Dialogue: 0,0:13:44.86,0:13:46.15,italics,Reiss,0,0,0,,It's disappeared.
+Dialogue: 0,0:13:46.15,0:13:46.89,top,soldier C,0,0,0,,Yes, sir.
+Dialogue: 0,0:13:53.03,0:13:54.39,italics,Celia,0,0,0,,Everything is fine.
+Dialogue: 0,0:13:54.73,0:13:56.46,italics,Celia,0,0,0,,I am a doll.
+Dialogue: 0,0:13:56.46,0:13:59.38,italics,Celia,0,0,0,,I have no feelings. I am just a doll.
+Dialogue: 0,0:13:59.84,0:14:00.93,main,Charles,0,0,0,,Celia...
+Dialogue: 0,0:14:01.63,0:14:03.40,main,Charles,0,0,0,,Please come out here a moment.
+Dialogue: 0,0:14:03.40,0:14:04.90,main,Celia,0,0,0,,Yes, I'll be right out!
+Dialogue: 0,0:14:06.28,0:14:07.48,main,ladies,0,0,0,,Oh, my...
+Dialogue: 0,0:14:09.41,0:14:13.68,main,Charles,0,0,0,,You look m-magnificent, Celia! Truly beautiful!
+Dialogue: 0,0:14:13.68,0:14:16.41,main,Celia,0,0,0,,Thank you very much, Lord Charles.
+Dialogue: 0,0:14:16.63,0:14:19.28,main,Charles,0,0,0,,Very nice... Truly wonderful!
+Dialogue: 0,0:14:19.28,0:14:20.67,main,Charles,0,0,0,,Even better than I'd imagined!
+Dialogue: 0,0:14:22.44,0:14:24.31,main,Charles,0,0,0,,Are you nervous?
+Dialogue: 0,0:14:24.31,0:14:27.12,main,Charles,0,0,0,,Don't worry. I am here.
+Dialogue: 0,0:14:27.12,0:14:27.93,main,Celia,0,0,0,,Yes.
+Dialogue: 0,0:14:27.93,0:14:30.68,main,Charles,0,0,0,,And, you see, I thought it might \Nhelp you feel more relaxed,
+Dialogue: 0,0:14:30.68,0:14:32.63,main,Charles,0,0,0,,so I've brought my wives.
+Dialogue: 0,0:14:32.63,0:14:35.10,main,Charles,0,0,0,,You should take this opportunity \Nto become friends.
+Dialogue: 0,0:14:35.86,0:14:38.34,main,Charles,0,0,0,,Tenasina, take care of the rest, won't you?
+Dialogue: 0,0:14:38.34,0:14:39.69,main,Tenashina,0,0,0,,Leave it to me.
+Dialogue: 0,0:14:42.15,0:14:44.84,main,Tenashina,0,0,0,,I am his first wife, Tenasina.
+Dialogue: 0,0:14:45.25,0:14:48.28,main,Tenashina,0,0,0,,There is something I would like to \Nmake clear from the very beginning.
+Dialogue: 0,0:14:48.28,0:14:49.65,main,Celia,0,0,0,,Y-Yes?
+Dialogue: 0,0:14:50.04,0:14:57.64,main,Tenashina,0,0,0,,Normally you, the daughter of a count, \Nwould be superior to us in social standing.
+Dialogue: 0,0:14:57.64,0:15:00.83,main,Tenashina,0,0,0,,But once you have married Lord Charles,
+Dialogue: 0,0:15:00.83,0:15:05.53,main,Tenashina,0,0,0,,as his seventh wife, your place \Namongst us is at the very bottom.
+Dialogue: 0,0:15:05.53,0:15:07.67,main,Celia,0,0,0,,Of course. I understand.
+Dialogue: 0,0:15:07.67,0:15:11.91,main,Tenashina,0,0,0,,I will not allow any impertinent behavior.
+Dialogue: 0,0:15:11.91,0:15:13.30,main,Celia,0,0,0,,It shall be as you say.
+Dialogue: 0,0:15:13.30,0:15:17.20,main,Celia,0,0,0,,I am inexperienced and inept, \Nbut I hope you will look on me kindly.
+Dialogue: 0,0:15:18.03,0:15:20.35,main,Tenashina,0,0,0,,Your complexion looks terrible.
+Dialogue: 0,0:15:20.35,0:15:23.31,main,Tenashina,0,0,0,,You are going to be a bride of the \NHouse of Duke Arbor, you know.
+Dialogue: 0,0:15:23.31,0:15:25.53,main,Tenashina,0,0,0,,Smile more brightly.
+Dialogue: 0,0:15:25.53,0:15:27.34,main,Celia,0,0,0,,Y-Yes.
+Dialogue: 0,0:15:27.34,0:15:29.96,main,Tenashina,0,0,0,,Well, I suppose that will do.
+Dialogue: 0,0:15:29.96,0:15:31.59,main,maid A,0,0,0,,L-Lady Celia!
+Dialogue: 0,0:15:31.59,0:15:33.46,main,Tenashina,0,0,0,,What is all this noise?
+Dialogue: 0,0:15:33.46,0:15:36.22,main,maid A,0,0,0,,Her Highness, Princess Christina, \NFirst Princess of the Realm is here!
+Dialogue: 0,0:15:36.91,0:15:38.20,main,Celia,0,0,0,,Princess Christina?
+Dialogue: 0,0:15:38.20,0:15:39.62,main,Celia,0,0,0,,Let her through right away!
+Dialogue: 0,0:15:39.62,0:15:40.49,main,maid A,0,0,0,,Yes, my lady!
+Dialogue: 0,0:15:40.94,0:15:42.82,main,Tenashina,0,0,0,,Who gave you leave to—
+Dialogue: 0,0:15:42.82,0:15:43.96,main,Celia,0,0,0,,My deepest apologies!
+Dialogue: 0,0:15:44.19,0:15:49.45,main,Celia,0,0,0,,But would it not shame the House of Duke Arbor\N to keep Princess Christina waiting?
+Dialogue: 0,0:15:50.42,0:15:51.87,main,wives,0,0,0,,Princess Christina!
+Dialogue: 0,0:15:51.04,0:15:52.43,top,wives,0,0,0,,What an honor to see you!
+Dialogue: 0,0:15:52.43,0:15:56.00,main,Christina,0,0,0,,I am sorry for arriving \Nso suddenly, with no prior notice.
+Dialogue: 0,0:15:56.35,0:15:57.89,main,Christina,0,0,0,,Please, don't trouble yourselves for me.
+Dialogue: 0,0:15:58.13,0:16:01.64,main,Celia,0,0,0,,Thank you so much for \Ncoming, Princess Christina!
+Dialogue: 0,0:16:01.64,0:16:02.66,main,Christina,0,0,0,,My!
+Dialogue: 0,0:16:02.66,0:16:04.85,main,Christina,0,0,0,,You look beautiful, Professor!
+Dialogue: 0,0:16:04.85,0:16:08.15,main,Christina,0,0,0,,That wedding dress suits \Nyou wonderfully well!
+Dialogue: 0,0:16:08.15,0:16:11.15,main,Celia,0,0,0,,Th-Thank you very much.
+Dialogue: 0,0:16:12.29,0:16:15.39,main,Tenashina,0,0,0,,Princess Christina, please come \Ninside and rest at your leisure!
+Dialogue: 0,0:16:15.39,0:16:18.96,main,Christina,0,0,0,,I was hoping to speak with my \Nformer teacher, Professor Celia, in private.
+Dialogue: 0,0:16:19.64,0:16:22.02,main,Tenashina,0,0,0,,Oh! P-P-Please forgive my impertinence!
+Dialogue: 0,0:16:22.02,0:16:24.52,main,Tenashina,0,0,0,,W-Well then, we will take our leave.
+Dialogue: 0,0:16:24.52,0:16:27.94,main,Tenashina,0,0,0,,Now, ladies, let us go!
+Dialogue: 0,0:16:30.17,0:16:35.43,main,Christina,0,0,0,,Professor, I've come to offer congratulations\N in place of my mother and father.
+Dialogue: 0,0:16:35.43,0:16:37.27,main,Celia,0,0,0,,Thank you very much.
+Dialogue: 0,0:16:38.76,0:16:41.68,main,Christina,0,0,0,,You truly are beautiful, Professor!
+Dialogue: 0,0:16:42.20,0:16:45.99,main,Celia,0,0,0,,I-I accept your words of praise \Nwith a heart full of gratitude.
+Dialogue: 0,0:16:47.20,0:16:48.33,main,Christina,0,0,0,,I'm glad.
+Dialogue: 0,0:16:48.33,0:16:49.19,main,Celia,0,0,0,,What?
+Dialogue: 0,0:16:49.19,0:16:52.56,main,Christina,0,0,0,,Your complexion looks a little \Nbetter than it did earlier.
+Dialogue: 0,0:16:52.56,0:16:54.13,main,Celia,0,0,0,,O-Oh...
+Dialogue: 0,0:16:54.13,0:16:58.45,main,Christina,0,0,0,,Did those individuals say \Nsomething unpleasant to you?
+Dialogue: 0,0:16:58.45,0:17:02.99,main,Celia,0,0,0,,No. I was just so nervous yesterday \Nthat I didn't sleep well.
+Dialogue: 0,0:17:03.63,0:17:05.21,main,Celia,0,0,0,,I think that might be the cause.
+Dialogue: 0,0:17:05.21,0:17:06.42,main,Christina,0,0,0,,I see.
+Dialogue: 0,0:17:06.42,0:17:09.49,main,Celia,0,0,0,,It really has been a while, hasn't it?
+Dialogue: 0,0:17:10.20,0:17:13.47,main,Celia,0,0,0,,Princess Christina, I'm so\N happy to see you again!
+Dialogue: 0,0:17:13.47,0:17:15.02,main,Christina,0,0,0,,So am I!
+Dialogue: 0,0:17:16.02,0:17:20.51,main,Christina,0,0,0,,It's thanks to you, Professor, that I'm \Nfinally able to be outside like this.
+Dialogue: 0,0:17:20.92,0:17:24.48,main,Christina,0,0,0,,For so long, I had been confined in the palace.
+Dialogue: 0,0:17:24.48,0:17:28.00,main,Celia,0,0,0,,The scrutiny of Duke Arbor's faction \Nis quite stringent, isn't it?
+Dialogue: 0,0:17:28.40,0:17:32.98,main,Christina,0,0,0,,In my case, the inadequacy of the \Nroyal family is the cause of it.
+Dialogue: 0,0:17:33.57,0:17:35.99,main,Christina,0,0,0,,I believe Flora feels the same.
+Dialogue: 0,0:17:35.99,0:17:40.59,main,Celia,0,0,0,,When Duke Huguenot fled \Nthe kingdom with Princess Flora ...
+Dialogue: 0,0:17:40.59,0:17:42.74,main,Celia,0,0,0,,I'm sure it must have been painful.
+Dialogue: 0,0:17:42.74,0:17:47.37,main,Christina,0,0,0,,It made me see that all faith in the \Npower of the royal family had been lost.
+Dialogue: 0,0:17:48.22,0:17:51.84,main,Christina,0,0,0,,And the ill effects of that have \Nresulted in your wedding, Professor.
+Dialogue: 0,0:17:52.89,0:17:55.63,main,Christina,0,0,0,,I am truly sorry for all of this!
+Dialogue: 0,0:17:55.63,0:17:57.31,main,Celia,0,0,0,,P-Princess Christina!
+Dialogue: 0,0:17:57.31,0:17:59.52,main,Celia,0,0,0,,This wedding is something I decided upon!
+Dialogue: 0,0:17:59.52,0:18:01.64,main,Celia,0,0,0,,Why are you apologizing?
+Dialogue: 0,0:18:02.27,0:18:05.66,main,Christina,0,0,0,,Because I've stolen your \Nsmile from you, Professor.
+Dialogue: 0,0:18:07.36,0:18:09.40,main,Christina,0,0,0,,While I attended the Academy,
+Dialogue: 0,0:18:09.76,0:18:12.91,main,Christina,0,0,0,,I admired and looked up \Nto you, Professor Celia.
+Dialogue: 0,0:18:14.09,0:18:18.60,main,Christina,0,0,0,,Back then, Professor, you seemed \Nso clearly happy, unlike now.
+Dialogue: 0,0:18:19.72,0:18:24.03,main,Christina,0,0,0,,Now, you're like a bird locked in a cage.
+Dialogue: 0,0:18:25.22,0:18:30.88,main,Christina,0,0,0,,If there were ever a chance for you to \Nregain the smile you had back then...
+Dialogue: 0,0:18:31.72,0:18:33.50,italics,Celia,0,0,0,,Princess Christina...
+Dialogue: 0,0:18:33.50,0:18:37.01,main,Christina,0,0,0,,I swear I will do everything in my \Npower to help when the time comes.
+Dialogue: 0,0:18:38.38,0:18:39.95,main,Celia,0,0,0,,Thank you.
+Dialogue: 0,0:18:40.69,0:18:47.02,main,Celia,0,0,0,,And I will pray that you and \NPrincess Flora will one day be reunited.
+Dialogue: 0,0:18:51.61,0:18:53.68,main,Alfred,0,0,0,,It looks to be a lavish ceremony.
+Dialogue: 0,0:18:53.68,0:18:55.35,main,Charles,0,0,0,,Yes, it will be.
+Dialogue: 0,0:18:55.35,0:18:56.44,main,Alfred,0,0,0,,We should get going—
+Dialogue: 0,0:18:56.44,0:18:57.70,main,Charles,0,0,0,,Alfred...
+Dialogue: 0,0:18:57.70,0:19:01.24,main,Charles,0,0,0,,You are about to gloriously take command \Nof the assembled forces, are you not?
+Dialogue: 0,0:19:01.24,0:19:03.81,main,Charles,0,0,0,,After all, you are the strongest \Nwarrior in the kingdom.
+Dialogue: 0,0:19:03.81,0:19:07.10,main,Charles,0,0,0,,Your skills have caused some \Nto call you the King's Sword.
+Dialogue: 0,0:19:07.42,0:19:09.50,main,Charles,0,0,0,,But how unfortunate for you.
+Dialogue: 0,0:19:09.50,0:19:12.64,main,Charles,0,0,0,,I have authority over the \Nsecurity for the ceremony.
+Dialogue: 0,0:19:12.64,0:19:15.90,main,Charles,0,0,0,,You have no choice but to obey my orders.
+Dialogue: 0,0:19:15.90,0:19:19.97,main,Alfred,0,0,0,,I only ever think of how \NI might fulfill my bounden duty.
+Dialogue: 0,0:19:21.71,0:19:23.89,main,Charles,0,0,0,,Well, don't go showing off.
+Dialogue: 0,0:19:28.22,0:19:30.79,top,Rio,0,0,0,,Year one thousand of the Holy Era. Spring.
+Dialogue: 0,0:19:28.39,0:19:33.42,sign_5011_20_The_Kingdom_of_B,text,0,0,0,,{\pos(320,300)\fad(527,540)}Year 1000 of the Holy Era, Spring
+Dialogue: 0,0:19:31.39,0:19:36.40,top,Rio,0,0,0,,Thus, the wedding ceremony between \NProfessor Celia and Charles Arbor began.
+Dialogue: 0,0:19:40.02,0:19:41.53,main,kid,0,0,0,,I can't see!
+Dialogue: 0,0:19:40.77,0:19:41.53,main,man,0,0,0,,Here they come!
+Dialogue: 0,0:19:44.70,0:19:45.53,main,crowd,0,0,0,,They're nearly here!
+Dialogue: 0,0:19:45.53,0:19:46.62,main,crowd,0,0,0,,They're crossing the bridge!
+Dialogue: 0,0:19:47.27,0:19:48.23,main,crowd,0,0,0,,I can see them!
+Dialogue: 0,0:19:48.23,0:19:49.23,main,crowd,0,0,0,,Here they come!
+Dialogue: 0,0:19:52.89,0:19:54.48,main,crowd,0,0,0,,Amazing!
+Dialogue: 0,0:19:57.63,0:19:59.51,main,crowd,0,0,0,,That's a huge procession!
+Dialogue: 0,0:19:59.81,0:20:01.65,main,crowd,0,0,0,,Oh, it's the bride!
+Dialogue: 0,0:20:03.55,0:20:05.07,main,crowd,0,0,0,,She's all silver...
+Dialogue: 0,0:20:03.79,0:20:06.56,top,crowd,0,0,0,,Long live the Silver Bride!
+Dialogue: 0,0:20:06.56,0:20:08.54,main,crowd,0,0,0,,The Silver Bride!
+Dialogue: 0,0:20:08.54,0:20:10.61,main,crowd,0,0,0,,Long live the Silver Bride!
+Dialogue: 0,0:20:10.61,0:20:13.44,main,Charles,0,0,0,,I see. The Silver Bride, is it?
+Dialogue: 0,0:20:13.75,0:20:17.19,main,Charles,0,0,0,,Coming from ignorant peasants, \Nthat's not a bad appellation.
+Dialogue: 0,0:20:17.19,0:20:20.57,main,Charles,0,0,0,,Well, it just shows how \Nvery beautiful you are.
+Dialogue: 0,0:20:20.57,0:20:23.14,main,Celia,0,0,0,,Th-Thank you.
+Dialogue: 0,0:20:23.14,0:20:27.33,main,Charles,0,0,0,,When I think that very soon you \Nwill be mine and mine alone...
+Dialogue: 0,0:20:29.08,0:20:31.75,main,Charles,0,0,0,,I look forward to the moment \Nwe kiss to seal our oaths.
+Dialogue: 0,0:20:38.31,0:20:40.49,main,soldier A,0,0,0,,Long live the House of Arbor!
+Dialogue: 0,0:20:40.49,0:20:42.92,main,soldier A,0,0,0,,Long live Lord Charles Arbor!
+Dialogue: 0,0:20:42.92,0:20:45.13,main,soldiers,0,0,0,,Long live the House of Arbor!
+Dialogue: 0,0:20:45.13,0:20:47.64,main,soldiers,0,0,0,,Long live Lord Charles Arbor!
+Dialogue: 0,0:20:47.64,0:20:49.89,main,soldiers,0,0,0,,Long live the House of Arbor!
+Dialogue: 0,0:20:49.89,0:20:52.50,main,crowd,0,0,0,,Long live Lord Charles Arbor!
+Dialogue: 0,0:20:52.50,0:20:54.13,main,crowd,0,0,0,,Long live the House of Arbor!
+Dialogue: 0,0:20:54.13,0:20:55.90,main,crowd,0,0,0,,Long live the House of Arbor!
+Dialogue: 0,0:20:55.90,0:20:58.96,main,Charles,0,0,0,,One day, this kingdom will be mine.
+Dialogue: 0,0:20:58.96,0:21:00.65,main,Charles,0,0,0,,And you will be wife to me.
+Dialogue: 0,0:21:22.65,0:21:23.58,main,crowd,0,0,0,,Are they here yet?
+Dialogue: 0,0:21:23.58,0:21:26.26,main,Aishia,0,0,0,,Haruto, Celia is close.
+Dialogue: 0,0:21:26.49,0:21:27.92,main,Rio,0,0,0,,It seems so.
+Dialogue: 0,0:21:27.92,0:21:30.01,main,Aishia,0,0,0,,Haruto, you're very calm.
+Dialogue: 0,0:21:30.01,0:21:32.02,main,Rio,0,0,0,,It's thanks to you, Aishia.
+Dialogue: 0,0:21:32.02,0:21:35.88,main,Aishia,0,0,0,,I only investigated. It wasn't very much.
+Dialogue: 0,0:21:35.88,0:21:40.02,main,Rio,0,0,0,,That's not true. Thanks to that,\N I understand a lot more.
+Dialogue: 0,0:21:42.49,0:21:43.67,main,crowd,0,0,0,,It's the bride!
+Dialogue: 0,0:21:43.67,0:21:44.44,main,crowd,0,0,0,,I see them!
+Dialogue: 0,0:21:44.79,0:21:46.34,main,crowd,0,0,0,,She's so beautiful!
+Dialogue: 0,0:21:46.65,0:21:48.67,main,crowd,0,0,0,,Long live the bride!
+Dialogue: 0,0:21:49.62,0:21:51.99,main,crowd,0,0,0,,Long live the Silver Bride!
+Dialogue: 0,0:21:51.99,0:21:55.17,top,crowd,0,0,0,,Lord Charles! Lord Charles!
+Dialogue: 0,0:21:52.44,0:21:53.70,italics,Rio,0,0,0,,Professor...
+Dialogue: 0,0:21:54.10,0:21:56.24,italics,Aishia,0,0,0,,Haruto, I'm going to go now.
+Dialogue: 0,0:21:56.24,0:21:57.21,main,Rio,0,0,0,,Yes.
+Dialogue: 0,0:21:58.26,0:21:59.23,italics,Aishia,0,0,0,,Celia?
+Dialogue: 0,0:22:00.21,0:22:02.14,italics,Celia,0,0,0,,Huh? What?
+Dialogue: 0,0:22:00.38,0:22:02.38,top,,0,0,0,,
+Dialogue: 0,0:22:02.14,0:22:03.71,italics,Aishia,0,0,0,,Celia, stay calm.
+Dialogue: 0,0:22:03.71,0:22:04.89,italics,Celia,0,0,0,,Who are you?
+Dialogue: 0,0:22:04.89,0:22:06.44,italics,Aishia,0,0,0,,I'm Aishia.
+Dialogue: 0,0:22:06.44,0:22:11.35,italics,Aishia,0,0,0,,Haruto—no, Rio asked me \Nto talk to you this way.
+Dialogue: 0,0:22:11.35,0:22:12.42,italics,Celia,0,0,0,,Rio did?
+Dialogue: 0,0:22:12.42,0:22:13.72,italics,Aishia,0,0,0,,Look to your right.
+Dialogue: 0,0:22:18.07,0:22:18.94,italics,Celia,0,0,0,,Rio...
+Dialogue: 0,0:22:19.37,0:22:20.33,italics,Celia,0,0,0,,Rio!
+Dialogue: 0,0:22:21.15,0:22:22.59,italics,Celia,0,0,0,,Why are you here?
+Dialogue: 0,0:22:22.59,0:22:24.53,italics,Celia,0,0,0,,I told you not to come!
+Dialogue: 0,0:22:25.30,0:22:29.75,italics,Celia,0,0,0,,Rio, you were the one person \NI didn't want to see me like this!
+Dialogue: 0,0:22:29.75,0:22:32.48,main,Charles,0,0,0,,Hey, now! What's wrong, Celia?
+Dialogue: 0,0:22:33.08,0:22:34.17,main,Celia,0,0,0,,Oh, I...
+Dialogue: 0,0:22:34.79,0:22:38.70,main,Celia,0,0,0,,I'm not sure. So many feelings \Nsuddenly welled up...
+Dialogue: 0,0:22:38.70,0:22:43.41,main,Charles,0,0,0,,I see. You're so happy you're crying? \NI didn't realize you cared for me so.
+Dialogue: 0,0:22:44.65,0:22:46.95,main,Charles,0,0,0,,But we must be dignified here.
+Dialogue: 0,0:22:46.95,0:22:48.92,main,Charles,0,0,0,,Everyone is watching, you see.
+Dialogue: 0,0:22:48.92,0:22:49.94,main,Celia,0,0,0,,Yes.
+Dialogue: 0,0:22:49.94,0:22:50.55,main,Charles,0,0,0,,Good.
+Dialogue: 0,0:22:57.67,0:23:00.21,italics,Celia,0,0,0,,Aishia, can you hear me?
+Dialogue: 0,0:23:01.48,0:23:03.31,italics,Celia,0,0,0,,Where has Rio gone?
+Dialogue: 0,0:23:07.28,0:23:09.96,italics,Celia,0,0,0,,Was it... all a fantasy?
+Dialogue: 0,0:23:15.61,0:23:16.64,main,Charles,0,0,0,,Celia...
+Dialogue: 0,0:23:19.21,0:23:22.71,italics,Celia,0,0,0,,I am... a doll.
+Dialogue: 0,0:23:25.61,0:23:26.92,main,soldier 1,0,0,0,,Halt!
+Dialogue: 0,0:23:27.16,0:23:28.09,main,soldier,0,0,0,,Hurry!
+Dialogue: 0,0:23:28.09,0:23:29.22,main,soldier 2,0,0,0,,Seize him!
+Dialogue: 0,0:23:29.22,0:23:31.01,main,soldier,0,0,0,,There's an intruder!
+Dialogue: 0,0:23:34.97,0:23:39.98,sign_33925_315_Next_Time_Royal_,text,0,0,0,,{\pos(320,120)\blur1.5}Next Time
+Dialogue: 0,0:23:34.97,0:23:39.98,sign_33925_315_Next_Time_Royal_,text,0,0,0,,{\fs35\an8\pos(320,225)\blur1.5}Fated Reunion
+Dialogue: 0,0:23:36.38,0:23:38.03,main,Rio,0,0,0,,"Fated Reunion."
+Dialogue: 0,0:23:39.98,0:23:42.16,sign_34045_320_Spirit_Chronicle,text; yellow,0,0,0,,{\pos(37,270)\fsp3\fad(1,120)}Spirit Chronicles
+Dialogue: 0,0:23:39.98,0:23:42.16,sign_34045_320_Spirit_Chronicle,text; yellow,0,0,0,,{\pos(37,270)\fsp3\c&H63E9E9&\clip(33,259,256,270)\fad(1,120)}Spirit Chronicles
+Dialogue: 0,0:23:39.98,0:23:42.16,sign_34045_321_Exciting_Bonus_M,text; blue,0,0,0,,{\pos(32,340)\fad(1,120)}Exciting Bonus Manga
+Dialogue: 0,0:23:39.98,0:23:42.48,Default,text; bubble,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 46 43 l 84 43 84 141 52 139
+Dialogue: 0,0:23:39.98,0:23:42.48,sign_34045_319_I_had_a_dream_th,text; bubble,0,0,0,,{\pos(70,85)}Rio!
+Dialogue: 0,0:23:39.98,0:23:50.25,sign_34045_323_By_Minazuki_Futa,text; black,0,0,0,,{\an1\pos(450,323)}By Minazuki Futago
+Dialogue: 0,0:23:40.79,0:23:42.48,sign_34127_328_Ha_ha,text; sfx,0,0,0,,{\frz30.88\pos(445,60)\fad(129,1)}fwhoosh
+Dialogue: 0,0:23:42.48,0:23:44.48,Default,text; bubble,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 559 14 l 601 14 601 211 561 209
+Dialogue: 0,0:23:42.48,0:23:44.48,sign_34045_319_I_had_a_dream_th,text; bubble,0,0,0,,{\pos(570,95)}Professor\N Celia!
+Dialogue: 0,0:23:42.48,0:23:44.48,sign_34127_328_Ha_ha,text; sfx,0,0,0,,{\pos(80,185)\bord2\3c&HE7EAE7&}whoom
+Dialogue: 0,0:23:44.48,0:23:47.50,sign_34212_329_Meow,text; sfx right,0,0,0,,{\an2\frz24.59\fs30\pos(430,45)\fnComic Sans MS\fsp6}ziiing
+Dialogue: 0,0:23:44.48,0:23:47.50,sign_34127_328_Ha_ha,text; above Celia,0,0,0,,{\pos(330,45)}Hah
+Dialogue: 0,0:23:47.50,0:23:50.25,sign_34212_329_Meow,text; sfx right,0,0,0,,{\an2\fs30\fnComic Sans MS\fsp6\pos(545,40)}pop
+Dialogue: 0,0:23:47.50,0:23:50.25,sign_34127_328_Ha_ha,text; sfx by cat,0,0,0,,{\pos(510,145)\fnComic Sans MS\3c&HE7EAE7&\bord2}Meow
+Dialogue: 0,0:23:47.50,0:23:50.25,sign_34045_319_I_had_a_dream_th,text; above Celia,0,0,0,,{\an7\pos(445,20)\fs15}It's\Na\Nkitty
+Dialogue: 0,0:23:47.50,0:23:50.25,sign_34045_319_I_had_a_dream_th,text; by Rio,0,0,0,,{\an7\pos(310,160)\fs15}Really...
+Dialogue: 0,0:23:47.50,0:23:50.25,Default,text; bubble,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 31 13 l 103 15 101 231 52 325 35 304
+Dialogue: 0,0:23:47.50,0:23:50.25,sign_34045_319_I_had_a_dream_th,text; bubble,0,0,0,,{\pos(75,100)}You really\Ncan use cat-\Ntrans-\Nformation\N magic...

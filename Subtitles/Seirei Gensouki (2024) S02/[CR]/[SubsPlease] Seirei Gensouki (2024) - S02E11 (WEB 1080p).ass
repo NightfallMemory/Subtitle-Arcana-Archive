@@ -1,0 +1,329 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: sign_3238_18_Seirei_Gensouki,Trebuchet MS,40,&H00FAFFFF,&H000000FF,&H00E6B519,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,20,1
+Style: sign_5011_20_The_Kingdom_of_B,Arial,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+Style: sign_5131_21_Memories_of_the_,Trebuchet MS,10,&H00FFFFFC,&H000000FF,&H0040AB29,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+Style: sign_33925_315_Next_Time_Royal_,Trebuchet MS,15,&H00FAFFFF,&H000000FF,&H00CBB281,&H00BDB85F,0,0,0,0,100,100,0,0,1,2,1,2,30,30,20,1
+Style: sign_34045_321_Exciting_Bonus_M,Trebuchet MS,37,&H00C28D31,&H000000FF,&H00EAEAEA,&H00000000,-1,0,0,0,100,100,0,0,3,4,0,1,30,30,20,1
+Style: sign_34045_320_Spirit_Chronicle,Trebuchet MS,25,&H00DEEEEB,&H000000FF,&H00B98B31,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,30,30,20,1
+Style: sign_34045_323_By_Minazuki_Futa,Comic Sans MS,20,&H003A3A3A,&H000000FF,&H00EBEBEB,&H00000000,0,0,0,0,100,100,0,0,3,1,0,1,30,30,20,1
+Style: sign_34045_319_I_had_a_dream_th,Trebuchet MS,24,&H00141414,&H000000FF,&H00EBEBEB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+Style: sign_34127_328_Ha_ha,Verdana,20,&H00282828,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_34212_329_Meow,Verdana,40,&H00EAEAEA,&H000000FF,&H00181818,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.77,0:00:06.06,flashback,little Rio,0,0,0,,Say, Mom?
+Dialogue: 0,0:00:07.05,0:00:08.48,flashback,Ayame,0,0,0,,What is it, Rio?
+Dialogue: 0,0:00:08.86,0:00:11.79,flashback,little Rio,0,0,0,,Why is our hair black?
+Dialogue: 0,0:00:11.79,0:00:14.83,flashback,little Rio,0,0,0,,We're the only ones. \NNo one else's is black.
+Dialogue: 0,0:00:15.20,0:00:21.20,flashback,Ayame,0,0,0,,That's probably because your father \Nand I came from a far-off place.
+Dialogue: 0,0:00:21.50,0:00:22.99,flashback,little Rio,0,0,0,,Oh.
+Dialogue: 0,0:00:22.99,0:00:24.64,main,Miharu,0,0,0,,Haruto-san?
+Dialogue: 0,0:00:27.17,0:00:28.67,flashback,Lucius,0,0,0,,Hey, Rio?
+Dialogue: 0,0:00:30.48,0:00:31.96,flashback,little Rio,0,0,0,,Mother...
+Dialogue: 0,0:00:32.41,0:00:34.18,flashback,Lucius,0,0,0,,Are you angry?
+Dialogue: 0,0:00:36.92,0:00:38.68,main,Miharu,0,0,0,,H-Haruto-san?
+Dialogue: 0,0:00:54.25,0:00:55.03,main,Miharu,0,0,0,,Wait!
+Dialogue: 0,0:01:03.60,0:01:05.08,main,Miharu,0,0,0,,What was that?
+Dialogue: 0,0:01:20.16,0:01:25.58,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\pos(345,125)\blur4\fad(897,248)}Spirit Chronicles 2
+Dialogue: 0,0:02:25.50,0:02:27.29,italics,Flora; internal,0,0,0,,Rio...
+Dialogue: 0,0:02:27.29,0:02:29.64,italics,Flora; internal,0,0,0,,Wait. Rio?
+Dialogue: 0,0:02:30.83,0:02:33.84,main,Lucius,0,0,0,,That look on your face is better than before!
+Dialogue: 0,0:02:36.28,0:02:40.01,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\blur4\c&H7AFBFF&\fad(500,1)\an1\fs21\fsp1.5\pos(53.111,295.111)}Clash
+Dialogue: 0,0:02:42.84,0:02:46.31,main,Lucius,0,0,0,,Who'd have imagined there'd be \Nanyone who could catch up to me?
+Dialogue: 0,0:02:46.31,0:02:48.52,main,Lucius,0,0,0,,Though, I did have hopes.
+Dialogue: 0,0:02:50.02,0:02:53.52,main,Lucius,0,0,0,,Hey, are you just gonna stay silent?\NSay something.
+Dialogue: 0,0:02:53.98,0:02:55.34,main,Rio,0,0,0,,Show your face.
+Dialogue: 0,0:02:55.71,0:02:58.53,main,Lucius,0,0,0,,Huh? Who do you think you're ordering around?
+Dialogue: 0,0:03:00.28,0:03:03.53,main,Lucius,0,0,0,,You came to save this princess, didn't you?
+Dialogue: 0,0:03:05.54,0:03:08.94,italics,Rio; internal,0,0,0,,I shouldn't let him think she \Nhas any value as a hostage.
+Dialogue: 0,0:03:09.55,0:03:11.54,main,Rio,0,0,0,,The one I have business with is you!
+Dialogue: 0,0:03:11.54,0:03:13.00,main,Lucius,0,0,0,,Me?
+Dialogue: 0,0:03:13.00,0:03:16.10,main,Rio,0,0,0,,I've been looking for you... Lucius!
+Dialogue: 0,0:03:17.35,0:03:22.55,main,Lucius,0,0,0,,And if I am this... Lucius? \NWhat do you plan to do?
+Dialogue: 0,0:03:23.01,0:03:24.05,main,Rio,0,0,0,,I'll kill you.
+Dialogue: 0,0:03:26.67,0:03:30.06,main,Lucius,0,0,0,,That's funny! You're pretty funny!
+Dialogue: 0,0:03:30.53,0:03:34.05,italics,Lucius; internal,0,0,0,,So this is the guy that human-shaped \Nspirit has a covenant with.
+Dialogue: 0,0:03:34.51,0:03:36.05,italics,Lucius; internal,0,0,0,,I don't remember him...
+Dialogue: 0,0:03:36.72,0:03:40.04,italics,Lucius; internal,0,0,0,,but if he's got a grudge against me,\Nthen we must have met before.
+Dialogue: 0,0:03:40.95,0:03:42.64,main,Lucius,0,0,0,,Well, it doesn't matter.
+Dialogue: 0,0:03:42.64,0:03:43.82,main,Lucius,0,0,0,,How's this?
+Dialogue: 0,0:03:43.82,0:03:46.08,main,Lucius,0,0,0,,Is this the face you were hoping for?
+Dialogue: 0,0:03:47.64,0:03:50.08,main,Rio,0,0,0,,Yes, and I've been searching a long time.
+Dialogue: 0,0:03:50.45,0:03:56.59,main,Lucius,0,0,0,,You were looking for me to kill me, right?\NYou seem very calm, considering.
+Dialogue: 0,0:03:56.96,0:04:01.09,main,Rio,0,0,0,,Not at all. I really am \Nthinking about killing you.
+Dialogue: 0,0:04:01.09,0:04:05.21,main,Lucius,0,0,0,,Oh, come on. In that case, you \Nshould show your true self more!
+Dialogue: 0,0:04:05.21,0:04:08.26,main,Lucius,0,0,0,,That isn't the look of a man \Nwho's about to kill someone.
+Dialogue: 0,0:04:08.26,0:04:12.93,main,Rio,0,0,0,,I am showing my true self. \NI will kill you. That's all there is.
+Dialogue: 0,0:04:13.27,0:04:15.10,main,Lucius,0,0,0,,I see. So...
+Dialogue: 0,0:04:15.73,0:04:17.28,main,Lucius,0,0,0,,Who are you?
+Dialogue: 0,0:04:18.11,0:04:21.38,main,Lucius,0,0,0,,You've met the person you hate,
+Dialogue: 0,0:04:21.38,0:04:24.11,main,Lucius,0,0,0,,but you're not gonna give \Nyour name or a little speech?
+Dialogue: 0,0:04:24.44,0:04:28.09,main,Rio,0,0,0,,I told you. I will kill you. That is all.
+Dialogue: 0,0:04:28.09,0:04:31.12,main,Lucius,0,0,0,,You're so boring.
+Dialogue: 0,0:04:31.43,0:04:32.50,main,Lucius,0,0,0,,But...
+Dialogue: 0,0:04:38.98,0:04:41.22,main,Lucius,0,0,0,,Hey! What was that?
+Dialogue: 0,0:04:41.22,0:04:43.88,main,Lucius,0,0,0,,It's a dirty trick, \Nwearing something like that!
+Dialogue: 0,0:04:43.88,0:04:46.84,main,Rio,0,0,0,,A dirty trick? You accuse {\i1}me{\i0} of being dirty?
+Dialogue: 0,0:04:48.86,0:04:51.35,italics,Lucius; internal,0,0,0,,No gaps in his defense, I guess.
+Dialogue: 0,0:04:51.71,0:04:54.48,italics,Lucius; internal,0,0,0,,Well, it wouldn't be any fun otherwise.
+Dialogue: 0,0:04:54.48,0:04:59.20,main,Lucius,0,0,0,,You've long desired to meet face-to-face. \NYou could let me play a little!
+Dialogue: 0,0:05:06.85,0:05:08.27,main,Lucius,0,0,0,,Nice reactions!
+Dialogue: 0,0:05:08.27,0:05:11.97,main,Lucius,0,0,0,,But, even though you talked like you \Nweren't interested in this princess,
+Dialogue: 0,0:05:11.97,0:05:13.83,main,Lucius,0,0,0,,it seems she is important to you after all.
+Dialogue: 0,0:05:16.31,0:05:20.71,main,Lucius,0,0,0,,Or is it just that you don't want people \Ngetting caught up in your revenge?
+Dialogue: 0,0:05:20.71,0:05:23.69,main,Lucius,0,0,0,,Either way... you're too soft!
+Dialogue: 0,0:05:27.84,0:05:28.51,main,Celia,0,0,0,,Aishia!
+Dialogue: 0,0:05:30.43,0:05:31.39,main,Celia,0,0,0,,Behind you!
+Dialogue: 0,0:05:41.71,0:05:45.19,main,Celia,0,0,0,,Aishia, it looks like the monsters\N have all focused on you!
+Dialogue: 0,0:05:45.94,0:05:47.20,main,Aishia,0,0,0,,It's all right.
+Dialogue: 0,0:05:49.93,0:05:51.12,main,Grace,0,0,0,,Miss Aishia!
+Dialogue: 0,0:05:51.66,0:05:53.12,main,Aishia,0,0,0,,It's not a problem.
+Dialogue: 0,0:05:53.34,0:05:55.08,main,Lucius,0,0,0,,Come on! Come on!
+Dialogue: 0,0:05:56.12,0:05:58.52,italics,Rio; internal,0,0,0,,What's this? The point of \Nhis sword is getting longer?
+Dialogue: 0,0:05:58.90,0:06:00.74,italics,Rio; internal,0,0,0,,Is it some kind of spatial magic?
+Dialogue: 0,0:06:02.50,0:06:03.40,italics,Rio; internal,0,0,0,,In that case...
+Dialogue: 0,0:06:18.28,0:06:21.00,main,Lucius,0,0,0,,You're a pest. You know that?
+Dialogue: 0,0:06:28.70,0:06:33.70,italics,Lucius; internal,0,0,0,,This guy is finding the precise moments \Nto attack so he doesn't hurt the girl.
+Dialogue: 0,0:06:34.21,0:06:36.20,italics,Lucius; internal,0,0,0,,That's more than ordinary skill.
+Dialogue: 0,0:06:36.20,0:06:39.71,italics,Lucius; internal,0,0,0,,There's no chance I'd forget \Nsomeone this strong.
+Dialogue: 0,0:06:40.01,0:06:41.70,italics,Lucius; internal,0,0,0,,But I don't remember him.
+Dialogue: 0,0:06:41.70,0:06:47.64,italics,Lucius; internal,0,0,0,,That must means I met him a long \Ntime ago. Back when he was a kid.
+Dialogue: 0,0:06:48.99,0:06:50.72,Default,Lucius,0,0,0,,Forget it! I'm not doing this!
+Dialogue: 0,0:06:53.35,0:06:57.64,main,Lucius,0,0,0,,What I'm saying is, it won't \Nbe any fun fighting like this.
+Dialogue: 0,0:06:58.28,0:07:01.73,main,Rio,0,0,0,,I'm going to kill you.\NIt doesn't need to be {\i1}fun{\i0}.
+Dialogue: 0,0:07:04.93,0:07:07.48,main,Lucius,0,0,0,,I think it's time to just reveal your secret.
+Dialogue: 0,0:07:08.40,0:07:11.35,main,Lucius,0,0,0,,Unfortunately, I've spawned \Nso many grudges against me,
+Dialogue: 0,0:07:11.35,0:07:13.20,main,Lucius,0,0,0,,I can't remember everyone's faces.
+Dialogue: 0,0:07:13.20,0:07:16.47,main,Lucius,0,0,0,,You've sparked my interest.
+Dialogue: 0,0:07:16.47,0:07:18.76,main,Lucius,0,0,0,,But for you to know all about me,
+Dialogue: 0,0:07:18.76,0:07:22.18,main,Lucius,0,0,0,,and me to know nothing of you...\N Well, that's no fun.
+Dialogue: 0,0:07:22.18,0:07:23.99,main,Lucius,0,0,0,,It's unfair.
+Dialogue: 0,0:07:23.99,0:07:25.21,main,Rio,0,0,0,,Unfair?
+Dialogue: 0,0:07:27.12,0:07:29.21,main,Lucius,0,0,0,,Just who are you?
+Dialogue: 0,0:07:29.68,0:07:31.34,main,Rio,0,0,0,,If you can't remember me,
+Dialogue: 0,0:07:31.79,0:07:35.72,main,Rio,0,0,0,,that tells you what you must have \Nthought of me as an opponent.
+Dialogue: 0,0:07:36.19,0:07:41.23,main,Lucius,0,0,0,,If I'd crossed swords with someone \Nof your skill, I wouldn't forget!
+Dialogue: 0,0:07:42.53,0:07:45.87,main,Lucius,0,0,0,,I'll ask you again. Who are you?
+Dialogue: 0,0:07:51.05,0:07:56.74,main,Rio,0,0,0,,I can't imagine you kidnapped her just \Nto expose her to danger in this manner.
+Dialogue: 0,0:07:56.74,0:08:00.25,main,Lucius,0,0,0,,But this is the best sort of scene, isn't it?
+Dialogue: 0,0:08:04.73,0:08:07.25,main,Lucius,0,0,0,,You're pretty calm in the face of all this.
+Dialogue: 0,0:08:07.49,0:08:10.61,main,Lucius,0,0,0,,Since I don't remember \Nyou the way you look now,
+Dialogue: 0,0:08:10.61,0:08:13.76,main,Lucius,0,0,0,,does that mean we met \Nwhen you were just a kid?
+Dialogue: 0,0:08:14.82,0:08:17.40,main,Lucius,0,0,0,,I'll take your silence as a yes.
+Dialogue: 0,0:08:18.37,0:08:22.77,main,Lucius,0,0,0,,From the cast of your features, \Nyou're not from around here, right?
+Dialogue: 0,0:08:25.25,0:08:26.56,main,Lucius,0,0,0,,Still not talking?
+Dialogue: 0,0:08:27.55,0:08:30.78,main,Lucius,0,0,0,,Then how about a trade?
+Dialogue: 0,0:08:31.16,0:08:34.31,main,Lucius,0,0,0,,I'll let this little princess go for now.
+Dialogue: 0,0:08:35.33,0:08:38.04,main,Lucius,0,0,0,,In exchange, you tell me who you are.
+Dialogue: 0,0:08:38.04,0:08:40.79,main,Lucius,0,0,0,,Then we'll have a one-on-one fight.
+Dialogue: 0,0:08:41.41,0:08:44.48,main,Rio,0,0,0,,Those terms favor me pretty heavily.
+Dialogue: 0,0:08:44.48,0:08:47.02,main,Lucius,0,0,0,,Well, I'm a very kind man, you see?
+Dialogue: 0,0:08:47.79,0:08:52.80,main,Lucius,0,0,0,,If you accept the terms,\NI'll start by letting the princess go.
+Dialogue: 0,0:08:55.46,0:08:56.80,main,Rio,0,0,0,,All right.
+Dialogue: 0,0:08:57.08,0:08:59.16,main,Lucius,0,0,0,,Then our deal is struck!
+Dialogue: 0,0:09:00.07,0:09:02.90,main,Lucius,0,0,0,,Stand between us where we can see you.
+Dialogue: 0,0:09:03.32,0:09:06.31,main,Lucius,0,0,0,,There may still be monsters around, after all.
+Dialogue: 0,0:09:07.00,0:09:07.88,main,Lucius,0,0,0,,Understand?
+Dialogue: 0,0:09:09.48,0:09:10.47,main,Lucius,0,0,0,,Good. Now, go.
+Dialogue: 0,0:09:11.82,0:09:12.69,main,Flora,0,0,0,,Sir Ha—
+Dialogue: 0,0:09:14.90,0:09:16.96,main,Lucius,0,0,0,,Now, don't go near the princess.
+Dialogue: 0,0:09:19.28,0:09:21.63,main,Lucius,0,0,0,,All right, stop there!
+Dialogue: 0,0:09:22.51,0:09:26.77,italics,Lucius; internal,0,0,0,,As long as she's in sight, I can \Nuse her as a hostage if I need to.
+Dialogue: 0,0:09:26.77,0:09:30.71,italics,Lucius; internal,0,0,0,,How the situation shakes out \Ndepends on who this guy is.
+Dialogue: 0,0:09:32.49,0:09:34.54,main,Rio,0,0,0,,Please stand a little further back.
+Dialogue: 0,0:09:35.32,0:09:36.12,main,Flora,0,0,0,,All right!
+Dialogue: 0,0:09:36.47,0:09:40.73,main,Lucius,0,0,0,,Now, we will change from being \Nthe princess's kidnapper
+Dialogue: 0,0:09:40.73,0:09:42.22,main,Lucius,0,0,0,,and the prince come to save her...
+Dialogue: 0,0:09:42.49,0:09:47.96,main,Lucius,0,0,0,,to the unsuspecting target of revenge and \Nthe demon come to carry out said revenge.
+Dialogue: 0,0:09:48.73,0:09:52.73,main,Lucius,0,0,0,,Now, your part of the bargain. Tell me.
+Dialogue: 0,0:09:54.81,0:09:56.68,main,Rio,0,0,0,,It was over ten years ago.
+Dialogue: 0,0:09:57.36,0:10:00.74,main,Rio,0,0,0,,I was living in the capital \Nof the Beltrum Kingdom.
+Dialogue: 0,0:10:01.71,0:10:02.74,main,Lucius,0,0,0,,Really?
+Dialogue: 0,0:10:02.74,0:10:07.26,main,Rio,0,0,0,,At the time, you were looking \Nafter a certain parent and child.
+Dialogue: 0,0:10:12.75,0:10:17.48,main,Lucius,0,0,0,,I see! Those features are from Yagumo!
+Dialogue: 0,0:10:18.26,0:10:21.35,main,Lucius,0,0,0,,Your hair is a completely different color!
+Dialogue: 0,0:10:21.35,0:10:24.72,main,Lucius,0,0,0,,That's why I didn't remember you! Come on!
+Dialogue: 0,0:10:27.00,0:10:29.27,main,Lucius,0,0,0,,Don't glare at me with those scary eyes.
+Dialogue: 0,0:10:29.87,0:10:32.48,main,Lucius,0,0,0,,I see now. So, you lived?
+Dialogue: 0,0:10:32.48,0:10:35.40,main,Lucius,0,0,0,,Or rather, you stayed alive for me?
+Dialogue: 0,0:10:35.40,0:10:39.94,main,Lucius,0,0,0,,That little sniveler, that powerless brat...
+Dialogue: 0,0:10:40.82,0:10:43.87,main,Rio,0,0,0,,It seems you really do remember me.
+Dialogue: 0,0:10:43.87,0:10:46.93,main,Lucius,0,0,0,,Yes, I remember. I remember you.
+Dialogue: 0,0:10:46.93,0:10:49.42,main,Lucius,0,0,0,,And I've been wanting to see you.
+Dialogue: 0,0:10:49.42,0:10:52.12,main,Lucius,0,0,0,,I was hoping for a moment just like this one.
+Dialogue: 0,0:10:52.12,0:10:56.30,main,Lucius,0,0,0,,That's why I didn't kill \Nyou when you were a kid!
+Dialogue: 0,0:10:58.02,0:11:01.97,flashback,Ayame,0,0,0,,I'll be back soon. If anyone you \Ndon't know comes, stay inside.
+Dialogue: 0,0:11:02.57,0:11:03.78,flashback,Rio,0,0,0,,I will!
+Dialogue: 0,0:11:06.86,0:11:09.34,flashback,Lucius,0,0,0,,Rio, it's me. It's Lucius.
+Dialogue: 0,0:11:09.67,0:11:10.87,flashback,Lucius,0,0,0,,Will you open the door?
+Dialogue: 0,0:11:19.87,0:11:23.47,flashback,Lucius,0,0,0,,In this world, there are demons \Nwho masquerade in human skin.
+Dialogue: 0,0:11:23.47,0:11:25.84,flashback,Lucius,0,0,0,,You're one fact smarter now.
+Dialogue: 0,0:11:27.27,0:11:28.33,italics,Rio; internal,0,0,0,,I...
+Dialogue: 0,0:11:29.02,0:11:32.59,italics,Rio; internal,0,0,0,,I decided... that I would \Nsurvive in this world.
+Dialogue: 0,0:11:33.70,0:11:35.26,italics,Rio; internal,0,0,0,,I'd survive for this moment.
+Dialogue: 0,0:11:36.92,0:11:37.85,flashback,Christina,0,0,0,,He stinks.
+Dialogue: 0,0:11:37.85,0:11:40.76,flashback,Roanna,0,0,0,,It's probably best not to get too close.
+Dialogue: 0,0:11:40.76,0:11:42.89,flashback,Roanna,0,0,0,,It'd be bad for your health.
+Dialogue: 0,0:11:43.87,0:11:48.57,flashback,Celia,0,0,0,,I'm sorry we surprised you \Nlike that. What is your name?
+Dialogue: 0,0:11:48.57,0:11:51.06,flashback,Celia,0,0,0,,I'm called Celia.
+Dialogue: 0,0:11:52.10,0:11:53.06,flashback,Rio,0,0,0,,Rio...
+Dialogue: 0,0:11:53.06,0:11:56.05,flashback,Celia,0,0,0,,Rio? That's an unusual name.
+Dialogue: 0,0:11:56.43,0:11:58.03,flashback,Rio,0,0,0,,My parents were immigrants.
+Dialogue: 0,0:11:58.03,0:12:01.45,flashback,Celia,0,0,0,,I see. That's why your hair is black.
+Dialogue: 0,0:12:01.95,0:12:03.69,flashback,Aishia,0,0,0,,We don't have time right now.
+Dialogue: 0,0:12:04.22,0:12:09.07,flashback,Aishia,0,0,0,,I will teach you about od,\N and how to use your magic power.
+Dialogue: 0,0:12:09.45,0:12:11.33,flashback,Aishia,0,0,0,,Learn it by remembering this feeling.
+Dialogue: 0,0:12:11.63,0:12:14.33,flashback,Rio,0,0,0,,H-How to use magic?
+Dialogue: 0,0:12:15.18,0:12:17.28,flashback,Aishia,0,0,0,,Sharpen your senses.
+Dialogue: 0,0:12:17.81,0:12:21.22,flashback,Aishia,0,0,0,,There is light coming from \Nwithin your body, isn't there?
+Dialogue: 0,0:12:21.74,0:12:28.69,flashback,Aishia,0,0,0,,Use that light to increase your physical \Nabilities and make your body stronger.
+Dialogue: 0,0:12:29.61,0:12:31.26,flashback,Aishia,0,0,0,,Take that image and...
+Dialogue: 0,0:12:34.69,0:12:36.97,flashback,Rio,0,0,0,,I'll untie you right now. Just wait a minute.
+Dialogue: 0,0:12:38.42,0:12:40.86,flashback,Flora,0,0,0,,P-Please save me!
+Dialogue: 0,0:12:41.34,0:12:45.71,flashback,Flora,0,0,0,,Won't you please... take me to the castle?
+Dialogue: 0,0:12:46.07,0:12:47.24,flashback,Rio,0,0,0,,The castle?
+Dialogue: 0,0:12:48.31,0:12:50.27,flashback,Christina,0,0,0,,You there! Stop!
+Dialogue: 0,0:12:51.66,0:12:53.96,flashback,Celia,0,0,0,,Lady Christina! Please, wait!
+Dialogue: 0,0:12:56.15,0:12:58.34,flashback,Christina,0,0,0,,You lied to us, didn't you?!
+Dialogue: 0,0:12:58.97,0:13:01.54,flashback,Rio,0,0,0,,Please, listen until the very end.
+Dialogue: 0,0:13:01.54,0:13:02.83,flashback,Christina,0,0,0,,Th-That hurts!
+Dialogue: 0,0:13:02.83,0:13:05.01,flashback,Christina,0,0,0,,L-Let go, you loathsome thing!
+Dialogue: 0,0:13:14.55,0:13:17.92,flashback,Rio,0,0,0,,These are Mother and Father's graves.
+Dialogue: 0,0:13:18.30,0:13:19.52,flashback,Yuba,0,0,0,,That's right.
+Dialogue: 0,0:13:19.98,0:13:21.94,flashback,Rio,0,0,0,,Would it be all right if I paid my respects?
+Dialogue: 0,0:13:22.98,0:13:24.03,flashback,Yuba,0,0,0,,Yes.
+Dialogue: 0,0:13:26.75,0:13:30.45,flashback italics,Rio; internal,0,0,0,,I've finally made it here, Mother, Father.
+Dialogue: 0,0:13:30.45,0:13:33.47,flashback,Shizuku,0,0,0,,Rio, will you tell us?
+Dialogue: 0,0:13:33.79,0:13:35.70,flashback,Shizuku,0,0,0,,Tell us about Ayame and Zen.
+Dialogue: 0,0:13:36.34,0:13:37.21,flashback,Homura,0,0,0,,Yes.
+Dialogue: 0,0:13:39.83,0:13:44.07,flashback,Rio,0,0,0,,To cut straight to the conclusion, \Nboth of them have already died.
+Dialogue: 0,0:13:45.83,0:13:50.97,flashback,Homura,0,0,0,,It is how they died and how they \Nlived that we would like to hear.
+Dialogue: 0,0:13:52.88,0:13:56.98,flashback,Rio,0,0,0,,My father died when I was \Ntoo young to know him.
+Dialogue: 0,0:13:58.20,0:14:01.67,flashback,Rio,0,0,0,,My mother was a kind person \Nwho never stopped smiling.
+Dialogue: 0,0:14:03.04,0:14:07.26,flashback,Rio,0,0,0,,She never showed me her \Ngrief at my father's death.
+Dialogue: 0,0:14:07.82,0:14:12.18,flashback,Rio,0,0,0,,We were by no means affluent, \Nbut every day was a happy one.
+Dialogue: 0,0:14:12.84,0:14:16.12,flashback,Rio,0,0,0,,But when I was five, my mother passed away.
+Dialogue: 0,0:14:16.49,0:14:18.18,flashback,Shizuku,0,0,0,,When you were five?
+Dialogue: 0,0:14:18.54,0:14:21.10,flashback,Homura,0,0,0,,How did Ayame die?
+Dialogue: 0,0:14:22.55,0:14:27.50,flashback,Rio,0,0,0,,If I tell you the truth, it will \Nbe incredibly painful to hear.
+Dialogue: 0,0:14:27.50,0:14:29.73,flashback,Homura,0,0,0,,Even so, we want to know.
+Dialogue: 0,0:14:30.53,0:14:35.14,italics,Rio; internal,0,0,0,,It was for the sake of killing this man...\N for this, that I've survived.
+Dialogue: 0,0:14:35.14,0:14:40.03,main,Lucius,0,0,0,,I'm overjoyed to see that you grew up \Nexactly the way I'd envisioned.
+Dialogue: 0,0:14:40.03,0:14:45.15,main,Lucius,0,0,0,,Ruining people's lives brings \Nme the greatest joy, you see?
+Dialogue: 0,0:14:45.15,0:14:49.15,main,Lucius,0,0,0,,Now, you've got me \Ninterested. Not bad at all!
+Dialogue: 0,0:14:49.47,0:14:53.74,main,Rio,0,0,0,,Seeing that you're exactly the person \NI'd envisioned makes me happy, too.
+Dialogue: 0,0:14:54.38,0:14:57.76,main,Lucius,0,0,0,,Should I show some regret and repentance?
+Dialogue: 0,0:14:58.39,0:15:03.20,main,Rio,0,0,0,,Your repentance isn't something I want \Nto see, nor is it something I seek!
+Dialogue: 0,0:15:03.77,0:15:06.17,main,Lucius,0,0,0,,You're draining the thrill \Nfrom this, you know?
+Dialogue: 0,0:15:06.53,0:15:10.10,main,Lucius,0,0,0,,When someone comes at you with \Ntheir emotions, their instincts,
+Dialogue: 0,0:15:10.10,0:15:15.32,main,Lucius,0,0,0,,that's what makes crushing them, \Nsubduing them, the most fun!
+Dialogue: 0,0:15:16.18,0:15:19.95,main,Lucius,0,0,0,,Oh, right. Zen once told me something.
+Dialogue: 0,0:15:19.95,0:15:24.19,main,Lucius,0,0,0,,He said that Ayame was the princess \Nof some country or other.
+Dialogue: 0,0:15:24.19,0:15:25.16,main,Flora,0,0,0,,What?
+Dialogue: 0,0:15:25.16,0:15:29.71,main,Lucius,0,0,0,,Ayame was a good woman.\N She sated me for a good long while.
+Dialogue: 0,0:15:32.49,0:15:37.48,main,Lucius,0,0,0,,Right up until the moment she died, \Nshe kept trying to protect you.
+Dialogue: 0,0:15:37.48,0:15:40.07,flashback,Ayame,0,0,0,,What are you doing, Master Lucius?!
+Dialogue: 0,0:15:42.25,0:15:49.71,flashback,Ayame,0,0,0,,Please don't kill Rio. I'm begging you.
+Dialogue: 0,0:15:49.95,0:15:50.94,main,Lucius,0,0,0,,...were her words.
+Dialogue: 0,0:15:51.72,0:15:53.50,italics,Flora; internal,0,0,0,,Rio...
+Dialogue: 0,0:15:53.50,0:15:55.72,italics,Flora; internal,0,0,0,,Wait. Rio?
+Dialogue: 0,0:16:00.52,0:16:03.52,main,Lucius,0,0,0,,That expression of yours \Nlooks a little better now!
+Dialogue: 0,0:16:04.19,0:16:06.52,main,Rio,0,0,0,,Is that what you want your last words to be?
+Dialogue: 0,0:16:06.52,0:16:08.74,main,Lucius,0,0,0,,Yes, that works for me.
+Dialogue: 0,0:16:08.74,0:16:12.48,main,Lucius,0,0,0,,It's been ten years, but your \Nkindly uncle will play with you now!
+Dialogue: 0,0:16:13.34,0:16:14.45,main,Lucius,0,0,0,,Come at me.
+Dialogue: 0,0:16:14.88,0:16:16.70,main,Lucius,0,0,0,,One-on-one, and—
+Dialogue: 0,0:16:24.23,0:16:27.96,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\fs23\fad(502,1)\blur4\pos(139,283)}Spirit Chronicles {\c&H29FFF4&}2
+Dialogue: 0,0:16:24.51,0:16:26.30,top,Rio,0,0,0,,Go and play by yourself.
+Dialogue: 0,0:16:28.95,0:16:30.13,main,Lucius,0,0,0,,What?
+Dialogue: 0,0:16:33.81,0:16:34.65,italics,Lucius; internal,0,0,0,,It's not possible!
+Dialogue: 0,0:16:34.65,0:16:38.27,italics,Lucius; internal,0,0,0,,I didn't manage to react? Me?
+Dialogue: 0,0:16:38.85,0:16:41.14,italics,Lucius; internal,0,0,0,,I couldn't see his movement.
+Dialogue: 0,0:16:41.14,0:16:43.15,italics,Lucius; internal,0,0,0,,What's his trick?
+Dialogue: 0,0:16:44.95,0:16:46.94,italics,Lucius; internal,0,0,0,,I can see him. He's slower than before!
+Dialogue: 0,0:16:53.08,0:16:56.16,italics,Lucius; internal,0,0,0,,What is this unbelievable \Nphysical enhancement magic?
+Dialogue: 0,0:16:58.85,0:17:02.33,italics,Lucius; internal,0,0,0,,Blast it! His magic just \Nkeeps getting stronger!
+Dialogue: 0,0:17:15.25,0:17:17.46,italics,Lucius; internal,0,0,0,,Did I lose sight of him at the beginning
+Dialogue: 0,0:17:17.46,0:17:20.60,italics,Lucius; internal,0,0,0,,because he used that insane \Nphysical strength to move?
+Dialogue: 0,0:17:31.82,0:17:36.82,italics,Lucius; internal,0,0,0,,This guy's using those \Nintense attacks over and over,
+Dialogue: 0,0:17:37.16,0:17:39.47,italics,Lucius; internal,0,0,0,,but his breathing is still even.
+Dialogue: 0,0:17:40.30,0:17:41.83,italics,Lucius; internal,0,0,0,,What is he, a monster?
+Dialogue: 0,0:17:47.46,0:17:49.33,main,Lucius,0,0,0,,Spirit Arts?!
+Dialogue: 0,0:18:20.62,0:18:23.82,main,Lucius,0,0,0,,What's wrong? Finished already?
+Dialogue: 0,0:18:23.82,0:18:26.62,main,Lucius,0,0,0,,I'm feelin' just fine myself.
+Dialogue: 0,0:18:38.09,0:18:41.74,italics,Lucius; internal,0,0,0,,He's broken my ribs and ruptured my organs.
+Dialogue: 0,0:18:41.74,0:18:43.67,italics,Lucius; internal,0,0,0,,I've lost too much blood.
+Dialogue: 0,0:18:44.14,0:18:46.31,italics,Lucius; internal,0,0,0,,If I don't reattach my arm soon...
+Dialogue: 0,0:18:51.35,0:18:53.14,main,Lucius,0,0,0,,When did he get over there?
+Dialogue: 0,0:19:01.96,0:19:04.08,main,Lucius,0,0,0,,You're quite the villain.
+Dialogue: 0,0:19:05.06,0:19:07.00,main,Rio,0,0,0,,I'm nothing compared to you.
+Dialogue: 0,0:19:07.39,0:19:09.21,main,Rio,0,0,0,,Let's end this.
+Dialogue: 0,0:19:10.14,0:19:12.88,main,Lucius,0,0,0,,Are you sure you shouldn't\N be trying to capture me?
+Dialogue: 0,0:19:13.24,0:19:16.38,main,Rio,0,0,0,,I'm sorry to say,\NI've received no such order.
+Dialogue: 0,0:19:38.38,0:19:40.03,main,Rio,0,0,0,,You're a stubborn one.
+Dialogue: 0,0:19:40.03,0:19:43.67,main,Rio,0,0,0,,In that case, I'll erase you so that \Nnot a trace remains in this world.
+Dialogue: 0,0:20:04.10,0:20:05.35,main,Rio,0,0,0,,Are you all right?
+Dialogue: 0,0:20:05.35,0:20:09.46,main,Flora,0,0,0,,Y-Yes. Thank you.
+Dialogue: 0,0:20:10.72,0:20:11.31,main,Lucius,0,0,0,,I knew it.
+Dialogue: 0,0:20:11.54,0:20:14.87,main,Lucius,0,0,0,,You've got to protect the princess... right?
+Dialogue: 0,0:20:16.54,0:20:18.11,main,Rio,0,0,0,,This will put an end to you.
+Dialogue: 0,0:20:26.77,0:20:30.25,main,Lucius,0,0,0,,You... What took so long?
+Dialogue: 0,0:20:30.51,0:20:32.62,main,Reiss,0,0,0,,What a tremendous blunder.
+Dialogue: 0,0:20:32.62,0:20:36.76,main,Reiss,0,0,0,,If only you hadn't given in to that \Nstrange playful side of yours.
+Dialogue: 0,0:20:37.58,0:20:39.65,main,Rio,0,0,0,,I have business with that man.
+Dialogue: 0,0:20:40.13,0:20:44.35,main,Reiss,0,0,0,,Unfortunately, I have \Nbusiness with him as well.
+Dialogue: 0,0:20:44.35,0:20:46.34,main,Rio,0,0,0,,I was here first.
+Dialogue: 0,0:20:46.34,0:20:47.64,main,Reiss,0,0,0,,Now, now.
+Dialogue: 0,0:20:48.06,0:20:51.17,main,Reiss,0,0,0,,You're trying to kill him, aren't you?
+Dialogue: 0,0:20:51.17,0:20:55.50,main,Reiss,0,0,0,,If you do, then I won't be able to \Nfinish my business with him, will I?
+Dialogue: 0,0:20:55.50,0:20:58.90,main,Rio,0,0,0,,So what are you going to do? Run?
+Dialogue: 0,0:20:58.90,0:21:02.15,main,Rio,0,0,0,,Are you going to run in shame too, Lucius?
+Dialogue: 0,0:21:02.15,0:21:03.61,main,Lucius,0,0,0,,What?
+Dialogue: 0,0:21:04.02,0:21:05.54,main,Rio,0,0,0,,In another ten years,
+Dialogue: 0,0:21:05.54,0:21:09.05,main,Rio,0,0,0,,I'll cut your right arm off and you \Ncan just keep running. How's that?
+Dialogue: 0,0:21:09.05,0:21:12.16,main,Lucius,0,0,0,,You little... Reiss, put me down!
+Dialogue: 0,0:21:12.47,0:21:13.34,main,Rio,0,0,0,,Reiss?
+Dialogue: 0,0:21:13.34,0:21:14.66,main,Reiss,0,0,0,,I can't do that.
+Dialogue: 0,0:21:15.03,0:21:19.04,main,Reiss,0,0,0,,The moment your physical \Nenhancement fails, you will die.
+Dialogue: 0,0:21:19.04,0:21:21.95,main,Lucius,0,0,0,,You can't be serious! I can still—
+Dialogue: 0,0:21:21.95,0:21:25.45,main,Reiss,0,0,0,,We have no choice but to \Nretreat for the moment.
+Dialogue: 0,0:21:26.00,0:21:27.76,main,Rio,0,0,0,,You think I'll let you escape?
+Dialogue: 0,0:21:28.02,0:21:32.74,main,Reiss,0,0,0,,I am quite confident in my skills at \Nrunning away and concealing my presence.
+Dialogue: 0,0:21:32.74,0:21:36.04,main,Reiss,0,0,0,,Though, I'm not certain \Nhow I'll fare against you.
+Dialogue: 0,0:21:36.04,0:21:38.65,main,Reiss,0,0,0,,All one can do is try.
+Dialogue: 0,0:21:46.14,0:21:47.53,main,Reiss,0,0,0,,We're going now.
+Dialogue: 0,0:21:47.75,0:21:50.16,italics,Aishia; telepathy,0,0,0,,Haruto, watch out above you!
+Dialogue: 0,0:22:03.43,0:22:04.38,main,Celia,0,0,0,,Rio...
+Dialogue: 0,0:23:40.02,0:23:45.02,sign_33925_315_Next_Time_Royal_,text; top line,0,0,0,,{\pos(320,120)\blur1.5\3c&HF489C7&\shad0}Next Time
+Dialogue: 0,0:23:40.02,0:23:45.02,sign_33925_315_Next_Time_Royal_,text,0,0,0,,{\fs35\an8\pos(320,225)\blur1.5\3c&HF98DC4&\shad0\fscx75}Toward a Fateful Tomorrow
+Dialogue: 0,0:23:40.92,0:23:42.40,main,Rio,0,0,0,,"Toward a Fateful Tomorrow."
+Dialogue: 0,0:23:45.02,0:23:50.25,sign_3238_18_Seirei_Gensouki,text; top left,0,0,0,,{\fs23\blur4\an8\c&H29FFF4&\pos(137.333,74.222)}Spirit Chronicles 2
+Dialogue: 0,0:23:45.02,0:23:50.25,main,text; bottom left,0,0,0,,{\an1\c&H000700&\bord2\shad2\4c&H838556&\fs11\3c&HFFFFFF&\3a&HAF&\pos(36,318.889)}Illustration: Minazuki Futago

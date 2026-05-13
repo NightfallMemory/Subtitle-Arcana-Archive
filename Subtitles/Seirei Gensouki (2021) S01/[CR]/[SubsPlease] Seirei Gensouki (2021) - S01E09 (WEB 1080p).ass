@@ -1,0 +1,428 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: sign_3238_18_Seirei_Gensouki,Trebuchet MS,40,&H00FAFFFF,&H000000FF,&H00E6B519,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,20,1
+Style: sign_5011_20_The_Kingdom_of_B,Arial,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+Style: sign_5131_21_Memories_of_the_,Trebuchet MS,10,&H00FFFFFC,&H000000FF,&H0040AB29,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+Style: sign_33925_315_Next_Time_Royal_,Trebuchet MS,15,&H00FAFFFF,&H000000FF,&H00CBB281,&H00BDB85F,0,0,0,0,100,100,0,0,1,2,1,2,30,30,20,1
+Style: sign_34045_321_Exciting_Bonus_M,Trebuchet MS,37,&H00C28D31,&H000000FF,&H00EAEAEA,&H00000000,-1,0,0,0,100,100,0,0,3,4,0,1,30,30,20,1
+Style: sign_34045_320_Spirit_Chronicle,Trebuchet MS,25,&H00DEEEEB,&H000000FF,&H00B98B31,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,30,30,20,1
+Style: sign_34045_323_By_Minazuki_Futa,Comic Sans MS,20,&H003A3A3A,&H000000FF,&H00EBEBEB,&H00000000,0,0,0,0,100,100,0,0,3,1,0,1,30,30,20,1
+Style: sign_34045_319_I_had_a_dream_th,Trebuchet MS,24,&H00141414,&H000000FF,&H00EBEBEB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+Style: sign_34127_328_Ha_ha,Verdana,20,&H00282828,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_34212_329_Meow,Verdana,40,&H00EAEAEA,&H000000FF,&H00181818,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:02.50,0:00:03.48,main,Ruri,0,0,0,,What?
+Dialogue: 0,0:00:03.48,0:00:07.48,main,Ruri,0,0,0,,Rio is my cousin and a \Nprince of this kingdom?
+Dialogue: 0,0:00:07.72,0:00:09.71,main,Yuba,0,0,0,,Yes, that's how things turned out.
+Dialogue: 0,0:00:09.71,0:00:13.34,main,Yuba,0,0,0,,It isn't officially acknowledged, \Nbut Rio is of the royal family.
+Dialogue: 0,0:00:14.81,0:00:17.99,main,Ruri,0,0,0,,Could it be that the two \Nof you are teasing me?
+Dialogue: 0,0:00:19.39,0:00:24.13,main,Ruri,0,0,0,,There's no way an average village \Nperson could marry a princess!
+Dialogue: 0,0:00:24.61,0:00:27.59,main,Yuba,0,0,0,,Rio's father gained \Nrecognition during the war,
+Dialogue: 0,0:00:27.59,0:00:29.75,main,Yuba,0,0,0,,and was raised to the rank of warrior-noble.
+Dialogue: 0,0:00:29.75,0:00:33.72,main,Yuba,0,0,0,,All of us elderly folk \Nin the village know the story.
+Dialogue: 0,0:00:33.97,0:00:39.02,main,Ruri,0,0,0,,A warrior-noble... In that case, it wouldn't\N be so strange to meet a princess.
+Dialogue: 0,0:00:39.45,0:00:40.22,main,Ruri,0,0,0,,Would it?
+Dialogue: 0,0:00:40.22,0:00:42.64,main,Yuba,0,0,0,,That's what I've been saying, isn't it?
+Dialogue: 0,0:00:44.41,0:00:47.19,main,Ruri,0,0,0,,Huh? Uh... L-L-Lord Rio!
+Dialogue: 0,0:00:47.19,0:00:49.55,main,Ruri,0,0,0,,I-I apologize for my rudeness!
+Dialogue: 0,0:00:50.80,0:00:54.01,main,Rio,0,0,0,,Please, wait. Let's not do that, all right?
+Dialogue: 0,0:00:54.01,0:00:55.53,main,Ruri,0,0,0,,B-But...
+Dialogue: 0,0:00:55.53,0:00:59.34,main,Ruri,0,0,0,,L-Lord Rio, you're royalty, aren't you?
+Dialogue: 0,0:00:59.34,0:01:04.00,main,Rio,0,0,0,,My mother may have been, \Nbut I'm not. So, please...
+Dialogue: 0,0:01:04.00,0:01:06.76,main,Rio,0,0,0,,Treat me the way you have been up to now.
+Dialogue: 0,0:01:08.73,0:01:11.12,main,Ruri,0,0,0,,Rio... Can I call you that?
+Dialogue: 0,0:01:11.45,0:01:12.59,main,Rio,0,0,0,,Of course.
+Dialogue: 0,0:01:12.59,0:01:14.50,main,Rio,0,0,0,,Please, do everything the \Nway you have been doing it.
+Dialogue: 0,0:01:15.63,0:01:17.48,main,Ruri,0,0,0,,I will do that.
+Dialogue: 0,0:01:17.48,0:01:19.51,main,Rio,0,0,0,,Your speech hasn't changed back.
+Dialogue: 0,0:01:19.51,0:01:21.32,main,Ruri,0,0,0,,Oh! Yes, uh, yeah.
+Dialogue: 0,0:01:21.66,0:01:24.28,main,Rio,0,0,0,,This is all so sudden.\N It must be troubling,
+Dialogue: 0,0:01:24.28,0:01:27.52,main,Rio,0,0,0,,but Miss Ruri, I hope to \Ncontinue our relationship.
+Dialogue: 0,0:01:27.52,0:01:29.25,main,Ruri,0,0,0,,Yeah, all right.
+Dialogue: 0,0:01:29.64,0:01:31.11,main,Ruri,0,0,0,,Oh. That means...
+Dialogue: 0,0:01:31.11,0:01:34.27,main,Ruri,0,0,0,,Since we're cousins, calling \Nme "Miss" Ruri is a little...
+Dialogue: 0,0:01:34.67,0:01:37.74,main,Ruri,0,0,0,,I want you to refer to me \Nin a more familiar way.
+Dialogue: 0,0:01:37.74,0:01:38.71,main,Ruri,0,0,0,,Can't you?
+Dialogue: 0,0:01:38.71,0:01:42.08,main,Rio,0,0,0,,Well, um... Yes, that's true.
+Dialogue: 0,0:01:42.08,0:01:45.37,main,Rio,0,0,0,,No, sorry. You're right, Ruri.
+Dialogue: 0,0:01:45.76,0:01:47.29,main,Rio,0,0,0,,Will this work all right?
+Dialogue: 0,0:01:48.39,0:01:49.04,main,Ruri,0,0,0,,Yeah!
+Dialogue: 0,0:01:51.19,0:01:54.33,main,Rio,0,0,0,,And, this might be a little premature, but...
+Dialogue: 0,0:01:55.72,0:01:59.79,main,Rio,0,0,0,,There is something I would \Nlike to tell both of you.
+Dialogue: 0,0:01:59.79,0:02:01.89,main,Yuba,0,0,0,,You're being so formal. What is it?
+Dialogue: 0,0:02:02.48,0:02:07.39,main,Rio,0,0,0,,I'm thinking of leaving this \Nvillage by this time next year.
+Dialogue: 0,0:02:07.39,0:02:12.05,main,Yuba,0,0,0,,I see. You will be missed, \Nbut it can't be helped, can it?
+Dialogue: 0,0:02:12.61,0:02:15.32,main,Yuba,0,0,0,,Will you return to the land \Nwhere you grew up?
+Dialogue: 0,0:02:15.32,0:02:18.89,main,Rio,0,0,0,,Yes. There's somewhere I'd like \Nto stop by along the way, too.
+Dialogue: 0,0:02:19.26,0:02:22.78,main,Ruri,0,0,0,,You'll come back to this village \Nagain someday, won't you?
+Dialogue: 0,0:02:23.49,0:02:27.42,main,Rio,0,0,0,,Well... If it's permitted, \NI'd like to come back one day.
+Dialogue: 0,0:02:27.42,0:02:29.92,main,Ruri,0,0,0,,Of course it's allowed!
+Dialogue: 0,0:02:29.92,0:02:31.40,main,Ruri,0,0,0,,What are you talking about?
+Dialogue: 0,0:02:31.40,0:02:34.04,main,Yuba,0,0,0,,That's right. Come back any time.
+Dialogue: 0,0:02:34.04,0:02:36.13,main,Yuba,0,0,0,,You're a member of this village, you know?
+Dialogue: 0,0:02:36.44,0:02:38.21,main,Rio,0,0,0,,Thank you very much.
+Dialogue: 0,0:02:38.21,0:02:39.63,main,Ruri,0,0,0,,I was wondering...
+Dialogue: 0,0:02:39.63,0:02:41.64,main,Ruri,0,0,0,,Since you said there was somewhere \Nyou wanted to stop by,
+Dialogue: 0,0:02:42.04,0:02:45.60,main,Ruri,0,0,0,,does that mean there's someone \Nwaiting for you there?
+Dialogue: 0,0:02:45.60,0:02:47.80,main,Rio,0,0,0,,We aren't related by blood,
+Dialogue: 0,0:02:47.80,0:02:50.70,main,Rio,0,0,0,,but there's someone who thinks \Nof me as an older brother...
+Dialogue: 0,0:03:08.04,0:03:11.21,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\pos(345,125)\blur4\fad(897,1)}Seirei Gensouki
+Dialogue: 0,0:03:08.04,0:03:11.21,sign_3238_18_Seirei_Gensouki,text,0,0,0,,{\pos(345,125)\blur4\c&H7AFBFF&\clip(217,107,471,123)\fad(897,1)}Seirei Gensouki
+Dialogue: 0,0:04:22.03,0:04:26.87,sign_5131_21_Memories_of_the_,text,0,0,0,,{\blur3\fad(505,1)\pos(484,294)}Each of Their Decisions
+Dialogue: 0,0:04:22.03,0:04:26.87,sign_5131_21_Memories_of_the_,text,0,0,0,,{\blur3\fad(505,1)\c&H97FFEC&\pos(484,294)\clip(425,290,542,296)}Each of Their Decisions
+Dialogue: 0,0:04:24.23,0:04:25.45,main,Rio,0,0,0,,Hello!
+Dialogue: 0,0:04:26.32,0:04:28.99,main,Ruri,0,0,0,,Huh? Rio, what is it?
+Dialogue: 0,0:04:28.99,0:04:30.24,main,Rio,0,0,0,,Oh, Ruri.
+Dialogue: 0,0:04:30.64,0:04:34.32,main,Rio,0,0,0,,I haven't said hello to \Neveryone since coming back,
+Dialogue: 0,0:04:34.32,0:04:36.88,main,Rio,0,0,0,,so I thought I'd go around \Nand see everyone properly.
+Dialogue: 0,0:04:36.88,0:04:38.66,main,Ruri,0,0,0,,Oh, I see.
+Dialogue: 0,0:04:39.12,0:04:40.71,main,Ruri,0,0,0,,Huh? What is it?
+Dialogue: 0,0:04:40.71,0:04:41.87,main,girl,0,0,0,,That manner of speaking!
+Dialogue: 0,0:04:42.30,0:04:44.25,main,Sayo,0,0,0,,Sir Rio, your tone of voice...
+Dialogue: 0,0:04:44.25,0:04:47.04,main,Sayo,0,0,0,,Why are you speaking with \NMiss Ruri that way like it's normal?
+Dialogue: 0,0:04:47.04,0:04:47.86,main,Ruri,0,0,0,,Huh?
+Dialogue: 0,0:04:47.86,0:04:49.61,main,Ruri,0,0,0,,Oh, this is...
+Dialogue: 0,0:04:49.61,0:04:51.46,main,girl,0,0,0,,What's the meaning of this, Ruri?
+Dialogue: 0,0:04:51.46,0:04:53.56,main,Ruri,0,0,0,,Well, um...
+Dialogue: 0,0:04:54.26,0:04:56.60,main,Ruri,0,0,0,,I mean, we're living in the same house.
+Dialogue: 0,0:04:56.60,0:05:01.95,main,Ruri,0,0,0,,I just asked him to stop using all \Nthat formal language, that's all.
+Dialogue: 0,0:05:03.11,0:05:06.87,main,Rio,0,0,0,,She asked—Miss Ruri \Nasked me a long time ago,
+Dialogue: 0,0:05:06.87,0:05:09.18,main,Rio,0,0,0,,so I've tried to change \Nthe way I speak, but...
+Dialogue: 0,0:05:09.18,0:05:10.61,main,Rio,0,0,0,,Does it sound strange?
+Dialogue: 0,0:05:10.61,0:05:11.69,main,Sayo,0,0,0,,No!
+Dialogue: 0,0:05:11.69,0:05:13.12,main,Sayo,0,0,0,,It isn't strange.
+Dialogue: 0,0:05:13.12,0:05:14.99,main,girls,0,0,0,,I want that, too!
+Dialogue: 0,0:05:13.87,0:05:14.99,main,girls,0,0,0,,Sir Rio!
+Dialogue: 0,0:05:14.99,0:05:15.98,main,girls,0,0,0,,It's not fair!
+Dialogue: 0,0:05:42.99,0:05:44.15,main,Ruri,0,0,0,,Rio!
+Dialogue: 0,0:05:44.53,0:05:48.61,main,Ruri,0,0,0,,I planted the seedlings in my area\N just the way you told me to!
+Dialogue: 0,0:05:48.98,0:05:50.16,main,Rio,0,0,0,,Thank you!
+Dialogue: 0,0:05:50.40,0:05:53.73,main,Rio,0,0,0,,Then, will you go and help the \Nothers who haven't finished yet?
+Dialogue: 0,0:05:54.61,0:05:55.89,main,Ruri,0,0,0,,Will do!
+Dialogue: 0,0:05:56.37,0:05:57.41,main,Dora,0,0,0,,Rio!
+Dialogue: 0,0:05:57.41,0:06:00.18,main,Dora,0,0,0,,Ruri's so hardworking! \NShe'll make a good bride!
+Dialogue: 0,0:06:00.18,0:06:00.88,main,Ruri,0,0,0,,What?
+Dialogue: 0,0:06:01.31,0:06:02.85,main,Rio,0,0,0,,I think so, too!
+Dialogue: 0,0:06:02.85,0:06:05.04,main,Ruri,0,0,0,,What are you talking about? Stop it!
+Dialogue: 0,0:06:05.04,0:06:06.72,main,Ruri,0,0,0,,Don't tease me like that.
+Dialogue: 0,0:06:09.50,0:06:10.67,main,Rio,0,0,0,,Miss Sayo?
+Dialogue: 0,0:06:11.71,0:06:13.22,main,Rio,0,0,0,,Shall I help you?
+Dialogue: 0,0:06:13.22,0:06:16.34,main,Sayo,0,0,0,,Huh? Oh! Sir Rio, I-I'm so sorry.
+Dialogue: 0,0:06:16.34,0:06:17.77,main,Sayo,0,0,0,,I wasn't paying attention.
+Dialogue: 0,0:06:17.77,0:06:19.98,main,Rio,0,0,0,,Please make sure you remember everything.
+Dialogue: 0,0:06:20.63,0:06:25.01,main,Rio,0,0,0,,I'd like you to supervise everyone \Nin the village in what I've taught.
+Dialogue: 0,0:06:25.66,0:06:27.39,main,Rio,0,0,0,,After I've gone, too.
+Dialogue: 0,0:06:28.59,0:06:29.32,main,Sayo,0,0,0,,What?
+Dialogue: 0,0:06:29.32,0:06:32.28,main,Rio,0,0,0,,Though it all depends on \Nwhether it turns out well.
+Dialogue: 0,0:06:32.68,0:06:33.99,main,Sayo,0,0,0,,Sir Rio...
+Dialogue: 0,0:06:33.99,0:06:36.31,main,Sayo,0,0,0,,Are you leaving the village?
+Dialogue: 0,0:06:36.31,0:06:37.35,main,Rio,0,0,0,,Yes.
+Dialogue: 0,0:06:37.35,0:06:39.87,main,Rio,0,0,0,,I haven't told anyone else yet,
+Dialogue: 0,0:06:40.27,0:06:43.41,main,Rio,0,0,0,,but this fall, around the time \Nthe harvest festival ends,
+Dialogue: 0,0:06:43.41,0:06:44.89,main,Rio,0,0,0,,that's when I'm thinking of going.
+Dialogue: 0,0:06:45.90,0:06:50.27,main,Sayo,0,0,0,,This fall... I see...
+Dialogue: 0,0:06:50.95,0:06:52.26,main,Sayo,0,0,0,,B-But...
+Dialogue: 0,0:06:52.26,0:06:56.04,main,Sayo,0,0,0,,if you're staying close, you could come back \Nto the village regularly, couldn't you?
+Dialogue: 0,0:06:56.04,0:06:59.00,main,Rio,0,0,0,,I'm planning to travel across the country,
+Dialogue: 0,0:06:59.00,0:07:01.65,main,Rio,0,0,0,,so I don't know if I'll be \Nable to come back regularly.
+Dialogue: 0,0:07:02.02,0:07:03.23,main,Sayo,0,0,0,,Oh, but...
+Dialogue: 0,0:07:03.97,0:07:06.61,main,Rio,0,0,0,,It's still early,
+Dialogue: 0,0:07:06.61,0:07:09.46,main,Rio,0,0,0,,but I wanted to tell you well \Nahead of time, Miss Sayo.
+Dialogue: 0,0:07:10.83,0:07:11.92,main,Rio,0,0,0,,Miss Sayo?
+Dialogue: 0,0:07:12.83,0:07:14.12,main,Rio,0,0,0,,Is something wrong?
+Dialogue: 0,0:07:14.45,0:07:17.64,main,Rio,0,0,0,,Oh! No. It's nothing.
+Dialogue: 0,0:07:17.64,0:07:19.78,main,Sayo,0,0,0,,I got something in my eye.
+Dialogue: 0,0:07:19.78,0:07:23.21,main,Sayo,0,0,0,,Oh, I see! It's because \NI have dirt on my hands!
+Dialogue: 0,0:07:23.21,0:07:27.61,main,Rio,0,0,0,,I'll use spirit arts to make some water.\N Please, use it to wash.
+Dialogue: 0,0:07:29.62,0:07:30.88,main,Ruri,0,0,0,,Sayo!
+Dialogue: 0,0:07:32.36,0:07:33.76,main,Ruri,0,0,0,,What's wrong?
+Dialogue: 0,0:07:33.76,0:07:37.64,main,Sayo,0,0,0,,I got some dirt in my eye. \NSir Rio was helping me wash it away.
+Dialogue: 0,0:07:37.64,0:07:39.22,main,Ruri,0,0,0,,Oh, are you all right?
+Dialogue: 0,0:07:39.47,0:07:40.37,main,Sayo,0,0,0,,Yes.
+Dialogue: 0,0:07:41.17,0:07:44.63,main,Sayo,0,0,0,,I'm behind on my section, \Nso I'll go back to work.
+Dialogue: 0,0:07:45.28,0:07:48.16,main,Ruri,0,0,0,,Oh, I'll help you!
+Dialogue: 0,0:08:07.85,0:08:09.00,main,Shin,0,0,0,,I'm back.
+Dialogue: 0,0:08:10.21,0:08:12.76,main,Shin,0,0,0,,H-Hey... Sayo?
+Dialogue: 0,0:08:15.59,0:08:17.79,main,Shin,0,0,0,,What's wrong? Did something happen?
+Dialogue: 0,0:08:18.20,0:08:20.82,main,Sayo,0,0,0,,Sorry, Big Brother. I'm fine.
+Dialogue: 0,0:08:20.82,0:08:23.33,main,Sayo,0,0,0,,It's nothing. I'll make dinner.
+Dialogue: 0,0:08:23.33,0:08:25.77,main,Shin,0,0,0,,This is no time to be cooking, is it?
+Dialogue: 0,0:08:25.77,0:08:28.48,main,Shin,0,0,0,,Who was it? Who made you cry?
+Dialogue: 0,0:08:29.33,0:08:30.24,main,Shin,0,0,0,,Was it Rio?
+Dialogue: 0,0:08:30.24,0:08:33.53,main,Sayo,0,0,0,,N-No, it's not like... \NSir Rio didn't do anything wrong.
+Dialogue: 0,0:08:33.53,0:08:35.10,main,Shin,0,0,0,,That dirtbag!
+Dialogue: 0,0:08:35.79,0:08:37.63,main,Sayo,0,0,0,,No! It's not like that!
+Dialogue: 0,0:08:38.42,0:08:42.00,main,Sayo,0,0,0,,Sir Rio said he'll be leaving the village.
+Dialogue: 0,0:08:42.00,0:08:43.01,main,Sayo,0,0,0,,That's why...
+Dialogue: 0,0:08:43.75,0:08:45.75,main,Shin,0,0,0,,He's leaving the village?
+Dialogue: 0,0:08:45.99,0:08:50.71,main,Sayo,0,0,0,,It's not like that. It has \Nnothing to do with Sir Rio.
+Dialogue: 0,0:08:53.43,0:08:54.17,main,Sayo,0,0,0,,Huh?
+Dialogue: 0,0:08:55.21,0:08:56.64,main,Sayo,0,0,0,,B-Big Brother!
+Dialogue: 0,0:08:56.64,0:08:57.89,main,Sayo,0,0,0,,Wait!
+Dialogue: 0,0:09:01.56,0:09:02.81,main,Shin,0,0,0,,Hey, Rio!
+Dialogue: 0,0:09:02.81,0:09:04.13,main,Shin,0,0,0,,Rio, are you there?
+Dialogue: 0,0:09:06.49,0:09:08.27,main,Yuba,0,0,0,,What do you want with Rio?
+Dialogue: 0,0:09:08.27,0:09:09.18,main,SHin,0,0,0,,Uh...
+Dialogue: 0,0:09:09.54,0:09:10.77,main,Shin,0,0,0,,Oh, Rio.
+Dialogue: 0,0:09:11.69,0:09:12.40,main,Shin,0,0,0,,I'm begging you!
+Dialogue: 0,0:09:13.78,0:09:15.15,main,Shin,0,0,0,,Please, stay in the village!
+Dialogue: 0,0:09:15.15,0:09:15.89,main,Rio,0,0,0,,What?
+Dialogue: 0,0:09:16.30,0:09:19.16,main,Shin,0,0,0,,I-I know that what I'm saying is selfish.
+Dialogue: 0,0:09:19.87,0:09:23.62,main,Shin,0,0,0,,But, please, don't say anything \Nand just stay in the village!
+Dialogue: 0,0:09:24.10,0:09:25.71,main,Sayo,0,0,0,,B-Big Brother!
+Dialogue: 0,0:09:26.83,0:09:28.48,main,Sayo,0,0,0,,What are you doing?
+Dialogue: 0,0:09:28.48,0:09:31.50,main,Sayo,0,0,0,,I'm so sorry for the trouble \Nmy brother has caused you!
+Dialogue: 0,0:09:31.72,0:09:35.85,main,Sayo,0,0,0,,Come on, Big Brother! \NYou're bothering them! Come on...
+Dialogue: 0,0:09:36.16,0:09:38.01,main,Shin,0,0,0,,Sayo... But you...
+Dialogue: 0,0:09:43.85,0:09:46.02,main,Sayo,0,0,0,,I'm really so very sorry.
+Dialogue: 0,0:09:46.02,0:09:49.12,main,Sayo,0,0,0,,My brother and I will talk \Neverything through properly.
+Dialogue: 0,0:09:49.12,0:09:53.00,main,Yuba,0,0,0,,All right. I won't ask you \Nwhat happened for now.
+Dialogue: 0,0:09:53.00,0:09:54.74,main,Yuba,0,0,0,,Are you all right with that, Rio?
+Dialogue: 0,0:09:54.74,0:09:56.72,main,Rio,0,0,0,,Yes, that is fine, but...
+Dialogue: 0,0:09:56.72,0:09:59.00,main,Sayo,0,0,0,,Th-Thank you so much!
+Dialogue: 0,0:09:59.67,0:10:01.62,main,Sayo,0,0,0,,Come on. We're going, Big Brother.
+Dialogue: 0,0:10:05.51,0:10:08.04,main,Ruri,0,0,0,,Man, that bathwater was great!
+Dialogue: 0,0:10:09.02,0:10:10.28,main,Ruri,0,0,0,,Did something happen?
+Dialogue: 0,0:10:10.65,0:10:12.33,main,Yuba,0,0,0,,It was nothing.
+Dialogue: 0,0:11:23.35,0:11:24.79,main,Gouki,0,0,0,,Title and rank hold no meaning here!
+Dialogue: 0,0:11:24.79,0:11:28.67,main,Gouki,0,0,0,,If you have confidence in your skills,\N come and challenge me!
+Dialogue: 0,0:11:28.67,0:11:31.54,main,man A,0,0,0,,Go for it, Big Boss Gouki!
+Dialogue: 0,0:11:31.54,0:11:33.74,main,man B,0,0,0,,Dola, you're up!
+Dialogue: 0,0:11:33.74,0:11:36.13,main,Dola,0,0,0,,Don't ask the impossible! \NThere's no way I can beat him!
+Dialogue: 0,0:11:36.13,0:11:37.17,main,man B,0,0,0,,Go on!
+Dialogue: 0,0:11:38.29,0:11:41.79,main,Kayoko,0,0,0,,To leave Sir Rio to one side and \Nsimply amuse himself at this feast...
+Dialogue: 0,0:11:41.79,0:11:43.43,main,Kayoko,0,0,0,,He'll be getting a severe scolding later.
+Dialogue: 0,0:11:43.43,0:11:46.79,main,Rio,0,0,0,,Oh, no. I would rather he enjoy himself \Nwithout regard to status here.
+Dialogue: 0,0:11:46.79,0:11:49.47,main,Kayoko,0,0,0,,Really? We'll do that, then.
+Dialogue: 0,0:11:49.47,0:11:52.49,main,Ruri,0,0,0,,All right! We're making kamutan this year!
+Dialogue: 0,0:11:53.81,0:11:56.31,main,Ruri,0,0,0,,Anyone who wants some, line up!
+Dialogue: 0,0:12:02.09,0:12:03.50,main,Komomo,0,0,0,,He did it!
+Dialogue: 0,0:12:03.50,0:12:06.78,main,Ruri,0,0,0,,I think we should go ahead and eat.\N What about you, Komomo?
+Dialogue: 0,0:12:06.78,0:12:10.04,main,Komomo,0,0,0,,Yes! I'm looking forward to \Nthe kamutan Sir Rio made!
+Dialogue: 0,0:12:10.55,0:12:12.81,main,Gouki,0,0,0,,Ah, that was quite enjoyable!
+Dialogue: 0,0:12:12.81,0:12:13.84,main,Rio,0,0,0,,Mistress Kayoko.
+Dialogue: 0,0:12:14.16,0:12:17.67,main,Rio,0,0,0,,Thank you so much for your help today.
+Dialogue: 0,0:12:18.05,0:12:23.58,main,Kayoko,0,0,0,,It's nothing. Lady Yuba kindly invited \Nus to this harvest festival.
+Dialogue: 0,0:12:23.58,0:12:25.05,main,Kayoko,0,0,0,,It was the least I could do in return.
+Dialogue: 0,0:12:25.52,0:12:26.88,main,Rio,0,0,0,,We're honored and grateful.
+Dialogue: 0,0:12:26.88,0:12:28.55,main,Sayo,0,0,0,,E-Excuse me...
+Dialogue: 0,0:12:28.55,0:12:31.06,main,Sayo,0,0,0,,Sir Rio, may I have a moment?
+Dialogue: 0,0:12:31.06,0:12:33.14,main,Rio,0,0,0,,Yes. What is it?
+Dialogue: 0,0:12:33.14,0:12:35.25,main,Sayo,0,0,0,,Um, I wanted to discuss something...
+Dialogue: 0,0:12:36.06,0:12:38.11,main,Komomo,0,0,0,,Father, you were amazing!
+Dialogue: 0,0:12:38.11,0:12:39.62,main,Gouki,0,0,0,,You think so?
+Dialogue: 0,0:12:39.62,0:12:40.98,main,Ruri,0,0,0,,I'll make it again sometime!
+Dialogue: 0,0:12:44.99,0:12:46.49,main,Rio,0,0,0,,That hairpin...
+Dialogue: 0,0:12:46.72,0:12:48.76,main,Rio,0,0,0,,You're still using it.
+Dialogue: 0,0:12:49.35,0:12:50.99,main,Sayo,0,0,0,,Oh... Yes.
+Dialogue: 0,0:12:51.90,0:12:53.28,main,Sayo,0,0,0,,I-I...
+Dialogue: 0,0:12:53.70,0:12:55.00,main,Sayo,0,0,0,,Um...
+Dialogue: 0,0:12:55.00,0:12:58.89,main,Sayo,0,0,0,,I know it may be burdensome \Nto hear this, but...
+Dialogue: 0,0:12:59.50,0:13:01.51,main,Sayo,0,0,0,,I-I...
+Dialogue: 0,0:13:02.37,0:13:04.51,main,Sayo,0,0,0,,I am in love with you, Sir Rio!
+Dialogue: 0,0:13:10.51,0:13:12.87,main,Rio,0,0,0,,Miss Sayo, I'm sorry.
+Dialogue: 0,0:13:14.17,0:13:16.86,main,Rio,0,0,0,,I can't return your feelings.
+Dialogue: 0,0:13:18.48,0:13:23.03,main,Sayo,0,0,0,,I-Is that because... Is it because \Nyou're leaving the village, Sir Rio?
+Dialogue: 0,0:13:23.03,0:13:26.59,main,Rio,0,0,0,,That isn't the whole reason, but... yes.
+Dialogue: 0,0:13:26.59,0:13:29.58,main,Sayo,0,0,0,,Then, please, take me with you!
+Dialogue: 0,0:13:30.25,0:13:32.26,main,Rio,0,0,0,,Th-That's not possible!
+Dialogue: 0,0:13:32.26,0:13:35.83,main,Sayo,0,0,0,,I've worked hard so that \NI wouldn't slow you down!
+Dialogue: 0,0:13:35.83,0:13:41.30,main,Sayo,0,0,0,,I've trained my body and practiced my\N spirit arts every day for the last six months!
+Dialogue: 0,0:13:41.71,0:13:43.26,main,Rio,0,0,0,,That's...
+Dialogue: 0,0:13:43.26,0:13:45.83,main,Sayo,0,0,0,,Please! I'll do anything!
+Dialogue: 0,0:13:45.83,0:13:48.55,main,Sayo,0,0,0,,I'll do everything I can \Nnot to hold you back!
+Dialogue: 0,0:13:49.42,0:13:51.78,main,Rio,0,0,0,,That isn't the issue at all.
+Dialogue: 0,0:13:52.33,0:13:53.56,main,Rio,0,0,0,,I'm very sorry.
+Dialogue: 0,0:13:54.39,0:13:57.56,main,Rio,0,0,0,,I cannot return your feelings.
+Dialogue: 0,0:13:58.79,0:13:59.78,main,Sayo,0,0,0,,That's all right.
+Dialogue: 0,0:13:59.78,0:14:03.63,main,Sayo,0,0,0,,Even if you never look at me... \NEven if you never do anything for me...
+Dialogue: 0,0:14:03.63,0:14:04.48,main,Sayo,0,0,0,,It's all right.
+Dialogue: 0,0:14:04.81,0:14:05.98,main,Sayo,0,0,0,,Just let me...
+Dialogue: 0,0:14:07.43,0:14:08.82,main,Sayo,0,0,0,,At the very least...
+Dialogue: 0,0:14:09.82,0:14:11.86,main,Sayo,0,0,0,,Let me stay by your side.
+Dialogue: 0,0:14:12.26,0:14:13.84,main,Sayo,0,0,0,,I beg of you.
+Dialogue: 0,0:14:13.84,0:14:14.99,main,Rio,0,0,0,,Miss Sayo.
+Dialogue: 0,0:14:15.87,0:14:16.58,main,Rio,0,0,0,,I'm sorry.
+Dialogue: 0,0:14:17.75,0:14:19.08,main,Rio,0,0,0,,I truly am.
+Dialogue: 0,0:14:26.21,0:14:27.51,main,Sayo,0,0,0,,Sir Rio...
+Dialogue: 0,0:14:28.02,0:14:29.16,main,Sayo,0,0,0,,Wait...
+Dialogue: 0,0:14:34.03,0:14:36.39,italics,Rio,0,0,0,,I'm sorry, Master Shin.
+Dialogue: 0,0:14:38.57,0:14:41.39,italics,Shin,0,0,0,,That creep. He noticed.
+Dialogue: 0,0:14:41.39,0:14:43.51,italics,Shin,0,0,0,,He really is a despicable one.
+Dialogue: 0,0:14:43.51,0:14:44.59,italics,Shin,0,0,0,,Blast it.
+Dialogue: 0,0:14:55.57,0:14:57.12,main,Rio,0,0,0,,Thank you for everything\N you've done for me.
+Dialogue: 0,0:14:57.12,0:14:58.93,main,Rio,0,0,0,,Take care, both of you.
+Dialogue: 0,0:14:59.43,0:15:03.50,main,Yuba,0,0,0,,You don't need to set out \Nwhen it's still so dark.
+Dialogue: 0,0:15:03.50,0:15:07.17,main,Rio,0,0,0,,I finished my goodbyes with \Neveryone in the village yesterday.
+Dialogue: 0,0:15:08.05,0:15:09.97,main,Rio,0,0,0,,And it's going to be a long journey.
+Dialogue: 0,0:15:10.30,0:15:12.61,main,Ruri,0,0,0,,You can come back home anytime, all right?
+Dialogue: 0,0:15:12.97,0:15:13.78,main,Rio,0,0,0,,Thank you.
+Dialogue: 0,0:15:15.23,0:15:17.20,main,Yuba,0,0,0,,So, in the end, she didn't come.
+Dialogue: 0,0:15:19.98,0:15:21.27,main,Rio,0,0,0,,I'll be off, then.
+Dialogue: 0,0:15:21.27,0:15:24.43,main,Yuba,0,0,0,,Yes. Be sure to take care of yourself.
+Dialogue: 0,0:15:24.43,0:15:28.19,main,Rio,0,0,0,,I will. Ruri, Mistress Yuba, \NI hope you both stay well.
+Dialogue: 0,0:15:29.85,0:15:31.15,main,Ruri,0,0,0,,Rio!
+Dialogue: 0,0:15:31.15,0:15:33.07,main,Ruri,0,0,0,,Take care!
+Dialogue: 0,0:15:33.31,0:15:35.39,main,Ruri,0,0,0,,Have a good trip!
+Dialogue: 0,0:15:42.46,0:15:43.83,main,Rio,0,0,0,,Miss Sayo?
+Dialogue: 0,0:15:46.35,0:15:47.59,flashback,Gouki,0,0,0,,Young lady.
+Dialogue: 0,0:15:47.98,0:15:51.08,flashback,Gouki,0,0,0,,Are you in love with Sir Rio?
+Dialogue: 0,0:15:51.69,0:15:54.05,flashback,Sayo,0,0,0,,What? Y-Yes.
+Dialogue: 0,0:15:55.04,0:15:58.10,flashback,Gouki,0,0,0,,Do you love him enough to cast aside \Nthis village where you were born and raised?
+Dialogue: 0,0:15:58.45,0:16:01.12,flashback,Sayo,0,0,0,,W-Well, I...
+Dialogue: 0,0:16:01.12,0:16:02.37,flashback,Gouki,0,0,0,,Good.
+Dialogue: 0,0:16:02.37,0:16:05.92,flashback,Gouki,0,0,0,,I thought perhaps, but...\NI seem to have misread things.
+Dialogue: 0,0:16:05.92,0:16:07.74,flashback,Sayo,0,0,0,,W-Wait, please!
+Dialogue: 0,0:16:07.74,0:16:08.86,flashback,Sayo,0,0,0,,I love him!
+Dialogue: 0,0:16:08.86,0:16:11.03,flashback,Sayo,0,0,0,,I love Sir Rio!
+Dialogue: 0,0:16:11.50,0:16:14.53,flashback,Gouki,0,0,0,,And there is no falsehood in your words?
+Dialogue: 0,0:16:14.75,0:16:15.78,flashback,Sayo,0,0,0,,There is not.
+Dialogue: 0,0:16:16.81,0:16:17.88,flashback,Gouki,0,0,0,,Then...
+Dialogue: 0,0:16:21.04,0:16:24.17,main,Sayo,0,0,0,,S-Sir Rio, um...
+Dialogue: 0,0:16:25.52,0:16:28.17,main,Sayo,0,0,0,,Please, take good care of yourself.
+Dialogue: 0,0:16:30.63,0:16:31.77,main,Rio,0,0,0,,I will.
+Dialogue: 0,0:16:31.77,0:16:33.49,main,Rio,0,0,0,,I hope you'll take even better \Ncare of yourself, Miss Sayo.
+Dialogue: 0,0:16:33.49,0:16:35.53,main,Sayo,0,0,0,,I will. And...
+Dialogue: 0,0:16:36.05,0:16:37.06,main,Sayo,0,0,0,,Sir Rio!
+Dialogue: 0,0:16:37.06,0:16:38.10,main,Rio,0,0,0,,What is it?
+Dialogue: 0,0:16:38.10,0:16:42.06,main,Sayo,0,0,0,,I'm going to work really hard! \NI'll do my very best, so...
+Dialogue: 0,0:16:42.06,0:16:44.27,main,Sayo,0,0,0,,You have to do your best too, Sir Rio!
+Dialogue: 0,0:16:44.61,0:16:46.42,main,Rio,0,0,0,,I will. I'll work very hard.
+Dialogue: 0,0:16:48.33,0:16:50.65,main,Sayo,0,0,0,,G-Good.
+Dialogue: 0,0:16:51.40,0:16:55.34,main,Rio,0,0,0,,I am truly happy you came \Nto see me off, Miss Sayo.
+Dialogue: 0,0:16:56.27,0:16:57.88,main,Rio,0,0,0,,Thank you very much.
+Dialogue: 0,0:16:57.88,0:17:01.71,main,Sayo,0,0,0,,I'm glad I gathered my \Ncourage and came here, too.
+Dialogue: 0,0:17:02.18,0:17:03.45,main,Rio,0,0,0,,Goodbye.
+Dialogue: 0,0:17:03.45,0:17:05.25,main,Sayo,0,0,0,,Yes. Until we meet again.
+Dialogue: 0,0:17:05.25,0:17:07.90,main,Rio,0,0,0,,That's true. Until we meet again.
+Dialogue: 0,0:17:29.11,0:17:32.11,sign_5011_20_The_Kingdom_of_B,text,0,0,0,,{\pos(320,300)}Year 999 of the Holy Era, Late Autumn
+Dialogue: 0,0:17:34.25,0:17:35.47,main,Rio,0,0,0,,Is that...
+Dialogue: 0,0:17:35.47,0:17:37.49,main,Rio,0,0,0,,Orphia's Ariel?
+Dialogue: 0,0:17:37.88,0:17:39.81,main,Latifa,0,0,0,,Onii-chan!
+Dialogue: 0,0:17:47.12,0:17:49.04,main,Latifa,0,0,0,,Welcome home!
+Dialogue: 0,0:17:52.31,0:17:53.67,main,Rio,0,0,0,,I'm back.
+Dialogue: 0,0:17:58.64,0:18:01.18,main,Rio,0,0,0,,I was able to have a lot of good experiences.
+Dialogue: 0,0:18:01.18,0:18:03.18,main,Syldora,0,0,0,,Well, that's the most important thing.
+Dialogue: 0,0:18:03.48,0:18:06.77,main,Latifa,0,0,0,,Onii-chan, you have a \Ngrandmother and a cousin.
+Dialogue: 0,0:18:06.77,0:18:11.77,main,Rio,0,0,0,,When I told them I have a little sister, \Nthey both said they wanted to meet you.
+Dialogue: 0,0:18:11.77,0:18:14.19,main,Latifa,0,0,0,,I think I might want to meet them, too!
+Dialogue: 0,0:18:14.97,0:18:16.69,main,Syldora,0,0,0,,Well then, Sir Rio...
+Dialogue: 0,0:18:16.69,0:18:20.16,main,Syldora,0,0,0,,How long do you think you will be able \Nto stay in the village this time?
+Dialogue: 0,0:18:20.16,0:18:22.88,main,Rio,0,0,0,,Probably a few months at most.
+Dialogue: 0,0:18:22.88,0:18:25.20,main,Latifa,0,0,0,,You're leaving again, Onii-chan?
+Dialogue: 0,0:18:25.20,0:18:26.70,main,Rio,0,0,0,,I'm sorry, Latifa.
+Dialogue: 0,0:18:27.22,0:18:30.19,main,Rio,0,0,0,,I'll make sure I come back \Nmore quickly this time.
+Dialogue: 0,0:18:30.79,0:18:32.17,main,Latifa,0,0,0,,That's a promise, right?
+Dialogue: 0,0:18:32.40,0:18:34.17,main,Rio,0,0,0,,Yes. That's a promise.
+Dialogue: 0,0:18:34.55,0:18:35.86,main,Ursula,0,0,0,,Sir Rio.
+Dialogue: 0,0:18:35.86,0:18:39.18,main,Ursula,0,0,0,,Was there anything you found yourself \Nrunning short of on your journey?
+Dialogue: 0,0:18:39.18,0:18:41.13,main,Rio,0,0,0,,Oh, thank you.
+Dialogue: 0,0:18:41.13,0:18:43.70,main,Rio,0,0,0,,I still have plenty in \Nthe way of supplies,
+Dialogue: 0,0:18:43.70,0:18:47.64,main,Rio,0,0,0,,but as I was traveling, \Na thought did occur to me.
+Dialogue: 0,0:18:47.64,0:18:49.94,main,Rio,0,0,0,,I was hoping that you might lend your wisdom.
+Dialogue: 0,0:18:51.69,0:18:54.29,main,Ursula,0,0,0,,Of course. Tell us.
+Dialogue: 0,0:18:54.29,0:18:56.63,main,Rio,0,0,0,,Actually, I was thinking about building
+Dialogue: 0,0:18:56.63,0:18:59.53,main,Rio,0,0,0,,a house I could take with \Nme in the space-time cache.
+Dialogue: 0,0:18:59.84,0:19:02.78,main,Dominic,0,0,0,,Oh, a house, huh? \NThat's an interesting thought!
+Dialogue: 0,0:19:02.78,0:19:05.72,main,Ursula,0,0,0,,Carrying a house... That would mean...
+Dialogue: 0,0:19:05.72,0:19:10.44,main,Ursula,0,0,0,,Would he want a house that could be \Nset in place without a foundation?
+Dialogue: 0,0:19:10.44,0:19:11.53,main,Dominic,0,0,0,,Yes.
+Dialogue: 0,0:19:11.53,0:19:13.09,main,Dominic,0,0,0,,But that said...
+Dialogue: 0,0:19:13.09,0:19:19.02,main,Dominic,0,0,0,,He'd probably have to use spirit arts \Nto prepare the ground every time.
+Dialogue: 0,0:19:19.02,0:19:21.84,main,Syldora,0,0,0,,Once he's like this, \Nhe won't return for some time.
+Dialogue: 0,0:19:21.84,0:19:23.34,main,Ursula,0,0,0,,Indeed.
+Dialogue: 0,0:19:23.69,0:19:27.14,main,Ursula,0,0,0,,Sir Rio, leave the house to Dominic.
+Dialogue: 0,0:19:27.14,0:19:32.00,main,Ursula,0,0,0,,In the meantime, you should spend all the \Ntime you can with Latifa and the others.
+Dialogue: 0,0:19:32.00,0:19:33.92,main,Ursula,0,0,0,,Right, Latifa?
+Dialogue: 0,0:19:33.92,0:19:34.77,main,Latifa,0,0,0,,Yeah!
+Dialogue: 0,0:19:34.77,0:19:38.36,main,Latifa,0,0,0,,I want to be with Onii-chan the \Nwhole time he's in the village!
+Dialogue: 0,0:19:40.03,0:19:41.76,main,Rio,0,0,0,,I've returned!
+Dialogue: 0,0:19:41.76,0:19:43.11,main,Sara,0,0,0,,Welcome home!
+Dialogue: 0,0:19:43.78,0:19:46.95,main,Sara,0,0,0,,Were you able to have a nice \Nlong talk with the Eldest?
+Dialogue: 0,0:19:47.30,0:19:51.39,main,Rio,0,0,0,,Yes. I was relieved to see that \Neveryone seems as sprightly as ever.
+Dialogue: 0,0:19:51.39,0:19:55.86,main,Sara,0,0,0,,They all must have been surprised to see \Nhow grown up you've gotten, Master Rio!
+Dialogue: 0,0:19:55.86,0:19:59.28,main,Rio,0,0,0,,I suppose they were. It has \Nbeen two years, after all.
+Dialogue: 0,0:20:00.86,0:20:02.80,main,Orphia,0,0,0,,Master Rio, you've grown so much
+Dialogue: 0,0:20:03.08,0:20:06.77,main,Orphia,0,0,0,,that Miss Sara and Alma seem to \Nhave gotten quite shy around you.
+Dialogue: 0,0:20:07.16,0:20:09.30,main,Sara,0,0,0,,I-I'm not shy.
+Dialogue: 0,0:20:09.30,0:20:12.10,main,Alma,0,0,0,,The only shy one here is Big Sister Sara.
+Dialogue: 0,0:20:12.10,0:20:15.14,main,Sara,0,0,0,,A-Alma! Stop saying such weird things!
+Dialogue: 0,0:20:16.57,0:20:19.21,main,Sara,0,0,0,,Why are you laughing, Master Rio?
+Dialogue: 0,0:20:19.21,0:20:20.65,main,Rio,0,0,0,,No, it's just...
+Dialogue: 0,0:20:20.65,0:20:23.26,main,Rio,0,0,0,,I just feel like I've really come home.
+Dialogue: 0,0:20:23.76,0:20:27.78,main,Rio,0,0,0,,Both of you have become more like \Ngrown ladies. You're lovely.
+Dialogue: 0,0:20:27.78,0:20:30.47,main,Sara,0,0,0,,Th-Thank you.
+Dialogue: 0,0:20:30.47,0:20:33.25,main,Alma,0,0,0,,I haven't changed much at all.
+Dialogue: 0,0:20:33.53,0:20:35.72,main,Rio,0,0,0,,That's not true.
+Dialogue: 0,0:20:35.72,0:20:37.68,main,Rio,0,0,0,,You've grown a little taller, haven't you?
+Dialogue: 0,0:20:37.68,0:20:40.75,main,Alma,0,0,0,,Yes, well... just a little.
+Dialogue: 0,0:20:40.75,0:20:46.00,main,Orphia,0,0,0,,It must be so nice, Miss Sara, Alma, \Nto have Master Rio praise you like that.
+Dialogue: 0,0:20:46.61,0:20:49.06,main,Rio,0,0,0,,Miss Orphia, you've become \Nmore beautiful, too.
+Dialogue: 0,0:20:49.57,0:20:52.23,main,Rio,0,0,0,,That calm aura of yours has only grown.
+Dialogue: 0,0:20:53.86,0:20:55.31,main,Orphia,0,0,0,,Thank you very much!
+Dialogue: 0,0:20:55.70,0:20:57.18,main,Latifa,0,0,0,,Say, Onii-chan!
+Dialogue: 0,0:20:57.18,0:20:58.95,main,Latifa,0,0,0,,Want to take a bath together?
+Dialogue: 0,0:20:58.95,0:21:00.01,main,girls,0,0,0,,What?
+Dialogue: 0,0:21:00.01,0:21:03.96,main,Sara,0,0,0,,O-Of course he doesn't! What are you saying?
+Dialogue: 0,0:21:03.96,0:21:05.03,main,Latifa,0,0,0,,But why?
+Dialogue: 0,0:22:44.25,0:22:45.58,italics,Rio,0,0,0,,What's this?
+Dialogue: 0,0:22:51.07,0:22:52.77,italics,Rio,0,0,0,,So, I'm dreaming.
+Dialogue: 0,0:22:52.77,0:22:57.02,italics,Rio,0,0,0,,I'm still asleep. That's for certain.
+Dialogue: 0,0:23:02.26,0:23:03.44,italics,Rio,0,0,0,,Why am I...
+Dialogue: 0,0:23:03.95,0:23:06.16,italics,Rio,0,0,0,,sleeping with a naked girl?
+Dialogue: 0,0:23:16.72,0:23:19.12,main,Sara,0,0,0,,Wh-What's the matter, Master Rio?
+Dialogue: 0,0:23:23.09,0:23:24.53,main,Orphia,0,0,0,,What's going on?
+Dialogue: 0,0:23:24.53,0:23:25.66,main,Alma,0,0,0,,What is it?
+Dialogue: 0,0:23:25.66,0:23:27.13,main,Latifa,0,0,0,,What happened?
+Dialogue: 0,0:23:27.13,0:23:30.38,main,Rio,0,0,0,,W-Wait! It's not like that! \NIt's a misunderstanding! This is—
+Dialogue: 0,0:23:30.70,0:23:31.88,main,girls,0,0,0,,What?!
+Dialogue: 0,0:23:34.97,0:23:40.00,sign_33925_315_Next_Time_Royal_,text,0,0,0,,{\pos(320,120)\blur1.5}Next Time
+Dialogue: 0,0:23:34.97,0:23:40.00,sign_33925_315_Next_Time_Royal_,text,0,0,0,,{\fs35\an8\pos(320,225)\blur1.5}A Spirit's Awakening
+Dialogue: 0,0:23:36.51,0:23:38.07,Default,Rio,0,0,0,,"A Spirit's Awakening."
+Dialogue: 0,0:23:40.00,0:23:42.08,sign_34045_320_Spirit_Chronicle,text; yellow,0,0,0,,{\pos(37,270)\fsp3\fad(1,120)}Spirit Chronicles
+Dialogue: 0,0:23:40.00,0:23:42.08,sign_34045_320_Spirit_Chronicle,text; yellow,0,0,0,,{\pos(37,270)\fsp3\c&H63E9E9&\clip(33,259,256,270)\fad(1,120)}Spirit Chronicles
+Dialogue: 0,0:23:40.00,0:23:42.08,sign_34045_321_Exciting_Bonus_M,text; blue,0,0,0,,{\pos(32,340)\fad(1,120)}Exciting Bonus Manga
+Dialogue: 0,0:23:40.00,0:23:42.48,Default,text; bubble,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 517 24 l 603 24 607 198 516 198
+Dialogue: 0,0:23:40.00,0:23:42.48,sign_34045_319_I_had_a_dream_th,text; bubble,0,0,0,,{\pos(555,75)}Wh-Why is\Nthere a naked\N girl here?!
+Dialogue: 0,0:23:40.00,0:23:50.25,sign_34045_323_By_Minazuki_Futa,text; black,0,0,0,,{\an1\pos(450,323)}By Minazuki Futago
+Dialogue: 0,0:23:41.35,0:23:42.48,sign_34127_328_Ha_ha,text; sfx,0,0,0,,{\fad(695,1)\c&H0B0E0B&\pos(65,35)}dazed
+Dialogue: 0,0:23:42.48,0:23:44.98,Default,text; bubble,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 15 22 l 88 23 89 203 22 204
+Dialogue: 0,0:23:42.48,0:23:44.98,sign_34045_319_I_had_a_dream_th,text; bubble,0,0,0,,{\fs22\pos(65,95)}Am I still\N half-asleep?
+Dialogue: 0,0:23:42.52,0:23:44.98,sign_34127_328_Ha_ha,text; sfx,0,0,0,,{\frz20.56\pos(460,35)\fad(276,1)}sleepy
+Dialogue: 0,0:23:42.52,0:23:44.98,sign_34127_328_Ha_ha,text; sfx,0,0,0,,{\frz8.88\pos(595,55)\fad(276,1)}sleepy
+Dialogue: 0,0:23:45.02,0:23:47.48,sign_34127_328_Ha_ha,text; sfx,0,0,0,,{\frz24.23\pos(50,150)\fad(445,1)}mnn
+Dialogue: 0,0:23:45.57,0:23:47.48,sign_34127_328_Ha_ha,text; sfx,0,0,0,,{\frz-14.04\fad(445,1)\an8\pos(505,230)}mnn
+Dialogue: 0,0:23:47.48,0:23:50.25,Default,text; bubble,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord0\shad0\c&HE7EAE7&}m 32 14 l 110 14 110 236 46 267
+Dialogue: 0,0:23:47.48,0:23:50.25,sign_34045_319_I_had_a_dream_th,text; bubble,0,0,0,,{\pos(75,65)}I think\Nshe's the\None who's\Nstill\N half-asleep.
+Dialogue: 0,0:23:47.92,0:23:50.25,sign_34127_328_Ha_ha,text; sfx,0,0,0,,{\pos(590,135)\fad(507,1)}food...
+Dialogue: 0,0:23:47.92,0:23:50.25,sign_34127_328_Ha_ha,text; sfx,0,0,0,,{\pos(475,25)\fad(507,1)}food...
+Dialogue: 0,0:23:47.92,0:23:50.25,sign_34127_328_Ha_ha,text; sfx,0,0,0,,{\frz7.13\pos(410,50)\fad(507,1)}nom\Nnom...
