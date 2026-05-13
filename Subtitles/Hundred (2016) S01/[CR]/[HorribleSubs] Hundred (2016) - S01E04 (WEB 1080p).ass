@@ -1,0 +1,382 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main Dialogue,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Signs,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Italics Dialogue,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Main Dialogue Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Episode Title,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00DB9F29,1,0,0,0,100,110,0,0,1,2,0,3,27,53,80,1
+Style: Flashback Dialogue,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00451900,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,53,53,24,0
+Style: Black Signs,Open Sans Semibold,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Next Episode Title,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00000000,&H00DB9F29,1,0,0,0,100,110,0,0,1,2,0,8,27,27,280,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:19.00,0:00:21.62,Main Dialogue,Souffle,0000,0000,0050,,The concert that was supposed \Nto happen on the Zwei Islands
+Dialogue: 0,0:00:21.62,0:00:23.32,Main Dialogue,Souffle,0000,0000,0050,,has been officially moved to next month.
+Dialogue: 0,0:00:23.32,0:00:26.63,Main Dialogue,Souffle,0000,0000,0050,,As such, we'd like to ask {\i1}Little Garden{\i0},\Nwho will handle security for the event,
+Dialogue: 0,0:00:26.63,0:00:28.13,Main Dialogue,Souffle,0000,0000,0050,,for a little favor of sorts.
+Dialogue: 0,0:00:28.90,0:00:32.05,Main Dialogue,Souffle,0000,0000,0000,,There's someone Sakura \Nwould like as her bodyguard.
+Dialogue: 0,0:02:04.14,0:02:08.89,Episode Title,Souffle,0000,0000,0000,,{\fad(1000,1000)}Body{\c&H0303C1&}guard
+Dialogue: 0,0:02:10.40,0:02:11.33,Main Dialogue,Emile,0000,0000,0000,,Hayato!
+Dialogue: 0,0:02:25.48,0:02:26.68,Main Dialogue,Emile,0000,0000,0000,,Now, Hayato!
+Dialogue: 0,0:02:26.68,0:02:27.08,Main Dialogue,Hayato,0000,0000,0000,,Right!
+Dialogue: 0,0:02:28.31,0:02:29.38,Main Dialogue,Reitia,0000,0000,0000,,Wait!
+Dialogue: 0,0:02:30.87,0:02:33.29,Main Dialogue,Fritz,0000,0000,0000,,Damn it. I'm out of energy...
+Dialogue: 0,0:02:34.92,0:02:35.63,Main Dialogue,Fritz,0000,0000,0000,,Just kidding.
+Dialogue: 0,0:02:37.61,0:02:39.22,Italics Dialogue,Hayato,0000,0000,0000,,He's got a muzzle there?!
+Dialogue: 0,0:02:43.26,0:02:44.68,Italics Dialogue,Hayato,0000,0000,0000,,Focus...
+Dialogue: 0,0:02:45.21,0:02:46.71,Italics Dialogue,Hayato,0000,0000,0000,,Don't let it take over.
+Dialogue: 0,0:02:47.80,0:02:48.52,Italics Dialogue,Hayato,0000,0000,0000,,I can do this!
+Dialogue: 0,0:02:55.15,0:02:56.33,Main Dialogue,Reitia,0000,0000,0000,,Fritz!
+Dialogue: 0,0:02:57.91,0:02:59.01,Main Dialogue,Fritz,0000,0000,0000,,You've got me.
+Dialogue: 0,0:02:59.01,0:03:00.15,Main Dialogue,Fritz,0000,0000,0000,,I surrender.
+Dialogue: 0,0:03:05.38,0:03:07.54,Main Dialogue,Noa,0000,0000,0000,,That was amazing! They're all too good!
+Dialogue: 0,0:03:07.54,0:03:11.33,Main Dialogue,Noa,0000,0000,0000,,Kisaragi-kun in particular was so fast at the end,\N I couldn't even see him!
+Dialogue: 0,0:03:11.33,0:03:12.24,Main Dialogue,Xuemei,0000,0000,0000,,Yeah!
+Dialogue: 0,0:03:12.24,0:03:15.93,Main Dialogue,Xuemei,0000,0000,0000,,People in Selections are \Nreally on a different level.
+Dialogue: 0,0:03:15.93,0:03:16.67,Main Dialogue,Noa,0000,0000,0000,,Yeah!
+Dialogue: 0,0:03:16.95,0:03:18.30,Main Dialogue,Emile,0000,0000,0000,,Good work, Hayato.
+Dialogue: 0,0:03:18.87,0:03:22.48,Main Dialogue,Emile,0000,0000,0000,,You're able to control\Nyour Variant pretty well now.
+Dialogue: 0,0:03:22.48,0:03:24.18,Main Dialogue,Hayato,0000,0000,0000,,Yeah, I hope so.
+Dialogue: 0,0:03:24.49,0:03:28.48,Main Dialogue,Fritz,0000,0000,0000,,I didn't think you'd cut through my attack.
+Dialogue: 0,0:03:29.95,0:03:34.58,Main Dialogue,Reitia,0000,0000,0000,,I thought we'd gotten stronger\Nin the month since we came to this school,
+Dialogue: 0,0:03:34.58,0:03:37.82,Main Dialogue,Reitia,0000,0000,0000,,but I guess getting into Selections \Nis still a pipe dream.
+Dialogue: 0,0:03:38.16,0:03:40.06,Main Dialogue,Emile,0000,0000,0000,,That's not true.
+Dialogue: 0,0:03:40.06,0:03:45.57,Main Dialogue,Emile,0000,0000,0000,,Not many people could force Hayato\Ninto his full-body armament.
+Dialogue: 0,0:03:47.25,0:03:49.94,Main Dialogue,Reitia,0000,0000,0000,,Yeah, I guess!
+Dialogue: 0,0:03:49.94,0:03:52.39,Main Dialogue,Fritz,0000,0000,0000,,Just goes to show that \Nwe're getting stronger too.
+Dialogue: 0,0:03:52.39,0:03:53.46,Main Dialogue,Reitia,0000,0000,0000,,Yeah!
+Dialogue: 0,0:03:53.46,0:03:55.25,Main Dialogue,Reitia,0000,0000,0000,,Wait! Stop patting me on the head.
+Dialogue: 0,0:03:55.80,0:03:57.04,Italics Dialogue,Erica,0000,0000,0000,,Kisaragi Hayato,
+Dialogue: 0,0:03:57.95,0:03:59.72,Italics Dialogue,Erica,0000,0000,0000,,Claire-sama calls for you.
+Dialogue: 0,0:04:00.02,0:04:02.55,Italics Dialogue,Erica,0000,0000,0000,,You have a Selections mission.
+Dialogue: 0,0:04:03.76,0:04:05.72,Main Dialogue,Hayato,0000,0000,0000,,A bodyguard for Kirishima Sakura?
+Dialogue: 0,0:04:06.21,0:04:08.49,Main Dialogue,Claire,0000,0000,0000,,She supposedly requested you herself.
+Dialogue: 0,0:04:09.15,0:04:15.02,Main Dialogue,Claire,0000,0000,0000,,She'd like you to be there for the concert \Non the Zwei Islands next weekend.
+Dialogue: 0,0:04:15.41,0:04:17.44,Main Dialogue,Hayato,0000,0000,0000,,Why me?
+Dialogue: 0,0:04:17.44,0:04:19.73,Main Dialogue,Claire,0000,0000,0000,,I didn't get an exact answer for that.
+Dialogue: 0,0:04:20.35,0:04:26.66,Main Dialogue,Claire,0000,0000,0000,,But so long as the Savage may still be\Nlurking on the Zwei Island chain,
+Dialogue: 0,0:04:26.66,0:04:28.03,Main Dialogue,Claire,0000,0000,0000,,all the VIPs there need protection.
+Dialogue: 0,0:04:28.56,0:04:34.86,Main Dialogue,Erica,0000,0000,0000,,And in fact, we detected seven Savages\Nduring our action last month.
+Dialogue: 0,0:04:35.67,0:04:38.54,Main Dialogue,Hayato,0000,0000,0000,,But we only fought three of them.
+Dialogue: 0,0:04:38.87,0:04:39.74,Main Dialogue,Erica,0000,0000,0000,,That's correct.
+Dialogue: 0,0:04:40.20,0:04:44.77,Main Dialogue,Erica,0000,0000,0000,,The other four were said to have been\Nshot down before they made landfall.
+Dialogue: 0,0:04:45.59,0:04:49.18,Main Dialogue,Erica,0000,0000,0000,,However, we found the remains \Nof only one of them.
+Dialogue: 0,0:04:50.05,0:04:53.72,Main Dialogue,Hayato,0000,0000,0000,,So they might be up and about somewhere?
+Dialogue: 0,0:04:56.77,0:04:59.52,Main Dialogue,Hayato,0000,0000,0000,,Another three of those monsters?
+Dialogue: 0,0:05:00.36,0:05:03.04,Main Dialogue,Claire,0000,0000,0000,,It could be a dangerous mission.
+Dialogue: 0,0:05:03.54,0:05:05.87,Main Dialogue,Claire,0000,0000,0000,,Kisaragi Hayato, what do you intend to do?
+Dialogue: 0,0:05:07.63,0:05:08.41,Main Dialogue,Hayato,0000,0000,0000,,I accept.
+Dialogue: 0,0:05:09.51,0:05:10.91,Main Dialogue,Hayato,0000,0000,0000,,Please let me do this.
+Dialogue: 0,0:05:11.62,0:05:12.87,Main Dialogue,Claire,0000,0000,0000,,Good answer.
+Dialogue: 0,0:05:13.61,0:05:16.53,Main Dialogue,Claire,0000,0000,0000,,You'll be giving up your weekend,
+Dialogue: 0,0:05:16.53,0:05:18.50,Main Dialogue,Claire,0000,0000,0000,,so you should receive some moderate pay.
+Dialogue: 0,0:05:19.12,0:05:21.21,Main Dialogue,Claire,0000,0000,0000,,Is there anything else \Nyou'd like to ask for?
+Dialogue: 0,0:05:21.21,0:05:23.92,Main Dialogue,Hayato,0000,0000,0000,,Oh, in that case,
+Dialogue: 0,0:05:23.92,0:05:26.76,Main Dialogue,Hayato,0000,0000,0000,,there is one thing...
+Dialogue: 0,0:05:34.96,0:05:36.10,Main Dialogue,Karen,0000,0000,0000,,Oh, Nii-san!
+Dialogue: 0,0:05:36.94,0:05:38.31,Main Dialogue,Karen,0000,0000,0000,,What?!
+Dialogue: 0,0:05:38.74,0:05:40.81,Main Dialogue,Karen,0000,0000,0000,,You're going to be Sakura-san's bodyguard?!
+Dialogue: 0,0:05:41.18,0:05:43.27,Main Dialogue,Hayato,0000,0000,0000,,K-Karen, you're being too loud.
+Dialogue: 0,0:05:43.27,0:05:44.75,Main Dialogue,Karen,0000,0000,0000,,I... I'm sorry.
+Dialogue: 0,0:05:44.75,0:05:47.86,Main Dialogue,Karen,0000,0000,0000,,Hold on a second. \NI need to take a deep breath.
+Dialogue: 0,0:05:51.32,0:05:53.13,Main Dialogue,Karen,0000,0000,0000,,This all seems like a dream.
+Dialogue: 0,0:05:53.13,0:05:54.93,Main Dialogue,Karen,0000,0000,0000,,You get to see Sakura-san...
+Dialogue: 0,0:05:55.46,0:05:59.41,Main Dialogue,Karen,0000,0000,0000,,I'd love to see her too, just once.
+Dialogue: 0,0:05:59.41,0:06:00.45,Main Dialogue,Hayato,0000,0000,0000,,You'll get your wish.
+Dialogue: 0,0:06:00.45,0:06:00.96,Main Dialogue,Karen,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:01.53,0:06:05.17,Main Dialogue,Hayato,0000,0000,0000,,I had them get you a ticket for the concert.
+Dialogue: 0,0:06:05.17,0:06:07.29,Main Dialogue,Karen,0000,0000,0000,,What? Really?!
+Dialogue: 0,0:06:07.29,0:06:07.97,Main Dialogue,Hayato,0000,0000,0000,,Yeah.
+Dialogue: 0,0:06:08.38,0:06:11.85,Main Dialogue,Hayato,0000,0000,0000,,I asked the president, \Nand she got one especially for you.
+Dialogue: 0,0:06:11.85,0:06:13.59,Main Dialogue,Karen,0000,0000,0000,,The girl with the golden drills?
+Dialogue: 0,0:06:14.78,0:06:17.85,Main Dialogue,Karen,0000,0000,0000,,The president's pretty nice, after all.
+Dialogue: 0,0:06:19.54,0:06:21.51,Main Dialogue,Karen,0000,0000,0000,,Oh, right!
+Dialogue: 0,0:06:21.51,0:06:24.25,Main Dialogue,Karen,0000,0000,0000,,Actually, there's something \NI've been worried about.
+Dialogue: 0,0:06:24.25,0:06:25.61,Main Dialogue,Hayato,0000,0000,0000,,Worried about?
+Dialogue: 0,0:06:25.61,0:06:27.74,Main Dialogue,Karen,0000,0000,0000,,I checked your fortune just now,
+Dialogue: 0,0:06:27.74,0:06:30.20,Main Dialogue,Karen,0000,0000,0000,,and it seems you need to watch out\N for women and water.
+Dialogue: 0,0:06:30.78,0:06:32.07,Main Dialogue,Hayato,0000,0000,0000,,Women and water?
+Dialogue: 0,0:06:32.42,0:06:38.49,Main Dialogue,Karen,0000,0000,0000,,Yeah. So make sure you're really careful \Nwith water, and especially women.
+Dialogue: 0,0:06:38.49,0:06:40.27,Main Dialogue,Hayato,0000,0000,0000,,Sure. Got it.
+Dialogue: 0,0:06:41.60,0:06:44.83,Main Dialogue,Hayato,0000,0000,0000,,Hm? Is there something else?
+Dialogue: 0,0:06:46.24,0:06:47.84,Main Dialogue,Karen,0000,0000,0000,,If you could...
+Dialogue: 0,0:06:48.29,0:06:50.56,Main Dialogue,Karen,0000,0000,0000,,...try to get me Sakura-san's autograph!
+Dialogue: 0,0:06:51.95,0:06:53.93,Main Dialogue,Emile,0000,0000,0000,,Hayato. Hayato.
+Dialogue: 0,0:06:55.62,0:06:58.43,Main Dialogue,Emile,0000,0000,0000,,Good morning. \NWe've made it to the Zwei Islands.
+Dialogue: 0,0:06:59.53,0:07:01.52,Main Dialogue,Hayato,0000,0000,0000,,Emile! You're here again?!
+Dialogue: 0,0:07:02.16,0:07:05.39,Main Dialogue,Emile,0000,0000,0000,,We don't make shore very often.
+Dialogue: 0,0:07:05.39,0:07:07.23,Main Dialogue,Emile,0000,0000,0000,,I wanted to go on a date with you.
+Dialogue: 0,0:07:08.22,0:07:10.40,Main Dialogue,Emile,0000,0000,0000,,You don't have anything to do \Nin the morning, right?
+Dialogue: 0,0:07:11.88,0:07:17.24,Main Dialogue,Hayato,0000,0000,0000,,Sorry, I got word yesterday that the mission \Nwill begin in the morning instead.
+Dialogue: 0,0:07:17.24,0:07:18.73,Main Dialogue,Emile,0000,0000,0000,,What?!
+Dialogue: 0,0:07:18.73,0:07:19.54,Main Dialogue,Hayato,0000,0000,0000,,Sorry.
+Dialogue: 0,0:07:20.70,0:07:22.08,Main Dialogue,Emile,0000,0000,0000,,I see.
+Dialogue: 0,0:07:22.08,0:07:24.97,Main Dialogue,Emile,0000,0000,0000,,Oh, well. Work is work.
+Dialogue: 0,0:07:25.54,0:07:27.65,Main Dialogue,Emile,0000,0000,0000,,That really sucks, though.
+Dialogue: 0,0:07:29.34,0:07:31.22,Main Dialogue,Emile,0000,0000,0000,,Good luck today.
+Dialogue: 0,0:07:37.43,0:07:40.27,Main Dialogue,Liddy,0000,0000,0000,,Kisaragi Hayato, are you ready?
+Dialogue: 0,0:07:40.27,0:07:43.73,Main Dialogue,Hayato,0000,0000,0000,,Yes. I've got my tracer and N-tranquilizers
+Dialogue: 0,0:07:44.42,0:07:45.31,Main Dialogue,Hayato,0000,0000,0000,,right here.
+Dialogue: 0,0:07:45.85,0:07:48.96,Main Dialogue,Liddy,0000,0000,0000,,This'll be your first bodyguard \Nmission. Keep alert.
+Dialogue: 0,0:07:48.96,0:07:49.74,Main Dialogue,Hayato,0000,0000,0000,,Right.
+Dialogue: 0,0:08:02.02,0:08:05.34,Main Dialogue,Sakura,0000,0000,0000,,I'm so happy I could come back.
+Dialogue: 0,0:08:07.93,0:08:09.05,Main Dialogue,Liddy,0000,0000,0000,,Nice to meet you.
+Dialogue: 0,0:08:09.05,0:08:10.98,Main Dialogue,Liddy,0000,0000,0000,,I'm the XO on the {\i1}Little Garden,{\i0}
+Dialogue: 0,0:08:11.38,0:08:13.29,Main Dialogue,Liddy,0000,0000,0000,,Liddy Steinberg.
+Dialogue: 0,0:08:13.77,0:08:15.42,Main Dialogue,Sakura,0000,0000,0000,,I'm Kirishima Sakura.
+Dialogue: 0,0:08:15.42,0:08:17.01,Main Dialogue,Sakura,0000,0000,0000,,Nice to meet you.
+Dialogue: 0,0:08:17.84,0:08:20.09,Main Dialogue,Sakura,0000,0000,0000,,So you're Kisaragi Hayato-san, right?
+Dialogue: 0,0:08:21.42,0:08:23.02,Main Dialogue,Sakura,0000,0000,0000,,Nice to meet you.
+Dialogue: 0,0:08:24.28,0:08:26.74,Main Dialogue,Hayato,0000,0000,0000,,Nice to meet you.
+Dialogue: 0,0:08:34.27,0:08:35.98,Main Dialogue,Hayato,0000,0000,0000,,Is it always like this?
+Dialogue: 0,0:08:35.98,0:08:38.75,Main Dialogue,Souffle,0000,0000,0000,,No, this is actually light.
+Dialogue: 0,0:08:38.75,0:08:39.54,Main Dialogue,Hayato,0000,0000,0000,,Seriously?
+Dialogue: 0,0:08:42.92,0:08:46.61,Italics Dialogue,Hayato,0000,0000,0000,,Why did someone so famous \Nwant me as a bodyguard?
+Dialogue: 0,0:08:47.74,0:08:48.88,Main Dialogue,Sakura,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:08:48.88,0:08:51.21,Main Dialogue,Hayato,0000,0000,0000,,Nothing at all.
+Dialogue: 0,0:08:51.91,0:08:55.34,Main Dialogue,Sakura,0000,0000,0000,,Do you have a favorite song of mine?
+Dialogue: 0,0:08:55.34,0:08:58.15,Main Dialogue,Hayato,0000,0000,0000,,Uh... well...
+Dialogue: 0,0:08:58.61,0:09:01.22,Main Dialogue,Hayato,0000,0000,0000,,I'm sorry. I don't listen to much music.
+Dialogue: 0,0:09:01.68,0:09:02.78,Main Dialogue,Sakura,0000,0000,0000,,I see.
+Dialogue: 0,0:09:02.78,0:09:06.74,Main Dialogue,Hayato,0000,0000,0000,,But my sister's a fan. An ardententent...
+Dialogue: 0,0:09:06.74,0:09:07.71,Main Dialogue,Hayato,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:09.21,0:09:11.06,Main Dialogue,Erica,0000,0000,0000,,You really don't have it together, do you?
+Dialogue: 0,0:09:13.26,0:09:15.74,Main Dialogue,Sakura,0000,0000,0000,,It's okay. I don't mind.
+Dialogue: 0,0:09:16.50,0:09:19.32,Main Dialogue,Sakura,0000,0000,0000,,Oh, and you don't have to try to be so polite.
+Dialogue: 0,0:09:19.66,0:09:23.12,Main Dialogue,Sakura,0000,0000,0000,,Forget the formalities,\Nand just call me "Sakura."
+Dialogue: 0,0:09:35.99,0:09:36.90,Main Dialogue,Hayato,0000,0000,0000,,Here you go.
+Dialogue: 0,0:09:38.60,0:09:39.86,Main Dialogue,Hayato,0000,0000,0000,,You're not going in?
+Dialogue: 0,0:09:40.36,0:09:45.17,Main Dialogue,Sakura,0000,0000,0000,,I believe there's something\Nyou need to do first, as my bodyguard.
+Dialogue: 0,0:09:45.17,0:09:47.06,Main Dialogue,Hayato,0000,0000,0000,,Ah, yeah. I should check the room.
+Dialogue: 0,0:09:47.84,0:09:50.29,Main Dialogue,Hayato,0000,0000,0000,,Let's see... The tracer...
+Dialogue: 0,0:09:50.78,0:09:51.36,Main Dialogue,Hayato,0000,0000,0000,,Here it is.
+Dialogue: 0,0:09:51.99,0:09:55.92,Main Dialogue,Sakura,0000,0000,0000,,Are you really {\i1}the{\i0} Kisaragi Hayato?
+Dialogue: 0,0:09:56.85,0:10:00.32,Main Dialogue,Hayato,0000,0000,0000,,W-Well, that is my name...
+Dialogue: 0,0:10:00.76,0:10:05.34,Main Dialogue,Hayato,0000,0000,0000,,But uh... I've never been a bodyguard before.
+Dialogue: 0,0:10:05.34,0:10:08.08,Main Dialogue,Hayato,0000,0000,0000,,Sorry, I'll do my check. Hold on a second.
+Dialogue: 0,0:10:11.03,0:10:13.21,Main Dialogue,Hayato,0000,0000,0000,,All clear. You can come in.
+Dialogue: 0,0:10:22.66,0:10:24.60,Main Dialogue,Sakura,0000,0000,0000,,Looks like we finally get some time alone.
+Dialogue: 0,0:10:26.91,0:10:28.09,Main Dialogue,Sakura,0000,0000,0000,,Hey, Hayato.
+Dialogue: 0,0:10:29.77,0:10:31.45,Main Dialogue,Sakura,0000,0000,0000,,Wanna get married?
+Dialogue: 0,0:10:33.46,0:10:34.65,Main Dialogue,Sakura,0000,0000,0000,,Hey, Hayato.
+Dialogue: 0,0:10:35.72,0:10:37.53,Main Dialogue,Sakura,0000,0000,0000,,Wanna get married?
+Dialogue: 0,0:10:39.53,0:10:41.52,Main Dialogue,Sakura,0000,0000,0000,,This is you, right?
+Dialogue: 0,0:10:43.22,0:10:44.03,Main Dialogue,Hayato,0000,0000,0000,,Why do you...
+Dialogue: 0,0:10:44.52,0:10:46.45,Main Dialogue,Sakura,0000,0000,0000,,I found it on the Cybernet.
+Dialogue: 0,0:10:46.45,0:10:48.51,Main Dialogue,Sakura,0000,0000,0000,,Though it's been erased now.
+Dialogue: 0,0:10:49.28,0:10:51.89,Main Dialogue,Sakura,0000,0000,0000,,I saw this and took an interest in you...
+Dialogue: 0,0:10:52.29,0:10:54.91,Main Dialogue,Sakura,0000,0000,0000,,The hero who saved the Zwei Islands.
+Dialogue: 0,0:10:56.16,0:10:58.33,Main Dialogue,Sakura,0000,0000,0000,,You're a little different than I expected.
+Dialogue: 0,0:10:58.96,0:11:00.47,Main Dialogue,Sakura,0000,0000,0000,,You're pretty awkward.
+Dialogue: 0,0:11:01.67,0:11:04.21,Main Dialogue,Sakura,0000,0000,0000,,But I think that's pretty cute.
+Dialogue: 0,0:11:04.21,0:11:04.81,Main Dialogue,Hayato,0000,0000,0000,,What?
+Dialogue: 0,0:11:05.22,0:11:08.63,Main Dialogue,Sakura,0000,0000,0000,,Hey, want to go out? \NWith an eye on getting married, of course.
+Dialogue: 0,0:11:08.63,0:11:09.81,Main Dialogue,Hayato,0000,0000,0000,,Wh-Why?
+Dialogue: 0,0:11:10.32,0:11:13.93,Main Dialogue,Sakura,0000,0000,0000,,Hm? You're not happy I'm hitting on you?
+Dialogue: 0,0:11:14.45,0:11:17.23,Main Dialogue,Sakura,0000,0000,0000,,Do you have someone already?
+Dialogue: 0,0:11:18.69,0:11:19.49,Main Dialogue,Sakura,0000,0000,0000,,Do you?
+Dialogue: 0,0:11:19.49,0:11:21.43,Main Dialogue,Hayato,0000,0000,0000,,H-Hold on a second.
+Dialogue: 0,0:11:21.43,0:11:23.78,Main Dialogue,Hayato,0000,0000,0000,,Why are you talking about going out?
+Dialogue: 0,0:11:26.10,0:11:29.79,Main Dialogue,Sakura,0000,0000,0000,,The miracle couple: the Diva of the World \Nand the Genius Slayer.
+Dialogue: 0,0:11:30.29,0:11:31.46,Main Dialogue,Sakura,0000,0000,0000,,Wouldn't that be great?
+Dialogue: 0,0:11:31.46,0:11:33.63,Main Dialogue,Sakura,0000,0000,0000,,I think the media would eat it up, too.
+Dialogue: 0,0:11:34.02,0:11:36.50,Main Dialogue,Hayato,0000,0000,0000,,Huh? The media...?
+Dialogue: 0,0:11:37.26,0:11:39.17,Main Dialogue,Sakura,0000,0000,0000,,We'd hold a press conference, right?
+Dialogue: 0,0:11:39.53,0:11:43.51,Main Dialogue,Sakura,0000,0000,0000,,We'd use the Zwei Islands, \Nthe place we met, for the location.
+Dialogue: 0,0:11:43.51,0:11:46.72,Main Dialogue,Sakura,0000,0000,0000,,I'd have on a ring you got me \Nusing three months' worth of pay.
+Dialogue: 0,0:11:47.05,0:11:48.55,Main Dialogue,Hayato,0000,0000,0000,,Uh, Sakura...
+Dialogue: 0,0:11:48.55,0:11:50.98,Main Dialogue,Sakura,0000,0000,0000,,After the press conference\Ncomes the ceremony.
+Dialogue: 0,0:11:50.09,0:11:50.98,Main Dialogue Top,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:11:50.98,0:11:53.19,Main Dialogue,Sakura,0000,0000,0000,,It'd have a minimum of \Nfive outfit changes for us.
+Dialogue: 0,0:11:53.19,0:11:56.36,Main Dialogue,Sakura,0000,0000,0000,,We're both from Yamato,\Nso white kimonos would be perfect!
+Dialogue: 0,0:11:56.36,0:11:58.86,Main Dialogue,Sakura,0000,0000,0000,,The honeymoon would be\Na trip around the world, obviously.
+Dialogue: 0,0:11:56.85,0:11:58.86,Main Dialogue Top,Hayato,0000,0000,0000,,Hey, you listening?
+Dialogue: 0,0:11:58.86,0:12:02.11,Main Dialogue,Sakura,0000,0000,0000,,And then we'd move into a white house \Nby the ocean together.
+Dialogue: 0,0:12:02.11,0:12:04.52,Main Dialogue,Sakura,0000,0000,0000,,We'd have three kids and two dogs.
+Dialogue: 0,0:12:04.52,0:12:06.66,Main Dialogue,Sakura,0000,0000,0000,,On our days off, we'd all play in the water,
+Dialogue: 0,0:12:06.66,0:12:08.57,Main Dialogue,Sakura,0000,0000,0000,,and there'd be a rainbow in the sky...
+Dialogue: 0,0:12:08.57,0:12:11.10,Italics Dialogue,Hayato,0000,0000,0000,,This is hopeless. \NThe brakes have come off her train of thought.
+Dialogue: 0,0:12:11.48,0:12:12.37,Main Dialogue,Hayato,0000,0000,0000,,I need to do something...
+Dialogue: 0,0:12:12.95,0:12:14.70,Main Dialogue,Hayato,0000,0000,0000,,Sounds good. Let's go out.
+Dialogue: 0,0:12:14.70,0:12:15.41,Main Dialogue,Sakura,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:15.41,0:12:18.94,Main Dialogue,Hayato,0000,0000,0000,,We'll have the press conference, \Ndo all the changing at the wedding,
+Dialogue: 0,0:12:18.94,0:12:21.90,Main Dialogue,Hayato,0000,0000,0000,,go on that honeymoon, and live happily\N ever after with our kids and dogs,
+Dialogue: 0,0:12:21.90,0:12:23.38,Main Dialogue,Hayato,0000,0000,0000,,and a rainbow in the sky.
+Dialogue: 0,0:12:25.98,0:12:29.14,Main Dialogue,Hayato,0000,0000,0000,,So how about we kiss to seal the deal?
+Dialogue: 0,0:12:34.37,0:12:35.95,Main Dialogue,Sakura,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:12:36.72,0:12:39.02,Main Dialogue,Sakura,0000,0000,0000,,I-I actually don't have\Nmuch time to get ready.
+Dialogue: 0,0:12:39.37,0:12:41.69,Main Dialogue,Sakura,0000,0000,0000,,So I'm going to stop teasing you,\Nand go take a bath.
+Dialogue: 0,0:12:57.62,0:12:59.29,Main Dialogue,Hayato,0000,0000,0000,,She's pretty good.
+Dialogue: 0,0:13:00.48,0:13:05.09,Main Dialogue,Hayato,0000,0000,0000,,Karen used to sing in the bath\Nwhen she was younger, too.
+Dialogue: 0,0:13:05.09,0:13:06.36,Main Dialogue,Sakura,0000,0000,0000,,Hayato-kun.
+Dialogue: 0,0:13:07.12,0:13:07.93,Main Dialogue,Hayato,0000,0000,0000,,What is it?
+Dialogue: 0,0:13:08.42,0:13:10.63,Main Dialogue,Sakura,0000,0000,0000,,Could you get me my PDA?
+Dialogue: 0,0:13:10.63,0:13:14.06,Main Dialogue,Sakura,0000,0000,0000,,I just thought of a good musical phrase. \NI want to record it.
+Dialogue: 0,0:13:14.49,0:13:15.49,Main Dialogue,Hayato,0000,0000,0000,,Sure.
+Dialogue: 0,0:13:22.58,0:13:25.95,Italics Dialogue,Hayato,0000,0000,0000,,Karen left her stuff all over \Nwhen she was young, too.
+Dialogue: 0,0:13:26.82,0:13:28.29,Main Dialogue,Sakura,0000,0000,0000,,Hayato-kun, have you found it yet?
+Dialogue: 0,0:13:28.86,0:13:29.70,Main Dialogue,Sakura,0000,0000,0000,,What are you—?
+Dialogue: 0,0:13:29.70,0:13:33.58,Main Dialogue,Hayato,0000,0000,0000,,Oh, I just wanted to tidy everything up...
+Dialogue: 0,0:13:34.34,0:13:36.75,Main Dialogue,Sakura,0000,0000,0000,,Never mind that! \NJust give me my PDA—
+Dialogue: 0,0:13:40.16,0:13:41.16,Main Dialogue,Hayato,0000,0000,0000,,Are you okay?!
+Dialogue: 0,0:13:44.05,0:13:45.85,Main Dialogue,Sakura,0000,0000,0000,,Ow...
+Dialogue: 0,0:13:49.23,0:13:50.26,Main Dialogue,Hayato,0000,0000,0000,,H-Here.
+Dialogue: 0,0:13:50.59,0:13:52.10,Main Dialogue,Sakura,0000,0000,0000,,Th-Thanks.
+Dialogue: 0,0:13:52.43,0:13:54.57,Main Dialogue,Sakura,0000,0000,0000,,Also, the bear is an exception.
+Dialogue: 0,0:13:54.57,0:13:56.81,Main Dialogue,Sakura,0000,0000,0000,,It's not like I'm into that or anything.
+Dialogue: 0,0:13:59.14,0:14:00.81,Main Dialogue,Hayato,0000,0000,0000,,That was bad.
+Dialogue: 0,0:14:01.85,0:14:02.79,Main Dialogue,Hayato,0000,0000,0000,,Wait a second...
+Dialogue: 0,0:14:02.79,0:14:05.22,Main Dialogue,Hayato,0000,0000,0000,,Women and water... Was that \Nwhat Karen was talking about?
+Dialogue: 0,0:14:05.58,0:14:06.62,Main Dialogue,Sakura,0000,0000,0000,,Hayato-kun.
+Dialogue: 0,0:14:07.67,0:14:08.95,Main Dialogue,Sakura,0000,0000,0000,,How do I look?
+Dialogue: 0,0:14:09.29,0:14:09.95,Main Dialogue,Hayato,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:13.10,0:14:14.08,Main Dialogue,Sakura,0000,0000,0000,,What do you think?
+Dialogue: 0,0:14:14.76,0:14:16.96,Main Dialogue,Hayato,0000,0000,0000,,I-It's cute, I guess.
+Dialogue: 0,0:14:19.13,0:14:20.67,Main Dialogue,Sakura,0000,0000,0000,,That answer gets forty out of hundred.
+Dialogue: 0,0:14:20.95,0:14:22.64,Main Dialogue,Hayato,0000,0000,0000,,Forty points?
+Dialogue: 0,0:14:22.64,0:14:24.24,Main Dialogue,Sakura,0000,0000,0000,,What about what happened in the bathroom?
+Dialogue: 0,0:14:24.24,0:14:26.66,Main Dialogue,Hayato,0000,0000,0000,,Uh, well...
+Dialogue: 0,0:14:26.66,0:14:28.13,Main Dialogue,Hayato,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:14:28.13,0:14:29.84,Main Dialogue,Sakura,0000,0000,0000,,Fifteen points.
+Dialogue: 0,0:14:30.50,0:14:32.85,Main Dialogue,Hayato,0000,0000,0000,,What do I need to say \Nto get a passing grade?
+Dialogue: 0,0:14:34.75,0:14:36.73,Main Dialogue,Sakura,0000,0000,0000,,Be a man and figure it out yourself.
+Dialogue: 0,0:14:37.26,0:14:39.47,Main Dialogue,Sakura,0000,0000,0000,,Let's go. It's time to leave.
+Dialogue: 0,0:14:40.12,0:14:40.94,Main Dialogue,Hayato,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:14:57.58,0:14:58.41,Main Dialogue,Sakura,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:14:59.58,0:15:03.48,Main Dialogue,Hayato,0000,0000,0000,,I think it's impressive you can handle \Neveryone so effortlessly like that.
+Dialogue: 0,0:15:04.81,0:15:07.75,Main Dialogue,Sakura,0000,0000,0000,,Then I'm even more impressive \Nthan you think.
+Dialogue: 0,0:15:07.75,0:15:08.42,Main Dialogue,Hayato,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:08.42,0:15:11.58,Main Dialogue,Sakura,0000,0000,0000,,Souffle, we're done here for today, right?
+Dialogue: 0,0:15:11.98,0:15:12.51,Main Dialogue,Souffle,0000,0000,0000,,Yes.
+Dialogue: 0,0:15:13.12,0:15:16.00,Main Dialogue,Sakura,0000,0000,0000,,Then let's take a little detour.
+Dialogue: 0,0:15:21.87,0:15:23.15,Main Dialogue,Hayato,0000,0000,0000,,What is this?
+Dialogue: 0,0:15:23.83,0:15:26.16,Main Dialogue,Souffle,0000,0000,0000,,The stage for the next concert.
+Dialogue: 0,0:15:26.55,0:15:29.33,Main Dialogue,Souffle,0000,0000,0000,,We expect 100,000 people to come.
+Dialogue: 0,0:15:29.33,0:15:30.15,Main Dialogue,Hayato,0000,0000,0000,,100,000?!
+Dialogue: 0,0:15:33.27,0:15:34.20,Main Dialogue,Sakura,0000,0000,0000,,Sorry to keep you waiting.
+Dialogue: 0,0:15:35.86,0:15:37.51,Main Dialogue,Sakura,0000,0000,0000,,Did you figure it out?
+Dialogue: 0,0:15:37.51,0:15:39.41,Main Dialogue,Hayato,0000,0000,0000,,No, I'm not looking at your boobs.
+Dialogue: 0,0:15:39.91,0:15:42.33,Main Dialogue,Sakura,0000,0000,0000,,Boobs? What are you going on about?
+Dialogue: 0,0:15:42.71,0:15:44.17,Main Dialogue,Sakura,0000,0000,0000,,I knew you were dense.
+Dialogue: 0,0:15:44.96,0:15:46.24,Main Dialogue,Sakura,0000,0000,0000,,Hayato-kun,
+Dialogue: 0,0:15:46.24,0:15:49.06,Main Dialogue,Sakura,0000,0000,0000,,I'm trying to say that this \Nis my battlefield.
+Dialogue: 0,0:15:49.06,0:15:50.30,Main Dialogue,Sakura,0000,0000,0000,,I'll show you.
+Dialogue: 0,0:15:52.66,0:15:54.14,Main Dialogue,Sakura,0000,0000,0000,,Hundred On!
+Dialogue: 0,0:16:09.16,0:16:10.59,Main Dialogue,Hayato,0000,0000,0000,,A Slayer...
+Dialogue: 0,0:16:12.24,0:16:14.11,Main Dialogue,Sakura,0000,0000,0000,,This is my Hundred:
+Dialogue: 0,0:16:14.55,0:16:16.50,Main Dialogue,Sakura,0000,0000,0000,,Fairy Fairytale.
+Dialogue: 0,0:16:21.54,0:16:22.62,Main Dialogue,Hayato,0000,0000,0000,,She's flying.
+Dialogue: 0,0:16:28.17,0:16:30.34,Main Dialogue,Char,0000,0000,0000,,Impressive, as always.
+Dialogue: 0,0:16:31.93,0:16:35.20,Main Dialogue,Hayato,0000,0000,0000,,Oh, Professor Charlotte. \NMei-Mai's here, too.
+Dialogue: 0,0:16:35.56,0:16:36.90,Main Dialogue,Hayato,0000,0000,0000,,Why are you two here?
+Dialogue: 0,0:16:36.90,0:16:40.37,Main Dialogue,Char,0000,0000,0000,,She's going to use her Hundred \Nas part of her concert,
+Dialogue: 0,0:16:40.37,0:16:42.35,Main Dialogue,Char,0000,0000,0000,,so we were called here to help.
+Dialogue: 0,0:16:43.01,0:16:44.97,Main Dialogue,Char,0000,0000,0000,,Her type is incredibly rare.
+Dialogue: 0,0:16:44.97,0:16:47.62,Main Dialogue,Char,0000,0000,0000,,She's a field-control type Slayer.
+Dialogue: 0,0:16:47.92,0:16:49.61,Main Dialogue,Hayato,0000,0000,0000,,Field-control type...
+Dialogue: 0,0:16:50.29,0:16:53.23,Main Dialogue,Char,0000,0000,0000,,She can create a personal field\Nover a specific period of time
+Dialogue: 0,0:16:53.23,0:16:58.59,Main Dialogue,Char,0000,0000,0000,,and use her sense energy \Nto fly around and create illusions.
+Dialogue: 0,0:16:58.95,0:17:01.62,Main Dialogue,Char,0000,0000,0000,,But she also can't create any weapons.
+Dialogue: 0,0:17:02.32,0:17:06.29,Main Dialogue,Char,0000,0000,0000,,She doesn't need any weapons \Nto fight her fight, though.
+Dialogue: 0,0:17:06.61,0:17:09.76,Main Dialogue,Souffle,0000,0000,0000,,That's right. She has her song.
+Dialogue: 0,0:17:09.76,0:17:11.76,Main Dialogue,Hayato,0000,0000,0000,,Do you two know each other?
+Dialogue: 0,0:17:12.22,0:17:14.48,Main Dialogue,Souffle,0000,0000,0000,,We used to be colleagues.
+Dialogue: 0,0:17:15.04,0:17:18.51,Main Dialogue,Souffle,0000,0000,0000,,You could also say Charlotte\N saved Sakura's life.
+Dialogue: 0,0:17:18.93,0:17:20.09,Main Dialogue,Hayato,0000,0000,0000,,Her life...
+Dialogue: 0,0:17:20.09,0:17:24.36,Main Dialogue,Char,0000,0000,0000,,I just helped her when she was \Ncaught up in a tough situation.
+Dialogue: 0,0:17:24.66,0:17:26.49,Main Dialogue,Char,0000,0000,0000,,It wasn't that big of a deal.
+Dialogue: 0,0:17:38.74,0:17:41.20,Main Dialogue,Sakura,0000,0000,0000,,What do you think of my stage, Hayato-kun?
+Dialogue: 0,0:17:41.55,0:17:44.04,Main Dialogue,Hayato,0000,0000,0000,,It's amazing. It really is!
+Dialogue: 0,0:17:44.41,0:17:45.43,Main Dialogue,Sakura,0000,0000,0000,,Of course it is.
+Dialogue: 0,0:17:45.77,0:17:48.21,Main Dialogue,Sakura,0000,0000,0000,,I'm the Diva of the World.
+Dialogue: 0,0:17:49.33,0:17:51.49,Main Dialogue,Sakura,0000,0000,0000,,In order to repay my fans,\Nwho have been waiting for this day,
+Dialogue: 0,0:17:51.49,0:17:54.34,Main Dialogue,Sakura,0000,0000,0000,,and the staff that helped\Nput together this stage,
+Dialogue: 0,0:17:54.34,0:17:56.26,Main Dialogue,Sakura,0000,0000,0000,,I need to put on the best concert possible.
+Dialogue: 0,0:17:56.93,0:17:58.33,Main Dialogue,Sakura,0000,0000,0000,,It'll be great.
+Dialogue: 0,0:17:59.26,0:18:00.58,Main Dialogue,Hayato,0000,0000,0000,,Sakura...
+Dialogue: 0,0:18:04.44,0:18:06.52,Main Dialogue,Hayato,0000,0000,0000,,Yes, we're done for today.
+Dialogue: 0,0:18:07.36,0:18:09.52,Main Dialogue,Hayato,0000,0000,0000,,They said I could come back \Nin the afternoon tomorrow.
+Dialogue: 0,0:18:10.05,0:18:12.55,Italics Dialogue,Claire,0000,0000,0000,,But the plan was for you to\Nstart in the morning tomorrow, too.
+Dialogue: 0,0:18:12.55,0:18:17.19,Main Dialogue,Hayato,0000,0000,0000,,She has a song she needs to \Nstay in the hotel to write.
+Dialogue: 0,0:18:17.98,0:18:21.89,Main Dialogue,Hayato,0000,0000,0000,,Sakura was complaining that she \Nwanted to go somewhere, but...
+Dialogue: 0,0:18:21.89,0:18:23.27,Italics Dialogue,Claire,0000,0000,0000,,Sakura?
+Dialogue: 0,0:18:23.27,0:18:25.70,Italics Dialogue,Claire,0000,0000,0000,,You're calling your client "Sakura"?
+Dialogue: 0,0:18:25.70,0:18:28.67,Main Dialogue,Hayato,0000,0000,0000,,Well, Kirishima-san \Ntold me to call her that...
+Dialogue: 0,0:18:29.83,0:18:32.67,Main Dialogue,Claire,0000,0000,0000,,If that's what the client wanted...
+Dialogue: 0,0:18:33.19,0:18:36.57,Main Dialogue,Claire,0000,0000,0000,,Come to my summer home \Ntomorrow morning, then.
+Dialogue: 0,0:18:36.57,0:18:38.18,Main Dialogue,Claire,0000,0000,0000,,There's something I'd like \Nto talk to you about.
+Dialogue: 0,0:18:38.18,0:18:40.27,Main Dialogue,Hayato,0000,0000,0000,,I understand.
+Dialogue: 0,0:18:40.27,0:18:41.70,Italics Dialogue,Claire,0000,0000,0000,,I can't wait—
+Dialogue: 0,0:18:41.70,0:18:44.03,Italics Dialogue,Claire,0000,0000,0000,,I mean, I'll be waiting.
+Dialogue: 0,0:18:44.03,0:18:44.74,Main Dialogue,Hayato,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:48.70,0:18:50.81,Main Dialogue,Hayato,0000,0000,0000,,Is everyone still on the island?
+Dialogue: 0,0:18:51.18,0:18:52.61,Main Dialogue,Hayato,0000,0000,0000,,I guess that means
+Dialogue: 0,0:18:53.59,0:18:54.86,Main Dialogue,Hayato,0000,0000,0000,,I get to be the first in the bath!
+Dialogue: 0,0:18:56.77,0:18:57.42,Main Dialogue,Hayato,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:57.42,0:18:58.28,Main Dialogue,Hayato,0000,0000,0000,,It's locked.
+Dialogue: 0,0:19:00.33,0:19:01.70,Main Dialogue,Hayato,0000,0000,0000,,Oh, it opened up.
+Dialogue: 0,0:19:09.93,0:19:11.08,Main Dialogue,Emile,0000,0000,0000,,Haya...to?
+Dialogue: 0,0:19:11.47,0:19:13.18,Main Dialogue,Hayato,0000,0000,0000,,Emile, why are you...
+Dialogue: 0,0:19:13.18,0:19:14.84,Main Dialogue,Hayato,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:19:14.84,0:19:15.73,Main Dialogue,Emile,0000,0000,0000,,Wait.
+Dialogue: 0,0:19:19.57,0:19:21.59,Main Dialogue,Emile,0000,0000,0000,,Want to take a bath with me?
+Dialogue: 0,0:19:22.15,0:19:22.92,Main Dialogue,Hayato,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:25.11,0:19:27.58,Main Dialogue,Emile,0000,0000,0000,,I used my security code to lock the door,
+Dialogue: 0,0:19:27.58,0:19:30.28,Main Dialogue,Emile,0000,0000,0000,,so I was under the impression \Nno one could get in, but...
+Dialogue: 0,0:19:30.28,0:19:34.28,Main Dialogue,Emile,0000,0000,0000,,We were in the same room, \Nso I guess our keys are the same, too.
+Dialogue: 0,0:19:34.28,0:19:37.20,Main Dialogue,Hayato,0000,0000,0000,,You still haven't gotten a new one?
+Dialogue: 0,0:19:37.20,0:19:40.99,Main Dialogue,Emile,0000,0000,0000,,If I changed it out, I wouldn't be \Nable to get in your room anymore.
+Dialogue: 0,0:19:41.55,0:19:42.57,Main Dialogue,Hayato,0000,0000,0000,,Hey...
+Dialogue: 0,0:19:42.57,0:19:45.09,Main Dialogue,Emile,0000,0000,0000,,So how was your first mission?
+Dialogue: 0,0:19:45.09,0:19:47.23,Main Dialogue,Hayato,0000,0000,0000,,I think it went all right.
+Dialogue: 0,0:19:47.23,0:19:48.79,Main Dialogue,Hayato,0000,0000,0000,,There was a bit of trouble partway through,
+Dialogue: 0,0:19:49.17,0:19:50.12,Main Dialogue,Hayato,0000,0000,0000,,but Sakura was okay with—
+Dialogue: 0,0:19:50.12,0:19:51.26,Main Dialogue,Emile,0000,0000,0000,,Sakura?!
+Dialogue: 0,0:19:51.26,0:19:53.98,Main Dialogue,Emile,0000,0000,0000,,You're calling her "Sakura"?! \NWhat's that about?
+Dialogue: 0,0:19:53.98,0:19:55.63,Main Dialogue,Emile,0000,0000,0000,,Call me by my name, too!
+Dialogue: 0,0:19:56.00,0:19:57.07,Main Dialogue,Hayato,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:19:58.12,0:19:59.63,Main Dialogue,Hayato,0000,0000,0000,,I always do.
+Dialogue: 0,0:19:59.63,0:20:01.43,Main Dialogue,Emile,0000,0000,0000,,Not that!
+Dialogue: 0,0:20:01.43,0:20:03.03,Main Dialogue,Emile,0000,0000,0000,,My real name...
+Dialogue: 0,0:20:11.57,0:20:12.73,Main Dialogue,Hayato,0000,0000,0000,,Emilia...
+Dialogue: 0,0:20:14.13,0:20:15.49,Main Dialogue,Emile,0000,0000,0000,,One more time.
+Dialogue: 0,0:20:16.09,0:20:17.36,Main Dialogue,Hayato,0000,0000,0000,,Emilia.
+Dialogue: 0,0:20:18.83,0:20:19.62,Main Dialogue,Emile,0000,0000,0000,,Yeah.
+Dialogue: 0,0:20:23.32,0:20:25.05,Main Dialogue,Emile,0000,0000,0000,,Hayato, look.
+Dialogue: 0,0:20:26.32,0:20:28.98,Main Dialogue,Emile,0000,0000,0000,,Here, at my scar.
+Dialogue: 0,0:20:29.64,0:20:31.45,Main Dialogue,Emile,0000,0000,0000,,It's starting to fade away.
+Dialogue: 0,0:20:31.85,0:20:32.50,Main Dialogue,Hayato,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:33.59,0:20:35.99,Main Dialogue,Emile,0000,0000,0000,,It wasn't going away at all before.
+Dialogue: 0,0:20:37.46,0:20:42.26,Main Dialogue,Emile,0000,0000,0000,,But I guess seeing you again and\Nfeeling better about things did the trick.
+Dialogue: 0,0:20:45.89,0:20:49.14,Main Dialogue,Emile,0000,0000,0000,,Hey, you don't have to look \Nso closely, you know?
+Dialogue: 0,0:20:49.49,0:20:51.30,Main Dialogue,Emile,0000,0000,0000,,You've got this pervy look on your face.
+Dialogue: 0,0:20:58.30,0:21:02.08,Main Dialogue,Hayato,0000,0000,0000,,Emilia, you want to come to \Nthe Zwei Islands tomorrow?
+Dialogue: 0,0:21:02.78,0:21:05.03,Main Dialogue,Emile,0000,0000,0000,,Are you sure? \NWhat about your mission?
+Dialogue: 0,0:21:05.33,0:21:07.14,Main Dialogue,Hayato,0000,0000,0000,,I start in the afternoon tomorrow.
+Dialogue: 0,0:21:07.14,0:21:10.95,Main Dialogue,Hayato,0000,0000,0000,,Once I go finish things up with the president \Nin the morning, I'm free until the afternoon.
+Dialogue: 0,0:21:13.08,0:21:15.50,Main Dialogue,Emile,0000,0000,0000,,Yay! Thank you, Hayato!
+Dialogue: 0,0:21:22.35,0:21:23.97,Main Dialogue,Emile,0000,0000,0000,,Hayato, you perv!
+Dialogue: 0,0:21:26.83,0:21:29.06,Main Dialogue,Hayato,0000,0000,0000,,Women and water...
+Dialogue: 0,0:21:29.78,0:21:30.94,Main Dialogue,Hayato,0000,0000,0000,,Again.
+Dialogue: 0,0:21:38.88,0:21:42.33,Main Dialogue,Sakura,0000,0000,0000,,Please let my song reach everyone.
+Dialogue: 0,0:21:43.05,0:21:46.30,Main Dialogue,Sakura,0000,0000,0000,,And someday... that person, too...
+Dialogue: 0,0:21:49.03,0:21:53.00,Main Dialogue,Krovanh,0000,0000,0000,,Looks like security's pretty tight \Nthis time, just as Vitaly said.
+Dialogue: 0,0:21:53.40,0:21:57.58,Main Dialogue,Nakri,0000,0000,0000,,But {\i1}Little Garden{\i0} Slayers are\Nhardly gonna give us any trouble.
+Dialogue: 0,0:21:57.58,0:21:58.25,Main Dialogue,Nakri,0000,0000,0000,,Let's go.
+Dialogue: 0,0:21:58.25,0:21:59.59,Main Dialogue,Krovanh,0000,0000,0000,,Well, hold your horses.
+Dialogue: 0,0:22:00.03,0:22:02.66,Main Dialogue,Krovanh,0000,0000,0000,,Make do with this for today.
+Dialogue: 0,0:22:05.86,0:22:07.83,Main Dialogue,Nakri,0000,0000,0000,,So when are we doing it?
+Dialogue: 0,0:22:10.78,0:22:12.43,Main Dialogue,Nesat,0000,0000,0000,,After the concert.
+Dialogue: 0,0:22:12.79,0:22:17.62,Main Dialogue,Krovanh,0000,0000,0000,,Yeah. The islanders are all excited,\Nso let them have their fun.
+Dialogue: 0,0:22:19.17,0:22:23.43,Main Dialogue,Krovanh,0000,0000,0000,,After all, we're on humanity's side.
+Dialogue: 0,0:24:00.96,0:24:05.87,Next Episode Title,Krovanh,0000,0000,0000,,{\fad(1000,1)}{\c&H0303C1&}Imitation {\c&HFFFFFF&}Girl

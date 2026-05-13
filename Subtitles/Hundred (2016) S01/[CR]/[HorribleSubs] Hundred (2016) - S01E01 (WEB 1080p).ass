@@ -1,0 +1,382 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main Dialogue,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Signs,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Italics Dialogue,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Main Dialogue Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Episode Title,Open Sans Semibold,42,&H00FFFFFF,&H000000FF,&H00000000,&H00DB9F29,1,0,0,0,100,110,0,0,1,2,0,3,27,87,80,1
+Style: Flashback Dialogue,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00451900,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,53,53,24,0
+Style: Black Signs,Open Sans Semibold,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Welcome Sign,Open Sans Semibold,36,&H00010293,&H000000FF,&H00A9E2F8,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,27,27,24,1
+Style: Karen Sign,Open Sans Semibold,32,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,12,1,2,0,8,187,27,304,1
+Style: Next Episode Title,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00000000,&H00DB9F29,1,0,0,0,100,110,0,0,1,2,0,8,27,27,280,1
+Style: Welcome Sign 2,Open Sans Semibold,36,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,27,27,24,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:13.80,0:00:14.88,Flashback Dialogue,Hayato,0000,0000,0000,,What...
+Dialogue: 0,0:00:14.88,0:00:16.37,Flashback Dialogue,Hayato,0000,0000,0000,,What the hell is going on?!
+Dialogue: 0,0:00:31.38,0:00:32.17,Flashback Dialogue,Hayato,0000,0000,0000,,A Savage.
+Dialogue: 0,0:00:59.55,0:01:00.38,Flashback Dialogue,Hayato,0000,0000,0000,,D...
+Dialogue: 0,0:01:01.04,0:01:03.79,Flashback Dialogue,Hayato,0000,0000,0000,,Don't!
+Dialogue: 0,0:01:20.83,0:01:22.52,Italics Dialogue,Hayato,0000,0000,0000,,Yet another dream about that day...
+Dialogue: 0,0:01:26.15,0:01:28.82,Italics Dialogue,Hayato,0000,0000,0000,,Who was that girl?
+Dialogue: 0,0:01:39.92,0:01:43.23,Italics Dialogue,Hayato,0000,0000,0000,,So that's the academy city-ship, {\i0}Little Garden{\i1}...
+Dialogue: 0,0:01:44.63,0:01:47.69,Italics Dialogue,Hayato,0000,0000,0000,,My home from now on.
+Dialogue: 0,0:03:20.63,0:03:26.76,Episode Title,Hayato,0000,0000,0000,,{\fad(1000,1000)}Little {\c&H01029F&}Garden
+Dialogue: 0,0:03:29.24,0:03:31.64,Main Dialogue,Hayato,0000,0000,0000,,This place is bigger than I thought.
+Dialogue: 0,0:03:32.48,0:03:36.73,Welcome Sign,Hayato,0000,0000,0000,,We Cordially Welcome You
+Dialogue: 0,0:03:32.48,0:03:36.73,Welcome Sign 2,Hayato,0000,0000,0000,,Kisaragi Hayato-kun
+Dialogue: 0,0:03:38.18,0:03:42.18,Main Dialogue,Noa,0000,0000,0000,,Kisaragi-kun! Yes, you, with the highest\NHundred compatibility score of all time!
+Dialogue: 0,0:03:42.18,0:03:43.80,Main Dialogue,Noa,0000,0000,0000,,Kisaragi Hayato-kun!
+Dialogue: 0,0:03:43.80,0:03:45.72,Main Dialogue,Noa,0000,0000,0000,,Where are you?
+Dialogue: 0,0:03:45.72,0:03:48.75,Main Dialogue,Xuemei,0000,0000,0000,,Holler if you can hear us!
+Dialogue: 0,0:03:50.05,0:03:51.76,Main Dialogue,Noa,0000,0000,0000,,That's weird.
+Dialogue: 0,0:03:51.76,0:03:55.55,Main Dialogue,Xuemei,0000,0000,0000,,Maybe he's on a later flight.
+Dialogue: 0,0:04:01.77,0:04:03.27,Main Dialogue,Hayato,0000,0000,0000,,I guess this is it.
+Dialogue: 0,0:04:05.16,0:04:08.63,Main Dialogue,Hayato,0000,0000,0000,,Um, is this where the entrance ceremony will be held?
+Dialogue: 0,0:04:08.63,0:04:10.28,Main Dialogue,Fritz,0000,0000,0000,,Yeah, it is.
+Dialogue: 0,0:04:10.28,0:04:11.75,Main Dialogue,Latia,0000,0000,0000,,Wait!
+Dialogue: 0,0:04:11.75,0:04:14.56,Main Dialogue,Latia,0000,0000,0000,,Are you Kisaragi Hayato?!
+Dialogue: 0,0:04:14.94,0:04:15.48,Main Dialogue,Hayato,0000,0000,0000,,What?
+Dialogue: 0,0:04:15.93,0:04:18.10,Main Dialogue,A,0000,0000,0000,,So you're the one with the all-time record?
+Dialogue: 0,0:04:18.10,0:04:19.57,Main Dialogue,B,0000,0000,0000,,Is it really him?!
+Dialogue: 0,0:04:19.57,0:04:21.43,Main Dialogue,C,0000,0000,0000,,He looks completely normal.
+Dialogue: 0,0:04:21.43,0:04:22.40,Main Dialogue,D,0000,0000,0000,,Give me your autograph!
+Dialogue: 0,0:04:28.71,0:04:30.04,Main Dialogue,Emil,0000,0000,0000,,Hayato!
+Dialogue: 0,0:04:33.12,0:04:36.03,Main Dialogue,Emil,0000,0000,0000,,I couldn't wait to see you, Hayato!
+Dialogue: 0,0:04:35.07,0:04:36.33,Main Dialogue Top,,0000,0000,0000,,Ow, ow, ow...
+Dialogue: 0,0:04:37.96,0:04:39.96,Main Dialogue,Hayato,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:04:40.25,0:04:41.64,Main Dialogue,Emil,0000,0000,0000,,My name is Emile.
+Dialogue: 0,0:04:41.92,0:04:43.55,Main Dialogue,Emil,0000,0000,0000,,Emile Crossfode.
+Dialogue: 0,0:04:43.82,0:04:46.82,Main Dialogue,Emil,0000,0000,0000,,I'm also a new student here \Nat the {\i1}Little Garden.{\i0}
+Dialogue: 0,0:04:47.17,0:04:47.98,Main Dialogue,Emil,0000,0000,0000,,Let's get along, 'kay?
+Dialogue: 0,0:04:51.39,0:04:53.08,Main Dialogue,Hayato,0000,0000,0000,,S-Sure.
+Dialogue: 0,0:04:54.09,0:04:55.60,Main Dialogue,Latia,0000,0000,0000,,I'm sorry, Hayato.
+Dialogue: 0,0:04:55.60,0:04:57.71,Main Dialogue,Latia,0000,0000,0000,,I shouldn't have yelled out like that.
+Dialogue: 0,0:04:57.71,0:04:59.10,Main Dialogue,Fritz,0000,0000,0000,,That's right, Reitia.
+Dialogue: 0,0:04:59.10,0:05:00.30,Main Dialogue,Fritz,0000,0000,0000,,Apologize.
+Dialogue: 0,0:05:01.19,0:05:02.22,Main Dialogue,Latia,0000,0000,0000,,Fritz!
+Dialogue: 0,0:05:02.22,0:05:04.71,Main Dialogue,Latia,0000,0000,0000,,I told you to stop treating me like a kid.
+Dialogue: 0,0:05:04.71,0:05:07.84,Main Dialogue,Fritz,0000,0000,0000,,It's your fault for having your head\Nat such a perfect height.
+Dialogue: 0,0:05:09.46,0:05:11.97,Main Dialogue,Emil,0000,0000,0000,,They've been friends since they were kids.
+Dialogue: 0,0:05:12.31,0:05:14.28,Main Dialogue,Emil,0000,0000,0000,,They're really close, huh?
+Dialogue: 0,0:05:14.70,0:05:16.29,Main Dialogue,Hayato,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:05:16.84,0:05:20.61,Main Dialogue,Fritz,0000,0000,0000,,You guys are pretty close yourself,\Neven though you just met.
+Dialogue: 0,0:05:21.12,0:05:24.26,Main Dialogue,Latia,0000,0000,0000,,Yes. It's almost like you're not both guys.
+Dialogue: 0,0:05:25.24,0:05:27.02,Main Dialogue,Emil,0000,0000,0000,,Really?
+Dialogue: 0,0:05:27.62,0:05:29.26,Main Dialogue,Emil,0000,0000,0000,,What should we do, Hayato?
+Dialogue: 0,0:05:32.31,0:05:35.77,Main Dialogue,Erica,0000,0000,0000,,I would like to welcome \Nall the new students here.
+Dialogue: 0,0:05:36.17,0:05:37.86,Main Dialogue,Erica,0000,0000,0000,,We're your MCs for today...
+Dialogue: 0,0:05:37.86,0:05:39.95,Main Dialogue,Erica,0000,0000,0000,,Second-year military arts\Nstudent at the {\i1}Little Garden{\i0}
+Dialogue: 0,0:05:39.95,0:05:42.82,Main Dialogue,Erica,0000,0000,0000,,and student council vice president, \NErica Candle.
+Dialogue: 0,0:05:43.45,0:05:45.99,Main Dialogue,Liddy,0000,0000,0000,,Likewise. Liddy Steinberg.
+Dialogue: 0,0:05:46.67,0:05:50.06,Main Dialogue,Liddy,0000,0000,0000,,The captain of the {\i1}Little Garden,{\i0}
+Dialogue: 0,0:05:50.06,0:05:53.99,Main Dialogue,Liddy,0000,0000,0000,,as well as our president, Claire Harvey, \Nwill greet you.
+Dialogue: 0,0:05:57.19,0:05:59.29,Main Dialogue,Hayato,0000,0000,0000,,That's the student council president.
+Dialogue: 0,0:05:59.59,0:06:00.43,Main Dialogue,Fritz,0000,0000,0000,,Yeah.
+Dialogue: 0,0:06:00.88,0:06:03.32,Main Dialogue,Fritz,0000,0000,0000,,The queen, Claire Harvey.
+Dialogue: 0,0:06:10.10,0:06:11.38,Main Dialogue,Noa,0000,0000,0000,,Sorry...
+Dialogue: 0,0:06:11.38,0:06:13.58,Main Dialogue,Noa,0000,0000,0000,,Sorry we're late!
+Dialogue: 0,0:06:14.72,0:06:15.78,Italics Dialogue,Hayato,0000,0000,0000,,Those two...
+Dialogue: 0,0:06:16.48,0:06:19.02,Main Dialogue,Claire,0000,0000,0000,,Late for the entrance ceremony,\Nright off the bat?
+Dialogue: 0,0:06:19.02,0:06:20.83,Main Dialogue,Claire,0000,0000,0000,,You two sure have some nerve.
+Dialogue: 0,0:06:20.83,0:06:22.31,Main Dialogue,Noa,0000,0000,0000,,W-We're sorry!
+Dialogue: 0,0:06:22.31,0:06:25.36,Main Dialogue,Noa,0000,0000,0000,,We had gone to the airport \Nto pick up Kisaragi-kun.
+Dialogue: 0,0:06:25.69,0:06:28.52,Main Dialogue,Noa,0000,0000,0000,,But we couldn't find him, and then...
+Dialogue: 0,0:06:28.52,0:06:29.36,Main Dialogue,Liddy,0000,0000,0000,,Enough excuses!
+Dialogue: 0,0:06:30.82,0:06:33.96,Main Dialogue,Liddy,0000,0000,0000,,Kisaragi Hayato has been \Nright there this whole time.
+Dialogue: 0,0:06:34.49,0:06:34.91,Main Dialogue,Hayato,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:37.28,0:06:40.09,Main Dialogue,Claire,0000,0000,0000,,Noa Sheldon. Liu Xuemei.
+Dialogue: 0,0:06:40.46,0:06:45.50,Main Dialogue,Claire,0000,0000,0000,,There is no place in the {\i1}Little Garden{\i0}\Nfor those who cannot follow the rules.
+Dialogue: 0,0:06:45.50,0:06:48.67,Main Dialogue,Claire,0000,0000,0000,,Collect your things and leave.
+Dialogue: 0,0:06:54.52,0:06:56.34,Main Dialogue,Hayato,0000,0000,0000,,I... uh....
+Dialogue: 0,0:06:56.34,0:06:58.17,Main Dialogue,Emil,0000,0000,0000,,I think you're being kind of harsh here!
+Dialogue: 0,0:06:58.17,0:06:59.44,Main Dialogue,Hayato,0000,0000,0000,,E-Emile?
+Dialogue: 0,0:07:01.41,0:07:03.60,Main Dialogue,Hayato,0000,0000,0000,,Student council president or not,
+Dialogue: 0,0:07:03.60,0:07:05.65,Main Dialogue,Hayato,0000,0000,0000,,you can't just kick them out\Nfor making one mistake.
+Dialogue: 0,0:07:05.65,0:07:06.94,Main Dialogue,Hayato,0000,0000,0000,,That's awful!
+Dialogue: 0,0:07:06.94,0:07:07.33,Main Dialogue,Hayato,0000,0000,0000,,Hey!
+Dialogue: 0,0:07:07.33,0:07:08.81,Main Dialogue,Emil,0000,0000,0000,,Don't stop me, Hayato!
+Dialogue: 0,0:07:09.13,0:07:12.35,Main Dialogue,Emil,0000,0000,0000,,I can't stand people who \Nabuse their power like that.
+Dialogue: 0,0:07:12.35,0:07:13.07,Main Dialogue,Hayato,0000,0000,0000,,Yeah, but...
+Dialogue: 0,0:07:13.38,0:07:15.58,Main Dialogue,Liddy,0000,0000,0000,,You two are in no position to speak here.
+Dialogue: 0,0:07:15.90,0:07:17.43,Main Dialogue,Hayato,0000,0000,0000,,W-We're sorry.
+Dialogue: 0,0:07:18.50,0:07:23.21,Main Dialogue,Hayato,0000,0000,0000,,I-It's just that... I don't really think\Nthey should be expelled just like that.
+Dialogue: 0,0:07:24.55,0:07:26.04,Main Dialogue,Claire,0000,0000,0000,,Kisaragi Hayato.
+Dialogue: 0,0:07:28.05,0:07:31.41,Main Dialogue,Claire,0000,0000,0000,,No, I will say this to everyone here.
+Dialogue: 0,0:07:31.71,0:07:34.84,Main Dialogue,Claire,0000,0000,0000,,You are not just students.
+Dialogue: 0,0:07:34.84,0:07:39.31,Main Dialogue,Claire,0000,0000,0000,,You are fledgling Slayers that will \Nrisk their lives to fight the Savages.
+Dialogue: 0,0:07:39.31,0:07:44.00,Main Dialogue,Claire,0000,0000,0000,,On the battlefield,\N a single mistake can prove fatal
+Dialogue: 0,0:07:44.00,0:07:46.74,Main Dialogue,Claire,0000,0000,0000,,and destroy an entire squadron.
+Dialogue: 0,0:07:46.74,0:07:49.08,Main Dialogue,Claire,0000,0000,0000,,It is not a matter of frequency.
+Dialogue: 0,0:07:49.08,0:07:51.28,Main Dialogue,Claire,0000,0000,0000,,Failure to follow orders will lead to death.
+Dialogue: 0,0:07:51.67,0:07:54.90,Main Dialogue,Emil,0000,0000,0000,,But there are times when \Norders can prove incorrect!
+Dialogue: 0,0:07:54.90,0:07:57.83,Main Dialogue,Erica,0000,0000,0000,,That's enough, Emile Crossfode.
+Dialogue: 0,0:07:57.83,0:08:01.29,Main Dialogue,Erica,0000,0000,0000,,Claire-sama's orders are absolute. She is\Nthe queen of our military arts department.
+Dialogue: 0,0:08:01.29,0:08:03.13,Main Dialogue,Emil,0000,0000,0000,,"Queen," my foot!
+Dialogue: 0,0:08:03.13,0:08:06.79,Main Dialogue,Emil,0000,0000,0000,,Hayato has a higher\NHundred compatibility score.
+Dialogue: 0,0:08:06.79,0:08:07.64,Main Dialogue,Hayato,0000,0000,0000,,H-Hey!
+Dialogue: 0,0:08:07.64,0:08:10.49,Main Dialogue,Liddy,0000,0000,0000,,Emile Crossfode, if you try \Nto demean her any further,
+Dialogue: 0,0:08:10.49,0:08:11.90,Main Dialogue,Liddy,0000,0000,0000,,you'll be expelled, as well!
+Dialogue: 0,0:08:11.90,0:08:12.98,Main Dialogue,Emil,0000,0000,0000,,Bring it on!
+Dialogue: 0,0:08:12.98,0:08:13.85,Main Dialogue,Emil,0000,0000,0000,,Just you try—
+Dialogue: 0,0:08:13.15,0:08:14.18,Main Dialogue Top,Hayato,0000,0000,0000,,Hey!
+Dialogue: 0,0:08:15.77,0:08:16.87,Main Dialogue,Claire,0000,0000,0000,,Very well.
+Dialogue: 0,0:08:17.78,0:08:23.81,Main Dialogue,Claire,0000,0000,0000,,As you wish, you will be expelled \Nalong with the previous two.
+Dialogue: 0,0:08:25.73,0:08:27.68,Main Dialogue,Hayato,0000,0000,0000,,Hey, stop going crazy!
+Dialogue: 0,0:08:27.92,0:08:29.44,Main Dialogue,Claire,0000,0000,0000,,Kisaragi Hayato.
+Dialogue: 0,0:08:29.44,0:08:30.66,Main Dialogue,Hayato,0000,0000,0000,,Y-Yes!
+Dialogue: 0,0:08:31.45,0:08:34.45,Main Dialogue,Claire,0000,0000,0000,,Do you object to their expulsion?
+Dialogue: 0,0:08:35.80,0:08:36.95,Main Dialogue,Hayato,0000,0000,0000,,Um...
+Dialogue: 0,0:08:37.31,0:08:38.45,Main Dialogue,Claire,0000,0000,0000,,Do you?
+Dialogue: 0,0:08:39.74,0:08:40.86,Main Dialogue,Hayato,0000,0000,0000,,I...
+Dialogue: 0,0:08:44.70,0:08:45.54,Main Dialogue,Hayato,0000,0000,0000,,I do!
+Dialogue: 0,0:08:46.74,0:08:47.46,Main Dialogue,,0000,0000,0000,,Wha—
+Dialogue: 0,0:08:47.46,0:08:48.71,Main Dialogue,,0000,0000,0000,,Dude!
+Dialogue: 0,0:08:52.73,0:08:56.52,Main Dialogue,Hayato,0000,0000,0000,,The two girls were late because \Nthey were looking for me,
+Dialogue: 0,0:08:56.82,0:08:58.84,Main Dialogue,Hayato,0000,0000,0000,,and if that hadn't happened, \NEmile wouldn't have...
+Dialogue: 0,0:08:59.55,0:09:00.69,Main Dialogue,Emil,0000,0000,0000,,Hayato...
+Dialogue: 0,0:09:00.69,0:09:03.89,Main Dialogue,Hayato,0000,0000,0000,,So I know I'm in no position to say this,
+Dialogue: 0,0:09:04.50,0:09:06.56,Main Dialogue,Hayato,0000,0000,0000,,but I ask that you please be lenient.
+Dialogue: 0,0:09:06.92,0:09:09.77,Main Dialogue,Liddy,0000,0000,0000,,Kisaragi Hayato, know your place!
+Dialogue: 0,0:09:09.77,0:09:10.94,Main Dialogue,Claire,0000,0000,0000,,Very well.
+Dialogue: 0,0:09:11.60,0:09:12.54,Main Dialogue,Liddy,0000,0000,0000,,President!
+Dialogue: 0,0:09:16.15,0:09:17.74,Main Dialogue,Claire,0000,0000,0000,,How about this, then?
+Dialogue: 0,0:09:20.45,0:09:21.87,Main Dialogue,Claire,0000,0000,0000,,Kisaragi Hayato.
+Dialogue: 0,0:09:22.43,0:09:24.37,Main Dialogue,Claire,0000,0000,0000,,I, Claire Harvey,
+Dialogue: 0,0:09:24.78,0:09:27.37,Main Dialogue,Claire,0000,0000,0000,,challenge you to a duel.
+Dialogue: 0,0:09:30.61,0:09:33.75,Main Dialogue,Claire,0000,0000,0000,,If you beat me, I will \Nreverse their expulsion.
+Dialogue: 0,0:09:33.75,0:09:35.81,Main Dialogue,Claire,0000,0000,0000,,We'll do this tomorrow afternoon.
+Dialogue: 0,0:09:35.81,0:09:38.13,Main Dialogue,Claire,0000,0000,0000,,The place will be the main colosseum.
+Dialogue: 0,0:09:38.39,0:09:40.42,Main Dialogue,Hayato,0000,0000,0000,,H-Hold on a second. I still—
+Dialogue: 0,0:09:40.42,0:09:41.63,Main Dialogue,Emil,0000,0000,0000,,You're on!
+Dialogue: 0,0:09:41.63,0:09:42.99,Main Dialogue,Hayato,0000,0000,0000,,Who asked you to decide?!
+Dialogue: 0,0:09:42.99,0:09:44.20,Main Dialogue,Emil,0000,0000,0000,,Let's do it, Hayato!
+Dialogue: 0,0:09:44.20,0:09:44.89,Main Dialogue,Hayato,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:45.31,0:09:47.39,Main Dialogue,Emil,0000,0000,0000,,You can definitely beat her!
+Dialogue: 0,0:09:50.25,0:09:51.92,Main Dialogue,Hayato,0000,0000,0000,,Uh... Um...
+Dialogue: 0,0:09:51.92,0:09:53.08,Main Dialogue,Hayato,0000,0000,0000,,Hold on...
+Dialogue: 0,0:09:53.62,0:09:54.82,Main Dialogue,Hayato,0000,0000,0000,,What?
+Dialogue: 0,0:09:56.66,0:09:58.16,Main Dialogue,Hayato,0000,0000,0000,,What were you thinking?
+Dialogue: 0,0:09:59.06,0:10:01.32,Main Dialogue,Hayato,0000,0000,0000,,You can't just accept a duel like that.
+Dialogue: 0,0:10:01.32,0:10:04.99,Main Dialogue,Hayato,0000,0000,0000,,I'm going up against the queen,\Nthe strongest person in the {\i1}Little Garden.{\i0}
+Dialogue: 0,0:10:04.99,0:10:06.82,Main Dialogue,Emil,0000,0000,0000,,You'll be fine, Hayato.
+Dialogue: 0,0:10:06.82,0:10:08.31,Main Dialogue,Emil,0000,0000,0000,,I'm sure you can win.
+Dialogue: 0,0:10:09.94,0:10:11.59,Main Dialogue,Hayato,0000,0000,0000,,What are you even basing that on?
+Dialogue: 0,0:10:12.05,0:10:13.85,Main Dialogue,Emil,0000,0000,0000,,It'll be fine.
+Dialogue: 0,0:10:14.75,0:10:15.26,Main Dialogue,Emil,0000,0000,0000,,Come on.
+Dialogue: 0,0:10:15.26,0:10:15.93,Main Dialogue,Hayato,0000,0000,0000,,Oh.
+Dialogue: 0,0:10:17.85,0:10:20.10,Main Dialogue,Emil,0000,0000,0000,,I'll introduce you to my good friend.
+Dialogue: 0,0:10:20.10,0:10:21.10,Main Dialogue,Hayato,0000,0000,0000,,Good friend?
+Dialogue: 0,0:10:21.70,0:10:24.69,Main Dialogue,Hayato,0000,0000,0000,,The main technologist on the {\i1}Little Garden,{\i0}
+Dialogue: 0,0:10:24.69,0:10:26.93,Main Dialogue,Hayato,0000,0000,0000,,the chief researcher of the Hundred.
+Dialogue: 0,0:10:31.08,0:10:33.44,Main Dialogue,Char,0000,0000,0000,,So you're Kisaragi Hayato-kun.
+Dialogue: 0,0:10:34.17,0:10:36.54,Main Dialogue,Char,0000,0000,0000,,My name is Charlotte Dimandius.
+Dialogue: 0,0:10:36.94,0:10:38.45,Main Dialogue,Char,0000,0000,0000,,Call me Char.
+Dialogue: 0,0:10:38.75,0:10:40.18,Main Dialogue,Hayato,0000,0000,0000,,S-Sure.
+Dialogue: 0,0:10:40.75,0:10:43.05,Main Dialogue,Hayato,0000,0000,0000,,N-Nice to meet you.
+Dialogue: 0,0:10:43.05,0:10:43.60,Main Dialogue,Hayato,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:43.60,0:10:44.54,Main Dialogue,Meimei,0000,0000,0000,,Sniff sniff sniff.
+Dialogue: 0,0:10:44.62,0:10:45.59,Main Dialogue,Meimei,0000,0000,0000,,Sniff sniff sniff.
+Dialogue: 0,0:10:45.59,0:10:46.60,Main Dialogue,Hayato,0000,0000,0000,,What is it?
+Dialogue: 0,0:10:48.22,0:10:50.65,Main Dialogue,Meimei,0000,0000,0000,,You're from the Empire of Yamato,
+Dialogue: 0,0:10:50.65,0:10:53.17,Main Dialogue,Meimei,0000,0000,0000,,but you don't smell like soy sauce.
+Dialogue: 0,0:10:53.59,0:10:56.09,Main Dialogue,Hayato,0000,0000,0000,,We normally don't...
+Dialogue: 0,0:10:58.31,0:11:00.80,Main Dialogue,Char,0000,0000,0000,,You might think she's pretty weird,
+Dialogue: 0,0:11:00.80,0:11:03.93,Main Dialogue,Char,0000,0000,0000,,but she's actually my talented assistant.
+Dialogue: 0,0:11:03.93,0:11:06.10,Main Dialogue,Meimei,0000,0000,0000,,Nice to meet you. I'm Meimei.
+Dialogue: 0,0:11:06.49,0:11:07.60,Main Dialogue,Hayato,0000,0000,0000,,Nice to meet you.
+Dialogue: 0,0:11:07.60,0:11:11.60,Main Dialogue,Emil,0000,0000,0000,,And Char over here is smart enough \Nto be called a child prodigy.
+Dialogue: 0,0:11:11.60,0:11:12.60,Main Dialogue,Hayato,0000,0000,0000,,Really?
+Dialogue: 0,0:11:13.00,0:11:15.28,Main Dialogue,Char,0000,0000,0000,,Are you trying to insult me?
+Dialogue: 0,0:11:15.28,0:11:18.61,Main Dialogue,Char,0000,0000,0000,,I'm actually old enough to get married, you know?
+Dialogue: 0,0:11:18.61,0:11:19.95,Main Dialogue,Char,0000,0000,0000,,Emil—
+Dialogue: 0,0:11:20.24,0:11:24.22,Main Dialogue,Emil,0000,0000,0000,,Char, my name is Emile.
+Dialogue: 0,0:11:24.22,0:11:26.51,Main Dialogue,Emil,0000,0000,0000,,Did you forget?
+Dialogue: 0,0:11:26.51,0:11:30.26,Main Dialogue,Char,0000,0000,0000,,Jorry aboud dat, Emile.
+Dialogue: 0,0:11:31.48,0:11:31.96,Main Dialogue,Hayato,0000,0000,0000,,Hmm?
+Dialogue: 0,0:11:32.23,0:11:34.50,Main Dialogue,Char,0000,0000,0000,,But I was surprised.
+Dialogue: 0,0:11:34.88,0:11:37.94,Main Dialogue,Char,0000,0000,0000,,A guy who's never used Hundred before
+Dialogue: 0,0:11:37.94,0:11:40.93,Main Dialogue,Char,0000,0000,0000,,is going to duel with Claire Harvey.
+Dialogue: 0,0:11:40.93,0:11:42.68,Main Dialogue,Emil,0000,0000,0000,,You sure get your news fast.
+Dialogue: 0,0:11:43.22,0:11:45.22,Main Dialogue,Char,0000,0000,0000,,LiZA told me.
+Dialogue: 0,0:11:45.58,0:11:46.60,Main Dialogue,,0000,0000,0000,,LiZA?
+Dialogue: 0,0:11:47.20,0:11:50.40,Main Dialogue,Char,0000,0000,0000,,This autonomous computer that controls
+Dialogue: 0,0:11:50.40,0:11:52.10,Main Dialogue,Char,0000,0000,0000,,everything in the {\i1}Little Garden.{\i0}
+Dialogue: 0,0:11:53.18,0:11:55.59,Main Dialogue,Char,0000,0000,0000,,She can also express herself\Nand communicate with people.
+Dialogue: 0,0:11:55.99,0:11:58.31,Main Dialogue,Hayato,0000,0000,0000,,So this is LiZA?
+Dialogue: 0,0:11:58.84,0:12:00.49,Main Dialogue,LiZA,0000,0000,0000,,Exactly.
+Dialogue: 0,0:12:04.66,0:12:08.04,Main Dialogue,Char,0000,0000,0000,,This is your Hundred.
+Dialogue: 0,0:12:08.65,0:12:11.00,Main Dialogue,Char,0000,0000,0000,,I should explain before I give this to you.
+Dialogue: 0,0:12:11.78,0:12:17.37,Main Dialogue,Char,0000,0000,0000,,The Hundred are the only effective weapons\Nagainst the Savage lifeforms.
+Dialogue: 0,0:12:18.07,0:12:23.84,Main Dialogue,Char,0000,0000,0000,,However, only humans which respond \Nto variable stones can use them.
+Dialogue: 0,0:12:26.23,0:12:29.47,Main Dialogue,Char,0000,0000,0000,,We call them Slayers.
+Dialogue: 0,0:12:30.29,0:12:34.91,Main Dialogue,Char,0000,0000,0000,,The Hundred change into a ton of forms\Nbased on who uses them.
+Dialogue: 0,0:12:35.48,0:12:39.57,Main Dialogue,Char,0000,0000,0000,,That is where the Century Armaments,\Nor Hundred, get their name from.
+Dialogue: 0,0:12:40.92,0:12:43.65,Main Dialogue,Char,0000,0000,0000,,Claire Harvey uses this.
+Dialogue: 0,0:12:43.65,0:12:46.18,Main Dialogue,Char,0000,0000,0000,,Floating cannons that she can control at will.
+Dialogue: 0,0:12:51.22,0:12:53.60,Main Dialogue,Char,0000,0000,0000,,A dragoon type.
+Dialogue: 0,0:12:54.66,0:12:56.75,Main Dialogue,Emil,0000,0000,0000,,She's strong, unsurprisingly.
+Dialogue: 0,0:12:57.14,0:13:00.81,Main Dialogue,Char,0000,0000,0000,,The Hundred take different forms \Nand vary in their ways of fighting.
+Dialogue: 0,0:13:02.56,0:13:05.51,Main Dialogue,Char,0000,0000,0000,,But there's only one ultimate goal:
+Dialogue: 0,0:13:08.41,0:13:10.89,Main Dialogue,Char,0000,0000,0000,,to protect humanity.
+Dialogue: 0,0:13:12.53,0:13:16.38,Main Dialogue,Char,0000,0000,0000,,Hayato-kun, when you take \Nhold of your Hundred,
+Dialogue: 0,0:13:16.38,0:13:18.35,Main Dialogue,Char,0000,0000,0000,,you will be entrusted with \Nthat responsibility.
+Dialogue: 0,0:13:19.33,0:13:20.90,Main Dialogue,Char,0000,0000,0000,,Are you ready?
+Dialogue: 0,0:13:25.76,0:13:26.47,Main Dialogue,Hayato,0000,0000,0000,,Yes.
+Dialogue: 0,0:13:27.28,0:13:28.91,Main Dialogue,Char,0000,0000,0000,,Good response.
+Dialogue: 0,0:13:35.15,0:13:37.88,Italics Dialogue,Hayato,0000,0000,0000,,This is my Hundred.
+Dialogue: 0,0:13:37.88,0:13:40.29,Main Dialogue,Char,0000,0000,0000,,I got an area for you to practice.
+Dialogue: 0,0:13:40.60,0:13:44.21,Main Dialogue,Char,0000,0000,0000,,Change into your variable suit \Nand use it freely.
+Dialogue: 0,0:13:44.73,0:13:46.90,Main Dialogue,Hayato,0000,0000,0000,,So this is a variable suit.
+Dialogue: 0,0:13:47.38,0:13:49.61,Main Dialogue,Hayato,0000,0000,0000,,It's a pretty tight fit.
+Dialogue: 0,0:13:50.22,0:13:51.46,Main Dialogue,Emil,0000,0000,0000,,Yeah.
+Dialogue: 0,0:13:51.46,0:13:55.16,Main Dialogue,Emil,0000,0000,0000,,This suit also takes a different form, \Ndepending on the person...
+Dialogue: 0,0:13:56.49,0:13:58.61,Main Dialogue,Emil,0000,0000,0000,,What are you staring at?
+Dialogue: 0,0:13:59.47,0:14:02.04,Main Dialogue,Hayato,0000,0000,0000,,We're both guys. Why are you \Ngetting all embarrassed?
+Dialogue: 0,0:14:02.35,0:14:05.27,Main Dialogue,Emil,0000,0000,0000,,Just get your Hundred out already.
+Dialogue: 0,0:14:05.27,0:14:06.44,Main Dialogue,Hayato,0000,0000,0000,,S-Sure.
+Dialogue: 0,0:14:07.55,0:14:11.40,Main Dialogue,Emil,0000,0000,0000,,Take hold of your Hundred and strongly \Nwill it to become a weapon.
+Dialogue: 0,0:14:11.78,0:14:15.40,Main Dialogue,Emil,0000,0000,0000,,Saying "Hundred On" will release it.
+Dialogue: 0,0:14:15.40,0:14:16.51,Main Dialogue,Hayato,0000,0000,0000,,Got it.
+Dialogue: 0,0:14:16.51,0:14:18.29,Main Dialogue,Emil,0000,0000,0000,,Now let's give it a try.
+Dialogue: 0,0:14:18.29,0:14:18.96,Main Dialogue,Hayato,0000,0000,0000,,Sure.
+Dialogue: 0,0:14:33.97,0:14:35.50,Main Dialogue,Hayato,0000,0000,0000,,Hundred On.
+Dialogue: 0,0:15:01.56,0:15:03.34,Italics Dialogue,Char,0000,0000,0000,,Good job, Hayato-kun.
+Dialogue: 0,0:15:04.57,0:15:07.62,Italics Dialogue,Char,0000,0000,0000,,That's your Hundred, Flying Swallow.
+Dialogue: 0,0:15:07.62,0:15:09.75,Italics Dialogue,Char,0000,0000,0000,,It's a chevalier type.
+Dialogue: 0,0:15:13.18,0:15:14.15,Main Dialogue,Hayato,0000,0000,0000,,Flying Swallow.
+Dialogue: 0,0:15:14.71,0:15:16.35,Main Dialogue,Hayato,0000,0000,0000,,My Hundred.
+Dialogue: 0,0:15:16.58,0:15:20.18,Main Dialogue,Emil,0000,0000,0000,,I knew your Hundred would be cool!
+Dialogue: 0,0:15:20.18,0:15:21.60,Main Dialogue,Emil,0000,0000,0000,,All right. Me, too!
+Dialogue: 0,0:15:21.60,0:15:22.35,Main Dialogue,Hayato,0000,0000,0000,,Emile,
+Dialogue: 0,0:15:22.89,0:15:26.02,Main Dialogue,Hayato,0000,0000,0000,,you already have your Hundred?
+Dialogue: 0,0:15:26.02,0:15:26.86,Main Dialogue,Emil,0000,0000,0000,,Yeah.
+Dialogue: 0,0:15:27.36,0:15:29.00,Main Dialogue,Emil,0000,0000,0000,,Some stuff happened.
+Dialogue: 0,0:15:31.20,0:15:32.92,Main Dialogue,Emil,0000,0000,0000,,Hundred On.
+Dialogue: 0,0:15:53.33,0:15:56.39,Main Dialogue,Hayato,0000,0000,0000,,What's that Hundred?
+Dialogue: 0,0:15:56.89,0:15:58.75,Main Dialogue,Emil,0000,0000,0000,,This is the Arms Shroud.
+Dialogue: 0,0:15:58.75,0:16:01.89,Main Dialogue,Emil,0000,0000,0000,,My innocence type is a bit special.
+Dialogue: 0,0:16:02.14,0:16:03.77,Main Dialogue,Hayato,0000,0000,0000,,Innocence type?
+Dialogue: 0,0:16:04.33,0:16:06.65,Main Dialogue,Emil,0000,0000,0000,,In any event, the duel is tomorrow.
+Dialogue: 0,0:16:06.65,0:16:08.03,Main Dialogue,Emil,0000,0000,0000,,We don't have time.
+Dialogue: 0,0:16:08.40,0:16:10.46,Main Dialogue,Emil,0000,0000,0000,,So we're going to have a trial by fire.
+Dialogue: 0,0:16:12.05,0:16:13.49,Main Dialogue,Emil,0000,0000,0000,,Fire.
+Dialogue: 0,0:16:23.14,0:16:25.02,Main Dialogue,Emil,0000,0000,0000,,That's pretty impressive, Hayato!
+Dialogue: 0,0:16:25.02,0:16:27.56,Main Dialogue,Emil,0000,0000,0000,,You're already able to put up \Nan energy barrier!
+Dialogue: 0,0:16:27.56,0:16:29.74,Main Dialogue,Hayato,0000,0000,0000,,I wasn't even...
+Dialogue: 0,0:16:30.16,0:16:31.66,Main Dialogue,Hayato,0000,0000,0000,,Wait, Emile!
+Dialogue: 0,0:16:31.66,0:16:33.63,Main Dialogue,Hayato,0000,0000,0000,,Who just attacks a person \Nout of nowhere like that?!
+Dialogue: 0,0:16:33.87,0:16:35.94,Main Dialogue,Emil,0000,0000,0000,,The student council president\N won't go easy on you!
+Dialogue: 0,0:16:36.26,0:16:37.70,Main Dialogue,Hayato,0000,0000,0000,,Y-You moron!
+Dialogue: 0,0:16:41.64,0:16:42.43,Main Dialogue,Emil,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:47.47,0:16:49.17,Main Dialogue,Hayato,0000,0000,0000,,Ow...
+Dialogue: 0,0:16:49.42,0:16:51.57,Main Dialogue,Emil,0000,0000,0000,,Awesome! That was awesome, Hayato!
+Dialogue: 0,0:16:51.89,0:16:54.35,Main Dialogue,Emil,0000,0000,0000,,You can win! There's no question!
+Dialogue: 0,0:16:54.35,0:16:56.31,Main Dialogue,Hayato,0000,0000,0000,,Y-Yeah, right!
+Dialogue: 0,0:16:56.31,0:16:58.39,Main Dialogue,Emil,0000,0000,0000,,I came up with a plan.
+Dialogue: 0,0:16:58.39,0:16:59.33,Main Dialogue,Hayato,0000,0000,0000,,Plan?
+Dialogue: 0,0:17:01.05,0:17:02.83,Main Dialogue,Emil,0000,0000,0000,,As such,
+Dialogue: 0,0:17:02.83,0:17:05.29,Main Dialogue,Emil,0000,0000,0000,,I'm going to ride you hard!
+Dialogue: 0,0:17:05.59,0:17:07.71,Main Dialogue,Hayato,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:17:12.68,0:17:14.75,Main Dialogue,Emil,0000,0000,0000,,Good job hanging in there, Hayato.
+Dialogue: 0,0:17:14.75,0:17:17.39,Main Dialogue,Emil,0000,0000,0000,,Now you'll definitely win tomorrow's duel.
+Dialogue: 0,0:17:17.65,0:17:19.62,Main Dialogue,Hayato,0000,0000,0000,,I'm not sure it'll go so well.
+Dialogue: 0,0:17:20.67,0:17:21.32,Main Dialogue,Hayato,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:22.55,0:17:24.52,Main Dialogue,Hayato,0000,0000,0000,,Shoot. It's my sister.
+Dialogue: 0,0:17:24.52,0:17:26.52,Karen Sign,Hayato,0000,0000,0000,,{\3c&HDDDDDD&}Karen
+Dialogue: 0,0:17:26.86,0:17:31.30,Main Dialogue,Hayato,0000,0000,0000,,I forgot I'd promised to go to the hospital\Nright after the entrance ceremony.
+Dialogue: 0,0:17:31.70,0:17:33.02,Main Dialogue,Emil,0000,0000,0000,,Hospital?
+Dialogue: 0,0:17:33.02,0:17:35.30,Main Dialogue,Emil,0000,0000,0000,,Is your sister hospitalized?
+Dialogue: 0,0:17:35.30,0:17:38.16,Main Dialogue,Hayato,0000,0000,0000,,Yeah. She's not exactly healthy.
+Dialogue: 0,0:17:40.00,0:17:44.97,Main Dialogue,Hayato,0000,0000,0000,,I came to the {\i1}Little Garden{\i0} on the condition\Nthat she'd get cutting-edge medical care.
+Dialogue: 0,0:17:45.99,0:17:48.87,Main Dialogue,Hayato,0000,0000,0000,,Sorry, Emile. Head back to the dorm on your own.
+Dialogue: 0,0:17:48.87,0:17:50.92,Main Dialogue,Emil,0000,0000,0000,,S-Sure.
+Dialogue: 0,0:17:53.43,0:17:54.42,Main Dialogue,Emil,0000,0000,0000,,I'm sorry, Karen!
+Dialogue: 0,0:17:54.67,0:17:56.30,Main Dialogue,Emil,0000,0000,0000,,My bad!
+Dialogue: 0,0:17:58.97,0:18:02.26,Main Dialogue,Emil,0000,0000,0000,,Hey, could you forgive me already?
+Dialogue: 0,0:18:02.90,0:18:04.14,Main Dialogue,Karen,0000,0000,0000,,In that case...
+Dialogue: 0,0:18:09.33,0:18:10.97,Main Dialogue,Hayato,0000,0000,0000,,What am I gonna do with you?
+Dialogue: 0,0:18:18.29,0:18:19.70,Main Dialogue,Karen,0000,0000,0000,,I forgive you.
+Dialogue: 0,0:18:21.72,0:18:22.63,Main Dialogue,Karen,0000,0000,0000,,Oh, yeah.
+Dialogue: 0,0:18:22.63,0:18:24.72,Main Dialogue,Karen,0000,0000,0000,,How was the entrance ceremony?
+Dialogue: 0,0:18:25.13,0:18:28.02,Main Dialogue,Hayato,0000,0000,0000,,W-Well, you see...
+Dialogue: 0,0:18:28.02,0:18:30.32,Main Dialogue,Hayato,0000,0000,0000,,A lot happened.
+Dialogue: 0,0:18:31.45,0:18:32.36,Main Dialogue,Karen,0000,0000,0000,,Come in.
+Dialogue: 0,0:18:33.68,0:18:34.42,Main Dialogue,Hayato,0000,0000,0000,,Torpedoes!
+Dialogue: 0,0:18:35.92,0:18:38.86,Main Dialogue,Miharu,0000,0000,0000,,Sorry to interrupt, Karen-chan,
+Dialogue: 0,0:18:38.86,0:18:41.43,Main Dialogue,Miharu,0000,0000,0000,,but it's almost the end of visiting hours.
+Dialogue: 0,0:18:41.69,0:18:43.53,Main Dialogue,Karen,0000,0000,0000,,What? Already?
+Dialogue: 0,0:18:43.53,0:18:45.43,Main Dialogue,Hayato,0000,0000,0000,,I... I'm sorry.
+Dialogue: 0,0:18:45.81,0:18:47.04,Main Dialogue,Hayato,0000,0000,0000,,I'll be leaving now.
+Dialogue: 0,0:18:47.04,0:18:48.25,Main Dialogue,Karen,0000,0000,0000,,You perv.
+Dialogue: 0,0:18:48.25,0:18:48.86,Main Dialogue,Hayato,0000,0000,0000,,What?
+Dialogue: 0,0:18:48.86,0:18:51.16,Main Dialogue,Karen,0000,0000,0000,,You're getting all flustered\Nlooking at Miharu's boobs.
+Dialogue: 0,0:18:51.16,0:18:53.27,Main Dialogue,Hayato,0000,0000,0000,,S-Stupid! I'm not...
+Dialogue: 0,0:18:57.93,0:19:00.03,Main Dialogue,Hayato,0000,0000,0000,,It got pretty late.
+Dialogue: 0,0:19:03.54,0:19:05.36,Main Dialogue,Hayato,0000,0000,0000,,The lights are on?
+Dialogue: 0,0:19:07.24,0:19:07.79,Main Dialogue,Hayato,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:11.91,0:19:12.88,Main Dialogue,Hayato,0000,0000,0000,,Emile?
+Dialogue: 0,0:19:14.91,0:19:17.11,Main Dialogue,Emil,0000,0000,0000,,Hayato...
+Dialogue: 0,0:19:17.92,0:19:19.23,Main Dialogue,Emil,0000,0000,0000,,Get out!
+Dialogue: 0,0:19:19.23,0:19:20.55,Main Dialogue,Hayato,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:19:20.55,0:19:21.93,Main Dialogue,Hayato,0000,0000,0000,,You moron! Don't—
+Dialogue: 0,0:19:33.60,0:19:35.62,Main Dialogue,Emil,0000,0000,0000,,Oh, are you up, Hayato?
+Dialogue: 0,0:19:37.56,0:19:38.48,Main Dialogue,Hayato,0000,0000,0000,,Emile...
+Dialogue: 0,0:19:41.32,0:19:42.18,Main Dialogue,Emil,0000,0000,0000,,Ow!
+Dialogue: 0,0:19:42.86,0:19:45.13,Main Dialogue,Both,0000,0000,0000,,Ow, ow, ow, ow, ow...
+Dialogue: 0,0:19:45.13,0:19:47.20,Main Dialogue,Both,0000,0000,0000,,What was that for?!
+Dialogue: 0,0:19:47.20,0:19:49.99,Main Dialogue,Emil,0000,0000,0000,,It's your fault for getting up so suddenly.
+Dialogue: 0,0:19:49.99,0:19:51.16,Main Dialogue,Hayato,0000,0000,0000,,A-Are you stupid?
+Dialogue: 0,0:19:51.16,0:19:54.50,Main Dialogue,Hayato,0000,0000,0000,,I just panicked because I was resting my head on another guy's lap.
+Dialogue: 0,0:19:58.44,0:20:01.01,Main Dialogue,Emil,0000,0000,0000,,This is all your fault to begin with.
+Dialogue: 0,0:20:01.01,0:20:04.01,Main Dialogue,Emil,0000,0000,0000,,You just waltzed right in. \NThat's why this happened.
+Dialogue: 0,0:20:04.26,0:20:06.18,Main Dialogue,Hayato,0000,0000,0000,,"Waltzed right in," you say?
+Dialogue: 0,0:20:06.18,0:20:08.93,Main Dialogue,Hayato,0000,0000,0000,,This is my room, you know?
+Dialogue: 0,0:20:09.58,0:20:13.49,Main Dialogue,Hayato,0000,0000,0000,,Wait. Why are you in my room, anyway?
+Dialogue: 0,0:20:14.35,0:20:15.86,Main Dialogue,Emil,0000,0000,0000,,I didn't say?
+Dialogue: 0,0:20:16.55,0:20:19.19,Main Dialogue,Emil,0000,0000,0000,,We're roommates.
+Dialogue: 0,0:20:19.52,0:20:20.25,Main Dialogue,Hayato,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:21.58,0:20:22.53,Main Dialogue,Hayato,0000,0000,0000,,What?
+Dialogue: 0,0:20:22.86,0:20:25.10,Main Dialogue,Emil,0000,0000,0000,,There you have it.
+Dialogue: 0,0:20:25.10,0:20:27.28,Main Dialogue,Emil,0000,0000,0000,,Now take off your uniform.
+Dialogue: 0,0:20:27.28,0:20:29.54,Main Dialogue,Emil,0000,0000,0000,,I'll sew your badge back on.
+Dialogue: 0,0:20:32.13,0:20:33.28,Main Dialogue,Hayato,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:20:33.85,0:20:35.67,Main Dialogue,Hayato,0000,0000,0000,,I can do that myself.
+Dialogue: 0,0:20:35.67,0:20:38.20,Main Dialogue,Emil,0000,0000,0000,,You have an important duel tomorrow.
+Dialogue: 0,0:20:38.20,0:20:40.31,Main Dialogue,Emil,0000,0000,0000,,Just let me handle it—
+Dialogue: 0,0:20:40.31,0:20:41.01,Main Dialogue,Emil,0000,0000,0000,,Ow.
+Dialogue: 0,0:20:41.42,0:20:42.28,Main Dialogue,Hayato,0000,0000,0000,,See.
+Dialogue: 0,0:20:44.72,0:20:45.81,Main Dialogue,Hayato,0000,0000,0000,,We need to take care of that now.
+Dialogue: 0,0:20:45.81,0:20:46.05,Main Dialogue,Emil,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:48.14,0:20:49.82,Main Dialogue,Emil,0000,0000,0000,,H-Hayato.
+Dialogue: 0,0:20:50.12,0:20:52.01,Main Dialogue,Emil,0000,0000,0000,,You can't just...
+Dialogue: 0,0:20:56.50,0:20:57.48,Main Dialogue,Hayato,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:20:58.23,0:21:00.02,Main Dialogue,Emil,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:21:01.14,0:21:03.93,Main Dialogue,Emil,0000,0000,0000,,It wasn't that big of a deal...
+Dialogue: 0,0:21:04.28,0:21:05.36,Main Dialogue,Hayato,0000,0000,0000,,It's just how I am.
+Dialogue: 0,0:21:05.87,0:21:09.46,Main Dialogue,Hayato,0000,0000,0000,,I got mixed up in a Savage \Nattack a long time ago.
+Dialogue: 0,0:21:09.88,0:21:11.39,Main Dialogue,Hayato,0000,0000,0000,,Now, when I see someone get hurt,
+Dialogue: 0,0:21:12.76,0:21:14.62,Main Dialogue,Hayato,0000,0000,0000,,I just have to do something.
+Dialogue: 0,0:21:15.88,0:21:16.97,Main Dialogue,Emil,0000,0000,0000,,Hayato...
+Dialogue: 0,0:21:18.72,0:21:19.88,Main Dialogue,Emil,0000,0000,0000,,Thank you.
+Dialogue: 0,0:21:30.16,0:21:32.31,Main Dialogue,Claire,0000,0000,0000,,Are you ready?
+Dialogue: 0,0:21:32.63,0:21:34.81,Main Dialogue,Hayato,0000,0000,0000,,As much as I can be.
+Dialogue: 0,0:21:35.70,0:21:38.26,Main Dialogue,Claire,0000,0000,0000,,In that case, have at you.
+Dialogue: 0,0:21:39.17,0:21:40.86,Main Dialogue,Claire,0000,0000,0000,,Hundred On.
+Dialogue: 0,0:21:53.00,0:21:54.78,Main Dialogue,Hayato,0000,0000,0000,,Hundred On.
+Dialogue: 0,0:22:07.23,0:22:11.21,Main Dialogue,Erica,0000,0000,0000,,The duel between the queen, Claire Harvey,
+Dialogue: 0,0:22:11.21,0:22:14.52,Main Dialogue,Erica,0000,0000,0000,,and the new student, \NKisaragi Hayato, shall begin.
+Dialogue: 0,0:22:20.76,0:22:22.44,Main Dialogue,Claire,0000,0000,0000,,Now, Kisaragi Hayato,
+Dialogue: 0,0:22:23.06,0:22:25.62,Main Dialogue,Claire,0000,0000,0000,,show me how strong you are!
+Dialogue: 0,0:24:00.96,0:24:05.87,Next Episode Title,Claire,0000,0000,0000,,{\fad(1000,1)}The Invincible {\c&H0303C1&}Queen

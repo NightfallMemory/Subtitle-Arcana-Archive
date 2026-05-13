@@ -1,0 +1,311 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main Dialogue,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Signs,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Italics Dialogue,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Main Dialogue Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Episode Title,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00DB9F29,1,0,0,0,100,110,0,0,1,2,0,3,27,60,80,1
+Style: Flashback Dialogue,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00451900,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,53,53,24,0
+Style: Black Signs,Open Sans Semibold,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Next Episode Title,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00000000,&H00DB9F29,1,0,0,0,100,110,0,0,1,2,0,8,27,27,280,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:16.57,0:00:18.47,Main Dialogue Top,Claire,0000,0000,0000,,Reinforcements will be coming soon, as well.
+Dialogue: 0,0:00:18.47,0:00:22.16,Main Dialogue Top,Claire,0000,0000,0000,,Give up, leave the Hundreds \Nyou've taken, and surrender.
+Dialogue: 0,0:00:29.11,0:00:29.77,Main Dialogue,Claire,0000,0000,0000,,Rain?
+Dialogue: 0,0:00:30.54,0:00:32.59,Main Dialogue,Krovanh,0000,0000,0000,,Nee-chan. Nakri.
+Dialogue: 0,0:00:33.12,0:00:36.70,Main Dialogue,Krovanh,0000,0000,0000,,It seems luck is on our side.
+Dialogue: 0,0:00:43.41,0:00:45.27,Main Dialogue,Krovanh,0000,0000,0000,,Nee-chan! Nakri!
+Dialogue: 0,0:00:47.28,0:00:48.94,Main Dialogue,Nesat,0000,0000,0000,,Trace On.
+Dialogue: 0,0:01:03.26,0:01:05.62,Main Dialogue,Claire,0000,0000,0000,,Instead of attacking me,\Nthey went after my cannons?
+Dialogue: 0,0:01:13.41,0:01:14.85,Main Dialogue,Krovanh,0000,0000,0000,,That won't work!
+Dialogue: 0,0:01:15.17,0:01:17.38,Main Dialogue,Krovanh,0000,0000,0000,,Your power is completely \Nreduced in this rain!
+Dialogue: 0,0:01:17.97,0:01:19.18,Main Dialogue,Claire,0000,0000,0000,,Then take this!
+Dialogue: 0,0:01:21.47,0:01:22.68,Main Dialogue,Krovanh,0000,0000,0000,,Too slow!
+Dialogue: 0,0:01:37.51,0:01:39.26,Main Dialogue,Krovanh,0000,0000,0000,,I'll finish you off.
+Dialogue: 0,0:03:15.75,0:03:21.76,Episode Title,,0000,0000,0000,,{\fad(1000,1000)}{\c&H0303C1&}Dragon {\c&HFFFFFF&}Type
+Dialogue: 0,0:03:16.00,0:03:17.66,Main Dialogue,Krovanh,0000,0000,0000,,I'll finish you off.
+Dialogue: 0,0:03:24.74,0:03:25.51,Main Dialogue,Krovanh,0000,0000,0000,,What?
+Dialogue: 0,0:03:28.51,0:03:29.26,Main Dialogue,Krovanh,0000,0000,0000,,Damn it.
+Dialogue: 0,0:03:30.92,0:03:31.99,Main Dialogue,Erica,0000,0000,0000,,That's not going to work.
+Dialogue: 0,0:03:33.30,0:03:36.32,Main Dialogue,Erica,0000,0000,0000,,You can't escape my Everlasting.
+Dialogue: 0,0:03:37.55,0:03:38.42,Main Dialogue,Claire,0000,0000,0000,,Erica.
+Dialogue: 0,0:03:38.42,0:03:40.57,Main Dialogue,Hayato,0000,0000,0000,,President, are you okay?
+Dialogue: 0,0:03:40.92,0:03:42.32,Main Dialogue,Claire,0000,0000,0000,,Kisaragi Hayato.
+Dialogue: 0,0:03:42.68,0:03:43.92,Main Dialogue,Emile,0000,0000,0000,,I'm here, too.
+Dialogue: 0,0:03:43.92,0:03:45.22,Main Dialogue,Claudia,0000,0000,0000,,Me three.
+Dialogue: 0,0:03:46.58,0:03:49.75,Main Dialogue,Claire,0000,0000,0000,,There's nothing you can do now.
+Dialogue: 0,0:03:50.78,0:03:51.83,Main Dialogue,Claire,0000,0000,0000,,Surrender.
+Dialogue: 0,0:03:52.11,0:03:54.37,Main Dialogue,Krovanh,0000,0000,0000,,You've got to be kidding me!
+Dialogue: 0,0:03:55.02,0:04:00.34,Main Dialogue,Krovanh,0000,0000,0000,,We've always been fighting our way out\Nof this exact situation.
+Dialogue: 0,0:04:00.99,0:04:04.56,Main Dialogue,Krovanh,0000,0000,0000,,This ain't nearly enough to make us give up!
+Dialogue: 0,0:04:09.34,0:04:10.63,Main Dialogue,Nesat,0000,0000,0000,,Trace On.
+Dialogue: 0,0:04:18.75,0:04:20.28,Main Dialogue,Hayato,0000,0000,0000,,Let me take care of this.
+Dialogue: 0,0:04:23.15,0:04:24.57,Main Dialogue,Krovanh,0000,0000,0000,,The guy from before, huh?
+Dialogue: 0,0:04:39.59,0:04:42.90,Main Dialogue,Emile,0000,0000,0000,,If you don't let go of your weapons, \Nyou won't be able to move from there.
+Dialogue: 0,0:04:42.90,0:04:45.36,Main Dialogue,Emile,0000,0000,0000,,You're going to end up on a stake.
+Dialogue: 0,0:04:47.07,0:04:48.93,Main Dialogue,Nakri,0000,0000,0000,,Then finish me off now!
+Dialogue: 0,0:04:50.41,0:04:51.54,Main Dialogue,Emile,0000,0000,0000,,As you wish.
+Dialogue: 0,0:05:04.21,0:05:05.07,Main Dialogue,Nesat,0000,0000,0000,,Nakri...
+Dialogue: 0,0:05:23.31,0:05:25.55,Main Dialogue,Emile,0000,0000,0000,,Looks like this is over.
+Dialogue: 0,0:05:26.54,0:05:27.78,Main Dialogue,Nesat,0000,0000,0000,,Trace O...
+Dialogue: 0,0:05:31.23,0:05:35.02,Main Dialogue,Emile,0000,0000,0000,,Looks like you can't replicate \Nthe things you see immediately.
+Dialogue: 0,0:05:35.94,0:05:36.81,Main Dialogue,Emile,0000,0000,0000,,Also...
+Dialogue: 0,0:05:37.54,0:05:41.57,Main Dialogue,Emile,0000,0000,0000,,I imagine you won't be replicating much\Nif I stab out that eye of yours.
+Dialogue: 0,0:05:43.38,0:05:46.97,Main Dialogue,Nesat,0000,0000,0000,,You're going to destroy my eye?
+Dialogue: 0,0:05:49.17,0:05:51.47,Main Dialogue,Emile,0000,0000,0000,,Why do you have your eyes?
+Dialogue: 0,0:05:53.26,0:05:54.88,Main Dialogue,Emile,0000,0000,0000,,To hurt people?
+Dialogue: 0,0:05:55.58,0:05:56.58,Main Dialogue,Emile,0000,0000,0000,,Or is it...
+Dialogue: 0,0:05:57.29,0:05:59.58,Main Dialogue,Emile,0000,0000,0000,,...to see this beautiful world of ours?
+Dialogue: 0,0:06:03.09,0:06:06.84,Main Dialogue,Krovanh,0000,0000,0000,,Beautiful, my ass! Don't make me laugh!
+Dialogue: 0,0:06:07.66,0:06:09.97,Main Dialogue,Krovanh,0000,0000,0000,,The only thing we've ever seen is despair!
+Dialogue: 0,0:06:10.46,0:06:13.53,Main Dialogue,Krovanh,0000,0000,0000,,The strong oppress the weak, \Nand control them!
+Dialogue: 0,0:06:13.85,0:06:17.27,Main Dialogue,Krovanh,0000,0000,0000,,That's the kind of hellish world\Nwe've lived through!
+Dialogue: 0,0:06:17.61,0:06:18.73,Main Dialogue,Krovanh,0000,0000,0000,,And we're going to...
+Dialogue: 0,0:06:19.69,0:06:20.73,Main Dialogue,Krovanh,0000,0000,0000,,...change this world!
+Dialogue: 0,0:06:21.32,0:06:24.61,Main Dialogue,Krovanh,0000,0000,0000,,And become truly free!
+Dialogue: 0,0:06:24.96,0:06:26.61,Main Dialogue,Krovanh,0000,0000,0000,,Don't try to get in our way!
+Dialogue: 0,0:06:27.99,0:06:31.70,Main Dialogue,Krovanh,0000,0000,0000,,Don't get in our way! Don't get in our way! \NDon't get in our way!
+Dialogue: 0,0:06:37.20,0:06:40.67,Italics Dialogue,Hayato,0000,0000,0000,,Wh-What is this?
+Dialogue: 0,0:06:41.76,0:06:44.29,Flashback Dialogue,R,0000,0000,0000,,Don't dillydally! Keep moving!
+Dialogue: 0,0:06:47.85,0:06:49.57,Flashback Dialogue,R,0000,0000,0000,,What are you doing there?
+Dialogue: 0,0:06:50.45,0:06:53.51,Flashback Dialogue,R,0000,0000,0000,,Get back to your post!
+Dialogue: 0,0:07:23.71,0:07:24.63,Flashback Dialogue,Krovanh,0000,0000,0000,,Nesat!
+Dialogue: 0,0:07:26.03,0:07:27.02,Flashback Dialogue,Krovanh,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:07:38.26,0:07:40.50,Flashback Dialogue,Vitaly,0000,0000,0000,,At this rate, she'll lose her sight.
+Dialogue: 0,0:07:41.10,0:07:42.39,Flashback Dialogue,Krovanh,0000,0000,0000,,No way...
+Dialogue: 0,0:07:42.91,0:07:46.90,Flashback Dialogue,Vitaly,0000,0000,0000,,But I can bestow new light...
+Dialogue: 0,0:07:47.94,0:07:48.90,Flashback Dialogue,Vitaly,0000,0000,0000,,And power.
+Dialogue: 0,0:07:49.89,0:07:50.89,Flashback Dialogue,Krovanh,0000,0000,0000,,Power?
+Dialogue: 0,0:07:52.07,0:07:54.84,Flashback Dialogue,Vitaly,0000,0000,0000,,Power to make you free.
+Dialogue: 0,0:07:57.44,0:08:00.29,Italics Dialogue,Hayato,0000,0000,0000,,Are these his memories?
+Dialogue: 0,0:08:00.78,0:08:04.45,Main Dialogue,Krovanh,0000,0000,0000,,Do you have a reason to fight?\NA reason to win?!
+Dialogue: 0,0:08:04.45,0:08:05.59,Main Dialogue,Hayato,0000,0000,0000,,I do!
+Dialogue: 0,0:08:06.07,0:08:07.56,Main Dialogue,Hayato,0000,0000,0000,,The Hundred...
+Dialogue: 0,0:08:07.56,0:08:11.55,Main Dialogue,Hayato,0000,0000,0000,,This power can bring\Na smile to everyone's faces!
+Dialogue: 0,0:08:12.16,0:08:14.38,Main Dialogue,Hayato,0000,0000,0000,,If I want to protect their smiles...
+Dialogue: 0,0:08:15.26,0:08:19.22,Main Dialogue,Hayato,0000,0000,0000,,If I want to protect everyone I care about,
+Dialogue: 0,0:08:20.29,0:08:21.97,Main Dialogue,Hayato,0000,0000,0000,,I can't lose!
+Dialogue: 0,0:08:22.27,0:08:24.27,Main Dialogue,Hayato,0000,0000,0000,,Losing is not an option!
+Dialogue: 0,0:08:26.54,0:08:27.90,Main Dialogue,Krovanh,0000,0000,0000,,Full-body armament?
+Dialogue: 0,0:08:28.75,0:08:30.91,Main Dialogue,Hayato,0000,0000,0000,,I have to make this world a better place!
+Dialogue: 0,0:08:30.91,0:08:33.52,Main Dialogue,Hayato,0000,0000,0000,,A place where no one gets hurt, \Nand everyone can smile!
+Dialogue: 0,0:08:34.45,0:08:35.74,Main Dialogue,Hayato,0000,0000,0000,,That is why...
+Dialogue: 0,0:08:36.71,0:08:38.24,Main Dialogue,Hayato,0000,0000,0000,,...I fight!
+Dialogue: 0,0:08:43.39,0:08:46.18,Main Dialogue,Krovanh,0000,0000,0000,,That's impossible!
+Dialogue: 0,0:08:46.18,0:08:49.18,Main Dialogue,Hayato,0000,0000,0000,,I'm sure it's possible as long as\Nsomeone truly desires it!
+Dialogue: 0,0:08:49.54,0:08:51.19,Main Dialogue,Hayato,0000,0000,0000,,And that is my desire!
+Dialogue: 0,0:08:51.19,0:08:54.68,Main Dialogue,Hayato,0000,0000,0000,,I want a world where no one \Ngets hurt... a happy one!
+Dialogue: 0,0:08:58.18,0:08:59.23,Main Dialogue,Nesat,0000,0000,0000,,Krovanh!
+Dialogue: 0,0:09:02.75,0:09:03.92,Main Dialogue,Krovanh,0000,0000,0000,,Damn it...
+Dialogue: 0,0:09:08.08,0:09:09.17,Main Dialogue,Krovanh,0000,0000,0000,,I'm not done yet...
+Dialogue: 0,0:09:10.11,0:09:12.02,Main Dialogue,Krovanh,0000,0000,0000,,I can still fight!
+Dialogue: 0,0:09:12.44,0:09:14.78,Main Dialogue,Krovanh,0000,0000,0000,,I have to fight!
+Dialogue: 0,0:09:15.62,0:09:18.29,Main Dialogue,Emile,0000,0000,0000,,He's being consumed by his Variant power...
+Dialogue: 0,0:09:30.80,0:09:31.98,Main Dialogue,Claire,0000,0000,0000,,Stop!
+Dialogue: 0,0:09:32.57,0:09:35.17,Main Dialogue,Claire,0000,0000,0000,,If you keep using your Variant power,
+Dialogue: 0,0:09:35.17,0:09:36.80,Main Dialogue,Claire,0000,0000,0000,,your body will...
+Dialogue: 0,0:09:37.10,0:09:38.48,Main Dialogue,Krovanh,0000,0000,0000,,Like I care.
+Dialogue: 0,0:09:50.65,0:09:53.01,Main Dialogue,Krovanh,0000,0000,0000,,Wh-What's that?
+Dialogue: 0,0:09:53.32,0:09:55.32,Main Dialogue,Hayato,0000,0000,0000,,Is it a Savage?
+Dialogue: 0,0:10:04.16,0:10:05.52,Main Dialogue,Emile,0000,0000,0000,,No way...
+Dialogue: 0,0:10:05.85,0:10:08.31,Main Dialogue,Erica,0000,0000,0000,,That's where Squad B is!
+Dialogue: 0,0:10:09.07,0:10:11.73,Main Dialogue,Emile,0000,0000,0000,,This is bad! \NWe need to do something!
+Dialogue: 0,0:10:12.03,0:10:13.71,Main Dialogue,Claire,0000,0000,0000,,I know, but...
+Dialogue: 0,0:10:14.21,0:10:16.21,Main Dialogue,Claire,0000,0000,0000,,They're still...
+Dialogue: 0,0:10:20.92,0:10:22.08,Main Dialogue,Claire,0000,0000,0000,,Hundred...
+Dialogue: 0,0:10:22.08,0:10:23.38,Main Dialogue,Krovanh,0000,0000,0000,,This is a trade.
+Dialogue: 0,0:10:24.50,0:10:26.06,Main Dialogue,Krovanh,0000,0000,0000,,Let's call a ceasefire.
+Dialogue: 0,0:10:27.06,0:10:29.35,Main Dialogue,Krovanh,0000,0000,0000,,I'll defeat that Savage for you.
+Dialogue: 0,0:10:29.35,0:10:30.56,Main Dialogue,Emile,0000,0000,0000,,What was that?
+Dialogue: 0,0:10:31.07,0:10:32.36,Main Dialogue,Krovanh,0000,0000,0000,,In exchange,
+Dialogue: 0,0:10:32.84,0:10:35.39,Main Dialogue,Krovanh,0000,0000,0000,,we'll take its core.
+Dialogue: 0,0:10:40.86,0:10:42.04,Main Dialogue,Hayato,0000,0000,0000,,Stop it!
+Dialogue: 0,0:10:42.04,0:10:43.87,Main Dialogue,Hayato,0000,0000,0000,,If you use any more of your power...
+Dialogue: 0,0:10:43.87,0:10:45.05,Main Dialogue,Krovanh,0000,0000,0000,,Shut up!
+Dialogue: 0,0:10:46.71,0:10:48.81,Main Dialogue,Krovanh,0000,0000,0000,,We need it!
+Dialogue: 0,0:10:49.80,0:10:50.87,Main Dialogue,Krovanh,0000,0000,0000,,We need that core!
+Dialogue: 0,0:10:53.46,0:10:55.84,Main Dialogue,Krovanh,0000,0000,0000,,Take this!
+Dialogue: 0,0:10:57.89,0:10:58.72,Main Dialogue,Krovanh,0000,0000,0000,,What?!
+Dialogue: 0,0:10:59.02,0:11:00.27,Main Dialogue,Claire,0000,0000,0000,,A wide-area barrier!
+Dialogue: 0,0:11:00.59,0:11:02.49,Main Dialogue,Krovanh,0000,0000,0000,,If we can bring this back,
+Dialogue: 0,0:11:02.49,0:11:05.04,Main Dialogue,Krovanh,0000,0000,0000,,we'll be able to be truly free!
+Dialogue: 0,0:11:06.04,0:11:09.10,Main Dialogue,Krovanh,0000,0000,0000,,And the three of us...
+Dialogue: 0,0:11:09.10,0:11:11.60,Main Dialogue,Nesat,0000,0000,0000,,Krovanh, stop it!
+Dialogue: 0,0:11:11.60,0:11:15.07,Main Dialogue,Krovanh,0000,0000,0000,,It's right here, but why...
+Dialogue: 0,0:11:15.35,0:11:17.19,Main Dialogue,Krovanh,0000,0000,0000,,Why can't I get to it?!
+Dialogue: 0,0:11:17.63,0:11:19.99,Main Dialogue,Krovanh,0000,0000,0000,,Why?! Why?!
+Dialogue: 0,0:11:19.99,0:11:22.41,Main Dialogue,Krovanh,0000,0000,0000,,Why is it?!
+Dialogue: 0,0:11:27.58,0:11:28.58,Main Dialogue,Nesat,0000,0000,0000,,Krovanh!
+Dialogue: 0,0:11:34.72,0:11:35.50,Main Dialogue,Nesat,0000,0000,0000,,Krovanh!
+Dialogue: 0,0:11:42.78,0:11:43.69,Main Dialogue,Hayato,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:11:46.51,0:11:48.93,Main Dialogue,Krovanh,0000,0000,0000,,Why did you save me?
+Dialogue: 0,0:11:49.65,0:11:50.76,Main Dialogue,Hayato,0000,0000,0000,,Didn't I tell you?
+Dialogue: 0,0:11:51.30,0:11:53.99,Main Dialogue,Hayato,0000,0000,0000,,I want to make a world \Nwhere no one gets hurt.
+Dialogue: 0,0:11:57.86,0:11:59.37,Main Dialogue,Krovanh,0000,0000,0000,,Then please...
+Dialogue: 0,0:12:00.74,0:12:02.78,Main Dialogue,Krovanh,0000,0000,0000,,I don't care about what happens to me.
+Dialogue: 0,0:12:03.68,0:12:05.85,Main Dialogue,Krovanh,0000,0000,0000,,Help Nee-chan and Nakri...
+Dialogue: 0,0:12:19.05,0:12:20.48,Main Dialogue,Claire,0000,0000,0000,,Not so fast!
+Dialogue: 0,0:12:33.15,0:12:35.06,Main Dialogue,Hayato,0000,0000,0000,,Are the other squads attacking?
+Dialogue: 0,0:12:35.33,0:12:38.12,Main Dialogue,Emile,0000,0000,0000,,President, if both of us fire at once,
+Dialogue: 0,0:12:38.12,0:12:40.32,Main Dialogue,Emile,0000,0000,0000,,we might be able to destroy that barrier.
+Dialogue: 0,0:12:40.69,0:12:41.57,Main Dialogue,Claire,0000,0000,0000,,Let's try it.
+Dialogue: 0,0:12:41.96,0:12:43.57,Main Dialogue,Emile,0000,0000,0000,,Hold on, Claire-sama.
+Dialogue: 0,0:12:44.47,0:12:46.04,Main Dialogue,Emile,0000,0000,0000,,Three's better than two.
+Dialogue: 0,0:12:46.04,0:12:47.61,Main Dialogue,Emile,0000,0000,0000,,And four's better than three.
+Dialogue: 0,0:12:48.25,0:12:51.72,Main Dialogue,Emile,0000,0000,0000,,Let's get all of the Slayers on this mountain \Ncapable of long-range fire
+Dialogue: 0,0:12:51.72,0:12:53.33,Main Dialogue,Emile,0000,0000,0000,,to fire at the same time.
+Dialogue: 0,0:12:54.26,0:12:56.69,Main Dialogue,Emile,0000,0000,0000,,And how will we get them to do that?
+Dialogue: 0,0:12:56.69,0:12:57.71,Main Dialogue,Emile,0000,0000,0000,,Right now...
+Dialogue: 0,0:12:58.63,0:13:00.89,Main Dialogue,Erica,0000,0000,0000,,Oh yeah, our transmissions...
+Dialogue: 0,0:13:01.54,0:13:04.00,Main Dialogue,Claire,0000,0000,0000,,You guys are the ones jamming \Nour transmissions, right?
+Dialogue: 0,0:13:04.60,0:13:06.76,Main Dialogue,Claire,0000,0000,0000,,Where is the jamming device?
+Dialogue: 0,0:13:09.37,0:13:11.21,Main Dialogue,Claire,0000,0000,0000,,If we want to take out that Savage,
+Dialogue: 0,0:13:11.21,0:13:13.70,Main Dialogue,Claire,0000,0000,0000,,we have to communicate\Nwith the other squads.
+Dialogue: 0,0:13:15.52,0:13:16.76,Main Dialogue,Claire,0000,0000,0000,,Please help us.
+Dialogue: 0,0:13:31.34,0:13:33.17,Main Dialogue,Erica,0000,0000,0000,,Comms are back up.
+Dialogue: 0,0:13:34.16,0:13:35.41,Main Dialogue,Claire,0000,0000,0000,,You have my thanks.
+Dialogue: 0,0:13:37.59,0:13:40.36,Main Dialogue,Claire,0000,0000,0000,,Erica, get me the {\i1}Little Garden.{\i0}
+Dialogue: 0,0:13:40.66,0:13:41.14,Main Dialogue,,0000,0000,0000,,Right.
+Dialogue: 0,0:13:41.76,0:13:43.32,Main Dialogue,Char,0000,0000,0000,,Hey, Claire.
+Dialogue: 0,0:13:43.81,0:13:46.51,Main Dialogue,Char,0000,0000,0000,,It seems like an unexpected situation \Nis occurring over there.
+Dialogue: 0,0:13:46.86,0:13:48.31,Italics Dialogue,Claire,0000,0000,0000,,Professor Charlotte,
+Dialogue: 0,0:13:48.31,0:13:51.02,Italics Dialogue,Claire,0000,0000,0000,,there's something we'd like you \Nto calculate immediately.
+Dialogue: 0,0:13:53.55,0:13:55.66,Main Dialogue,Char,0000,0000,0000,,Here's what LiZA came up with.
+Dialogue: 0,0:13:56.29,0:14:01.70,Main Dialogue,Char,0000,0000,0000,,If all of the long-range Slayers there\Nfire at the same time,
+Dialogue: 0,0:14:01.70,0:14:03.53,Main Dialogue,Char,0000,0000,0000,,that barrier can be destroyed.
+Dialogue: 0,0:14:07.26,0:14:09.82,Main Dialogue,Claire,0000,0000,0000,,To all Slayers:
+Dialogue: 0,0:14:09.82,0:14:11.53,Main Dialogue,Claire,0000,0000,0000,,You heard that, didn't you?
+Dialogue: 0,0:14:11.87,0:14:12.80,Italics Dialogue,R1,0000,0000,0000,,Yeah.
+Dialogue: 0,0:14:12.80,0:14:15.28,Italics Dialogue,R2,0000,0000,0000,,We're going to take out that Savage, huh?
+Dialogue: 0,0:14:15.28,0:14:16.54,Italics Dialogue,R3,0000,0000,0000,,I'll lend a hand.
+Dialogue: 0,0:14:16.93,0:14:20.47,Main Dialogue,Xuemei,0000,0000,0000,,Claire, we've got the green light \Nfrom joint mission command.
+Dialogue: 0,0:14:21.19,0:14:23.63,Main Dialogue,Claire,0000,0000,0000,,Then I,
+Dialogue: 0,0:14:24.10,0:14:27.67,Main Dialogue,Claire,0000,0000,0000,,the queen of the {\i1}Little Garden,{\i0} \Nshall take command of this mission.
+Dialogue: 0,0:14:28.12,0:14:29.09,Italics Dialogue,All,0000,0000,0000,,Right!
+Dialogue: 0,0:14:30.11,0:14:31.30,Main Dialogue,Claire,0000,0000,0000,,Kisaragi Hayato,
+Dialogue: 0,0:14:32.00,0:14:33.42,Main Dialogue,Claire,0000,0000,0000,,you deal the finishing blow.
+Dialogue: 0,0:14:33.42,0:14:34.31,Main Dialogue,Hayato,0000,0000,0000,,Right!
+Dialogue: 0,0:14:34.59,0:14:36.31,Main Dialogue,Claire,0000,0000,0000,,Everyone, prepare to fire!
+Dialogue: 0,0:14:36.75,0:14:37.81,Main Dialogue,All,0000,0000,0000,,Roger that!
+Dialogue: 0,0:14:44.59,0:14:46.86,Italics Dialogue,Xuemei,0000,0000,0000,,We're detecting a large amount of \Nenergy from the Savage!
+Dialogue: 0,0:14:47.24,0:14:47.94,Main Dialogue,Hayato,0000,0000,0000,,This is bad!
+Dialogue: 0,0:15:02.58,0:15:03.82,Main Dialogue,Emile,0000,0000,0000,,It's not working...?
+Dialogue: 0,0:15:04.12,0:15:04.98,Main Dialogue,Claire,0000,0000,0000,,Why?
+Dialogue: 0,0:15:05.72,0:15:07.27,Main Dialogue,Char,0000,0000,0000,,Not enough firepower.
+Dialogue: 0,0:15:07.60,0:15:12.64,Main Dialogue,Char,0000,0000,0000,,Looks like some Slayers couldn't attack because\Nthe Savage got them right beforehand.
+Dialogue: 0,0:15:13.77,0:15:15.88,Main Dialogue,Claire,0000,0000,0000,,So we can't do anything...
+Dialogue: 0,0:15:16.32,0:15:18.01,Italics Dialogue,Char,0000,0000,0000,,There is one thing.
+Dialogue: 0,0:15:18.56,0:15:19.91,Main Dialogue,Claire,0000,0000,0000,,Really, Char?
+Dialogue: 0,0:15:21.71,0:15:24.94,Main Dialogue,Char,0000,0000,0000,,I don't really want to suggest it,
+Dialogue: 0,0:15:26.46,0:15:28.51,Main Dialogue,Char,0000,0000,0000,,but LiZA recommends that...
+Dialogue: 0,0:15:29.83,0:15:34.90,Italics Dialogue,Char,0000,0000,0000,,Kisaragi Hayato share his Variant power\Nwith you, Claire Harvey.
+Dialogue: 0,0:15:35.80,0:15:38.21,Main Dialogue,Emile,0000,0000,0000,,Huh? W-Wait...
+Dialogue: 0,0:15:38.82,0:15:40.69,Main Dialogue,Emile,0000,0000,0000,,Wouldn't that mean...
+Dialogue: 0,0:15:41.07,0:15:41.54,Italics Dialogue,Char,0000,0000,0000,,Yes.
+Dialogue: 0,0:15:42.38,0:15:45.04,Italics Dialogue,Char,0000,0000,0000,,Kisaragi Hayato and Claire Harvey
+Dialogue: 0,0:15:45.62,0:15:47.75,Italics Dialogue,Char,0000,0000,0000,,would have to kiss.
+Dialogue: 0,0:15:49.05,0:15:51.05,Main Dialogue,Emile,0000,0000,0000,,What?!
+Dialogue: 0,0:15:51.46,0:15:54.77,Main Dialogue,Emile,0000,0000,0000,,No! That's not happening!\NNever in a million years!
+Dialogue: 0,0:15:54.77,0:15:58.36,Main Dialogue,Erica,0000,0000,0000,,Y-Yeah! The president \Nneeds to remain pure.
+Dialogue: 0,0:15:58.36,0:16:00.24,Main Dialogue,Claudia,0000,0000,0000,,What's the big deal?
+Dialogue: 0,0:16:01.70,0:16:07.79,Main Dialogue,Claire,0000,0000,0000,,That would mean... you'd inject the \NVariant virus into my body, right?
+Dialogue: 0,0:16:08.44,0:16:10.57,Italics Dialogue,Char,0000,0000,0000,,But there is a risk involved.
+Dialogue: 0,0:16:11.37,0:16:14.39,Italics Dialogue,Char,0000,0000,0000,,Doing this will help temporarily,
+Dialogue: 0,0:16:14.69,0:16:18.17,Italics Dialogue,Char,0000,0000,0000,,but there's no telling what long-term\Neffects it could have on your body.
+Dialogue: 0,0:16:20.68,0:16:22.66,Main Dialogue,Claire,0000,0000,0000,,But I'll have to do it.
+Dialogue: 0,0:16:23.73,0:16:24.58,Main Dialogue,Claire,0000,0000,0000,,Right now,
+Dialogue: 0,0:16:25.68,0:16:28.61,Main Dialogue,Claire,0000,0000,0000,,taking that Savage out comes first.
+Dialogue: 0,0:16:30.74,0:16:32.43,Main Dialogue,Emile,0000,0000,0000,,Yeah, but...
+Dialogue: 0,0:16:32.73,0:16:34.59,Main Dialogue,Emile,0000,0000,0000,,You just can't!
+Dialogue: 0,0:16:36.45,0:16:39.96,Italics Dialogue,Char,0000,0000,0000,,The rest is up to you, Kisaragi Hayato-kun.
+Dialogue: 0,0:16:43.00,0:16:45.13,Main Dialogue,Claire,0000,0000,0000,,K-Kisaragi Hayato.
+Dialogue: 0,0:16:46.87,0:16:52.11,Main Dialogue,Claire,0000,0000,0000,,D-Do you not want to... k-kiss me?
+Dialogue: 0,0:16:52.39,0:16:53.87,Main Dialogue,Hayato,0000,0000,0000,,U-Uh...
+Dialogue: 0,0:16:54.36,0:16:57.12,Main Dialogue,Hayato,0000,0000,0000,,That's not the problem.
+Dialogue: 0,0:16:57.41,0:16:59.87,Main Dialogue,Xuemei,0000,0000,0000,,Detecting another high energy burst \Nfrom the Savage!
+Dialogue: 0,0:16:59.87,0:17:02.12,Main Dialogue,Xuemei,0000,0000,0000,,It's going to attack! Please hurry!
+Dialogue: 0,0:17:02.36,0:17:04.09,Main Dialogue,Emile,0000,0000,0000,,Fine, I get it!
+Dialogue: 0,0:17:04.09,0:17:06.62,Main Dialogue,Emile,0000,0000,0000,,Just get it over with already!
+Dialogue: 0,0:17:07.55,0:17:09.90,Main Dialogue,Hayato,0000,0000,0000,,I-I'm sorry, President!
+Dialogue: 0,0:17:10.32,0:17:12.46,Main Dialogue,Claire,0000,0000,0000,,There's no reason for you to apologize.
+Dialogue: 0,0:17:17.10,0:17:20.77,Italics Dialogue,Claire,0000,0000,0000,,There's something warm entering my body...
+Dialogue: 0,0:17:21.89,0:17:24.61,Italics Dialogue,Claire,0000,0000,0000,,This is Kisaragi Hayato's...
+Dialogue: 0,0:17:31.71,0:17:35.37,Main Dialogue,Claire,0000,0000,0000,,I feel myself overflowing with power.
+Dialogue: 0,0:17:36.41,0:17:40.12,Main Dialogue,Claire,0000,0000,0000,,Everyone, please. \NLet's do this one more time.
+Dialogue: 0,0:17:40.41,0:17:41.18,Italics Dialogue,R1,0000,0000,0000,,Sure.
+Dialogue: 0,0:17:41.18,0:17:42.69,Italics Dialogue,R2,0000,0000,0000,,Roger that, queen.
+Dialogue: 0,0:17:42.69,0:17:44.08,Italics Dialogue,R3,0000,0000,0000,,I'm ready anytime.
+Dialogue: 0,0:17:45.67,0:17:49.83,Italics Dialogue,Xuemei,0000,0000,0000,,All Slayers are charging.
+Dialogue: 0,0:17:53.23,0:17:54.34,Main Dialogue,Xuemei,0000,0000,0000,,Charging complete!
+Dialogue: 0,0:17:54.98,0:17:57.84,Main Dialogue,Claire,0000,0000,0000,,3, 2, 1...
+Dialogue: 0,0:17:57.84,0:17:59.02,Main Dialogue,Claire,0000,0000,0000,,Fire!
+Dialogue: 0,0:18:06.67,0:18:08.78,Main Dialogue,Claire,0000,0000,0000,,I'm ending this here!
+Dialogue: 0,0:18:19.09,0:18:19.74,Main Dialogue,Claudia,0000,0000,0000,,We did it!
+Dialogue: 0,0:18:20.00,0:18:20.62,Main Dialogue,Emile,0000,0000,0000,,Hayato!
+Dialogue: 0,0:18:20.86,0:18:22.51,Main Dialogue,Claire,0000,0000,0000,,Finish it off!
+Dialogue: 0,0:18:31.32,0:18:32.93,Italics Dialogue,Hayato,0000,0000,0000,,Don't lose yourself.
+Dialogue: 0,0:18:33.23,0:18:34.80,Italics Dialogue,Hayato,0000,0000,0000,,I can do this, too!
+Dialogue: 0,0:18:35.29,0:18:37.97,Italics Dialogue,Hayato,0000,0000,0000,,I can't lose to myself!
+Dialogue: 0,0:18:38.36,0:18:40.85,Main Dialogue,Hayato,0000,0000,0000,,No matter what!
+Dialogue: 0,0:19:02.89,0:19:03.76,Main Dialogue,Emile,0000,0000,0000,,Hayato!
+Dialogue: 0,0:19:03.76,0:19:04.94,Main Dialogue,Claudia,0000,0000,0000,,Emilia-sama!
+Dialogue: 0,0:19:09.92,0:19:12.29,Italics Dialogue,Emile,0000,0000,0000,,Hayato, where are you?!
+Dialogue: 0,0:19:16.88,0:19:17.85,Italics Dialogue,Emile,0000,0000,0000,,Hayato!
+Dialogue: 0,0:19:17.85,0:19:19.31,Italics Dialogue,Emile,0000,0000,0000,,Hayato! Hayato!
+Dialogue: 0,0:19:25.87,0:19:27.00,Italics Dialogue,Emile,0000,0000,0000,,Hayato...
+Dialogue: 0,0:19:40.20,0:19:42.59,Main Dialogue,Erica,0000,0000,0000,,The injured Slayers are recovering steadily.
+Dialogue: 0,0:19:43.21,0:19:44.93,Main Dialogue,Claire,0000,0000,0000,,That's great.
+Dialogue: 0,0:19:45.61,0:19:51.91,Main Dialogue,Claire,0000,0000,0000,,But it would be difficult for us to \Nparticipate in the following mission...
+Dialogue: 0,0:19:52.30,0:19:54.99,Main Dialogue,Claire,0000,0000,0000,,Let's leave the rest up to the groups \Nfrom the various countries.
+Dialogue: 0,0:19:55.60,0:19:57.82,Main Dialogue,Erica,0000,0000,0000,,Um... Claire-sama...
+Dialogue: 0,0:19:59.44,0:20:02.30,Main Dialogue,Erica,0000,0000,0000,,About that three hunters...
+Dialogue: 0,0:20:03.39,0:20:07.13,Main Dialogue,Erica,0000,0000,0000,,I don't understand what\NJudar-sama is trying to do.
+Dialogue: 0,0:20:07.96,0:20:11.00,Main Dialogue,Erica,0000,0000,0000,,Why are we moving them \Nto the {\i1}Little Garden?{\i0}
+Dialogue: 0,0:20:11.52,0:20:14.95,Main Dialogue,Erica,0000,0000,0000,,That might end up being a risk \Nto the {\i1}Little Garden.{\i0}
+Dialogue: 0,0:20:16.27,0:20:18.94,Main Dialogue,Claire,0000,0000,0000,,I feel the same way you do.
+Dialogue: 0,0:20:22.41,0:20:25.33,Italics Dialogue,Claire,0000,0000,0000,,Just what are you planning,
+Dialogue: 0,0:20:26.53,0:20:27.63,Italics Dialogue,Claire,0000,0000,0000,,Onii-sama?
+Dialogue: 0,0:20:31.44,0:20:33.03,Main Dialogue,Judar,0000,0000,0000,,The moon is wonderful.
+Dialogue: 0,0:20:34.00,0:20:35.97,Main Dialogue,Judar,0000,0000,0000,,It wanes and waxes.
+Dialogue: 0,0:20:39.78,0:20:41.62,Main Dialogue,Char,0000,0000,0000,,No problems anymore.
+Dialogue: 0,0:20:41.62,0:20:42.88,Main Dialogue,Char,0000,0000,0000,,He's out of danger.
+Dialogue: 0,0:20:43.49,0:20:44.61,Main Dialogue,Emile,0000,0000,0000,,Hayato...
+Dialogue: 0,0:20:44.61,0:20:47.12,Main Dialogue,Char,0000,0000,0000,,As long as the Variant virus remains stable,
+Dialogue: 0,0:20:47.12,0:20:48.89,Main Dialogue,Char,0000,0000,0000,,I'm sure he'll wake up soon.
+Dialogue: 0,0:20:50.97,0:20:52.56,Main Dialogue,Char,0000,0000,0000,,Take care of him.
+Dialogue: 0,0:20:54.69,0:20:57.63,Main Dialogue,Emile,0000,0000,0000,,Sorry for making you push yourself, Hayato.
+Dialogue: 0,0:20:57.92,0:20:59.36,Main Dialogue,Emile,0000,0000,0000,,Wake up soon.
+Dialogue: 0,0:21:02.75,0:21:03.74,Main Dialogue,Karen,0000,0000,0000,,Emile-san?
+Dialogue: 0,0:21:04.01,0:21:05.96,Main Dialogue,Sakura,0000,0000,0000,,Hey, what are you doing?
+Dialogue: 0,0:21:06.28,0:21:07.84,Main Dialogue,Emile,0000,0000,0000,,Well, I, uh...
+Dialogue: 0,0:21:08.40,0:21:11.29,Main Dialogue,Emile,0000,0000,0000,,R-Right. There was something in his eyes...
+Dialogue: 0,0:21:11.29,0:21:12.83,Main Dialogue,Sakura,0000,0000,0000,,Isn't he asleep?
+Dialogue: 0,0:21:12.83,0:21:17.88,Main Dialogue,Karen,0000,0000,0000,,I-It looked like \Nyou were kissing him to me.
+Dialogue: 0,0:21:17.88,0:21:19.98,Main Dialogue,Emile,0000,0000,0000,,O-Of course not!
+Dialogue: 0,0:21:19.98,0:21:21.75,Main Dialogue,Emile,0000,0000,0000,,Why would Hayato and I kiss?
+Dialogue: 0,0:21:22.89,0:21:25.97,Main Dialogue,Karen,0000,0000,0000,,Of course you wouldn't. You're both boys.
+Dialogue: 0,0:21:25.97,0:21:27.23,Main Dialogue,Emile,0000,0000,0000,,Yeah.
+Dialogue: 0,0:21:28.14,0:21:29.81,Main Dialogue,Sakura,0000,0000,0000,,Something's fishy.
+Dialogue: 0,0:21:34.04,0:21:34.77,Main Dialogue,Emile,0000,0000,0000,,Hayato!
+Dialogue: 0,0:21:35.09,0:21:36.05,Main Dialogue,Karen,0000,0000,0000,,Nii-san!
+Dialogue: 0,0:21:38.17,0:21:39.07,Main Dialogue,Hayato,0000,0000,0000,,Karen...
+Dialogue: 0,0:21:39.72,0:21:40.63,Main Dialogue,Hayato,0000,0000,0000,,Sakura...
+Dialogue: 0,0:21:41.79,0:21:42.83,Main Dialogue,Hayato,0000,0000,0000,,Emile's here, too.
+Dialogue: 0,0:21:44.29,0:21:45.56,Main Dialogue,Emile,0000,0000,0000,,What a relief...
+Dialogue: 0,0:21:48.53,0:21:50.50,Main Dialogue,Emile,0000,0000,0000,,Good morning, Hayato.
+Dialogue: 0,0:21:51.69,0:21:53.10,Main Dialogue,Emile,0000,0000,0000,,You did well.
+Dialogue: 0,0:22:03.96,0:22:07.61,Main Dialogue,Vitaly,0000,0000,0000,,So Krovanh and the others \Naren't coming back, huh?
+Dialogue: 0,0:22:10.89,0:22:12.31,Main Dialogue,Vitaly,0000,0000,0000,,Well, it matters not.
+Dialogue: 0,0:22:14.85,0:22:17.52,Main Dialogue,Vitaly,0000,0000,0000,,There are no further hindrances to my plan.
+Dialogue: 0,0:24:00.75,0:24:05.74,Next Episode Title,Vitaly,0000,0000,0000,,{\fad(1000,1)}School {\c&H0303C1&}Festa
