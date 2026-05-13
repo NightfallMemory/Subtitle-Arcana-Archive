@@ -1,0 +1,536 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Flashback,Open Sans Semibold,36,&H00EDD6B5,&H000000FF,&H00B93634,&H00300000,0,0,0,0,100,100,0,0,1,2,1,2,13,13,24,0
+Style: Flashback - Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Aokana,Open Sans Semibold,39,&H000E0A17,&H000000FF,&H00FFFFFF,&H00FFFFFF,1,1,0,0,100,100,0,0,1,2,0,8,27,27,27,0
+Style: Episode-Title,Open Sans Semibold,30,&H00DDFEE2,&H000000FF,&H007AAA7F,&H00F0BFAC,0,0,0,0,100,100,0,0,1,2,0,7,40,27,80,0
+Style: Sign,Open Sans Semibold,33,&H00FFFFFF,&H000000FF,&H00241A19,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,8,27,27,27,0
+Style: Preview,Open Sans Semibold,33,&H00FFFFFC,&H000000FF,&H009F5348,&H00000000,1,0,0,0,100,100,0,0,1,0,0,8,27,27,27,0
+Style: To be Continued,Open Sans Semibold,33,&H00FFFFFF,&H000000FF,&H00161A2B,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,3,27,53,133,0
+Style: Episode-Title - End,Open Sans Semibold,39,&H00F9F7F4,&H000000FF,&H00E1812A,&H00F0BFAC,0,0,0,0,100,100,0,0,1,1,0,7,40,27,80,0
+Style: Map Top,Open Sans Semibold,33,&H00000000,&H000000FF,&H00FEFEFE,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,7,27,27,27,0
+Style: Map Middle,Open Sans Semibold,33,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,4,27,27,27,0
+Style: Map Bottom,Open Sans Semibold,33,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,1,27,27,133,0
+Style: Kunahama Institute High School,Open Sans Semibold,33,&H00422D25,&H000000FF,&H00A7A29F,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,8,27,27,27,0
+Style: Chalkboard,Open Sans Semibold,24,&H00FFFFFF,&H000000FF,&H0043522B,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,8,27,27,27,0
+Style: Menacing,Open Sans Semibold,33,&H00313128,&H000000FF,&H00D0CFCF,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,8,27,27,27,0
+Style: Mashiro Udon,Open Sans Semibold,33,&H000C1F22,&H000000FF,&H009EE2F1,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,8,27,27,27,0
+Style: Vertical,Open Sans Semibold,33,&H00FFFFFF,&H000000FF,&H00241A19,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,8,27,27,27,0
+Style: Chalkboard - rules top,Open Sans Semibold,27,&H00FFFFFF,&H000000FF,&H0043522B,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,7,27,27,27,0
+Style: Chalkboard - rules middle,Open Sans Semibold,27,&H00FFFFFF,&H000000FF,&H0043522B,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,6,27,267,27,0
+Style: Chalkboard - rules bottom,Open Sans Semibold,27,&H00FFFFFF,&H000000FF,&H0043522B,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,1,200,267,133,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:04.50,0:00:09.84,Main,Asuka,0000,0000,0000,,When you are down and \Ndrowning in your sorrow
+Dialogue: 0,0:00:11.20,0:00:14.53,Main,Asuka,0000,0000,0000,,Wish really hard
+Dialogue: 0,0:00:15.08,0:00:21.63,Main,Asuka,0000,0000,0000,,Look up at the sky
+Dialogue: 0,0:00:29.54,0:00:35.08,Main,Asuka,0000,0000,0000,,You are weak, oh so weak, but you can fly
+Dialogue: 0,0:00:35.80,0:00:42.00,Main,Asuka,0000,0000,0000,,If you can set yourself free...
+Dialogue: 0,0:00:42.00,0:00:45.98,Aokana,Sign,0000,0000,0000,,{\fad(1835,1)}AOKANA: Four Rhythm Across the Blue
+Dialogue: 0,0:00:47.81,0:00:52.28,Episode-Title,Title,0000,0000,0000,,{\fad(1197,1)}Episode One:\N "I'm Flying!\N I'm Actually Flying!"
+Dialogue: 0,0:00:55.41,0:00:58.40,Main,Asuka,0000,0000,0000,,I haven't seen this sky in ten years.
+Dialogue: 0,0:00:58.40,0:00:59.88,Main,Asuka,0000,0000,0000,,I'm so envious.
+Dialogue: 0,0:01:00.43,0:01:03.50,Main,Asuka,0000,0000,0000,,It must be nice to have wings.
+Dialogue: 0,0:01:24.56,0:01:26.11,Main,Asuka,0000,0000,0000,,Boo hoo.
+Dialogue: 0,0:01:30.98,0:01:32.32,Main,Masaya,0000,0000,0000,,8:10...
+Dialogue: 0,0:01:32.82,0:01:33.85,Main,Masaya,0000,0000,0000,,It's touch and go.
+Dialogue: 0,0:01:33.85,0:01:34.74,Main,A,0000,0000,0000,,It's gone!
+Dialogue: 0,0:01:36.34,0:01:38.24,Main,A,0000,0000,0000,,I can't find it!
+Dialogue: 0,0:01:39.62,0:01:42.66,Main,A,0000,0000,0000,,Help! It's gone, and I can't find it!
+Dialogue: 0,0:01:42.66,0:01:44.54,Main,A,0000,0000,0000,,I'll be locked out of my house!
+Dialogue: 0,0:01:44.54,0:01:48.51,Main,A,0000,0000,0000,,I can't believe I lost my \Nkeys on my first day here!
+Dialogue: 0,0:01:48.51,0:01:50.88,Main,A,0000,0000,0000,,I'm the worst! The absolute worst!
+Dialogue: 0,0:01:52.47,0:01:54.00,Main,A,0000,0000,0000,,It's gone.
+Dialogue: 0,0:01:57.92,0:01:59.99,Main,A,0000,0000,0000,,Good morning!
+Dialogue: 0,0:01:59.99,0:02:01.70,Main,M,0000,0000,0000,,M-Morning.
+Dialogue: 0,0:02:02.16,0:02:03.87,Main,M,0000,0000,0000,,So, you dropped your house keys?
+Dialogue: 0,0:02:04.69,0:02:05.85,Main,A,0000,0000,0000,,How did you know?
+Dialogue: 0,0:02:06.09,0:02:07.09,Main,M,0000,0000,0000,,Well...
+Dialogue: 0,0:02:07.09,0:02:09.17,Main,M,0000,0000,0000,,I just heard you moaning over there.
+Dialogue: 0,0:02:09.81,0:02:10.42,Main,M,0000,0000,0000,,If you like—
+Dialogue: 0,0:02:10.42,0:02:13.24,Main,A,0000,0000,0000,,You'll help me look for them?
+Dialogue: 0,0:02:14.24,0:02:16.21,Main,A,0000,0000,0000,,Thank you so much!
+Dialogue: 0,0:02:17.08,0:02:19.20,Main,A,0000,0000,0000,,The people here really are nice.
+Dialogue: 0,0:02:19.20,0:02:25.20,Map Top,Sign,0020,0001,0020,,Land of Compassion!                     {\fs16}Kamidori Island\N{\c&H78C4EB&}{\fs22}Welcome to the\N {\c&H624CB3&}{\fs24}Four-Island Archipelago           {\fs16\c&H000000&}Kasamatsu Island
+Dialogue: 0,0:02:19.20,0:02:25.20,Map Middle,Sign,0000,0000,0000,,{\fs16\c&H624CB3&}Four-Island                  {\c&H000000&}Kuna Island\N{\c&H624CB3&} Archipelago {\c&H8ECEAC&}Map
+Dialogue: 0,0:02:19.20,0:02:25.20,Map Bottom,Sign,0136,0001,0118,,{\fs16}Fukuru Island
+Dialogue: 0,0:02:19.60,0:02:23.30,Main,A,0000,0000,0000,,"Ain't no need to worry. The Four-Island \NArchipelago is the land of compassion!"
+Dialogue: 0,0:02:23.30,0:02:25.20,Main,A,0000,0000,0000,,That's what my aunt said, and she was right!
+Dialogue: 0,0:02:25.50,0:02:28.71,Main,A,0000,0000,0000,,I just moved here to Kuna Island yesterday.
+Dialogue: 0,0:02:28.71,0:02:30.29,Main,M,0000,0000,0000,,Is this what you're looking for?
+Dialogue: 0,0:02:31.70,0:02:32.91,Main,A,0000,0000,0000,,Thank you!
+Dialogue: 0,0:02:32.91,0:02:34.41,Main,A,0000,0000,0000,,Thank you—
+Dialogue: 0,0:02:32.91,0:02:34.41,Main,Misaki,0000,0000,0000,,Masaya!
+Dialogue: 0,0:02:34.41,0:02:35.21,Main,A,0000,0000,0000,,Ma—?
+Dialogue: 0,0:02:37.18,0:02:39.63,Main,Mi,0000,0000,0000,,Whatcha doing?
+Dialogue: 0,0:02:39.88,0:02:42.21,Main,A,0000,0000,0000,,A-A flying girl?!
+Dialogue: 0,0:02:44.91,0:02:47.53,Main,M,0000,0000,0000,,Hey! You know you're not supposed \Nto land outside terminals.
+Dialogue: 0,0:02:47.53,0:02:49.39,Main,A,0000,0000,0000,,Wow, amazing!
+Dialogue: 0,0:02:49.39,0:02:51.39,Main,A,0000,0000,0000,,A girl just came flying from the sky!
+Dialogue: 0,0:02:51.39,0:02:51.81,Main,Mi,0000,0000,0000,,Who's she?
+Dialogue: 0,0:02:51.81,0:02:54.69,Main,A,0000,0000,0000,,Oh, I'm Kurashina Asuka!
+Dialogue: 0,0:02:55.57,0:02:56.80,Main,Mi,0000,0000,0000,,Right...
+Dialogue: 0,0:02:56.80,0:02:58.62,Main,M,0000,0000,0000,,Transfer student, apparently.
+Dialogue: 0,0:02:58.62,0:03:00.38,Main,Mi,0000,0000,0000,,How do you know that?
+Dialogue: 0,0:03:00.38,0:03:04.05,Main,M,0000,0000,0000,,Kurashina-san said it herself, \Nwhile looking for her house keys.
+Dialogue: 0,0:03:04.05,0:03:05.75,Main,A,0000,0000,0000,,You even know my name?
+Dialogue: 0,0:03:06.21,0:03:10.08,Main,A,0000,0000,0000,,Oh, right. I just introduced myself.
+Dialogue: 0,0:03:10.08,0:03:13.46,Main,Mi,0000,0000,0000,,It's too early in the \Nmorning to be so hypurr.
+Dialogue: 0,0:03:14.88,0:03:16.60,Main,M,0000,0000,0000,,I'm Hinata Masaya.
+Dialogue: 0,0:03:16.60,0:03:18.52,Main,M,0000,0000,0000,,That's Tobisawa Misaki.
+Dialogue: 0,0:03:20.33,0:03:23.76,Main,M,0000,0000,0000,,We're both second-years at Kunahama High.
+Dialogue: 0,0:03:24.14,0:03:25.95,Main,A,0000,0000,0000,,Me too!
+Dialogue: 0,0:03:25.95,0:03:29.98,Main,Mi,0000,0000,0000,,Speaking of school, shouldn't \Nwe get going already?
+Dialogue: 0,0:03:29.98,0:03:33.06,Main,Mi,0000,0000,0000,,Kagami-sensei's on duty this week.
+Dialogue: 0,0:03:33.06,0:03:34.73,Main,M,0000,0000,0000,,Oh, right!
+Dialogue: 0,0:03:33.44,0:03:34.73,Main,A,0000,0000,0000,,Kagami-sensei?
+Dialogue: 0,0:03:35.29,0:03:37.43,Main,A,0000,0000,0000,,She's the Health and P.E. teacher,
+Dialogue: 0,0:03:37.43,0:03:39.19,Main,A,0000,0000,0000,,but she also does student counseling.
+Dialogue: 0,0:03:39.19,0:03:41.93,Main,A,0000,0000,0000,,Anyone who's late is in for \Nsome serious suffering.
+Dialogue: 0,0:03:41.93,0:03:42.95,Main,A,0000,0000,0000,,Suffering?!
+Dialogue: 0,0:03:43.39,0:03:47.74,Main,M,0000,0000,0000,,She'll expose their dark secrets, which \Nshe collects via her intelligence web.
+Dialogue: 0,0:03:47.74,0:03:50.93,Main,A,0000,0000,0000,,No way! That's not a very nice thing to do!
+Dialogue: 0,0:03:50.93,0:03:53.02,Main,Mi,0000,0000,0000,,Come on, hurry up.
+Dialogue: 0,0:03:53.02,0:03:54.04,Main,Mi,0000,0000,0000,,Let's fly.
+Dialogue: 0,0:03:54.48,0:03:55.79,Main,M,0000,0000,0000,,There's a terminal over there.
+Dialogue: 0,0:03:56.06,0:03:58.43,Main,A,0000,0000,0000,,Very well. Let's fly.
+Dialogue: 0,0:03:58.43,0:03:59.57,Main,Mi,0000,0000,0000,,What about you, Masaya?
+Dialogue: 0,0:03:59.57,0:04:01.38,Main,M,0000,0000,0000,,I'll run.
+Dialogue: 0,0:04:01.38,0:04:03.72,Main,A,0000,0000,0000,,So, how do I fly?
+Dialogue: 0,0:04:06.98,0:04:09.22,Main,Mi,0000,0000,0000,,You're wearing our school's uniform.
+Dialogue: 0,0:04:09.22,0:04:12.29,Main,Mi,0000,0000,0000,,That means you must've been \Nbriefed on Grav-Shoes.
+Dialogue: 0,0:04:12.29,0:04:13.73,Main,A,0000,0000,0000,,"Grav-Shoes"?
+Dialogue: 0,0:04:13.73,0:04:16.06,Main,A,0000,0000,0000,,Oh, you mean these?
+Dialogue: 0,0:04:16.29,0:04:19.13,Main,Mi,0000,0000,0000,,I don't suppose you've ever used them before.
+Dialogue: 0,0:04:19.13,0:04:20.05,Main,A,0000,0000,0000,,Nope!
+Dialogue: 0,0:04:20.05,0:04:21.33,Main,Mi,0000,0000,0000,,Oh, well.
+Dialogue: 0,0:04:21.33,0:04:23.45,Main,Mi,0000,0000,0000,,All right, pair up with me.
+Dialogue: 0,0:04:23.89,0:04:25.29,Main,M,0000,0000,0000,,H-Hey, Misaki!
+Dialogue: 0,0:04:25.29,0:04:26.91,Main,Mi,0000,0000,0000,,Surroundings all clear.
+Dialogue: 0,0:04:27.10,0:04:29.16,Main,Mi,0000,0000,0000,,The stop light isn't on, either.
+Dialogue: 0,0:04:29.58,0:04:31.38,Main,Mi,0000,0000,0000,,Okay, let's go.
+Dialogue: 0,0:04:37.12,0:04:39.53,Main,Mi,0000,0000,0000,,Hurry up and grab on.
+Dialogue: 0,0:04:39.53,0:04:40.00,Main,A,0000,0000,0000,,Right!
+Dialogue: 0,0:04:42.58,0:04:44.14,Main,Mi,0000,0000,0000,,Come on, Masaya.
+Dialogue: 0,0:04:44.14,0:04:45.65,Main,M,0000,0000,0000,,Fine.
+Dialogue: 0,0:04:45.65,0:04:46.55,Main,M,0000,0000,0000,,Ready?
+Dialogue: 0,0:04:46.55,0:04:47.26,Main,A,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:47.67,0:04:49.89,Main,Mi,0000,0000,0000,,One, two...
+Dialogue: 0,0:04:49.89,0:04:51.85,Main,Mi,0000,0000,0000,,Cleared fur takeoff!
+Dialogue: 0,0:04:57.61,0:04:58.49,Main,M,0000,0000,0000,,Fly.
+Dialogue: 0,0:05:00.45,0:05:02.45,Main,A,0000,0000,0000,,No! What is this?!
+Dialogue: 0,0:05:02.45,0:05:04.52,Main,A,0000,0000,0000,,We'll crash and burn for sure!
+Dialogue: 0,0:05:04.52,0:05:06.26,Main,A,0000,0000,0000,,We'll fall!
+Dialogue: 0,0:05:06.85,0:05:08.59,Main,A,0000,0000,0000,,Don't fall asleep!
+Dialogue: 0,0:05:08.59,0:05:10.30,Main,Mi,0000,0000,0000,,I'm awake.
+Dialogue: 0,0:05:10.30,0:05:13.58,Main,M,0000,0000,0000,,So long as the Grav-Shoes are on, \Nwe won't crash, no matter what.
+Dialogue: 0,0:05:15.46,0:05:16.91,Main,A,0000,0000,0000,,R-Really?
+Dialogue: 0,0:05:16.91,0:05:21.38,Main,M,0000,0000,0000,,Yeah. So relax, and enjoy \Nyour stroll across the sky.
+Dialogue: 0,0:05:30.24,0:05:31.64,Main,A,0000,0000,0000,,Amazing.
+Dialogue: 0,0:05:34.56,0:05:37.10,Main,A,0000,0000,0000,,I'm flying...
+Dialogue: 0,0:05:37.54,0:05:41.87,Main,A,0000,0000,0000,,It feels like these shoes can \Ntake you wherever you want to go.
+Dialogue: 0,0:05:44.60,0:05:46.74,Main,M,0000,0000,0000,,"Wherever you want to go," huh?
+Dialogue: 0,0:06:00.50,0:06:02.38,Kunahama Institute High School,Sign,0000,0000,0000,,Kunahama Institute High School
+Dialogue: 0,0:06:00.80,0:06:02.38,Main,Gi,0000,0000,0000,,Good morning!
+Dialogue: 0,0:06:03.17,0:06:04.58,Main,Aoi,0000,0000,0000,,Three minutes left!
+Dialogue: 0,0:06:08.51,0:06:11.60,Main,Aoi,0000,0000,0000,,How unusual for {\i1}him{\i0} to come flying.
+Dialogue: 0,0:06:11.60,0:06:14.53,Main,A,0000,0000,0000,,Why do we have to run up this slope?!
+Dialogue: 0,0:06:14.53,0:06:15.60,Main,Mi,0000,0000,0000,,Don't ask me!
+Dialogue: 0,0:06:15.60,0:06:17.60,Main,Mi,0000,0000,0000,,Rules are rules!
+Dialogue: 0,0:06:17.88,0:06:18.72,Main,Aoi,0000,0000,0000,,Five...
+Dialogue: 0,0:06:19.10,0:06:19.48,Main,Aoi,0000,0000,0000,,Four...
+Dialogue: 0,0:06:20.17,0:06:20.96,Main,Aoi,0000,0000,0000,,Three...
+Dialogue: 0,0:06:21.36,0:06:22.06,Main,Aoi,0000,0000,0000,,Two...
+Dialogue: 0,0:06:21.36,0:06:22.73,Kunahama Institute High School,Sign,0000,0000,0000,,Kunahama Institute High School
+Dialogue: 0,0:06:22.73,0:06:24.08,Main,Aoi,0000,0000,0000,,One...
+Dialogue: 0,0:06:25.30,0:06:25.97,Main,Aoi,0000,0000,0000,,Good.
+Dialogue: 0,0:06:25.97,0:06:27.68,Main,Aoi,0000,0000,0000,,No one's tardy today, either.
+Dialogue: 0,0:06:27.68,0:06:28.49,Main,Aoi,0000,0000,0000,,Well done.
+Dialogue: 0,0:06:28.49,0:06:29.94,Main,Mi,0000,0000,0000,,Safe!
+Dialogue: 0,0:06:31.07,0:06:32.18,Main,M,0000,0000,0000,,We made it!
+Dialogue: 0,0:06:32.76,0:06:35.22,Main,M,0000,0000,0000,,Good morning, Kagami-sensei.
+Dialogue: 0,0:06:35.22,0:06:35.99,Main,Aoi,0000,0000,0000,,Morning.
+Dialogue: 0,0:06:36.35,0:06:39.89,Main,A,0000,0000,0000,,Oh, so she's the strict \Nand terrifying teacher?
+Dialogue: 0,0:06:39.89,0:06:40.69,Main,M,0000,0000,0000,,Hey, come on!
+Dialogue: 0,0:06:40.69,0:06:42.85,Main,M,0000,0000,0000,,Why would you say that in front of her?!
+Dialogue: 0,0:06:40.69,0:06:42.85,Main,Mi,0000,0000,0000,,Shh! Shh!
+Dialogue: 0,0:06:42.85,0:06:45.00,Main,Aoi,0000,0000,0000,,You're Kurashina, \Nthe transfer student, right?
+Dialogue: 0,0:06:45.57,0:06:48.52,Main,Aoi,0000,0000,0000,,I'm the {\i1}strict and terrifying{\i0} Kagami Aoi.
+Dialogue: 0,0:06:48.91,0:06:51.89,Main,Aoi,0000,0000,0000,,Mind coming to the staff room with me?
+Dialogue: 0,0:06:52.12,0:06:53.37,Main,A,0000,0000,0000,,S-Sure.
+Dialogue: 0,0:07:00.39,0:07:02.48,Main,A,0000,0000,0000,,Nice to meet you!
+Dialogue: 0,0:07:01.94,0:07:02.48,Chalkboard,Sign,0000,0000,0000,,Kurashina Asuka
+Dialogue: 0,0:07:02.78,0:07:04.98,Main,Mi,0000,0000,0000,,I knew she'd join our class.
+Dialogue: 0,0:07:05.38,0:07:07.31,Main,A,0000,0000,0000,,Kuna Island is where my dad was born,
+Dialogue: 0,0:07:07.31,0:07:10.01,Main,,0000,0000,0000,,so I've come here several \Ntimes when I was little.
+Dialogue: 0,0:07:10.01,0:07:12.29,Main,A,0000,0000,0000,,But now, we've moved because of his job.
+Dialogue: 0,0:07:12.29,0:07:16.06,Main,A,0000,0000,0000,,I was marveling at the pretty \Nocean and vast sky here,
+Dialogue: 0,0:07:16.06,0:07:17.78,Main,A,0000,0000,0000,,when I fell and dropped my keys—
+Dialogue: 0,0:07:16.60,0:07:19.03,Main,Aoi,0000,0000,0000,,For starters, take a seat.
+Dialogue: 0,0:07:19.03,0:07:20.08,Main,A,0000,0000,0000,,Sorry about that.
+Dialogue: 0,0:07:22.18,0:07:24.68,Main,A,0000,0000,0000,,The sky and ocean are visible \Nfrom the classroom, too!
+Dialogue: 0,0:07:24.68,0:07:26.47,Main,Mi,0000,0000,0000,,Look, just sit down.
+Dialogue: 0,0:07:26.47,0:07:28.16,Main,A,0000,0000,0000,,Oh, Tobisawa Misaki-san!
+Dialogue: 0,0:07:28.16,0:07:30.42,Main,A,0000,0000,0000,,Thank you so much for earlier!
+Dialogue: 0,0:07:29.23,0:07:30.42,Main,Mi,0000,0000,0000,,Get away.
+Dialogue: 0,0:07:31.25,0:07:34.18,Main,A,0000,0000,0000,,You're in this class, too, Hinata Masaya-san?
+Dialogue: 0,0:07:34.18,0:07:34.93,Main,M,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:07:34.93,0:07:40.93,Chalkboard,Sign,0001,0228,0096,,Kurashina Asuka
+Dialogue: 0,0:07:35.33,0:07:36.34,Main,Aoi,0000,0000,0000,,Perfect.
+Dialogue: 0,0:07:36.34,0:07:37.87,Main,Aoi,0000,0000,0000,,Tobisawa, Hinata,
+Dialogue: 0,0:07:37.87,0:07:39.87,Main,Aoi,0000,0000,0000,,you will be Kurashina's instructors.
+Dialogue: 0,0:07:45.15,0:07:46.61,Main,Mi,0000,0000,0000,,Masaya!
+Dialogue: 0,0:07:46.90,0:07:49.92,Main,Mi,0000,0000,0000,,We're off early today, \Nso it's already after school!
+Dialogue: 0,0:07:49.92,0:07:50.97,Main,M,0000,0000,0000,,You don't have to tell me that.
+Dialogue: 0,0:07:50.97,0:07:53.38,Main,Mi,0000,0000,0000,,At last, the day can truly begin!
+Dialogue: 0,0:07:53.38,0:07:55.09,Main,Mi,0000,0000,0000,,What should I do? What should I eat?
+Dialogue: 0,0:07:55.09,0:07:58.05,Main,Mi,0000,0000,0000,,I'm drowning in endless possibilities!
+Dialogue: 0,0:07:58.05,0:08:01.46,Main,A,0000,0000,0000,,Is it just me, or is Tobisawa-san a \Ncompletely different person from this morning?
+Dialogue: 0,0:08:01.81,0:08:05.50,Main,Madoka,0000,0000,0000,,She has low blood pressure and is always \Nhalf-asleep in the morning,
+Dialogue: 0,0:08:05.50,0:08:08.44,Main,Madoka,0000,0000,0000,,so morning Misaki and afternoon Misaki\Nbasically are different people.
+Dialogue: 0,0:08:08.44,0:08:11.32,Main,Madoka,0000,0000,0000,,As her friend, I find it a bit worrying.
+Dialogue: 0,0:08:11.32,0:08:14.62,Main,Mi,0000,0000,0000,,I just live life true to myself.
+Dialogue: 0,0:08:14.62,0:08:16.80,Main,M,0000,0000,0000,,Your attitude is almost \Nenviable at this point.
+Dialogue: 0,0:08:17.15,0:08:19.46,Main,Ma,0000,0000,0000,,By the way, I'm Aoyagi Madoka.
+Dialogue: 0,0:08:19.46,0:08:21.02,Main,A,0000,0000,0000,,Nice to meet you.
+Dialogue: 0,0:08:21.41,0:08:24.37,Main,M,0000,0000,0000,,Kurashina-san, if you're free after this,
+Dialogue: 0,0:08:24.37,0:08:25.77,Main,M,0000,0000,0000,,do you want to practice \Nusing the Grav-Shoes?
+Dialogue: 0,0:08:26.00,0:08:27.09,Main,A,0000,0000,0000,,Sure.
+Dialogue: 0,0:08:27.09,0:08:29.64,Main,M,0000,0000,0000,,You're her instructor too, \NMisaki, so come along.
+Dialogue: 0,0:08:29.64,0:08:31.28,Main,Mi,0000,0000,0000,,Got it. I'll come fur sure!
+Dialogue: 0,0:08:31.49,0:08:34.11,Main,A,0000,0000,0000,,Um, what do you mean, "instructor"?
+Dialogue: 0,0:08:34.58,0:08:36.69,Main,M,0000,0000,0000,,The law states that beginners to Grav-Shoes
+Dialogue: 0,0:08:36.69,0:08:38.95,Main,M,0000,0000,0000,,must be accompanied and \Ntaught by instructors.
+Dialogue: 0,0:08:39.25,0:08:42.16,Main,M,0000,0000,0000,,Misaki and I both had \Nto get instructor's licenses.
+Dialogue: 0,0:08:42.16,0:08:45.04,Main,A,0000,0000,0000,,Then, then... You're my coaches, right?
+Dialogue: 0,0:08:45.04,0:08:47.16,Main,A,0000,0000,0000,,I'm in your care, Coach!
+Dialogue: 0,0:08:47.16,0:08:48.53,Main,M,0000,0000,0000,,S-Sure.
+Dialogue: 0,0:08:48.53,0:08:49.71,Main,Mas,0000,0000,0000,,Misaki-senpai!
+Dialogue: 0,0:08:50.32,0:08:51.45,Main,Mi,0000,0000,0000,,Mashiro.
+Dialogue: 0,0:08:53.57,0:08:56.16,Main,Mas,0000,0000,0000,,I was on duty today, so I couldn't \Ncome to school with you this morning.
+Dialogue: 0,0:08:56.16,0:08:57.92,Main,Mas,0000,0000,0000,,I was so lonely!
+Dialogue: 0,0:08:57.92,0:09:01.22,Main,Mas,0000,0000,0000,,Please let me get my fix on the way home.
+Dialogue: 0,0:09:01.22,0:09:02.80,Main,Mi,0000,0000,0000,,Sorry, not today.
+Dialogue: 0,0:09:02.80,0:09:05.02,Main,Mi,0000,0000,0000,,They made me her instructor.
+Dialogue: 0,0:09:06.10,0:09:08.31,Menacing,Sign,0000,0000,0000,,Menacing
+Dialogue: 0,0:09:08.53,0:09:09.89,Main,Mas,0000,0000,0000,,I understand.
+Dialogue: 0,0:09:09.89,0:09:11.57,Main,Mas,0000,0000,0000,,Allow me to tag along.
+Dialogue: 0,0:09:15.15,0:09:17.76,Main,Mas,0000,0000,0000,,I'm Arisaka Mashiro, of Class 1-A.
+Dialogue: 0,0:09:17.76,0:09:19.25,Main,Mas,0000,0000,0000,,I'm Misaki-senpai's subordinate.
+Dialogue: 0,0:09:19.25,0:09:21.54,Main,Mas,0000,0000,0000,,Or rather, her slave...
+Dialogue: 0,0:09:21.54,0:09:22.87,Main,Mas,0000,0000,0000,,Something along those lines.
+Dialogue: 0,0:09:22.87,0:09:24.08,Main,A,0000,0000,0000,,I-I see.
+Dialogue: 0,0:09:24.08,0:09:27.76,Main,Mas,0000,0000,0000,,By the way, Kurashina-senpai. \NDo you play games?
+Dialogue: 0,0:09:27.76,0:09:29.68,Main,Mas,0000,0000,0000,,Do you have a PSQ? A 4DS?
+Dialogue: 0,0:09:29.68,0:09:32.19,Main,Mas,0000,0000,0000,,Oh, could you be a mobile gamer?
+Dialogue: 0,0:09:32.19,0:09:34.74,Main,Mas,0000,0000,0000,,Just so you know, anything goes for me.
+Dialogue: 0,0:09:34.74,0:09:36.34,Main,Mas,0000,0000,0000,,What would you like to compete in?
+Dialogue: 0,0:09:35.36,0:09:38.38,Main,M,0000,0000,0000,,Mind if I start explaining \N Grav-Shoes already?{\an8}
+Dialogue: 0,0:09:38.85,0:09:40.32,Main,Mas,0000,0000,0000,,Feel free.
+Dialogue: 0,0:09:40.32,0:09:41.35,Main,M,0000,0000,0000,,Gee, thanks.
+Dialogue: 0,0:09:42.33,0:09:45.26,Main,M,0000,0000,0000,,Grav-Shoes—formally known \Nas Anti-Graviton Shoes—
+Dialogue: 0,0:09:45.26,0:09:48.60,Main,M,0000,0000,0000,,came into existence after the discovery \Nof a mystery anti-gravity particle.
+Dialogue: 0,0:09:48.60,0:09:50.21,Main,M,0000,0000,0000,,You know that much, right?
+Dialogue: 0,0:09:50.21,0:09:51.11,Main,A,0000,0000,0000,,Yeah, Coach!
+Dialogue: 0,0:09:51.11,0:09:57.15,Map Top,Sign,0020,0001,0020,,Land of Compassion!                     {\fs16}Kamidori Island\N{\c&H78C4EB&}{\fs22}Welcome to the\N {\c&H624CB3&}{\fs24}Four-Island Archipelago           {\fs16\c&H000000&}Kasamatsu Island
+Dialogue: 0,0:09:51.11,0:09:57.15,Map Middle,Sign,0000,0000,0000,,{\fs16\c&H624CB3&}Four-Island                  {\c&H000000&}Kuna Island\N{\c&H624CB3&} Archipelago {\c&H8ECEAC&}Map
+Dialogue: 0,0:09:51.11,0:09:57.15,Map Bottom,Sign,0136,0001,0118,,{\fs16}Fukuru Island
+Dialogue: 0,0:09:51.57,0:09:57.15,Main,M,0000,0000,0000,,The Four-Island Archipelago is a special zone \Nwhere Grav-Shoes can be used to travel.
+Dialogue: 0,0:09:57.46,0:10:01.92,Main,M,0000,0000,0000,,Students here have been permitted to fly \Nto school in them for a few years now.
+Dialogue: 0,0:10:01.92,0:10:06.66,Main,Mi,0000,0000,0000,,Mew're boring me! That's enough \Nexplaining, don't you think?
+Dialogue: 0,0:10:06.66,0:10:07.79,Main,A,0000,0000,0000,,Okay, Coach!
+Dialogue: 0,0:10:09.44,0:10:11.92,Main,M,0000,0000,0000,,Well, raise your heels \Nslightly off the ground.
+Dialogue: 0,0:10:12.50,0:10:13.79,Main,A,0000,0000,0000,,Like this?
+Dialogue: 0,0:10:13.79,0:10:14.50,Main,M,0000,0000,0000,,Yeah.
+Dialogue: 0,0:10:14.96,0:10:16.64,Main,M,0000,0000,0000,,Now, when you're ready,
+Dialogue: 0,0:10:16.64,0:10:18.40,Main,M,0000,0000,0000,,verbally command your shoes to fly.
+Dialogue: 0,0:10:18.40,0:10:20.60,Main,M,0000,0000,0000,,They'll activate and rise \Ngently off the ground.
+Dialogue: 0,0:10:20.60,0:10:21.85,Main,A,0000,0000,0000,,O-Okay.
+Dialogue: 0,0:10:25.82,0:10:27.98,Main,A,0000,0000,0000,,One, two, three, and...
+Dialogue: 0,0:10:28.37,0:10:28.98,Main,A,0000,0000,0000,,Fly!
+Dialogue: 0,0:10:34.48,0:10:37.40,Main,A,0000,0000,0000,,It works! I'm floating!
+Dialogue: 0,0:10:40.24,0:10:45.11,Main,A,0000,0000,0000,,I'm flying! I'm actually flying!
+Dialogue: 0,0:10:47.81,0:10:50.90,Main,Mas,0000,0000,0000,,Kurashina-senpai seems \Nto be enjoying herself.
+Dialogue: 0,0:10:50.90,0:10:51.91,Main,Mi,0000,0000,0000,,But...
+Dialogue: 0,0:10:51.91,0:10:55.15,Main,Mi,0000,0000,0000,,If she flaps her arms around \Nthat much, she'll start reeling.
+Dialogue: 0,0:10:55.15,0:10:56.61,Main,A,0000,0000,0000,,I suddenly lost balance!
+Dialogue: 0,0:10:56.61,0:10:57.44,Main,Mi,0000,0000,0000,,See?
+Dialogue: 0,0:10:59.95,0:11:01.18,Main,A,0000,0000,0000,,H-Huh?
+Dialogue: 0,0:11:02.21,0:11:03.68,Main,Mi,0000,0000,0000,,It's all good.
+Dialogue: 0,0:11:03.68,0:11:07.12,Main,Mi,0000,0000,0000,,Safe landing technology \Nis built into Grav-Shoes, too.
+Dialogue: 0,0:11:07.12,0:11:08.39,Main,A,0000,0000,0000,,R-Right...
+Dialogue: 0,0:11:08.88,0:11:10.39,Main,M,0000,0000,0000,,This is how it usually goes at first.
+Dialogue: 0,0:11:11.08,0:11:13.36,Main,A,0000,0000,0000,,I'm no good at all.
+Dialogue: 0,0:11:13.36,0:11:15.48,Main,Mi,0000,0000,0000,,Okay, let's wrap it up for today
+Dialogue: 0,0:11:15.70,0:11:17.06,Main,Mi,0000,0000,0000,,and go eat some udon!
+Dialogue: 0,0:11:17.06,0:11:17.81,Main,M,0000,0000,0000,,Hey...
+Dialogue: 0,0:11:17.81,0:11:19.36,Main,A,0000,0000,0000,,Udon?
+Dialogue: 0,0:11:19.64,0:11:21.96,Main,Mi,0000,0000,0000,,Yep. The Four-Islands' specialty udon.
+Dialogue: 0,0:11:21.96,0:11:23.92,Main,Mi,0000,0000,0000,,And I'm starving!
+Dialogue: 0,0:11:23.92,0:11:27.01,Main,Mas,0000,0000,0000,,Sure. What topping will you get today?
+Dialogue: 0,0:11:27.53,0:11:28.66,Main,Mi,0000,0000,0000,,What would be purrfect?
+Dialogue: 0,0:11:28.66,0:11:30.06,Main,M,0000,0000,0000,,Sheesh.
+Dialogue: 0,0:11:30.06,0:11:32.11,Main,Mi,0000,0000,0000,,We'll fly ahead.
+Dialogue: 0,0:11:32.11,0:11:33.84,Main,Mi,0000,0000,0000,,Hurry up and join us, okay?
+Dialogue: 0,0:11:33.84,0:11:34.88,Main,M,0000,0000,0000,,Got it.
+Dialogue: 0,0:11:36.19,0:11:37.22,Main,Mi,0000,0000,0000,,Cleared fur take off!
+Dialogue: 0,0:11:37.22,0:11:38.25,Main,Mas,0000,0000,0000,,Meow, too!
+Dialogue: 0,0:11:44.00,0:11:48.31,Main,A,0000,0000,0000,,Oh, so your family runs this \Nudon restaurant, Arisaka-san.
+Dialogue: 0,0:11:45.45,0:11:48.31,Mashiro Udon,Sign,0000,0000,0000,,Mashiro Udon
+Dialogue: 0,0:11:48.53,0:11:50.18,Main,A,0000,0000,0000,,Whoa, flying fish!
+Dialogue: 0,0:11:50.18,0:11:52.19,Main,A,0000,0000,0000,,I love them!
+Dialogue: 0,0:11:52.46,0:11:56.22,Main,Mi,0000,0000,0000,,They use those flyers for the \Nstock here. It's delicious.
+Dialogue: 0,0:11:56.22,0:11:57.40,Main,A,0000,0000,0000,,Flyers?
+Dialogue: 0,0:11:57.79,0:12:02.33,Main,Mas,0000,0000,0000,,Until the udon gets here, let's have \Na quiz on Kuna Island's Misaki-senpai!
+Dialogue: 0,0:12:02.33,0:12:03.03,Main,Mi,0000,0000,0000,,Why?
+Dialogue: 0,0:12:03.03,0:12:04.38,Main,M,0000,0000,0000,,Count me out.
+Dialogue: 0,0:12:04.38,0:12:05.33,Main,A,0000,0000,0000,,Let's do it!
+Dialogue: 0,0:12:05.33,0:12:07.62,Main,A,0000,0000,0000,,I want to get to you know you all better!
+Dialogue: 0,0:12:07.62,0:12:09.12,Main,Mas,0000,0000,0000,,Here comes question one, then.
+Dialogue: 0,0:12:10.37,0:12:12.23,Main,Mas,0000,0000,0000,,What is Misaki-san's favorite hobby?
+Dialogue: 0,0:12:13.52,0:12:14.87,Main,A,0000,0000,0000,,Dunno.
+Dialogue: 0,0:12:14.87,0:12:15.58,Main,Mas,0000,0000,0000,,Bzzt.
+Dialogue: 0,0:12:15.95,0:12:19.18,Main,Mas,0000,0000,0000,,The answer is, "Making nukadoko pickling \Nbeds, which she picked up from her grandma."
+Dialogue: 0,0:12:19.80,0:12:21.01,Main,Mas,0000,0000,0000,,Moving on to question two.
+Dialogue: 0,0:12:21.01,0:12:23.21,Main,Mas,0000,0000,0000,,What are Misaki-senpai's measurements?
+Dialogue: 0,0:12:23.21,0:12:24.10,Main,Mi,0000,0000,0000,,Hey!
+Dialogue: 0,0:12:24.10,0:12:27.98,Main,Mas,0000,0000,0000,,Mine plus 11-7-12!
+Dialogue: 0,0:12:27.98,0:12:28.97,Main,Mi,0000,0000,0000,,How do you know that?
+Dialogue: 0,0:12:28.97,0:12:30.60,Main,MasMo,0000,0000,0000,,Here's your order!
+Dialogue: 0,0:12:31.26,0:12:32.99,Main,MasMo,0000,0000,0000,,Thanks as always.
+Dialogue: 0,0:12:32.99,0:12:34.10,Main,Mi,0000,0000,0000,,No, thank {\i1}you{\i0}!
+Dialogue: 0,0:12:35.24,0:12:36.61,Main,A,0000,0000,0000,,This looks amazing.
+Dialogue: 0,0:12:36.61,0:12:38.82,Main,MasMo,0000,0000,0000,,It's hot. Be careful \Nnot to burn yer tongue.
+Dialogue: 0,0:12:38.82,0:12:46.66,Mashiro Udon,Sign,0000,0000,0000,,Closed for Today - Mashiro Udon
+Dialogue: 0,0:12:39.08,0:12:43.09,Main,Mas,0000,0000,0000,,Misaki-senpai, let's go \Nto school together tomorrow!
+Dialogue: 0,0:12:43.09,0:12:43.94,Main,Mi,0000,0000,0000,,Okay, okay.
+Dialogue: 0,0:12:43.94,0:12:46.66,Main,MasMo,0000,0000,0000,,You two get on so well.
+Dialogue: 0,0:12:47.38,0:12:49.22,Main,Mi,0000,0000,0000,,Well, see you tomorrow.
+Dialogue: 0,0:12:49.22,0:12:51.75,Main,A,0000,0000,0000,,Thank you for today!
+Dialogue: 0,0:12:53.32,0:12:56.25,Main,A,0000,0000,0000,,Tobisawa-san is so pretty when she flies.
+Dialogue: 0,0:12:56.77,0:12:59.33,Main,A,0000,0000,0000,,On the other hand, I'm no good at all.
+Dialogue: 0,0:12:59.33,0:13:01.13,Main,M,0000,0000,0000,,Don't let it bother you so much.
+Dialogue: 0,0:13:01.97,0:13:04.17,Main,M,0000,0000,0000,,Little by little, you'll \Nget better with practice.
+Dialogue: 0,0:13:05.94,0:13:07.84,Main,M,0000,0000,0000,,Uh, Kurashina-san...
+Dialogue: 0,0:13:07.84,0:13:09.49,Main,M,0000,0000,0000,,You don't have to be depressed about it.
+Dialogue: 0,0:13:09.49,0:13:10.31,Main,A,0000,0000,0000,,I'm upset.
+Dialogue: 0,0:13:11.39,0:13:12.82,Main,M,0000,0000,0000,,R-Right.
+Dialogue: 0,0:13:12.82,0:13:15.69,Main,A,0000,0000,0000,,Back then, when I took flight by myself,
+Dialogue: 0,0:13:15.69,0:13:17.60,Main,A,0000,0000,0000,,It was so much fun.
+Dialogue: 0,0:13:17.99,0:13:22.29,Main,A,0000,0000,0000,,But I immediately lost my balance and fell.
+Dialogue: 0,0:13:22.78,0:13:23.74,Main,A,0000,0000,0000,,I'm pathetic.
+Dialogue: 0,0:13:25.78,0:13:26.49,Main,A,0000,0000,0000,,So, please!
+Dialogue: 0,0:13:26.92,0:13:29.62,Main,A,0000,0000,0000,,Give me the spartan treatment \Nstarting tomorrow, Coach.
+Dialogue: 0,0:13:29.95,0:13:31.54,Main,M,0000,0000,0000,,O-Okay...
+Dialogue: 0,0:13:31.54,0:13:33.20,Main,A,0000,0000,0000,,Thank you!
+Dialogue: 0,0:13:34.96,0:13:36.25,Main,A,0000,0000,0000,,I'm home!
+Dialogue: 0,0:13:40.33,0:13:43.51,Main,A,0000,0000,0000,,Things aren't going so well. \NI'm no good at all.
+Dialogue: 0,0:13:45.36,0:13:46.22,Main,A,0000,0000,0000,,But...
+Dialogue: 0,0:13:49.23,0:13:52.14,Main,A,0000,0000,0000,,Flying feels so great.
+Dialogue: 0,0:13:52.14,0:13:53.96,Main,A,0000,0000,0000,,I can't wait for tomorrow.
+Dialogue: 0,0:13:55.23,0:13:58.53,Main,A,0000,0000,0000,,Coach Tobisawa, Coach Hinata,
+Dialogue: 0,0:13:58.53,0:14:00.76,Main,A,0000,0000,0000,,please teach me lots more.
+Dialogue: 0,0:14:02.03,0:14:03.93,Main,M,0000,0000,0000,,Did someone move in next door—
+Dialogue: 0,0:14:20.33,0:14:22.84,Kunahama Institute High School,Sign,0000,0000,0000,,{\fad(530,1)}Kunahama Institute High School
+Dialogue: 0,0:14:27.73,0:14:31.72,Main,Mi,0000,0000,0000,,Man, I've meowver seen a beginner \Nbe so bad at this before.
+Dialogue: 0,0:14:31.72,0:14:32.47,Main,M,0000,0000,0000,,Kurashina-san!
+Dialogue: 0,0:14:33.21,0:14:34.32,Main,M,0000,0000,0000,,Calm down!
+Dialogue: 0,0:14:34.69,0:14:36.74,Main,Mi,0000,0000,0000,,Come on! You need to relax!
+Dialogue: 0,0:14:36.74,0:14:38.57,Main,A,0000,0000,0000,,Okay! I will relax!
+Dialogue: 0,0:14:38.57,0:14:40.10,Main,Mi,0000,0000,0000,,Uh, you're stiffening up instead.
+Dialogue: 0,0:14:41.66,0:14:43.31,Main,A,0000,0000,0000,,How else am I supposed to—
+Dialogue: 0,0:14:43.82,0:14:44.59,Main,Mas,0000,0000,0000,,She got swept away?!
+Dialogue: 0,0:14:44.59,0:14:45.52,Main,MMi,0000,0000,0000,,No way!
+Dialogue: 0,0:14:45.52,0:14:46.48,Main,M,0000,0000,0000,,We have to go after her!
+Dialogue: 0,0:14:46.48,0:14:48.04,Main,Mi,0000,0000,0000,,She's such a troublemeowker.
+Dialogue: 0,0:14:48.04,0:14:49.99,Main,Mas,0000,0000,0000,,She really is.
+Dialogue: 0,0:14:52.14,0:14:54.29,Main,A,0000,0000,0000,,I'm totally no good at all.
+Dialogue: 0,0:14:54.29,0:14:56.56,Main,Mi,0000,0000,0000,,Wait, what's with that posture?
+Dialogue: 0,0:14:56.56,0:14:59.28,Main,A,0000,0000,0000,,For some reason, this makes me more stable.
+Dialogue: 0,0:14:59.28,0:15:00.10,Main,Mi,0000,0000,0000,,Really...
+Dialogue: 0,0:15:00.10,0:15:02.36,Main,Mas,0000,0000,0000,,She might just be a super-rare specimen.
+Dialogue: 0,0:15:04.82,0:15:05.94,Main,Mas,0000,0000,0000,,What's that?
+Dialogue: 0,0:15:05.94,0:15:07.59,Main,Mas,0000,0000,0000,,A street fight?
+Dialogue: 0,0:15:07.59,0:15:08.97,Main,Mi,0000,0000,0000,,Doesn't look like it.
+Dialogue: 0,0:15:09.48,0:15:10.90,Main,Mas,0000,0000,0000,,Let's go sneak a peek!
+Dialogue: 0,0:15:11.98,0:15:13.47,Main,A,0000,0000,0000,,W-Wait for me!
+Dialogue: 0,0:15:13.95,0:15:16.74,Main,Reiko,0000,0000,0000,,You challenge me to a \Nmatch and lose right away?
+Dialogue: 0,0:15:16.74,0:15:18.14,Main,Reiko,0000,0000,0000,,How unseemly!
+Dialogue: 0,0:15:18.74,0:15:21.02,Main,Reiko,0000,0000,0000,,This is why I told you...
+Dialogue: 0,0:15:21.02,0:15:22.15,Vertical,Sign,0000,0000,0000,,Satouin Reiko
+Dialogue: 0,0:15:21.02,0:15:24.20,Main,R,0000,0000,0000,,Going up against me, Satouin Reiko,
+Dialogue: 0,0:15:24.20,0:15:27.68,Main,R,0000,0000,0000,,is akin to taking on \Na shark in the Pacific Ocean!
+Dialogue: 0,0:15:27.68,0:15:29.53,Main,Shion,0000,0000,0000,,That analogy makes no sense, but damn it all!
+Dialogue: 0,0:15:30.47,0:15:33.01,Main,Mi,0000,0000,0000,,Hey, that's Madoka's big brother.
+Dialogue: 0,0:15:33.01,0:15:35.60,Main,A,0000,0000,0000,,What's going on? A duel?
+Dialogue: 0,0:15:35.60,0:15:42.48,Main,R,0000,0000,0000,,Nobody at Kunahama can hold a\N candle to me, Satouin, at Flying Circus.
+Dialogue: 0,0:15:43.65,0:15:45.60,Main,A,0000,0000,0000,,Flying Circus?
+Dialogue: 0,0:15:45.60,0:15:47.82,Main,Mi,0000,0000,0000,,A sport played using Grav-Shoes.
+Dialogue: 0,0:15:47.82,0:15:49.60,Main,Mas,0000,0000,0000,,Wait, you've never heard of it?!
+Dialogue: 0,0:15:49.60,0:15:50.30,Main,A,0000,0000,0000,,No...
+Dialogue: 0,0:15:50.72,0:15:56.47,Main,R,0000,0000,0000,,Then, as promised, I shall take the \N"In" in Kunahama Institute for myself.
+Dialogue: 0,0:15:51.93,0:15:53.30,Vertical,Sign,0000,0000,0000,,Kunahama Institute
+Dialogue: 0,0:15:53.30,0:15:54.14,Vertical,Sign,0000,0000,0000,,Kunahama {\c&H3B1CEF&}In{\c&HFFFFFF&}stitute
+Dialogue: 0,0:15:56.51,0:15:58.60,Kunahama Institute High School,Sign,0000,0000,0000,,Kunahama Institute High School
+Dialogue: 0,0:15:56.87,0:15:59.09,Main,R,0000,0000,0000,,Starting today, you're no \Nlonger Kunahama Institute.
+Dialogue: 0,0:15:58.60,0:16:01.69,Kunahama Institute High School,Sign,0000,0000,0000,,Kunahama stitute High School
+Dialogue: 0,0:15:59.09,0:16:01.36,Main,R,0000,0000,0000,,Call yourselves "Kunahama Stitute" from now.
+Dialogue: 0,0:16:02.05,0:16:04.55,Main,Sh,0000,0000,0000,,No! Anything but that!
+Dialogue: 0,0:16:04.55,0:16:07.19,Main,A,0000,0000,0000,,What? Is our school going \Nto have its name changed?
+Dialogue: 0,0:16:07.19,0:16:08.10,Main,Mi,0000,0000,0000,,Hold your horses.
+Dialogue: 0,0:16:08.10,0:16:09.03,Main,Mas,0000,0000,0000,,Kurashina-senpai?
+Dialogue: 0,0:16:09.28,0:16:12.37,Main,A,0000,0000,0000,,This is bad! The name "Kunahama \NStitute" would really suck!
+Dialogue: 0,0:16:12.37,0:16:13.36,Main,Mi,0000,0000,0000,,No, look...
+Dialogue: 0,0:16:13.36,0:16:14.61,Main,Mas,0000,0000,0000,,Come back to us!
+Dialogue: 0,0:16:14.61,0:16:16.39,Main,A,0000,0000,0000,,Um, excuse me!
+Dialogue: 0,0:16:16.39,0:16:17.02,Main,Mi,0000,0000,0000,,You idiot!
+Dialogue: 0,0:16:17.02,0:16:18.03,Main,Mas,0000,0000,0000,,She spotted us!
+Dialogue: 0,0:16:18.48,0:16:21.06,Main,A,0000,0000,0000,,Uh, I don't really get it,
+Dialogue: 0,0:16:21.06,0:16:24.29,Main,A,0000,0000,0000,,but if I beat you at this \NFlying Circus thing,
+Dialogue: 0,0:16:24.29,0:16:26.04,Main,A,0000,0000,0000,,will you return the "In"?
+Dialogue: 0,0:16:26.45,0:16:27.04,Main,R,0000,0000,0000,,Excuse me?
+Dialogue: 0,0:16:27.62,0:16:28.29,Main,Sh,0000,0000,0000,,Who are you?
+Dialogue: 0,0:16:28.69,0:16:30.94,Main,Mi,0000,0000,0000,,Why am I even hiding?
+Dialogue: 0,0:16:29.01,0:16:32.92,Main,A,0000,0000,0000,,I'm Kurashina Asuka, and I transferred \Ninto Kunahama yesterday!{\an8}
+Dialogue: 0,0:16:30.94,0:16:32.92,Main,Mas,0000,0000,0000,,A street fight! So exciting!
+Dialogue: 0,0:16:33.61,0:16:36.64,Main,R,0000,0000,0000,,So you're challenging me to a match, correct?
+Dialogue: 0,0:16:37.07,0:16:39.97,Main,R,0000,0000,0000,,Are you that confident in \Nyour Flying Circus skills?
+Dialogue: 0,0:16:40.47,0:16:42.59,Main,A,0000,0000,0000,,No, I only heard about it just now.
+Dialogue: 0,0:16:43.66,0:16:46.98,Main,A,0000,0000,0000,,Today's also the first time I \Nflew using Grav-Shoes by myself.
+Dialogue: 0,0:16:47.51,0:16:49.69,Main,R,0000,0000,0000,,Could you please stop with the jokes?
+Dialogue: 0,0:16:50.21,0:16:52.42,Main,A,0000,0000,0000,,I'm not joking. I'm serious.
+Dialogue: 0,0:16:54.00,0:16:55.38,Main,R,0000,0000,0000,,Very well.
+Dialogue: 0,0:16:55.79,0:16:58.91,Main,R,0000,0000,0000,,If you're so insistent, \NI accept your challenge.
+Dialogue: 0,0:16:58.91,0:16:59.42,Main,Sh,0000,0000,0000,,What?
+Dialogue: 0,0:16:59.42,0:17:01.20,Main,A,0000,0000,0000,,Thank you!
+Dialogue: 0,0:17:01.20,0:17:02.41,Main,Mi,0000,0000,0000,,Wait, time out!
+Dialogue: 0,0:17:02.91,0:17:05.41,Main,Mi,0000,0000,0000,,She's a Takafuji Academy student!
+Dialogue: 0,0:17:05.41,0:17:09.17,Main,Mas,0000,0000,0000,,And Takafuji Academy is a \NFlying Circus powerhouse.
+Dialogue: 0,0:17:09.17,0:17:11.06,Main,Mas,0000,0000,0000,,Things are getting interesting.
+Dialogue: 0,0:17:11.06,0:17:12.42,Main,Mi,0000,0000,0000,,Oh, come on.
+Dialogue: 0,0:17:12.42,0:17:15.51,Main,A,0000,0000,0000,,Coach, teach me how to play Flying Circus.
+Dialogue: 0,0:17:15.95,0:17:17.14,Main,A,0000,0000,0000,,Please.
+Dialogue: 0,0:17:18.64,0:17:30.23,Chalkboard - rules top,Sign,0000,0000,0000,,Touch the 4 buoys floating     Time Limit 10m                    Buoy\Nabove the water clockwise
+Dialogue: 0,0:17:18.64,0:17:30.23,Chalkboard - rules top,Sign,0043,0001,0125,,Ocean
+Dialogue: 0,0:17:18.64,0:17:30.23,Chalkboard - rules bottom,Sign,0141,0001,0100,,Shore
+Dialogue: 0,0:17:18.64,0:17:30.23,Chalkboard - rules middle,Sign,0001,0217,0154,,{\an9}Player B\NPlayer A
+Dialogue: 0,0:17:19.23,0:17:22.15,Main,Mi,0000,0000,0000,,Flying Circus is usually \Nplayed above the ocean,
+Dialogue: 0,0:17:22.15,0:17:25.61,Main,Mi,0000,0000,0000,,in a square playing area marked \Nby four buoys placed 300m apart.
+Dialogue: 0,0:17:25.61,0:17:27.09,Main,Mi,0000,0000,0000,,Matches are one-on-one,
+Dialogue: 0,0:17:27.09,0:17:30.37,Main,Mi,0000,0000,0000,,and the player who scores the \Nmost points in ten minutes wins.
+Dialogue: 0,0:17:30.37,0:17:32.29,Main,Mi,0000,0000,0000,,There are two ways to score points:
+Dialogue: 0,0:17:30.37,0:17:36.24,Chalkboard - rules top,Sign,0000,0000,0000,,{\a6}Scoring Methods\N 1. Touch Opponent's Back	       2. Touch the Buoys
+Dialogue: 0,0:17:30.37,0:17:36.24,Chalkboard - rules middle,Sign,0001,0215,0144,,{\an3}Buoy
+Dialogue: 0,0:17:32.29,0:17:33.84,Main,Mi,0000,0000,0000,,either by touching your opponent's back,
+Dialogue: 0,0:17:33.84,0:17:36.24,Main,Mi,0000,0000,0000,,or by touching all four buoys in sequence.
+Dialogue: 0,0:17:37.49,0:17:39.53,Main,Sh,0000,0000,0000,,So this actually is your first time?
+Dialogue: 0,0:17:40.02,0:17:43.73,Main,R,0000,0000,0000,,Since you're a beginner, I'll drop \Nthe number of buoys down to two.
+Dialogue: 0,0:17:43.73,0:17:46.46,Main,R,0000,0000,0000,,The match will last five \Nminutes, half length.
+Dialogue: 0,0:17:46.46,0:17:49.48,Main,R,0000,0000,0000,,If you score even a single point, you win.
+Dialogue: 0,0:17:50.08,0:17:51.00,Main,A,0000,0000,0000,,Understood.
+Dialogue: 0,0:17:51.30,0:17:53.35,Main,R,0000,0000,0000,,You'll be the referee, Shion-san.
+Dialogue: 0,0:17:53.35,0:17:54.44,Main,Sh,0000,0000,0000,,O-Okay.
+Dialogue: 0,0:17:54.44,0:17:57.80,Main,R,0000,0000,0000,,And you, be her second.
+Dialogue: 0,0:17:57.80,0:17:58.55,Main,Mi,0000,0000,0000,,Who, me?
+Dialogue: 0,0:17:59.12,0:18:00.98,Main,A,0000,0000,0000,,"Second"?
+Dialogue: 0,0:18:00.98,0:18:03.19,Main,Mi,0000,0000,0000,,Someone who gives a player \Nadvice from the ground.
+Dialogue: 0,0:18:03.19,0:18:04.32,Main,A,0000,0000,0000,,I see.
+Dialogue: 0,0:18:04.32,0:18:07.09,Main,A,0000,0000,0000,,In that case, Coach, I look forward \Nto your invaluable advice!
+Dialogue: 0,0:18:09.49,0:18:12.57,Main,S,0000,0000,0000,,May my wings be covered \Nin the blessings of blue!
+Dialogue: 0,0:18:14.47,0:18:16.37,Main,Mi,0000,0000,0000,,Don't just stand there.
+Dialogue: 0,0:18:16.37,0:18:19.68,Main,Mi,0000,0000,0000,,You have to start from \Nthe first buoy up there.
+Dialogue: 0,0:18:19.68,0:18:21.66,Main,A,0000,0000,0000,,O-Oh, okay.
+Dialogue: 0,0:18:22.03,0:18:23.87,Main,A,0000,0000,0000,,Here I go. Fly!
+Dialogue: 0,0:18:26.82,0:18:28.81,Main,Mas,0000,0000,0000,,Will she be okay?
+Dialogue: 0,0:18:28.81,0:18:29.42,Main,Mi,0000,0000,0000,,Beats me.
+Dialogue: 0,0:18:30.83,0:18:31.88,Main,A,0000,0000,0000,,Sorry to keep you waiting.
+Dialogue: 0,0:18:32.80,0:18:34.84,Main,Sh,0000,0000,0000,,Let's begin!
+Dialogue: 0,0:18:34.84,0:18:36.05,Main,Sh,0000,0000,0000,,Get ready...
+Dialogue: 0,0:18:37.82,0:18:38.84,Main,Sh,0000,0000,0000,,Set!
+Dialogue: 0,0:18:47.01,0:18:49.44,Main,R,0000,0000,0000,,There's one point, for starters.
+Dialogue: 0,0:18:50.73,0:18:52.15,Main,Sh,0000,0000,0000,,Point scored by Satouin!
+Dialogue: 0,0:18:52.61,0:18:54.02,Main,A,0000,0000,0000,,H-Huh?
+Dialogue: 0,0:18:57.34,0:18:59.25,Main,M,0000,0000,0000,,Hey! What the hell is going on here?
+Dialogue: 0,0:18:59.25,0:19:01.20,Main,Mi,0000,0000,0000,,A match, obviously.
+Dialogue: 0,0:19:01.93,0:19:02.87,Main,M,0000,0000,0000,,What?!
+Dialogue: 0,0:19:04.50,0:19:06.29,Main,M,0000,0000,0000,,K-Kurashina-san...
+Dialogue: 0,0:19:06.87,0:19:08.96,Main,M,0000,0000,0000,,That's a Takafuji Academy student!
+Dialogue: 0,0:19:09.66,0:19:10.96,Main,M,0000,0000,0000,,Is she wearing competition Grav-Shoes?
+Dialogue: 0,0:19:11.54,0:19:13.57,Main,M,0000,0000,0000,,Why is she taking on someone like that?
+Dialogue: 0,0:19:13.57,0:19:16.39,Main,Mas,0000,0000,0000,,She went and accepted a \Nchallenge nobody made to her.
+Dialogue: 0,0:19:16.39,0:19:18.70,Main,M,0000,0000,0000,,What? That doesn't make any sense.
+Dialogue: 0,0:19:18.70,0:19:20.24,Main,Mi,0000,0000,0000,,I know, right?
+Dialogue: 0,0:19:23.51,0:19:25.38,Main,M,0000,0000,0000,,Misaki, let me take over as second.
+Dialogue: 0,0:19:25.38,0:19:26.18,Main,Mi,0000,0000,0000,,Sure.
+Dialogue: 0,0:19:28.50,0:19:29.68,Main,M,0000,0000,0000,,Kurashina-san, do you hear me?
+Dialogue: 0,0:19:30.05,0:19:31.14,Main,A,0000,0000,0000,,Huh? Y-Yes.
+Dialogue: 0,0:19:31.85,0:19:33.51,Main,A,0000,0000,0000,,Coach Hinata...
+Dialogue: 0,0:19:33.51,0:19:35.23,Main,M,0000,0000,0000,,First, look to block off the opponent's path.
+Dialogue: 0,0:19:36.44,0:19:40.32,Italics,M,0000,0000,0000,,Spread your arms, like a soccer goalkeeper.
+Dialogue: 0,0:19:40.32,0:19:42.38,Main,A,0000,0000,0000,,L-Like this?
+Dialogue: 0,0:19:42.38,0:19:46.00,Main,R,0000,0000,0000,,Do you honestly believe you can \Nstop me with a defense like that?
+Dialogue: 0,0:19:47.24,0:19:48.63,Main,A,0000,0000,0000,,H-Here she comes!
+Dialogue: 0,0:19:48.63,0:19:51.37,Italics,M,0000,0000,0000,,Use a feint to create an opening, \Nand then touch her back!
+Dialogue: 0,0:19:51.86,0:19:53.60,Italics,M,0000,0000,0000,,Just circle around to her back and touch it!
+Dialogue: 0,0:19:53.60,0:19:54.92,Main,A,0000,0000,0000,,Her back, right?
+Dialogue: 0,0:19:54.92,0:19:56.09,Main,A,0000,0000,0000,,There!
+Dialogue: 0,0:20:00.33,0:20:01.97,Main,Sh,0000,0000,0000,,Satouin has two points!
+Dialogue: 0,0:20:02.98,0:20:05.39,Main,R,0000,0000,0000,,On top having no idea \Nhow to play Flying Circus,
+Dialogue: 0,0:20:05.87,0:20:09.75,Main,R,0000,0000,0000,,you also can't even fly properly?
+Dialogue: 0,0:20:10.49,0:20:12.99,Main,R,0000,0000,0000,,You insult me just by trying to take me on!
+Dialogue: 0,0:20:23.78,0:20:25.46,Main,Sh,0000,0000,0000,,Satouin has nine points.
+Dialogue: 0,0:20:25.46,0:20:26.62,Main,Sh,0000,0000,0000,,The score is 9-0.
+Dialogue: 0,0:20:31.12,0:20:32.39,Main,Mi,0000,0000,0000,,It was impossible after all, huh?
+Dialogue: 0,0:20:32.39,0:20:35.50,Main,Mas,0000,0000,0000,,She doesn't seem at all \Nlikely to score a point.
+Dialogue: 0,0:20:35.86,0:20:39.00,Main,R,0000,0000,0000,,Well, then. Here I come \Nto score my tenth point.
+Dialogue: 0,0:20:39.74,0:20:42.22,Main,R,0000,0000,0000,,Why don't you give up already?
+Dialogue: 0,0:20:42.47,0:20:44.26,Main,A,0000,0000,0000,,I'll never give up!
+Dialogue: 0,0:20:44.26,0:20:47.55,Main,A,0000,0000,0000,,I have to protect the "In" \Nin Kunahama Institute!
+Dialogue: 0,0:20:47.92,0:20:50.06,Main,A,0000,0000,0000,,I'm going to score a point, no matter what!
+Dialogue: 0,0:20:52.38,0:20:53.81,Main,Mi,0000,0000,0000,,She doesn't like to lose, eh?
+Dialogue: 0,0:20:54.18,0:20:55.11,Main,M,0000,0000,0000,,Kurashina-san.
+Dialogue: 0,0:20:55.11,0:20:56.30,Italics,A,0000,0000,0000,,Y-Yes?
+Dialogue: 0,0:20:56.30,0:20:58.65,Main,M,0000,0000,0000,,Do exactly as I say from now on.
+Dialogue: 0,0:20:58.98,0:21:00.40,Main,A,0000,0000,0000,,Okay, got it.
+Dialogue: 0,0:21:00.92,0:21:03.15,Main,R,0000,0000,0000,,What might you be whispering about?
+Dialogue: 0,0:21:03.98,0:21:06.25,Main,R,0000,0000,0000,,Ready or not, here I come!
+Dialogue: 0,0:21:06.25,0:21:08.20,Main,M,0000,0000,0000,,Now! Close your legs!
+Dialogue: 0,0:21:08.20,0:21:10.20,Main,M,0000,0000,0000,,Then ascend like you're \Ndoing a backward somersault!
+Dialogue: 0,0:21:10.48,0:21:11.45,Main,R,0000,0000,0000,,Oh, my.
+Dialogue: 0,0:21:11.45,0:21:14.91,Main,R,0000,0000,0000,,Are you going to honor my \Ntriumphant return with an arch?
+Dialogue: 0,0:21:14.91,0:21:15.79,Main,N,0000,0000,0000,,There!
+Dialogue: 0,0:21:15.99,0:21:16.67,Italics,N,0000,0000,0000,,Go!
+Dialogue: 0,0:21:17.19,0:21:20.13,Main,A,0000,0000,0000,,I'll have your back!
+Dialogue: 0,0:21:20.13,0:21:22.63,Main,R,0000,0000,0000,,Not so fast!
+Dialogue: 0,0:21:25.45,0:21:26.68,Main,Mi,0000,0000,0000,,She dodged it!
+Dialogue: 0,0:21:29.60,0:21:30.68,Main,Sh,0000,0000,0000,,Down to ten seconds left!
+Dialogue: 0,0:21:33.80,0:21:34.93,Main,M,0000,0000,0000,,Is this it?
+Dialogue: 0,0:21:37.70,0:21:42.42,Flashback,A,0000,0000,0000,,You are weak, oh so weak, but you can fly
+Dialogue: 0,0:21:43.54,0:21:47.03,Main,A,0000,0000,0000,,If you can set
+Dialogue: 0,0:21:47.03,0:21:50.83,Main,A,0000,0000,0000,,yourself free...
+Dialogue: 0,0:21:55.25,0:21:57.08,Main,M,0000,0000,0000,,An air kick turn?!
+Dialogue: 0,0:21:57.33,0:21:59.21,Main,R,0000,0000,0000,,N-No way!
+Dialogue: 0,0:21:59.61,0:22:01.96,Main,A,0000,0000,0000,,I-I did it!
+Dialogue: 0,0:22:02.53,0:22:04.59,Main,A,0000,0000,0000,,I scored a point!
+Dialogue: 0,0:22:07.30,0:22:09.89,Main,Sh,0000,0000,0000,,P-Point scored by, uh...
+Dialogue: 0,0:22:11.53,0:22:13.23,Main,A,0000,0000,0000,,Kurashina Asuka!
+Dialogue: 0,0:22:12.14,0:22:15.10,To be Continued,Sign,0001,0061,0094,,To Be Continued
+Dialogue: 0,0:23:45.23,0:23:46.61,Preview,Sign,0000,0000,0000,,{\fad(1028,1)}Preview
+Dialogue: 0,0:23:45.75,0:23:47.68,Main,A,0000,0000,0000,,I won!
+Dialogue: 0,0:23:46.93,0:23:50.59,Main,Mi,0000,0000,0000,,And here I thought he had \Nno desire to go back.{\an8}
+Dialogue: 0,0:23:50.59,0:23:51.15,Main,M,0000,0000,0000,,I...
+Dialogue: 0,0:23:51.73,0:23:53.78,Main,A,0000,0000,0000,,Udon?!
+Dialogue: 0,0:23:52.11,0:23:55.07,Episode-Title - End,Title,0000,0000,0000,,Episode Two:\N "Udon...?"
+Dialogue: 0,0:23:53.78,0:23:55.16,Main,,0000,0000,0000,,Extra large!

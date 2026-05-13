@@ -1,0 +1,401 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Alderamin-internal/narrator,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Alderamin-internal-top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Alderamin-overlap,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-overlap-top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Alderamin-flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-flashbackinternal,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-flashback-overlap,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-Episode_Title,Open Sans Semibold,38,&H00D0DFEE,&H000000FF,&H00493F46,&H00493F46,0,0,0,0,100,100,0,0,1,1,1,2,27,13,173,1
+Style: Alderamin-Next_Episode,Open Sans Semibold,38,&H00FFFFF9,&H000000FF,&H00B0B689,&H0020222B,0,0,0,0,100,100,0,0,1,2,0,8,40,13,187,1
+Style: sign_10844_114_Great_Alafatra_S,Open Sans Semibold,30,&H0063DFF4,&H000000FF,&H00407C89,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,220,263,425,0
+Style: sign_11110_115_Imperial_Army_No,Open Sans Semibold,33,&H00F1FBF9,&H000000FF,&H00152426,&H00152426,0,0,0,0,100,100,0,0,1,1,1,2,149,149,73,0
+Style: sign_11446_120_Northern_Garriso,Open Sans Semibold,33,&H00F1FBF9,&H000000FF,&H00152426,&H00152426,0,0,0,0,100,100,0,0,1,1,1,2,184,181,104,0
+Style: sign_29431_345_Welcome_to_the_w,Open Sans Semibold,30,&H00717877,&H000000FF,&H00E4E8E9,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,323,133,348,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.60,0:00:03.60,Default,M,0000,0000,0000,,This is it!
+Dialogue: 0,0:00:06.30,0:00:07.61,Default,H,0000,0000,0000,,I concede.
+Dialogue: 0,0:00:08.50,0:00:11.62,Default,H,0000,0000,0000,,Matthew-san, you really are good at this.
+Dialogue: 0,0:00:11.62,0:00:15.68,Default,H,0000,0000,0000,,I bet you beat Ikta-san or \NYatori-san if you played them.
+Dialogue: 0,0:00:16.17,0:00:17.66,Default,M,0000,0000,0000,,No way.
+Dialogue: 0,0:00:18.26,0:00:21.84,Default,H,0000,0000,0000,,Huh? Is that kind of a sore spot for you?
+Dialogue: 0,0:00:21.84,0:00:23.98,Default,M,0000,0000,0000,,It's not just chess.
+Dialogue: 0,0:00:23.98,0:00:26.66,Default,M,0000,0000,0000,,It's everything.
+Dialogue: 0,0:00:26.66,0:00:28.54,Default,M,0000,0000,0000,,Don't you feel the same way, Haru?
+Dialogue: 0,0:00:28.95,0:00:31.05,Default,M,0000,0000,0000,,About how they're...
+Dialogue: 0,0:00:32.94,0:00:34.68,Default,H,0000,0000,0000,,On a whole different level?
+Dialogue: 0,0:00:35.29,0:00:36.50,Default,H,0000,0000,0000,,Sorry!
+Dialogue: 0,0:00:36.50,0:00:39.48,Default,H,0000,0000,0000,,I always say everything I'm thinking.
+Dialogue: 0,0:00:40.05,0:00:41.48,Default,M,0000,0000,0000,,I know.
+Dialogue: 0,0:00:42.42,0:00:43.81,Default,M,0000,0000,0000,,Anyway...
+Dialogue: 0,0:00:44.33,0:00:45.56,Default,H,0000,0000,0000,,Are you mad?
+Dialogue: 0,0:00:46.87,0:00:48.41,Default,M,0000,0000,0000,,No.
+Dialogue: 0,0:00:48.41,0:00:50.53,Default,M,0000,0000,0000,,I'm going to the War Records room.
+Dialogue: 0,0:00:50.53,0:00:53.57,Default,M,0000,0000,0000,,I want to know more about \Nthe river-defense formation.
+Dialogue: 0,0:00:54.03,0:00:55.70,Default,H,0000,0000,0000,,I'm impressed.
+Dialogue: 0,0:00:55.70,0:00:57.07,Default,H,0000,0000,0000,,Good luck!
+Dialogue: 0,0:00:58.32,0:01:00.58,Alderamin-internal/narrator,M,0000,0000,0000,,A whole different level, huh?
+Dialogue: 0,0:01:00.58,0:01:03.05,Alderamin-internal/narrator,M,0000,0000,0000,,I know that, but I can't give up!
+Dialogue: 0,0:01:03.05,0:01:07.83,Alderamin-internal/narrator,M,0000,0000,0000,,Someday I'll show them what\NMatthew Tetdrich is really capable of!
+Dialogue: 0,0:01:14.55,0:01:16.79,Alderamin-internal/narrator,T,0000,0000,0000,,I was able to hit them,
+Dialogue: 0,0:01:16.79,0:01:17.80,Alderamin-internal/narrator,T,0000,0000,0000,,from that distance!
+Dialogue: 0,0:01:20.39,0:01:24.08,Alderamin-internal/narrator,T,0000,0000,0000,,Being distant from the target \Nisn't always a bad thing.
+Dialogue: 0,0:01:24.08,0:01:27.06,Alderamin-internal/narrator,T,0000,0000,0000,,For one, it makes it harder \Nfor them to hit you,
+Dialogue: 0,0:01:27.06,0:01:29.73,Alderamin-internal/narrator,T,0000,0000,0000,,and harder for them to find you at all.
+Dialogue: 0,0:01:29.73,0:01:31.11,Alderamin-internal/narrator,T,0000,0000,0000,,And more than anything,
+Dialogue: 0,0:01:31.11,0:01:33.53,Alderamin-internal/narrator,T,0000,0000,0000,,you don't have to worry when you fire.
+Dialogue: 0,0:01:34.56,0:01:36.47,Default,T,0000,0000,0000,,My flaw, my worries,
+Dialogue: 0,0:01:37.09,0:01:38.70,Default,T,0000,0000,0000,,and what I want to do...
+Dialogue: 0,0:01:39.53,0:01:41.74,Default,T,0000,0000,0000,,You've known for a long time,
+Dialogue: 0,0:01:42.59,0:01:44.23,Default,T,0000,0000,0000,,haven't you, Ikkun?
+Dialogue: 0,0:03:18.13,0:03:20.97,Alderamin-Episode_Title,T,0000,0000,0000,,{\fad(550,1)}At the Base of the Stairs of God
+Dialogue: 0,0:03:25.48,0:03:26.18,Default,H,0000,0000,0000,,Ikta-san,
+Dialogue: 0,0:03:27.22,0:03:29.68,Default,H,0000,0000,0000,,should you really be sleeping here?
+Dialogue: 0,0:03:31.77,0:03:33.18,Default,I,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:03:33.18,0:03:34.21,Default,I,0000,0000,0000,,Wherever I sleep,
+Dialogue: 0,0:03:34.21,0:03:38.32,Default,I,0000,0000,0000,,I'll always save the right side\Nof the bed for you.
+Dialogue: 0,0:03:39.97,0:03:42.32,Default,H,0000,0000,0000,,Anyway, what were you reading?
+Dialogue: 0,0:03:42.75,0:03:43.54,Default,I,0000,0000,0000,,Oh, yeah.
+Dialogue: 0,0:03:45.43,0:03:47.58,Default,I,0000,0000,0000,,Anarai's box is about to open.
+Dialogue: 0,0:03:48.68,0:03:51.08,Default,H,0000,0000,0000,,Whose box?
+Dialogue: 0,0:03:51.81,0:03:53.66,Default,I,0000,0000,0000,,It's a safe, basically,
+Dialogue: 0,0:03:53.66,0:03:55.58,Default,I,0000,0000,0000,,with intellectual property inside.
+Dialogue: 0,0:03:55.82,0:04:00.42,Default,I,0000,0000,0000,,Did I tell you I studied under Anarai Kahn?
+Dialogue: 0,0:04:00.87,0:04:03.58,Default,H,0000,0000,0000,,The man who sought asylum in Kioka, yes?
+Dialogue: 0,0:04:03.58,0:04:05.97,Default,H,0000,0000,0000,,Science, was it?
+Dialogue: 0,0:04:05.97,0:04:07.64,Default,H,0000,0000,0000,,You said you learned from him.
+Dialogue: 0,0:04:08.09,0:04:11.70,Default,I,0000,0000,0000,,Yes. I'm one of his students.
+Dialogue: 0,0:04:12.79,0:04:16.33,Default,I,0000,0000,0000,,The results of the research \Nwe all worked on together
+Dialogue: 0,0:04:16.33,0:04:19.13,Default,I,0000,0000,0000,,were first put into Anarai's box,
+Dialogue: 0,0:04:19.13,0:04:22.15,Default,I,0000,0000,0000,,and no one except us was\N allowed to learn them.
+Dialogue: 0,0:04:22.66,0:04:27.56,Default,I,0000,0000,0000,,But, in exchange for \Nrecognizing his asylum claim,
+Dialogue: 0,0:04:27.56,0:04:31.28,Default,I,0000,0000,0000,,Kioka wanted technology \Nwith military applications.
+Dialogue: 0,0:04:31.87,0:04:34.71,Default,I,0000,0000,0000,,And so, to keep things balanced with Kioka,
+Dialogue: 0,0:04:34.71,0:04:37.04,Default,I,0000,0000,0000,,he told us what he was giving them.
+Dialogue: 0,0:04:37.34,0:04:40.92,Default,H,0000,0000,0000,,Um, what does that mean?
+Dialogue: 0,0:04:43.87,0:04:46.27,Default,I,0000,0000,0000,,Eh, guess I must be boring you.
+Dialogue: 0,0:04:46.27,0:04:50.36,Default,I,0000,0000,0000,,Well, it just means that the \Nbattlefield's about to evolve again.
+Dialogue: 0,0:04:50.36,0:04:51.98,Default,I,0000,0000,0000,,What a waste of good knowledge.
+Dialogue: 0,0:04:54.89,0:04:58.02,Default,M,0000,0000,0000,,It's finally time to go \Nthe Northern Region, huh?
+Dialogue: 0,0:04:58.02,0:05:00.77,Default,T,0000,0000,0000,,We're heading to the garrison in Somin.
+Dialogue: 0,0:05:01.50,0:05:04.10,Default,M,0000,0000,0000,,It's at the base of a mountain range\Nin the sticks.
+Dialogue: 0,0:05:04.10,0:05:06.82,Default,M,0000,0000,0000,,Those Sinack hicks are everywhere,
+Dialogue: 0,0:05:06.82,0:05:08.28,Default,M,0000,0000,0000,,so it's not safe.
+Dialogue: 0,0:05:08.95,0:05:12.04,Default,I,0000,0000,0000,,Did I hear someone making fun\Nof the Northern Region?
+Dialogue: 0,0:05:12.50,0:05:16.41,Default,I,0000,0000,0000,,It's just simple prejudice to think there's \Nnothing worth seeing in the sticks.
+Dialogue: 0,0:05:16.41,0:05:17.91,Default,I,0000,0000,0000,,You, especially, Matthew.
+Dialogue: 0,0:05:17.91,0:05:21.09,Default,I,0000,0000,0000,,You don't understand\Nthe wonders of the Sinacks.
+Dialogue: 0,0:05:21.09,0:05:24.26,Default,T,0000,0000,0000,,Huh? You know a lot about the Sinacks?
+Dialogue: 0,0:05:25.19,0:05:30.04,Default,I,0000,0000,0000,,I visited a Sinack village with old man \NAnarai as part of a research expedition.
+Dialogue: 0,0:05:31.44,0:05:34.93,Default,I,0000,0000,0000,,We investigated the weather and \Ngeological strata in the high mountains,
+Dialogue: 0,0:05:34.93,0:05:38.65,Default,I,0000,0000,0000,,but my personal favorite part \Nwas getting to know the locals.
+Dialogue: 0,0:05:40.02,0:05:42.88,Default,M,0000,0000,0000,,They're mountain barbarians, right?
+Dialogue: 0,0:05:42.88,0:05:44.65,Default,M,0000,0000,0000,,What was fun about that?
+Dialogue: 0,0:05:45.12,0:05:47.18,Default,I,0000,0000,0000,,If I had to give you one reason,
+Dialogue: 0,0:05:47.18,0:05:49.16,Default,I,0000,0000,0000,,the girls are beautiful and energetic.
+Dialogue: 0,0:05:49.53,0:05:51.91,Default,M,0000,0000,0000,,I thought you liked older women.
+Dialogue: 0,0:05:51.91,0:05:54.76,Default,M,0000,0000,0000,,Your standards are different \Nthan mine, so that's useless.
+Dialogue: 0,0:05:54.76,0:05:57.04,Default,I,0000,0000,0000,,I'm not just talking about their appearance.
+Dialogue: 0,0:05:57.27,0:06:00.28,Default,I,0000,0000,0000,,It's an extremely matriarchal society,
+Dialogue: 0,0:06:00.28,0:06:03.63,Default,I,0000,0000,0000,,and that's created its own unique traditions.
+Dialogue: 0,0:06:03.63,0:06:04.75,Default,I,0000,0000,0000,,For example...
+Dialogue: 0,0:06:06.69,0:06:08.34,Default,M,0000,0000,0000,,The girls visit your bed at night?!
+Dialogue: 0,0:06:08.34,0:06:10.41,Default,M,0000,0000,0000,,That's so lewd!
+Dialogue: 0,0:06:10.82,0:06:12.82,Default,I,0000,0000,0000,,The world's a big place, Matthew.
+Dialogue: 0,0:06:12.82,0:06:14.81,Default,S,0000,0000,0000,,You guys are in a good mood.
+Dialogue: 0,0:06:15.66,0:06:17.31,Default,S,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:06:18.06,0:06:20.40,Default,Y,0000,0000,0000,,It's probably best not to ask.
+Dialogue: 0,0:06:20.40,0:06:23.52,Default,Y,0000,0000,0000,,Nine out of ten times,\N it's something indecent.
+Dialogue: 0,0:06:24.15,0:06:26.49,Default,M,0000,0000,0000,,I wasn't talking about anything—
+Dialogue: 0,0:06:26.49,0:06:29.72,Default,I,0000,0000,0000,,By indecent, do you mean something like
+Dialogue: 0,0:06:29.72,0:06:32.93,Default,I,0000,0000,0000,,the way Haro's sweaty \Nshirt sticks to her chest,
+Dialogue: 0,0:06:32.93,0:06:36.48,Default,I,0000,0000,0000,,so you can see every inch of her curves?
+Dialogue: 0,0:06:36.48,0:06:38.87,Default,I,0000,0000,0000,,Something wonderful like that?
+Dialogue: 0,0:06:41.16,0:06:42.88,Default,M,0000,0000,0000,,Apologize.
+Dialogue: 0,0:06:43.26,0:06:46.65,Default,M,0000,0000,0000,,Only a truly disgusting man would \Nsay something like that to a woman.
+Dialogue: 0,0:06:47.12,0:06:48.49,Default,S,0000,0000,0000,,So?
+Dialogue: 0,0:06:48.49,0:06:50.59,Default,T,0000,0000,0000,,We were discussing the trip north.
+Dialogue: 0,0:06:50.92,0:06:53.47,Default,S,0000,0000,0000,,A six-month deployment, wasn't it?
+Dialogue: 0,0:06:53.91,0:06:57.13,Default,S,0000,0000,0000,,Outside of dealing with thieves and \Nmonitoring the mountain people,
+Dialogue: 0,0:06:57.13,0:06:59.38,Default,S,0000,0000,0000,,it's a very dull post, I hear.
+Dialogue: 0,0:06:59.38,0:07:02.98,Default,S,0000,0000,0000,,Yatori, aren't you going to be bored?
+Dialogue: 0,0:07:03.35,0:07:05.72,Default,Y,0000,0000,0000,,No, it's perfect.
+Dialogue: 0,0:07:06.14,0:07:09.57,Default,Y,0000,0000,0000,,I want as many real battles \Nunder my belt as possible.
+Dialogue: 0,0:07:10.51,0:07:14.70,Default,S,0000,0000,0000,,I wish a certain person \Nwere that enthusiastic.
+Dialogue: 0,0:07:17.79,0:07:19.62,Default,Gu,0000,0000,0000,,Kanna!
+Dialogue: 0,0:07:20.69,0:07:23.13,Default,Gu,0000,0000,0000,,They're here! They're here!
+Dialogue: 0,0:07:23.43,0:07:25.92,Default,Gu,0000,0000,0000,,The brand spanking-new officer candidates!
+Dialogue: 0,0:07:27.53,0:07:32.26,Default,Gu,0000,0000,0000,,The ones who saved\Nthe princess are here, too!
+Dialogue: 0,0:07:32.26,0:07:35.26,sign_10844_114_Great_Alafatra_S,Gu,0000,0000,0000,,Great Alafatra Survey Records
+Dialogue: 0,0:07:43.35,0:07:46.27,sign_11110_115_Imperial_Army_No,Gu,0000,0000,0000,,{\fad(900,1)}Imperial Army Northern Region Garrison
+Dialogue: 0,0:07:43.49,0:07:46.27,Alderamin-top,Gu,0000,0000,0000,,I welcome both the high-Level \NOfficer candidates,
+Dialogue: 0,0:07:46.62,0:07:49.35,Default,Gu,0000,0000,0000,,and their training units,
+Dialogue: 0,0:07:49.35,0:07:51.40,Default,Gu,0000,0000,0000,,once more this year.
+Dialogue: 0,0:07:51.40,0:07:57.28,Default,Gu,0000,0000,0000,,We at the Northern Garrison \Nare very glad you're here.
+Dialogue: 0,0:07:57.37,0:08:03.04,sign_11446_120_Northern_Garriso,Gu,0000,0000,0000,,{\fad(700,700)}Northern Garrison Commander \NLt. General Tamtooktsk Safida
+Dialogue: 0,0:07:57.86,0:08:00.46,Alderamin-top,Gu,0000,0000,0000,,I'm reluctant to discuss \Nunpleasant matters so soon,
+Dialogue: 0,0:08:00.46,0:08:04.53,Alderamin-top,Gu,0000,0000,0000,,but you're well aware of\Nthe fall of the Eastern Region.
+Dialogue: 0,0:08:04.53,0:08:09.80,Default,Gu,0000,0000,0000,,If only I and a few of my men had been there
+Dialogue: 0,0:08:09.80,0:08:14.51,Default,Gu,0000,0000,0000,,when the Kioka barbarians dared \Ntrespass on Imperial land...
+Dialogue: 0,0:08:16.15,0:08:19.45,Default,Gu,0000,0000,0000,,Our eventual counterattack on Kioka
+Dialogue: 0,0:08:19.45,0:08:24.66,Default,Gu,0000,0000,0000,,depends on the loyalty and \Npatriotism of us soldiers.
+Dialogue: 0,0:08:25.03,0:08:28.31,Default,Gu,0000,0000,0000,,As the future leaders of our military,
+Dialogue: 0,0:08:28.31,0:08:31.19,Default,Gu,0000,0000,0000,,I pray your patriotism is firm and pure.
+Dialogue: 0,0:08:31.79,0:08:33.17,Default,Gu,0000,0000,0000,,Sorry for the short speech,
+Dialogue: 0,0:08:33.17,0:08:35.32,Default,Gu,0000,0000,0000,,but that's all I have.
+Dialogue: 0,0:08:35.59,0:08:37.55,Default,I,0000,0000,0000,,How was that short?
+Dialogue: 0,0:08:40.52,0:08:42.38,Default,I,0000,0000,0000,,Eternal prosperity to the land
+Dialogue: 0,0:08:42.38,0:08:46.69,Default,I,0000,0000,0000,,the Emperor rules, and we soldiers protect!
+Dialogue: 0,0:08:47.12,0:08:48.46,Default,I,0000,0000,0000,,Cheers!
+Dialogue: 0,0:08:48.46,0:08:50.46,Default,Gu,0000,0000,0000,,Cheers!
+Dialogue: 0,0:08:54.37,0:08:56.47,Default,Gu,0000,0000,0000,,Continue your chats as you listen to me.
+Dialogue: 0,0:08:57.47,0:09:01.29,Default,Gu,0000,0000,0000,,I am the garrison commander's aide,
+Dialogue: 0,0:09:01.29,0:09:04.31,Default,Gu,0000,0000,0000,,Major Yuskshiram Toakk.
+Dialogue: 0,0:09:04.93,0:09:09.06,Default,Gu,0000,0000,0000,,I'll explain what you'll be doing here.
+Dialogue: 0,0:09:09.70,0:09:12.83,Default,M,0000,0000,0000,,Is he okay?
+Dialogue: 0,0:09:10.50,0:09:17.61,Alderamin-overlap-top,Background,0000,0000,0000,,You can find the organizational hierarchy \Nposted in the barracks hallway,
+Dialogue: 0,0:09:12.83,0:09:15.88,Default,M,0000,0000,0000,,I could see him dropping dead at any minute.
+Dialogue: 0,0:09:15.88,0:09:18.07,Default,I,0000,0000,0000,,He's probably got a lot on his mind.
+Dialogue: 0,0:09:18.07,0:09:22.08,Alderamin-overlap-top,Background,0000,0000,0000,,The chain of the command is posted \Nthere, too, so make sure you look at it.
+Dialogue: 0,0:09:18.61,0:09:22.08,Default,I,0000,0000,0000,,Since he's working for \Na boss who doesn't have one.
+Dialogue: 0,0:09:22.60,0:09:23.88,Default,Gu,0000,0000,0000,,That's all.
+Dialogue: 0,0:09:23.88,0:09:26.69,Default,Gu,0000,0000,0000,,If you have any questions, ask them now.
+Dialogue: 0,0:09:27.29,0:09:30.03,Default,I,0000,0000,0000,,It's so obvious who's doing what here.
+Dialogue: 0,0:09:35.00,0:09:35.85,Default,Gu,0000,0000,0000,,Hey.
+Dialogue: 0,0:09:36.75,0:09:38.27,Default,Gu,0000,0000,0000,,Having fun?
+Dialogue: 0,0:09:38.88,0:09:39.77,Default,I,0000,0000,0000,,Yes.
+Dialogue: 0,0:09:39.77,0:09:41.09,Default,I,0000,0000,0000,,Thanks.
+Dialogue: 0,0:09:41.09,0:09:43.56,Default,Gu,0000,0000,0000,,You have a light spirit, too, don't you?
+Dialogue: 0,0:09:44.68,0:09:47.59,Default,I,0000,0000,0000,,Warrant Officer Ikta Solork,
+Dialogue: 0,0:09:47.59,0:09:49.19,Default,I,0000,0000,0000,,Light Troops Platoon 3.
+Dialogue: 0,0:09:49.49,0:09:51.69,Default,I,0000,0000,0000,,This is Kus, my partner.
+Dialogue: 0,0:09:51.69,0:09:57.40,sign_11446_120_Northern_Garriso,I,0000,0000,0000,,{\fad(1,700)}Northern Garrison 1st Regiment\N 9th Illumination Company Commander
+Dialogue: 0,0:09:51.96,0:09:54.39,Alderamin-top,Gu,0000,0000,0000,,First Lieutenant Senpa Sazaluf.
+Dialogue: 0,0:09:54.39,0:09:57.95,Alderamin-top,Gu,0000,0000,0000,,I'll be your instructor for a while.
+Dialogue: 0,0:09:58.28,0:10:00.91,Default,Gu,0000,0000,0000,,This is light spirit Key, my partner.
+Dialogue: 0,0:10:00.91,0:10:02.03,Default,Gu,0000,0000,0000,,Nice to meet you.
+Dialogue: 0,0:10:02.54,0:10:06.68,Default,Gu,0000,0000,0000,,I hear there's a problem child mixed in\N with the knights everyone's talking about.
+Dialogue: 0,0:10:06.68,0:10:07.94,Default,Gu,0000,0000,0000,,Would that be you?
+Dialogue: 0,0:10:07.94,0:10:10.47,Default,I,0000,0000,0000,,When I'm with them I don't fit in,
+Dialogue: 0,0:10:10.47,0:10:13.38,Default,I,0000,0000,0000,,so I'm keeping my distance.
+Dialogue: 0,0:10:13.65,0:10:16.66,Default,Gu,0000,0000,0000,,You sure don't look like a knight.
+Dialogue: 0,0:10:17.44,0:10:20.72,Default,Gu,0000,0000,0000,,That handsome boy over there might, but...
+Dialogue: 0,0:10:21.14,0:10:23.26,Default,I,0000,0000,0000,,You're harsh!
+Dialogue: 0,0:10:24.92,0:10:26.45,Default,I,0000,0000,0000,,I hate him!
+Dialogue: 0,0:10:26.45,0:10:29.05,Default,I,0000,0000,0000,,I hate all hot guys, who get \Nwomen coming to them
+Dialogue: 0,0:10:29.05,0:10:30.73,Default,I,0000,0000,0000,,even without saying a word!
+Dialogue: 0,0:10:30.92,0:10:32.30,Default,Gu,0000,0000,0000,,Oh, jeez...
+Dialogue: 0,0:10:34.73,0:10:39.36,Default,Gu,0000,0000,0000,,I've been waiting for this,\Ndaughter of Igsem!
+Dialogue: 0,0:10:42.53,0:10:44.54,Default,Y,0000,0000,0000,,Do you need something from me?
+Dialogue: 0,0:10:44.66,0:10:49.04,sign_11446_120_Northern_Garriso,Y,0000,0000,0000,,{\fad(500,1)}Northern Garrison 1st Regiment \N22nd Breastplate Cavalry \NPlatoon Commander
+Dialogue: 0,0:10:44.89,0:10:46.25,Alderamin-top,Gu,0000,0000,0000,,Listen well!
+Dialogue: 0,0:10:46.62,0:10:49.04,Alderamin-top,Gu,0000,0000,0000,,My name is Deinkun Hargunska!
+Dialogue: 0,0:10:49.55,0:10:51.00,Default,Gu,0000,0000,0000,,I am 26 years old!
+Dialogue: 0,0:10:51.53,0:10:52.88,Default,Gu,0000,0000,0000,,My rank is Warrant Officer!
+Dialogue: 0,0:10:53.15,0:10:55.25,Default,Gu,0000,0000,0000,,I'm well aware of your name!
+Dialogue: 0,0:10:55.83,0:10:57.92,Default,Gu,0000,0000,0000,,Now, let our blades do the talking.
+Dialogue: 0,0:11:02.21,0:11:05.64,Default,Y,0000,0000,0000,,Lieutenant General Safida, I have \Nreceived a request for a duel.
+Dialogue: 0,0:11:05.64,0:11:08.02,Default,Y,0000,0000,0000,,Is there someplace we can use?
+Dialogue: 0,0:11:09.63,0:11:10.94,Default,Gu,0000,0000,0000,,What do we do?
+Dialogue: 0,0:11:10.94,0:11:12.36,Default,Gu,0000,0000,0000,,Here is probably fine.
+Dialogue: 0,0:11:12.36,0:11:14.02,Default,Gu,0000,0000,0000,,Very well. Do it here.
+Dialogue: 0,0:11:14.02,0:11:17.97,Default,Gu,0000,0000,0000,,However, Warrant Officer Hargunska's\Nskills with a blade
+Dialogue: 0,0:11:17.97,0:11:21.28,Default,Gu,0000,0000,0000,,are the finest in the Northern Garrison.
+Dialogue: 0,0:11:25.99,0:11:28.20,Default,Gu,0000,0000,0000,,Hey, what are you doing?
+Dialogue: 0,0:11:28.74,0:11:32.71,Default,Y,0000,0000,0000,,The two-blade style of the Igsem clan \Nis for fighting multiple foes at once.
+Dialogue: 0,0:11:33.07,0:11:34.21,Default,Y,0000,0000,0000,,If I have one opponent,
+Dialogue: 0,0:11:35.06,0:11:36.71,Default,Y,0000,0000,0000,,I only need one blade.
+Dialogue: 0,0:11:38.39,0:11:41.38,Default,Gu,0000,0000,0000,,You must not think much of my skills, then.
+Dialogue: 0,0:11:44.17,0:11:46.41,Default,S,0000,0000,0000,,What a vulgar display.
+Dialogue: 0,0:11:46.41,0:11:48.98,Default,S,0000,0000,0000,,Yatori's swordsmanship is not \Nmeant to be gawked at.
+Dialogue: 0,0:11:49.58,0:11:50.94,Default,I,0000,0000,0000,,That's incorrect.
+Dialogue: 0,0:11:50.94,0:11:52.02,Default,Gu,0000,0000,0000,,Hey, you can't—
+Dialogue: 0,0:11:51.59,0:11:53.70,Alderamin-overlap,I,0000,0000,0000,,The Igsem style {\i1}is{\i0} meant to be gawked at.
+Dialogue: 0,0:11:54.62,0:11:58.81,Default,I,0000,0000,0000,,This is a traditional farce put on whenever
+Dialogue: 0,0:11:58.81,0:12:00.78,Default,I,0000,0000,0000,,an Igsem arrives at another garrison.
+Dialogue: 0,0:12:00.78,0:12:01.53,Default,S,0000,0000,0000,,What?
+Dialogue: 0,0:12:01.94,0:12:04.75,Default,I,0000,0000,0000,,The two-weapon style is a special privilege
+Dialogue: 0,0:12:04.75,0:12:07.04,Default,I,0000,0000,0000,,given to the Igsem\Nat the behest of the Emperor,
+Dialogue: 0,0:12:07.04,0:12:08.89,Default,I,0000,0000,0000,,as a symbol of their invincibility.
+Dialogue: 0,0:12:08.89,0:12:11.04,Default,I,0000,0000,0000,,As long as they do not lose a swordfight,
+Dialogue: 0,0:12:11.04,0:12:13.56,Default,I,0000,0000,0000,,the military allows it.
+Dialogue: 0,0:12:21.10,0:12:23.38,Default,I,0000,0000,0000,,So, this is all just a show\N for them to gawk at.
+Dialogue: 0,0:12:24.27,0:12:27.65,Default,I,0000,0000,0000,,The Igsems value order in \Nthe Empire very highly.
+Dialogue: 0,0:12:27.65,0:12:30.27,Default,I,0000,0000,0000,,To continue carrying\Ntwo swords on their belt,
+Dialogue: 0,0:12:30.80,0:12:34.73,Default,I,0000,0000,0000,,they must show everyone their superiority,
+Dialogue: 0,0:12:35.28,0:12:38.48,Default,I,0000,0000,0000,,so as to protect that order.
+Dialogue: 0,0:12:40.19,0:12:43.10,Default,H,0000,0000,0000,,Is Yatori-san being pushed back?
+Dialogue: 0,0:12:43.10,0:12:46.07,Default,M,0000,0000,0000,,No, she hasn't hit back yet, but...
+Dialogue: 0,0:12:46.07,0:12:47.23,Default,T,0000,0000,0000,,Yes.
+Dialogue: 0,0:12:47.23,0:12:50.45,Default,T,0000,0000,0000,,Her position hasn't changed \Nsince the start of the battle.
+Dialogue: 0,0:12:51.34,0:12:55.83,Default,I,0000,0000,0000,,The Igsems are the embodiment of \Nthe legend of invincibility.
+Dialogue: 0,0:13:06.83,0:13:08.74,Default,Y,0000,0000,0000,,Your strikes were as strong as steel.
+Dialogue: 0,0:13:09.46,0:13:12.10,Default,Y,0000,0000,0000,,I am honored to have had \Nthe opportunity to fight you.
+Dialogue: 0,0:13:13.47,0:13:16.81,Default,Gu,0000,0000,0000,,Splendid, Yatorishino Igsem!
+Dialogue: 0,0:13:21.41,0:13:24.90,Default,S,0000,0000,0000,,I suppose that's Yatori for you.
+Dialogue: 0,0:13:24.90,0:13:28.29,Default,I,0000,0000,0000,,It's all to protect the order of the Empire.
+Dialogue: 0,0:13:28.56,0:13:31.31,Default,I,0000,0000,0000,,She risks her life to protect you\Nbecause she believes,
+Dialogue: 0,0:13:31.31,0:13:33.65,Default,I,0000,0000,0000,,without doubt, that you\N will fulfill your duties
+Dialogue: 0,0:13:33.65,0:13:37.36,Default,I,0000,0000,0000,,as a member of the imperial family\Nfor the rest of your life.
+Dialogue: 0,0:13:40.06,0:13:43.05,Default,I,0000,0000,0000,,Don't forget that, Princess.
+Dialogue: 0,0:13:43.55,0:13:45.76,Default,I,0000,0000,0000,,No matter how great your dreams may be,
+Dialogue: 0,0:13:46.35,0:13:49.29,Default,I,0000,0000,0000,,don't forget that.
+Dialogue: 0,0:13:52.28,0:13:55.43,Default,Gu,0000,0000,0000,,Well, to be honest, you guys \Ncame here at a great time.
+Dialogue: 0,0:13:56.06,0:13:59.22,Default,Gu,0000,0000,0000,,Things were pretty tense until a bit ago,
+Dialogue: 0,0:13:59.22,0:14:01.32,Default,Gu,0000,0000,0000,,since it was so bad at the Eastern Garrison.
+Dialogue: 0,0:14:02.59,0:14:05.32,Default,Gu,0000,0000,0000,,We thought they might ask for reinforcements.
+Dialogue: 0,0:14:05.73,0:14:07.45,Default,T,0000,0000,0000,,You didn't want to go?
+Dialogue: 0,0:14:08.24,0:14:10.70,Default,Gu,0000,0000,0000,,Who would?
+Dialogue: 0,0:14:11.06,0:14:14.16,Default,M,0000,0000,0000,,But, if there was a sizable \Nenough group of reinforcements,
+Dialogue: 0,0:14:14.16,0:14:16.33,Default,M,0000,0000,0000,,the course of the battle might have changed.
+Dialogue: 0,0:14:16.92,0:14:23.44,Default,Gu,0000,0000,0000,,In the North, we call courageous people \Nlike you "central-type soldiers".
+Dialogue: 0,0:14:24.66,0:14:28.84,Default,Gu,0000,0000,0000,,The people who are motivated even\Nafter coming up here to the north.
+Dialogue: 0,0:14:29.27,0:14:31.92,Default,Gu,0000,0000,0000,,People like that are a minority around here.
+Dialogue: 0,0:14:32.50,0:14:36.73,Default,Gu,0000,0000,0000,,It's all because of the Alafatra mountains.
+Dialogue: 0,0:14:37.87,0:14:38.81,Default,H,0000,0000,0000,,Why?
+Dialogue: 0,0:14:38.81,0:14:40.20,Default,T,0000,0000,0000,,That's right...
+Dialogue: 0,0:14:40.20,0:14:42.93,Default,T,0000,0000,0000,,Great Alafatra is the stairway to God.
+Dialogue: 0,0:14:44.12,0:14:49.82,Default,T,0000,0000,0000,,No enemy has ever crossed over these \Nmountains in the history of the Empire.
+Dialogue: 0,0:14:50.27,0:14:53.58,Default,Gu,0000,0000,0000,,Yes, that's right, Warrant Officer Remeon.
+Dialogue: 0,0:14:53.96,0:14:55.69,Default,Y,0000,0000,0000,,Even without external threats,
+Dialogue: 0,0:14:55.69,0:14:58.62,Default,Y,0000,0000,0000,,I think there are internal ones\Nwho live there.
+Dialogue: 0,0:14:59.08,0:14:59.83,Default,Gu,0000,0000,0000,,Yeah.
+Dialogue: 0,0:15:00.34,0:15:03.34,Default,Gu,0000,0000,0000,,Our job is just that.
+Dialogue: 0,0:15:03.71,0:15:07.72,Default,Y,0000,0000,0000,,Keeping the Sinack mountain peoples\Nin check, correct?
+Dialogue: 0,0:15:07.88,0:15:09.72,Default,Gu,0000,0000,0000,,That's right.
+Dialogue: 0,0:15:10.50,0:15:14.59,Default,Gu,0000,0000,0000,,They're Imperials, but not Katjvarnans.
+Dialogue: 0,0:15:14.59,0:15:19.10,Default,Gu,0000,0000,0000,,We've had several small-scale \Nconflicts with them.
+Dialogue: 0,0:15:19.48,0:15:24.61,Default,Gu,0000,0000,0000,,But about two years ago \Nthey stopped causing trouble.
+Dialogue: 0,0:15:25.27,0:15:30.49,Default,Gu,0000,0000,0000,,The last six months we haven't even \Nsent out any punitive raids.
+Dialogue: 0,0:15:30.62,0:15:33.12,Default,Gu,0000,0000,0000,,First Lieutenant, what is the \Npoint of this exercise?
+Dialogue: 0,0:15:33.71,0:15:36.44,Default,Gu,0000,0000,0000,,We've been going over the same\N area for three hours.
+Dialogue: 0,0:15:36.44,0:15:38.94,Default,Gu,0000,0000,0000,,This isn't training us for anything.
+Dialogue: 0,0:15:39.03,0:15:40.26,Default,Gu,0000,0000,0000,,That's right.
+Dialogue: 0,0:15:41.02,0:15:44.22,Default,Gu,0000,0000,0000,,This is a threat that \Nwe're calling an exercise.
+Dialogue: 0,0:15:44.72,0:15:49.51,Default,Gu,0000,0000,0000,,We show them our forces and use \Nsilent pressure to keep the peace.
+Dialogue: 0,0:15:51.47,0:15:54.76,Default,Gu,0000,0000,0000,,Warrant Officer Solork, \Nyou have nothing to say?
+Dialogue: 0,0:15:57.25,0:15:59.45,Default,Gu,0000,0000,0000,,Reporting, First Lieutenant.
+Dialogue: 0,0:15:59.45,0:16:01.52,Default,Gu,0000,0000,0000,,I have a message from Warrant Officer Solork.
+Dialogue: 0,0:16:02.39,0:16:06.67,Default,Gu,0000,0000,0000,,"I have broken military regulations and \Nvoluntarily entered the detention barracks.
+Dialogue: 0,0:16:06.67,0:16:11.12,Default,Gu,0000,0000,0000,,The regulation I broke was regarding \Nleaving the squad during exercises..."
+Dialogue: 0,0:16:13.06,0:16:14.45,Default,Gi,0000,0000,0000,,I refuse to accept this!
+Dialogue: 0,0:16:14.77,0:16:19.83,Default,Gi,0000,0000,0000,,Why are all the books in our \Nbarracks being confiscated?
+Dialogue: 0,0:16:20.43,0:16:24.58,Default,Gu,0000,0000,0000,,Private First Class Kanna, is that how\Nyou address a superior officer?
+Dialogue: 0,0:16:25.31,0:16:27.09,Default,Gu,0000,0000,0000,,Daring to lecture me with no rank?
+Dialogue: 0,0:16:28.28,0:16:29.85,Default,Gu,0000,0000,0000,,If you've got time to read books,
+Dialogue: 0,0:16:29.85,0:16:31.37,Default,Gu,0000,0000,0000,,go run and build up stamina!
+Dialogue: 0,0:16:32.72,0:16:33.72,Default,Gi,0000,0000,0000,,Wait!
+Dialogue: 0,0:16:33.98,0:16:36.54,Default,Gu,0000,0000,0000,,If you're reacting like that,\Nthis must be yours.
+Dialogue: 0,0:16:36.88,0:16:39.22,Default,Gu,0000,0000,0000,,{\i1}Great Alafatra Survey Records{\i0}.
+Dialogue: 0,0:16:39.22,0:16:44.10,Default,Gu,0000,0000,0000,,Th-This was authored by\NAnarai the Blasphemer!
+Dialogue: 0,0:16:44.43,0:16:48.36,Default,Gi,0000,0000,0000,,Th-The contents of the book have \Nnothing to do with the author!
+Dialogue: 0,0:16:48.58,0:16:51.00,Default,Gi,0000,0000,0000,,I've had it with you!
+Dialogue: 0,0:16:51.00,0:16:52.95,Default,Gi,0000,0000,0000,,Grit your teeth.
+Dialogue: 0,0:16:52.95,0:16:54.24,Default,I,0000,0000,0000,,Oh, no.
+Dialogue: 0,0:16:54.78,0:16:57.24,Default,I,0000,0000,0000,,That's not how you use that book.
+Dialogue: 0,0:16:58.47,0:17:00.12,Default,Gu,0000,0000,0000,,Who the hell are you?!
+Dialogue: 0,0:17:00.52,0:17:03.32,Default,I,0000,0000,0000,,A passing Imperial Knight.
+Dialogue: 0,0:17:03.32,0:17:07.96,Default,I,0000,0000,0000,,My task in life is to banish all the tears\Nfrom all the girls in the world.
+Dialogue: 0,0:17:08.29,0:17:09.73,Default,Gu,0000,0000,0000,,Imperial Knight?
+Dialogue: 0,0:17:10.20,0:17:12.34,Default,Gu,0000,0000,0000,,One of the knights everyone's talking about?
+Dialogue: 0,0:17:12.70,0:17:14.86,Default,I,0000,0000,0000,,I apologize for the rudeness.
+Dialogue: 0,0:17:14.86,0:17:18.26,Default,I,0000,0000,0000,,But there's something very interesting here.
+Dialogue: 0,0:17:18.44,0:17:23.20,Default,I,0000,0000,0000,,The invention of the printing press \Nhas made books far easier to attain,
+Dialogue: 0,0:17:23.20,0:17:25.27,Default,I,0000,0000,0000,,and some books have become huge hits.
+Dialogue: 0,0:17:26.02,0:17:30.27,Default,I,0000,0000,0000,,They're still not exactly cheap\N for the average person, though.
+Dialogue: 0,0:17:31.43,0:17:35.35,Default,I,0000,0000,0000,,Even used, this amount of books\Nis worth a fortune.
+Dialogue: 0,0:17:36.00,0:17:39.00,Default,I,0000,0000,0000,,That's what you thought, \Nwasn't it, First Lieutenant?
+Dialogue: 0,0:17:39.71,0:17:42.04,Default,Gu,0000,0000,0000,,What are you saying, you bastard?!
+Dialogue: 0,0:17:42.19,0:17:46.21,Default,Gi,0000,0000,0000,,So, you took them to sell for yourself?
+Dialogue: 0,0:17:46.21,0:17:48.03,Default,Gu,0000,0000,0000,,D-Don't be stupid!
+Dialogue: 0,0:17:48.29,0:17:49.97,Default,I,0000,0000,0000,,{\i1}The Rose of Miyakanne{\i0},
+Dialogue: 0,0:17:49.97,0:17:51.13,Default,I,0000,0000,0000,,{\i1}The Life of Dalis{\i0}.
+Dialogue: 0,0:17:51.65,0:17:54.17,Default,I,0000,0000,0000,,Good choices.
+Dialogue: 0,0:17:54.17,0:17:56.76,Default,I,0000,0000,0000,,You already know who \Nyou'll sell them to, right?
+Dialogue: 0,0:17:56.13,0:17:57.30,Alderamin-overlap-top,Gi,0000,0000,0000,,You bastard!
+Dialogue: 0,0:17:57.30,0:17:59.22,Default,Gi,0000,0000,0000,,Enough with your yammering!
+Dialogue: 0,0:17:59.22,0:18:03.89,Default,Gi,0000,0000,0000,,I was going to let you off easy because \Nyou're a favorite of the Third Princess.
+Dialogue: 0,0:18:06.56,0:18:10.40,Default,I,0000,0000,0000,,A question for you, First Lieutenant.\NDo you like insects?
+Dialogue: 0,0:18:10.90,0:18:13.78,Default,Gu,0000,0000,0000,,I don't care about them! Bugs are bugs!
+Dialogue: 0,0:18:14.08,0:18:18.22,Default,I,0000,0000,0000,,But there are some of them \Nwho are highly toxic.
+Dialogue: 0,0:18:18.22,0:18:21.37,Default,I,0000,0000,0000,,It's dangerous to try and handle them\Nwithout any knowledge.
+Dialogue: 0,0:18:22.02,0:18:26.25,Default,Gu,0000,0000,0000,,Like everything else, a soldier's heart is \Nstrong enough to overcome those difficulties!
+Dialogue: 0,0:18:26.44,0:18:27.88,Default,I,0000,0000,0000,,One last thing.
+Dialogue: 0,0:18:27.88,0:18:30.78,Default,I,0000,0000,0000,,If you think the soldier spirit\Ngrants you omnipotent powers,
+Dialogue: 0,0:18:30.78,0:18:32.13,Default,I,0000,0000,0000,,you're going to get hurt.
+Dialogue: 0,0:18:32.41,0:18:34.46,Default,Gu,0000,0000,0000,,Don't talk like you know anything!
+Dialogue: 0,0:18:40.99,0:18:41.80,Default,I,0000,0000,0000,,Here you go!
+Dialogue: 0,0:18:46.11,0:18:49.30,Default,I,0000,0000,0000,,Congrats on a successful mission, Sergeantula!
+Dialogue: 0,0:18:50.64,0:18:53.02,Default,I,0000,0000,0000,,They stay out of direct sunlight\Nduring the day,
+Dialogue: 0,0:18:53.02,0:18:56.44,Default,I,0000,0000,0000,,so you can find them under eaves and roofs.
+Dialogue: 0,0:18:56.64,0:19:00.28,Default,I,0000,0000,0000,,If he'd read this book, \Nhe would've known that.
+Dialogue: 0,0:19:01.03,0:19:02.91,Default,I,0000,0000,0000,,This is yours, right?
+Dialogue: 0,0:19:03.03,0:19:06.79,Default,Gi,0000,0000,0000,,Th-Thank you, Warrant Officer.
+Dialogue: 0,0:19:07.16,0:19:09.47,Default,I,0000,0000,0000,,Think you could call me Ikkun?
+Dialogue: 0,0:19:11.02,0:19:12.17,Default,I,0000,0000,0000,,What's your name?
+Dialogue: 0,0:19:13.26,0:19:16.12,Default,Gi,0000,0000,0000,,Northern Garrison 1st Regiment,
+Dialogue: 0,0:19:16.12,0:19:18.19,Default,Gi,0000,0000,0000,,Private First Class Kanna Temari.
+Dialogue: 0,0:19:18.19,0:19:20.68,Default,Gi,0000,0000,0000,,My partner is Tab the wind spirit.
+Dialogue: 0,0:19:21.61,0:19:23.33,Default,Gi,0000,0000,0000,,Nice to meet you.
+Dialogue: 0,0:19:23.33,0:19:25.64,Default,Gi,0000,0000,0000,,Um... Ikkun-dono.
+Dialogue: 0,0:19:25.88,0:19:27.85,Default,I,0000,0000,0000,,Ikkun-dono, huh?
+Dialogue: 0,0:19:27.85,0:19:29.05,Default,I,0000,0000,0000,,Well, I guess it works.
+Dialogue: 0,0:19:29.60,0:19:30.91,Default,I,0000,0000,0000,,Hey, Kanna?
+Dialogue: 0,0:19:30.91,0:19:33.43,Default,I,0000,0000,0000,,What was your favorite part of that book?
+Dialogue: 0,0:19:34.53,0:19:38.53,Default,K,0000,0000,0000,,Um... the analysis of\Nthe Aldera religion, I think.
+Dialogue: 0,0:19:39.02,0:19:41.18,Default,I,0000,0000,0000,,The Aldera religion?
+Dialogue: 0,0:19:41.80,0:19:44.78,Default,I,0000,0000,0000,,Not the part on the spirit worship\Nof the Sinacks?
+Dialogue: 0,0:19:45.18,0:19:46.79,Default,K,0000,0000,0000,,C-Correct.
+Dialogue: 0,0:19:46.79,0:19:50.20,Default,K,0000,0000,0000,,It says that when you analyze \Nthe Aldera religion of the Empire
+Dialogue: 0,0:19:50.20,0:19:52.67,Default,K,0000,0000,0000,,in light of the Sinack's spirit worship,
+Dialogue: 0,0:19:53.00,0:19:57.35,Default,K,0000,0000,0000,,you see many things that seem strange.
+Dialogue: 0,0:19:58.95,0:20:03.65,Default,Gu,0000,0000,0000,,I've never seen a guy ditch exercises \Nto go pick up girls before.
+Dialogue: 0,0:20:04.31,0:20:07.18,Default,I,0000,0000,0000,,Kanna! We'll see each other again!
+Dialogue: 0,0:20:07.34,0:20:09.81,Default,I,0000,0000,0000,,We're both students of science!
+Dialogue: 0,0:20:09.81,0:20:14.31,Default,I,0000,0000,0000,,If you're reading that book,\Nyou're a student of Anarai like me!
+Dialogue: 0,0:20:14.99,0:20:16.98,Default,I,0000,0000,0000,,You and I are fellow students!
+Dialogue: 0,0:20:19.69,0:20:21.36,Default,Gu,0000,0000,0000,,I see you're having a good time.
+Dialogue: 0,0:20:21.36,0:20:25.84,Default,Gu,0000,0000,0000,,But, you know, I hope you're \Nstill alive to see her again!
+Dialogue: 0,0:20:23.29,0:20:24.37,Alderamin-overlap-top,K,0000,0000,0000,,{\i1}Fellow students?
+Dialogue: 0,0:20:27.49,0:20:30.50,sign_29431_345_Welcome_to_the_w,K,0000,0000,0000,,Welcome to the world of science
+Dialogue: 0,0:20:30.97,0:20:32.71,Default,Gu,0000,0000,0000,,Try to endure this for three days.
+Dialogue: 0,0:20:32.71,0:20:34.23,Default,Gu,0000,0000,0000,,No food, no water.
+Dialogue: 0,0:20:34.23,0:20:36.25,Default,I,0000,0000,0000,,That'll kill me!
+Dialogue: 0,0:20:36.96,0:20:40.76,Default,Gu,0000,0000,0000,,Until you can stop talking \Nall the damn time, then.
+Dialogue: 0,0:20:41.28,0:20:45.51,Default,Gu,0000,0000,0000,,Listen, what were you thinking \Nwhen you got to where you are now?
+Dialogue: 0,0:20:46.09,0:20:49.01,Default,I,0000,0000,0000,,It was 100% bad luck.
+Dialogue: 0,0:20:49.76,0:20:51.00,Default,Gu,0000,0000,0000,,Sheesh...
+Dialogue: 0,0:20:51.00,0:20:53.14,Default,Gu,0000,0000,0000,,I heard you were weird, but...
+Dialogue: 0,0:20:55.13,0:20:57.90,Default,Gu,0000,0000,0000,,Hey! Hey, don't go that way!
+Dialogue: 0,0:21:00.97,0:21:01.84,Default,Gu,0000,0000,0000,,Hey!
+Dialogue: 0,0:21:07.20,0:21:08.70,Default,I,0000,0000,0000,,First Lieutenant,
+Dialogue: 0,0:21:10.30,0:21:11.64,Default,I,0000,0000,0000,,what is this?
+Dialogue: 0,0:21:18.13,0:21:19.48,Default,Gu,0000,0000,0000,,Nanaku Daru.
+Dialogue: 0,0:21:19.72,0:21:21.92,Default,Gu,0000,0000,0000,,When do we begin?
+Dialogue: 0,0:21:23.31,0:21:26.09,Default,Gu,0000,0000,0000,,Our war to recover the stolen Hahashiku.
+Dialogue: 0,0:21:28.38,0:21:31.35,Default,Gi,0000,0000,0000,,We won't wait for the next \NGrateful Spirit Festival.
+Dialogue: 0,0:21:31.83,0:21:36.10,Default,Gu,0000,0000,0000,,Can we win against those \Nterrible demons of the plains?
+Dialogue: 0,0:21:37.15,0:21:38.80,Default,Gi,0000,0000,0000,,You know, Meraize,
+Dialogue: 0,0:21:38.80,0:21:41.73,Default,Gi,0000,0000,0000,,our world right now is only half.
+Dialogue: 0,0:21:42.34,0:21:43.86,Default,Gi,0000,0000,0000,,So we're going to get back
+Dialogue: 0,0:21:44.91,0:21:48.78,Default,Gi,0000,0000,0000,,the other half of the world that was stolen.
+Dialogue: 0,0:21:50.59,0:21:53.96,Alderamin-internal/narrator,Narr,0000,0000,0000,,Great Alafatra, the stairway to God,
+Dialogue: 0,0:21:53.96,0:21:57.00,Alderamin-internal/narrator,Narr,0000,0000,0000,,had protected the Empire from \Nexternal threats for years.
+Dialogue: 0,0:21:57.57,0:22:00.37,Alderamin-internal/narrator,Narr,0000,0000,0000,,Imperial Year 906, July.
+Dialogue: 0,0:22:00.37,0:22:04.25,Alderamin-internal/narrator,Narr,0000,0000,0000,,Dark clouds were gathering from within...
+Dialogue: 0,0:23:37.40,0:23:41.02,Default,Next time,0000,0000,0000,,Next time: The Northern Katjvarna Rebellion.
+Dialogue: 0,0:23:37.73,0:23:41.02,Alderamin-Next_Episode,Next time,0000,0000,0000,,The Northern Katjvarna Rebellion

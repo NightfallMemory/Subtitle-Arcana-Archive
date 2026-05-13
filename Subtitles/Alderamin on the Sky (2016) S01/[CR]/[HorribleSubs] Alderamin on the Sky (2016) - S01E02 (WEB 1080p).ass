@@ -1,0 +1,393 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Alderamin-internal/narrator,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Alderamin-internal-top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Alderamin-overlap,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-overlap-top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Alderamin-flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-flashbackinternal,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-flashback-overlap,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-Episode_Title,Open Sans Semibold,38,&H00D0DFEE,&H000000FF,&H00493F46,&H00493F46,0,0,0,0,100,100,0,0,1,1,1,2,27,13,173,1
+Style: Alderamin-Next_Episode,Open Sans Semibold,38,&H00FFFFF9,&H000000FF,&H00B0B689,&H0020222B,0,0,0,0,100,100,0,0,1,2,0,8,105,84,213,1
+Style: sign_13590_133_Kioka_Republic_W,Open Sans Semibold,33,&H00E1F4FA,&H000000FF,&H000B1E22,&H000B1E22,0,0,0,0,100,100,0,0,1,1,1,2,144,157,71,0
+Style: sign_18477_199_Katjvan_Empire_E,Open Sans Semibold,33,&H00F0F5ED,&H000000FF,&H001B1A14,&H001B1A14,0,0,0,0,100,100,0,0,1,1,1,2,147,160,71,0
+Style: sign_19195_209_1_Month_Later,Open Sans Semibold,33,&H00E8EAF2,&H000000FF,&H00404766,&H00404766,0,0,0,0,100,100,0,0,1,1,1,2,324,337,71,0
+Style: sign_22761_259_Katjvarna_News_E,Open Sans Semibold,33,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: sign_23564_270_Capital_City_Ban,Open Sans Semibold,33,&H00F0F5FF,&H000000FF,&H004B5160,&H004B5160,0,0,0,0,100,100,0,0,1,1,1,2,167,180,71,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:02.98,0:00:05.70,Default,I,0000,0000,0000,,Please, don't shoot!
+Dialogue: 0,0:00:07.10,0:00:08.54,Default,Gu,0000,0000,0000,,Who are you?!
+Dialogue: 0,0:00:08.54,0:00:11.19,Default,I,0000,0000,0000,,I-I've fled from the Empire!
+Dialogue: 0,0:00:11.55,0:00:14.66,Default,I,0000,0000,0000,,I can't take that place anymore!
+Dialogue: 0,0:00:15.21,0:00:17.04,Default,Gu,0000,0000,0000,,Another asylum-seeker?
+Dialogue: 0,0:00:17.59,0:00:18.87,Default,Gu,0000,0000,0000,,Are you alone?
+Dialogue: 0,0:00:19.33,0:00:21.22,Default,I,0000,0000,0000,,My mom's with me!
+Dialogue: 0,0:00:21.22,0:00:22.87,Default,I,0000,0000,0000,,She's in the cave back there.
+Dialogue: 0,0:00:25.11,0:00:26.59,Default,Gu,0000,0000,0000,,I understand.
+Dialogue: 0,0:00:26.59,0:00:27.50,Default,Gu,0000,0000,0000,,You can relax now.
+Dialogue: 0,0:00:28.06,0:00:31.25,Default,Gu,0000,0000,0000,,The Republic accepts most asylum-seekers.
+Dialogue: 0,0:00:31.25,0:00:32.89,Default,Gu,0000,0000,0000,,Lead us to the caves.
+Dialogue: 0,0:00:33.47,0:00:34.38,Default,I,0000,0000,0000,,Thank you!
+Dialogue: 0,0:00:34.87,0:00:37.31,Default,I,0000,0000,0000,,But is this all of you?
+Dialogue: 0,0:00:37.31,0:00:38.78,Default,Gu,0000,0000,0000,,Yeah, we're the only ones here.
+Dialogue: 0,0:00:38.78,0:00:41.39,Default,Gu,0000,0000,0000,,Unless she's a particularly \Nfull-bodied madam,
+Dialogue: 0,0:00:41.39,0:00:42.34,Default,Gu,0000,0000,0000,,we'll be good.
+Dialogue: 0,0:00:44.21,0:00:45.27,Default,I,0000,0000,0000,,I see.
+Dialogue: 0,0:00:45.27,0:00:46.44,Default,I,0000,0000,0000,,It's just you three, huh?
+Dialogue: 0,0:00:47.88,0:00:49.02,Default,I,0000,0000,0000,,Pattern three!
+Dialogue: 0,0:00:55.54,0:00:56.31,Default,Gu,0000,0000,0000,,Iriq!
+Dialogue: 0,0:00:56.31,0:00:57.68,Default,Gu,0000,0000,0000,,Turn off the light and fall back!
+Dialogue: 0,0:00:57.68,0:00:58.66,Default,Gu,0000,0000,0000,,You bastard...
+Dialogue: 0,0:01:03.25,0:01:04.83,Default,Gu,0000,0000,0000,,Let me go, damn it!
+Dialogue: 0,0:01:04.98,0:01:06.33,Default,Gu,0000,0000,0000,,Die!
+Dialogue: 0,0:01:21.49,0:01:23.12,Default,I,0000,0000,0000,,Kus, searchlight.
+Dialogue: 0,0:03:06.29,0:03:08.79,Alderamin-Episode_Title,,0000,0000,0000,,{\fad(550,1)}An Unwanted Medal of Honor
+Dialogue: 0,0:03:09.90,0:03:12.08,Default,I,0000,0000,0000,,This one's still breathing.
+Dialogue: 0,0:03:12.55,0:03:14.25,Default,I,0000,0000,0000,,Torway, what about yours?
+Dialogue: 0,0:03:14.49,0:03:15.84,Default,Gu,0000,0000,0000,,Iriq...
+Dialogue: 0,0:03:15.84,0:03:17.27,Default,Gu,0000,0000,0000,,Iriq, wake up.
+Dialogue: 0,0:03:17.59,0:03:19.51,Default,Gu,0000,0000,0000,,Come on, Iriq.
+Dialogue: 0,0:03:17.65,0:03:21.76,Alderamin-overlap,T,0000,0000,0000,,Sprite, your master is...
+Dialogue: 0,0:03:20.06,0:03:21.00,Default,Gu,0000,0000,0000,,Iriq?
+Dialogue: 0,0:03:21.76,0:03:22.77,Default,I,0000,0000,0000,,Torway.
+Dialogue: 0,0:03:23.39,0:03:25.39,Default,I,0000,0000,0000,,Save that for later.
+Dialogue: 0,0:03:26.93,0:03:27.89,Default,T,0000,0000,0000,,He's dead.
+Dialogue: 0,0:03:28.70,0:03:31.21,Default,I,0000,0000,0000,,Looks like you're going \Nto have to tell us, then.
+Dialogue: 0,0:03:31.21,0:03:32.90,Default,I,0000,0000,0000,,Skywarrior Nihad Hyu.
+Dialogue: 0,0:03:33.39,0:03:34.79,Default,I,0000,0000,0000,,We'll treat your wound,
+Dialogue: 0,0:03:34.79,0:03:37.27,Default,I,0000,0000,0000,,but only after you've answered our questions.
+Dialogue: 0,0:03:37.88,0:03:40.65,Default,I,0000,0000,0000,,First, where is your base?
+Dialogue: 0,0:03:40.82,0:03:45.14,Default,H,0000,0000,0000,,T-To the east,\Na half-day away by blimp...
+Dialogue: 0,0:03:45.14,0:03:46.29,Default,I,0000,0000,0000,,Good.
+Dialogue: 0,0:03:46.29,0:03:49.79,Default,I,0000,0000,0000,,What was your mission, and how \Nmany were with your squad?
+Dialogue: 0,0:03:50.24,0:03:53.10,Default,H,0000,0000,0000,,Patrolling this side of the border...
+Dialogue: 0,0:03:53.10,0:03:56.57,Default,H,0000,0000,0000,,There were just three of us. \NWe didn't have a squad.
+Dialogue: 0,0:03:56.57,0:03:59.22,Default,I,0000,0000,0000,,Where is your blimp?
+Dialogue: 0,0:04:00.54,0:04:01.72,Default,I,0000,0000,0000,,I can't hear you.
+Dialogue: 0,0:04:01.72,0:04:03.13,Default,I,0000,0000,0000,,You're delaying your treatment.
+Dialogue: 0,0:04:04.04,0:04:08.06,Default,H,0000,0000,0000,,Along the coast once you leave the forest.
+Dialogue: 0,0:04:09.36,0:04:10.44,Default,H,0000,0000,0000,,I'm so cold...
+Dialogue: 0,0:04:10.44,0:04:13.19,Default,H,0000,0000,0000,,Stop... stop the bleeding, please.
+Dialogue: 0,0:04:13.19,0:04:14.54,Default,I,0000,0000,0000,,Got it.
+Dialogue: 0,0:04:14.54,0:04:16.41,Default,I,0000,0000,0000,,This is my last question.
+Dialogue: 0,0:04:16.82,0:04:20.16,Default,I,0000,0000,0000,,Nihad, have you ever been to the border?
+Dialogue: 0,0:04:27.70,0:04:30.45,Default,I,0000,0000,0000,,You can come out, Princess.
+Dialogue: 0,0:04:31.09,0:04:33.88,Default,Y,0000,0000,0000,,Your Highness, I'm glad you're safe.
+Dialogue: 0,0:04:36.84,0:04:40.66,Default,I,0000,0000,0000,,Unfortunately, all your partners are dead.
+Dialogue: 0,0:04:41.72,0:04:45.54,Default,I,0000,0000,0000,,I swear by the god Alderamin in heaven
+Dialogue: 0,0:04:45.54,0:04:49.23,Default,I,0000,0000,0000,,that we will regenerate you\N and treat you well
+Dialogue: 0,0:04:49.23,0:04:51.71,Default,I,0000,0000,0000,,at an imperial church.
+Dialogue: 0,0:04:51.71,0:04:54.84,Default,I,0000,0000,0000,,So entrust us with your souls, please.
+Dialogue: 0,0:05:03.74,0:05:04.89,Default,I,0000,0000,0000,,Thank you.
+Dialogue: 0,0:05:04.89,0:05:08.02,Default,I,0000,0000,0000,,I accept your soulstones.
+Dialogue: 0,0:05:09.38,0:05:10.63,Default,T,0000,0000,0000,,You're carrying him?
+Dialogue: 0,0:05:10.63,0:05:13.43,Default,T,0000,0000,0000,,We can just put him \Nsomewhere safe in the bushes...
+Dialogue: 0,0:05:13.87,0:05:14.96,Default,I,0000,0000,0000,,Torway,
+Dialogue: 0,0:05:14.96,0:05:18.54,Default,I,0000,0000,0000,,it's okay for you to revel \Nin your first victory now.
+Dialogue: 0,0:05:19.25,0:05:24.23,Default,I,0000,0000,0000,,So at least allow me this luxury.
+Dialogue: 0,0:05:24.23,0:05:27.09,Default,I,0000,0000,0000,,He told us everything\Nwe wanted to know, right?
+Dialogue: 0,0:05:35.35,0:05:37.75,Default,T,0000,0000,0000,,How could I miss at that range?
+Dialogue: 0,0:05:38.68,0:05:41.48,Default,Y,0000,0000,0000,,A moving enemy is nothing \Nlike a training dummy.
+Dialogue: 0,0:05:42.56,0:05:43.91,Default,Y,0000,0000,0000,,In that situation,
+Dialogue: 0,0:05:43.91,0:05:46.92,Default,Y,0000,0000,0000,,you usually struggle to operate\Nat even half your potential.
+Dialogue: 0,0:05:46.92,0:05:49.53,Default,T,0000,0000,0000,,The enemy was barely moving...
+Dialogue: 0,0:05:50.18,0:05:54.01,Default,T,0000,0000,0000,,Plus, you and Ikkun were both able to \Nstay calm and make the right moves.
+Dialogue: 0,0:05:54.01,0:05:55.00,Default,T,0000,0000,0000,,But I...
+Dialogue: 0,0:05:56.50,0:05:58.13,Default,Y,0000,0000,0000,,Listen up, Torway Remeon.
+Dialogue: 0,0:05:58.13,0:06:01.50,Default,Y,0000,0000,0000,,The fact that you have an air rifle \Nmakes you valuable to us.
+Dialogue: 0,0:06:02.04,0:06:05.51,Default,Y,0000,0000,0000,,Even here, that allowed me to\Napproach the enemy in relative safety.
+Dialogue: 0,0:06:08.87,0:06:11.24,Default,Y,0000,0000,0000,,You should learn from Ikta.
+Dialogue: 0,0:06:11.69,0:06:14.81,Default,Y,0000,0000,0000,,He knows what he can and can't do
+Dialogue: 0,0:06:14.81,0:06:16.31,Default,Y,0000,0000,0000,,and uses that to make decisions.
+Dialogue: 0,0:06:18.63,0:06:23.07,Default,T,0000,0000,0000,,You understand Ikkun really well, don't you?
+Dialogue: 0,0:06:26.08,0:06:28.16,Default,Sh,0000,0000,0000,,This is my responsibility.
+Dialogue: 0,0:06:28.71,0:06:29.82,Default,Y,0000,0000,0000,,Your Highness...
+Dialogue: 0,0:06:30.45,0:06:35.58,Default,Sh,0000,0000,0000,,I was the one who ordered you\Nto see me back safely.
+Dialogue: 0,0:06:38.27,0:06:41.90,Default,Sh,0000,0000,0000,,The Empire and the imperial family \Nexist to aid people's lives,
+Dialogue: 0,0:06:41.90,0:06:44.83,Default,Sh,0000,0000,0000,,and yet we keep taking them for no reason.
+Dialogue: 0,0:06:45.39,0:06:46.46,Default,Sh,0000,0000,0000,,But forgive me.
+Dialogue: 0,0:06:47.41,0:06:49.13,Default,Sh,0000,0000,0000,,I must return.
+Dialogue: 0,0:06:51.89,0:06:56.59,Default,Sh,0000,0000,0000,,I must hasten the rot and collapse \Nof the great tree as much as I can...
+Dialogue: 0,0:06:57.12,0:06:59.46,Default,Sh,0000,0000,0000,,For that, I accept any\N of Hell's punishments.
+Dialogue: 0,0:07:01.61,0:07:04.28,Default,I,0000,0000,0000,,You're bleeding, Princess.
+Dialogue: 0,0:07:05.48,0:07:06.65,Default,Sh,0000,0000,0000,,I don't care!
+Dialogue: 0,0:07:06.20,0:07:07.64,Alderamin-overlap,I,0000,0000,0000,,Matthew! Haro!
+Dialogue: 0,0:07:06.65,0:07:08.24,Default,Sh,0000,0000,0000,,This blood is rotten!
+Dialogue: 0,0:07:08.24,0:07:11.12,Default,Sh,0000,0000,0000,,This blood... the blood \Nof the Katjvanmaninik,
+Dialogue: 0,0:07:11.12,0:07:13.22,Default,Sh,0000,0000,0000,,rotted so long ago...
+Dialogue: 0,0:07:18.26,0:07:19.71,Default,I,0000,0000,0000,,Tastes normal.
+Dialogue: 0,0:07:20.68,0:07:26.67,Default,I,0000,0000,0000,,Princess, blood doesn't go bad \Nas long as it's in the body.
+Dialogue: 0,0:07:27.66,0:07:30.40,Default,I,0000,0000,0000,,Therefore, what you're saying\Nis unscientific.
+Dialogue: 0,0:07:30.88,0:07:32.45,Default,Sh,0000,0000,0000,,Unscientific?
+Dialogue: 0,0:07:32.45,0:07:34.78,Default,I,0000,0000,0000,,It's a word my master made up.
+Dialogue: 0,0:07:34.78,0:07:38.56,Default,I,0000,0000,0000,,It refers to a way of thinking \Nthat's illogical and wasteful.
+Dialogue: 0,0:07:39.22,0:07:41.03,Default,I,0000,0000,0000,,When the ship sank,
+Dialogue: 0,0:07:41.03,0:07:44.94,Default,I,0000,0000,0000,,I went through quite a bit\Nof trouble to save you.
+Dialogue: 0,0:07:45.44,0:07:47.96,Default,I,0000,0000,0000,,So please, take care of your life.
+Dialogue: 0,0:07:50.14,0:07:54.03,Default,Sh,0000,0000,0000,,I thought you hated me.
+Dialogue: 0,0:07:55.03,0:07:59.70,Default,I,0000,0000,0000,,Well, what happened before was \Nbasically just a childish tantrum...
+Dialogue: 0,0:08:00.37,0:08:02.17,Default,I,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:08:09.16,0:08:10.59,Default,Sh,0000,0000,0000,,Yatori,
+Dialogue: 0,0:08:11.49,0:08:15.41,Default,Sh,0000,0000,0000,,underneath it all, what kind \Nof man is Ikta Solork?
+Dialogue: 0,0:08:16.17,0:08:17.88,Default,Y,0000,0000,0000,,He's a very twisted man.
+Dialogue: 0,0:08:19.33,0:08:20.58,Default,Y,0000,0000,0000,,However, Your Highness,
+Dialogue: 0,0:08:21.52,0:08:25.11,Default,Y,0000,0000,0000,,you can't build a house out \Nof only straight sticks.
+Dialogue: 0,0:08:37.77,0:08:39.83,Default,I,0000,0000,0000,,I've memorized their names.
+Dialogue: 0,0:08:41.33,0:08:43.50,Default,Gi,0000,0000,0000,,It was an act of legitimate self-defense.
+Dialogue: 0,0:08:44.15,0:08:45.14,Default,Gi,0000,0000,0000,,Ikta,
+Dialogue: 0,0:08:45.14,0:08:47.50,Default,Gi,0000,0000,0000,,please don't get depressed.
+Dialogue: 0,0:08:48.85,0:08:51.05,Default,I,0000,0000,0000,,Thank you, Kus.
+Dialogue: 0,0:08:54.70,0:08:56.95,Default,Sh,0000,0000,0000,,So this is a blimp.
+Dialogue: 0,0:08:57.74,0:08:59.91,Default,Sh,0000,0000,0000,,Huh? Fire spirits?
+Dialogue: 0,0:08:59.91,0:09:03.45,Default,T,0000,0000,0000,,Oh, when I came here \Nwith Ikta last night,
+Dialogue: 0,0:09:03.45,0:09:05.39,Default,T,0000,0000,0000,,we took out their soulstones.
+Dialogue: 0,0:09:05.39,0:09:10.19,Default,Y,0000,0000,0000,,You already have a plan for\N this blimp, don't you, Ikta?
+Dialogue: 0,0:09:10.49,0:09:13.94,Default,I,0000,0000,0000,,Of course. We're using it \Nto help us cross the border.
+Dialogue: 0,0:09:14.42,0:09:16.14,Default,M,0000,0000,0000,,We're riding it over?
+Dialogue: 0,0:09:16.14,0:09:17.52,Default,I,0000,0000,0000,,Matthew, my dear friend,
+Dialogue: 0,0:09:17.52,0:09:20.67,Default,I,0000,0000,0000,,unfortunately, this can only carry three.
+Dialogue: 0,0:09:20.67,0:09:23.08,Default,M,0000,0000,0000,,What's the plan, then?
+Dialogue: 0,0:09:26.79,0:09:30.96,sign_13590_133_Kioka_Republic_W,M,0000,0000,0000,,{\fad(1800,1)}Kioka Republic Western Border Garrison
+Dialogue: 0,0:09:27.34,0:09:30.96,Alderamin-top,Gu,0000,0000,0000,,So the sun rises uneventfully\N once more, does it?
+Dialogue: 0,0:09:31.57,0:09:35.09,Default,Gu,0000,0000,0000,,I'm glad that none of my comrades died,
+Dialogue: 0,0:09:35.66,0:09:39.22,Default,Gu,0000,0000,0000,,but does the Empire have no serious \Nintention of fighting this war?
+Dialogue: 0,0:09:39.22,0:09:41.11,Default,Gu,0000,0000,0000,,Excuse me, Second Lieutenant.
+Dialogue: 0,0:09:41.69,0:09:43.45,Default,Gu,0000,0000,0000,,Allies from our rear.
+Dialogue: 0,0:09:43.45,0:09:44.37,Default,Gu,0000,0000,0000,,That's sudden.
+Dialogue: 0,0:09:44.37,0:09:45.60,Default,Gu,0000,0000,0000,,What unit are they with?
+Dialogue: 0,0:09:45.60,0:09:48.72,Default,Gu,0000,0000,0000,,Well, they're all quite unusual.
+Dialogue: 0,0:09:51.14,0:09:53.98,Default,Gu,0000,0000,0000,,I'm Second Lieutenant Nejif Harurum,\Nand I'm in charge here.
+Dialogue: 0,0:09:53.98,0:09:56.32,Default,I,0000,0000,0000,,Second Lieutenant, dire news!
+Dialogue: 0,0:09:56.32,0:09:58.98,Default,I,0000,0000,0000,,Please look at the eastern sky!
+Dialogue: 0,0:10:00.90,0:10:01.99,Default,Gu,0000,0000,0000,,A blimp?
+Dialogue: 0,0:10:03.14,0:10:06.37,Alderamin-flashbackinternal,I,0000,0000,0000,,Blimps are expensive.
+Dialogue: 0,0:10:06.87,0:10:11.25,Alderamin-flashback,I,0000,0000,0000,,Every one of them is dear to the Kioka army.
+Dialogue: 0,0:10:11.44,0:10:12.91,Alderamin-flashback,T,0000,0000,0000,,I see.
+Dialogue: 0,0:10:12.91,0:10:16.59,Alderamin-flashback,T,0000,0000,0000,,So, this balloon itself is what we use\Nto barter with the Kioka forces.
+Dialogue: 0,0:10:16.59,0:10:20.50,Alderamin-flashback,Y,0000,0000,0000,,Will they be willing to negotiate, though?
+Dialogue: 0,0:10:20.99,0:10:22.65,Alderamin-flashback,Y,0000,0000,0000,,They'll think we're spies,
+Dialogue: 0,0:10:22.65,0:10:24.68,Alderamin-flashback,Y,0000,0000,0000,,even if we pretend to be asylum-seekers.
+Dialogue: 0,0:10:24.68,0:10:27.72,Alderamin-flashback,I,0000,0000,0000,,Sure, if the negotiations drag on.
+Dialogue: 0,0:10:28.62,0:10:30.60,Default,N,0000,0000,0000,,A blimp's been stolen?
+Dialogue: 0,0:10:30.83,0:10:35.53,Default,I,0000,0000,0000,,We found these people and \Nfired a warning shot,
+Dialogue: 0,0:10:35.53,0:10:39.72,Default,I,0000,0000,0000,,but one of them escaped toward the blimp.
+Dialogue: 0,0:10:40.29,0:10:42.12,Default,N,0000,0000,0000,,They took the blimp?
+Dialogue: 0,0:10:42.34,0:10:44.19,Default,I,0000,0000,0000,,I make no excuses.
+Dialogue: 0,0:10:44.19,0:10:46.30,Default,I,0000,0000,0000,,If the court orders me drawn and quartered,
+Dialogue: 0,0:10:46.30,0:10:47.14,Default,I,0000,0000,0000,,I won't complain—
+Dialogue: 0,0:10:46.69,0:10:49.62,Alderamin-top,N,0000,0000,0000,,Then, what are the demands\N of the blimp thief?!
+Dialogue: 0,0:10:50.80,0:10:52.63,Default,I,0000,0000,0000,,"I don't care what happens to me.
+Dialogue: 0,0:10:52.93,0:10:55.52,Default,I,0000,0000,0000,,Return my family to the Empire.
+Dialogue: 0,0:10:55.52,0:10:57.73,Default,I,0000,0000,0000,,And then I'll bring down the balloon."
+Dialogue: 0,0:10:58.13,0:11:02.14,Alderamin-flashback,Y,0000,0000,0000,,So, you'll have a fictional man\Nmaking threats.
+Dialogue: 0,0:11:02.59,0:11:05.33,Alderamin-flashback,H,0000,0000,0000,,But why would we want to go back
+Dialogue: 0,0:11:05.33,0:11:07.06,Alderamin-flashback,H,0000,0000,0000,,if we've already sought asylum?
+Dialogue: 0,0:11:07.23,0:11:10.56,Alderamin-flashback,I,0000,0000,0000,,I'll tell them the warning shot\Nscared you or something.
+Dialogue: 0,0:11:11.16,0:11:16.07,Alderamin-flashback,I,0000,0000,0000,,What's important is how we get them\Ninto self-preservation mode.
+Dialogue: 0,0:11:17.31,0:11:19.57,Default,N,0000,0000,0000,,Send them back?
+Dialogue: 0,0:11:19.83,0:11:22.86,Default,N,0000,0000,0000,,My mission is to eliminate anyone\Nwho crosses the border!
+Dialogue: 0,0:11:22.86,0:11:24.74,Default,I,0000,0000,0000,,However, consider this...
+Dialogue: 0,0:11:25.16,0:11:27.27,Default,I,0000,0000,0000,,These asylum-seekers
+Dialogue: 0,0:11:27.27,0:11:30.79,Default,I,0000,0000,0000,,crossed over the sea that's under \Nyour jurisdiction to get here.
+Dialogue: 0,0:11:31.67,0:11:34.92,Default,N,0000,0000,0000,,That's true, but...
+Dialogue: 0,0:11:35.11,0:11:38.05,Default,I,0000,0000,0000,,If the winds above us \Ntilt towards the Empire,
+Dialogue: 0,0:11:38.05,0:11:40.42,Default,I,0000,0000,0000,,that blimp will be gone for good!
+Dialogue: 0,0:11:40.66,0:11:41.93,Default,I,0000,0000,0000,,There's no time!
+Dialogue: 0,0:11:42.93,0:11:44.06,Default,I,0000,0000,0000,,Your decision, sir!
+Dialogue: 0,0:11:46.83,0:11:49.81,Default,I,0000,0000,0000,,Well, that went better than expected.
+Dialogue: 0,0:11:50.41,0:11:53.31,Default,I,0000,0000,0000,,I'm taking tips, everyone.
+Dialogue: 0,0:11:53.52,0:11:55.64,Default,Y,0000,0000,0000,,You're one hell of a con man.
+Dialogue: 0,0:11:55.64,0:11:58.82,Default,T,0000,0000,0000,,You sent up an unmanned blimp\Nand used it to threaten them...
+Dialogue: 0,0:11:59.04,0:12:00.91,Default,T,0000,0000,0000,,That's amazing, Ikkun.
+Dialogue: 0,0:12:00.91,0:12:04.52,Default,H,0000,0000,0000,,He'd be more likely to heed a warning\N from an ally, wouldn't he?
+Dialogue: 0,0:12:05.61,0:12:07.49,Default,M,0000,0000,0000,,I'm not completely happy with this.
+Dialogue: 0,0:12:08.06,0:12:11.11,Default,M,0000,0000,0000,,I finally got that air rifle\N and now I've lost it.
+Dialogue: 0,0:12:11.11,0:12:14.50,Default,I,0000,0000,0000,,Matthew, my dear friend,\Nforgive me for that.
+Dialogue: 0,0:12:15.16,0:12:18.00,Default,I,0000,0000,0000,,We can't cross the border with weapons.
+Dialogue: 0,0:12:19.14,0:12:21.13,Default,Y,0000,0000,0000,,Don't fret over what was lost.
+Dialogue: 0,0:12:21.13,0:12:22.88,Default,Y,0000,0000,0000,,Rejoice that you survived.
+Dialogue: 0,0:12:23.49,0:12:25.69,Default,I,0000,0000,0000,,Okay, it's about time.
+Dialogue: 0,0:12:27.38,0:12:29.64,Default,I,0000,0000,0000,,Princess, you can have this back.
+Dialogue: 0,0:12:30.07,0:12:33.25,Default,I,0000,0000,0000,,This is proof of who you are,\Nand it's about to be very important.
+Dialogue: 0,0:12:34.05,0:12:35.69,Default,,0000,0000,0000,,R-Right...
+Dialogue: 0,0:12:39.97,0:12:42.45,Default,I,0000,0000,0000,,Is there something stuck on my face?
+Dialogue: 0,0:12:42.92,0:12:45.15,Default,Sh,0000,0000,0000,,No, nothing.
+Dialogue: 0,0:12:47.79,0:12:49.62,Alderamin-internal/narrator,Sh,0000,0000,0000,,Ikta Solork.
+Dialogue: 0,0:12:50.62,0:12:55.37,sign_18477_199_Katjvan_Empire_E,Sh,0000,0000,0000,,{\fad(1800,1000)}Katjvan Empire Eastern Region Garrison
+Dialogue: 0,0:12:51.14,0:12:53.02,Alderamin-top,Gu,0000,0000,0000,,Princess Chamille,
+Dialogue: 0,0:12:53.02,0:12:55.67,Alderamin-top,Gu,0000,0000,0000,,I'm glad you're back safe.
+Dialogue: 0,0:12:56.06,0:12:59.35,Default,Sh,0000,0000,0000,,Raise your head,\NLieutenant General Hazaf Rikan.
+Dialogue: 0,0:12:59.76,0:13:01.92,Default,Sh,0000,0000,0000,,Thank you for coming \Nto greet me personally.
+Dialogue: 0,0:13:02.66,0:13:04.51,Default,Gu,0000,0000,0000,,Your words honor me.
+Dialogue: 0,0:13:04.51,0:13:07.48,Default,Gu,0000,0000,0000,,However, I still can't believe
+Dialogue: 0,0:13:07.48,0:13:10.43,Default,Gu,0000,0000,0000,,that after you went missing, \Nyou landed in Kioka territory.
+Dialogue: 0,0:13:10.90,0:13:14.94,Default,Sh,0000,0000,0000,,I only survived because \Nof the help of these five.
+Dialogue: 0,0:13:16.41,0:13:18.13,Default,Sh,0000,0000,0000,,I'll introduce you.
+Dialogue: 0,0:13:20.57,0:13:23.82,sign_19195_209_1_Month_Later,Sh,0000,0000,0000,,{\fad(1800,1)}1 Month Later
+Dialogue: 0,0:13:21.79,0:13:26.40,Alderamin-top,I,0000,0000,0000,,Even a life of luxury in a top hotel\Ngets boring after a month.
+Dialogue: 0,0:13:27.27,0:13:30.76,Default,H,0000,0000,0000,,C-Can we take this sugar home?
+Dialogue: 0,0:13:30.76,0:13:32.80,Default,H,0000,0000,0000,,I'd like to give it to my little brothers...
+Dialogue: 0,0:13:33.26,0:13:36.61,Default,M,0000,0000,0000,,We'll get an even bigger reward \Nfrom the imperial household.
+Dialogue: 0,0:13:36.61,0:13:39.58,Default,M,0000,0000,0000,,We saved the princess, after all.
+Dialogue: 0,0:13:39.58,0:13:42.84,Default,Y,0000,0000,0000,,There's only one reward I want, though.
+Dialogue: 0,0:13:43.39,0:13:46.04,Default,Y,0000,0000,0000,,Another shot at the \NHigh-Level Officer's exam.
+Dialogue: 0,0:13:46.04,0:13:48.42,Default,M,0000,0000,0000,,I-I'm sure it'll be fine.
+Dialogue: 0,0:13:48.42,0:13:50.10,Default,T,0000,0000,0000,,Hey, everyone!
+Dialogue: 0,0:14:00.49,0:14:01.67,Default,Y,0000,0000,0000,,Read this.
+Dialogue: 0,0:14:01.67,0:14:03.36,Default,Y,0000,0000,0000,,You'll wake up.
+Dialogue: 0,0:14:04.21,0:14:06.67,Default,Y,0000,0000,0000,,The Eastern Region fell to the Republic.
+Dialogue: 0,0:14:06.67,0:14:09.37,Default,Y,0000,0000,0000,,Lieutenant General Hazaf Rikan\Ndied in battle.
+Dialogue: 0,0:14:11.09,0:14:13.87,Alderamin-flashbackinternal,I,0000,0000,0000,,You should withdraw, \NLieutenant General Rikan.
+Dialogue: 0,0:14:14.60,0:14:15.25,Alderamin-flashback,Gu,0000,0000,0000,,What?
+Dialogue: 0,0:14:15.69,0:14:17.37,Alderamin-flashback,I,0000,0000,0000,,This battle has no meaning.
+Dialogue: 0,0:14:17.37,0:14:19.36,Alderamin-flashback,Y,0000,0000,0000,,You're overstepping your bounds, Ikta!
+Dialogue: 0,0:14:18.50,0:14:20.67,Alderamin-flashback-overlap,I,0000,0000,0000,,Even when it's time to attack,
+Dialogue: 0,0:14:20.67,0:14:22.75,Alderamin-flashback-overlap,I,0000,0000,0000,,the Eastern Garrison is only defending!
+Dialogue: 0,0:14:22.75,0:14:23.62,Alderamin-flashback,Y,0000,0000,0000,,Ikta!
+Dialogue: 0,0:14:23.21,0:14:27.01,Alderamin-flashback-overlap,I,0000,0000,0000,,That's because the Emperor ordered you to!
+Dialogue: 0,0:14:27.74,0:14:28.72,Alderamin-flashback,I,0000,0000,0000,,Ow...
+Dialogue: 0,0:14:28.72,0:14:30.01,Alderamin-flashback,Sh,0000,0000,0000,,There's no need to stop him.
+Dialogue: 0,0:14:31.45,0:14:32.86,Alderamin-flashback,Sh,0000,0000,0000,,I'll allow it.
+Dialogue: 0,0:14:32.86,0:14:34.53,Alderamin-flashback,Sh,0000,0000,0000,,Let him say what he likes.
+Dialogue: 0,0:14:34.53,0:14:35.46,Alderamin-flashback,Y,0000,0000,0000,,Yes, Your Highness.
+Dialogue: 0,0:14:36.95,0:14:39.44,Alderamin-flashback,I,0000,0000,0000,,This whole war is rigged.
+Dialogue: 0,0:14:40.28,0:14:44.02,Alderamin-flashback,I,0000,0000,0000,,The Empire failed to develop the East\Nand wants to be rid of it.
+Dialogue: 0,0:14:44.02,0:14:47.55,Alderamin-flashback,I,0000,0000,0000,,But the Imperial Army wants\N the people to think that
+Dialogue: 0,0:14:47.55,0:14:49.03,Alderamin-flashback,I,0000,0000,0000,,it was seriously fighting Kioka.
+Dialogue: 0,0:14:49.81,0:14:53.16,Alderamin-flashback,I,0000,0000,0000,,That's why a famous general's \Nbeen placed on the front lines.
+Dialogue: 0,0:14:53.42,0:14:56.29,Alderamin-flashback,I,0000,0000,0000,,This is insane. Do you\N intend to accept it?
+Dialogue: 0,0:14:58.77,0:15:02.98,Alderamin-flashback,Gu,0000,0000,0000,,Solork-kun, I'm glad\Nyou're not one of my men.
+Dialogue: 0,0:15:04.50,0:15:08.63,Alderamin-flashback,Gu,0000,0000,0000,,Because I don't have to punish a young man\Nfor being worried about me.
+Dialogue: 0,0:15:10.17,0:15:12.18,Alderamin-flashback,Gu,0000,0000,0000,,We cannot withdraw.
+Dialogue: 0,0:15:12.18,0:15:15.95,Alderamin-flashback,I,0000,0000,0000,,Whether you withdraw or not,\NKioka will take the Eastern Region!
+Dialogue: 0,0:15:15.95,0:15:17.34,Alderamin-flashback,I,0000,0000,0000,,The result is the same!
+Dialogue: 0,0:15:17.34,0:15:18.86,Alderamin-flashback,Gu,0000,0000,0000,,The process is different.
+Dialogue: 0,0:15:18.86,0:15:22.03,Alderamin-flashback,Gu,0000,0000,0000,,It's one thing to obey\Nthe Emperor's orders and lose it,
+Dialogue: 0,0:15:22.03,0:15:23.57,Alderamin-flashback,Gu,0000,0000,0000,,and quite another to disobey—
+Dialogue: 0,0:15:23.57,0:15:27.21,Alderamin-flashback,I,0000,0000,0000,,I'm telling you,\Nthat's unscientific thinking!
+Dialogue: 0,0:15:30.91,0:15:32.42,Alderamin-flashback,Y,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:15:32.42,0:15:33.95,Alderamin-flashback,Y,0000,0000,0000,,Please forget what you heard.
+Dialogue: 0,0:15:35.53,0:15:36.69,Alderamin-flashback,Gu,0000,0000,0000,,Take him away.
+Dialogue: 0,0:15:36.69,0:15:37.45,Alderamin-flashback,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:15:37.88,0:15:42.12,Alderamin-flashback,I,0000,0000,0000,,Are you trying to become \Na second Bada Sankrei?
+Dialogue: 0,0:15:43.42,0:15:44.86,Default,I,0000,0000,0000,,I told them...
+Dialogue: 0,0:15:44.86,0:15:46.46,Default,Y,0000,0000,0000,,Don't be too full of yourself.
+Dialogue: 0,0:15:46.46,0:15:49.30,Default,Y,0000,0000,0000,,One man's opinion can't change the war.
+Dialogue: 0,0:15:49.30,0:15:54.80,sign_22761_259_Katjvarna_News_E,,0000,0000,0000,,Katjvarna News\N{\fs24}Eastern Region Garrison Falls
+Dialogue: 0,0:15:49.71,0:15:52.61,Default,H,0000,0000,0000,,"Lieutenant General Rikan's rearguard forces
+Dialogue: 0,0:15:52.61,0:15:54.80,Default,H,0000,0000,0000,,suffered the full brunt of the enemy attack
+Dialogue: 0,0:15:55.00,0:15:56.50,Default,H,0000,0000,0000,,and were all but decimated."
+Dialogue: 0,0:15:57.80,0:16:01.97,Default,T,0000,0000,0000,,But many of the soldiers were able \Nto escape because of his actions.
+Dialogue: 0,0:16:02.39,0:16:05.19,Default,T,0000,0000,0000,,He was worthy of his reputation.
+Dialogue: 0,0:16:05.79,0:16:08.62,Default,I,0000,0000,0000,,Every hero dies of overwork.
+Dialogue: 0,0:16:10.86,0:16:14.45,Default,Gu,0000,0000,0000,,You're the five students who \Nsaved the princess, right?
+Dialogue: 0,0:16:16.19,0:16:19.79,Default,Gu,0000,0000,0000,,Weep with joy,
+Dialogue: 0,0:16:20.11,0:16:23.55,Alderamin-top,Gu,0000,0000,0000,,for you have been given the honor \Nof an audience with the Emperor.
+Dialogue: 0,0:16:22.81,0:16:26.79,sign_23564_270_Capital_City_Ban,Gu,0000,0000,0000,,{\fad(1000,1)}Capital City Banhatahl, Old Cathedral
+Dialogue: 0,0:16:23.55,0:16:25.33,Alderamin-top,Gu,0000,0000,0000,,Alsankurt Kitra Katjvanmaninik awaits.
+Dialogue: 0,0:16:27.06,0:16:29.00,Default,M,0000,0000,0000,,H-Hey, Torway,
+Dialogue: 0,0:16:29.00,0:16:32.05,Default,M,0000,0000,0000,,you can't meet the Emperor's eyes\Nduring an audience, right?
+Dialogue: 0,0:16:32.28,0:16:33.95,Default,M,0000,0000,0000,,Or cough, or sneeze.
+Dialogue: 0,0:16:33.95,0:16:35.80,Default,T,0000,0000,0000,,Ma-kun, calm down.
+Dialogue: 0,0:16:36.02,0:16:40.56,Default,H,0000,0000,0000,,Ilf, Shohka, Echiri, your big sis\Nis going to do her best.
+Dialogue: 0,0:16:44.00,0:16:44.93,Default,Y,0000,0000,0000,,Ikta,
+Dialogue: 0,0:16:45.47,0:16:48.69,Default,Y,0000,0000,0000,,I'm not grabbing you and pinning \Nyou down in front of the Emperor.
+Dialogue: 0,0:17:04.70,0:17:06.46,Default,I,0000,0000,0000,,I know.
+Dialogue: 0,0:17:07.30,0:17:09.34,Default,Sh,0000,0000,0000,,Here they are, Father.
+Dialogue: 0,0:17:09.60,0:17:13.17,Default,Sh,0000,0000,0000,,These are the ones who \Nsuccessfully escorted me
+Dialogue: 0,0:17:13.50,0:17:15.33,Default,Sh,0000,0000,0000,,out of the Republic's territory.
+Dialogue: 0,0:17:16.46,0:17:18.49,Default,Gu,0000,0000,0000,,Due to your actions, my daughter,
+Dialogue: 0,0:17:18.49,0:17:21.70,Default,Gu,0000,0000,0000,,carrying the 900-year-old blood \Nof the Katjvan court in her veins,
+Dialogue: 0,0:17:21.70,0:17:23.42,Default,Gu,0000,0000,0000,,has returned to me.
+Dialogue: 0,0:17:24.00,0:17:27.31,Default,Gu,0000,0000,0000,,That is no different than \Nsaving the Empire itself.
+Dialogue: 0,0:17:27.75,0:17:32.37,Default,Gu,0000,0000,0000,,I shall give you all the rewards\Nthat are within my power to grant.
+Dialogue: 0,0:17:32.37,0:17:33.82,Default,Gu,0000,0000,0000,,Raise your heads.
+Dialogue: 0,0:17:35.66,0:17:42.46,Default,Gu,0000,0000,0000,,I hereby bestow upon you five\Nthe title of Imperial Knights.
+Dialogue: 0,0:17:43.31,0:17:46.86,Default,M,0000,0000,0000,,We get... a decoration?
+Dialogue: 0,0:17:47.54,0:17:50.94,Default,Sh,0000,0000,0000,,We will now have a ceremony \Nto celebrate your new titles.
+Dialogue: 0,0:17:50.94,0:17:52.20,Default,Sh,0000,0000,0000,,Guide them.
+Dialogue: 0,0:17:55.82,0:17:58.30,Default,M,0000,0000,0000,,Th-Then, we...
+Dialogue: 0,0:17:58.30,0:18:01.60,Default,H,0000,0000,0000,,We can go to High-Level Officer's school?
+Dialogue: 0,0:18:02.03,0:18:05.73,Default,T,0000,0000,0000,,It would be more accurate to say \Nthat we're going to be forced to.
+Dialogue: 0,0:18:06.73,0:18:09.36,Default,T,0000,0000,0000,,An Imperial Knight is a soldier.
+Dialogue: 0,0:18:09.36,0:18:11.73,Default,T,0000,0000,0000,,And a soldier can't disobey the army.
+Dialogue: 0,0:18:13.44,0:18:15.73,Default,I,0000,0000,0000,,Now you've done it, Princess.
+Dialogue: 0,0:18:15.73,0:18:19.37,Default,I,0000,0000,0000,,You've ruined my plans for my life.
+Dialogue: 0,0:18:20.86,0:18:24.38,Default,Y,0000,0000,0000,,Your Highness, I'm grateful for the honor.
+Dialogue: 0,0:18:24.38,0:18:29.12,Default,Y,0000,0000,0000,,But the title of Imperial Knight\N is given to a soldier.
+Dialogue: 0,0:18:29.68,0:18:33.81,Default,Y,0000,0000,0000,,Giving someone the title so they \Nbecome a soldier is backwards.
+Dialogue: 0,0:18:34.28,0:18:35.30,Default,Y,0000,0000,0000,,Is there precedent—
+Dialogue: 0,0:18:34.92,0:18:36.63,Alderamin-overlap,Sh,0000,0000,0000,,There is no precedent.
+Dialogue: 0,0:18:37.29,0:18:39.39,Default,Sh,0000,0000,0000,,That's why I made you the first.
+Dialogue: 0,0:18:40.23,0:18:43.15,Default,I,0000,0000,0000,,From the people's perspective,
+Dialogue: 0,0:18:43.15,0:18:46.28,Default,I,0000,0000,0000,,the defeat at the Eastern Garrison\Nhad no upside.
+Dialogue: 0,0:18:46.28,0:18:50.90,Default,I,0000,0000,0000,,So now, you want heroes \Nto make them feel better.
+Dialogue: 0,0:18:51.71,0:18:52.99,Default,Sh,0000,0000,0000,,That's right.
+Dialogue: 0,0:18:53.47,0:18:57.45,Default,Sh,0000,0000,0000,,The news of what you did \Nis the one light the people have.
+Dialogue: 0,0:18:58.04,0:19:00.59,Default,Sh,0000,0000,0000,,I have no choice but to \Nuse it for political ends.
+Dialogue: 0,0:19:00.59,0:19:01.66,Default,I,0000,0000,0000,,Hey, Princess.
+Dialogue: 0,0:19:02.12,0:19:06.04,Default,I,0000,0000,0000,,What do you intend to do, \Nlocking us in like this?
+Dialogue: 0,0:19:08.06,0:19:12.22,Default,Sh,0000,0000,0000,,Did you learn to be so suspicious \Nfrom your father, Solork?
+Dialogue: 0,0:19:12.22,0:19:13.92,Default,Sh,0000,0000,0000,,No, Ikta Sankrei?
+Dialogue: 0,0:19:16.05,0:19:17.80,Default,I,0000,0000,0000,,That's the imperial family for you.
+Dialogue: 0,0:19:17.80,0:19:21.22,Default,I,0000,0000,0000,,Less than a month for someone to \Ntrack down a person's identity, huh?
+Dialogue: 0,0:19:21.22,0:19:23.89,Default,Sh,0000,0000,0000,,General Bada Sankrei,
+Dialogue: 0,0:19:23.89,0:19:26.13,Default,Sh,0000,0000,0000,,one of history's finest generals,
+Dialogue: 0,0:19:26.13,0:19:28.23,Default,Sh,0000,0000,0000,,who was arrested and humiliated
+Dialogue: 0,0:19:28.23,0:19:30.98,Default,Sh,0000,0000,0000,,for disobeying orders and died in prison.
+Dialogue: 0,0:19:31.21,0:19:33.34,Default,Sh,0000,0000,0000,,And you're his legacy.
+Dialogue: 0,0:19:34.47,0:19:37.26,Default,I,0000,0000,0000,,I wasn't born from a tree trunk.
+Dialogue: 0,0:19:37.26,0:19:39.61,Default,I,0000,0000,0000,,Even little "Ikta-kun" has parents.
+Dialogue: 0,0:19:39.86,0:19:42.62,Default,Sh,0000,0000,0000,,And the man you call your master,
+Dialogue: 0,0:19:42.62,0:19:45.84,Default,Sh,0000,0000,0000,,the first one to come up with \Nthe way of thinking called "Science,"
+Dialogue: 0,0:19:45.84,0:19:48.70,Default,Sh,0000,0000,0000,,was the blasphemer Doctor Anrai Kahn,
+Dialogue: 0,0:19:48.70,0:19:51.38,Default,Sh,0000,0000,0000,,who fled to the Kioka Republic\N last year, right?
+Dialogue: 0,0:19:52.04,0:19:55.38,Default,I,0000,0000,0000,,If you asked him, he'd say \N"blasphemer" was a compliment.
+Dialogue: 0,0:19:55.81,0:19:57.35,Default,Sh,0000,0000,0000,,There's more I know.
+Dialogue: 0,0:19:57.35,0:19:59.65,Default,Sh,0000,0000,0000,,Your mother is Yuhka Sankrei,
+Dialogue: 0,0:19:59.65,0:20:03.59,Default,Sh,0000,0000,0000,,a beautiful woman whom the lecherous \NEmperor invited to his harem from Kioka
+Dialogue: 0,0:20:03.59,0:20:06.06,Default,Sh,0000,0000,0000,,and then gave to General Bada \Nas a reward for his efforts—
+Dialogue: 0,0:20:05.26,0:20:06.05,Alderamin-top,,0000,0000,0000,,Ikta!
+Dialogue: 0,0:20:06.06,0:20:08.99,Default,I,0000,0000,0000,,Say one more word about my mother
+Dialogue: 0,0:20:08.99,0:20:11.20,Default,I,0000,0000,0000,,and I snap your neck with my bare hands.
+Dialogue: 0,0:20:16.98,0:20:18.87,Default,Y,0000,0000,0000,,That would be bad.
+Dialogue: 0,0:20:18.87,0:20:23.03,Default,Y,0000,0000,0000,,I'd have to kill you then, too.
+Dialogue: 0,0:20:27.70,0:20:30.16,Default,M,0000,0000,0000,,This is my air rifle.
+Dialogue: 0,0:20:30.16,0:20:33.18,Default,Gu,0000,0000,0000,,That blimp fell into imperial waters,
+Dialogue: 0,0:20:33.18,0:20:36.08,Default,Gu,0000,0000,0000,,and General Rikan ordered its recovery.
+Dialogue: 0,0:20:37.72,0:20:39.42,Default,T,0000,0000,0000,,General Rikan...
+Dialogue: 0,0:20:40.13,0:20:41.42,Default,Gu,0000,0000,0000,,I have a message from him.
+Dialogue: 0,0:20:42.03,0:20:45.42,Default,Gu,0000,0000,0000,,"Young heroes, I'll be praying \Nfor your success in battle
+Dialogue: 0,0:20:45.42,0:20:46.89,Default,Gu,0000,0000,0000,,and longevity from the afterlife."
+Dialogue: 0,0:20:59.68,0:21:03.62,Default,Y,0000,0000,0000,,I get the feeling I'm seeing you act\Nquite unlike yourself a lot lately.
+Dialogue: 0,0:21:05.20,0:21:06.37,Default,I,0000,0000,0000,,Hey, Yatori.
+Dialogue: 0,0:21:06.88,0:21:10.45,Default,I,0000,0000,0000,,You've gained the title of Imperial Knight,
+Dialogue: 0,0:21:10.45,0:21:12.60,Default,I,0000,0000,0000,,far more valuable than acing an exam.
+Dialogue: 0,0:21:13.07,0:21:15.69,Default,I,0000,0000,0000,,This is a great day for you.
+Dialogue: 0,0:21:16.05,0:21:17.38,Default,I,0000,0000,0000,,Right?
+Dialogue: 0,0:21:18.24,0:21:20.47,Default,I,0000,0000,0000,,But what about me?
+Dialogue: 0,0:21:20.47,0:21:22.79,Default,I,0000,0000,0000,,It's the exact opposite.
+Dialogue: 0,0:21:23.77,0:21:26.26,Default,I,0000,0000,0000,,This is without doubt\Nthe worst day of my life.
+Dialogue: 0,0:21:27.39,0:21:30.70,Default,I,0000,0000,0000,,It's comparable to the day\NI lost my mother.
+Dialogue: 0,0:21:32.57,0:21:37.77,Default,I,0000,0000,0000,,Today I became three of the things
+Dialogue: 0,0:21:37.77,0:21:39.99,Default,I,0000,0000,0000,,I never wanted to be at once.
+Dialogue: 0,0:21:40.64,0:21:42.90,Default,I,0000,0000,0000,,A noble, a soldier...
+Dialogue: 0,0:21:43.83,0:21:45.74,Default,I,0000,0000,0000,,And a hero.
+Dialogue: 0,0:21:51.48,0:21:54.91,Alderamin-internal/narrator,Narr,0000,0000,0000,,Imperial Year 905, December.
+Dialogue: 0,0:21:54.91,0:21:58.36,Alderamin-internal/narrator,Narr,0000,0000,0000,,A few days after the death of Hazaf Rikan,
+Dialogue: 0,0:21:58.36,0:22:01.31,Alderamin-internal/narrator,Narr,0000,0000,0000,,Ikta Solork became a soldier.
+Dialogue: 0,0:23:36.97,0:23:39.99,Alderamin-internal/narrator,Next time,0000,0000,0000,,Next time: The Knights of the\N High-Level Officer's School.
+Dialogue: 0,0:23:37.73,0:23:40.89,Alderamin-Next_Episode,Next time,0000,0000,0000,,{\fad(350,1)}The Knights of the\N High-Level Officer's School

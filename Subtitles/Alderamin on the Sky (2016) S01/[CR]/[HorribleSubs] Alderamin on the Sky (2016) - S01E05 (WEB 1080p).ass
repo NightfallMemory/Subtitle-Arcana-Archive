@@ -1,0 +1,349 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Alderamin-internal/narrator,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Alderamin-internal-top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Alderamin-overlap,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-overlap-top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Alderamin-flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-flashbackinternal,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-flashback-overlap,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-Episode_Title,Open Sans Semibold,38,&H00D0DFEE,&H000000FF,&H00493F46,&H00493F46,0,0,0,0,100,100,0,0,1,1,1,2,27,13,173,1
+Style: Alderamin-Next_Episode,Open Sans Semibold,38,&H00FFFFF9,&H000000FF,&H00B0B689,&H0020222B,0,0,0,0,100,100,0,0,1,2,0,2,13,13,173,1
+Style: sign_9213_118_One_Hour_Later,Open Sans Semibold,33,&H00B7C9B6,&H000000FF,&H00323837,&H00152426,0,0,0,0,100,100,0,0,1,1,1,2,13,13,73,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:22.38,0:00:24.00,Alderamin-internal/narrator,Y,0000,0000,0000,,I am a knight.
+Dialogue: 0,0:00:24.88,0:00:26.33,Alderamin-internal/narrator,Y,0000,0000,0000,,A knight is their blade.
+Dialogue: 0,0:00:27.43,0:00:29.18,Alderamin-internal/narrator,Y,0000,0000,0000,,And that blade is I.
+Dialogue: 0,0:00:32.02,0:00:34.25,Default,Y,0000,0000,0000,,I'm starting to understand that saying,
+Dialogue: 0,0:00:34.25,0:00:37.40,Default,Y,0000,0000,0000,,and why the word "person"\N isn't included in it.
+Dialogue: 0,0:00:41.48,0:00:45.02,Default,Gi,0000,0000,0000,,Yatori, do you think I am flame?
+Dialogue: 0,0:00:45.02,0:00:48.60,Default,Y,0000,0000,0000,,Huh? You're just you, Shia.
+Dialogue: 0,0:00:48.60,0:00:51.54,Default,Y,0000,0000,0000,,My one partner in the world.
+Dialogue: 0,0:00:52.10,0:00:55.95,Default,S,0000,0000,0000,,Then I don't think you're a blade, either.
+Dialogue: 0,0:00:57.18,0:00:59.78,Default,Y,0000,0000,0000,,You're worried about me? Thank you.
+Dialogue: 0,0:01:00.63,0:01:02.03,Default,Y,0000,0000,0000,,It's all right.
+Dialogue: 0,0:01:02.03,0:01:06.29,Default,Y,0000,0000,0000,,I don't know if I'll ever reach \Nthat state again, to be honest,
+Dialogue: 0,0:01:07.54,0:01:10.76,Default,Y,0000,0000,0000,,but remember how quickly \Nhe just knocked me down
+Dialogue: 0,0:01:10.76,0:01:13.95,Default,Y,0000,0000,0000,,from the level of mastery \NI'd worked so hard to reach?
+Dialogue: 0,0:01:15.89,0:01:17.91,Default,Y,0000,0000,0000,,As long as I'm around him,
+Dialogue: 0,0:01:18.76,0:01:21.75,Default,Y,0000,0000,0000,,I'll never completely become a blade.
+Dialogue: 0,0:01:23.36,0:01:25.23,Default,Y,0000,0000,0000,,It's been that way since back then.
+Dialogue: 0,0:01:30.29,0:01:32.27,Default,Y,0000,0000,0000,,Studying abroad?
+Dialogue: 0,0:01:34.14,0:01:37.78,Default,Gi,0000,0000,0000,,General Bada Sankrei told me himself.
+Dialogue: 0,0:01:38.81,0:01:40.96,Default,Gi,0000,0000,0000,,So, what will you do?
+Dialogue: 0,0:01:41.73,0:01:43.18,Default,Y,0000,0000,0000,,I'll go.
+Dialogue: 0,0:01:44.00,0:01:46.79,Default,Y,0000,0000,0000,,I hear he's at the forefront \Nof all military matters.
+Dialogue: 0,0:01:47.95,0:01:50.24,Default,Gu,0000,0000,0000,,If you want to do it,
+Dialogue: 0,0:01:50.24,0:01:51.67,Default,Gu,0000,0000,0000,,then it's settled.
+Dialogue: 0,0:01:52.51,0:01:53.80,Default,Gu,0000,0000,0000,,Go study hard.
+Dialogue: 0,0:01:58.59,0:02:01.12,Default,Gu,0000,0000,0000,,But, no matter what you learn,
+Dialogue: 0,0:02:01.12,0:02:04.81,Default,Gu,0000,0000,0000,,don't forget that you're an Igsem.
+Dialogue: 0,0:02:26.42,0:02:28.75,Default,I,0000,0000,0000,,Welcome to the world of science!
+Dialogue: 0,0:04:02.88,0:04:05.97,Alderamin-Episode_Title,Gu,0000,0000,0000,,{\fad(550,1)}Two in One
+Dialogue: 0,0:04:06.72,0:04:09.52,sign_9213_118_One_Hour_Later,I,0000,0000,0000,,{\fad(900,1)}Katjvarna Empire \NRising Sun Regiment Garrison
+Dialogue: 0,0:04:13.99,0:04:16.16,Default,Y,0000,0000,0000,,General Bada Sankrei.
+Dialogue: 0,0:04:16.16,0:04:18.25,Default,Gu,0000,0000,0000,,Call me Uncle Bada.
+Dialogue: 0,0:04:18.25,0:04:20.28,Default,Gu,0000,0000,0000,,What is it, Yatorishino-chan?
+Dialogue: 0,0:04:20.80,0:04:22.78,Default,Y,0000,0000,0000,,What's that all about?
+Dialogue: 0,0:04:23.70,0:04:25.78,Default,Gu,0000,0000,0000,,I'm sending my son up to fly.
+Dialogue: 0,0:04:26.27,0:04:27.99,Default,Y,0000,0000,0000,,As far as I can tell,
+Dialogue: 0,0:04:27.99,0:04:32.09,Default,Y,0000,0000,0000,,that balloon is very similar \Nto the ones used in Kioka.
+Dialogue: 0,0:04:32.70,0:04:34.10,Default,Gu,0000,0000,0000,,Want to try, too?
+Dialogue: 0,0:04:34.70,0:04:37.00,Default,Y,0000,0000,0000,,If you order me to, then gladly.
+Dialogue: 0,0:04:38.16,0:04:39.85,Default,Gu,0000,0000,0000,,I see.
+Dialogue: 0,0:04:39.85,0:04:43.30,Default,Gu,0000,0000,0000,,You're Solvenares Igsem's daughter, all right.
+Dialogue: 0,0:04:43.87,0:04:46.00,Default,Y,0000,0000,0000,,What does that mean?
+Dialogue: 0,0:04:46.00,0:04:49.43,Default,Gu,0000,0000,0000,,It means I underestimated his \Nstyle of education a little.
+Dialogue: 0,0:04:49.43,0:04:51.27,Default,Gu,0000,0000,0000,,Don't worry. It's my problem, not yours.
+Dialogue: 0,0:04:54.52,0:04:58.93,Default,Gu,0000,0000,0000,,My name is Anarai Kahn.
+Dialogue: 0,0:04:58.93,0:05:00.38,Default,Gu,0000,0000,0000,,I'm...
+Dialogue: 0,0:05:00.38,0:05:04.53,Default,Gu,0000,0000,0000,,well, you could call me the \Nrepresentative of these scientists.
+Dialogue: 0,0:05:04.53,0:05:06.20,Default,Y,0000,0000,0000,,"Scientists?"
+Dialogue: 0,0:05:06.20,0:05:09.78,Default,Gu,0000,0000,0000,,Call me Dr. Anarai!
+Dialogue: 0,0:05:09.78,0:05:10.87,Default,Gu,0000,0000,0000,,Oh, Ikta!
+Dialogue: 0,0:05:10.87,0:05:12.37,Default,Gu,0000,0000,0000,,Take over for me.
+Dialogue: 0,0:05:12.37,0:05:13.91,Default,I,0000,0000,0000,,Sure, leave it to me.
+Dialogue: 0,0:05:14.66,0:05:17.17,Default,Y,0000,0000,0000,,Dr. Anarai, what is that?
+Dialogue: 0,0:05:19.21,0:05:23.06,Default,Gu,0000,0000,0000,,Egg yolks, milk, sugar, some cinnamon.
+Dialogue: 0,0:05:23.06,0:05:28.12,Default,Gu,0000,0000,0000,,Those have been mixed and added to \Na vessel filled with frozen saltwater.
+Dialogue: 0,0:05:28.55,0:05:31.86,Default,Y,0000,0000,0000,,Doctor, may I ask something?
+Dialogue: 0,0:05:31.86,0:05:33.43,Default,Gu,0000,0000,0000,,Go ahead.
+Dialogue: 0,0:05:34.10,0:05:36.44,Default,Y,0000,0000,0000,,What is science, exactly?
+Dialogue: 0,0:05:37.87,0:05:38.94,Default,Gu,0000,0000,0000,,Very well.
+Dialogue: 0,0:05:39.24,0:05:44.01,Default,Gu,0000,0000,0000,,I'll start by describing a discussion \NI had with a priest when I was younger.
+Dialogue: 0,0:05:44.01,0:05:46.99,Default,Gu,0000,0000,0000,,Nazuna, two cups of tea.
+Dialogue: 0,0:05:48.09,0:05:49.82,Default,I,0000,0000,0000,,Come on, Brother Bajin.
+Dialogue: 0,0:05:49.82,0:05:50.98,Default,I,0000,0000,0000,,Keep shaking!
+Dialogue: 0,0:05:50.98,0:05:53.83,Default,Gu,0000,0000,0000,,Why do I have to do this?
+Dialogue: 0,0:05:53.83,0:05:55.25,Default,Gu,0000,0000,0000,,So, that's how it is.
+Dialogue: 0,0:05:55.25,0:05:56.46,Default,Gu,0000,0000,0000,,Got it?
+Dialogue: 0,0:05:56.90,0:05:59.80,Default,Y,0000,0000,0000,,There were several words \NI wasn't familiar with,
+Dialogue: 0,0:05:59.80,0:06:01.21,Default,Y,0000,0000,0000,,but I understood the gist.
+Dialogue: 0,0:06:01.93,0:06:07.22,Default,Y,0000,0000,0000,,"Science" is a field that attempts to \Nexplain things that are, in theology,
+Dialogue: 0,0:06:07.44,0:06:12.21,Default,Y,0000,0000,0000,,explained as "acts of God," \Nfrom another approach.
+Dialogue: 0,0:06:12.21,0:06:13.75,Default,Gi,0000,0000,0000,,She's pretty smart.
+Dialogue: 0,0:06:13.75,0:06:16.10,Default,Gu,0000,0000,0000,,Yes, I'm surprised, too.
+Dialogue: 0,0:06:17.63,0:06:19.54,Default,I,0000,0000,0000,,Now try eating it.
+Dialogue: 0,0:06:20.33,0:06:21.77,Default,Y,0000,0000,0000,,All right.
+Dialogue: 0,0:06:31.65,0:06:33.10,Default,I,0000,0000,0000,,Want some more?
+Dialogue: 0,0:06:34.91,0:06:37.09,Default,Gu,0000,0000,0000,,Well, "God"?
+Dialogue: 0,0:06:37.09,0:06:40.41,Default,Gu,0000,0000,0000,,Can't make this flavor, can you?
+Dialogue: 0,0:07:06.09,0:07:07.78,Default,I,0000,0000,0000,,Sorry.
+Dialogue: 0,0:07:07.78,0:07:10.30,Default,I,0000,0000,0000,,Swordfighting isn't really my thing.
+Dialogue: 0,0:07:11.97,0:07:13.72,Default,Y,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:07:13.72,0:07:18.08,Default,Y,0000,0000,0000,,I was so focused on my training \Nthat I almost injured you.
+Dialogue: 0,0:07:18.40,0:07:21.24,Default,I,0000,0000,0000,,Well, I'm the one who interrupted you.
+Dialogue: 0,0:07:21.24,0:07:24.69,Default,I,0000,0000,0000,,Anyway, can you do something \Nabout the way you talk?
+Dialogue: 0,0:07:24.69,0:07:27.17,Default,Y,0000,0000,0000,,Is the way I talk strange?
+Dialogue: 0,0:07:27.77,0:07:29.93,Default,I,0000,0000,0000,,It's not strange, but it's stiff.
+Dialogue: 0,0:07:29.93,0:07:32.34,Default,I,0000,0000,0000,,Stiffer than bricks!
+Dialogue: 0,0:07:32.34,0:07:34.55,Default,I,0000,0000,0000,,Even if you're using proper etiquette,
+Dialogue: 0,0:07:34.55,0:07:38.20,Default,I,0000,0000,0000,,shouldn't you try and be more casual\Nwith kids your age?
+Dialogue: 0,0:07:39.73,0:07:44.81,Default,Y,0000,0000,0000,,I've actually never met anyone else my age.
+Dialogue: 0,0:07:45.14,0:07:48.56,Default,I,0000,0000,0000,,I can't even imagine what that must be like.
+Dialogue: 0,0:07:48.56,0:07:51.82,Default,I,0000,0000,0000,,So basically, you don't know\N how to play, do you?
+Dialogue: 0,0:07:52.66,0:07:56.38,Default,I,0000,0000,0000,,Why don't you come play with me for a bit?
+Dialogue: 0,0:07:56.38,0:07:58.45,Default,I,0000,0000,0000,,Dad gave me this, you see.
+Dialogue: 0,0:08:02.52,0:08:04.50,Default,Y,0000,0000,0000,,What is this?
+Dialogue: 0,0:08:04.50,0:08:06.03,Default,I,0000,0000,0000,,Mission one:
+Dialogue: 0,0:08:06.03,0:08:07.96,Default,I,0000,0000,0000,,Make Major Guihan fall into a hole.
+Dialogue: 0,0:08:08.92,0:08:12.57,Default,I,0000,0000,0000,,He always comes by this way when \Nhe washes his face in the morning.
+Dialogue: 0,0:08:17.69,0:08:18.97,Default,Gu,0000,0000,0000,,Just like I thought!
+Dialogue: 0,0:08:18.97,0:08:21.48,Default,Gu,0000,0000,0000,,A real hole next to a fake dummy one!
+Dialogue: 0,0:08:21.78,0:08:25.35,Default,Gu,0000,0000,0000,,Don't think you can make me fall \Nfor the same trick over and over!
+Dialogue: 0,0:08:26.79,0:08:28.73,Default,I,0000,0000,0000,,I was sure you wouldn't find out.
+Dialogue: 0,0:08:28.73,0:08:32.70,Default,Gu,0000,0000,0000,,Now, since I've seen through \Nyour trap, today you're—
+Dialogue: 0,0:08:33.73,0:08:35.31,Default,I,0000,0000,0000,,Yes!
+Dialogue: 0,0:08:35.31,0:08:37.78,Default,I,0000,0000,0000,,If two holes isn't enough, I'll use three!
+Dialogue: 0,0:08:38.14,0:08:40.87,Default,I,0000,0000,0000,,So, mission one is complete.
+Dialogue: 0,0:08:40.87,0:08:43.11,Default,I,0000,0000,0000,,We've got four more similar ones.
+Dialogue: 0,0:08:45.00,0:08:46.83,Default,I,0000,0000,0000,,Our next mission is risky.
+Dialogue: 0,0:08:48.08,0:08:51.04,Default,I,0000,0000,0000,,We just have to get \Nthe ingredients out of the kitchen,
+Dialogue: 0,0:08:51.04,0:08:53.84,Default,I,0000,0000,0000,,but the kitchen is guarded \Nby a fierce protector.
+Dialogue: 0,0:08:54.61,0:08:59.60,Default,I,0000,0000,0000,,Chief Cook Mariban Susa, or Old Lady Mari.\NWe have to get past her.
+Dialogue: 0,0:09:00.83,0:09:02.53,Default,Y,0000,0000,0000,,Let me do it, please.
+Dialogue: 0,0:09:04.04,0:09:06.35,Default,Gi,0000,0000,0000,,So, you're the guest everyone's talking about?
+Dialogue: 0,0:09:06.89,0:09:10.28,Default,Gi,0000,0000,0000,,Old man Anarai's been talking about \Nnothing else since yesterday.
+Dialogue: 0,0:09:10.28,0:09:13.49,Default,Y,0000,0000,0000,,I wanted to see how the cooking was done.
+Dialogue: 0,0:09:13.49,0:09:15.69,Default,Gu,0000,0000,0000,,It's nothing special.
+Dialogue: 0,0:09:15.69,0:09:18.21,Default,Gu,0000,0000,0000,,We just make good food, fast,
+Dialogue: 0,0:09:18.21,0:09:20.89,Default,Gu,0000,0000,0000,,and in large quantities for hungry soldiers.
+Dialogue: 0,0:09:22.49,0:09:24.60,Default,I,0000,0000,0000,,You're amazing.
+Dialogue: 0,0:09:24.60,0:09:27.45,Default,I,0000,0000,0000,,It all landed on top of the straw.
+Dialogue: 0,0:09:27.45,0:09:29.77,Default,Y,0000,0000,0000,,As long as you know\Nan object's weight and shape,
+Dialogue: 0,0:09:29.77,0:09:33.13,Default,Y,0000,0000,0000,,you can throw it in a clean arc by \Nadjusting the strength of the toss.
+Dialogue: 0,0:09:34.01,0:09:36.44,Default,Y,0000,0000,0000,,It's a simple application \Nof artillery mechanics.
+Dialogue: 0,0:09:36.44,0:09:39.93,Default,I,0000,0000,0000,,It's like I've got a new friend\NI can rely on!
+Dialogue: 0,0:09:43.01,0:09:44.39,Default,I,0000,0000,0000,,This is my house!
+Dialogue: 0,0:09:47.35,0:09:50.33,Default,Y,0000,0000,0000,,May I come in?
+Dialogue: 0,0:09:50.33,0:09:51.44,Default,I,0000,0000,0000,,I'll ask you instead,
+Dialogue: 0,0:09:51.44,0:09:52.69,Default,I,0000,0000,0000,,why couldn't you?
+Dialogue: 0,0:09:53.99,0:09:55.70,Default,I,0000,0000,0000,,Mom, I'm back!
+Dialogue: 0,0:09:55.70,0:09:57.45,Default,Gi,0000,0000,0000,,Welcome back, Ikta.
+Dialogue: 0,0:09:58.60,0:09:59.32,Default,Gi,0000,0000,0000,,Welcome.
+Dialogue: 0,0:10:00.27,0:10:02.74,Default,Y,0000,0000,0000,,I'm Y-Yatorishino Igsem.
+Dialogue: 0,0:10:02.74,0:10:04.83,Default,Y,0000,0000,0000,,I've been accompanying your son today.
+Dialogue: 0,0:10:05.89,0:10:07.55,Default,Gi,0000,0000,0000,,I'm Yuhka.
+Dialogue: 0,0:10:07.55,0:10:09.12,Default,Gi,0000,0000,0000,,Ikta's mother.
+Dialogue: 0,0:10:09.56,0:10:11.78,Default,Gi,0000,0000,0000,,Thank for playing with my son.
+Dialogue: 0,0:10:11.78,0:10:13.47,Default,Y,0000,0000,0000,,N-Not at all.
+Dialogue: 0,0:10:13.47,0:10:16.09,Default,I,0000,0000,0000,,I brought you a lot of things, \Njust like dad ordered.
+Dialogue: 0,0:10:16.75,0:10:18.59,Default,I,0000,0000,0000,,Most of it was thanks to Yatori, though.
+Dialogue: 0,0:10:19.48,0:10:22.30,Default,Gi,0000,0000,0000,,Lunch will be ready soon.
+Dialogue: 0,0:10:22.30,0:10:24.47,Default,Gi,0000,0000,0000,,Go play with Ikta until it's served.
+Dialogue: 0,0:10:27.48,0:10:29.11,Default,Y,0000,0000,0000,,No, I...
+Dialogue: 0,0:10:29.51,0:10:31.24,Default,I,0000,0000,0000,,Can you play chess?
+Dialogue: 0,0:10:31.24,0:10:32.08,Default,Y,0000,0000,0000,,Yes,
+Dialogue: 0,0:10:32.08,0:10:34.43,Default,Y,0000,0000,0000,,I learned it as part of my officer training.
+Dialogue: 0,0:10:34.43,0:10:36.49,Default,I,0000,0000,0000,,Let's play a game, then!
+Dialogue: 0,0:10:41.94,0:10:43.49,Default,Gu,0000,0000,0000,,I'm back.
+Dialogue: 0,0:10:44.45,0:10:46.12,Default,Gu,0000,0000,0000,,I'm so hungry.
+Dialogue: 0,0:10:47.31,0:10:48.92,Default,Gu,0000,0000,0000,,Oh, you're here, Yatori-chan.
+Dialogue: 0,0:10:48.92,0:10:50.47,Default,Y,0000,0000,0000,,Thank you for having me.
+Dialogue: 0,0:10:50.47,0:10:52.75,Default,Gu,0000,0000,0000,,Did you succeed in your mission today?
+Dialogue: 0,0:10:53.76,0:10:56.16,Default,Y,0000,0000,0000,,Sure, but...
+Dialogue: 0,0:10:56.16,0:11:00.82,Default,Y,0000,0000,0000,,This is Yatori's first time, so go \Neasier on her, you dumb old man.
+Dialogue: 0,0:11:00.82,0:11:02.26,Default,Gu,0000,0000,0000,,That's amazing.
+Dialogue: 0,0:11:02.83,0:11:04.93,Default,Gu,0000,0000,0000,,You're both using castles\Nin a really close game.
+Dialogue: 0,0:11:05.15,0:11:08.52,Default,Gi,0000,0000,0000,,Okay, lunch is served.
+Dialogue: 0,0:11:09.37,0:11:14.02,Default,Y,0000,0000,0000,,Do you live here with your family,\NGeneral Sankrei?
+Dialogue: 0,0:11:14.28,0:11:18.37,Default,Gu,0000,0000,0000,,Yeah. I didn't want to leave them behind \Nto get transferred a bunch of places.
+Dialogue: 0,0:11:18.37,0:11:20.80,Default,I,0000,0000,0000,,As long as I'm here, Mom will be fine.
+Dialogue: 0,0:11:20.80,0:11:22.41,Default,I,0000,0000,0000,,So go where you want, old man.
+Dialogue: 0,0:11:22.99,0:11:26.79,Default,I,0000,0000,0000,,Don't make Uncle Shiba and Uncle Rikan\Ndo all the running around.
+Dialogue: 0,0:11:27.58,0:11:29.16,Default,Gu,0000,0000,0000,,Don't try and fool me, son.
+Dialogue: 0,0:11:29.16,0:11:31.67,Default,Gu,0000,0000,0000,,I know you'd be lonely without me.
+Dialogue: 0,0:11:31.67,0:11:34.04,Default,I,0000,0000,0000,,Nope. Not at all.
+Dialogue: 0,0:11:34.71,0:11:39.41,Default,Gu,0000,0000,0000,,Yatori-chan, let's all make\Npumpkin cake later.
+Dialogue: 0,0:11:39.41,0:11:43.30,Default,Gu,0000,0000,0000,,We need to give something back \Nto Mariban for what we borrowed.
+Dialogue: 0,0:11:44.41,0:11:45.12,Default,Y,0000,0000,0000,,Right.
+Dialogue: 0,0:11:53.98,0:11:56.98,Default,I,0000,0000,0000,,Okay! Mission: Catch the Biggest Fish\Nin the Swamp is complete—
+Dialogue: 0,0:12:01.51,0:12:03.40,Default,I,0000,0000,0000,,You're going to become a soldier, huh?
+Dialogue: 0,0:12:03.40,0:12:05.99,Default,Y,0000,0000,0000,,Yes. I'm going to officer's school.
+Dialogue: 0,0:12:06.57,0:12:07.76,Default,I,0000,0000,0000,,I see.
+Dialogue: 0,0:12:07.76,0:12:09.09,Default,I,0000,0000,0000,,That's not bad,
+Dialogue: 0,0:12:09.09,0:12:11.24,Default,I,0000,0000,0000,,but why not be a scientist like me?
+Dialogue: 0,0:12:11.74,0:12:13.21,Default,Y,0000,0000,0000,,A scientist?
+Dialogue: 0,0:12:13.21,0:12:14.91,Default,I,0000,0000,0000,,The two of us could work together
+Dialogue: 0,0:12:14.91,0:12:17.80,Default,I,0000,0000,0000,,and go around unraveling\Nall the world's mysteries.
+Dialogue: 0,0:12:17.80,0:12:19.25,Default,I,0000,0000,0000,,Like monsters and stuff.
+Dialogue: 0,0:12:19.77,0:12:21.79,Default,I,0000,0000,0000,,Why not think about it?
+Dialogue: 0,0:12:24.43,0:12:26.34,Default,Y,0000,0000,0000,,There's no point in thinking about it.
+Dialogue: 0,0:12:26.34,0:12:28.75,Default,Y,0000,0000,0000,,I'm following the path of the soldier.
+Dialogue: 0,0:12:28.75,0:12:30.64,Default,Y,0000,0000,0000,,That's been decided from the start.
+Dialogue: 0,0:12:31.38,0:12:33.08,Default,I,0000,0000,0000,,That doesn't make sense.
+Dialogue: 0,0:12:33.54,0:12:36.54,Default,I,0000,0000,0000,,What's important is whether \Nyou want to do it or not, right?
+Dialogue: 0,0:12:36.54,0:12:37.90,Default,Y,0000,0000,0000,,It makes sense.
+Dialogue: 0,0:12:38.46,0:12:40.55,Default,Y,0000,0000,0000,,I was born as an Igsem.
+Dialogue: 0,0:12:40.55,0:12:43.71,Default,Y,0000,0000,0000,,I know what I should be.
+Dialogue: 0,0:12:44.16,0:12:46.05,Default,Y,0000,0000,0000,,That's all.
+Dialogue: 0,0:12:46.05,0:12:47.76,Default,I,0000,0000,0000,,I can't accept that.
+Dialogue: 0,0:12:47.76,0:12:49.91,Default,Y,0000,0000,0000,,There's no need for you to accept it.
+Dialogue: 0,0:12:50.29,0:12:52.37,Default,I,0000,0000,0000,,There sure is.
+Dialogue: 0,0:12:52.37,0:12:55.04,Default,I,0000,0000,0000,,Without you, the monsters \Nare going to eat me.
+Dialogue: 0,0:12:57.56,0:13:02.05,Default,Gi,0000,0000,0000,,Sorry to drag you on a boring \Nexpedition like this.
+Dialogue: 0,0:13:02.35,0:13:03.82,Default,Y,0000,0000,0000,,No, it's fine.
+Dialogue: 0,0:13:03.82,0:13:07.30,Default,Gu,0000,0000,0000,,The two of you have been doing\N nothing but military exercises lately.
+Dialogue: 0,0:13:07.30,0:13:09.06,Default,Gu,0000,0000,0000,,We've been a little lonely.
+Dialogue: 0,0:13:09.06,0:13:11.60,Default,I,0000,0000,0000,,But it has been a while, hasn't it?
+Dialogue: 0,0:13:11.60,0:13:13.97,Default,I,0000,0000,0000,,We usually have soldiers trailing behind us.
+Dialogue: 0,0:13:13.97,0:13:16.94,Default,Y,0000,0000,0000,,It feels like I should have \Nmore weight on my back.
+Dialogue: 0,0:13:18.35,0:13:19.94,Default,Gu,0000,0000,0000,,We're doing a geological survey, too?!
+Dialogue: 0,0:13:20.32,0:13:23.33,Default,Gi,0000,0000,0000,,You didn't forget the \Nsurveying tools, did you?
+Dialogue: 0,0:13:23.33,0:13:25.33,Default,Gu,0000,0000,0000,,I did...
+Dialogue: 0,0:13:25.75,0:13:26.74,Default,Gi,0000,0000,0000,,You dummy!
+Dialogue: 0,0:13:31.64,0:13:36.93,Default,I,0000,0000,0000,,Thanks to Brother Bajin,\Nwe've got a whole day to ourselves.
+Dialogue: 0,0:13:40.00,0:13:41.21,Default,I,0000,0000,0000,,Oh, Yatori.
+Dialogue: 0,0:13:41.21,0:13:42.65,Default,I,0000,0000,0000,,Did you find an ax—
+Dialogue: 0,0:13:47.36,0:13:48.97,Default,I,0000,0000,0000,,Y-Yatori...
+Dialogue: 0,0:13:54.61,0:13:56.99,Default,I,0000,0000,0000,,Th-That scared me...
+Dialogue: 0,0:13:56.99,0:13:59.48,Default,I,0000,0000,0000,,I didn't know there were wolves\Nso close to the base.
+Dialogue: 0,0:14:01.20,0:14:03.15,Default,Y,0000,0000,0000,,They're all skin and bones.
+Dialogue: 0,0:14:03.15,0:14:05.52,Default,Gi,0000,0000,0000,,The drought's been going on for a while,
+Dialogue: 0,0:14:05.52,0:14:06.61,Default,Gi,0000,0000,0000,,so they must be hungry.
+Dialogue: 0,0:14:07.18,0:14:09.66,Default,Y,0000,0000,0000,,That's why they've come to a place \Nthey wouldn't normally be.
+Dialogue: 0,0:14:10.79,0:14:12.61,Default,Y,0000,0000,0000,,Is he the leader, perhaps?
+Dialogue: 0,0:14:12.61,0:14:15.53,Default,I,0000,0000,0000,,It's possible for us to just stay in here,
+Dialogue: 0,0:14:15.53,0:14:20.04,Default,I,0000,0000,0000,,but they might attack Brother Bajin and\N his group when they return tomorrow.
+Dialogue: 0,0:14:21.92,0:14:25.67,Default,I,0000,0000,0000,,So other than your two swords, \Nthese are our weapons, huh?
+Dialogue: 0,0:14:26.25,0:14:29.10,Default,I,0000,0000,0000,,Killing or driving away\Nall the wolves around the shed.
+Dialogue: 0,0:14:29.66,0:14:32.62,Default,I,0000,0000,0000,,That'll be our mission this time.
+Dialogue: 0,0:14:32.62,0:14:34.42,Default,I,0000,0000,0000,,The time limit is 9:00 A.M. tomorrow.
+Dialogue: 0,0:14:34.98,0:14:36.63,Default,I,0000,0000,0000,,Any objections?
+Dialogue: 0,0:14:36.63,0:14:37.75,Default,Y,0000,0000,0000,,None.
+Dialogue: 0,0:14:37.75,0:14:39.73,Default,Y,0000,0000,0000,,Let's come up with a plan.
+Dialogue: 0,0:14:53.41,0:14:56.23,Default,Y,0000,0000,0000,,A hit, but not a fatal one.
+Dialogue: 0,0:14:56.57,0:14:57.86,Default,I,0000,0000,0000,,They're breaking the back wall!
+Dialogue: 0,0:14:57.86,0:14:59.65,Default,Y,0000,0000,0000,,So this side was a decoy?
+Dialogue: 0,0:15:11.80,0:15:13.46,Default,Y,0000,0000,0000,,They're getting further away.
+Dialogue: 0,0:15:16.83,0:15:19.32,Default,I,0000,0000,0000,,Think they'll give up?
+Dialogue: 0,0:15:19.91,0:15:22.95,Default,Y,0000,0000,0000,,We've told them that any attempts \Nthey make are going to be costly.
+Dialogue: 0,0:15:23.52,0:15:26.23,Default,Y,0000,0000,0000,,Now it comes down to how hungry they are.
+Dialogue: 0,0:15:27.53,0:15:30.65,Default,I,0000,0000,0000,,The leader of the pack \Nseemed exceptionally smart.
+Dialogue: 0,0:15:31.25,0:15:33.58,Default,Y,0000,0000,0000,,That's why we can't be too careful.
+Dialogue: 0,0:15:33.58,0:15:35.51,Default,Y,0000,0000,0000,,If he didn't give up,
+Dialogue: 0,0:15:35.51,0:15:37.29,Default,Y,0000,0000,0000,,who knows what he'll do next?
+Dialogue: 0,0:15:39.26,0:15:41.89,Default,I,0000,0000,0000,,If we could talk to them,
+Dialogue: 0,0:15:41.89,0:15:43.42,Default,I,0000,0000,0000,,we could've worked something out.
+Dialogue: 0,0:15:44.21,0:15:46.54,Default,Y,0000,0000,0000,,Even humans only start negotiating
+Dialogue: 0,0:15:46.54,0:15:50.42,Default,Y,0000,0000,0000,,once the bullets have run out.
+Dialogue: 0,0:15:51.53,0:15:56.14,Default,Y,0000,0000,0000,,My dad once told me those two things \Nwould never happen in the opposite order.
+Dialogue: 0,0:16:07.86,0:16:09.42,Default,Y,0000,0000,0000,,Hit to the head.
+Dialogue: 0,0:16:09.42,0:16:10.49,Default,Y,0000,0000,0000,,One's down!
+Dialogue: 0,0:16:10.49,0:16:11.26,Default,I,0000,0000,0000,,Roger.
+Dialogue: 0,0:16:11.26,0:16:14.07,Default,I,0000,0000,0000,,The two in the front are \Nstaying away from the door.
+Dialogue: 0,0:16:19.54,0:16:23.22,Default,I,0000,0000,0000,,We knew they'd come after what looked \Nlike the weakest point, but...
+Dialogue: 0,0:16:27.76,0:16:28.81,Default,I,0000,0000,0000,,If you become a soldier,
+Dialogue: 0,0:16:28.81,0:16:31.55,Default,I,0000,0000,0000,,are you going to be doing this all the time?
+Dialogue: 0,0:16:31.55,0:16:32.81,Default,Y,0000,0000,0000,,My second shot missed.
+Dialogue: 0,0:16:32.81,0:16:33.99,Default,Y,0000,0000,0000,,Did you say something?
+Dialogue: 0,0:16:34.35,0:16:35.41,Default,I,0000,0000,0000,,Nothing.
+Dialogue: 0,0:16:35.41,0:16:37.02,Default,I,0000,0000,0000,,I took one out, too.
+Dialogue: 0,0:16:39.94,0:16:40.99,Default,Y,0000,0000,0000,,Ikta!
+Dialogue: 0,0:16:43.10,0:16:44.90,Default,Y,0000,0000,0000,,Don't move.
+Dialogue: 0,0:16:44.90,0:16:48.13,Default,Y,0000,0000,0000,,If you aren't behind me, you'll probably die.
+Dialogue: 0,0:16:48.13,0:16:49.78,Default,I,0000,0000,0000,,Yeah. I know.
+Dialogue: 0,0:17:11.72,0:17:13.61,Default,I,0000,0000,0000,,I'm glad I got this ready.
+Dialogue: 0,0:17:13.99,0:17:18.68,Default,I,0000,0000,0000,,Maybe we could talk to the leader.
+Dialogue: 0,0:17:18.68,0:17:20.69,Default,I,0000,0000,0000,,He's that smart.
+Dialogue: 0,0:17:21.28,0:17:24.38,Default,Y,0000,0000,0000,,You talk a lot when you're worried, huh?
+Dialogue: 0,0:17:24.38,0:17:27.53,Default,I,0000,0000,0000,,Don't point that out so calmly.
+Dialogue: 0,0:17:27.53,0:17:29.18,Default,I,0000,0000,0000,,You're going to make me cry.
+Dialogue: 0,0:17:29.63,0:17:31.19,Default,Y,0000,0000,0000,,I know how you feel.
+Dialogue: 0,0:17:31.61,0:17:33.44,Default,Y,0000,0000,0000,,I'm scared, too.
+Dialogue: 0,0:17:33.44,0:17:36.28,Default,Y,0000,0000,0000,,But I'll send you back alive,
+Dialogue: 0,0:17:36.28,0:17:38.38,Default,Y,0000,0000,0000,,even if it costs me my life.
+Dialogue: 0,0:17:38.87,0:17:40.58,Default,Y,0000,0000,0000,,I'm an Igsem, after all.
+Dialogue: 0,0:17:40.58,0:17:42.00,Default,I,0000,0000,0000,,What?
+Dialogue: 0,0:17:42.00,0:17:43.45,Default,I,0000,0000,0000,,That wasn't in the plan.
+Dialogue: 0,0:17:43.99,0:17:46.40,Default,Y,0000,0000,0000,,I mean if things get really bad.
+Dialogue: 0,0:17:46.67,0:17:49.79,Default,Y,0000,0000,0000,,It's better that one of us live\Nthan both of us die.
+Dialogue: 0,0:17:49.79,0:17:50.70,Default,I,0000,0000,0000,,No!
+Dialogue: 0,0:17:50.70,0:17:53.81,Default,I,0000,0000,0000,,Anything that doesn't end in us \Nboth going home is equally bad.
+Dialogue: 0,0:17:53.81,0:17:55.97,Default,I,0000,0000,0000,,If you don't understand that, you're a fool.
+Dialogue: 0,0:17:55.97,0:17:57.64,Default,Y,0000,0000,0000,,You're the fool.
+Dialogue: 0,0:17:57.64,0:17:59.22,Default,Y,0000,0000,0000,,You have to make hard decisions—
+Dialogue: 0,0:17:59.22,0:18:02.58,Default,I,0000,0000,0000,,There's one thing I've learned \Nover the past few weeks.
+Dialogue: 0,0:18:02.58,0:18:06.48,Default,I,0000,0000,0000,,If you and I work together, \Nwe can get through anything!
+Dialogue: 0,0:18:07.73,0:18:10.86,Default,I,0000,0000,0000,,Yatori, we only have the \Ntwo of us to rely on.
+Dialogue: 0,0:18:11.23,0:18:13.88,Default,I,0000,0000,0000,,The two of us have to become one\Nand solve this together!
+Dialogue: 0,0:18:13.88,0:18:15.51,Default,I,0000,0000,0000,,It's the only way to win.
+Dialogue: 0,0:18:15.51,0:18:17.33,Default,I,0000,0000,0000,,Like a right and left hand,
+Dialogue: 0,0:18:17.33,0:18:18.74,Default,I,0000,0000,0000,,or the right and left brain,
+Dialogue: 0,0:18:19.41,0:18:22.74,Default,I,0000,0000,0000,,let's be a pair of organs \Nmoving with one will.
+Dialogue: 0,0:18:23.19,0:18:26.96,Default,I,0000,0000,0000,,Don't forget: no matter what, I'm your\N left hand, and I'm here for you!
+Dialogue: 0,0:18:29.39,0:18:31.42,Default,Y,0000,0000,0000,,If I'm the right hand,
+Dialogue: 0,0:18:31.81,0:18:34.25,Default,Y,0000,0000,0000,,you'll have to live up to being my left.
+Dialogue: 0,0:19:03.37,0:19:04.62,Default,Y,0000,0000,0000,,Execute clean-up operation!
+Dialogue: 0,0:19:07.15,0:19:07.96,Default,I,0000,0000,0000,,It hit!
+Dialogue: 0,0:19:07.96,0:19:08.79,Default,I,0000,0000,0000,,Ow...
+Dialogue: 0,0:19:12.79,0:19:14.34,Default,I,0000,0000,0000,,Two left.
+Dialogue: 0,0:19:14.34,0:19:16.18,Default,I,0000,0000,0000,,Did we drive them off?
+Dialogue: 0,0:19:16.18,0:19:17.55,Default,Y,0000,0000,0000,,One of them was that leader.
+Dialogue: 0,0:19:18.04,0:19:19.88,Default,Y,0000,0000,0000,,It's too early to make assumptions.
+Dialogue: 0,0:19:22.70,0:19:23.53,Default,I,0000,0000,0000,,There he is!
+Dialogue: 0,0:19:36.64,0:19:37.60,Default,I,0000,0000,0000,,Sorry.
+Dialogue: 0,0:19:37.60,0:19:39.41,Default,I,0000,0000,0000,,That's all the spices we had.
+Dialogue: 0,0:19:58.15,0:19:59.15,Default,I,0000,0000,0000,,Yatori!
+Dialogue: 0,0:20:14.08,0:20:15.73,Default,Y,0000,0000,0000,,Are those reinforcements?
+Dialogue: 0,0:20:18.36,0:20:21.48,Default,I,0000,0000,0000,,Well, I might lose if I was on my own, but...
+Dialogue: 0,0:20:32.17,0:20:33.81,Default,Y,0000,0000,0000,,Looks like it's over.
+Dialogue: 0,0:20:34.32,0:20:35.38,Default,I,0000,0000,0000,,Yeah.
+Dialogue: 0,0:20:42.11,0:20:43.66,Default,I,0000,0000,0000,,This is the last one.
+Dialogue: 0,0:20:44.15,0:20:45.54,Default,I,0000,0000,0000,,Let's take our time eating it.
+Dialogue: 0,0:20:47.95,0:20:51.80,Default,Y,0000,0000,0000,,What are those wolves going to do now?
+Dialogue: 0,0:20:52.53,0:20:54.50,Default,I,0000,0000,0000,,Their leader was badly wounded.
+Dialogue: 0,0:20:54.50,0:20:56.57,Default,I,0000,0000,0000,,They're going to have a hard time, I bet.
+Dialogue: 0,0:20:58.32,0:21:00.85,Default,Y,0000,0000,0000,,I feel like I'm eating their meat.
+Dialogue: 0,0:21:00.85,0:21:01.59,Default,I,0000,0000,0000,,Yeah.
+Dialogue: 0,0:21:02.20,0:21:03.74,Default,I,0000,0000,0000,,I was thinking the same thing.
+Dialogue: 0,0:21:05.25,0:21:06.50,Default,I,0000,0000,0000,,You know, Yatori,
+Dialogue: 0,0:21:06.83,0:21:09.52,Default,I,0000,0000,0000,,if you're capable of imagining that,
+Dialogue: 0,0:21:10.40,0:21:12.50,Default,I,0000,0000,0000,,you could be something other than a soldier.
+Dialogue: 0,0:21:14.00,0:21:15.86,Default,I,0000,0000,0000,,Take your time thinking about it.
+Dialogue: 0,0:21:16.36,0:21:19.58,Default,I,0000,0000,0000,,Just remember what I said today.
+Dialogue: 0,0:21:19.95,0:21:22.45,Default,I,0000,0000,0000,,If it's paired with a violent \Nmemory like what just happened,
+Dialogue: 0,0:21:22.45,0:21:24.01,Default,I,0000,0000,0000,,you'll never forget, right?
+Dialogue: 0,0:21:24.85,0:21:26.01,Default,Y,0000,0000,0000,,You're right.
+Dialogue: 0,0:21:26.85,0:21:29.21,Default,Y,0000,0000,0000,,I'm probably never going to forget this.
+Dialogue: 0,0:21:33.18,0:21:36.63,Alderamin-internal/narrator,Y,0000,0000,0000,,After that, Uncle Bada was imprisoned,
+Dialogue: 0,0:21:37.08,0:21:40.44,Alderamin-internal/narrator,Y,0000,0000,0000,,and Ikta and Yuhka-san went missing.
+Dialogue: 0,0:21:49.43,0:21:50.27,Alderamin-internal/narrator,Y,0000,0000,0000,,But...
+Dialogue: 0,0:21:52.57,0:21:56.44,Alderamin-internal/narrator,Y,0000,0000,0000,,Ikta came back to me.
+Dialogue: 0,0:21:57.67,0:22:00.46,Alderamin-flashback,I,0000,0000,0000,,I came to take you, Yatori,
+Dialogue: 0,0:22:01.90,0:22:05.20,Alderamin-flashback,I,0000,0000,0000,,from this land without a future.
+Dialogue: 0,0:23:37.10,0:23:41.02,Default,Next time,0000,0000,0000,,Next time: At the Base of the Stairs of God.
+Dialogue: 0,0:23:37.89,0:23:41.02,Alderamin-Next_Episode,Next time,0000,0000,0000,,At the Base of the Stairs of God.

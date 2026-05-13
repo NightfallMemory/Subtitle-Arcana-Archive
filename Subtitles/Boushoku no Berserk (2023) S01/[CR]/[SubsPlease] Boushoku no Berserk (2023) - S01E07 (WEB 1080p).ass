@@ -1,0 +1,362 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: sign_harsh_red,Times New Roman,20,&H000900B5,&H000000FF,&H000A100C,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: sign_skill,Trebuchet MS,20,&H00FFFDFE,&H000000FF,&H00100404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.31,0:00:06.11,main,Fate,0,0,0,,You sure you've got Wrath and not Gluttony?
+Dialogue: 0,0:00:06.11,0:00:10.42,main,Fate,0,0,0,,We just bought all those supplies... \NHow much do you need to eat?
+Dialogue: 0,0:00:11.11,0:00:13.58,main,Myne,0,0,0,,Rage burns a lot of calories.
+Dialogue: 0,0:00:13.97,0:00:17.89,main,Fate,0,0,0,,With all the eating you do, I have \Nto wonder where it all goes.
+Dialogue: 0,0:00:20.99,0:00:23.27,main,Fate,0,0,0,,Hang on! Don't do it!
+Dialogue: 0,0:01:57.53,0:01:59.37,top,Fate,0,0,0,,If you could please handle the repairs.
+Dialogue: 0,0:01:57.60,0:02:01.02,sign_harsh_red,Eptitle sign,0,0,0,,{\fade(400,400\blur1)\c&H0E00DD&\pos(473.437,285)}The Twilight Swordsman
+Dialogue: 0,0:01:59.37,0:02:03.10,top,Driver,0,0,0,,Sure thing. That'll be \Ncosting you extra, though.
+Dialogue: 0,0:02:05.05,0:02:06.56,main,Fate,0,0,0,,Huh? Where's Myne?
+Dialogue: 0,0:02:09.02,0:02:12.03,main,Fate,0,0,0,,Just does whatever she wants... Myne!
+Dialogue: 0,0:02:19.54,0:02:21.64,main,Fate,0,0,0,,This place seems pretty peaceful.
+Dialogue: 0,0:02:22.01,0:02:25.71,italics,Greed,0,0,0,,We're near Galia at this point. \NThat means monsters pose a big threat.
+Dialogue: 0,0:02:26.20,0:02:29.92,italics,Greed,0,0,0,,I'd bet there's someone \Nvery powerful protecting this village.
+Dialogue: 0,0:02:29.92,0:02:32.15,main,Fate,0,0,0,,Makes sense. What's that castle?
+Dialogue: 0,0:02:32.15,0:02:34.72,italics,Greed,0,0,0,,Based on where we are, \NI'd say that's Hausen.
+Dialogue: 0,0:02:34.72,0:02:38.35,main,Fate,0,0,0,,I thought that Seifort had \Nthe only castle around here.
+Dialogue: 0,0:02:45.66,0:02:48.13,main,Fate,0,0,0,,Excuse me, where's the mayor?
+Dialogue: 0,0:02:48.13,0:02:49.98,main,Fate,0,0,0,,We're looking to stay \Nin this village for a while.
+Dialogue: 0,0:02:51.21,0:02:53.40,main,Aaron,0,0,0,,I'm this village's chief.
+Dialogue: 0,0:02:53.98,0:02:55.61,italics,Greed,0,0,0,,That's a holy sword.
+Dialogue: 0,0:02:56.01,0:02:57.80,main,Fate,0,0,0,,You're a holy knight?
+Dialogue: 0,0:02:57.80,0:03:00.91,italics,Greed,0,0,0,,I get it. He must be defending the village.
+Dialogue: 0,0:03:02.07,0:03:04.12,main,Aaron,0,0,0,,You'd like to stay, is that right?
+Dialogue: 0,0:03:04.12,0:03:08.08,main,Aaron,0,0,0,,First, I'd like you to cross swords\Nwith me for a bit.
+Dialogue: 0,0:03:08.81,0:03:09.75,main,Aaron,0,0,0,,Identify, eh?
+Dialogue: 0,0:03:10.69,0:03:14.39,main,Aaron,0,0,0,,You're level 1, but with stats \Nover two million.
+Dialogue: 0,0:03:14.39,0:03:16.01,main,Fate,0,0,0,,When did you use Identify on me?!
+Dialogue: 0,0:03:19.20,0:03:21.68,main,Aaron,0,0,0,,Are we doing this or not?
+Dialogue: 0,0:03:33.71,0:03:35.53,italics,Greed,0,0,0,,Hey! Don't drop me!
+Dialogue: 0,0:03:42.05,0:03:44.45,main,Fate,0,0,0,,I take it this means we don't get to stay...
+Dialogue: 0,0:03:44.45,0:03:47.55,main,Aaron,0,0,0,,Far from it. I sense a purpose \Nin this chance meeting.
+Dialogue: 0,0:03:47.55,0:03:49.15,main,Aaron,0,0,0,,You're welcome to stay.
+Dialogue: 0,0:03:49.15,0:03:50.33,main,Fate,0,0,0,,Really?
+Dialogue: 0,0:03:50.87,0:03:52.63,main,Aaron,0,0,0,,On one condition, though.
+Dialogue: 0,0:03:53.23,0:03:54.05,main,Fate,0,0,0,,What's that?
+Dialogue: 0,0:03:54.43,0:03:57.28,main,Aaron,0,0,0,,During your stay, you'll train under me.
+Dialogue: 0,0:03:58.56,0:03:59.80,main,Fate,0,0,0,,Why train me?
+Dialogue: 0,0:03:59.80,0:04:02.51,main,Aaron,0,0,0,,Let's just call it the whims of an old man.
+Dialogue: 0,0:04:02.97,0:04:04.21,italics,Greed,0,0,0,,This is fishy.
+Dialogue: 0,0:04:04.21,0:04:04.97,italics,Fate,0,0,0,,Yeah...
+Dialogue: 0,0:04:04.97,0:04:07.83,main,Aaron,0,0,0,,You don't know how to counter Identify.
+Dialogue: 0,0:04:08.24,0:04:11.16,main,Aaron,0,0,0,,You're not making the most of \Nyour other skills, either.
+Dialogue: 0,0:04:11.16,0:04:13.94,main,Aaron,0,0,0,,I feel like your body isn't \Naccustomed to its strength.
+Dialogue: 0,0:04:14.72,0:04:17.86,main,Aaron,0,0,0,,The way you fight will serve \Nyou well against monsters
+Dialogue: 0,0:04:17.86,0:04:19.91,main,Aaron,0,0,0,,but less so against other humans.
+Dialogue: 0,0:04:19.91,0:04:23.91,main,Aaron,0,0,0,,There's nothing for you to lose \Nfrom my instruction.
+Dialogue: 0,0:04:23.91,0:04:24.87,main,Aaron,0,0,0,,What do you say?
+Dialogue: 0,0:04:24.87,0:04:28.77,italics,Greed,0,0,0,,And he's not asking for anything in return? \NJust keeps getting sketchier.
+Dialogue: 0,0:04:28.77,0:04:33.80,italics,Fate,0,0,0,,But... it's not every day you get an offer \Nto learn directly from a holy knight.
+Dialogue: 0,0:04:33.80,0:04:35.03,italics,Greed,0,0,0,,Suit yourself, then.
+Dialogue: 0,0:04:36.16,0:04:39.34,main,Fate,0,0,0,,I'm Fate Graphite. Nice to meet you.
+Dialogue: 0,0:04:40.09,0:04:41.93,main,Aaron,0,0,0,,Aaron Barbatos.
+Dialogue: 0,0:04:43.51,0:04:44.38,main,Fate,0,0,0,,Myne?
+Dialogue: 0,0:04:44.38,0:04:45.80,main,Aaron,0,0,0,,Is this your companion?
+Dialogue: 0,0:04:45.80,0:04:46.47,main,Fate,0,0,0,,Yes.
+Dialogue: 0,0:04:48.27,0:04:52.15,main,Aaron,0,0,0,,Well... a warrior. And a very\Ncapable one at that.
+Dialogue: 0,0:04:52.15,0:04:53.66,main,Fate,0,0,0,,You can tell?
+Dialogue: 0,0:04:53.66,0:04:55.93,main,Myne,0,0,0,,Fate, we can camp out over there.
+Dialogue: 0,0:04:55.93,0:04:58.61,main,Fate,0,0,0,,I already found us a place to stay, Myne.
+Dialogue: 0,0:05:08.84,0:05:11.29,main,Fate,0,0,0,,We're starting with hand-to-hand?
+Dialogue: 0,0:05:12.31,0:05:16.58,main,Aaron,0,0,0,,Correct. It's the best way \Nto learn to control your stats.
+Dialogue: 0,0:05:16.58,0:05:18.26,main,Aaron,0,0,0,,That's something you \Nhave trouble with, right?
+Dialogue: 0,0:05:18.90,0:05:20.72,main,Fate,0,0,0,,I guess you can see right through me.
+Dialogue: 0,0:05:20.72,0:05:24.67,main,Aaron,0,0,0,,It happens all the time with warriors \Nwho suddenly become much stronger.
+Dialogue: 0,0:05:24.67,0:05:26.91,main,Aaron,0,0,0,,Come, Fate, give it a try.
+Dialogue: 0,0:05:31.60,0:05:33.06,main,Aaron,0,0,0,,Arms closer to your body.
+Dialogue: 0,0:05:33.59,0:05:35.11,main,Aaron,0,0,0,,Lower your hips.
+Dialogue: 0,0:05:35.41,0:05:36.39,main,Aaron,0,0,0,,Hands like this.
+Dialogue: 0,0:05:36.39,0:05:37.16,main,Fate,0,0,0,,Ow!
+Dialogue: 0,0:05:39.26,0:05:41.01,main,Aaron,0,0,0,,You're tensing up too much.
+Dialogue: 0,0:05:42.14,0:05:45.45,main,Aaron,0,0,0,,You need to loosen up, like this!
+Dialogue: 0,0:05:46.20,0:05:47.10,main,Fate,0,0,0,,So fast!
+Dialogue: 0,0:05:47.10,0:05:50.04,main,Aaron,0,0,0,,The more you flex, the weaker \Nand slower your movement.
+Dialogue: 0,0:05:50.04,0:05:53.44,main,Aaron,0,0,0,,You'll generate more power \Nfrom a relaxed state.
+Dialogue: 0,0:05:53.44,0:05:57.03,main,Aaron,0,0,0,,And beyond that, you'll be able to \Npursue unconscious power!
+Dialogue: 0,0:05:57.76,0:05:58.55,main,Fate,0,0,0,,Right!
+Dialogue: 0,0:06:02.70,0:06:03.97,main,Myne,0,0,0,,Hungry...
+Dialogue: 0,0:06:03.97,0:06:07.18,italics,Fate,0,0,0,,He's right, I can move better \Nif I don't tense up.
+Dialogue: 0,0:06:07.18,0:06:09.50,italics,Fate,0,0,0,,And if I can control my stats better...
+Dialogue: 0,0:06:10.35,0:06:13.24,italics,Fate,0,0,0,,Damn it! Why is Gluttony acting up now?!
+Dialogue: 0,0:06:13.91,0:06:16.40,main,Aaron,0,0,0,,Your eye color has changed. What's wrong?
+Dialogue: 0,0:06:16.73,0:06:17.69,main,Fate,0,0,0,,This is bad...
+Dialogue: 0,0:06:19.43,0:06:22.24,main,Aaron,0,0,0,,Well, you're suddenly moving much better.
+Dialogue: 0,0:06:22.24,0:06:24.24,main,Fate,0,0,0,,You're a good teacher, Aaron.
+Dialogue: 0,0:06:24.24,0:06:26.53,main,Aaron,0,0,0,,I see... How about this, then?!
+Dialogue: 0,0:06:32.49,0:06:36.06,italics,Greed,0,0,0,,You're able to move pretty well\Ndespite being nearly starved now.
+Dialogue: 0,0:06:39.85,0:06:43.06,main,Aaron,0,0,0,,Tomorrow, we'll move on to \Nactual combat practice.
+Dialogue: 0,0:06:43.06,0:06:44.01,main,Fate,0,0,0,,Right!
+Dialogue: 0,0:06:44.89,0:06:46.22,italics,Fate,0,0,0,,I can smell a monster...
+Dialogue: 0,0:06:48.18,0:06:49.86,italics,Fate,0,0,0,,Is there a monster in that castle?
+Dialogue: 0,0:06:49.86,0:06:51.13,main,Aaron,0,0,0,,What in the world?
+Dialogue: 0,0:06:51.13,0:06:52.04,main,Fate,0,0,0,,Aaron!
+Dialogue: 0,0:06:55.52,0:06:57.10,main,Fate,0,0,0,,What is wrong with her...?
+Dialogue: 0,0:06:57.10,0:06:58.27,main,Fate,0,0,0,,I'm sorry about this.
+Dialogue: 0,0:06:58.27,0:07:02.34,main,Aaron,0,0,0,,Don't worry about it. I'll go ask\N the villagers to share some food.
+Dialogue: 0,0:07:03.61,0:07:08.00,main,Fate,0,0,0,,Dammit, as if being nearly starved\Nwasn't bad enough...
+Dialogue: 0,0:07:11.99,0:07:14.83,main,Fate,0,0,0,,This is your fault, y'know? Yours.
+Dialogue: 0,0:07:12.98,0:07:14.83,italics,Greed,0,0,0,,Whoa, I wouldn't do that if I were you.
+Dialogue: 0,0:07:15.62,0:07:17.79,italics,Greed,0,0,0,,Getting reckless all of a sudden, huh?
+Dialogue: 0,0:07:45.51,0:07:47.52,main,Fate,0,0,0,,Is that... Aaron?
+Dialogue: 0,0:07:48.56,0:07:50.87,main,Fate,0,0,0,,So this would be his son?
+Dialogue: 0,0:07:50.87,0:07:52.68,italics,Greed,0,0,0,,He looks like you, Fate.
+Dialogue: 0,0:07:53.26,0:07:54.50,italics,Greed,0,0,0,,I get it now.
+Dialogue: 0,0:07:54.50,0:07:58.87,italics,Greed,0,0,0,,Looks like there's a reason he's the head \Nof a village in the middle of nowhere.
+Dialogue: 0,0:08:10.38,0:08:13.46,main,Aaron,0,0,0,,I want you to parry my strike with that stick.
+Dialogue: 0,0:08:13.46,0:08:14.43,main,Fate,0,0,0,,With just a wooden stick?!
+Dialogue: 0,0:08:14.82,0:08:16.39,main,Fate,0,0,0,,It's obviously gonna break!
+Dialogue: 0,0:08:16.39,0:08:19.79,main,Aaron,0,0,0,,You've been training under me. \NYou'll manage.
+Dialogue: 0,0:08:19.79,0:08:21.86,main,Fate,0,0,0,,Understood. Whenever you're ready!
+Dialogue: 0,0:08:21.86,0:08:23.70,main,Aaron,0,0,0,,Now then, let's begin!
+Dialogue: 0,0:08:24.86,0:08:27.02,italics,Fate,0,0,0,,Predict the angle and path of the sword...
+Dialogue: 0,0:08:27.02,0:08:30.32,italics,Fate,0,0,0,,Then with the minimum amount of strength, \Nlike you're sliding across the blade!
+Dialogue: 0,0:08:34.27,0:08:35.24,main,Aaron,0,0,0,,Well done!
+Dialogue: 0,0:08:35.76,0:08:38.71,main,Aaron,0,0,0,,You're able to control those stats, now.
+Dialogue: 0,0:08:38.71,0:08:41.82,main,Fate,0,0,0,,Yes! Thank you so much.
+Dialogue: 0,0:08:41.82,0:08:43.41,main,Myne,0,0,0,,Here's a reward from me.
+Dialogue: 0,0:08:43.41,0:08:44.92,main,Fate,0,0,0,,From you, Myne?
+Dialogue: 0,0:08:48.67,0:08:50.55,main,Myne,0,0,0,,Good. It suits you.
+Dialogue: 0,0:08:51.28,0:08:53.35,italics,Greed,0,0,0,,I tried to warn you.
+Dialogue: 0,0:08:54.96,0:08:56.56,main,Aaron,0,0,0,,You're leaving early tomorrow?
+Dialogue: 0,0:08:56.56,0:09:00.52,main,Fate,0,0,0,,Yeah. Thank you for everything you've done. \NYou should thank him, too, Myne.
+Dialogue: 0,0:09:01.26,0:09:02.94,main,Fate,0,0,0,,Myne...
+Dialogue: 0,0:09:03.84,0:09:04.98,main,Fate,0,0,0,,Sorry about her.
+Dialogue: 0,0:09:04.98,0:09:08.37,main,Aaron,0,0,0,,It's no problem. By all means, eat your fill.
+Dialogue: 0,0:09:08.37,0:09:10.97,main,Aaron,0,0,0,,There's plenty of meat and vegetables, still.
+Dialogue: 0,0:09:10.97,0:09:12.70,main,Myne,0,0,0,,It all tastes the same.
+Dialogue: 0,0:09:13.45,0:09:15.44,main,Myne,0,0,0,,My sense of taste is gone.
+Dialogue: 0,0:09:15.44,0:09:17.04,italics,Greed,0,0,0,,That's the price she pays for Wrath.
+Dialogue: 0,0:09:18.25,0:09:20.96,main,Myne,0,0,0,,I've got a mission.
+Dialogue: 0,0:09:21.92,0:09:23.42,main,Fate,0,0,0,,A mission...?
+Dialogue: 0,0:09:25.92,0:09:28.63,main,Aaron,0,0,0,,A goal you need done, eh?
+Dialogue: 0,0:09:35.06,0:09:37.01,main,Fate,0,0,0,,Is there something in that castle?
+Dialogue: 0,0:09:37.48,0:09:39.39,main,Aaron,0,0,0,,Hausen...
+Dialogue: 0,0:09:39.93,0:09:42.90,main,Aaron,0,0,0,,It used to be my castle.
+Dialogue: 0,0:09:43.94,0:09:46.84,main,Aaron,0,0,0,,That was 15 years ago.
+Dialogue: 0,0:09:48.01,0:09:51.28,main,Aaron,0,0,0,,I had left Hausen on royal orders...
+Dialogue: 0,0:09:56.83,0:09:59.79,flashback,Luke,0,0,0,,I'm going to defend the castle \Nwhile Father is away!
+Dialogue: 0,0:10:03.23,0:10:05.97,main,Aaron,0,0,0,,My family and my people \Nfell to a crowned beast
+Dialogue: 0,0:10:05.97,0:10:08.92,main,Aaron,0,0,0,,that had grown from accumulated aggression...
+Dialogue: 0,0:10:09.41,0:10:14.73,main,Aaron,0,0,0,,Ever since, Hausen has belonged to \Nthe Genesis of Death, a lich lord.
+Dialogue: 0,0:10:15.44,0:10:18.78,main,Aaron,0,0,0,,My family is still in its clutches.
+Dialogue: 0,0:10:21.02,0:10:22.65,main,Aaron,0,0,0,,What's the matter, Fate?
+Dialogue: 0,0:10:23.03,0:10:24.62,main,Fate,0,0,0,,I need to step out for a sec...
+Dialogue: 0,0:10:29.18,0:10:30.40,main,Aaron,0,0,0,,You're headed to the castle?
+Dialogue: 0,0:10:30.40,0:10:31.50,main,Fate,0,0,0,,Aaron...
+Dialogue: 0,0:10:31.85,0:10:33.61,main,Aaron,0,0,0,,I'll join you.
+Dialogue: 0,0:10:34.43,0:10:37.44,main,Aaron,0,0,0,,This is a good chance \Nto put my past to rest.
+Dialogue: 0,0:10:38.29,0:10:40.12,main,Myne,0,0,0,,I'll watch the village.
+Dialogue: 0,0:10:40.84,0:10:42.75,main,Myne,0,0,0,,How's 50 gold coins sound?
+Dialogue: 0,0:11:03.73,0:11:04.73,main,Aaron,0,0,0,,Magic arrows?
+Dialogue: 0,0:11:04.73,0:11:07.41,main,Fate,0,0,0,,With a petrifying effect \Ncaused by Sandstorm.
+Dialogue: 0,0:11:07.41,0:11:12.27,main,Aaron,0,0,0,,That's a technique so difficult to manage, \Nthey've stopped studying it in the capital.
+Dialogue: 0,0:11:12.27,0:11:13.53,main,Aaron,0,0,0,,I'm impressed.
+Dialogue: 0,0:11:13.53,0:11:14.49,main,Fate,0,0,0,,It's nothing.
+Dialogue: 0,0:11:14.49,0:11:16.86,italics,Greed,0,0,0,,The credit all belongs to me.
+Dialogue: 0,0:11:16.86,0:11:18.33,main,Aaron,0,0,0,,Let's keep moving!
+Dialogue: 0,0:11:18.33,0:11:19.09,main,Fate,0,0,0,,Right.
+Dialogue: 0,0:11:32.71,0:11:33.61,main,Fate,0,0,0,,From the second floor?
+Dialogue: 0,0:11:33.61,0:11:36.24,main,Aaron,0,0,0,,An invitation, most likely. Let's go.
+Dialogue: 0,0:11:42.11,0:11:43.10,main,Aaron,0,0,0,,Impossible!
+Dialogue: 0,0:11:43.61,0:11:44.56,main,Luke,0,0,0,,Father!
+Dialogue: 0,0:11:45.57,0:11:46.98,main,Aaron,0,0,0,,It can't be...
+Dialogue: 0,0:11:47.52,0:11:50.73,main,Diana,0,0,0,,Welcome home, dear.
+Dialogue: 0,0:11:50.73,0:11:53.94,main,Servants,0,0,0,,Welcome home, master.
+Dialogue: 0,0:11:54.65,0:11:57.65,main,Diana,0,0,0,,We've been waiting so long for you, dear.
+Dialogue: 0,0:11:57.98,0:12:00.49,main,Aaron,0,0,0,,Luke... Diana...
+Dialogue: 0,0:12:01.37,0:12:02.49,main,Aaron,0,0,0,,You're both...
+Dialogue: 0,0:12:05.00,0:12:07.08,main,Aaron,0,0,0,,You were both still alive.
+Dialogue: 0,0:12:07.08,0:12:09.11,main,Luke,0,0,0,,What do you mean, Father?
+Dialogue: 0,0:12:09.11,0:12:11.91,main,Diana,0,0,0,,You must be exhausted, dear.
+Dialogue: 0,0:12:11.91,0:12:13.79,main,Luke,0,0,0,,Did you carry out your mission \Nfrom the king, Father?
+Dialogue: 0,0:12:13.79,0:12:16.82,main,Aaron,0,0,0,,I did. The stampede has been dealt with.
+Dialogue: 0,0:12:16.82,0:12:17.80,main,Luke,0,0,0,,That's amazing!
+Dialogue: 0,0:12:18.26,0:12:20.55,main,Luke,0,0,0,,Could you tell us more about it?
+Dialogue: 0,0:12:20.55,0:12:21.90,main,Aaron,0,0,0,,I suppose I can...
+Dialogue: 0,0:12:22.22,0:12:25.08,italics,Fate,0,0,0,,What's going on here, Greed?
+Dialogue: 0,0:12:25.08,0:12:28.84,italics,Greed,0,0,0,,They might look alive, \Nbut they're definitely not.
+Dialogue: 0,0:12:28.84,0:12:30.94,italics,Greed,0,0,0,,This is an illusion spell.
+Dialogue: 0,0:12:30.94,0:12:33.40,italics,Fate,0,0,0,,All of this is an illusion?
+Dialogue: 0,0:12:35.13,0:12:39.08,main,Diana,0,0,0,,Oh, you two, that's enough chat for now.
+Dialogue: 0,0:12:39.08,0:12:41.09,main,Diana,0,0,0,,You should get some rest, dear.
+Dialogue: 0,0:12:41.65,0:12:43.53,main,Luke,0,0,0,,Oh, Father, did you bring me a souvenir?
+Dialogue: 0,0:12:43.53,0:12:45.25,main,Aaron,0,0,0,,Of course I did.
+Dialogue: 0,0:12:45.25,0:12:45.87,main,Luke,0,0,0,,All right!
+Dialogue: 0,0:12:49.54,0:12:50.50,main,Fate,0,0,0,,Aaron!
+Dialogue: 0,0:12:52.69,0:12:55.23,main,Aaron,0,0,0,,You've grown so strong, Luke!
+Dialogue: 0,0:12:56.17,0:12:59.67,main,Luke,0,0,0,,Because I had to protect the castle \Nin your absence, Father.
+Dialogue: 0,0:13:00.06,0:13:02.89,main,Luke,0,0,0,,For so many long, long, unending years...!
+Dialogue: 0,0:13:04.11,0:13:06.36,main,Luke,0,0,0,,While you only care about work, work, work!
+Dialogue: 0,0:13:06.36,0:13:10.85,main,Luke,0,0,0,,You abandoned us to monsters \Nfor your duty in the capital!
+Dialogue: 0,0:13:11.53,0:13:14.02,main,Luke,0,0,0,,How could you show up \Nafter all this time to kill us?!
+Dialogue: 0,0:13:14.02,0:13:16.57,main,Diana,0,0,0,,We're still alive!
+Dialogue: 0,0:13:17.76,0:13:20.21,main,Fate,0,0,0,,Aaron, I can get rid of the illusions.
+Dialogue: 0,0:13:20.65,0:13:22.28,main,Fate,0,0,0,,Greed, I need the black scythe.
+Dialogue: 0,0:13:23.13,0:13:26.54,italics,Greed,0,0,0,,It can cut through the effects \Ncaused by a skill, true.
+Dialogue: 0,0:13:26.54,0:13:29.75,italics,Greed,0,0,0,,But when it does that, \Nit'll mean slaying them.
+Dialogue: 0,0:13:30.63,0:13:34.82,italics,Greed,0,0,0,,Souls that are devoured \Nby Gluttony can never pass on.
+Dialogue: 0,0:13:35.29,0:13:39.26,italics,Greed,0,0,0,,It's like being confined to an endless hell \Nwith no hope of salvation!
+Dialogue: 0,0:13:40.01,0:13:42.22,italics,Fate,0,0,0,,I can't do that to them...
+Dialogue: 0,0:13:46.70,0:13:47.56,main,Aaron,0,0,0,,Fate!
+Dialogue: 0,0:13:48.20,0:13:52.17,main,Aaron,0,0,0,,Sorry, but would you \Nlet me handle my family?
+Dialogue: 0,0:13:52.17,0:13:54.75,main,Fate,0,0,0,,In that case, I'll find the lich lord!
+Dialogue: 0,0:13:57.35,0:14:00.36,italics,Aaron,0,0,0,,Luke... you truly have become strong.
+Dialogue: 0,0:14:00.82,0:14:05.03,italics,Aaron,0,0,0,,You must have followed my teachings, \Nnever shirking your training.
+Dialogue: 0,0:14:09.75,0:14:12.29,main,Fate,0,0,0,,This place is thick with its scent.
+Dialogue: 0,0:14:13.97,0:14:14.86,main,Fate,0,0,0,,There!
+Dialogue: 0,0:14:15.68,0:14:17.21,main,Fate,0,0,0,,No more hide and seek!
+Dialogue: 0,0:14:22.93,0:14:24.48,main,Fate,0,0,0,,There's the lich lord!
+Dialogue: 0,0:14:26.81,0:14:29.01,main,Fate,0,0,0,,All of its stats are above a million!
+Dialogue: 0,0:14:26.97,0:14:29.01,sign_harsh_red,Sign,0,0,0,,{\fade(500,1)\3c&H090203&\pos(277.262,37.425)\fs23}Genesis of Death
+Dialogue: 0,0:14:26.97,0:14:29.01,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(122.168,107.817)}[Stats]
+Dialogue: 0,0:14:26.97,0:14:29.01,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(122.168,135.251)}Vitality:
+Dialogue: 0,0:14:26.97,0:14:29.01,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(122.168,161.743)}Strength:
+Dialogue: 0,0:14:26.97,0:14:29.01,sign_harsh_red,Sign,0,0,0,,{\an7\3c&H090203&\3c&H090203&\fade(500,1)\pos(122.168,187.14)}Magic:
+Dialogue: 0,0:14:26.97,0:14:29.01,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(122.168,213.306)}Spirit:
+Dialogue: 0,0:14:26.97,0:14:29.01,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(121.45,240.494)}Agility:
+Dialogue: 0,0:14:26.97,0:14:29.01,sign_harsh_red,Sign,0,0,0,,{\an7\3c&H090203&\fade(500,1)\pos(122.168,263.412)}[Skills]
+Dialogue: 0,0:14:26.97,0:14:29.01,sign_harsh_red,Sign,0,0,0,,{\fade(500,1)\3c&H090203&\fs15\pos(311.021,298.982)}Illusion magic
+Dialogue: 0,0:14:26.97,0:14:29.01,sign_harsh_red,Sign,0,0,0,,{\fade(500,1)\3c&H090203&\fs15\pos(418.406,298.623)}Magic Boost (Large)
+Dialogue: 0,0:14:26.97,0:14:29.01,sign_harsh_red,Sign,0,0,0,,{\fade(500,1)\3c&H090203&\fs15\pos(463.3,315.868)}Spirit Boost (large)
+Dialogue: 0,0:14:31.03,0:14:33.89,italics,Fate,0,0,0,,Don't tense up, and use the minimal \Namount of strength necessary...!
+Dialogue: 0,0:14:44.35,0:14:47.35,italics,Greed,0,0,0,,Its power to control corpses is still intact.
+Dialogue: 0,0:14:47.99,0:14:50.20,main,Zombie Servant,0,0,0,,Save us, please...
+Dialogue: 0,0:14:50.20,0:14:52.66,main,Zombie Servant,0,0,0,,Help... please...
+Dialogue: 0,0:14:53.23,0:14:55.62,main,Fate,0,0,0,,I can't attack them.
+Dialogue: 0,0:14:55.62,0:14:56.96,italics,Greed,0,0,0,,Fate, behind you!
+Dialogue: 0,0:15:00.22,0:15:02.99,main,Aaron,0,0,0,,Sorry about the delay. I'm ready now.
+Dialogue: 0,0:15:03.32,0:15:06.18,main,Aaron,0,0,0,,I've cut the tendons in their limbs \Nto immobilize them.
+Dialogue: 0,0:15:07.97,0:15:09.20,main,Aaron,0,0,0,,Now, then...
+Dialogue: 0,0:15:11.51,0:15:12.73,main,Aaron,0,0,0,,Diana.
+Dialogue: 0,0:15:12.73,0:15:15.75,main,Diana,0,0,0,,Reconsider...
+Dialogue: 0,0:15:15.75,0:15:17.48,flashback,Diana,0,0,0,,Reconsider, dear.
+Dialogue: 0,0:15:18.05,0:15:22.21,flashback,Luke,0,0,0,,She's right, Father. Why is it always \Nyou on these dangerous missions?
+Dialogue: 0,0:15:22.21,0:15:24.95,flashback,Aaron,0,0,0,,It's all right. You don't need to worry.
+Dialogue: 0,0:15:24.95,0:15:28.71,flashback,Aaron,0,0,0,,Once I've dealt with the monsters,\NI'll be right back.
+Dialogue: 0,0:15:29.93,0:15:32.16,main,Aaron,0,0,0,,That's right. If I had...
+Dialogue: 0,0:15:32.16,0:15:34.92,main,Aaron,0,0,0,,If I had returned faster...
+Dialogue: 0,0:15:35.64,0:15:38.68,main,Aaron,0,0,0,,But now, I can end your suffering.
+Dialogue: 0,0:15:39.21,0:15:40.99,main,Aaron,0,0,0,,Grand Cross!
+Dialogue: 0,0:15:53.14,0:15:56.77,main,Aaron,0,0,0,,I've nearly got him...!
+Dialogue: 0,0:15:56.77,0:15:58.30,main,Fate,0,0,0,,What do we do?
+Dialogue: 0,0:16:00.47,0:16:01.59,main,Fate,0,0,0,,His son's sword...?
+Dialogue: 0,0:16:02.41,0:16:03.27,main,Fate,0,0,0,,Greed?
+Dialogue: 0,0:16:03.27,0:16:05.01,italics,Greed,0,0,0,,Just don't make a habit out of it.
+Dialogue: 0,0:16:05.01,0:16:05.61,main,Fate,0,0,0,,Right!
+Dialogue: 0,0:16:08.04,0:16:09.72,main,Fate,0,0,0,,Aaron! I'll help!
+Dialogue: 0,0:16:09.72,0:16:10.53,main,Aaron,0,0,0,,That's...
+Dialogue: 0,0:16:11.00,0:16:11.99,main,Fate,0,0,0,,Let's end this!
+Dialogue: 0,0:16:14.75,0:16:16.20,main,Aaron,0,0,0,,I think we will.
+Dialogue: 0,0:16:18.92,0:16:21.23,main,Both,0,0,0,,Grand Cross!
+Dialogue: 0,0:16:49.01,0:16:51.52,main,Aaron,0,0,0,,I'm sorry I kept you waiting for so long.
+Dialogue: 0,0:17:01.78,0:17:03.46,main,Luke,0,0,0,,It's not your fault, Father.
+Dialogue: 0,0:17:03.96,0:17:06.34,main,Aaron,0,0,0,,Luke... I...
+Dialogue: 0,0:17:06.92,0:17:11.13,main,Diana,0,0,0,,Besides, you saved us in the end.
+Dialogue: 0,0:17:11.13,0:17:12.52,main,Aaron,0,0,0,,Diana.
+Dialogue: 0,0:17:15.09,0:17:18.59,main,Aaron,0,0,0,,If only I had made up my mind sooner...
+Dialogue: 0,0:17:18.59,0:17:21.10,main,Aaron,0,0,0,,No. I should've never left your side.
+Dialogue: 0,0:17:21.77,0:17:25.57,main,Aaron,0,0,0,,I knew that you both were more \Nimportant than any orders, and yet...
+Dialogue: 0,0:17:26.74,0:17:28.40,main,Aaron,0,0,0,,It must've been painful.
+Dialogue: 0,0:17:29.58,0:17:31.03,main,Aaron,0,0,0,,Forgive me.
+Dialogue: 0,0:17:31.40,0:17:33.23,main,Luke,0,0,0,,We're okay now.
+Dialogue: 0,0:17:33.23,0:17:37.74,main,Diana,0,0,0,,And for our sake, please, \Ndo what you think is right.
+Dialogue: 0,0:17:37.74,0:17:40.02,main,Aaron,0,0,0,,Right. I promise.
+Dialogue: 0,0:17:40.64,0:17:43.96,main,Aaron,0,0,0,,I will live in a way \Nthat honors your memory.
+Dialogue: 0,0:17:47.86,0:17:51.26,main,Aaron,0,0,0,,I know it's late, Luke, \Nbut I have your souvenir.
+Dialogue: 0,0:17:55.04,0:17:56.70,main,Luke,0,0,0,,Thank you, Father.
+Dialogue: 0,0:17:59.20,0:18:01.40,main,Aaron,0,0,0,,Diana. Luke.
+Dialogue: 0,0:18:21.45,0:18:23.74,italics,Voice,0,0,0,,Gluttony skill has activated.
+Dialogue: 0,0:18:25.27,0:18:27.63,main,Fate,0,0,0,,No one is interrupting this.
+Dialogue: 0,0:18:35.35,0:18:39.35,main,Fate,0,0,0,,It's important... that he gets \Nto say goodbye...
+Dialogue: 0,0:18:59.67,0:19:02.32,main,Aaron,0,0,0,,Go on ahead. Wait for me.
+Dialogue: 0,0:19:02.32,0:19:05.62,main,Aaron,0,0,0,,When I've finished what \NI must do... I'll join you.
+Dialogue: 0,0:19:17.08,0:19:18.88,main,Fate,0,0,0,,You exceeded your level limit?!
+Dialogue: 0,0:19:18.88,0:19:23.02,main,Aaron,0,0,0,,Yes. Likely because of fighting \Nat your side, Fate.
+Dialogue: 0,0:19:23.02,0:19:24.53,italics,Greed,0,0,0,,Sounds possible.
+Dialogue: 0,0:19:24.91,0:19:28.23,italics,Greed,0,0,0,,It'd need to be someone that you, \Nwith your skill, accept, though...
+Dialogue: 0,0:19:28.23,0:19:29.36,italics,Fate,0,0,0,,Seriously?
+Dialogue: 0,0:19:29.36,0:19:33.74,main,Aaron,0,0,0,,Now then, I have a horde of monsters \Nthat need dealing with.
+Dialogue: 0,0:19:37.71,0:19:38.81,main,Fate,0,0,0,,Skeletons!
+Dialogue: 0,0:19:38.81,0:19:40.78,italics,Greed,0,0,0,,There's still this many left?
+Dialogue: 0,0:19:41.12,0:19:42.87,main,Fate,0,0,0,,Care for a race, then?
+Dialogue: 0,0:19:42.87,0:19:45.55,main,Aaron,0,0,0,,Interesting. Let's do it!
+Dialogue: 0,0:19:45.55,0:19:46.36,main,Fate,0,0,0,,Right!
+Dialogue: 0,0:19:50.22,0:19:51.02,main,Myne,0,0,0,,Late.
+Dialogue: 0,0:19:51.02,0:19:52.37,main,Fate,0,0,0,,Calm down, Myne!
+Dialogue: 0,0:19:52.37,0:19:54.26,main,Fate,0,0,0,,And put Sloth down!
+Dialogue: 0,0:19:54.87,0:19:57.32,main,Aaron,0,0,0,,Your fee, and a little extra as an apology.
+Dialogue: 0,0:19:58.34,0:20:00.30,main,Fate,0,0,0,,What a mercenary...
+Dialogue: 0,0:20:01.45,0:20:03.96,main,Myne,0,0,0,,Need money to rebuild village.
+Dialogue: 0,0:20:03.96,0:20:05.90,main,Fate,0,0,0,,For the village, huh?
+Dialogue: 0,0:20:05.90,0:20:09.77,main,Myne,0,0,0,,Money doesn't lie. You learn that \Nif you live long enough.
+Dialogue: 0,0:20:10.46,0:20:11.73,main,Fate,0,0,0,,Long enough...?
+Dialogue: 0,0:20:11.73,0:20:16.69,main,Aaron,0,0,0,,I'd been thinking I'd seen you somewhere \Nbefore... and now I remember.
+Dialogue: 0,0:20:17.25,0:20:22.66,main,Aaron,0,0,0,,Fifty years ago, monsters appeared in \Nthis town, and I caught a glimpse of you.
+Dialogue: 0,0:20:22.66,0:20:24.12,main,Fate,0,0,0,,Fifty years ago?!
+Dialogue: 0,0:20:24.12,0:20:27.87,main,Aaron,0,0,0,,Yes, and you looked exactly the same...
+Dialogue: 0,0:20:27.87,0:20:31.08,main,Aaron,0,0,0,,Even then, you were the picture of a warrior.
+Dialogue: 0,0:20:31.54,0:20:32.74,main,Myne,0,0,0,,You've got a good eye.
+Dialogue: 0,0:20:33.10,0:20:36.80,main,Myne,0,0,0,,With a millennium of training, \NAaron, you might catch up to me.
+Dialogue: 0,0:20:36.80,0:20:37.82,main,Fate,0,0,0,,A millennium?!
+Dialogue: 0,0:20:37.82,0:20:39.55,main,Aaron,0,0,0,,A harsh appraisal!
+Dialogue: 0,0:20:39.55,0:20:42.42,main,Myne,0,0,0,,It's true, though. Humans have their limits.
+Dialogue: 0,0:20:42.42,0:20:44.89,main,Aaron,0,0,0,,What does that make you, then?
+Dialogue: 0,0:20:46.25,0:20:49.34,main,Myne,0,0,0,,I'm a phantom who's not allowed to die.
+Dialogue: 0,0:20:50.44,0:20:51.81,main,Fate,0,0,0,,A phantom...?
+Dialogue: 0,0:20:53.20,0:20:55.78,main,Myne,0,0,0,,And it's time you paid me back.
+Dialogue: 0,0:20:56.76,0:20:57.85,main,Fate,0,0,0,,Myne...
+Dialogue: 0,0:20:59.74,0:21:01.89,main,Aaron,0,0,0,,Your eyes are back to normal.
+Dialogue: 0,0:21:01.89,0:21:05.91,main,Fate,0,0,0,,I have a condition where I need \Nto slay monsters regularly.
+Dialogue: 0,0:21:06.32,0:21:08.45,main,Fate,0,0,0,,If I don't, my eyes turn red—
+Dialogue: 0,0:21:08.45,0:21:11.76,main,Aaron,0,0,0,,And a great burden \Nis inflicted on your soul, eh?
+Dialogue: 0,0:21:13.32,0:21:17.14,main,Aaron,0,0,0,,Fate, when you've done what you \Nneed to do, come back here.
+Dialogue: 0,0:21:17.14,0:21:19.09,main,Aaron,0,0,0,,I have something important to tell you.
+Dialogue: 0,0:21:25.05,0:21:28.31,main,Memil,0,0,0,,The philosopher's stone, capable \Nof healing any illness or wound!
+Dialogue: 0,0:21:29.02,0:21:31.40,main,Memil,0,0,0,,I didn't think you'd really find it!
+Dialogue: 0,0:21:31.82,0:21:35.19,main,Memil,0,0,0,,Maybe immortality isn't out of \Nreach after all, Rafale!
+Dialogue: 0,0:21:35.19,0:21:36.19,main,Rafale,0,0,0,,Indeed.
+Dialogue: 0,0:21:39.29,0:21:40.36,main,Head Butler,0,0,0,,Begging your pardon, sir.
+Dialogue: 0,0:21:40.36,0:21:43.46,main,Rafale,0,0,0,,Did anything of note happen \Nwhile we were gone?
+Dialogue: 0,0:21:43.46,0:21:45.64,main,Rafale,0,0,0,,I haven't seen Hado around.
+Dialogue: 0,0:21:46.10,0:21:47.58,main,Head Butler,0,0,0,,I need to inform you...
+Dialogue: 0,0:21:48.10,0:21:49.33,main,Rafale,0,0,0,,Hado's dead?
+Dialogue: 0,0:21:49.33,0:21:52.44,main,Head Butler,0,0,0,,Yes. According to those who were there,
+Dialogue: 0,0:21:52.44,0:21:55.54,main,Head Butler,0,0,0,,Corpse is not a monster, but a warrior.
+Dialogue: 0,0:21:57.24,0:21:58.76,main,Rafale,0,0,0,,That Corpse...
+Dialogue: 0,0:22:02.01,0:22:03.77,main,Rafale,0,0,0,,Just who is he?
+Dialogue: 0,0:23:35.69,0:23:39.81,sign_harsh_red,Next eptitle,0,0,0,,{\fade(400,1)\3c&H000100&\fs30\blur1\pos(319.641,145.329)}The Village of Lost Memories
+Dialogue: 0,0:23:36.64,0:23:38.49,italics,Greed,0,0,0,,"The Village of Lost Memories."

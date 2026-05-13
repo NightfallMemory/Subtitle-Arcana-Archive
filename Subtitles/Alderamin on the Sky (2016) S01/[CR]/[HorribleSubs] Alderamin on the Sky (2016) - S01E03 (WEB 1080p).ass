@@ -1,0 +1,439 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Alderamin-internal/narrator,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Alderamin-internal-top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Alderamin-overlap,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-overlap-top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Alderamin-flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-flashbackinternal,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-flashback-overlap,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-Episode_Title,Open Sans Semibold,38,&H00D0DFEE,&H000000FF,&H00493F46,&H00493F46,0,0,0,0,100,100,0,0,1,1,1,2,27,13,133,1
+Style: Alderamin-Next_Episode,Open Sans Semibold,38,&H00FFFFF9,&H000000FF,&H00B0B689,&H0020222B,0,0,0,0,100,100,0,0,1,2,0,8,133,84,140,1
+Style: sign_29_1_Katjvarna_Empire,Open Sans Semibold,33,&H00D9DDD3,&H000000FF,&H00545E66,&H00545E66,0,0,0,0,100,100,0,0,1,1,1,2,111,124,71,0
+Style: sign_6301_57_Are_you_enjoying,Open Sans Semibold,33,&H00876D93,&H000000FF,&H002D2A21,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,205,163,279,0
+Style: sign_6447_58_It_s_terrible__I,Open Sans Semibold,33,&H0067C4B7,&H000000FF,&H002D2A21,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,285,216,88,0
+Style: sign_6638_59_Are_women_all_yo,Open Sans Semibold,33,&H00876D93,&H000000FF,&H002D2A21,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,404,15,343,0
+Style: sign_6845_60_Are_you_too_youn,Open Sans Semibold,33,&H0067C4B7,&H000000FF,&H002D2A21,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,48,312,248,0
+Style: sign_7888_73_Abhilia_Wetlands,Open Sans Semibold,33,&H003B4E6C,&H000000FF,&H00BEDDE7,&H00545E66,0,0,0,0,100,100,0,0,1,2,0,2,560,61,103,0
+Style: sign_9352_93_The_Next_Day,Open Sans Semibold,33,&H00D9DDD3,&H000000FF,&H00545E66,&H00545E66,0,0,0,0,100,100,0,0,1,1,1,2,341,325,71,0
+Style: sign_25294_315_Southern_Urt_For,Open Sans Semibold,33,&H00EEEFE6,&H000000FF,&H006D7166,&H006D7166,0,0,0,0,100,100,0,0,1,1,1,2,296,283,67,0
+Style: sign_28765_361_Exercise_Day_1,Open Sans Semibold,33,&H00D9DDD3,&H000000FF,&H00545E66,&H00545E66,0,0,0,0,100,100,0,0,1,1,1,2,337,313,72,0
+Style: sign_17245_204_Three_Months_Lat,Open Sans Semibold,33,&H00D9DDD3,&H000000FF,&H00545E66,&H00545E66,0,0,0,0,100,100,0,0,1,1,1,2,303,287,71,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.18,0:00:03.85,sign_29_1_Katjvarna_Empire,,0000,0000,0000,,{\fad(1000,1)}Katjvarna Empire High-Level Officer's School
+Dialogue: 0,0:00:03.04,0:00:04.71,Alderamin-top,Gu,0000,0000,0000,,First, everyone,
+Dialogue: 0,0:00:04.71,0:00:07.57,Default,Gu,0000,0000,0000,,let me congratulate you on\N successfully entering
+Dialogue: 0,0:00:07.57,0:00:10.61,Default,Gu,0000,0000,0000,,the Katjvarna Empire Central Base's \NHigh-Level Officer's School.
+Dialogue: 0,0:00:10.61,0:00:14.38,Default,Gu,0000,0000,0000,,This class includes the five who rescued\NPrincess Chamille from the enemy
+Dialogue: 0,0:00:14.38,0:00:17.49,Default,Gu,0000,0000,0000,,and were conferred the rank\Nof Imperial Knight.
+Dialogue: 0,0:00:18.51,0:00:23.45,Default,Gu,0000,0000,0000,,Princess Chamille has also \Ndecided to learn with you
+Dialogue: 0,0:00:23.45,0:00:26.00,Default,Gu,0000,0000,0000,,at the young age of twelve.
+Dialogue: 0,0:00:26.50,0:00:30.22,Default,Gu,0000,0000,0000,,I hope you find inspiration from this\Nto work hard at your lessons.
+Dialogue: 0,0:02:04.26,0:02:07.89,Alderamin-Episode_Title,Gu,0000,0000,0000,,{\fad(550,1)}The Knights of the \NHigh-Level Officer's School
+Dialogue: 0,0:02:08.37,0:02:09.90,Default,Gu,0000,0000,0000,,Run! Keep running!
+Dialogue: 0,0:02:10.23,0:02:13.76,Default,Gu,0000,0000,0000,,You're falling behind a lap, \NWarrant Officer Ikta Solork!
+Dialogue: 0,0:02:14.55,0:02:18.08,Default,Gu,0000,0000,0000,,Why don't you just pack up \Nyour things and go home?
+Dialogue: 0,0:02:18.57,0:02:21.34,Default,I,0000,0000,0000,,Sounds like a great idea to me—
+Dialogue: 0,0:02:21.34,0:02:22.87,Default,Gu,0000,0000,0000,,Louder!
+Dialogue: 0,0:02:23.13,0:02:25.73,Default,I,0000,0000,0000,,Sir, yes sir!
+Dialogue: 0,0:02:27.02,0:02:30.59,Default,I,0000,0000,0000,,What did I do to deserve this?
+Dialogue: 0,0:02:30.59,0:02:32.25,Default,T,0000,0000,0000,,Cheer up, Ikkun.
+Dialogue: 0,0:02:32.52,0:02:36.26,Default,T,0000,0000,0000,,We only have crossbow practice, a lecture,\Nand a marathon in the afternoon!
+Dialogue: 0,0:02:36.26,0:02:38.92,Default,I,0000,0000,0000,,Is that supposed to make me feel better?
+Dialogue: 0,0:02:38.92,0:02:40.29,Default,I,0000,0000,0000,,And don't call me Ikkun.
+Dialogue: 0,0:02:40.29,0:02:41.51,Default,Gu,0000,0000,0000,,Hey,
+Dialogue: 0,0:02:41.51,0:02:43.51,Default,Gu,0000,0000,0000,,slow-ass Imperial Knight.
+Dialogue: 0,0:02:44.54,0:02:46.14,Default,I,0000,0000,0000,,Uh, who are you guys?
+Dialogue: 0,0:02:47.74,0:02:50.85,Default,Gu,0000,0000,0000,,We prepared something special\Nto give you energy.
+Dialogue: 0,0:02:51.08,0:02:52.35,Default,Gu,0000,0000,0000,,Here.
+Dialogue: 0,0:02:53.48,0:02:54.98,Default,Gu,0000,0000,0000,,Don't be shy. Eat up.
+Dialogue: 0,0:02:57.61,0:02:59.40,Default,Gu,0000,0000,0000,,Wh-What? You wanna go?
+Dialogue: 0,0:02:59.92,0:03:01.21,Default,I,0000,0000,0000,,One, two...
+Dialogue: 0,0:03:06.01,0:03:08.75,Default,I,0000,0000,0000,,Thanks. Centipedes have venomous fangs,
+Dialogue: 0,0:03:08.75,0:03:11.97,Default,I,0000,0000,0000,,so you need to knock the head off\Nor they can be dangerous.
+Dialogue: 0,0:03:11.97,0:03:13.13,Default,I,0000,0000,0000,,Keep that in mind.
+Dialogue: 0,0:03:13.96,0:03:15.59,Default,Gu,0000,0000,0000,,L-Let's go.
+Dialogue: 0,0:03:17.14,0:03:21.01,Default,A,0000,0000,0000,,Using bugs against Ikta?\NTalk about not knowing your enemy.
+Dialogue: 0,0:03:21.51,0:03:23.54,Default,T,0000,0000,0000,,Still, that was terrible.
+Dialogue: 0,0:03:23.54,0:03:25.39,Default,H,0000,0000,0000,,I couldn't handle it.
+Dialogue: 0,0:03:25.67,0:03:28.64,Default,I,0000,0000,0000,,Hey, don't you think it's cute\Nhow childish they are?
+Dialogue: 0,0:03:28.64,0:03:32.34,Default,M,0000,0000,0000,,Eh, the best way to deal with \Nthose types is to ignore them.
+Dialogue: 0,0:03:32.34,0:03:34.73,Default,M,0000,0000,0000,,The smallest dogs always bark the loudest.
+Dialogue: 0,0:03:34.73,0:03:37.27,Default,Both,0000,0000,0000,,That sounds especially true coming from you.
+Dialogue: 0,0:03:37.69,0:03:40.15,Default,H,0000,0000,0000,,Why are you talking in sync there?
+Dialogue: 0,0:03:42.91,0:03:44.26,Default,Sh,0000,0000,0000,,Thank you for the escort.
+Dialogue: 0,0:03:44.26,0:03:45.53,Default,Sh,0000,0000,0000,,I appreciate it.
+Dialogue: 0,0:03:46.00,0:03:47.24,Default,Gu,0000,0000,0000,,Your words honor us.
+Dialogue: 0,0:03:47.24,0:03:49.91,Default,Gu,0000,0000,0000,,Please focus on your studies without worry.
+Dialogue: 0,0:03:55.89,0:03:59.00,Default,Sh,0000,0000,0000,,May I sit here, Warrant Officer Solork?
+Dialogue: 0,0:03:59.49,0:04:03.03,Default,I,0000,0000,0000,,Neither the desk nor the chair belongs to me.
+Dialogue: 0,0:04:03.03,0:04:06.89,Default,I,0000,0000,0000,,Do what you want, Warrant Officer Chamille.
+Dialogue: 0,0:04:07.94,0:04:09.19,Default,Gu,0000,0000,0000,,Quiet, everyone.
+Dialogue: 0,0:04:09.19,0:04:11.39,Default,Gu,0000,0000,0000,,This is the lecture on elementary tactics.
+Dialogue: 0,0:04:13.34,0:04:17.99,Default,Gu,0000,0000,0000,,We will begin with chapter two, \Nsection four, on the Japonic war.
+Dialogue: 0,0:04:18.68,0:04:21.37,Default,Gu,0000,0000,0000,,In Imperial Year 788,
+Dialogue: 0,0:04:21.37,0:04:24.42,Default,Gu,0000,0000,0000,,an expedition was conducted into\Nthe far-eastern state of Japonic,
+Dialogue: 0,0:04:22.78,0:04:24.78,sign_6301_57_Are_you_enjoying,Gu,0000,0000,0000,,Are you enjoying your life here?
+Dialogue: 0,0:04:24.42,0:04:26.87,Default,Gu,0000,0000,0000,,which is presently Kioka Republic territory.
+Dialogue: 0,0:04:28.87,0:04:32.87,sign_6447_58_It_s_terrible__I,Gu,0000,0000,0000,,It's terrible. I can't nap or\Nbring in lovers.
+Dialogue: 0,0:04:36.83,0:04:41.42,sign_6638_59_Are_women_all_yo,Gu,0000,0000,0000,,Are women all you think about?\NI'm not sure what to say\Nabout that, honestly.
+Dialogue: 0,0:04:44.16,0:04:48.62,Default,Gu,0000,0000,0000,,What battle was notable for excellent \Nperformance by its low-ranked officers?
+Dialogue: 0,0:04:45.47,0:04:47.85,sign_6845_60_Are_you_too_youn,Gu,0000,0000,0000,,Sorry. You're too young\Nto talk about this, huh?
+Dialogue: 0,0:04:48.62,0:04:50.31,Default,Gu,0000,0000,0000,,Warrant Officer Chamille?
+Dialogue: 0,0:04:53.34,0:04:54.94,Default,I,0000,0000,0000,,Page 132.
+Dialogue: 0,0:04:57.36,0:04:59.94,Default,S,0000,0000,0000,,The Battle of A-Abhilia.
+Dialogue: 0,0:04:59.94,0:05:01.24,Default,Gu,0000,0000,0000,,Correct.
+Dialogue: 0,0:05:01.24,0:05:05.07,Default,Gu,0000,0000,0000,,Now, tell me why this battle\Nwas historically significant,
+Dialogue: 0,0:05:05.57,0:05:06.61,Default,Gu,0000,0000,0000,,Warrant Officer Solork.
+Dialogue: 0,0:05:10.06,0:05:13.92,Default,I,0000,0000,0000,,The commanding officer on the\Nimperial side was Captain Ilshim Giorgo.
+Dialogue: 0,0:05:13.92,0:05:16.73,Default,I,0000,0000,0000,,He and the 800 men in \Nhis independent battalion
+Dialogue: 0,0:05:16.73,0:05:20.39,Default,I,0000,0000,0000,,were surrounded in the wetlands of Abhilia\Nby three corps of Japonic soldiers,
+Dialogue: 0,0:05:20.39,0:05:22.63,Default,I,0000,0000,0000,,numbering about 1600,
+Dialogue: 0,0:05:22.80,0:05:24.87,Default,I,0000,0000,0000,,and were on the brink of annihilation.
+Dialogue: 0,0:05:25.88,0:05:27.93,Default,I,0000,0000,0000,,Tactics at the time called for retreat,
+Dialogue: 0,0:05:27.93,0:05:30.06,Default,I,0000,0000,0000,,but he had his men shed their armor,
+Dialogue: 0,0:05:28.97,0:05:37.39,sign_7888_73_Abhilia_Wetlands,I,0000,0000,0000,,Abhilia Wetlands
+Dialogue: 0,0:05:30.06,0:05:32.14,Default,I,0000,0000,0000,,and eliminated each force in turn
+Dialogue: 0,0:05:32.14,0:05:34.89,Default,I,0000,0000,0000,,before they could regroup.
+Dialogue: 0,0:05:34.89,0:05:37.39,Default,I,0000,0000,0000,,Technically called "defeat in detail."
+Dialogue: 0,0:05:37.80,0:05:40.22,Default,I,0000,0000,0000,,The battle is historically significant
+Dialogue: 0,0:05:40.22,0:05:45.90,Default,I,0000,0000,0000,,as an example of how a tactical victory\Ncan overcome a strategic defeat.
+Dialogue: 0,0:05:45.90,0:05:47.04,Default,Gu,0000,0000,0000,,Very good.
+Dialogue: 0,0:05:47.04,0:05:49.53,Default,I,0000,0000,0000,,But is this really correct?
+Dialogue: 0,0:05:49.53,0:05:51.38,Default,I,0000,0000,0000,,His true genius
+Dialogue: 0,0:05:51.38,0:05:56.29,Default,I,0000,0000,0000,,was predicting where his units and\Nthe enemy's would be and {\i1}when{\i0}.
+Dialogue: 0,0:05:56.64,0:05:57.79,Default,I,0000,0000,0000,,Do you understand?
+Dialogue: 0,0:05:57.79,0:06:02.53,Default,I,0000,0000,0000,,In a war where decisions were based on\N unit positions and relative strength,
+Dialogue: 0,0:06:02.53,0:06:06.30,Default,I,0000,0000,0000,,he added a new factor: where each unit \Nwould be at a certain point in time.
+Dialogue: 0,0:06:06.76,0:06:09.30,Default,I,0000,0000,0000,,That was his real accomplishment.
+Dialogue: 0,0:06:09.30,0:06:10.80,Default,Gu,0000,0000,0000,,Warrant Officer S-Solork!
+Dialogue: 0,0:06:10.80,0:06:12.62,Default,I,0000,0000,0000,,If we really wish to learn from him,
+Dialogue: 0,0:06:12.62,0:06:15.75,Default,I,0000,0000,0000,,we can't just sit here and stare at the map.
+Dialogue: 0,0:06:16.31,0:06:18.69,Default,I,0000,0000,0000,,We must picture the units\Nmoving in real time,
+Dialogue: 0,0:06:18.69,0:06:21.71,Default,I,0000,0000,0000,,as if we're playing blindfolded chess.
+Dialogue: 0,0:06:22.39,0:06:23.21,Default,,0000,0000,0000,,That's all.
+Dialogue: 0,0:06:30.03,0:06:32.78,sign_9352_93_The_Next_Day,M,0000,0000,0000,,{\fad(1,550)}The Next Day
+Dialogue: 0,0:06:40.52,0:06:41.89,Default,M,0000,0000,0000,,I hate to say it,
+Dialogue: 0,0:06:41.89,0:06:45.21,Default,M,0000,0000,0000,,but with your skills, you could probably\Nsnipe an enemy commander.
+Dialogue: 0,0:06:45.56,0:06:47.23,Default,T,0000,0000,0000,,Thanks, Ma-kun.
+Dialogue: 0,0:06:47.23,0:06:50.56,Default,T,0000,0000,0000,,Being able to shoot a distant enemy\Nis a huge advantage,
+Dialogue: 0,0:06:50.56,0:06:52.98,Default,T,0000,0000,0000,,so I want to master that skill first.
+Dialogue: 0,0:06:53.81,0:06:54.97,Default,M,0000,0000,0000,,That's a big goal.
+Dialogue: 0,0:06:55.34,0:06:57.59,Default,Gu,0000,0000,0000,,Is that you, Toruru?
+Dialogue: 0,0:06:58.25,0:07:01.60,Default,Gu,0000,0000,0000,,Look, Sushura. The Imperial Knight is here.
+Dialogue: 0,0:07:02.47,0:07:05.02,Default,Gu,0000,0000,0000,,It's been a long time, Toruru.
+Dialogue: 0,0:07:05.02,0:07:09.99,Default,Gu,0000,0000,0000,,We just got back from the \NNorthern Garrison fortress.
+Dialogue: 0,0:07:10.36,0:07:12.03,Default,Gu,0000,0000,0000,,You a friend of his?
+Dialogue: 0,0:07:12.03,0:07:14.40,Default,Gu,0000,0000,0000,,I'm Sarihaslag Remeon.
+Dialogue: 0,0:07:14.40,0:07:16.60,Default,Gu,0000,0000,0000,,His brother.
+Dialogue: 0,0:07:16.60,0:07:20.00,Default,Gu,0000,0000,0000,,And the big guy is Sushuraf Remeon.
+Dialogue: 0,0:07:20.00,0:07:20.76,Default,Gu,0000,0000,0000,,And you are?
+Dialogue: 0,0:07:20.76,0:07:23.50,Default,M,0000,0000,0000,,Warrant Officer M-Matthew Tetdrich.
+Dialogue: 0,0:07:24.92,0:07:28.20,Default,Gu,0000,0000,0000,,One of the five who saved \Nthe Third Princess, right?
+Dialogue: 0,0:07:28.20,0:07:31.26,Default,Gu,0000,0000,0000,,Well, as his brother, I should thank you.
+Dialogue: 0,0:07:31.26,0:07:33.97,Default,Gu,0000,0000,0000,,He slowed you down, didn't he?
+Dialogue: 0,0:07:33.97,0:07:35.39,Default,Gu,0000,0000,0000,,My little brother, I mean.
+Dialogue: 0,0:07:35.39,0:07:38.22,Default,M,0000,0000,0000,,No, Torway actually...
+Dialogue: 0,0:07:38.22,0:07:41.85,Default,Gu,0000,0000,0000,,You don't need to defend him \Nwhen he doesn't deserve it.
+Dialogue: 0,0:07:41.85,0:07:44.48,Default,Gu,0000,0000,0000,,While he's good at shooting from afar,
+Dialogue: 0,0:07:44.48,0:07:46.93,Default,Gu,0000,0000,0000,,that's because he doesn't\N want to be near the enemy.
+Dialogue: 0,0:07:46.93,0:07:49.23,Default,Gu,0000,0000,0000,,He's a huge coward.
+Dialogue: 0,0:07:49.23,0:07:51.03,Default,Gu,0000,0000,0000,,Right, Toruru?
+Dialogue: 0,0:07:53.03,0:07:54.93,Default,Gu,0000,0000,0000,,So, Matthew-kun,
+Dialogue: 0,0:07:54.93,0:07:57.48,Default,Gu,0000,0000,0000,,as soon as things start to\Nlook even a little bad,
+Dialogue: 0,0:07:57.48,0:07:59.47,Default,Gu,0000,0000,0000,,he'll abandon his comrades and run—
+Dialogue: 0,0:07:59.47,0:08:01.20,Default,T,0000,0000,0000,,I won't run!
+Dialogue: 0,0:08:02.54,0:08:04.58,Default,Gu,0000,0000,0000,,Hey, Toruru,
+Dialogue: 0,0:08:04.58,0:08:07.54,Default,Gu,0000,0000,0000,,who said you could interrupt me?
+Dialogue: 0,0:08:08.52,0:08:09.80,Default,T,0000,0000,0000,,I-I...
+Dialogue: 0,0:08:09.80,0:08:12.00,Default,Gu,0000,0000,0000,,You what?!
+Dialogue: 0,0:08:12.00,0:08:13.73,Default,Gu,0000,0000,0000,,Come out and say it!
+Dialogue: 0,0:08:14.20,0:08:18.01,Default,I,0000,0000,0000,,"I feel sick just looking at your face."
+Dialogue: 0,0:08:18.01,0:08:22.02,Default,I,0000,0000,0000,,"I wish it would explode."
+Dialogue: 0,0:08:23.43,0:08:25.74,Default,I,0000,0000,0000,,It is written in the scriptures \Nof the Aledelans...
+Dialogue: 0,0:08:25.74,0:08:29.02,Default,I,0000,0000,0000,,"No mercy for sadistic, hot assholes."
+Dialogue: 0,0:08:36.09,0:08:37.31,Default,I,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:08:37.31,0:08:38.45,Default,I,0000,0000,0000,,I took off the head.
+Dialogue: 0,0:08:38.66,0:08:40.20,Default,M,0000,0000,0000,,I-Ikkun...
+Dialogue: 0,0:08:40.62,0:08:42.08,Default,I,0000,0000,0000,,Stop calling me that.
+Dialogue: 0,0:08:42.51,0:08:43.77,Default,Gu,0000,0000,0000,,Who are you?
+Dialogue: 0,0:08:43.77,0:08:44.96,Default,Gu,0000,0000,0000,,A friend of Toruru?
+Dialogue: 0,0:08:45.30,0:08:49.02,Default,I,0000,0000,0000,,Some pretty boys I can handle,\Nand some I can't.
+Dialogue: 0,0:08:49.02,0:08:50.88,Default,I,0000,0000,0000,,You're in the latter camp.
+Dialogue: 0,0:08:50.88,0:08:52.75,Default,I,0000,0000,0000,,Appearance court declares you guilty.
+Dialogue: 0,0:08:52.75,0:08:55.02,Default,I,0000,0000,0000,,You are sentenced to explode, immediately.
+Dialogue: 0,0:08:58.10,0:08:59.13,Default,M,0000,0000,0000,,Ikta!
+Dialogue: 0,0:09:00.25,0:09:02.05,Default,Gu,0000,0000,0000,,Just like I said!
+Dialogue: 0,0:09:02.05,0:09:04.40,Default,Gu,0000,0000,0000,,His friend's being hit right in front of him,
+Dialogue: 0,0:09:04.40,0:09:05.73,Default,Gu,0000,0000,0000,,but he's too scared to stop me!
+Dialogue: 0,0:09:06.78,0:09:10.73,Default,I,0000,0000,0000,,Not only are you an asshole sadist,\Nyou're stupid, too?
+Dialogue: 0,0:09:11.99,0:09:15.55,Default,I,0000,0000,0000,,If you were the commander \Nin a war of attrition,
+Dialogue: 0,0:09:15.55,0:09:19.58,Default,I,0000,0000,0000,,you'd fall for the enemy's provocations\N and be wiped out!
+Dialogue: 0,0:09:19.58,0:09:21.83,Default,Gu,0000,0000,0000,,You're still running your mouth?!
+Dialogue: 0,0:09:21.83,0:09:23.57,Default,I,0000,0000,0000,,Sure am.
+Dialogue: 0,0:09:23.57,0:09:26.42,Default,I,0000,0000,0000,,A barbarian punches someone \Nwhen he feels like it,
+Dialogue: 0,0:09:26.42,0:09:29.19,Default,I,0000,0000,0000,,a soldier attacks when it's time to attack,
+Dialogue: 0,0:09:29.19,0:09:34.05,Default,I,0000,0000,0000,,and Ikta Solork says everything he wants\N whenever he wants to say it.
+Dialogue: 0,0:09:39.89,0:09:40.89,Default,Gu,0000,0000,0000,,You asshole!
+Dialogue: 0,0:09:42.56,0:09:43.81,Default,Gu,0000,0000,0000,,Your turn.
+Dialogue: 0,0:09:44.70,0:09:47.02,Default,Y,0000,0000,0000,,I don't know what's going on, but all right.
+Dialogue: 0,0:09:48.16,0:09:53.15,Default,Gu,0000,0000,0000,,I see interaction between soldiers \Nis a very violent thing, Yatori.
+Dialogue: 0,0:09:53.15,0:09:55.74,Default,Gu,0000,0000,0000,,P-Princess Chamille...
+Dialogue: 0,0:09:55.98,0:09:56.91,Default,Y,0000,0000,0000,,Yes.
+Dialogue: 0,0:09:56.91,0:10:01.48,Default,Y,0000,0000,0000,,I believe Ikta asked the upperclassmen\Nto spar with him.
+Dialogue: 0,0:10:01.48,0:10:02.74,Default,Y,0000,0000,0000,,Ikta, what are the rules?
+Dialogue: 0,0:10:02.74,0:10:06.50,Default,I,0000,0000,0000,,Five versus one, and you're allowed \Nto attack after they're down, I guess.
+Dialogue: 0,0:10:06.50,0:10:07.76,Default,Y,0000,0000,0000,,Roger.
+Dialogue: 0,0:10:09.57,0:10:11.86,Default,Y,0000,0000,0000,,Since he's been knocked down,\NI, Yatorishino Igsem,
+Dialogue: 0,0:10:11.86,0:10:14.13,Default,Y,0000,0000,0000,,shall take his place.
+Dialogue: 0,0:10:14.53,0:10:16.13,Default,Y,0000,0000,0000,,Let us resume.
+Dialogue: 0,0:10:17.44,0:10:18.46,Default,Y,0000,0000,0000,,U-Uh, hang on—
+Dialogue: 0,0:10:23.55,0:10:24.94,Default,Gu,0000,0000,0000,,Don't screw with us—
+Dialogue: 0,0:10:28.44,0:10:29.44,Default,I,0000,0000,0000,,Now...
+Dialogue: 0,0:10:30.24,0:10:31.48,Default,I,0000,0000,0000,,Who's next?
+Dialogue: 0,0:10:32.75,0:10:34.23,Default,Gu,0000,0000,0000,,Don't get cocky.
+Dialogue: 0,0:10:35.22,0:10:36.85,Default,Gu,0000,0000,0000,,Don't, Sushura.
+Dialogue: 0,0:10:36.85,0:10:37.53,Default,Gu,0000,0000,0000,,Stop it.
+Dialogue: 0,0:10:37.90,0:10:39.91,Default,Gu,0000,0000,0000,,That's enough sparring.
+Dialogue: 0,0:10:40.31,0:10:44.32,Default,Gu,0000,0000,0000,,Princess, we'll be leaving.
+Dialogue: 0,0:10:47.16,0:10:49.34,Default,Gu,0000,0000,0000,,Don't think this is the end.
+Dialogue: 0,0:10:50.14,0:10:51.95,Default,H,0000,0000,0000,,Mil, make some ice.
+Dialogue: 0,0:10:51.95,0:10:54.11,Default,I,0000,0000,0000,,My stomach hurts...
+Dialogue: 0,0:10:54.67,0:10:56.38,Default,I,0000,0000,0000,,My back hurts...
+Dialogue: 0,0:10:57.53,0:10:59.68,Default,Y,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:11:00.10,0:11:02.23,Default,Y,0000,0000,0000,,Ikta's a lot tougher than he looks.
+Dialogue: 0,0:11:02.23,0:11:03.17,Default,T,0000,0000,0000,,But...
+Dialogue: 0,0:11:03.83,0:11:05.26,Default,T,0000,0000,0000,,It's my fault my brothers...
+Dialogue: 0,0:11:05.26,0:11:07.47,Default,I,0000,0000,0000,,Where'd you get that idea, hottie?
+Dialogue: 0,0:11:08.33,0:11:13.44,Default,I,0000,0000,0000,,A sadistic hottie interrupted my nap,\Nso I got him back, is all.
+Dialogue: 0,0:11:14.32,0:11:15.90,Default,M,0000,0000,0000,,You're crazy.
+Dialogue: 0,0:11:15.90,0:11:17.44,Default,C,0000,0000,0000,,I know that was planned, Solork.
+Dialogue: 0,0:11:18.12,0:11:22.57,Default,C,0000,0000,0000,,You started that fight knowing that\NYatori and I were coming.
+Dialogue: 0,0:11:22.92,0:11:24.25,Default,I,0000,0000,0000,,Hey, Haro.
+Dialogue: 0,0:11:24.25,0:11:27.11,Default,I,0000,0000,0000,,Can you give this princess, \Nwho wants to show off her insight,
+Dialogue: 0,0:11:27.11,0:11:30.58,Default,I,0000,0000,0000,,some advice from an elder?
+Dialogue: 0,0:11:31.32,0:11:32.61,Default,,0000,0000,0000,,Let's see...
+Dialogue: 0,0:11:33.45,0:11:34.92,Default,H,0000,0000,0000,,Some things are better left unsaid?
+Dialogue: 0,0:11:36.09,0:11:37.52,Default,H,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:11:38.47,0:11:39.97,Default,I,0000,0000,0000,,Hey, Torway.
+Dialogue: 0,0:11:40.53,0:11:42.97,Default,I,0000,0000,0000,,Do you know why you fight a war of attrition?
+Dialogue: 0,0:11:43.37,0:11:44.49,Default,T,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:11:44.89,0:11:47.30,Default,T,0000,0000,0000,,You want to avoid a decisive battle,
+Dialogue: 0,0:11:47.30,0:11:50.98,Default,T,0000,0000,0000,,buy time, and wait for another chance, right?
+Dialogue: 0,0:11:51.97,0:11:53.48,Default,I,0000,0000,0000,,If you understand, then fine.
+Dialogue: 0,0:11:54.05,0:11:57.33,Default,I,0000,0000,0000,,But, well, that's the most difficult thing.
+Dialogue: 0,0:11:59.23,0:12:01.98,sign_17245_204_Three_Months_Lat,,0000,0000,0000,,{\fad(1000,1)}Three Months Later
+Dialogue: 0,0:12:00.95,0:12:01.99,Alderamin-top,Gu,0000,0000,0000,,Listen up.
+Dialogue: 0,0:12:01.99,0:12:06.49,Default,Gu,0000,0000,0000,,You will now each be given\N a platoon of imperial soldiers!
+Dialogue: 0,0:12:07.08,0:12:09.12,Default,Gu,0000,0000,0000,,This is a big responsibility, so own it!
+Dialogue: 0,0:12:09.87,0:12:12.08,Default,All,0000,0000,0000,,Sir, yes sir!
+Dialogue: 0,0:12:12.60,0:12:14.54,Default,gu,0000,0000,0000,,Warrant Officer Yatorishino Igsem.
+Dialogue: 0,0:12:14.54,0:12:16.34,Default,gu,0000,0000,0000,,Fire Troop Platoon 1!
+Dialogue: 0,0:12:17.86,0:12:19.71,Default,Y,0000,0000,0000,,It is an honor, sir.
+Dialogue: 0,0:12:21.47,0:12:25.09,Default,Gu,0000,0000,0000,,Warrant Officer Torway Remeon, \NAir Rifle Platoon 1.
+Dialogue: 0,0:12:26.73,0:12:28.35,Default,T,0000,0000,0000,,It is an honor, sir.
+Dialogue: 0,0:12:30.76,0:12:32.35,Default,Gu,0000,0000,0000,,Warrant Officer Ikta Solork.
+Dialogue: 0,0:12:32.82,0:12:34.85,Default,Gu,0000,0000,0000,,Light Troop Platoon 3.
+Dialogue: 0,0:12:35.93,0:12:38.12,Default,I,0000,0000,0000,,It's an honor, sir.
+Dialogue: 0,0:12:40.35,0:12:44.11,Default,Gu,0000,0000,0000,,Congratulations on assuming command of \Nthe platoon, Warrant Officer Solork.
+Dialogue: 0,0:12:44.11,0:12:45.99,Default,Gu,0000,0000,0000,,We're glad to have you here.
+Dialogue: 0,0:12:46.43,0:12:48.65,Default,I,0000,0000,0000,,Thanks. You, too.
+Dialogue: 0,0:12:48.65,0:12:50.20,Default,I,0000,0000,0000,,What's your name, Sergeant Major?
+Dialogue: 0,0:12:50.47,0:12:53.21,Default,Gi,0000,0000,0000,,I believe you already know my name.
+Dialogue: 0,0:12:53.96,0:12:55.96,Default,I,0000,0000,0000,,What? Have we met before?
+Dialogue: 0,0:12:56.84,0:12:58.85,Default,Gi,0000,0000,0000,,Sergeant Major Suya Mitcalif.
+Dialogue: 0,0:12:58.85,0:13:01.80,Default,Gi,0000,0000,0000,,You were on intimate terms \Nwith my mother two years ago.
+Dialogue: 0,0:13:04.07,0:13:07.55,Default,I,0000,0000,0000,,Are you Amishia's...
+Dialogue: 0,0:13:07.55,0:13:09.55,Default,Gi,0000,0000,0000,,Yes. Her daughter.
+Dialogue: 0,0:13:09.91,0:13:14.73,Default,Gi,0000,0000,0000,,But, Warrant Officer, \Nplease never say her name again.
+Dialogue: 0,0:13:15.54,0:13:17.84,Default,Gi,0000,0000,0000,,You adulterer.
+Dialogue: 0,0:13:18.70,0:13:21.05,Default,All,0000,0000,0000,,The daughter of a woman \Nyou were sleeping with?!
+Dialogue: 0,0:13:22.34,0:13:25.11,Default,Y,0000,0000,0000,,I can't say I approve of breaking\N a married woman's vows.
+Dialogue: 0,0:13:25.64,0:13:27.61,Default,I,0000,0000,0000,,I was told she was divorced.
+Dialogue: 0,0:13:28.07,0:13:32.37,Default,I,0000,0000,0000,,Anyway, the whole platoon knows about it.
+Dialogue: 0,0:13:33.19,0:13:36.33,Default,I,0000,0000,0000,,Nobody's going to listen to me.
+Dialogue: 0,0:13:36.33,0:13:39.29,Default,I,0000,0000,0000,,Suya's not even letting me lead.
+Dialogue: 0,0:13:39.29,0:13:40.84,Default,Y,0000,0000,0000,,Solve that problem yourself.
+Dialogue: 0,0:13:41.23,0:13:43.55,Default,Y,0000,0000,0000,,I haven't the slightest bit of sympathy.
+Dialogue: 0,0:13:44.69,0:13:46.27,Default,I,0000,0000,0000,,Fine.
+Dialogue: 0,0:13:46.27,0:13:48.63,Default,I,0000,0000,0000,,I won't ask for your help anymore.
+Dialogue: 0,0:13:50.69,0:13:53.15,Default,Y,0000,0000,0000,,Please remain seated, Your Highness.
+Dialogue: 0,0:13:53.15,0:13:54.64,Default,Y,0000,0000,0000,,You too, Torway.
+Dialogue: 0,0:13:54.64,0:13:56.13,Default,Sh,0000,0000,0000,,But Yatori...
+Dialogue: 0,0:13:56.13,0:13:59.40,Default,T,0000,0000,0000,,He's done so much for me...
+Dialogue: 0,0:13:59.40,0:14:01.90,Default,Y,0000,0000,0000,,His own carelessness brought this on.
+Dialogue: 0,0:14:04.38,0:14:07.22,Default,Y,0000,0000,0000,,It just means there's no need to worry.
+Dialogue: 0,0:14:07.22,0:14:09.28,Default,Y,0000,0000,0000,,If that was enough to stop him,
+Dialogue: 0,0:14:09.66,0:14:13.54,Default,Y,0000,0000,0000,,Ikta Solork wouldn't be here\Nin the first place.
+Dialogue: 0,0:14:13.54,0:14:14.71,Default,Gu,0000,0000,0000,,Stop.
+Dialogue: 0,0:14:15.44,0:14:17.88,Default,Gu,0000,0000,0000,,All troops, left.
+Dialogue: 0,0:14:20.45,0:14:22.54,Default,I,0000,0000,0000,,They're pretty well-trained.
+Dialogue: 0,0:14:27.16,0:14:28.49,Default,Gu,0000,0000,0000,,Look at that.
+Dialogue: 0,0:14:28.49,0:14:30.43,Default,Gu,0000,0000,0000,,His troops are ignoring him.
+Dialogue: 0,0:14:31.06,0:14:34.41,Default,Gu,0000,0000,0000,,We need to show him his place.
+Dialogue: 0,0:14:35.59,0:14:36.93,Default,M,0000,0000,0000,,Th-They got us!
+Dialogue: 0,0:14:36.93,0:14:38.94,Default,M,0000,0000,0000,,This is bad! Ultra bad!
+Dialogue: 0,0:14:38.94,0:14:40.73,Default,H,0000,0000,0000,,What's bad?
+Dialogue: 0,0:14:40.73,0:14:42.38,Default,M,0000,0000,0000,,The mock battle!
+Dialogue: 0,0:14:42.38,0:14:44.74,Default,M,0000,0000,0000,,They put up the details for it!
+Dialogue: 0,0:14:44.74,0:14:49.15,Default,T,0000,0000,0000,,Six platoons will split into two \Nand fight with paint rounds, right?
+Dialogue: 0,0:14:49.15,0:14:50.61,Default,M,0000,0000,0000,,The problem's how they split it!
+Dialogue: 0,0:14:51.07,0:14:53.90,Default,M,0000,0000,0000,,One side is me, Ikta, and Torway,
+Dialogue: 0,0:14:53.90,0:14:58.12,Default,M,0000,0000,0000,,and the other is Yatori, Captain Sarihaslag,\Nand Lieutenant Sushura!
+Dialogue: 0,0:15:00.30,0:15:05.63,Default,I,0000,0000,0000,,So, graduated officers are \Ncoming back to bully us, huh?
+Dialogue: 0,0:15:05.63,0:15:09.01,Default,Y,0000,0000,0000,,I'm surprised they liked me so much.
+Dialogue: 0,0:15:09.01,0:15:11.39,Default,M,0000,0000,0000,,Is now really the time to be so relaxed?
+Dialogue: 0,0:15:11.66,0:15:14.29,Default,T,0000,0000,0000,,I-I'm sorry. It's my fault.
+Dialogue: 0,0:15:14.89,0:15:16.81,Default,I,0000,0000,0000,,Don't get so cocky, hottie.
+Dialogue: 0,0:15:16.81,0:15:20.56,Default,I,0000,0000,0000,,I'm obviously the main target\Nfor their revenge.
+Dialogue: 0,0:15:20.91,0:15:23.70,Default,I,0000,0000,0000,,Honestly, Matthew's just an afterthought.
+Dialogue: 0,0:15:23.70,0:15:24.93,Default,Y,0000,0000,0000,,I agree.
+Dialogue: 0,0:15:24.93,0:15:26.32,Default,Y,0000,0000,0000,,I feel bad for him.
+Dialogue: 0,0:15:26.63,0:15:29.82,Default,M,0000,0000,0000,,Seriously, why do you two only agree\Nwhen it's time to pick on me?
+Dialogue: 0,0:15:30.35,0:15:32.95,Default,I,0000,0000,0000,,What about Haro's medic squad?
+Dialogue: 0,0:15:32.95,0:15:36.33,Default,h,0000,0000,0000,,I think we'll be treating \Nthe wounded from both sides
+Dialogue: 0,0:15:36.33,0:15:38.70,Default,h,0000,0000,0000,,rather than participating in the battle.
+Dialogue: 0,0:15:39.01,0:15:41.58,Default,M,0000,0000,0000,,Now's not the time to worry \Nabout other people!
+Dialogue: 0,0:15:42.11,0:15:43.88,Default,I,0000,0000,0000,,Now, calm down, Matthew.
+Dialogue: 0,0:15:44.15,0:15:45.88,Default,I,0000,0000,0000,,This is just an exercise.
+Dialogue: 0,0:15:45.88,0:15:50.88,Default,I,0000,0000,0000,,We've been in a real experience \Nwhere we risked our lives, right?
+Dialogue: 0,0:15:51.14,0:15:54.67,Default,I,0000,0000,0000,,Anyway, I'm off to go turn \Ndanger into opportunity.
+Dialogue: 0,0:15:58.37,0:16:00.79,Default,Gi,0000,0000,0000,,So, what do you want?
+Dialogue: 0,0:16:00.79,0:16:04.05,Default,Gi,0000,0000,0000,,I don't need your input for \Nthe next training exercise.
+Dialogue: 0,0:16:04.05,0:16:06.07,Default,I,0000,0000,0000,,You're not even giving me a chance, huh?
+Dialogue: 0,0:16:06.61,0:16:10.40,Default,I,0000,0000,0000,,Is it because I slept with your mom?
+Dialogue: 0,0:16:12.20,0:16:13.53,Default,Gi,0000,0000,0000,,No...
+Dialogue: 0,0:16:13.78,0:16:14.99,Default,I,0000,0000,0000,,I see.
+Dialogue: 0,0:16:14.99,0:16:18.47,Default,I,0000,0000,0000,,So you're not disrupting the chain of\Ncommand over a personal grudge.
+Dialogue: 0,0:16:19.38,0:16:20.65,Default,I,0000,0000,0000,,Then why is it?
+Dialogue: 0,0:16:20.65,0:16:22.04,Default,Gi,0000,0000,0000,,It's because...
+Dialogue: 0,0:16:22.60,0:16:25.54,Default,Gi,0000,0000,0000,,Your physical aptitude is below standards.
+Dialogue: 0,0:16:25.54,0:16:28.30,Default,Gi,0000,0000,0000,,And I can't see you as fit \Nfor command on the ground.
+Dialogue: 0,0:16:29.60,0:16:30.60,Default,I,0000,0000,0000,,Is that the reason?
+Dialogue: 0,0:16:30.60,0:16:32.19,Default,Gi,0000,0000,0000,,Th-That's right.
+Dialogue: 0,0:16:32.19,0:16:36.18,Default,Gi,0000,0000,0000,,If you're so good at desk work,\Nyou should do that instead of command.
+Dialogue: 0,0:16:36.67,0:16:37.81,Default,I,0000,0000,0000,,I see.
+Dialogue: 0,0:16:38.60,0:16:42.23,Default,I,0000,0000,0000,,By the way, Suya, you heard \Nabout the mock battle, right?
+Dialogue: 0,0:16:42.23,0:16:44.31,Default,I,0000,0000,0000,,You think you can win that?
+Dialogue: 0,0:16:46.81,0:16:49.13,Default,Gi,0000,0000,0000,,I hate to say it,
+Dialogue: 0,0:16:49.13,0:16:51.14,Default,Gi,0000,0000,0000,,but probably not.
+Dialogue: 0,0:16:51.14,0:16:53.65,Default,Gi,0000,0000,0000,,They're much more skilled than us.
+Dialogue: 0,0:16:53.93,0:16:57.32,Default,I,0000,0000,0000,,In that case, if I lead us to victory,
+Dialogue: 0,0:16:57.32,0:17:00.41,Default,I,0000,0000,0000,,that means I'm a better \Ncommander than you, right?
+Dialogue: 0,0:17:00.41,0:17:01.45,Default,Gi,0000,0000,0000,,Why do you...
+Dialogue: 0,0:17:01.45,0:17:04.97,Default,I,0000,0000,0000,,Because I'd be doing something you couldn't.
+Dialogue: 0,0:17:04.97,0:17:08.00,Default,I,0000,0000,0000,,So, at least, it'd prove I'm not \Nan incompetent commander.
+Dialogue: 0,0:17:12.34,0:17:13.76,Default,I,0000,0000,0000,,Fine.
+Dialogue: 0,0:17:13.76,0:17:15.40,Default,I,0000,0000,0000,,If we win the mock battle,
+Dialogue: 0,0:17:15.40,0:17:18.72,Default,I,0000,0000,0000,,and you play a major role in the victory...
+Dialogue: 0,0:17:18.72,0:17:21.77,Default,I,0000,0000,0000,,You'll let me command the platoon?
+Dialogue: 0,0:17:22.20,0:17:24.77,Default,Gi,0000,0000,0000,,But what if you lose?
+Dialogue: 0,0:17:25.16,0:17:29.74,Default,I,0000,0000,0000,,Then I'll go take a desk job, like you say.
+Dialogue: 0,0:17:29.74,0:17:30.77,Default,I,0000,0000,0000,,Does that work?
+Dialogue: 0,0:17:32.73,0:17:34.12,Default,Gi,0000,0000,0000,,Fine.
+Dialogue: 0,0:17:34.95,0:17:37.78,sign_25294_315_Southern_Urt_For,Gi,0000,0000,0000,,{\fad(800,1)}Southern Urt Forests
+Dialogue: 0,0:17:46.01,0:17:48.39,Default,I,0000,0000,0000,,This weather's a real problem.
+Dialogue: 0,0:17:48.39,0:17:52.39,Default,I,0000,0000,0000,,It's ruining our attempts to tell \Nourselves we're off to a fun picnic.
+Dialogue: 0,0:17:53.43,0:17:55.61,Default,Gu,0000,0000,0000,,I'm sorry, Warrant Officer Remeon,
+Dialogue: 0,0:17:56.11,0:17:58.93,Default,Gu,0000,0000,0000,,but why is our commander... um...
+Dialogue: 0,0:17:59.46,0:18:00.97,Default,Gu,0000,0000,0000,,that man?
+Dialogue: 0,0:18:02.02,0:18:03.97,Default,T,0000,0000,0000,,Because he's the most suited for it.
+Dialogue: 0,0:18:06.73,0:18:09.06,Default,Gu,0000,0000,0000,,The target is 30 kilometers to the south.
+Dialogue: 0,0:18:09.43,0:18:10.76,Default,Gu,0000,0000,0000,,We'll sleep outside tonight
+Dialogue: 0,0:18:10.76,0:18:13.27,Default,Gu,0000,0000,0000,,and arrive tomorrow afternoon.
+Dialogue: 0,0:18:13.27,0:18:16.71,Default,I,0000,0000,0000,,No, we're setting up camp \Nat the site by nightfall.
+Dialogue: 0,0:18:17.81,0:18:19.46,Default,Gu,0000,0000,0000,,Listen, Warrant Officer,
+Dialogue: 0,0:18:19.46,0:18:22.29,Default,Gu,0000,0000,0000,,30 kilometers is as the crows flies.
+Dialogue: 0,0:18:22.29,0:18:24.37,Default,Gu,0000,0000,0000,,You need to think—
+Dialogue: 0,0:18:24.60,0:18:25.50,Default,I,0000,0000,0000,,Yeah.
+Dialogue: 0,0:18:25.50,0:18:27.79,Default,I,0000,0000,0000,,Of course I thought about it.
+Dialogue: 0,0:18:27.79,0:18:30.76,Default,I,0000,0000,0000,,Anyway, can you not scream too much?
+Dialogue: 0,0:18:30.76,0:18:32.80,Default,I,0000,0000,0000,,You're scaring the troops.
+Dialogue: 0,0:18:37.30,0:18:39.77,Default,Gu,0000,0000,0000,,No need to hurry, guys.
+Dialogue: 0,0:18:39.77,0:18:42.30,Default,Gu,0000,0000,0000,,It's easy to get lost on\N their complicated route.
+Dialogue: 0,0:18:42.30,0:18:43.98,Default,Gu,0000,0000,0000,,This'll be easy.
+Dialogue: 0,0:18:42.65,0:18:47.79,Alderamin-overlap-top,Ch,0000,0000,0000,,It seems Captain Sarihaslag \Nknows this training ground well.
+Dialogue: 0,0:18:47.79,0:18:49.19,Default,Ch,0000,0000,0000,,What will Solork do?
+Dialogue: 0,0:18:50.02,0:18:52.44,Default,Y,0000,0000,0000,,It's always hard to guess what Ikta will do.
+Dialogue: 0,0:18:52.88,0:18:55.07,Default,Ch,0000,0000,0000,,Even after knowing him this long?
+Dialogue: 0,0:18:55.73,0:19:00.87,Default,Y,0000,0000,0000,,He takes into account what\Nyou think he's going to do, too.
+Dialogue: 0,0:19:01.38,0:19:03.09,Default,Y,0000,0000,0000,,By the way, Your Highness,
+Dialogue: 0,0:19:03.09,0:19:06.81,Default,Y,0000,0000,0000,,please make sure you're not \Ncaught up in the crossfire.
+Dialogue: 0,0:19:07.28,0:19:08.99,Default,Y,0000,0000,0000,,Stay behind them at all times.
+Dialogue: 0,0:19:09.99,0:19:11.33,Default,CH,0000,0000,0000,,I'm aware.
+Dialogue: 0,0:19:11.83,0:19:15.84,Default,I,0000,0000,0000,,Everyone, you took out what I told \Nyou to from your luggage, right?
+Dialogue: 0,0:19:16.29,0:19:18.42,Default,I,0000,0000,0000,,Okay, all troops, move to the left.
+Dialogue: 0,0:19:21.18,0:19:22.09,Default,I,0000,0000,0000,,All right!
+Dialogue: 0,0:19:22.09,0:19:23.65,Default,I,0000,0000,0000,,Back to march!
+Dialogue: 0,0:19:25.68,0:19:29.69,Default,S,0000,0000,0000,,Warrant Officer, it's against \Norders to throw away our baggage.
+Dialogue: 0,0:19:30.09,0:19:32.27,Default,I,0000,0000,0000,,I'm not throwing them away.
+Dialogue: 0,0:19:32.27,0:19:33.44,Default,I,0000,0000,0000,,This is a supply depot.
+Dialogue: 0,0:19:33.89,0:19:36.94,Default,S,0000,0000,0000,,What if we need them at the battle?
+Dialogue: 0,0:19:36.94,0:19:38.83,Default,I,0000,0000,0000,,I chose what we left carefully.
+Dialogue: 0,0:19:38.83,0:19:42.52,Default,I,0000,0000,0000,,We can dilute the paint for the bullets \Nwith water to get more of it,
+Dialogue: 0,0:19:42.52,0:19:44.48,Default,I,0000,0000,0000,,and with the tent exteriors
+Dialogue: 0,0:19:44.48,0:19:45.70,Default,I,0000,0000,0000,,we can escape the weather.
+Dialogue: 0,0:19:45.70,0:19:47.64,Default,S,0000,0000,0000,,But the higher-ups determined the list—
+Dialogue: 0,0:19:47.64,0:19:52.00,Default,I,0000,0000,0000,,How the baggage is used is within\N the ground command's discretion.
+Dialogue: 0,0:19:52.00,0:19:53.96,Default,I,0000,0000,0000,,That's why we made a depot!
+Dialogue: 0,0:19:59.72,0:20:02.72,sign_28765_361_Exercise_Day_1,I,0000,0000,0000,,Exercise Day 1
+Dialogue: 0,0:20:00.26,0:20:02.72,Alderamin-top,I,0000,0000,0000,,Okay, call roll.
+Dialogue: 0,0:20:03.93,0:20:05.97,Default,Gi,0000,0000,0000,,We really made it before sunset...
+Dialogue: 0,0:20:06.59,0:20:08.00,Default,Gi,0000,0000,0000,,Have you been here before?
+Dialogue: 0,0:20:08.00,0:20:09.74,Default,I,0000,0000,0000,,Nope, it's my first time.
+Dialogue: 0,0:20:09.74,0:20:10.90,Default,Gi,0000,0000,0000,,You're lying!
+Dialogue: 0,0:20:10.90,0:20:14.61,Default,Gi,0000,0000,0000,,You didn't use a map once on\N the way here, Warrant Officer!
+Dialogue: 0,0:20:14.61,0:20:18.51,Default,I,0000,0000,0000,,It's a pain to keep taking the \Nmap out when it's raining.
+Dialogue: 0,0:20:18.86,0:20:22.60,Default,I,0000,0000,0000,,On the other hand, the map in here\Ndoesn't get wet and takes no time at all.
+Dialogue: 0,0:20:22.60,0:20:24.87,Default,I,0000,0000,0000,,The rest is... experience, maybe?
+Dialogue: 0,0:20:26.11,0:20:28.94,Default,I,0000,0000,0000,,My master trained me\N from when I was young.
+Dialogue: 0,0:20:28.94,0:20:31.62,Default,I,0000,0000,0000,,Fieldwork is the most \Nbasic element of science.
+Dialogue: 0,0:20:31.62,0:20:32.94,Default,Gi,0000,0000,0000,,Science?
+Dialogue: 0,0:20:33.39,0:20:36.41,Default,I,0000,0000,0000,,I'll go take a look at the Kuriri River\Nto the south later.
+Dialogue: 0,0:20:36.41,0:20:38.63,Default,I,0000,0000,0000,,Tomorrow, we'll make camp beyond.
+Dialogue: 0,0:20:39.18,0:20:39.88,Default,Gi,0000,0000,0000,,Wha—
+Dialogue: 0,0:20:39.88,0:20:41.44,Default,Gi,0000,0000,0000,,Please wait!
+Dialogue: 0,0:20:41.44,0:20:43.93,Default,Gi,0000,0000,0000,,The orders said the north plains\N were where we are to—
+Dialogue: 0,0:20:43.93,0:20:48.01,Default,i,0000,0000,0000,,They said it was an ideal place \Nfor our forces to meet, is all.
+Dialogue: 0,0:20:48.31,0:20:49.81,Default,i,0000,0000,0000,,I can interpret that to mean
+Dialogue: 0,0:20:49.81,0:20:52.81,Default,i,0000,0000,0000,,I'm allowed to make camp \Nanywhere in the forest I like.
+Dialogue: 0,0:20:53.32,0:20:55.16,Default,i,0000,0000,0000,,If I've got the choice,
+Dialogue: 0,0:20:55.16,0:20:58.32,Default,i,0000,0000,0000,,I want a battlefield that \Nworks to my advantage.
+Dialogue: 0,0:21:00.28,0:21:04.07,sign_28765_361_Exercise_Day_1,I,0000,0000,0000,,{\fad(900,1)}Exercise Day 2
+Dialogue: 0,0:21:06.35,0:21:09.70,Default,Gu,0000,0000,0000,,It's almost noon and there's no sign of them.
+Dialogue: 0,0:21:10.13,0:21:12.39,Default,Gu,0000,0000,0000,,Will they make it by sunset?
+Dialogue: 0,0:21:13.41,0:21:15.07,Default,Y,0000,0000,0000,,Captain Sarihaslag.
+Dialogue: 0,0:21:16.00,0:21:18.68,Default,Y,0000,0000,0000,,My scouts have returned.
+Dialogue: 0,0:21:18.68,0:21:20.70,Default,Y,0000,0000,0000,,The enemy is camped on the other side
+Dialogue: 0,0:21:20.70,0:21:22.72,Default,Y,0000,0000,0000,,of the Kuriri River, to the south.
+Dialogue: 0,0:21:23.10,0:21:24.21,Default,Gu,0000,0000,0000,,What?!
+Dialogue: 0,0:21:24.21,0:21:25.87,Default,Gu,0000,0000,0000,,We're supposed to fight here!
+Dialogue: 0,0:21:25.87,0:21:29.47,Default,Y,0000,0000,0000,,All the orders said was that this \Nwould be an ideal place to meet.
+Dialogue: 0,0:21:30.29,0:21:33.48,Default,Y,0000,0000,0000,,I would not interpret that as\Norders on where we fight.
+Dialogue: 0,0:21:35.20,0:21:37.26,Default,Gu,0000,0000,0000,,A-All forces, advance to the south!
+Dialogue: 0,0:21:37.26,0:21:38.48,Default,Gu,0000,0000,0000,,Hurry!
+Dialogue: 0,0:21:38.48,0:21:39.90,Default,I,0000,0000,0000,,Well, then.
+Dialogue: 0,0:21:39.90,0:21:42.23,Default,I,0000,0000,0000,,Yatori should have noticed by now.
+Dialogue: 0,0:21:42.52,0:21:45.38,Default,I,0000,0000,0000,,The sadistic hottie will start \Nto panic and head down here,
+Dialogue: 0,0:21:45.38,0:21:47.87,Default,I,0000,0000,0000,,since he won't want to be incompetently late.
+Dialogue: 0,0:21:47.87,0:21:50.74,Default,I,0000,0000,0000,,Matthew, Torway, you're ready, right?
+Dialogue: 0,0:21:50.95,0:21:51.74,Default,Both,0000,0000,0000,,Yeah.
+Dialogue: 0,0:21:52.00,0:21:53.00,Default,Both,0000,0000,0000,,Yes.
+Dialogue: 0,0:21:54.38,0:21:57.49,Alderamin-internal/narrator,Narr,0000,0000,0000,,Imperial Year 906, June.
+Dialogue: 0,0:21:57.49,0:22:02.30,Alderamin-internal/narrator,Narr,0000,0000,0000,,It's said that this mock battle \Nis the first time Ikta Solork
+Dialogue: 0,0:22:02.30,0:22:04.65,Alderamin-internal/narrator,Narr,0000,0000,0000,,showed a glimpse of his genius.
+Dialogue: 0,0:23:37.11,0:23:39.86,Default,,0000,0000,0000,,Next time: Watchdogs of the Spirit Tree.
+Dialogue: 0,0:23:37.81,0:23:41.02,Alderamin-Next_Episode,Next time,0000,0000,0000,,{\fad(350,1)}Watchdogs of the Spirit Tree

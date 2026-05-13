@@ -1,0 +1,394 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Flashback,Open Sans Semibold,36,&H00EDD6B5,&H000000FF,&H00B93634,&H00300000,0,0,0,0,100,100,0,0,1,2,1,2,13,13,24,0
+Style: Flashback - Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Episode-Title,Open Sans Semibold,30,&H00F5FBF6,&H000000FF,&H00434443,&H00F0BFAC,0,0,0,0,100,100,0,0,1,2,0,7,40,28,80,0
+Style: Sign,Open Sans Semibold,33,&H00FFFFFF,&H000000FF,&H00241A19,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,8,28,28,27,0
+Style: Preview,Open Sans Semibold,33,&H00FFFFFC,&H000000FF,&H009F5348,&H00000000,1,0,0,0,100,100,0,0,1,0,0,8,28,28,27,0
+Style: To be Continued,Open Sans Semibold,33,&H00FFFFFF,&H000000FF,&H00161A2B,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,3,28,53,133,0
+Style: Episode-Title - End,Open Sans Semibold,36,&H00FDFAD4,&H000000FF,&H00D1842F,&H00F0BFAC,0,0,0,0,100,100,0,0,1,1,0,7,40,28,80,0
+Style: Letter,Open Sans Semibold,33,&H0034332F,&H000000FF,&H00D5E0F3,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,8,28,28,27,0
+Style: Text,Open Sans Semibold,27,&H000F0E0E,&H000000FF,&H00FDEAC4,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,7,28,28,27,0
+Style: Text - Pink,Open Sans Semibold,33,&H000F0E0E,&H000000FF,&H00D8C6F6,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,7,28,28,27,0
+Style: Tobisawa,Open Sans Semibold,33,&H00FFFFFF,&H000000FF,&H000C0501,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,8,27,27,27,0
+Style: Notice,Open Sans Semibold,30,&H0034332F,&H000000FF,&H00FBF9FF,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,7,28,28,27,0
+Style: Italics - Copy,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:22.83,0:00:27.00,Main,Mas,0000,0000,0000,,How come you're taking \NAsuka-senpai's handouts to her?
+Dialogue: 0,0:00:27.42,0:00:29.29,Main,Mi,0000,0000,0000,,What does it matter?
+Dialogue: 0,0:00:29.29,0:00:31.71,Main,Mi,0000,0000,0000,,You don't have practice \Nbecause of the rain, right?
+Dialogue: 0,0:00:31.71,0:00:33.13,Main,Mi,0000,0000,0000,,Come with me, girl.
+Dialogue: 0,0:00:34.66,0:00:37.16,Main,Mas,0000,0000,0000,,You're asking me to be your girl?
+Dialogue: 0,0:00:37.16,0:00:38.64,Main,Mi,0000,0000,0000,,Let's get going.
+Dialogue: 0,0:00:38.64,0:00:42.27,Main,Mas,0000,0000,0000,,Misaki-senpai, my answer is obviously "yes"!
+Dialogue: 0,0:00:43.42,0:00:49.52,Main,A,0000,0000,0000,,{\an8}Your answer is surely up in the sky!
+Dialogue: 0,0:00:48.33,0:00:49.52,Main,Mas,0000,0000,0000,,This voice...
+Dialogue: 0,0:00:49.52,0:00:55.65,Main,A,0000,0000,0000,,{\an8}Break through the darkness \Nand the endless world...
+Dialogue: 0,0:00:50.77,0:00:51.81,Main,Mi,0000,0000,0000,,Asuka?
+Dialogue: 0,0:00:52.60,0:00:54.53,Main,Mas,0000,0000,0000,,She's singing.
+Dialogue: 0,0:00:55.65,0:00:59.95,Main,A,0000,0000,0000,,May your wishes shine eternal,
+Dialogue: 0,0:00:59.95,0:01:04.01,Main,A,0000,0000,0000,,Master of the Heavens, Zephyrion!
+Dialogue: 0,0:02:37.15,0:02:41.28,Episode-Title,Title,0000,0000,0000,,{\fad(983,578)}Episode Nine:\N The Answer is Up in the Sky!
+Dialogue: 0,0:02:38.10,0:02:39.51,Main,Mi,0000,0000,0000,,I feel like I wasted my time.
+Dialogue: 0,0:02:39.51,0:02:42.61,Main,Mas,0000,0000,0000,,That was the {\i1}Zephyrion{\i0} theme song.
+Dialogue: 0,0:02:42.61,0:02:43.68,Main,Mi,0000,0000,0000,,What's {\i1}Zephyrion{\i0}?
+Dialogue: 0,0:02:43.98,0:02:46.27,Main,Mas,0000,0000,0000,,A mecha anime that aired when we were kids.
+Dialogue: 0,0:02:46.27,0:02:49.28,Main,Mas,0000,0000,0000,,The weak, no-good \Nprotagonist—wait for it—
+Dialogue: 0,0:02:49.06,0:02:49.54,Main,Mi,0000,0000,0000,,{\a6}What?
+Dialogue: 0,0:02:49.31,0:02:52.39,Main,Mas,0000,0000,0000,,becomes invincible when he pilots Zephyrion!
+Dialogue: 0,0:02:53.23,0:02:54.36,Main,Mi,0000,0000,0000,,It's from Asuka.
+Dialogue: 0,0:02:54.72,0:02:57.77,Main,Mi,0000,0000,0000,,"Thanks for bringing me the handouts.
+Dialogue: 0,0:02:57.77,0:02:59.36,Main,Mi,0000,0000,0000,,My mother passed them on to me.
+Dialogue: 0,0:02:59.36,0:03:01.27,Main,Mi,0000,0000,0000,,Sorry for not noticing you came by."
+Dialogue: 0,0:03:01.27,0:03:03.10,Main,Mas,0000,0000,0000,,Could I borrow that for a second?
+Dialogue: 0,0:03:03.10,0:03:03.78,Main,Mi,0000,0000,0000,,Why?
+Dialogue: 0,0:03:04.67,0:03:08.05,Main,Mas,0000,0000,0000,,"You were singing {\i1}Zephyrion{\i0}'s \Ntheme song just now, weren't you?"
+Dialogue: 0,0:03:08.05,0:03:09.51,Main,Mas,0000,0000,0000,,Let's Zephyr it sometime.
+Dialogue: 0,0:03:13.48,0:03:14.67,Main,Mas,0000,0000,0000,,She replied.
+Dialogue: 0,0:03:14.86,0:03:16.92,Main,Sign,0000,0000,0000,,"Sure! Zeph, zeph!"
+Dialogue: 0,0:03:16.92,0:03:19.25,Main,Mi,0000,0000,0000,,"Zeph, zeph"? Seriously, what?
+Dialogue: 0,0:03:19.25,0:03:20.65,Main,Mas,0000,0000,0000,,I think she's saying, "Yes, yes."
+Dialogue: 0,0:03:20.65,0:03:23.38,Main,Mi,0000,0000,0000,,That's not what I mean. I guess \NI had nothing to worry about.
+Dialogue: 0,0:03:27.36,0:03:29.20,Main,A,0000,0000,0000,,Good morning!
+Dialogue: 0,0:03:29.20,0:03:30.68,Main,Mad,0000,0000,0000,,Oh, morning.
+Dialogue: 0,0:03:30.99,0:03:33.60,Main,Mad,0000,0000,0000,,You seem fine. Thank goodness.
+Dialogue: 0,0:03:33.60,0:03:36.21,Main,A,0000,0000,0000,,I am. Sorry for making you worry.
+Dialogue: 0,0:03:36.21,0:03:38.73,Main,A,0000,0000,0000,,Misaki-chan, thank you for yesterday.
+Dialogue: 0,0:03:39.09,0:03:41.28,Main,Mi,0000,0000,0000,,No problem. Morning.
+Dialogue: 0,0:03:44.20,0:03:48.08,Main,A,0000,0000,0000,,Sorry I couldn't make it to \Npractice yesterday, New Captain.
+Dialogue: 0,0:03:48.08,0:03:50.05,Main,Mad,0000,0000,0000,,Don't be. It was rained out, anyway.
+Dialogue: 0,0:03:50.05,0:03:53.16,Main,Mad,0000,0000,0000,,And could you drop the "new" already?
+Dialogue: 0,0:03:53.50,0:03:54.45,Main,H,0000,0000,0000,,Morning.
+Dialogue: 0,0:03:54.45,0:03:56.59,Main,A,0000,0000,0000,,Good morning, Coach.
+Dialogue: 0,0:03:56.59,0:03:58.33,Main,H,0000,0000,0000,,Are you all right, Asuka?
+Dialogue: 0,0:03:58.33,0:04:01.21,Main,A,0000,0000,0000,,Yes. Sorry to have worried you.
+Dialogue: 0,0:04:01.21,0:04:02.54,Main,Mad,0000,0000,0000,,Think you can practice today?
+Dialogue: 0,0:04:02.54,0:04:03.38,Main,A,0000,0000,0000,,Yeah, I'm totally good.
+Dialogue: 0,0:04:03.38,0:04:05.93,Main,A,0000,0000,0000,,Bring it on, I say!
+Dialogue: 0,0:04:05.93,0:04:07.91,Main,Mad,0000,0000,0000,,{\an8}You don't have to get that worked up.
+Dialogue: 0,0:04:05.93,0:04:07.91,Main,Mi,0000,0000,0000,,Asuka really is different.
+Dialogue: 0,0:04:07.91,0:04:10.31,Main,A,0000,0000,0000,,{\an8}No! Bring it on, I say!
+Dialogue: 0,0:04:08.93,0:04:10.46,Main,Mi,0000,0000,0000,,Compared to me.
+Dialogue: 0,0:04:10.31,0:04:12.11,Main,Mad,0000,0000,0000,,{\an8}You just recovered, so take it easy.
+Dialogue: 0,0:04:11.33,0:04:12.39,Main,H,0000,0000,0000,,You think?
+Dialogue: 0,0:04:12.11,0:04:13.12,Main,A,0000,0000,0000,,No, no!
+Dialogue: 0,0:04:13.12,0:04:16.42,Main,A,0000,0000,0000,,I don't think I'll last five hours without \Nfalling asleep if I don't get worked up!
+Dialogue: 0,0:04:16.42,0:04:17.94,Main,Mad,0000,0000,0000,,Sounds like you, all right.
+Dialogue: 0,0:04:23.35,0:04:25.57,Main,Mas,0000,0000,0000,,A-Asuka-senpai?
+Dialogue: 0,0:04:28.35,0:04:32.07,Main,A,0000,0000,0000,,S-Sorry. I can't fly too well.
+Dialogue: 0,0:04:32.45,0:04:35.03,Italics,H,0000,0000,0000,,Fix your posture and try to fly straight.
+Dialogue: 0,0:04:35.03,0:04:36.41,Main,A,0000,0000,0000,,O-Okay!
+Dialogue: 0,0:04:39.18,0:04:41.68,Main,H,0000,0000,0000,,Uh, try a high yo-yo next.
+Dialogue: 0,0:04:41.68,0:04:42.91,Main,A,0000,0000,0000,,Okay!
+Dialogue: 0,0:04:47.40,0:04:49.17,Main,H,0000,0000,0000,,Try a low yo-yo next, then.
+Dialogue: 0,0:04:49.17,0:04:50.71,Main,A,0000,0000,0000,,O-Okay!
+Dialogue: 0,0:04:55.26,0:04:56.09,Main,H,0000,0000,0000,,Asuka?!
+Dialogue: 0,0:05:00.25,0:05:02.68,Main,Mad,0000,0000,0000,,I wonder what's wrong with her.
+Dialogue: 0,0:05:02.68,0:05:04.06,Main,H,0000,0000,0000,,Come here, Asuka.
+Dialogue: 0,0:05:04.06,0:05:05.49,Main,A,0000,0000,0000,,Coming!
+Dialogue: 0,0:05:08.57,0:05:09.49,Main,Mad,0000,0000,0000,,Asuka-chan.
+Dialogue: 0,0:05:13.63,0:05:16.62,Main,A,0000,0000,0000,,Sorry. I'm no good at all.
+Dialogue: 0,0:05:16.96,0:05:20.75,Main,Mas,0000,0000,0000,,Seriously. It's like you've \Nlost your save data.
+Dialogue: 0,0:05:21.39,0:05:22.90,Main,A,0000,0000,0000,,Yeah...
+Dialogue: 0,0:05:24.03,0:05:25.38,Main,A,0000,0000,0000,,I wonder why.
+Dialogue: 0,0:05:27.02,0:05:29.17,Main,H,0000,0000,0000,,Just do some stretches and call it a day.
+Dialogue: 0,0:05:29.77,0:05:30.61,Main,A,0000,0000,0000,,Coach...
+Dialogue: 0,0:05:31.00,0:05:33.83,Main,H,0000,0000,0000,,Try doing some image \Ntraining once you get home.
+Dialogue: 0,0:05:34.76,0:05:37.14,Main,H,0000,0000,0000,,Picture yourself flying correctly.
+Dialogue: 0,0:05:37.95,0:05:39.86,Main,H,0000,0000,0000,,And give it another shot tomorrow.
+Dialogue: 0,0:05:41.27,0:05:42.63,Main,A,0000,0000,0000,,Got it.
+Dialogue: 0,0:05:43.65,0:05:45.58,Main,All,0000,0000,0000,,Good-bye!
+Dialogue: 0,0:05:48.61,0:05:49.82,Main,A,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:05:50.04,0:05:55.23,Main,Mad,0000,0000,0000,,Well, they say even the best \Nathletes go through slumps.
+Dialogue: 0,0:06:01.08,0:06:10.24,Main,A,0000,0000,0000,,Even when I try to light \Na fire and stand up again,
+Dialogue: 0,0:06:11.59,0:06:20.95,Main,A,0000,0000,0000,,{\fad(1,2739)}I'm only reminded of my weakness.
+Dialogue: 0,0:06:30.51,0:06:31.50,Flashback,H,0000,0000,0000,,Hey.
+Dialogue: 0,0:06:34.40,0:06:35.66,Flashback,H,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:06:36.61,0:06:37.41,Flashback,A,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:38.46,0:06:39.92,Flashback,A,0000,0000,0000,,Zephyrion?
+Dialogue: 0,0:06:40.30,0:06:42.80,Flashback,H,0000,0000,0000,,Where are you from? Are you lost?
+Dialogue: 0,0:06:43.07,0:06:44.18,Flashback,A,0000,0000,0000,,I'm...
+Dialogue: 0,0:06:44.83,0:06:46.66,Flashback,A,0000,0000,0000,,I'm not lost.
+Dialogue: 0,0:06:47.54,0:06:48.26,Flashback,H,0000,0000,0000,,Then what?
+Dialogue: 0,0:06:48.63,0:06:52.28,Flashback,A,0000,0000,0000,,I'm a crying, sulking, weak, and no-good girl.
+Dialogue: 0,0:06:52.56,0:06:54.01,Flashback,H,0000,0000,0000,,Isn't that line from {\i1}Zephyrion{\i0}?
+Dialogue: 0,0:06:56.51,0:06:58.52,Flashback,H,0000,0000,0000,,Let's play together, then.
+Dialogue: 0,0:07:00.58,0:07:01.53,Flashback,H,0000,0000,0000,,Come on, let's go.
+Dialogue: 0,0:07:02.31,0:07:03.40,Flashback,A,0000,0000,0000,,Right...
+Dialogue: 0,0:07:28.01,0:07:29.47,Flashback,H,0000,0000,0000,,You're leaving already?
+Dialogue: 0,0:07:29.47,0:07:30.17,Flashback,A,0000,0000,0000,,Yeah.
+Dialogue: 0,0:07:30.70,0:07:34.00,Flashback,A,0000,0000,0000,,But we'd just become friends...
+Dialogue: 0,0:07:37.53,0:07:38.69,Flashback,H,0000,0000,0000,,You can have this.
+Dialogue: 0,0:07:40.68,0:07:41.93,Flashback,A,0000,0000,0000,,But...
+Dialogue: 0,0:07:41.93,0:07:43.15,Flashback,H,0000,0000,0000,,Just take it!
+Dialogue: 0,0:07:45.01,0:07:46.41,Flashback,A,0000,0000,0000,,Thanks!
+Dialogue: 0,0:07:52.48,0:07:54.16,Flashback,H,0000,0000,0000,,Relax. That part was already broken.
+Dialogue: 0,0:08:03.20,0:08:04.94,Main,Mi,0000,0000,0000,,Whatcha doing?
+Dialogue: 0,0:08:09.77,0:08:13.13,Main,Mi,0000,0000,0000,,I heard you couldn't fly, \Nbut you got here just fine.
+Dialogue: 0,0:08:13.53,0:08:14.76,Main,A,0000,0000,0000,,Misaki-chan...
+Dialogue: 0,0:08:15.18,0:08:16.47,Main,Mi,0000,0000,0000,,Hup.
+Dialogue: 0,0:08:16.75,0:08:19.49,Main,Mi,0000,0000,0000,,Here, your lunch. You \Nleft it in the classroom.
+Dialogue: 0,0:08:19.77,0:08:22.07,Main,A,0000,0000,0000,,Th-Thank you.
+Dialogue: 0,0:08:22.07,0:08:23.81,Main,Mi,0000,0000,0000,,You're welcome.
+Dialogue: 0,0:08:29.72,0:08:31.02,Main,Mi,0000,0000,0000,,You're not wearing it, huh?
+Dialogue: 0,0:08:32.50,0:08:33.70,Main,Mi,0000,0000,0000,,That hairpin.
+Dialogue: 0,0:08:34.92,0:08:36.45,Main,A,0000,0000,0000,,For some reason,
+Dialogue: 0,0:08:36.92,0:08:38.98,Main,,0000,0000,0000,,I felt like I shouldn't.
+Dialogue: 0,0:08:39.45,0:08:43.21,Main,A,0000,0000,0000,,My wings might not have been my own.
+Dialogue: 0,0:08:43.88,0:08:46.96,Main,A,0000,0000,0000,,I've wanted to fly ever \Nsince I was a little child.
+Dialogue: 0,0:08:47.53,0:08:49.96,Main,A,0000,0000,0000,,I wanted to change the weak, \Nno-good girl that I was.
+Dialogue: 0,0:08:49.96,0:08:53.57,Main,A,0000,0000,0000,,So when I came to this island and \Ngot to fly for the first time,
+Dialogue: 0,0:08:53.57,0:08:55.30,Main,,0000,0000,0000,,I was really happy.
+Dialogue: 0,0:08:56.18,0:08:59.96,Main,A,0000,0000,0000,,I picked up FC, practiced with all I had,
+Dialogue: 0,0:08:59.96,0:09:02.64,Main,A,0000,0000,0000,,and met a lot of amazing people.
+Dialogue: 0,0:09:02.64,0:09:05.60,Main,A,0000,0000,0000,,I had so much fun.
+Dialogue: 0,0:09:06.98,0:09:11.07,Main,A,0000,0000,0000,,I found Inui-san's FC incredible, too.
+Dialogue: 0,0:09:11.60,0:09:14.27,Main,A,0000,0000,0000,,The fact that someone was \Ncapable of doing that
+Dialogue: 0,0:09:14.77,0:09:19.74,Main,A,0000,0000,0000,,made me feel I could soar even higher.
+Dialogue: 0,0:09:21.58,0:09:25.76,Main,A,0000,0000,0000,,But I was just getting \Ncarried away, wasn't I?
+Dialogue: 0,0:09:26.90,0:09:31.09,Main,A,0000,0000,0000,,I couldn't do a thing in \Nmy match against Inui-san.
+Dialogue: 0,0:09:31.74,0:09:35.34,Main,A,0000,0000,0000,,I hadn't changed at all. I was still \Nthe weak, no good girl I'd always been.
+Dialogue: 0,0:09:36.18,0:09:41.81,Main,A,0000,0000,0000,,The wings that gave me flight until now, \NI'd just borrowed from you and Coach.
+Dialogue: 0,0:09:42.55,0:09:46.20,Main,A,0000,0000,0000,,So I got scared of my weakness...
+Dialogue: 0,0:09:46.20,0:09:48.10,Main,Mi,0000,0000,0000,,...and you couldn't fly anymore, huh?
+Dialogue: 0,0:09:49.96,0:09:50.98,Main,Mi,0000,0000,0000,,I see.
+Dialogue: 0,0:09:57.79,0:10:01.35,Main,Mas,0000,0000,0000,,Practicing by myself feels so pointless.
+Dialogue: 0,0:10:01.35,0:10:05.62,Main,Mad,0000,0000,0000,,What can ya do? Asuka-chan said \Nshe wanted to keep image training.
+Dialogue: 0,0:10:10.33,0:10:12.34,Letter,Sign,0000,0000,0000,,Notice of Absence\N Kurashina Asuka
+Dialogue: 0,0:10:20.05,0:10:25.27,Text,Sign,0000,0000,0000,,Mashiro\NAsuka-senpai is taking time\N off from the team! (>口<;)
+Dialogue: 0,0:10:22.33,0:10:25.27,Text,Sign,0000,0000,0000,,Mashiro\NHer mother phoned\N and said she wasn't home yet!
+Dialogue: 0,0:10:25.61,0:10:26.91,Main,Mi,0000,0000,0000,,Asuka...
+Dialogue: 0,0:10:29.65,0:10:31.90,Text - Pink,Sign,0000,0000,0000,,To Asuka\N Where are you now?\NPlease respond!\N Misaki
+Dialogue: 0,0:10:56.13,0:10:57.92,Tobisawa,Sign,0000,0000,0000,,{\an6}Tobisawa
+Dialogue: 0,0:11:02.28,0:11:03.39,Main,A,0000,0000,0000,,Uh...
+Dialogue: 0,0:11:04.08,0:11:06.04,Main,A,0000,0000,0000,,What am I doing here?
+Dialogue: 0,0:11:06.04,0:11:07.68,Main,Mi,0000,0000,0000,,What're you talking about?
+Dialogue: 0,0:11:07.95,0:11:11.80,Main,Mi,0000,0000,0000,,You were the one standing outside my \Nhouse with a blank look on your face.
+Dialogue: 0,0:11:11.80,0:11:13.57,Main,A,0000,0000,0000,,Well...
+Dialogue: 0,0:11:13.57,0:11:17.73,Main,A,0000,0000,0000,,I wanted to reply to your \Nmessage, but my battery ran out.
+Dialogue: 0,0:11:17.73,0:11:19.45,Main,A,0000,0000,0000,,{\fad(1,1440)}I didn't know what to do, \Nand before I realized...
+Dialogue: 0,0:11:19.82,0:11:24.36,Main,Mas,0000,0000,0000,,It's just like you to show \Nup to respond in person.
+Dialogue: 0,0:11:25.26,0:11:26.70,Main,Mi,0000,0000,0000,,Y'know...
+Dialogue: 0,0:11:26.70,0:11:28.90,Main,Mi,0000,0000,0000,,Why are you even here, Mashiro?
+Dialogue: 0,0:11:28.90,0:11:33.70,Main,Mas,0000,0000,0000,,That's because you told me \NAsuka-senpai was at your place.
+Dialogue: 0,0:11:33.70,0:11:35.88,Main,Mas,0000,0000,0000,,So I rushed here as soon as I could.
+Dialogue: 0,0:11:35.88,0:11:39.48,Main,Mas,0000,0000,0000,,I most definitely am not here to \Ntake advantage of the situation
+Dialogue: 0,0:11:39.48,0:11:42.58,Main,Mas,0000,0000,0000,,to sample your home cooking!
+Dialogue: 0,0:11:42.58,0:11:44.85,Main,A,0000,0000,0000,,Sorry to have worried you.
+Dialogue: 0,0:11:44.85,0:11:46.13,Main,Mi,0000,0000,0000,,Let's just eat.
+Dialogue: 0,0:11:46.13,0:11:48.27,Main,Mas,0000,0000,0000,,Yeah, let's eat!
+Dialogue: 0,0:11:48.27,0:11:50.10,Main,All,0000,0000,0000,,Let's eat.
+Dialogue: 0,0:11:50.57,0:11:52.98,Main,Mi,0000,0000,0000,,I tried making gyoza tonight.
+Dialogue: 0,0:11:52.98,0:11:56.41,Main,Mi,0000,0000,0000,,With flying fish dumplings \Nand lots of flyer stock.
+Dialogue: 0,0:11:56.41,0:11:58.05,Main,Mas,0000,0000,0000,,It's great!
+Dialogue: 0,0:11:58.05,0:12:00.21,Main,Mas,0000,0000,0000,,Your flying fish gyoza made \Nwith love is just divine!
+Dialogue: 0,0:12:00.21,0:12:01.70,Main,Mi,0000,0000,0000,,There was no love involved.
+Dialogue: 0,0:12:01.70,0:12:02.82,Main,A,0000,0000,0000,,Th-This is...
+Dialogue: 0,0:12:03.22,0:12:05.31,Main,J,0000,0000,0000,,...delicious, right?
+Dialogue: 0,0:12:07.26,0:12:09.26,Main,A,0000,0000,0000,,It's really good.
+Dialogue: 0,0:12:11.91,0:12:12.88,Main,Mi,0000,0000,0000,,Asuka.
+Dialogue: 0,0:12:12.88,0:12:14.13,Main,A,0000,0000,0000,,Y-Yes?
+Dialogue: 0,0:12:14.13,0:12:16.55,Main,Mi,0000,0000,0000,,Stay the night.
+Dialogue: 0,0:12:17.52,0:12:19.71,Main,Mas,0000,0000,0000,,"S-Stay"...
+Dialogue: 0,0:12:20.58,0:12:23.52,Flashback,Mas,0000,0000,0000,,Misaki-senpai...
+Dialogue: 0,0:12:23.52,0:12:28.73,Flashback,Mas,0000,0000,0000,,I'll gladly be your personal hug Mashillow.
+Dialogue: 0,0:12:29.77,0:12:32.00,Main,Mi,0000,0000,0000,,Could you hurry up and eat?
+Dialogue: 0,0:12:32.00,0:12:33.39,Main,,0000,0000,0000,,I need to clean up.
+Dialogue: 0,0:12:32.62,0:12:33.77,Main,Mas,0000,0000,0000,,Got it!
+Dialogue: 0,0:12:36.61,0:12:38.26,Main,Mas,0000,0000,0000,,Wait, Senpai!
+Dialogue: 0,0:12:38.26,0:12:40.34,Main,Mas,0000,0000,0000,,No, you can't!
+Dialogue: 0,0:12:40.34,0:12:41.11,Main,Mas,0000,0000,0000,,Please...
+Dialogue: 0,0:12:44.63,0:12:46.13,Main,Mi,0000,0000,0000,,Sheesh.
+Dialogue: 0,0:12:46.13,0:12:47.87,Main,A,0000,0000,0000,,Listen, I'm sorry.
+Dialogue: 0,0:12:48.54,0:12:51.14,Main,A,0000,0000,0000,,I ended up causing you trouble.
+Dialogue: 0,0:12:51.59,0:12:53.04,Main,Mi,0000,0000,0000,,No problem, I guess.
+Dialogue: 0,0:12:58.31,0:12:59.17,Main,Mi,0000,0000,0000,,Why?
+Dialogue: 0,0:13:00.41,0:13:02.17,Main,Mi,0000,0000,0000,,Why are you taking time off?
+Dialogue: 0,0:13:02.88,0:13:04.21,Main,A,0000,0000,0000,,Well...
+Dialogue: 0,0:13:05.35,0:13:07.78,Main,A,0000,0000,0000,,What about you?
+Dialogue: 0,0:13:07.78,0:13:08.83,Main,Mi,0000,0000,0000,,Me?
+Dialogue: 0,0:13:09.93,0:13:11.29,Main,Mi,0000,0000,0000,,I...
+Dialogue: 0,0:13:12.59,0:13:15.13,Main,Mas,0000,0000,0000,,A total stud, no matter how \Nmany times I look at it!
+Dialogue: 0,0:13:17.41,0:13:19.57,Main,Mi,0000,0000,0000,,Get lost, Mashiro.
+Dialogue: 0,0:13:19.57,0:13:22.76,Main,Mas,0000,0000,0000,,What? Am I not welcome here?
+Dialogue: 0,0:13:22.76,0:13:26.13,Main,Mas,0000,0000,0000,,I feel like an abandoned cat right now.
+Dialogue: 0,0:13:26.13,0:13:27.42,Main,Mi,0000,0000,0000,,Yeah, I'm abandoning you.
+Dialogue: 0,0:13:27.42,0:13:28.77,Main,Mas,0000,0000,0000,,Ack!
+Dialogue: 0,0:13:29.11,0:13:32.41,Main,Mas,0000,0000,0000,,Fine. Since I'm such a bother, \NI'll get out of your way now.
+Dialogue: 0,0:13:29.35,0:13:31.58,Main,Mi,0000,0000,0000,,Shoo, shoo. {\an8}
+Dialogue: 0,0:13:32.41,0:13:34.98,Main,Mas,0000,0000,0000,,You two feel free to flirt \Nto your hearts' content.
+Dialogue: 0,0:13:37.54,0:13:40.74,Main,Mi,0000,0000,0000,,Where did she even pull \Nthese pictures out from?
+Dialogue: 0,0:13:40.74,0:13:42.06,Main,A,0000,0000,0000,,I wanna see, too!
+Dialogue: 0,0:13:42.06,0:13:43.05,Main,Mi,0000,0000,0000,,Hey, wait.
+Dialogue: 0,0:13:46.65,0:13:48.86,Main,A,0000,0000,0000,,Who is this boy?
+Dialogue: 0,0:13:48.86,0:13:49.80,Main,Mi,0000,0000,0000,,Me.
+Dialogue: 0,0:13:50.53,0:13:51.75,Main,A,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:13:52.84,0:13:55.31,Main,Mi,0000,0000,0000,,I often got mistaken for \Na boy, so I'm used to it.
+Dialogue: 0,0:13:56.38,0:13:57.58,Main,A,0000,0000,0000,,Grav-Shoes?
+Dialogue: 0,0:13:57.58,0:13:59.43,Main,Mi,0000,0000,0000,,I got them as a birthday gift.
+Dialogue: 0,0:13:59.43,0:14:01.45,Main,Mi,0000,0000,0000,,I was so happy, I kept \Nflying around by myself.
+Dialogue: 0,0:14:01.82,0:14:03.93,Main,Mi,0000,0000,0000,,After a point, that couldn't \Nsatisfy me anymore,
+Dialogue: 0,0:14:03.93,0:14:06.07,Main,Mi,0000,0000,0000,,so I challenged random people to matches.
+Dialogue: 0,0:14:06.43,0:14:08.32,Main,A,0000,0000,0000,,You look like you were having fun.
+Dialogue: 0,0:14:08.83,0:14:11.54,Main,Mi,0000,0000,0000,,But I get bored easily, you see.
+Dialogue: 0,0:14:11.54,0:14:15.33,Main,Mi,0000,0000,0000,,Before I knew it, I stopped \Ncaring about Flying Circus.
+Dialogue: 0,0:14:16.16,0:14:19.69,Main,Mi,0000,0000,0000,,After you showed up, I started \Nplaying again on a whim.
+Dialogue: 0,0:14:24.78,0:14:26.05,Main,Mi,0000,0000,0000,,But this time,
+Dialogue: 0,0:14:26.56,0:14:27.55,Main,Mi,0000,0000,0000,,I ran away.
+Dialogue: 0,0:14:29.46,0:14:32.89,Main,Mi,0000,0000,0000,,I thought I'd put up a good \Nfight against Shindou-san,
+Dialogue: 0,0:14:32.89,0:14:34.47,Main,Mi,0000,0000,0000,,but I really hadn't.
+Dialogue: 0,0:14:34.99,0:14:37.60,Main,Mi,0000,0000,0000,,He got serious against you, though.
+Dialogue: 0,0:14:38.02,0:14:39.34,Main,Mi,0000,0000,0000,,I was so upset.
+Dialogue: 0,0:14:39.78,0:14:41.61,Main,Mi,0000,0000,0000,,I couldn't understand why.
+Dialogue: 0,0:14:42.22,0:14:44.53,Main,Mi,0000,0000,0000,,And then he lost the match against Inui-san.
+Dialogue: 0,0:14:45.11,0:14:48.14,Main,Mi,0000,0000,0000,,I didn't want to believe it.
+Dialogue: 0,0:14:48.14,0:14:51.32,Main,Mi,0000,0000,0000,,"What does that make me?" I wondered.\N And I got scared.
+Dialogue: 0,0:14:53.76,0:14:55.20,Main,Mi,0000,0000,0000,,But you...
+Dialogue: 0,0:14:56.41,0:14:58.31,Main,Mi,0000,0000,0000,,You said it was incredible.
+Dialogue: 0,0:15:00.14,0:15:01.33,Main,Mi,0000,0000,0000,,I couldn't understand you.
+Dialogue: 0,0:15:02.05,0:15:04.16,Main,Mi,0000,0000,0000,,I felt like you were out of my league.
+Dialogue: 0,0:15:06.21,0:15:10.34,Main,Mi,0000,0000,0000,,And even after losing so badly, Shindou-san \Nhadn't let it get to him at all.
+Dialogue: 0,0:15:11.03,0:15:12.80,Main,Mi,0000,0000,0000,,In fact, it'd only made him more motivated.
+Dialogue: 0,0:15:13.30,0:15:16.06,Flashback,Kaz,0000,0000,0000,,Because the fear of losing something \Nshows that you enjoy it.
+Dialogue: 0,0:15:17.38,0:15:19.71,Main,Mi,0000,0000,0000,,I can't enjoy that sort of thing.
+Dialogue: 0,0:15:20.14,0:15:21.26,Main,Mi,0000,0000,0000,,That's why
+Dialogue: 0,0:15:22.11,0:15:23.81,Main,,0000,0000,0000,,I decided to quit.
+Dialogue: 0,0:15:24.31,0:15:25.81,Main,A,0000,0000,0000,,Misaki-chan...
+Dialogue: 0,0:15:29.20,0:15:30.50,Main,Mi,0000,0000,0000,,What can you even say?
+Dialogue: 0,0:15:32.77,0:15:34.81,Main,Mi,0000,0000,0000,,I'm so pathetic.
+Dialogue: 0,0:15:34.81,0:15:36.04,Main,A,0000,0000,0000,,That's not true!
+Dialogue: 0,0:15:36.38,0:15:38.20,Main,A,0000,0000,0000,,You're awesome!
+Dialogue: 0,0:15:40.14,0:15:41.50,Main,A,0000,0000,0000,,Sorry.
+Dialogue: 0,0:15:42.29,0:15:43.50,Main,Mi,0000,0000,0000,,Asuka?
+Dialogue: 0,0:15:43.80,0:15:45.50,Main,A,0000,0000,0000,,I mean,
+Dialogue: 0,0:15:45.96,0:15:50.19,Main,,0000,0000,0000,,you're the one who took me \Nto the world in the sky.
+Dialogue: 0,0:15:50.76,0:15:56.51,Main,A,0000,0000,0000,,Looking at your pretty flying form made \Nme wish I could fly like that, too.
+Dialogue: 0,0:15:57.36,0:15:59.01,Main,Mi,0000,0000,0000,,Th-Thanks.
+Dialogue: 0,0:15:59.01,0:16:00.19,Main,A,0000,0000,0000,,Oh, no need.
+Dialogue: 0,0:16:04.09,0:16:05.87,Main,Mi,0000,0000,0000,,You'll be fine.
+Dialogue: 0,0:16:05.87,0:16:07.98,Main,Mi,0000,0000,0000,,I know you're flying with your own wings.
+Dialogue: 0,0:16:08.50,0:16:09.74,Main,Mi,0000,0000,0000,,Not that I have proof, though.
+Dialogue: 0,0:16:09.74,0:16:11.49,Main,A,0000,0000,0000,,You don't?
+Dialogue: 0,0:16:15.00,0:16:16.95,Main,Mi,0000,0000,0000,,Wow, it's really late.
+Dialogue: 0,0:16:16.95,0:16:18.30,Main,Mi,0000,0000,0000,,Shall we turn in?
+Dialogue: 0,0:16:18.30,0:16:19.37,Main,A,0000,0000,0000,,Yes.
+Dialogue: 0,0:16:20.11,0:16:21.66,Main,Mas,0000,0000,0000,,I'm Mashiro, the abandoned cat.
+Dialogue: 0,0:16:22.00,0:16:25.13,Main,Mas,0000,0000,0000,,I guess they're not coming to pick me up.
+Dialogue: 0,0:16:25.89,0:16:27.12,Main,Mas,0000,0000,0000,,Jeez.
+Dialogue: 0,0:16:27.68,0:16:30.28,Main,Mas,0000,0000,0000,,Not that I blame them.
+Dialogue: 0,0:16:33.80,0:16:40.68,Flashback,Mas,0000,0000,0000,,Fly across the starry sky \Nwith your unrivaled wings.
+Dialogue: 0,0:16:40.68,0:16:47.50,Flashback,Mas,0000,0000,0000,,Your answer is surely up in the sky.
+Dialogue: 0,0:16:47.50,0:16:54.36,Flashback,Mas,0000,0000,0000,,Break through the darkness \Nand the endless world.
+Dialogue: 0,0:16:54.36,0:17:03.74,Flashback,Mas,0000,0000,0000,,May your wishes shine eternal, \NMaster of the Heavens, Zephyrion!
+Dialogue: 0,0:17:08.13,0:17:11.23,Main,Mas,0000,0000,0000,,You two forgot about my \Nexistence, didn't you?
+Dialogue: 0,0:17:11.23,0:17:12.75,Main,Mas,0000,0000,0000,,Oh, is that so?
+Dialogue: 0,0:17:12.75,0:17:14.43,Main,Mas,0000,0000,0000,,You were in your own little world, huh?
+Dialogue: 0,0:17:14.43,0:17:17.64,Main,Mas,0000,0000,0000,,Gee, sorry for being the fifth \Nwheel—Are you even listening to me?
+Dialogue: 0,0:17:17.64,0:17:20.18,Main,A,0000,0000,0000,,Sorry, Mashiro-chan.
+Dialogue: 0,0:17:20.18,0:17:22.54,Main,Mas,0000,0000,0000,,Well, it's fine.
+Dialogue: 0,0:17:39.72,0:17:42.09,Main,Mas,0000,0000,0000,,Step on it, or we'll be late!
+Dialogue: 0,0:17:42.09,0:17:43.45,Main,Mi,0000,0000,0000,,I know!
+Dialogue: 0,0:17:43.45,0:17:44.53,Main,A,0000,0000,0000,,H-Hey!
+Dialogue: 0,0:17:44.53,0:17:46.62,Main,Mas,0000,0000,0000,,What is it? Less talking, more sprinting!
+Dialogue: 0,0:17:46.62,0:17:48.00,Main,A,0000,0000,0000,,Misaki-chan!
+Dialogue: 0,0:17:48.00,0:17:49.59,Main,Mi,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:17:50.97,0:17:52.55,Main,A,0000,0000,0000,,Take me on...
+Dialogue: 0,0:17:53.68,0:17:55.09,Main,A,0000,0000,0000,,in a match!
+Dialogue: 0,0:17:56.47,0:17:57.97,Main,Mas,0000,0000,0000,,Asuka-senpai?
+Dialogue: 0,0:17:59.54,0:18:02.81,Main,A,0000,0000,0000,,The answer is up in the sky!
+Dialogue: 0,0:18:07.82,0:18:10.40,Main,Mas,0000,0000,0000,,Wait, that was just a leave letter?
+Dialogue: 0,0:18:10.77,0:18:14.99,Main,A,0000,0000,0000,,Yes. I wanted to take a day off.
+Dialogue: 0,0:18:17.11,0:18:18.75,Main,H,0000,0000,0000,,And you, Misaki?
+Dialogue: 0,0:18:18.75,0:18:21.12,Main,Mi,0000,0000,0000,,I'm gonna play Asuka in a match now.
+Dialogue: 0,0:18:21.12,0:18:23.91,Main,Mi,0000,0000,0000,,If I lose, I'll come back.
+Dialogue: 0,0:18:25.01,0:18:27.83,Main,Mi,0000,0000,0000,,"The answer is up in the sky"? \NYou're too naïve, Asuka.
+Dialogue: 0,0:18:28.44,0:18:31.14,Main,Mi,0000,0000,0000,,The only things that are up \Nthere are victory and defeat.
+Dialogue: 0,0:18:31.14,0:18:33.53,Main,Mi,0000,0000,0000,,And I'm gonna win, no matter what.
+Dialogue: 0,0:18:33.91,0:18:35.42,Main,A,0000,0000,0000,,I'll give it all I've got.
+Dialogue: 0,0:18:40.15,0:18:43.57,Italics,Mi,0000,0000,0000,,To be honest, I'm a bit \Nscared of taking Asuka on.
+Dialogue: 0,0:18:44.42,0:18:47.47,Italics,A,0000,0000,0000,,If I win, Misaki-chan will \Ncome back to the team.
+Dialogue: 0,0:18:47.47,0:18:49.19,Italics,A,0000,0000,0000,,I can't lose here.
+Dialogue: 0,0:18:49.19,0:18:50.60,Main,Mas,0000,0000,0000,,On your marks...
+Dialogue: 0,0:18:50.60,0:18:51.49,Main,Mas,0000,0000,0000,,Set!
+Dialogue: 0,0:18:56.70,0:18:58.83,Main,Mad,0000,0000,0000,,She can fly again!
+Dialogue: 0,0:18:58.83,0:19:01.03,Main,H,0000,0000,0000,,She must've remembered her way of flying.
+Dialogue: 0,0:19:02.45,0:19:04.35,Main,Mas,0000,0000,0000,,Point to Asuka-senpai!
+Dialogue: 0,0:19:07.22,0:19:08.39,Main,A,0000,0000,0000,,Here I go!
+Dialogue: 0,0:19:11.23,0:19:12.17,Main,Mi,0000,0000,0000,,You're not getting past me!
+Dialogue: 0,0:19:13.68,0:19:14.52,Main,Mi,0000,0000,0000,,What?!
+Dialogue: 0,0:19:15.33,0:19:17.46,Main,A,0000,0000,0000,,Let's zipzap, Misaki-chan!
+Dialogue: 0,0:19:17.46,0:19:23.24,Main,Mi,0000,0000,0000,,Asuka, that's my catchphrase!
+Dialogue: 0,0:19:23.85,0:19:26.48,Main,Mas,0000,0000,0000,,Point to Misaki-senpai 1—
+Dialogue: 0,0:19:26.48,0:19:27.82,Main,Mas,0000,0000,0000,,1-2!
+Dialogue: 0,0:19:35.44,0:19:36.40,Main,Mi,0000,0000,0000,,That won't get it done!
+Dialogue: 0,0:19:37.01,0:19:40.05,Main,Mas,0000,0000,0000,,Point to Misaki-senpai. 1-3.
+Dialogue: 0,0:19:41.16,0:19:43.62,Main,A,0000,0000,0000,,Misaki-chan really is amazing.
+Dialogue: 0,0:19:43.62,0:19:45.80,Main,A,0000,0000,0000,,But I won't be
+Dialogue: 0,0:19:46.62,0:19:48.05,Main,,0000,0000,0000,,outdone!
+Dialogue: 0,0:19:48.87,0:19:50.87,Main,Mas,0000,0000,0000,,Point to Asuka-senpai!
+Dialogue: 0,0:19:51.22,0:19:52.71,Main,Mi,0000,0000,0000,,Let's roll, Asuka!
+Dialogue: 0,0:19:54.42,0:19:55.25,Main,A,0000,0000,0000,,Okay!
+Dialogue: 0,0:20:03.45,0:20:04.47,Main,Mad,0000,0000,0000,,They're so high up.
+Dialogue: 0,0:20:13.39,0:20:15.64,Main,H,0000,0000,0000,,Is that Delta Force?!
+Dialogue: 0,0:20:16.10,0:20:17.86,Main,H,0000,0000,0000,,Did Asuka use it on the spur of the moment?!
+Dialogue: 0,0:20:34.60,0:20:36.78,Main,Mi,0000,0000,0000,,You know, I've realized something.
+Dialogue: 0,0:20:37.79,0:20:41.26,Main,Mi,0000,0000,0000,,I was scared because I'd found \Nsomething to take seriously—
+Dialogue: 0,0:20:41.26,0:20:43.93,Main,Mi,0000,0000,0000,,something to dedicate myself \Nto—for the first time.
+Dialogue: 0,0:20:45.37,0:20:49.00,Main,Mi,0000,0000,0000,,And I think I'm still a little scared.
+Dialogue: 0,0:20:49.00,0:20:49.89,Main,Mi,0000,0000,0000,,You?
+Dialogue: 0,0:20:49.89,0:20:52.55,Main,A,0000,0000,0000,,The only thing on my mind...
+Dialogue: 0,0:20:53.57,0:20:55.40,Main,A,0000,0000,0000,,is to look up and fly.
+Dialogue: 0,0:20:56.10,0:20:59.40,Main,A,0000,0000,0000,,I really do think the \Nanswer is up in the sky.
+Dialogue: 0,0:21:00.98,0:21:02.33,Main,Mi,0000,0000,0000,,It may well be.
+Dialogue: 0,0:21:03.36,0:21:04.66,Main,Mas,0000,0000,0000,,Misaki-senpai...
+Dialogue: 0,0:21:05.18,0:21:07.62,Main,Mas,0000,0000,0000,,You won. What are you going to do with this?
+Dialogue: 0,0:21:07.62,0:21:09.91,Notice,Sign,0000,0000,0000,,Notice of Withdrawal
+Dialogue: 0,0:21:09.04,0:21:09.91,Main,Mi,0000,0000,0000,,Got a pen?
+Dialogue: 0,0:21:10.40,0:21:11.27,Main,Mad,0000,0000,0000,,Here.
+Dialogue: 0,0:21:11.27,0:21:12.49,Main,Mi,0000,0000,0000,,Thanks.
+Dialogue: 0,0:21:14.85,0:21:16.90,Main,Mi,0000,0000,0000,,That should do it.
+Dialogue: 0,0:21:15.46,0:21:17.96,Notice,Sign,0000,0000,0000,,Notice of {\s1}Withdrawal{\s0}\N Registration
+Dialogue: 0,0:21:18.99,0:21:21.51,Main,Mi,0000,0000,0000,,I'm not "coming back."\N I'm rejoining.
+Dialogue: 0,0:21:21.90,0:21:23.10,Main,Mad,0000,0000,0000,,Ah.
+Dialogue: 0,0:21:23.10,0:21:25.17,Main,Mas,0000,0000,0000,,So you're our newest member!
+Dialogue: 0,0:21:25.17,0:21:26.25,Main,Mi,0000,0000,0000,,Oh, I guess.
+Dialogue: 0,0:21:26.25,0:21:28.69,Main,Mas,0000,0000,0000,,Call me "Mashiro-senpai" from now on.
+Dialogue: 0,0:21:28.69,0:21:29.65,Main,Mi,0000,0000,0000,,In your dreams.
+Dialogue: 0,0:21:31.52,0:21:38.36,Italics - Copy,Phone,0000,0000,0000,,Fly across the starry sky \Nwith your unrivaled wings
+Dialogue: 0,0:21:36.05,0:21:38.47,Main,Mi,0000,0000,0000,,Oh, so this is {\i1}Jephyrion{\i0}?
+Dialogue: 0,0:21:38.36,0:21:44.12,Italics - Copy,Phone,0000,0000,0000,,Your answer is surely up in the sky
+Dialogue: 0,0:21:38.47,0:21:42.27,Main,Mas,0000,0000,0000,,You're not pronouncing it right, \NSenpai. You can't Zephyr like that.
+Dialogue: 0,0:21:43.29,0:21:46.34,Main,Mi,0000,0000,0000,,So that wing of yours was Jephyrion's, Asuka?
+Dialogue: 0,0:21:44.12,0:21:50.78,Italics - Copy,Phone,0000,0000,0000,,Break through the darkness \Nand the endless world
+Dialogue: 0,0:21:46.34,0:21:47.95,Main,Mas,0000,0000,0000,,You're still not pronouncing it right.
+Dialogue: 0,0:21:48.32,0:21:51.20,Main,A,0000,0000,0000,,A boy from this island gave \Nit to me when I was a child.
+Dialogue: 0,0:21:50.78,0:21:58.80,Italics - Copy,Phone,0000,0000,0000,,May your wishes shine eternal, \NMaster of the Heavens, Zephyrion!
+Dialogue: 0,0:21:51.20,0:21:52.80,Main,Mi,0000,0000,0000,,A boy from this island?
+Dialogue: 0,0:21:52.80,0:21:54.14,Main,Mas,0000,0000,0000,,Who could it be?
+Dialogue: 0,0:21:54.14,0:21:57.21,Main,A,0000,0000,0000,,Like a female version of Coach.
+Dialogue: 0,0:21:57.72,0:21:58.75,Main,Mi,0000,0000,0000,,Gross!
+Dialogue: 0,0:21:58.75,0:22:01.26,Main,Mas,0000,0000,0000,,Well, it was a long time ago.
+Dialogue: 0,0:22:01.26,0:22:06.23,Main,Mi,0000,0000,0000,,Wait, I think I once played a \Nsimilar kid in an FC match.
+Dialogue: 0,0:22:06.23,0:22:08.44,Main,Mas,0000,0000,0000,,Maybe it was the same person?
+Dialogue: 0,0:22:10.06,0:22:11.85,Main,A,0000,0000,0000,,Who knows?
+Dialogue: 0,0:22:11.87,0:22:14.87,To be Continued,Sign,0000,0000,0000,,To Be Continued
+Dialogue: 0,0:22:12.33,0:22:13.80,Main,Mi,0000,0000,0000,,And who cares?
+Dialogue: 0,0:23:45.17,0:23:46.29,Preview,Sign,0000,0000,0000,,{\fad(651,1)}Preview
+Dialogue: 0,0:23:46.32,0:23:48.67,Main,Ir,0000,0000,0000,,Our FC is beautiful.
+Dialogue: 0,0:23:48.67,0:23:50.38,Main,Mi,0000,0000,0000,,6 AM? Seriously?
+Dialogue: 0,0:23:50.38,0:23:51.78,Main,A,0000,0000,0000,,Coach?!
+Dialogue: 0,0:23:51.78,0:23:54.14,Main,Mi,0000,0000,0000,,Is that for FC, too?
+Dialogue: 0,0:23:51.78,0:23:55.26,Episode-Title - End,Title,0000,0000,0000,,Episode Ten:\N Is That For FC, Too?

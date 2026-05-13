@@ -1,1 +1,379 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
 
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: sign_harsh_red,Times New Roman,20,&H000900B5,&H000000FF,&H000A100C,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: sign_skill,Trebuchet MS,20,&H00FFFDFE,&H000000FF,&H00100404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:26.93,0:00:28.13,main,Mukuro,0,0,0,,More...
+Dialogue: 0,0:00:29.78,0:00:31.17,main,Mukuro,0,0,0,,More.
+Dialogue: 0,0:00:32.34,0:00:33.73,main,Mukuro,0,0,0,,Give me more!
+Dialogue: 0,0:02:05.68,0:02:08.89,sign_harsh_red,Eptitle sign,0,0,0,,{\pos(469.848,284.611)\fade(400,400\blur1)}The Have-Nots
+Dialogue: 0,0:02:28.96,0:02:31.29,main,Coachman,0,0,0,,Somebody! Help!
+Dialogue: 0,0:02:35.34,0:02:36.80,main,Warrior Boss,0,0,0,,Come on, come on, come on!
+Dialogue: 0,0:02:36.80,0:02:39.04,main,Coachman,0,0,0,,Warriors? I-I'm saved...
+Dialogue: 0,0:02:39.04,0:02:40.69,main,Warrior Boss,0,0,0,,We'll take it from here!
+Dialogue: 0,0:02:41.22,0:02:43.68,main,Warrior Boss,0,0,0,,If you see one goblin,
+Dialogue: 0,0:02:43.68,0:02:45.89,main,Warrior Boss,0,0,0,,there's a hundred more around!
+Dialogue: 0,0:02:59.78,0:03:02.02,main,Warrior Boss,0,0,0,,Don't let a single one escape!
+Dialogue: 0,0:03:02.02,0:03:03.61,main,Warriors,0,0,0,,Yeah!
+Dialogue: 0,0:03:17.78,0:03:19.89,main,Fate,0,0,0,,I'm starving...
+Dialogue: 0,0:03:20.60,0:03:24.43,main,Warrior 3,0,0,0,,I finally hit Level 6 \Nafter today's goblin hunt!
+Dialogue: 0,0:03:24.43,0:03:26.93,main,Lady Warrior,0,0,0,,Well, there were a lot of them.
+Dialogue: 0,0:03:26.93,0:03:28.89,main,Warrior 2,0,0,0,,And we made off with quite a haul.
+Dialogue: 0,0:03:28.89,0:03:31.02,main,Warrior Boss,0,0,0,,Let's cash out and then split the take.
+Dialogue: 0,0:03:31.02,0:03:32.82,main,Warrior 3,0,0,0,,Oh, yeah!
+Dialogue: 0,0:03:34.24,0:03:35.95,main,Fate,0,0,0,,Goblin hunting, huh?
+Dialogue: 0,0:03:36.51,0:03:39.19,main,Fate,0,0,0,,That'll never be me.
+Dialogue: 0,0:03:40.78,0:03:43.82,italics,Fate,0,0,0,,I'm useless, with a stomach that \Nnever stops growling, to boot.
+Dialogue: 0,0:03:44.48,0:03:47.54,italics,Fate,0,0,0,,All thanks to this worthless skill...
+Dialogue: 0,0:03:45.37,0:03:47.20,sign_harsh_red,Skill signs,0,0,0,,{\3c&H000100&\fade(400,1)\an7\pos(53.486,96.248)}[Stats]
+Dialogue: 0,0:03:45.37,0:03:47.20,sign_harsh_red,Skill signs,0,0,0,,{\3c&H000100&\fade(400,1)\an7\pos(53.486,131.664)}Vitality:
+Dialogue: 0,0:03:45.37,0:03:47.20,sign_harsh_red,Skill signs,0,0,0,,{\3c&H000100&\fade(400,1)\an7\pos(53.486,168.824)}Strength:
+Dialogue: 0,0:03:45.37,0:03:47.20,sign_harsh_red,Skill signs,0,0,0,,{\3c&H000100&\fade(400,1)\an7\pos(53.486,204.604)}Magic:
+Dialogue: 0,0:03:45.37,0:03:47.20,sign_harsh_red,Skill signs,0,0,0,,{\3c&H000100&\fade(400,1)\an7\pos(53.486,241.846)}Spirit:
+Dialogue: 0,0:03:45.37,0:03:47.20,sign_harsh_red,Skill signs,0,0,0,,{\3c&H000100&\fade(400,1)\an7\pos(55.271,276.531)}Agility:
+Dialogue: 0,0:03:45.37,0:03:47.20,sign_harsh_red,Skill signs,0,0,0,,{\3c&H000100&\fade(400,1)\an7\pos(473.662,95.437)}[Skills]
+Dialogue: 0,0:03:45.37,0:03:47.20,sign_harsh_red,Skill signs,0,0,0,,{\3c&H000100&\fade(400,1)\an7\pos(473.297,133.408)}Gluttony
+Dialogue: 0,0:03:47.33,0:03:48.79,sign_harsh_red,Skill signs,0,0,0,,{\3c&H000100&\fs30\pos(581.404,103.55)}[Skills]
+Dialogue: 0,0:03:47.33,0:03:48.79,sign_harsh_red,Skill signs,0,0,0,,{\3c&H000000&\fs30\pos(563.149,261.642)}[Gluttony]
+Dialogue: 0,0:03:49.44,0:03:51.50,main,Fate,0,0,0,,Guess I should be grateful \Nto even have a job.
+Dialogue: 0,0:03:56.02,0:03:57.77,main,Girl,0,0,0,,Oh, thanks for coming!
+Dialogue: 0,0:03:59.51,0:04:01.67,main,Merchant,0,0,0,,The holy knights are coming through...
+Dialogue: 0,0:04:05.97,0:04:08.76,main,Warrior Boss,0,0,0,,It's that trio of Vlerick siblings.
+Dialogue: 0,0:04:13.93,0:04:16.80,main,Merchant,0,0,0,,I'm so terribly sorry, \NSir Hado, let me just—
+Dialogue: 0,0:04:16.80,0:04:19.57,main,Hado,0,0,0,,What do you think you're doing \Nto my boots, you wretch?
+Dialogue: 0,0:04:20.81,0:04:22.43,main,Merchant,0,0,0,,I didn't mean to...
+Dialogue: 0,0:04:22.43,0:04:24.46,main,Hado,0,0,0,,You're talking back? To me?
+Dialogue: 0,0:04:24.46,0:04:29.62,main,Memil,0,0,0,,You must know what happens \Nif you insult holy knights, right?
+Dialogue: 0,0:04:30.14,0:04:31.91,main,Memil,0,0,0,,Your head comes off.
+Dialogue: 0,0:04:32.92,0:04:35.12,main,Merchant,0,0,0,,I'm so terribly sorry!
+Dialogue: 0,0:04:35.89,0:04:38.59,main,Rafale,0,0,0,,Hado, Memil, that's enough.
+Dialogue: 0,0:04:38.96,0:04:40.47,main,Rafale,0,0,0,,Don't let it happen again.
+Dialogue: 0,0:04:40.47,0:04:41.73,main,Merchant,0,0,0,,Y-yes, sir!
+Dialogue: 0,0:04:41.73,0:04:43.78,main,Hado,0,0,0,,You got lucky.
+Dialogue: 0,0:04:44.16,0:04:46.18,main,Memil,0,0,0,,Very lucky!
+Dialogue: 0,0:04:48.56,0:04:49.81,main,Propritress,0,0,0,,You all right?
+Dialogue: 0,0:04:49.81,0:04:51.62,main,Propritress,0,0,0,,That was awful.
+Dialogue: 0,0:04:52.68,0:04:57.77,main,Warrior Boss,0,0,0,,Unbelievable. Hard to believe that \NLady Roxy is a holy knight like that lot.
+Dialogue: 0,0:05:01.86,0:05:04.88,main,Fate,0,0,0,,Shift's almost over. \NJust gotta make it through.
+Dialogue: 0,0:05:04.88,0:05:06.45,main,Rafale,0,0,0,,Hey, Fate.
+Dialogue: 0,0:05:08.60,0:05:12.21,main,Rafale,0,0,0,,Have you done a proper job \Nfilling in for us today?
+Dialogue: 0,0:05:12.65,0:05:14.55,main,Fate,0,0,0,,Yes, Sir Rafale.
+Dialogue: 0,0:05:14.55,0:05:16.87,main,Rafale,0,0,0,,Is that right? In that case...
+Dialogue: 0,0:05:19.78,0:05:21.70,main,Rafale,0,0,0,,That's your pay.
+Dialogue: 0,0:05:22.17,0:05:23.88,main,Rafale,0,0,0,,Pick it up.
+Dialogue: 0,0:05:23.88,0:05:25.30,main,Fate,0,0,0,,Yes, sir.
+Dialogue: 0,0:05:33.06,0:05:36.92,main,Hado,0,0,0,,Sorry! You were so filthy, \NI didn't notice you.
+Dialogue: 0,0:05:38.77,0:05:40.96,main,Rafale,0,0,0,,Absolutely pathetic.
+Dialogue: 0,0:05:40.96,0:05:45.74,main,Rafale,0,0,0,,That noisy gut makes it seem \Nlike we don't keep you fed.
+Dialogue: 0,0:05:45.74,0:05:49.70,main,Hado,0,0,0,,You trying to embarrass the Vlerick family?!
+Dialogue: 0,0:05:50.73,0:05:53.66,italics,Fate,0,0,0,,In this world, there are haves...
+Dialogue: 0,0:05:55.80,0:05:57.44,italics,Fate,0,0,0,,and there are have-nots.
+Dialogue: 0,0:05:57.44,0:06:00.16,main,Hado,0,0,0,,You useless maggot!
+Dialogue: 0,0:06:02.51,0:06:03.98,italics,Fate,0,0,0,,What separates them...
+Dialogue: 0,0:06:03.98,0:06:07.05,main,Memil,0,0,0,,Who do you owe your livelihood to, again?
+Dialogue: 0,0:06:07.51,0:06:10.25,main,Memil,0,0,0,,Someone with a worthless skill like yours
+Dialogue: 0,0:06:10.25,0:06:13.73,main,Memil,0,0,0,,is only earning money thanks to \Nthe grace of holy knights like us...
+Dialogue: 0,0:06:13.73,0:06:16.59,main,Memil,0,0,0,,You should be so grateful!
+Dialogue: 0,0:06:17.40,0:06:21.71,italics,Fate,0,0,0,,...are the special powers \Nbestowed by the gods: skills.
+Dialogue: 0,0:06:23.25,0:06:28.87,main,Rafale,0,0,0,,When you slack off, it reflects \Npoorly on us, your employers.
+Dialogue: 0,0:06:28.87,0:06:30.15,main,Rafale,0,0,0,,On your feet.
+Dialogue: 0,0:06:31.89,0:06:34.41,main,Hado,0,0,0,,Come on! Get up already.
+Dialogue: 0,0:06:34.41,0:06:36.95,main,Rafale,0,0,0,,I believe he needs to be taught a lesson.
+Dialogue: 0,0:06:36.95,0:06:40.50,main,Rafale,0,0,0,,Defiant dogs need strict \Ndiscipline, after all.
+Dialogue: 0,0:06:42.37,0:06:43.58,main,Roxy,0,0,0,,Stop this!
+Dialogue: 0,0:06:47.32,0:06:50.10,main,Roxy,0,0,0,,Inflicting that kind of abuse on \Nthe citizens we're sworn to protect...
+Dialogue: 0,0:06:50.77,0:06:53.11,main,Roxy,0,0,0,,It is not the act of a holy knight.
+Dialogue: 0,0:06:53.79,0:06:55.18,main,Memil,0,0,0,,Roxy Hart...
+Dialogue: 0,0:06:55.54,0:06:59.29,main,Roxy,0,0,0,,Watching the gate is an \Nhonorable duty for a holy knight.
+Dialogue: 0,0:06:59.29,0:07:02.60,main,Roxy,0,0,0,,A duty that should be your responsibility.
+Dialogue: 0,0:07:02.60,0:07:06.90,main,Rafale,0,0,0,,It is also the duty of holy knights to \Nprovide employment for the have-nots.
+Dialogue: 0,0:07:09.35,0:07:11.82,main,Roxy,0,0,0,,You claim kind of treatment is necessary?
+Dialogue: 0,0:07:11.82,0:07:15.06,main,Rafale,0,0,0,,This amounts to a difference \Nin professional opinion, I'd say.
+Dialogue: 0,0:07:15.06,0:07:18.09,main,Rafale,0,0,0,,If you'll excuse us. Come along, Hado, Memil.
+Dialogue: 0,0:07:27.17,0:07:29.84,main,Roxy,0,0,0,,Fate... are you all right?
+Dialogue: 0,0:07:30.58,0:07:31.68,main,Fate,0,0,0,,Yes.
+Dialogue: 0,0:07:35.72,0:07:37.26,italics,Fate,0,0,0,,Rafale...
+Dialogue: 0,0:07:38.35,0:07:41.48,main,Roxy,0,0,0,,Stay still, please. You're bleeding.
+Dialogue: 0,0:07:44.12,0:07:45.42,main,Roxy,0,0,0,,That's better.
+Dialogue: 0,0:07:45.85,0:07:48.19,main,Fate,0,0,0,,Th-Thank you so much.
+Dialogue: 0,0:07:49.03,0:07:51.52,main,Roxy,0,0,0,,We're cohorts when it \Ncomes to watching the gate.
+Dialogue: 0,0:07:51.52,0:07:55.00,main,Roxy,0,0,0,,Besides, this is how a holy knight \Nshould conduct themselves.
+Dialogue: 0,0:07:55.00,0:07:57.12,main,Roxy,0,0,0,,Now, it's time for me to relieve you.
+Dialogue: 0,0:07:57.12,0:07:59.03,main,Fate,0,0,0,,Oh, right! Thank you so much.
+Dialogue: 0,0:08:01.01,0:08:02.10,main,Roxy,0,0,0,,Fate...
+Dialogue: 0,0:08:03.14,0:08:08.00,main,Roxy,0,0,0,,If this kind of thing happens again,\N please, tell me.
+Dialogue: 0,0:08:10.93,0:08:12.17,main,Fate,0,0,0,,It's okay.
+Dialogue: 0,0:08:12.17,0:08:13.36,main,Roxy,0,0,0,,But...
+Dialogue: 0,0:08:13.36,0:08:16.57,main,Fate,0,0,0,,I'm used to it. If you'll excuse me.
+Dialogue: 0,0:08:28.48,0:08:29.83,flashback,Roxy,0,0,0,,Fate...
+Dialogue: 0,0:08:30.95,0:08:35.53,flashback,Roxy,0,0,0,,If this kind of thing happens again,\N please, tell me.
+Dialogue: 0,0:08:36.13,0:08:38.78,italics,Fate,0,0,0,,I know what Lady Roxy said,
+Dialogue: 0,0:08:41.93,0:08:46.07,italics,Fate,0,0,0,,but with how he is,\Nthere's no telling what he might do.
+Dialogue: 0,0:08:47.17,0:08:50.04,italics,Fate,0,0,0,,I can't risk getting her involved.
+Dialogue: 0,0:08:50.55,0:08:52.52,main,Barkeep,0,0,0,,They knock you around again?
+Dialogue: 0,0:08:53.51,0:08:57.84,main,Barkeep,0,0,0,,If this keeps up... you're gonna \Nend up like the last guy.
+Dialogue: 0,0:08:58.57,0:09:01.26,main,Barkeep,0,0,0,,Endless abuse, brutal labor...
+Dialogue: 0,0:09:01.66,0:09:05.31,main,Barkeep,0,0,0,,There's only one outcome for that,\Nand it's a nasty one.
+Dialogue: 0,0:09:10.51,0:09:12.86,main,Fate,0,0,0,,Thanks for the meal, barkeep.
+Dialogue: 0,0:09:14.60,0:09:17.57,main,Barkeep,0,0,0,,I'll be praying you don't end up like that.
+Dialogue: 0,0:09:21.29,0:09:23.41,main,Fate,0,0,0,,Stupid useless Gluttony...
+Dialogue: 0,0:09:26.50,0:09:31.46,italics,Fate,0,0,0,,I wish I could've been born \Nwith something worthwhile, too.
+Dialogue: 0,0:09:32.28,0:09:34.52,italics,Fate,0,0,0,,I'm not asking to be a holy knight.
+Dialogue: 0,0:09:34.98,0:09:38.52,italics,Fate,0,0,0,,I'd take being a warrior, or even \Na merchant or a craftsman.
+Dialogue: 0,0:09:39.91,0:09:43.43,italics,Fate,0,0,0,,But... there's no changing how things are.
+Dialogue: 0,0:09:43.43,0:09:45.89,italics,Fate,0,0,0,,When you have nothing, \Nyou're trapped as a loser.
+Dialogue: 0,0:09:49.50,0:09:50.90,main,Fate,0,0,0,,Thieves?!
+Dialogue: 0,0:09:50.90,0:09:53.05,main,Fate,0,0,0,,I need to let Lady Roxy know!
+Dialogue: 0,0:09:53.89,0:09:55.57,main,Roxy,0,0,0,,You're certain?
+Dialogue: 0,0:09:55.57,0:09:59.03,main,Fate,0,0,0,,Yeah! I saw them myself. There's no doubt.
+Dialogue: 0,0:09:59.03,0:10:00.92,main,Roxy,0,0,0,,I'll need to apprehend them.
+Dialogue: 0,0:10:02.19,0:10:04.21,main,Roxy,0,0,0,,Please, take over here for me.
+Dialogue: 0,0:10:04.21,0:10:06.79,main,Fate,0,0,0,,Right. Good luck, Lady Roxy.
+Dialogue: 0,0:10:06.79,0:10:08.35,main,Roxy,0,0,0,,I'll take care of it.
+Dialogue: 0,0:10:08.35,0:10:10.79,main,Roxy,0,0,0,,Appearances aside, \NI'm quite confident in my skills.
+Dialogue: 0,0:10:25.41,0:10:27.06,main,Fate,0,0,0,,Is it over...?
+Dialogue: 0,0:10:35.57,0:10:38.08,italics,Fate,0,0,0,,Lady Roxy trusted me with this.
+Dialogue: 0,0:10:39.53,0:10:43.38,italics,Fate,0,0,0,,If I run, it'll cause trouble for her!
+Dialogue: 0,0:10:43.90,0:10:45.92,italics,Fate,0,0,0,,I can't let him get away!
+Dialogue: 0,0:10:47.85,0:10:49.46,italics,Fate,0,0,0,,He's already injured...
+Dialogue: 0,0:10:53.88,0:10:55.59,italics,Fate,0,0,0,,Even I can handle this!
+Dialogue: 0,0:11:12.95,0:11:14.11,main,Fate,0,0,0,,It's over...
+Dialogue: 0,0:11:14.11,0:11:19.09,italics,Voice,0,0,0,,Gluttony skill has activated. \NIncreasing stats.
+Dialogue: 0,0:11:20.97,0:11:23.82,italics,Voice,0,0,0,,Skills Identify and Telepathy \Nhave been added.
+Dialogue: 0,0:11:21.11,0:11:23.82,sign_harsh_red,Sign,0,0,0,,{\3c&H000100&\fade(400,1)\an7\pos(43.629,85.295)}[Stats]
+Dialogue: 0,0:11:21.11,0:11:23.82,sign_harsh_red,Sign,0,0,0,,{\3c&H000100&\fade(400,1)\an7\pos(43.629,131.217)}Vitality:
+Dialogue: 0,0:11:21.11,0:11:23.82,sign_harsh_red,Sign,0,0,0,,{\3c&H000100&\fade(400,1)\an7\pos(43.629,169.554)}Strength:
+Dialogue: 0,0:11:21.11,0:11:23.82,sign_harsh_red,Sign,0,0,0,,{\3c&H000100&\fade(400,1)\an7\pos(43.629,209.716)}Magic:
+Dialogue: 0,0:11:21.11,0:11:23.82,sign_harsh_red,Sign,0,0,0,,{\3c&H000100&\fade(400,1)\an7\pos(43.629,249.148)}Spirit:
+Dialogue: 0,0:11:21.11,0:11:23.82,sign_harsh_red,Sign,0,0,0,,{\3c&H000100&\fade(400,1)\an7\pos(43.629,286.389)}Agility:
+Dialogue: 0,0:11:21.11,0:11:23.82,sign_harsh_red,Sign,0,0,0,,{\3c&H000100&\fade(400,1)\an7\pos(451.027,84.483)}[Skills]
+Dialogue: 0,0:11:21.11,0:11:23.82,sign_harsh_red,Sign,0,0,0,,{\3c&H000100&\fade(400,1)\an7\pos(451.027,130.487)}Gluttony
+Dialogue: 0,0:11:22.62,0:11:23.82,sign_harsh_red,Sign,0,0,0,,{\3c&H000100&\fade(400,1)\an7\pos(451.027,173.205)}Identify
+Dialogue: 0,0:11:22.62,0:11:23.82,sign_harsh_red,Sign,0,0,0,,{\3c&H000100&\fade(400,1)\an7\pos(451.027,213.732)}Telepathy
+Dialogue: 0,0:11:24.34,0:11:27.77,main,Fate,0,0,0,,My Gluttony skill... activated?
+Dialogue: 0,0:11:34.67,0:11:36.92,main,Fate,0,0,0,,What in the world was that?
+Dialogue: 0,0:11:37.57,0:11:38.68,main,Roxy,0,0,0,,Fate!
+Dialogue: 0,0:11:44.30,0:11:47.43,main,Roxy,0,0,0,,Fate, are you all right? Were you hurt?
+Dialogue: 0,0:11:47.43,0:11:50.89,italics,Roxy,0,0,0,,He doesn't look well. It's worrying...
+Dialogue: 0,0:11:52.10,0:11:53.65,main,Roxy,0,0,0,,Is anything wrong?
+Dialogue: 0,0:11:53.65,0:11:58.61,italics,Fate,0,0,0,,That was just like... \NI could hear her inner voice.
+Dialogue: 0,0:11:58.61,0:12:00.54,main,Fate,0,0,0,,Uh, no, I'm not hurt.
+Dialogue: 0,0:12:00.54,0:12:01.62,main,Roxy,0,0,0,,I see.
+Dialogue: 0,0:12:01.62,0:12:03.84,italics,Roxy,0,0,0,,What a relief. I'm so glad.
+Dialogue: 0,0:12:03.84,0:12:04.95,italics,Fate,0,0,0,,Again?
+Dialogue: 0,0:12:05.65,0:12:08.53,main,Roxy,0,0,0,,I need to report this to my superiors.
+Dialogue: 0,0:12:08.53,0:12:10.37,main,Roxy,0,0,0,,Do you understand, Fate?
+Dialogue: 0,0:12:11.18,0:12:12.75,italics,Fate,0,0,0,,I can't hear it anymore.
+Dialogue: 0,0:12:12.75,0:12:14.58,main,Roxy,0,0,0,,Fate? Are you listening?
+Dialogue: 0,0:12:14.58,0:12:19.41,main,Fate,0,0,0,,Oh, right! You can take credit \Nfor all of this, Lady Roxy.
+Dialogue: 0,0:12:19.41,0:12:22.21,main,Roxy,0,0,0,,But you slew one yourself, Fate.
+Dialogue: 0,0:12:22.71,0:12:25.31,main,Fate,0,0,0,,If Sir Rafale finds out about it...
+Dialogue: 0,0:12:25.31,0:12:28.10,main,Roxy,0,0,0,,It would cause you problems, wouldn't it?
+Dialogue: 0,0:12:28.10,0:12:31.56,italics,Fate,0,0,0,,I can't make trouble for her.
+Dialogue: 0,0:12:31.56,0:12:37.57,main,Roxy,0,0,0,,I understand, but without you, \NI would've failed in my duty.
+Dialogue: 0,0:12:37.57,0:12:39.44,main,Roxy,0,0,0,,Please, let me show my gratitude.
+Dialogue: 0,0:12:39.44,0:12:40.87,main,Fate,0,0,0,,Oh, that's not necessary.
+Dialogue: 0,0:12:40.87,0:12:41.99,main,Roxy,0,0,0,,Let me think...
+Dialogue: 0,0:12:41.99,0:12:43.01,italics,Fate,0,0,0,,She's not listening.
+Dialogue: 0,0:12:43.01,0:12:44.11,main,Roxy,0,0,0,,I know!
+Dialogue: 0,0:12:45.63,0:12:48.15,main,Roxy,0,0,0,,Would you like to work for the Hart family?
+Dialogue: 0,0:12:50.11,0:12:53.21,main,Roxy,0,0,0,,Or do you intend to serve \Nthe Vlericks until it kills you?
+Dialogue: 0,0:12:54.31,0:12:56.01,main,Fate,0,0,0,,Lady Roxy...
+Dialogue: 0,0:12:56.01,0:12:58.67,main,Roxy,0,0,0,,You needn't worry about them.
+Dialogue: 0,0:12:58.67,0:13:01.39,main,Roxy,0,0,0,,Your future is yours to decide, Fate.
+Dialogue: 0,0:13:01.89,0:13:05.63,italics,Fate,0,0,0,,A future where I'm treated \Nlike trash by them...
+Dialogue: 0,0:13:06.29,0:13:09.99,italics,Fate,0,0,0,,Or a bright one where \NI can work for Lady Roxy...
+Dialogue: 0,0:13:10.60,0:13:13.98,main,Fate,0,0,0,,Still, if I quit, then whoever \Nreplaces me would...
+Dialogue: 0,0:13:13.98,0:13:18.16,main,Roxy,0,0,0,,I told you. Defending the gate \Nis the duty of a holy knight.
+Dialogue: 0,0:13:18.63,0:13:22.07,main,Roxy,0,0,0,,Whatever happens, it won't \Nbe your responsibility.
+Dialogue: 0,0:13:22.07,0:13:26.05,italics,Fate,0,0,0,,If Lady Roxy thinks so, \Nthen it's probably true.
+Dialogue: 0,0:13:27.64,0:13:30.03,main,Fate,0,0,0,,It'd be my honor, Lady Roxy.
+Dialogue: 0,0:13:31.69,0:13:32.95,main,Roxy,0,0,0,,Wonderful!
+Dialogue: 0,0:13:34.97,0:13:36.46,italics,Fate,0,0,0,,What's this?
+Dialogue: 0,0:13:36.46,0:13:38.80,italics,Fate,0,0,0,,My stats are in the triple digits now...
+Dialogue: 0,0:13:37.79,0:13:40.42,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(43.262,83.866)}[Stats]
+Dialogue: 0,0:13:37.79,0:13:40.42,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(43.262,130.852)}Vitality:
+Dialogue: 0,0:13:37.79,0:13:40.42,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(42.897,168.458)}Strength:
+Dialogue: 0,0:13:37.79,0:13:40.42,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(43.262,203.144)}Magic:
+Dialogue: 0,0:13:37.79,0:13:40.42,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(43.262,242.211)}Spirit:
+Dialogue: 0,0:13:37.79,0:13:40.42,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(43.627,277.261)}Agility:
+Dialogue: 0,0:13:37.79,0:13:40.42,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(456.868,85.578)}[Skills]
+Dialogue: 0,0:13:37.79,0:13:40.42,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(456.868,130.852)}Gluttony
+Dialogue: 0,0:13:37.79,0:13:40.42,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(456.868,169.919)}Identify
+Dialogue: 0,0:13:37.79,0:13:40.42,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(456.868,205.335)}Telepathy
+Dialogue: 0,0:13:40.44,0:13:41.99,main,Fate,0,0,0,,How'd that happen?
+Dialogue: 0,0:13:41.99,0:13:46.38,main,Fate,0,0,0,,And what's "Identify"? And "Telepathy"?
+Dialogue: 0,0:13:46.79,0:13:50.51,flashback italics,Roxy,0,0,0,,He doesn't look well. It's worrying.
+Dialogue: 0,0:13:50.86,0:13:52.97,main,Fate,0,0,0,,Wait, was that Telepathy?
+Dialogue: 0,0:13:53.53,0:13:55.93,flashback italics,Voice,0,0,0,,Gluttony has activated.
+Dialogue: 0,0:13:55.93,0:14:02.32,main,Fate,0,0,0,,It actually activated...\N and what's going on with my body?
+Dialogue: 0,0:14:04.93,0:14:09.58,main,Fate,0,0,0,,But with stats like this, \NI might be able to beat monsters.
+Dialogue: 0,0:14:20.71,0:14:22.62,main,Stand Owner,0,0,0,,Looking for a sword, sir?
+Dialogue: 0,0:14:22.62,0:14:23.46,main,Fate,0,0,0,,Oh, yes.
+Dialogue: 0,0:14:23.46,0:14:25.61,main,Stand Owner,0,0,0,,What kind of budget are you thinking?
+Dialogue: 0,0:14:27.73,0:14:29.16,main,Fate,0,0,0,,Uh, well...
+Dialogue: 0,0:14:32.53,0:14:34.61,main,Stand Owner,0,0,0,,Great, you're poor.
+Dialogue: 0,0:14:34.61,0:14:36.81,main,Stand Owner,0,0,0,,What a waste of hospitality...
+Dialogue: 0,0:14:36.81,0:14:39.31,main,Stand Owner,0,0,0,,You can't buy a weapon with \Nthat kind of chump change.
+Dialogue: 0,0:14:39.31,0:14:41.19,italics,Fate,0,0,0,,It's been five years since \NI came to the royal capital.
+Dialogue: 0,0:14:41.19,0:14:44.86,italics,Fate,0,0,0,,These two silver coins are everything \NI've been able to save up by working...
+Dialogue: 0,0:14:44.86,0:14:48.50,main,Stand Owner,0,0,0,,All you'll be able to afford are \Nthose trash weapons in the barrel.
+Dialogue: 0,0:14:48.50,0:14:49.58,main,Customer,0,0,0,,I was curious about this...
+Dialogue: 0,0:14:49.58,0:14:51.16,main,Stand Owner,0,0,0,,Oh, sir!
+Dialogue: 0,0:14:51.16,0:14:53.38,main,Fate,0,0,0,,Well, I guess it's better than nothing.
+Dialogue: 0,0:14:55.62,0:14:56.60,italics,Fate,0,0,0,,Identify.
+Dialogue: 0,0:14:58.00,0:15:01.08,italics,Fate,0,0,0,,Zero for both durability and strength, huh?
+Dialogue: 0,0:15:03.14,0:15:04.56,italics,Fate,0,0,0,,Identify.
+Dialogue: 0,0:15:04.56,0:15:05.83,italics,Fate,0,0,0,,This one, too.
+Dialogue: 0,0:15:06.95,0:15:08.06,italics,Fate,0,0,0,,And this...
+Dialogue: 0,0:15:21.64,0:15:25.77,italics,Fate,0,0,0,,Filthy, and treated like trash.
+Dialogue: 0,0:15:27.13,0:15:29.05,italics,Fate,0,0,0,,A lot like me.
+Dialogue: 0,0:15:30.37,0:15:31.57,italics,Greed,0,0,0,,Hey, you.
+Dialogue: 0,0:15:31.57,0:15:33.02,main,Fate,0,0,0,,It talked?!
+Dialogue: 0,0:15:35.29,0:15:37.45,italics,Fate,0,0,0,,I'm pretty sure this sword just talked.
+Dialogue: 0,0:15:38.92,0:15:41.33,italics,Fate,0,0,0,,"Greed. One-handed sword."
+Dialogue: 0,0:15:41.79,0:15:45.93,italics,Greed,0,0,0,,I'll make it worth your while, \Nso buy me, Gluttony.
+Dialogue: 0,0:15:46.76,0:15:49.48,italics,Fate,0,0,0,,How'd you know about that?
+Dialogue: 0,0:15:49.48,0:15:52.03,italics,Greed,0,0,0,,We have a lot in common, you and I.
+Dialogue: 0,0:15:52.03,0:15:53.31,italics,Fate,0,0,0,,We do?
+Dialogue: 0,0:15:58.43,0:15:59.48,main,Customer,0,0,0,,This one looks good, too.
+Dialogue: 0,0:15:59.48,0:16:02.62,main,Stand Owner,0,0,0,,You have an eye for quality, sir!
+Dialogue: 0,0:16:05.25,0:16:08.36,main,Memil,0,0,0,,Did you hear the rumors, Rafale?
+Dialogue: 0,0:16:08.36,0:16:11.93,main,Memil,0,0,0,,Roxy is apparently trying to \Nhire Fate for the Hart household
+Dialogue: 0,0:16:11.93,0:16:13.57,main,Memil,0,0,0,,without even asking us!
+Dialogue: 0,0:16:14.45,0:16:18.24,main,Memil,0,0,0,,Let's teach her what happens \Nwhen you defy the Vlerick family!
+Dialogue: 0,0:16:18.24,0:16:21.71,main,Rafale,0,0,0,,There's no shortage of replacements for Fate.
+Dialogue: 0,0:16:22.20,0:16:24.67,main,Rafale,0,0,0,,It's not worth the trouble, Memil.
+Dialogue: 0,0:16:24.96,0:16:28.63,main,Memil,0,0,0,,She was complaining about\N our handling of guard duty, too!
+Dialogue: 0,0:16:28.98,0:16:33.79,main,Rafale,0,0,0,,The Harts and the Vlericks are part of the \Nfive great families that support the kingdom.
+Dialogue: 0,0:16:33.79,0:16:36.59,main,Rafale,0,0,0,,There's no point in \Ncomplicating that right now.
+Dialogue: 0,0:16:39.21,0:16:42.74,main,Rafale,0,0,0,,It's time I head to \Nthe military district, anyway.
+Dialogue: 0,0:16:42.74,0:16:44.10,main,Memil,0,0,0,,Again?
+Dialogue: 0,0:16:44.10,0:16:47.94,main,Memil,0,0,0,,What part of your studies \Nhas you so enthusiastic?
+Dialogue: 0,0:16:49.31,0:16:53.30,main,Rafale,0,0,0,,The study of how to become immortal.
+Dialogue: 0,0:16:54.53,0:16:56.12,main,Memil,0,0,0,,Immortality...?
+Dialogue: 0,0:16:59.10,0:17:02.83,main,Memil,0,0,0,,Oh, Rafale, you don't have to tease me!
+Dialogue: 0,0:17:07.80,0:17:09.62,italics,Greed,0,0,0,,"Fate Graphite."
+Dialogue: 0,0:17:09.62,0:17:10.73,main,Fate,0,0,0,,What?
+Dialogue: 0,0:17:10.73,0:17:12.80,italics,Greed,0,0,0,,Fate Graphite...
+Dialogue: 0,0:17:12.80,0:17:15.64,italics,Greed,0,0,0,,Congratulations, I've learned your name.
+Dialogue: 0,0:17:16.22,0:17:18.13,main,Fate,0,0,0,,Like that's some kind of favor...?
+Dialogue: 0,0:17:20.10,0:17:21.90,italics,Greed,0,0,0,,Here they come, Fate.
+Dialogue: 0,0:17:28.06,0:17:32.05,italics,Voice,0,0,0,,Gluttony skill has activated. \NIncreasing stats.
+Dialogue: 0,0:17:32.05,0:17:34.56,italics,Voice,0,0,0,,Skill Strength Boost has been added.
+Dialogue: 0,0:17:34.56,0:17:35.75,italics,Fate,0,0,0,,It happened again.
+Dialogue: 0,0:17:44.27,0:17:46.00,italics,Greed,0,0,0,,Get a load of that.
+Dialogue: 0,0:17:46.00,0:17:50.46,italics,Greed,0,0,0,,I guess they were right about "When you see \None goblin, there's a hundred more around."
+Dialogue: 0,0:17:50.46,0:17:51.88,main,Fate,0,0,0,,A-A hundred?!
+Dialogue: 0,0:17:56.21,0:17:57.32,main,Fate,0,0,0,,They're coming!
+Dialogue: 0,0:17:59.49,0:18:00.42,main,Fate,0,0,0,,Dammit!
+Dialogue: 0,0:18:04.66,0:18:06.44,italics,Voice,0,0,0,,Gluttony skill has activated.
+Dialogue: 0,0:18:07.12,0:18:09.00,italics,Voice,0,0,0,,Gluttony skill has activated.
+Dialogue: 0,0:18:10.42,0:18:12.24,italics,Voice,0,0,0,,Gluttony skill has activated.
+Dialogue: 0,0:18:12.71,0:18:27.93,italics,Voice,0,0,0,,Gluttony skill has activated.
+Dialogue: 0,0:18:35.05,0:18:36.84,main,Fate,0,0,0,,More new skills...
+Dialogue: 0,0:18:35.05,0:18:36.85,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(12.229,83.136)}[Stats]
+Dialogue: 0,0:18:35.05,0:18:36.85,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(12.229,130.122)}Vitality:
+Dialogue: 0,0:18:35.05,0:18:36.85,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(11.864,167.728)}Strength:
+Dialogue: 0,0:18:35.05,0:18:36.85,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(12.229,202.414)}Magic:
+Dialogue: 0,0:18:35.05,0:18:36.85,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(12.229,241.481)}Spirit:
+Dialogue: 0,0:18:35.05,0:18:36.85,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(12.594,276.531)}Agility:
+Dialogue: 0,0:18:35.05,0:18:36.85,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(456.868,85.578)}[Skills]
+Dialogue: 0,0:18:35.05,0:18:36.85,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(456.868,130.852)}Gluttony
+Dialogue: 0,0:18:35.05,0:18:36.85,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(456.868,169.919)}Identify
+Dialogue: 0,0:18:35.05,0:18:36.85,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\pos(456.868,205.335)}Telepathy
+Dialogue: 0,0:18:35.05,0:18:36.85,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\fs15\pos(536.823,239.655)}Strength\NBoost (Low)
+Dialogue: 0,0:18:35.05,0:18:36.85,sign_harsh_red,Sign,0,0,0,,{\an7\fade(500,1)\3c&H090203&\fs15\pos(537.918,273.61)}Vitality\NBoost (Low)
+Dialogue: 0,0:18:38.44,0:18:40.31,italics,Greed,0,0,0,,You're probably filled up now, right?
+Dialogue: 0,0:18:41.33,0:18:45.31,main,Fate,0,0,0,,Now that you mention it... my stomach \Nhasn't growled even once today.
+Dialogue: 0,0:18:46.88,0:18:48.66,main,Fate,0,0,0,,That's never happened before.
+Dialogue: 0,0:18:50.93,0:18:54.69,main,Fate,0,0,0,,But I thought you were born with \Nthe only skills you'd ever have.
+Dialogue: 0,0:18:55.50,0:18:57.66,italics,Greed,0,0,0,,You can thank the Gluttony skill for that.
+Dialogue: 0,0:18:58.15,0:19:01.00,italics,Greed,0,0,0,,Normally, your stats increase from battles,
+Dialogue: 0,0:19:01.00,0:19:04.00,italics,Greed,0,0,0,,and based on your experience, \Nyour level goes up.
+Dialogue: 0,0:19:04.00,0:19:08.50,italics,Greed,0,0,0,,But the Gluttony skill \Nsteals stats and skills,
+Dialogue: 0,0:19:08.84,0:19:11.56,italics,Greed,0,0,0,,at the cost of not \Nbenefiting from experience.
+Dialogue: 0,0:19:11.56,0:19:14.46,main,Fate,0,0,0,,That's why I'm still level one, then.
+Dialogue: 0,0:19:14.46,0:19:16.76,main,Fate,0,0,0,,How do you know all this?
+Dialogue: 0,0:19:16.76,0:19:19.45,italics,Greed,0,0,0,,Because we're in the same boat.
+Dialogue: 0,0:19:19.45,0:19:20.55,main,Fate,0,0,0,,We are?
+Dialogue: 0,0:19:26.89,0:19:31.44,italics,Greed,0,0,0,,Your Gluttony skill isn't the kind of thing \Nyou want other people finding out about.
+Dialogue: 0,0:19:32.79,0:19:36.44,italics,Greed,0,0,0,,It's one of the skills that defy divine law.
+Dialogue: 0,0:19:43.33,0:19:46.12,main,Fate,0,0,0,,So, I'd better do my fighting alone.
+Dialogue: 0,0:19:46.12,0:19:47.77,italics,Greed,0,0,0,,You've got me, don't you?
+Dialogue: 0,0:19:48.66,0:19:50.58,italics,Greed,0,0,0,,Now that you're wielding me,
+Dialogue: 0,0:19:51.06,0:19:53.15,italics,Greed,0,0,0,,you're not alone anymore, Fate.
+Dialogue: 0,0:19:53.15,0:19:55.30,main,Fate,0,0,0,,So, you accept me as your master?
+Dialogue: 0,0:19:55.30,0:19:57.42,italics,Greed,0,0,0,,Whoa, there, let's not get cocky.
+Dialogue: 0,0:19:57.42,0:19:59.30,main,Fate,0,0,0,,But it's the truth, isn't it?
+Dialogue: 0,0:19:59.30,0:20:00.33,italics,Greed,0,0,0,,Pipe down!
+Dialogue: 0,0:20:03.98,0:20:05.88,main,Fate,0,0,0,,Well, I guess I'll head back for today.
+Dialogue: 0,0:20:05.88,0:20:09.72,italics,Greed,0,0,0,,Whoa, whoa, whoa! Collect those goblin ears.
+Dialogue: 0,0:20:10.60,0:20:12.32,italics,Greed,0,0,0,,You need to get paid.
+Dialogue: 0,0:20:14.02,0:20:16.94,main,Fate,0,0,0,,Maybe I shouldn't have killed all of them...
+Dialogue: 0,0:20:22.95,0:20:27.74,main,Fate,0,0,0,,Thirty eight goblins earns me three \Nsilver and eighty bronze coins.
+Dialogue: 0,0:20:28.20,0:20:30.22,main,Fate,0,0,0,,That's enough for meat with dinner!
+Dialogue: 0,0:20:30.22,0:20:33.81,italics,Greed,0,0,0,,Hold it. My maintenance comes first.
+Dialogue: 0,0:20:33.81,0:20:36.01,italics,Greed,0,0,0,,Do a proper job and treat me \Nlike the gem I am.
+Dialogue: 0,0:20:36.01,0:20:37.96,main,Fate,0,0,0,,For a sword, you've got \Na real high opinion of yourself.
+Dialogue: 0,0:20:37.96,0:20:40.44,italics,Greed,0,0,0,,I didn't get the name Greed on accident!
+Dialogue: 0,0:20:40.44,0:20:43.24,main,Fate,0,0,0,,Yeah, yeah. Meat comes first.
+Dialogue: 0,0:20:43.24,0:20:44.13,main,Fate,0,0,0,,It's been five years since—
+Dialogue: 0,0:20:45.55,0:20:48.14,main,Kasim,0,0,0,,Watch where you're going, you dumbass.
+Dialogue: 0,0:20:48.14,0:20:49.31,main,Fate,0,0,0,,Sorry about that.
+Dialogue: 0,0:20:50.03,0:20:51.43,main,Sahara,0,0,0,,Help!
+Dialogue: 0,0:20:53.94,0:20:54.85,main,Kasim,0,0,0,,Let's go.
+Dialogue: 0,0:20:59.73,0:21:01.19,main,Fate,0,0,0,,What are his skills...?
+Dialogue: 0,0:20:59.73,0:21:02.40,sign_harsh_red,Signs; bottom to top,0,0,0,,{\c&HF7F7F7&\fs15\move(441.94,109.026,443.765,362.779)}Vitality
+Dialogue: 0,0:21:00.48,0:21:02.36,sign_harsh_red,Signs; bottom to top,0,0,0,,{\c&HF7F7F7&\fs15\move(184.552,75.071,185.647,245.943)}Strength
+Dialogue: 0,0:21:01.23,0:21:02.28,sign_harsh_red,Signs; bottom to top,0,0,0,,{\c&HF7F7F7&\fs15\move(391.557,98.073,393.382,190.811)}Agility
+Dialogue: 0,0:21:01.23,0:21:02.28,sign_harsh_red,Signs; bottom to top,0,0,0,,{\c&HF7F7F7&\fs15\move(390.462,55.355,393.018,148.093)}Spirit
+Dialogue: 0,0:21:01.23,0:21:02.28,sign_harsh_red,Signs; bottom to top,0,0,0,,{\c&HF7F7F7&\fs15\move(393.018,11.907,391.193,106.471)}Magic
+Dialogue: 0,0:21:04.20,0:21:06.06,italics,Greed,0,0,0,,The Conceal skill, huh?
+Dialogue: 0,0:21:06.06,0:21:09.00,italics,Greed,0,0,0,,That keeps his skills from being \Nvisible, even against Identify.
+Dialogue: 0,0:21:09.00,0:21:11.51,main,Fate,0,0,0,,So there's no telling what he could do?
+Dialogue: 0,0:21:11.51,0:21:12.41,italics,Greed,0,0,0,,Yeah.
+Dialogue: 0,0:21:12.77,0:21:14.65,italics,Greed,0,0,0,,What's your call, Fate?
+Dialogue: 0,0:21:14.65,0:21:16.37,main,Fate,0,0,0,,What do you mean?
+Dialogue: 0,0:21:17.25,0:21:18.84,main,Fate,0,0,0,,I can't just ignore this!
+Dialogue: 0,0:21:26.83,0:21:28.30,main,Kasim,0,0,0,,You should be happy!
+Dialogue: 0,0:21:28.30,0:21:33.14,main,Kasim,0,0,0,,There's a place even worthless trash \Nlike you can serve some purpose.
+Dialogue: 0,0:21:34.36,0:21:37.48,main,Kasim,0,0,0,,You're gonna be a toy for the holy knights!
+Dialogue: 0,0:21:37.48,0:21:39.44,main,Kasim,0,0,0,,Ain't that great?
+Dialogue: 0,0:21:43.88,0:21:46.61,main,Kasim,0,0,0,,Huh?! Huh?!
+Dialogue: 0,0:21:46.61,0:21:49.46,italics,Greed,0,0,0,,Hold on. This guy's pretty tough.
+Dialogue: 0,0:21:49.46,0:21:51.26,italics,Greed,0,0,0,,This is your last chance to turn back.
+Dialogue: 0,0:21:51.26,0:21:53.26,italics,Fate,0,0,0,,I've finally got some kind of power...
+Dialogue: 0,0:21:53.26,0:21:54.59,main,Kasim,0,0,0,,You scared?
+Dialogue: 0,0:21:54.59,0:21:59.00,italics,Fate,0,0,0,,If someone's suffering in front \Nof me, I want to help them!
+Dialogue: 0,0:23:35.64,0:23:39.98,sign_harsh_red,Sign,0,0,0,,{\fade(400,1)\3c&H000100&\fs30\pos(313.68,149.875)\blur1}Hunger Boost
+Dialogue: 0,0:23:36.25,0:23:38.11,italics,Greed,0,0,0,,"Hunger Boost."

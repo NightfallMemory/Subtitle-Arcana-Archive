@@ -1,0 +1,386 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Alderamin-internal/narrator,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Alderamin-internal-top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Alderamin-overlap,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-overlap-top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Alderamin-flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-flashbackinternal,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-flashback-overlap,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-Episode_Title,Open Sans Semibold,38,&H00D0DFEE,&H000000FF,&H00493F46,&H00493F46,0,0,0,0,100,100,0,0,1,1,1,2,27,13,173,1
+Style: Alderamin-Next_Episode,Open Sans Semibold,38,&H00FFFFF9,&H000000FF,&H00B0B689,&H0020222B,0,0,0,0,100,100,0,0,1,2,0,2,13,13,173,1
+Style: sign_3783_21_Northern_Garriso,Open Sans Semibold,33,&H00DDE8E6,&H000000FF,&H00152426,&H00152426,0,0,0,0,100,100,0,0,1,1,1,2,187,187,73,0
+Style: sign_5856_52_Alfatra_Mountain,Open Sans Semibold,33,&H00DDE8E6,&H000000FF,&H00152426,&H00152426,0,0,0,0,100,100,0,0,1,1,1,2,213,240,113,0
+Style: sign_9196_101_Captain_Hilmish_,Open Sans Semibold,33,&H00D4D5D2,&H000000FF,&H00152426,&H00152426,0,0,0,0,100,100,0,0,1,1,1,2,243,243,73,0
+Style: sign_18030_203_Lieutenant_Manba,Open Sans Semibold,33,&H00DAF4F4,&H000000FF,&H00234248,&H00234248,0,0,0,0,100,100,0,0,1,1,1,2,244,244,73,0
+Style: sign_24885_291_32nd_Air_Gun_Pla,Open Sans Semibold,33,&H00D4D5D2,&H000000FF,&H00152426,&H00152426,0,0,0,0,100,100,0,0,1,1,1,2,117,117,73,0
+Style: sign_4485_35_First_Lieutenant,Open Sans Semibold,33,&H00E4E8E9,&H000000FF,&H00152426,&H00152426,0,0,0,0,100,100,0,0,1,1,1,2,211,211,73,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:05.22,0:00:06.90,Default,I,0000,0000,0000,,I expected this,
+Dialogue: 0,0:00:06.90,0:00:09.20,Default,I,0000,0000,0000,,but I'm amazed at this attack's\Nlack of planning.
+Dialogue: 0,0:00:09.20,0:00:12.50,Default,I,0000,0000,0000,,Emergency requisitioning of jackets \Nand gloves to keep out the cold!
+Dialogue: 0,0:00:12.50,0:00:14.21,Default,I,0000,0000,0000,,Did the Lieutenant General not know
+Dialogue: 0,0:00:14.21,0:00:18.45,Default,I,0000,0000,0000,,that it gets cold on top of mountains, Suya?
+Dialogue: 0,0:00:19.66,0:00:23.85,Default,Gi,0000,0000,0000,,It pains me to know that my allies on\Nthe front lines are suffering in the cold.
+Dialogue: 0,0:00:23.85,0:00:26.84,Default,I,0000,0000,0000,,You're as kind as\Nthe holy mother herself, Suya!
+Dialogue: 0,0:00:26.84,0:00:28.91,Default,I,0000,0000,0000,,When you're feeling cold,
+Dialogue: 0,0:00:28.91,0:00:31.46,Default,I,0000,0000,0000,,I'll hold you tight to warm you up, okay?
+Dialogue: 0,0:00:31.81,0:00:35.07,Default,Gi,0000,0000,0000,,Just start a fire.
+Dialogue: 0,0:00:35.07,0:00:37.11,Default,Gi,0000,0000,0000,,Anyway, we're almost there.
+Dialogue: 0,0:00:40.43,0:00:42.98,Default,Gu,0000,0000,0000,,One, two, three, four...
+Dialogue: 0,0:00:42.98,0:00:45.01,Default,Gu,0000,0000,0000,,Huh? There's not enough.
+Dialogue: 0,0:00:51.33,0:00:52.57,Default,I,0000,0000,0000,,Again, huh?
+Dialogue: 0,0:00:52.97,0:00:54.54,Default,Gu,0000,0000,0000,,Check's complete.
+Dialogue: 0,0:00:54.95,0:00:56.03,Default,I,0000,0000,0000,,I see.
+Dialogue: 0,0:00:56.03,0:00:57.24,Default,I,0000,0000,0000,,Bye.
+Dialogue: 0,0:00:57.24,0:00:58.76,Default,Gu,0000,0000,0000,,Oh, excuse me.
+Dialogue: 0,0:00:58.76,0:01:01.20,Default,Gu,0000,0000,0000,,The officer cadets \Nare to go to that tent.
+Dialogue: 0,0:01:01.44,0:01:02.96,Default,Gu,0000,0000,0000,,The commander wishes to see you.
+Dialogue: 0,0:02:36.74,0:02:41.02,Alderamin-top,Gu,0000,0000,0000,,There were 124 casualties \Nin yesterday's battle.
+Dialogue: 0,0:02:37.76,0:02:41.30,sign_3783_21_Northern_Garriso,Gu,0000,0000,0000,,{\fad(400,400)}Northern Garrison Command Room
+Dialogue: 0,0:02:41.02,0:02:41.78,Alderamin-top,Gu,0000,0000,0000,,Among them—
+Dialogue: 0,0:02:41.78,0:02:43.39,Default,Gu,0000,0000,0000,,What's taking so damn long?!
+Dialogue: 0,0:02:43.78,0:02:45.84,Default,Gu,0000,0000,0000,,It's been three weeks!
+Dialogue: 0,0:02:46.38,0:02:48.32,Default,Gu,0000,0000,0000,,The men are unused to high elevations
+Dialogue: 0,0:02:48.32,0:02:50.52,Default,Gu,0000,0000,0000,,and have encountered several\Nunexpected obstacles.
+Dialogue: 0,0:02:50.86,0:02:52.31,Default,Gu,0000,0000,0000,,We should withdraw—
+Dialogue: 0,0:02:53.23,0:02:55.80,Default,Gu,0000,0000,0000,,We're fighting a bunch of mountain monkeys!
+Dialogue: 0,0:02:56.28,0:02:58.03,Default,Gu,0000,0000,0000,,The only choice is to advance!
+Dialogue: 0,0:02:59.16,0:03:00.65,Default,Gi,0000,0000,0000,,Withdraw our troops?
+Dialogue: 0,0:03:01.47,0:03:02.66,Default,Gi,0000,0000,0000,,What are you thinking?
+Dialogue: 0,0:03:04.42,0:03:05.85,Default,Gu,0000,0000,0000,,We spread the bait.
+Dialogue: 0,0:03:05.85,0:03:07.04,Default,Gu,0000,0000,0000,,That's all.
+Dialogue: 0,0:03:07.04,0:03:08.79,sign_4485_35_First_Lieutenant,Gu,0000,0000,0000,,First Lieutenant Amuse Sulkatta
+Dialogue: 0,0:03:09.70,0:03:14.79,Default,Gu,0000,0000,0000,,Your next orders are to transport supplies\Nto the next supply point.
+Dialogue: 0,0:03:14.79,0:03:17.17,Default,Gu,0000,0000,0000,,You'll be taking the same things as before.
+Dialogue: 0,0:03:17.90,0:03:19.10,Default,Gu,0000,0000,0000,,Any questions?
+Dialogue: 0,0:03:20.57,0:03:24.33,Default,Gu,0000,0000,0000,,Does that mean we're being sent \Nto the front lines as well?
+Dialogue: 0,0:03:26.91,0:03:29.66,Default,Gu,0000,0000,0000,,I wouldn't say the front line, exactly...
+Dialogue: 0,0:03:29.66,0:03:32.81,Default,Gu,0000,0000,0000,,It's just closer to the combat zone\Nthan you are now.
+Dialogue: 0,0:03:34.49,0:03:35.57,Default,Gu,0000,0000,0000,,Any other questions?
+Dialogue: 0,0:03:35.57,0:03:39.87,Default,Y,0000,0000,0000,,First Lieutenant,\NI don't see any medics here.
+Dialogue: 0,0:03:39.87,0:03:40.79,Default,Y,0000,0000,0000,,Where are they?
+Dialogue: 0,0:03:41.72,0:03:44.57,Default,Gu,0000,0000,0000,,They left for where you're going now.
+Dialogue: 0,0:03:44.97,0:03:49.12,Default,Gu,0000,0000,0000,,There's a dire need for a field hospital.
+Dialogue: 0,0:03:51.00,0:03:54.21,Default,I,0000,0000,0000,,First we're taken off the reserves,
+Dialogue: 0,0:03:54.21,0:03:57.33,Default,I,0000,0000,0000,,and now we're heading to\Nthe front lines, huh?
+Dialogue: 0,0:03:57.33,0:04:00.98,Default,M,0000,0000,0000,,If Haro and the others are there already...
+Dialogue: 0,0:04:00.98,0:04:01.97,Default,I,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:02.64,0:04:05.75,Default,I,0000,0000,0000,,Things must be really hot at the front lines.
+Dialogue: 0,0:04:04.22,0:04:07.05,sign_5856_52_Alfatra_Mountain,I,0000,0000,0000,,{\fad(1,350)}Alafatra Mountains \N3600 meters above sea level
+Dialogue: 0,0:04:06.10,0:04:08.72,Default,Gu,0000,0000,0000,,Push... push...
+Dialogue: 0,0:04:09.34,0:04:12.48,Alderamin-internal/narrator,Gi,0000,0000,0000,,I'm tougher than I thought.
+Dialogue: 0,0:04:14.08,0:04:16.99,Default,Gi,0000,0000,0000,,Come on, Azan. Focus on your breathing.
+Dialogue: 0,0:04:16.99,0:04:19.63,Default,Gi,0000,0000,0000,,If you pant, it will only tire you more.
+Dialogue: 0,0:04:20.34,0:04:21.45,Default,Gu,0000,0000,0000,,Yes, ma'am.
+Dialogue: 0,0:04:21.45,0:04:23.49,Default,Gu,0000,0000,0000,,I'm sorry, Private First Class Kanna.
+Dialogue: 0,0:04:23.49,0:04:24.80,Default,Gu,0000,0000,0000,,Halt!
+Dialogue: 0,0:04:24.80,0:04:26.24,Default,Gu,0000,0000,0000,,Stronghold to our front!
+Dialogue: 0,0:04:26.24,0:04:27.81,Default,Gu,0000,0000,0000,,Scouts!
+Dialogue: 0,0:04:30.63,0:04:33.12,Default,Gu,0000,0000,0000,,It's abandoned. Perfect.
+Dialogue: 0,0:04:33.12,0:04:35.27,Default,Gu,0000,0000,0000,,And it's on high ground, too.
+Dialogue: 0,0:04:35.27,0:04:38.16,Default,Gu,0000,0000,0000,,Okay, all units will remain here.
+Dialogue: 0,0:04:38.16,0:04:39.88,Default,Gu,0000,0000,0000,,This can be our camp.
+Dialogue: 0,0:04:40.40,0:04:42.72,Default,Gu,0000,0000,0000,,Now we won't have to climb \Nany more for a while.
+Dialogue: 0,0:04:43.49,0:04:47.09,Default,Gu,0000,0000,0000,,You are to defend this location to \Nthe death until further orders!
+Dialogue: 0,0:04:47.09,0:04:48.15,Default,Gu,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:05:01.62,0:05:02.49,Default,I,0000,0000,0000,,Haro!
+Dialogue: 0,0:05:04.48,0:05:06.01,Default,I,0000,0000,0000,,It's been a while.
+Dialogue: 0,0:05:06.47,0:05:07.87,Default,I,0000,0000,0000,,Want to eat together?
+Dialogue: 0,0:05:10.38,0:05:13.87,Default,H,0000,0000,0000,,Doesn't this ruin your appetite?
+Dialogue: 0,0:05:13.87,0:05:16.87,Default,I,0000,0000,0000,,It's perfect. I don't have any\N tomatoes to go with the meal.
+Dialogue: 0,0:05:17.72,0:05:21.24,Default,I,0000,0000,0000,,Looks like the field hospital's \Nbusy every day, huh?
+Dialogue: 0,0:05:21.24,0:05:22.17,Default,H,0000,0000,0000,,Yes.
+Dialogue: 0,0:05:22.17,0:05:24.29,Default,H,0000,0000,0000,,We're almost out of bandages and medicine.
+Dialogue: 0,0:05:24.76,0:05:27.63,Default,I,0000,0000,0000,,For our part, we kept \Nrunning transport missions
+Dialogue: 0,0:05:27.63,0:05:29.17,Default,I,0000,0000,0000,,until we ended up out here.
+Dialogue: 0,0:05:29.79,0:05:32.33,Default,I,0000,0000,0000,,This isn't the rear anymore, is it?
+Dialogue: 0,0:05:34.41,0:05:35.47,Default,H,0000,0000,0000,,Ikta-san,
+Dialogue: 0,0:05:35.47,0:05:38.86,Default,H,0000,0000,0000,,I want to go make a proposal to headquarters.
+Dialogue: 0,0:05:38.86,0:05:41.15,Default,I,0000,0000,0000,,Yeah, you should.
+Dialogue: 0,0:05:41.65,0:05:44.31,Default,I,0000,0000,0000,,The field hospital should be\Nfurther to the rear,
+Dialogue: 0,0:05:44.31,0:05:46.51,Default,I,0000,0000,0000,,or more specifically, someplace lower.
+Dialogue: 0,0:05:46.98,0:05:49.28,Default,H,0000,0000,0000,,Ikta-san, when did you...
+Dialogue: 0,0:05:49.93,0:05:53.00,Default,I,0000,0000,0000,,I've seen a lot of soldiers being\N carried down the mountain
+Dialogue: 0,0:05:53.00,0:05:55.29,Default,I,0000,0000,0000,,with no external wounds.
+Dialogue: 0,0:05:56.36,0:05:59.92,Default,H,0000,0000,0000,,So you noticed...
+Dialogue: 0,0:06:01.80,0:06:03.04,Default,Gu,0000,0000,0000,,Enemy attack!
+Dialogue: 0,0:06:03.04,0:06:05.13,Default,Gu,0000,0000,0000,,Someone fight them!
+Dialogue: 0,0:06:05.59,0:06:09.01,Default,I,0000,0000,0000,,Ikta Platoon, Matthew Platoon,\NTorway Platoon,
+Dialogue: 0,0:06:09.01,0:06:11.07,Default,I,0000,0000,0000,,grab your weapons and line up near the tents!
+Dialogue: 0,0:06:11.92,0:06:15.18,Default,Y,0000,0000,0000,,The Yatorishino Cavalry Platoon \Nis to mount and stand by here.
+Dialogue: 0,0:06:15.68,0:06:16.52,Default,Gu,0000,0000,0000,,The enemy...
+Dialogue: 0,0:06:16.52,0:06:17.56,Default,Gu,0000,0000,0000,,Where's the enemy?
+Dialogue: 0,0:06:18.62,0:06:20.41,Default,Y,0000,0000,0000,,They've launched a night attack, Captain.
+Dialogue: 0,0:06:20.88,0:06:23.32,Default,Y,0000,0000,0000,,The enemy probably isn't using any light.
+Dialogue: 0,0:06:23.52,0:06:27.28,sign_9196_101_Captain_Hilmish_,Gu,0000,0000,0000,,{\fad(500,500)}Captain Hilmish Nikafarma
+Dialogue: 0,0:06:23.55,0:06:25.42,Alderamin-top,Gu,0000,0000,0000,,I-I see.
+Dialogue: 0,0:06:25.42,0:06:28.86,Alderamin-top,Gu,0000,0000,0000,,If we just let the defending \Nforce handle it...
+Dialogue: 0,0:06:29.08,0:06:33.95,Default,I,0000,0000,0000,,Our platoons will stand by with our weapons\Nto the rear of the defending force, then.
+Dialogue: 0,0:06:34.32,0:06:38.12,Default,I,0000,0000,0000,,If the tide turns against us,\Nwe'll offer support.
+Dialogue: 0,0:06:38.12,0:06:39.46,Default,Gu,0000,0000,0000,,Yes.
+Dialogue: 0,0:06:39.46,0:06:40.87,Default,Gu,0000,0000,0000,,That's right!
+Dialogue: 0,0:06:42.04,0:06:43.42,Default,M,0000,0000,0000,,Hey, Ikta.
+Dialogue: 0,0:06:43.84,0:06:47.13,Default,M,0000,0000,0000,,Shouldn't we meet up\Nwith the defending force?
+Dialogue: 0,0:06:47.13,0:06:49.40,Default,I,0000,0000,0000,,There's a lot of chaos at the front.
+Dialogue: 0,0:06:49.40,0:06:51.84,Default,I,0000,0000,0000,,If we rush there, we'll be caught up in it.
+Dialogue: 0,0:06:51.84,0:06:54.22,Default,I,0000,0000,0000,,And the captain there will be in control.
+Dialogue: 0,0:06:54.22,0:06:58.98,Default,Y,0000,0000,0000,,Meaning you're our temporary leader, Ikta?
+Dialogue: 0,0:06:59.20,0:07:02.22,Default,I,0000,0000,0000,,You want to attack if possible, right?
+Dialogue: 0,0:07:02.22,0:07:04.47,Default,I,0000,0000,0000,,And I want to move as little as possible,
+Dialogue: 0,0:07:04.47,0:07:05.98,Default,I,0000,0000,0000,,so our interests coincide.
+Dialogue: 0,0:07:06.72,0:07:09.52,Default,Y,0000,0000,0000,,Oh, could you see it on my face?
+Dialogue: 0,0:07:09.52,0:07:12.49,Default,Y,0000,0000,0000,,I'll have to learn to control myself better.
+Dialogue: 0,0:07:16.76,0:07:17.88,Default,M,0000,0000,0000,,The enemy?
+Dialogue: 0,0:07:17.88,0:07:19.39,Default,I,0000,0000,0000,,No, allies.
+Dialogue: 0,0:07:19.39,0:07:21.26,Default,I,0000,0000,0000,,They're being chased from the rear.
+Dialogue: 0,0:07:21.26,0:07:22.50,Default,Y,0000,0000,0000,,This isn't good.
+Dialogue: 0,0:07:22.50,0:07:23.88,Default,Y,0000,0000,0000,,They're out of formation.
+Dialogue: 0,0:07:24.52,0:07:26.75,Default,Y,0000,0000,0000,,Both enemy and ally are following after them.
+Dialogue: 0,0:07:28.90,0:07:31.42,Default,I,0000,0000,0000,,All infantry, ready your swords!
+Dialogue: 0,0:07:32.02,0:07:33.89,Default,I,0000,0000,0000,,Warrant Officers Torway and Matthew,
+Dialogue: 0,0:07:33.89,0:07:36.51,Default,I,0000,0000,0000,,do not open fire until \Nour allies have passed!
+Dialogue: 0,0:07:36.99,0:07:39.27,Default,I,0000,0000,0000,,Ikta Platoon's light troops,\Nprepare to attack!
+Dialogue: 0,0:07:39.76,0:07:41.77,Default,I,0000,0000,0000,,Equip your partner to your crossbows!
+Dialogue: 0,0:07:42.25,0:07:45.36,Default,I,0000,0000,0000,,Yatorishino's Cavalry Platoon \Nis to stand by to the rear.
+Dialogue: 0,0:07:45.36,0:07:47.02,Default,I,0000,0000,0000,,I'll send the attack signal later!
+Dialogue: 0,0:07:49.64,0:07:52.14,Default,M,0000,0000,0000,,Ikta, I know it's embarrassing,
+Dialogue: 0,0:07:52.14,0:07:53.88,Default,M,0000,0000,0000,,but can I ask you something?
+Dialogue: 0,0:07:54.34,0:07:56.53,Default,I,0000,0000,0000,,Anything, my friend Matthew.
+Dialogue: 0,0:07:58.22,0:08:01.29,Default,M,0000,0000,0000,,How can I be as calm as you?
+Dialogue: 0,0:08:04.59,0:08:07.52,Default,I,0000,0000,0000,,Once upon a time there was a brave general,
+Dialogue: 0,0:08:07.52,0:08:08.92,Default,I,0000,0000,0000,,and a cowardly general.
+Dialogue: 0,0:08:09.69,0:08:13.54,Default,I,0000,0000,0000,,One day the cowardly general \Nasked the brave general,
+Dialogue: 0,0:08:14.02,0:08:17.07,Default,I,0000,0000,0000,,"How can I avoid being afraid of battle?"
+Dialogue: 0,0:08:18.02,0:08:20.97,Default,I,0000,0000,0000,,The brave general asked him\Na question instead.
+Dialogue: 0,0:08:21.55,0:08:25.47,Default,I,0000,0000,0000,,"How can I stay sane in \Nthat hell, like you do?"
+Dialogue: 0,0:08:26.36,0:08:28.78,Default,I,0000,0000,0000,,You've recognized your cowardice,
+Dialogue: 0,0:08:28.78,0:08:31.25,Default,I,0000,0000,0000,,and you want to fix it.
+Dialogue: 0,0:08:31.25,0:08:34.45,Default,I,0000,0000,0000,,Which means you're more \Nthan calm enough already.
+Dialogue: 0,0:08:34.45,0:08:35.20,Default,I,0000,0000,0000,,Matthew!
+Dialogue: 0,0:08:43.43,0:08:45.92,Default,I,0000,0000,0000,,Ikta Platoon, aim forward!
+Dialogue: 0,0:08:51.57,0:08:52.97,Default,I,0000,0000,0000,,Beams on!
+Dialogue: 0,0:08:56.97,0:08:58.76,Default,I,0000,0000,0000,,Charge!
+Dialogue: 0,0:09:05.18,0:09:07.52,Default,I,0000,0000,0000,,A second wave's coming!\NMatthew! Torway!
+Dialogue: 0,0:09:08.44,0:09:09.27,Default,M,0000,0000,0000,,Fire!
+Dialogue: 0,0:09:13.61,0:09:15.45,Default,I,0000,0000,0000,,Okay, finish it!
+Dialogue: 0,0:09:15.45,0:09:16.52,Default,I,0000,0000,0000,,Yatori!
+Dialogue: 0,0:09:19.82,0:09:20.99,Default,Y,0000,0000,0000,,Charge!
+Dialogue: 0,0:09:26.96,0:09:28.39,Default,Y,0000,0000,0000,,All troops, draw swords!
+Dialogue: 0,0:09:28.82,0:09:31.02,Default,Y,0000,0000,0000,,Charge through the middle to split the enemy,
+Dialogue: 0,0:09:31.02,0:09:32.09,Default,Y,0000,0000,0000,,and then wipe them out!
+Dialogue: 0,0:09:37.72,0:09:39.07,Default,Gu,0000,0000,0000,,Don't separate!
+Dialogue: 0,0:09:39.07,0:09:40.22,Default,Gu,0000,0000,0000,,Regroup!
+Dialogue: 0,0:09:40.63,0:09:41.72,Default,Gu,0000,0000,0000,,Regroup!
+Dialogue: 0,0:09:58.16,0:10:01.22,Default,Gi,0000,0000,0000,,Warrant Officer, the enemy was \Nalmost completely eliminated.
+Dialogue: 0,0:10:01.22,0:10:02.77,Default,Gi,0000,0000,0000,,No casualties on our side.
+Dialogue: 0,0:10:03.58,0:10:05.53,Default,Gi,0000,0000,0000,,It was...
+Dialogue: 0,0:10:05.53,0:10:06.37,Default,I,0000,0000,0000,,Too easy?
+Dialogue: 0,0:10:08.02,0:10:10.38,Default,Gi,0000,0000,0000,,No... Um...
+Dialogue: 0,0:10:11.83,0:10:14.12,Default,I,0000,0000,0000,,If you thought it was easy, good.
+Dialogue: 0,0:10:14.76,0:10:18.83,Default,I,0000,0000,0000,,If it's a bad job, you should \Nat least make it easy.
+Dialogue: 0,0:10:25.55,0:10:26.75,Default,Gi,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:10:27.54,0:10:30.60,Default,Gu,0000,0000,0000,,I'm really sorry, um...
+Dialogue: 0,0:10:31.40,0:10:32.11,Default,Gi,0000,0000,0000,,What?
+Dialogue: 0,0:10:33.23,0:10:35.11,Default,Gu,0000,0000,0000,,Thanks for all this...
+Dialogue: 0,0:10:35.61,0:10:38.12,Default,Gu,0000,0000,0000,,You kind of remind me of my mom.
+Dialogue: 0,0:10:39.95,0:10:40.91,Default,Gi,0000,0000,0000,,Give me a break.
+Dialogue: 0,0:10:40.91,0:10:43.07,Default,Gi,0000,0000,0000,,I'm not that old—
+Dialogue: 0,0:10:43.07,0:10:45.12,Default,Gi,0000,0000,0000,,Well, I was married.
+Dialogue: 0,0:10:45.12,0:10:46.73,Default,Gu,0000,0000,0000,,You were?
+Dialogue: 0,0:10:46.73,0:10:48.43,Default,Gi,0000,0000,0000,,He died right after,
+Dialogue: 0,0:10:48.43,0:10:50.65,Default,Gi,0000,0000,0000,,and his family kicked me out.
+Dialogue: 0,0:10:51.07,0:10:53.13,Default,Gi,0000,0000,0000,,The only thing they gave me was a book.
+Dialogue: 0,0:10:53.61,0:10:54.82,Default,Gu,0000,0000,0000,,A book?
+Dialogue: 0,0:10:54.82,0:10:57.69,Default,Gi,0000,0000,0000,,They had this huge library.
+Dialogue: 0,0:10:57.69,0:11:00.74,Default,Gi,0000,0000,0000,,When I wasn't doing chores, I'd always read.
+Dialogue: 0,0:11:01.45,0:11:04.39,Default,Gu,0000,0000,0000,,You really do like books.
+Dialogue: 0,0:11:04.77,0:11:06.42,Default,Gi,0000,0000,0000,,Yeah, they're great.
+Dialogue: 0,0:11:06.42,0:11:09.24,Default,Gi,0000,0000,0000,,It's like your whole world's expanding.
+Dialogue: 0,0:11:11.75,0:11:14.02,Default,Gi,0000,0000,0000,,Especially the {\i1}Great Alafatra Survey Records{\i0}.
+Dialogue: 0,0:11:14.83,0:11:18.73,Default,Gi,0000,0000,0000,,Come to think of it, I wonder \Nif Ikkun-dono is doing well.
+Dialogue: 0,0:11:19.30,0:11:20.90,Default,Gu,0000,0000,0000,,Ikkun-dono?
+Dialogue: 0,0:11:21.55,0:11:23.47,Default,Gi,0000,0000,0000,,He's a weird guy,
+Dialogue: 0,0:11:23.47,0:11:25.21,Default,Gi,0000,0000,0000,,but he'd read that book,
+Dialogue: 0,0:11:25.21,0:11:28.03,Default,Gi,0000,0000,0000,,and he said I was a fellow student.
+Dialogue: 0,0:11:28.40,0:11:30.27,Default,Gu,0000,0000,0000,,Are you close?
+Dialogue: 0,0:11:30.27,0:11:33.24,Default,Gi,0000,0000,0000,,No, we just met each other twice.
+Dialogue: 0,0:11:33.24,0:11:36.43,Default,Gi,0000,0000,0000,,He's like a book, though—he knows a lot.
+Dialogue: 0,0:11:37.52,0:11:40.51,Default,Gu,0000,0000,0000,,You're looking forward to\N seeing him again, then?
+Dialogue: 0,0:11:43.05,0:11:44.19,Default,Gi,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:44.19,0:11:48.10,Default,Gi,0000,0000,0000,,What should I ask him the next time we meet?
+Dialogue: 0,0:11:55.11,0:11:57.65,Default,Gu,0000,0000,0000,,We're completely surrounded.
+Dialogue: 0,0:12:01.21,0:12:03.12,Default,Gu,0000,0000,0000,,They deliberately left the fortress empty.
+Dialogue: 0,0:12:04.77,0:12:08.45,Default,Gu,0000,0000,0000,,We've fallen into a trap!
+Dialogue: 0,0:12:18.09,0:12:19.51,Default,I,0000,0000,0000,,Hey, Suya,
+Dialogue: 0,0:12:19.74,0:12:24.96,Default,I,0000,0000,0000,,our mission was to deliver supplies \Nto the camp at the front lines, right?
+Dialogue: 0,0:12:24.96,0:12:25.59,Default,Gi,0000,0000,0000,,Yes.
+Dialogue: 0,0:12:25.95,0:12:28.83,Default,Gi,0000,0000,0000,,If necessary, I can repeat it to you.
+Dialogue: 0,0:12:30.09,0:12:31.98,Default,Gu,0000,0000,0000,,The camp was taken?!
+Dialogue: 0,0:12:31.98,0:12:32.89,Alderamin-top,Gu,0000,0000,0000,,Curse you!
+Dialogue: 0,0:12:31.98,0:12:34.44,sign_18030_203_Lieutenant_Manba,Gu,0000,0000,0000,,{\fad(1,500)}First Lieutenant Manubans Najiru
+Dialogue: 0,0:12:32.89,0:12:36.64,Alderamin-top,Gu,0000,0000,0000,,Now we can't deliver the supplies!
+Dialogue: 0,0:12:36.64,0:12:38.36,Default,Y,0000,0000,0000,,That's their goal, probably.
+Dialogue: 0,0:12:38.83,0:12:42.49,Default,Y,0000,0000,0000,,We'll need a full reevaluation \Nof our supply lines.
+Dialogue: 0,0:12:42.82,0:12:44.50,Default,Gu,0000,0000,0000,,You're overstepping your bounds!
+Dialogue: 0,0:12:44.50,0:12:46.62,Default,Gu,0000,0000,0000,,Warrant Officer Ikta! \NWarrant Officer Matthew!
+Dialogue: 0,0:12:46.62,0:12:49.60,Default,Gu,0000,0000,0000,,I order your group to perform \Nforce reconnaissance!
+Dialogue: 0,0:12:49.60,0:12:52.75,Default,I,0000,0000,0000,,Um... First Lieutenant Najiru?
+Dialogue: 0,0:12:52.75,0:12:56.00,Default,I,0000,0000,0000,,The enemy has approximately\Ntwo platoons worth of soldiers.
+Dialogue: 0,0:12:56.79,0:13:01.64,Default,I,0000,0000,0000,,It may be a bad idea to fight them in equal\Nnumbers under unfavorable conditions.
+Dialogue: 0,0:13:01.64,0:13:02.51,Default,Gu,0000,0000,0000,,Shut up!
+Dialogue: 0,0:13:02.51,0:13:04.64,Default,Gu,0000,0000,0000,,The order's been given!
+Dialogue: 0,0:13:04.64,0:13:09.66,Default,I,0000,0000,0000,,Can you at least give us\NTorway's platoon as support, then?
+Dialogue: 0,0:13:09.66,0:13:10.31,Default,Gu,0000,0000,0000,,Shut up!
+Dialogue: 0,0:13:10.68,0:13:13.41,Default,T,0000,0000,0000,,I'll go! Please let me go, First Lieutenant!
+Dialogue: 0,0:13:13.76,0:13:14.58,Default,Gu,0000,0000,0000,,Silence!
+Dialogue: 0,0:13:14.58,0:13:15.88,Default,I,0000,0000,0000,,One hour.
+Dialogue: 0,0:13:15.88,0:13:17.17,Default,I,0000,0000,0000,,How about that?
+Dialogue: 0,0:13:17.95,0:13:19.06,Default,Gu,0000,0000,0000,,What?
+Dialogue: 0,0:13:19.48,0:13:22.96,Default,I,0000,0000,0000,,I'll take the whole thing back in an hour...
+Dialogue: 0,0:13:22.96,0:13:26.07,Default,I,0000,0000,0000,,if you leave it to my platoon.
+Dialogue: 0,0:13:27.32,0:13:28.32,Default,M,0000,0000,0000,,That's crazy.
+Dialogue: 0,0:13:28.75,0:13:31.30,Default,M,0000,0000,0000,,You can't bring down\N that fortress in an hour.
+Dialogue: 0,0:13:31.70,0:13:33.46,Default,I,0000,0000,0000,,Matthew, my friend,
+Dialogue: 0,0:13:33.46,0:13:36.08,Default,I,0000,0000,0000,,if this goes well, it won't take 20 minutes.
+Dialogue: 0,0:13:36.08,0:13:37.24,Default,I,0000,0000,0000,,Right, hottie?
+Dialogue: 0,0:13:37.77,0:13:40.00,Default,T,0000,0000,0000,,If we are thinking the same thing,
+Dialogue: 0,0:13:40.00,0:13:42.13,Default,T,0000,0000,0000,,it won't take that much time.
+Dialogue: 0,0:13:42.59,0:13:44.63,Default,T,0000,0000,0000,,As long as we can get in position...
+Dialogue: 0,0:13:45.30,0:13:48.46,Default,T,0000,0000,0000,,I'll give you six from my platoon,\Nincluding me.
+Dialogue: 0,0:13:48.98,0:13:52.00,Default,M,0000,0000,0000,,Wait, what's the plan here?
+Dialogue: 0,0:13:52.00,0:13:54.44,Default,M,0000,0000,0000,,You have Torway provide \Nfire support from above,
+Dialogue: 0,0:13:54.44,0:13:56.70,Default,M,0000,0000,0000,,and we charge in?
+Dialogue: 0,0:13:56.70,0:13:58.27,Default,I,0000,0000,0000,,That's right.
+Dialogue: 0,0:13:58.27,0:14:00.36,Default,I,0000,0000,0000,,Worried about something, Matthew?
+Dialogue: 0,0:14:00.36,0:14:02.79,Default,M,0000,0000,0000,,I'm worried about everything!
+Dialogue: 0,0:14:03.20,0:14:06.83,Default,M,0000,0000,0000,,An air gun has an effective range\Nof 40 meters at best!
+Dialogue: 0,0:14:06.83,0:14:09.79,Default,M,0000,0000,0000,,There's 150 meters from there\Nto the enemy camp!
+Dialogue: 0,0:14:09.79,0:14:11.03,Default,M,0000,0000,0000,,It's not going to hit!
+Dialogue: 0,0:14:11.41,0:14:13.95,Default,M,0000,0000,0000,,And with only six people, \Nyou can't fire enough bullets
+Dialogue: 0,0:14:13.95,0:14:16.63,Default,M,0000,0000,0000,,to make up for the drop in accuracy.
+Dialogue: 0,0:14:17.18,0:14:19.67,Default,I,0000,0000,0000,,Thank you for that excellent summary.
+Dialogue: 0,0:14:19.95,0:14:24.40,Default,I,0000,0000,0000,,You're very good at making it easy\Nfor others to understand
+Dialogue: 0,0:14:24.40,0:14:26.17,Default,I,0000,0000,0000,,what it is that you don't understand.
+Dialogue: 0,0:14:26.17,0:14:28.06,Default,M,0000,0000,0000,,That's not a compliment!
+Dialogue: 0,0:14:28.06,0:14:31.88,Default,M,0000,0000,0000,,And it's because nothing you do\Never makes any sense!
+Dialogue: 0,0:14:31.88,0:14:33.18,Default,I,0000,0000,0000,,Now, now, calm down.
+Dialogue: 0,0:14:33.55,0:14:35.10,Default,I,0000,0000,0000,,You'll know soon.
+Dialogue: 0,0:14:38.33,0:14:39.44,Default,Gu,0000,0000,0000,,The enemy's here!
+Dialogue: 0,0:14:39.66,0:14:41.56,Default,Gu,0000,0000,0000,,Everyone get to your positions!
+Dialogue: 0,0:14:41.73,0:14:44.07,Default,Gu,0000,0000,0000,,Get that cannon ready!
+Dialogue: 0,0:14:48.16,0:14:50.57,Default,Gu,0000,0000,0000,,Don't rush. Let them get closer.
+Dialogue: 0,0:14:52.75,0:14:54.50,Default,Gu,0000,0000,0000,,Ready, now!
+Dialogue: 0,0:14:56.84,0:14:58.17,Default,Gu,0000,0000,0000,,Where are they firing from?
+Dialogue: 0,0:15:02.54,0:15:05.19,Alderamin-internal/narrator,T,0000,0000,0000,,The trick is to aim at\Nthe artillery soldier's chest.
+Dialogue: 0,0:15:05.60,0:15:07.08,Alderamin-internal/narrator,T,0000,0000,0000,,Equip the bullet.
+Dialogue: 0,0:15:08.86,0:15:10.76,Alderamin-internal/narrator,T,0000,0000,0000,,Aim at the man to the left.
+Dialogue: 0,0:15:13.96,0:15:17.77,Default,M,0000,0000,0000,,How can he hit them from so far away?
+Dialogue: 0,0:15:18.42,0:15:23.92,Alderamin-internal/narrator,T,0000,0000,0000,,He dug small ridges in the barrel \Nof the gun to make the bullet spin.
+Dialogue: 0,0:15:24.41,0:15:26.85,Alderamin-internal/narrator,T,0000,0000,0000,,That makes it go in a straighter line,
+Dialogue: 0,0:15:26.85,0:15:28.82,Alderamin-internal/narrator,T,0000,0000,0000,,and a more stable trajectory.
+Dialogue: 0,0:15:28.82,0:15:33.99,Alderamin-internal/narrator,T,0000,0000,0000,,That alone makes it around five times \Nmore accurate than a normal air gun.
+Dialogue: 0,0:15:38.25,0:15:41.33,Alderamin-internal/narrator,T,0000,0000,0000,,It's new technology that old man Anarai\Nput into use in Kioka,
+Dialogue: 0,0:15:41.33,0:15:44.19,Alderamin-internal/narrator,T,0000,0000,0000,,and told me about, too.
+Dialogue: 0,0:15:44.19,0:15:45.42,Alderamin-internal/narrator,T,0000,0000,0000,,The air rifle.
+Dialogue: 0,0:15:46.10,0:15:48.96,Default,T,0000,0000,0000,,No enemies in sight.\NConsider them suppressed.
+Dialogue: 0,0:15:49.66,0:15:51.18,Default,T,0000,0000,0000,,Proceeding to support Point Two.
+Dialogue: 0,0:15:54.43,0:15:56.65,Default,I,0000,0000,0000,,It's about time, huh?
+Dialogue: 0,0:15:56.65,0:15:58.68,Default,I,0000,0000,0000,,Okay, charge!
+Dialogue: 0,0:16:08.13,0:16:10.78,Default,M,0000,0000,0000,,The bullet's path is amazingly stable.
+Dialogue: 0,0:16:10.78,0:16:13.44,Default,M,0000,0000,0000,,It's much less open to luck.
+Dialogue: 0,0:16:13.44,0:16:15.70,Default,M,0000,0000,0000,,This really is revolutionary.
+Dialogue: 0,0:16:16.77,0:16:20.92,Default,Y,0000,0000,0000,,So this is part of the technology \Nhidden in Anarai's box?
+Dialogue: 0,0:16:20.92,0:16:24.33,Default,I,0000,0000,0000,,It's still a prototype,\Nso there are only 40 of them.
+Dialogue: 0,0:16:25.01,0:16:28.86,Default,Y,0000,0000,0000,,The Empire lost a valuable man to Kioka.
+Dialogue: 0,0:16:28.86,0:16:33.39,Default,Y,0000,0000,0000,,Or perhaps I should say a terrifying man.
+Dialogue: 0,0:16:33.70,0:16:36.10,Default,I,0000,0000,0000,,Don't worry about that.
+Dialogue: 0,0:16:36.51,0:16:41.75,Default,I,0000,0000,0000,,Old man Anarai wouldn't want one country\Nto have a technological advantage.
+Dialogue: 0,0:16:42.07,0:16:44.43,Default,I,0000,0000,0000,,He's very concerned with \Nkeeping things balanced.
+Dialogue: 0,0:16:44.85,0:16:51.01,Default,M,0000,0000,0000,,I still can't believe you shut down\N six cannons with three shooters.
+Dialogue: 0,0:16:51.32,0:16:55.87,Default,T,0000,0000,0000,,I think these air rifles are going to \Nchange what it means to be a gunner.
+Dialogue: 0,0:16:56.24,0:16:59.63,Default,T,0000,0000,0000,,And to adapt to this new era of technology,
+Dialogue: 0,0:16:59.63,0:17:05.13,Default,T,0000,0000,0000,,I came up with a new class \Nof soldier, called a "sniper."
+Dialogue: 0,0:17:06.23,0:17:07.74,Default,M,0000,0000,0000,,"Sniper?"
+Dialogue: 0,0:17:08.21,0:17:09.50,Default,Gi,0000,0000,0000,,Warrant Officer Solork!
+Dialogue: 0,0:17:09.90,0:17:12.75,Default,Gi,0000,0000,0000,,I'm coming to you since\N First Lieutenant Najiru is absent!
+Dialogue: 0,0:17:12.75,0:17:16.23,Default,Gi,0000,0000,0000,,The camp on the front lines \Nis requesting aid!
+Dialogue: 0,0:17:17.89,0:17:21.85,sign_24885_291_32nd_Air_Gun_Pla,Gi,0000,0000,0000,,{\fad(500,500)}32nd Air Gun Platoon Sergeant Major Higgins
+Dialogue: 0,0:17:18.59,0:17:22.35,Alderamin-top,Gu,0000,0000,0000,,My camp, a day away by foot,
+Dialogue: 0,0:17:22.35,0:17:24.04,Default,Gu,0000,0000,0000,,is surrounded by the enemy
+Dialogue: 0,0:17:24.04,0:17:26.02,Default,Gu,0000,0000,0000,,and in danger of being wiped out!
+Dialogue: 0,0:17:26.64,0:17:30.17,Default,Gu,0000,0000,0000,,You must go to rescue them immediately!
+Dialogue: 0,0:17:31.03,0:17:32.73,Default,M,0000,0000,0000,,Hey, are you okay?
+Dialogue: 0,0:17:33.54,0:17:35.15,Default,I,0000,0000,0000,,Call a medic.
+Dialogue: 0,0:17:35.15,0:17:37.93,Default,I,0000,0000,0000,,And tell no one of this.
+Dialogue: 0,0:17:38.84,0:17:41.06,Default,I,0000,0000,0000,,I'll give the orders.
+Dialogue: 0,0:17:42.56,0:17:44.98,Default,I,0000,0000,0000,,None of the superior officers have realized.
+Dialogue: 0,0:17:58.23,0:17:59.55,Default,I,0000,0000,0000,,Halt!
+Dialogue: 0,0:18:01.74,0:18:04.20,Default,I,0000,0000,0000,,We will make camp for two days here!
+Dialogue: 0,0:18:05.91,0:18:08.31,Default,T,0000,0000,0000,,Ikkun, there's no time to rest!
+Dialogue: 0,0:18:08.74,0:18:10.40,Default,M,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:18:10.40,0:18:12.69,Default,M,0000,0000,0000,,We don't know what's going on over there!
+Dialogue: 0,0:18:12.90,0:18:14.94,Default,Gu,0000,0000,0000,,Our troops still have the strength to go on!
+Dialogue: 0,0:18:16.36,0:18:18.30,Default,I,0000,0000,0000,,That's not the problem.
+Dialogue: 0,0:18:18.30,0:18:23.48,Default,I,0000,0000,0000,,There's another reason we have \Nto wait two days here to prepare,
+Dialogue: 0,0:18:23.48,0:18:25.20,Default,I,0000,0000,0000,,or we can't go any higher up.
+Dialogue: 0,0:18:25.90,0:18:27.46,Default,Y,0000,0000,0000,,We need to adapt to the altitude.
+Dialogue: 0,0:18:28.96,0:18:33.54,Default,I,0000,0000,0000,,We're fighting a deadly battle on \Ntop of the Great Alafatra Mountains.
+Dialogue: 0,0:18:34.34,0:18:37.15,Default,I,0000,0000,0000,,If you want to do something weird like that,
+Dialogue: 0,0:18:37.15,0:18:40.97,Default,I,0000,0000,0000,,you need to obey the rules of high places.
+Dialogue: 0,0:18:42.13,0:18:43.71,Default,T,0000,0000,0000,,The rules of high places?
+Dialogue: 0,0:18:44.21,0:18:46.41,Default,I,0000,0000,0000,,The air is thinner up high.
+Dialogue: 0,0:18:46.91,0:18:49.73,Default,I,0000,0000,0000,,That causes all kinds of sickness.
+Dialogue: 0,0:18:50.67,0:18:55.50,Default,I,0000,0000,0000,,Dr. Anarai called it Alpine Sickness.
+Dialogue: 0,0:18:55.50,0:18:56.61,Default,Gi,0000,0000,0000,,Hey, hang in there!
+Dialogue: 0,0:18:59.71,0:19:01.48,Default,Gi,0000,0000,0000,,He's so frail...
+Dialogue: 0,0:19:02.16,0:19:03.74,Default,Gi,0000,0000,0000,,Help me, Azan.
+Dialogue: 0,0:19:04.75,0:19:05.76,Default,Gi,0000,0000,0000,,Azan?
+Dialogue: 0,0:19:08.12,0:19:09.00,Default,Gu,0000,0000,0000,,It's dark...
+Dialogue: 0,0:19:09.99,0:19:14.00,Default,Gu,0000,0000,0000,,It's so dark, even though it's midday.
+Dialogue: 0,0:19:15.65,0:19:16.51,Default,Gi,0000,0000,0000,,Azan!
+Dialogue: 0,0:19:18.07,0:19:23.76,Default,I,0000,0000,0000,,My highest priority is \Nkeeping my comrades here safe.
+Dialogue: 0,0:19:24.43,0:19:29.30,Default,I,0000,0000,0000,,And in order to do that,\NI cannot skip the altitude adaptation step.
+Dialogue: 0,0:19:29.69,0:19:31.96,Default,I,0000,0000,0000,,So we can't go save them yet.
+Dialogue: 0,0:19:31.96,0:19:36.67,Default,I,0000,0000,0000,,Not until two days pass and\Nyour bodies adapt to this altitude.
+Dialogue: 0,0:19:37.31,0:19:38.70,Default,I,0000,0000,0000,,This is an order.
+Dialogue: 0,0:19:38.70,0:19:39.78,Default,I,0000,0000,0000,,Please follow it.
+Dialogue: 0,0:19:56.87,0:19:58.21,Default,I,0000,0000,0000,,Halt!
+Dialogue: 0,0:19:59.10,0:20:00.48,Default,M,0000,0000,0000,,Well?
+Dialogue: 0,0:20:00.48,0:20:02.43,Default,M,0000,0000,0000,,How's it look, Ikta?
+Dialogue: 0,0:20:04.77,0:20:07.80,Default,Y,0000,0000,0000,,I'm willing to attack immediately.
+Dialogue: 0,0:20:08.42,0:20:10.06,Default,I,0000,0000,0000,,No need.
+Dialogue: 0,0:20:11.04,0:20:13.56,Default,I,0000,0000,0000,,I don't see any allies \Nmoving in the fortress.
+Dialogue: 0,0:20:14.90,0:20:18.07,Default,I,0000,0000,0000,,Which means it's all over.
+Dialogue: 0,0:20:38.46,0:20:42.52,Default,I,0000,0000,0000,,We had the choice to go save them, or not.
+Dialogue: 0,0:20:44.00,0:20:45.77,Default,I,0000,0000,0000,,The risks, the chances of victory...
+Dialogue: 0,0:20:45.77,0:20:47.26,Default,I,0000,0000,0000,,I hate to say it,
+Dialogue: 0,0:20:47.26,0:20:50.90,Default,I,0000,0000,0000,,but sometimes on the battlefield \Nyou have to make hard choices.
+Dialogue: 0,0:20:51.96,0:20:54.60,Default,I,0000,0000,0000,,We won't be able to carry the bodies down—
+Dialogue: 0,0:20:56.67,0:20:59.27,Default,Y,0000,0000,0000,,Get the tags from the dead commander...
+Dialogue: 0,0:21:00.02,0:21:00.86,Default,Y,0000,0000,0000,,Ikta?
+Dialogue: 0,0:21:05.35,0:21:06.93,Default,I,0000,0000,0000,,Of all the places...
+Dialogue: 0,0:21:20.76,0:21:23.26,Default,I,0000,0000,0000,,I met you twice.
+Dialogue: 0,0:21:24.89,0:21:27.58,Alderamin-flashback,Gi,0000,0000,0000,,You're a weird guy, Ikkun.
+Dialogue: 0,0:21:29.80,0:21:30.85,Default,I,0000,0000,0000,,I...
+Dialogue: 0,0:21:32.66,0:21:35.34,Default,I,0000,0000,0000,,I was looking forward to the third time.
+Dialogue: 0,0:21:41.94,0:21:44.57,Default,I,0000,0000,0000,,Goodbye, Kanna.
+Dialogue: 0,0:21:47.27,0:21:50.62,Alderamin-internal/narrator,Narr,0000,0000,0000,,A splendid victory,\N brought about by his command,
+Dialogue: 0,0:21:51.21,0:21:54.47,Alderamin-internal/narrator,Narr,0000,0000,0000,,and a bitter conclusion, \Nbrought about by his choice.
+Dialogue: 0,0:21:55.46,0:22:00.26,Alderamin-internal/narrator,Narr,0000,0000,0000,,Ikta Solork gained both on this battlefield.
+Dialogue: 0,0:22:03.05,0:22:05.97,Alderamin-Episode_Title,Narr,0000,0000,0000,,{\fad(650,1)}Someday, For The Third Time
+Dialogue: 0,0:23:36.98,0:23:40.58,Default,Next time,0000,0000,0000,,Next time: "The Fate of a Small Reputation."
+Dialogue: 0,0:23:37.81,0:23:41.02,Alderamin-Next_Episode,Next time,0000,0000,0000,,The Fate of a Small Reputation

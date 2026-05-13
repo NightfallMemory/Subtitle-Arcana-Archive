@@ -1,0 +1,372 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: sign_harsh_red,Times New Roman,20,&H000900B5,&H000000FF,&H000A100C,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: sign_skill,Trebuchet MS,20,&H00FFFDFE,&H000000FF,&H00100404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.38,0:00:08.59,main,Northern,0,0,0,,We've lost contact with a force that was \Nsent into Galia to collect raw materials.
+Dialogue: 0,0:00:08.59,0:00:11.48,main,Roxy,0,0,0,,No contact at all? Do we know the cause?
+Dialogue: 0,0:00:11.48,0:00:12.75,main,Northern,0,0,0,,We don't.
+Dialogue: 0,0:00:12.75,0:00:15.35,main,Roxy,0,0,0,,Where was this force headed?
+Dialogue: 0,0:00:15.35,0:00:16.83,main,Northern,0,0,0,,The Great Ravine.
+Dialogue: 0,0:00:17.22,0:00:18.60,main,Roxy,0,0,0,,The Great Ravine...
+Dialogue: 0,0:00:19.15,0:00:20.97,main,Roxy,0,0,0,,We'll move to rescue them immediately.
+Dialogue: 0,0:00:20.97,0:00:21.54,main,Both,0,0,0,,Right!
+Dialogue: 0,0:00:21.54,0:00:23.51,main,Roxy,0,0,0,,Let's make for Galia, at once.
+Dialogue: 0,0:00:26.47,0:00:27.61,main,Fate,0,0,0,,Magic crystal?
+Dialogue: 0,0:00:27.61,0:00:28.47,main,Jade,0,0,0,,Right.
+Dialogue: 0,0:00:28.84,0:00:33.75,main,Jade,0,0,0,,To make the ideal scabbard for your sword, \NI'm definitely going to need it.
+Dialogue: 0,0:00:33.75,0:00:36.49,main,Jade,0,0,0,,But... it's been hard to get ahold of lately.
+Dialogue: 0,0:00:37.37,0:00:38.93,main,Fate,0,0,0,,And there's no shipments incoming?
+Dialogue: 0,0:00:38.93,0:00:43.30,main,Jade,0,0,0,,The royal army oversees the supply of \Nmagic crystal, so I don't know the details.
+Dialogue: 0,0:00:43.30,0:00:46.27,italics,Greed,0,0,0,,Well, if there's none coming,\Nthen we'll just go and grab it ourselves.
+Dialogue: 0,0:00:46.27,0:00:47.90,italics,Greed,0,0,0,,Fate, we've got crystal to collect.
+Dialogue: 0,0:00:48.56,0:00:51.36,main,Fate,0,0,0,,Jade, where can I find magic crystal?
+Dialogue: 0,0:00:51.36,0:00:53.58,main,Jade,0,0,0,,There's some in Galia, I think.
+Dialogue: 0,0:00:53.58,0:00:54.82,main,Fate,0,0,0,,In Galia, huh?
+Dialogue: 0,0:00:54.82,0:00:56.20,italics,Greed,0,0,0,,Not a problem.
+Dialogue: 0,0:00:56.87,0:00:57.65,main,Fate,0,0,0,,I'll go and get some.
+Dialogue: 0,0:00:57.65,0:00:59.12,main,Jade,0,0,0,,Wait, seriously?
+Dialogue: 0,0:00:59.12,0:01:01.08,main,Jade,0,0,0,,I'll give you a discount, then.
+Dialogue: 0,0:01:01.77,0:01:05.28,main,Jade,0,0,0,,This is a map my master,\Nwho was a soldier in his youth,
+Dialogue: 0,0:01:05.28,0:01:06.69,main,Jade,0,0,0,,used to collect materials.
+Dialogue: 0,0:01:08.15,0:01:11.41,main,Fate,0,0,0,,The spots that are marked \Nare pretty far south...
+Dialogue: 0,0:01:11.41,0:01:13.14,main,Fate,0,0,0,,Near the Great Ravine.
+Dialogue: 0,0:01:13.14,0:01:17.34,italics,Greed,0,0,0,,Okay, looks like we're on a quest\Nto get me a scabbard!
+Dialogue: 0,0:02:48.68,0:02:51.94,sign_harsh_red,Eptitle sign,0,0,0,,{\fade(400,400)\blur1)\c&H0E00DD&\pos(473.437,285)}Trap
+Dialogue: 0,0:02:52.36,0:02:53.20,main,Fate,0,0,0,,Greed.
+Dialogue: 0,0:02:53.20,0:02:53.78,italics,Greed,0,0,0,,Yeah?
+Dialogue: 0,0:02:53.78,0:02:55.10,main,Fate,0,0,0,,Let's use Shield Bash.
+Dialogue: 0,0:02:55.10,0:02:57.20,italics,Greed,0,0,0,,You're learning! Good for you.
+Dialogue: 0,0:03:02.16,0:03:03.91,main,Fate,0,0,0,,Now it's our turn!
+Dialogue: 0,0:03:11.30,0:03:13.80,italics,Voice,0,0,0,,Gluttony skill has activated.
+Dialogue: 0,0:03:14.73,0:03:23.59,italics,Voice,0,0,0,,Gluttony skill has activated...
+Dialogue: 0,0:03:25.11,0:03:26.92,main,Miria,0,0,0,,Lady Roxy.
+Dialogue: 0,0:03:27.49,0:03:29.19,main,Miria,0,0,0,,Look at this.
+Dialogue: 0,0:03:30.19,0:03:31.61,main,Roxy,0,0,0,,Oh, my...
+Dialogue: 0,0:03:31.95,0:03:34.53,main,Northern,0,0,0,,Right, compasses don't work here.
+Dialogue: 0,0:03:35.27,0:03:38.28,main,Miria,0,0,0,,Then how are we supposed to \Nfind our way to the Great Ravine?
+Dialogue: 0,0:03:38.71,0:03:42.35,main,Mugan,0,0,0,,Usually, we'd be able to navigate based on \Nthe position of the moon and the stars...
+Dialogue: 0,0:03:42.98,0:03:44.50,main,Mugan,0,0,0,,But with these clouds?
+Dialogue: 0,0:03:45.08,0:03:47.24,main,Roxy,0,0,0,,The moon can't be seen.
+Dialogue: 0,0:03:49.33,0:03:53.97,main,Miria,0,0,0,,Stupid clouds!
+Dialogue: 0,0:03:55.41,0:03:57.38,main,Roxy,0,0,0,,It's said that the general layout of Galia
+Dialogue: 0,0:03:57.38,0:03:59.89,main,Roxy,0,0,0,,can be judged by the density \Nof the orc population.
+Dialogue: 0,0:03:59.89,0:04:01.81,main,Miria,0,0,0,,Orc population density?!
+Dialogue: 0,0:04:02.79,0:04:03.67,main,Miria,0,0,0,,Really?
+Dialogue: 0,0:04:03.67,0:04:04.73,main,Roxy,0,0,0,,Yes.
+Dialogue: 0,0:04:04.73,0:04:08.69,main,Roxy,0,0,0,,The records say that the biggest orc \Ncolonies are the furthest south.
+Dialogue: 0,0:04:08.69,0:04:13.92,main,Mugan,0,0,0,,So if we follow the trail of orcs, \Nit'll take us toward the Great Ravine.
+Dialogue: 0,0:04:13.92,0:04:16.63,main,Roxy,0,0,0,,But there are more monsters \Nin Galia than orcs.
+Dialogue: 0,0:04:16.63,0:04:19.45,main,Roxy,0,0,0,,Crowned beasts dwell \Nin this direction, as well.
+Dialogue: 0,0:04:19.45,0:04:21.16,main,Roxy,0,0,0,,We should be careful heading forward.
+Dialogue: 0,0:04:24.51,0:04:26.61,italics,Greed,0,0,0,,You're starting to really act the part.
+Dialogue: 0,0:04:26.61,0:04:28.38,main,Fate,0,0,0,,What do you mean?
+Dialogue: 0,0:04:28.38,0:04:33.60,italics,Greed,0,0,0,,A warrior should always get proper rest\N in preparation for battle!
+Dialogue: 0,0:04:33.60,0:04:35.01,main,Fate,0,0,0,,Shut up.
+Dialogue: 0,0:04:42.75,0:04:44.40,main,Fate,0,0,0,,What is this place?
+Dialogue: 0,0:04:48.99,0:04:50.64,main,Fate,0,0,0,,You're...
+Dialogue: 0,0:04:53.09,0:04:54.48,main,Fate,0,0,0,,From before!
+Dialogue: 0,0:05:02.10,0:05:04.40,main,Fate,0,0,0,,There's so much noise, I can't hear her.
+Dialogue: 0,0:05:04.40,0:05:06.12,main,Fate,0,0,0,,What's she saying?
+Dialogue: 0,0:05:25.41,0:05:26.60,main,Fate,0,0,0,,Hado?!
+Dialogue: 0,0:05:27.80,0:05:29.06,main,Fate,0,0,0,,Stop!
+Dialogue: 0,0:05:31.67,0:05:33.34,main,Fate,0,0,0,,Stop it!
+Dialogue: 0,0:05:46.63,0:05:49.09,main,Fate,0,0,0,,What was that?!
+Dialogue: 0,0:05:49.99,0:05:51.94,main,Fate,0,0,0,,Greed, monsters.
+Dialogue: 0,0:05:51.94,0:05:53.97,main,Fate,0,0,0,,And this presence... it's not orcs.
+Dialogue: 0,0:05:53.97,0:05:56.29,italics,Greed,0,0,0,,A crowned beast. More than one, actually.
+Dialogue: 0,0:05:56.29,0:05:57.16,main,Fate,0,0,0,,Let's go!
+Dialogue: 0,0:06:02.55,0:06:03.72,main,Fate,0,0,0,,Where are they?
+Dialogue: 0,0:06:03.72,0:06:05.30,italics,Greed,0,0,0,,Use your Night Vision skill.
+Dialogue: 0,0:06:05.30,0:06:06.41,main,Fate,0,0,0,,Got it.
+Dialogue: 0,0:06:09.31,0:06:10.22,main,Fate,0,0,0,,There...
+Dialogue: 0,0:06:10.22,0:06:12.10,italics,Greed,0,0,0,,Those are salamanders.
+Dialogue: 0,0:06:12.10,0:06:13.23,main,Fate,0,0,0,,Four of them?
+Dialogue: 0,0:06:14.19,0:06:16.40,italics,Greed,0,0,0,,Switch me to the black bow.
+Dialogue: 0,0:06:16.40,0:06:18.92,italics,Greed,0,0,0,,We'll make the first attack \Nwith petrifying magic!
+Dialogue: 0,0:06:22.28,0:06:23.28,italics,Greed,0,0,0,,Good!
+Dialogue: 0,0:06:23.28,0:06:25.20,italics,Greed,0,0,0,,Let's take another out.
+Dialogue: 0,0:06:25.20,0:06:26.57,main,Fate,0,0,0,,Hang on, Greed.
+Dialogue: 0,0:06:26.57,0:06:28.49,main,Fate,0,0,0,,Something's going on \Nwith those salamanders...
+Dialogue: 0,0:06:30.76,0:06:35.42,italics,Greed,0,0,0,,Yeah... Usually, they run off \Nif they're hurt this badly.
+Dialogue: 0,0:06:35.42,0:06:39.38,main,Fate,0,0,0,,They're not running, and they're not \Ntrying to attack me in return, either.
+Dialogue: 0,0:06:39.77,0:06:40.93,main,Fate,0,0,0,,What is this?
+Dialogue: 0,0:06:40.93,0:06:43.59,italics,Greed,0,0,0,,It's like something's controlling them.
+Dialogue: 0,0:06:43.99,0:06:45.60,main,Fate,0,0,0,,They're being controlled?
+Dialogue: 0,0:06:46.05,0:06:47.53,italics,Greed,0,0,0,,All right, after them!
+Dialogue: 0,0:06:47.53,0:06:48.51,main,Fate,0,0,0,,Right!
+Dialogue: 0,0:06:58.50,0:06:59.75,main,Roxy,0,0,0,,What's happening?
+Dialogue: 0,0:07:01.10,0:07:03.30,main,Guard,0,0,0,,We've been surrounded by salamanders!
+Dialogue: 0,0:07:11.08,0:07:13.59,main,Guard,0,0,0,,Northern! Where are you, Northern?
+Dialogue: 0,0:07:13.93,0:07:15.28,main,Northern,0,0,0,,Lady Roxy...
+Dialogue: 0,0:07:16.32,0:07:19.42,main,Northern,0,0,0,,I'm so sorry... They got past me...
+Dialogue: 0,0:07:19.42,0:07:20.65,main,Roxy,0,0,0,,Northern!
+Dialogue: 0,0:07:21.08,0:07:22.17,main,Mugan,0,0,0,,Look out!
+Dialogue: 0,0:07:22.72,0:07:23.41,main,Roxy,0,0,0,,The ground melted...
+Dialogue: 0,0:07:23.41,0:07:24.92,main,Mugan,0,0,0,,That's some incredible heat.
+Dialogue: 0,0:07:25.46,0:07:28.60,main,Miria,0,0,0,,If you hurt Lady Roxy, I'll make you pay!
+Dialogue: 0,0:07:28.99,0:07:31.18,main,Miria,0,0,0,,Magic Sword, Flamberge!
+Dialogue: 0,0:07:34.22,0:07:35.43,main,Miria,0,0,0,,It's not working?!
+Dialogue: 0,0:07:39.01,0:07:42.44,main,Mugan,0,0,0,,Idiot! Didn't you know what'd happen using \Na magic sword against salamanders?!
+Dialogue: 0,0:07:43.00,0:07:44.65,main,Roxy,0,0,0,,Are you all right, Miria?
+Dialogue: 0,0:07:51.99,0:07:53.31,main,Fate,0,0,0,,Are you hurt?
+Dialogue: 0,0:07:54.02,0:07:55.20,main,Roxy,0,0,0,,Corpse?
+Dialogue: 0,0:07:57.60,0:07:58.67,italics,Greed,0,0,0,,Here they come!
+Dialogue: 0,0:08:00.38,0:08:01.89,main,Fate,0,0,0,,Sharp Edge!
+Dialogue: 0,0:08:05.61,0:08:08.16,main,Mugan,0,0,0,,To get that kind of power out of \Na common skill like Sharp Edge...
+Dialogue: 0,0:08:08.16,0:08:10.09,main,Mugan,0,0,0,,This guy's really something.
+Dialogue: 0,0:08:16.51,0:08:17.64,main,Roxy,0,0,0,,Corpse.
+Dialogue: 0,0:08:18.83,0:08:21.48,main,Roxy,0,0,0,,Thank you so much for aiding us.
+Dialogue: 0,0:08:21.48,0:08:25.67,main,Roxy,0,0,0,,If it weren't for you,\Nmore of my soldiers would have died.
+Dialogue: 0,0:08:26.83,0:08:28.39,main,Roxy,0,0,0,,You should thank him, Miria.
+Dialogue: 0,0:08:28.39,0:08:31.60,main,Miria,0,0,0,,I didn't ask for his help!
+Dialogue: 0,0:08:31.60,0:08:34.66,main,Miria,0,0,0,,I wanted to be the one \Nwho saved you, Lady Roxy.
+Dialogue: 0,0:08:34.66,0:08:36.38,main,Mugan,0,0,0,,You idiot!
+Dialogue: 0,0:08:37.18,0:08:38.62,main,Mugan,0,0,0,,Looks like we meet again.
+Dialogue: 0,0:08:39.23,0:08:41.33,main,Mugan,0,0,0,,I'm Mugan, the captain of this unit.
+Dialogue: 0,0:08:41.33,0:08:43.44,main,Mugan,0,0,0,,And this idiot here is Miria.
+Dialogue: 0,0:08:43.84,0:08:45.54,main,Mugan,0,0,0,,Show the man some gratitude, dammit.
+Dialogue: 0,0:08:45.54,0:08:48.30,main,Miria,0,0,0,,Thank you {\i1}so{\i0} much!
+Dialogue: 0,0:08:48.62,0:08:51.26,main,Roxy,0,0,0,,This is Northern, a holy knight \Nassigned to Babylon.
+Dialogue: 0,0:08:52.21,0:08:54.22,main,Northern,0,0,0,,You really saved us.
+Dialogue: 0,0:08:54.22,0:08:55.81,main,Fate,0,0,0,,Don't worry about thanking me.
+Dialogue: 0,0:08:56.27,0:08:58.68,main,Fate,0,0,0,,There's something I'm more concerned about.
+Dialogue: 0,0:08:59.51,0:09:00.71,main,Miria,0,0,0,,What is that?
+Dialogue: 0,0:09:01.15,0:09:02.96,main,Mugan,0,0,0,,It looks like an emblem...
+Dialogue: 0,0:09:03.59,0:09:06.36,main,Roxy,0,0,0,,The same one is on this salamander, too.
+Dialogue: 0,0:09:06.69,0:09:08.32,main,Northern,0,0,0,,This one, as well.
+Dialogue: 0,0:09:08.90,0:09:13.01,main,Mugan,0,0,0,,All four of them have the same \Nemblem on their heads...
+Dialogue: 0,0:09:13.01,0:09:16.11,main,Miria,0,0,0,,Well, that's really suspicious, \Nisn't it, Lady Roxy?
+Dialogue: 0,0:09:16.11,0:09:17.62,main,Fate,0,0,0,,What's going on here?
+Dialogue: 0,0:09:18.06,0:09:21.54,main,Mugan,0,0,0,,Crowned beasts don't usually work together.
+Dialogue: 0,0:09:21.54,0:09:23.12,main,Fate,0,0,0,,I see...
+Dialogue: 0,0:09:23.12,0:09:26.09,main,Miria,0,0,0,,And it was like they were all after Lady Roxy.
+Dialogue: 0,0:09:26.09,0:09:27.80,main,Roxy,0,0,0,,I'm sure that was just a coincidence.
+Dialogue: 0,0:09:31.22,0:09:33.77,main,Northern,0,0,0,,There's no telling what can happen in Galia.
+Dialogue: 0,0:09:34.32,0:09:37.59,main,Northern,0,0,0,,Especially in the days since \Nthe Divine Dragon has left its lair...
+Dialogue: 0,0:09:45.48,0:09:47.15,main,Roxy,0,0,0,,This is the Great Ravine.
+Dialogue: 0,0:09:47.15,0:09:49.41,main,Fate,0,0,0,,Thanks. I appreciate the help.
+Dialogue: 0,0:09:49.41,0:09:50.53,main,Roxy,0,0,0,,Of course.
+Dialogue: 0,0:09:50.53,0:09:54.28,main,Mugan,0,0,0,,Lucky thing we were headed \Nin the same direction, Sir Corpse.
+Dialogue: 0,0:09:54.28,0:09:59.08,main,Miria,0,0,0,,We've got to hurry on to rescue \Nthe supply unit, so if you'll excuse us...
+Dialogue: 0,0:09:59.08,0:10:02.05,main,Miria,0,0,0,,Come on, Lady Roxy!
+Dialogue: 0,0:10:02.05,0:10:04.31,main,Roxy,0,0,0,,Well, I'll be praying for your success.
+Dialogue: 0,0:10:06.96,0:10:10.84,italics,Greed,0,0,0,,Scared of your Telepathy \Nskill kicking in, huh?
+Dialogue: 0,0:10:13.84,0:10:16.97,italics,Miria,0,0,0,,I had better protect Lady Roxy!
+Dialogue: 0,0:10:16.97,0:10:20.56,italics,Miria,0,0,0,,Don't get so full of yourself just because \Nyou're kinda strong, bonehead!
+Dialogue: 0,0:10:20.56,0:10:23.11,italics,Miria,0,0,0,,You're a nasty pest, so buzz off!
+Dialogue: 0,0:10:23.80,0:10:26.31,main,Roxy,0,0,0,,Miria? What are you doing?
+Dialogue: 0,0:10:26.31,0:10:27.77,main,Roxy,0,0,0,,Honestly...
+Dialogue: 0,0:10:28.26,0:10:29.75,main,Roxy,0,0,0,,I'm sorry about her.
+Dialogue: 0,0:10:29.75,0:10:30.81,main,Fate,0,0,0,,It's fine.
+Dialogue: 0,0:10:31.80,0:10:33.30,main,Roxy,0,0,0,,Come, let's be on our way.
+Dialogue: 0,0:10:33.30,0:10:34.49,main,Miria,0,0,0,,Sure!
+Dialogue: 0,0:10:36.50,0:10:38.16,italics,Greed,0,0,0,,She called you a nasty pest...
+Dialogue: 0,0:10:38.16,0:10:39.43,main,Fate,0,0,0,,Shut up!
+Dialogue: 0,0:10:50.67,0:10:52.28,main,Fate,0,0,0,,The air's so clean here.
+Dialogue: 0,0:10:52.28,0:10:55.38,main,Fate,0,0,0,,Like it's being purified locally somehow.
+Dialogue: 0,0:10:55.86,0:10:58.57,italics,Greed,0,0,0,,Probably an after-effect of an old battle...
+Dialogue: 0,0:11:00.82,0:11:02.67,main,Fate,0,0,0,,A petrified monster?
+Dialogue: 0,0:11:03.37,0:11:06.02,italics,Greed,0,0,0,,It's got to have something to do \Nwith this unique environment.
+Dialogue: 0,0:11:06.42,0:11:08.15,main,Fate,0,0,0,,A monster graveyard, huh?
+Dialogue: 0,0:11:09.62,0:11:11.89,italics,Greed,0,0,0,,What's up? Did you find some magic crystal?
+Dialogue: 0,0:11:13.13,0:11:15.74,main,Fate,0,0,0,,No... It's nothing.
+Dialogue: 0,0:11:17.55,0:11:22.16,italics,Jade,0,0,0,,Magic crystals are transparent and \Ncolorless but give off a faint purple glow.
+Dialogue: 0,0:11:23.09,0:11:25.12,main,Fate,0,0,0,,I don't think I see anything like that.
+Dialogue: 0,0:11:28.45,0:11:29.45,main,Fate,0,0,0,,Who's that?
+Dialogue: 0,0:11:32.39,0:11:33.49,main,Fate,0,0,0,,Eris!
+Dialogue: 0,0:11:43.83,0:11:45.02,main,Fate,0,0,0,,She got away...
+Dialogue: 0,0:11:45.02,0:11:47.51,italics,Greed,0,0,0,,Fate. Take a look over there.
+Dialogue: 0,0:11:48.19,0:11:49.30,main,Fate,0,0,0,,That's...!
+Dialogue: 0,0:11:50.83,0:11:52.07,main,Fate,0,0,0,,A chimera!
+Dialogue: 0,0:11:54.19,0:11:56.00,main,Fate,0,0,0,,Huh... it's not moving.
+Dialogue: 0,0:11:56.00,0:11:58.57,italics,Greed,0,0,0,,Probably a prototype. Take a better look.
+Dialogue: 0,0:11:58.57,0:12:00.21,italics,Greed,0,0,0,,There's no core.
+Dialogue: 0,0:12:00.21,0:12:01.28,main,Fate,0,0,0,,You're right.
+Dialogue: 0,0:12:01.28,0:12:04.05,italics,Greed,0,0,0,,It was probably buried here \Nin some ancient battle...
+Dialogue: 0,0:12:04.05,0:12:07.48,italics,Greed,0,0,0,,And then, after a landslide, \Nits head started peeking out.
+Dialogue: 0,0:12:10.47,0:12:13.50,main,Fate,0,0,0,,There's another area that \Nlooks like there was a landslide.
+Dialogue: 0,0:12:15.70,0:12:17.74,main,Fate,0,0,0,,The lay of the land has really \Nchanged around here...
+Dialogue: 0,0:12:17.74,0:12:20.37,italics,Greed,0,0,0,,Seems like some of them managed to wake up.
+Dialogue: 0,0:12:21.62,0:12:23.16,main,Fate,0,0,0,,Looks like three...
+Dialogue: 0,0:12:24.69,0:12:26.77,main,Fate,0,0,0,,Is she behind this?
+Dialogue: 0,0:12:30.81,0:12:32.34,italics,Greed,0,0,0,,That's coming from the east.
+Dialogue: 0,0:12:32.34,0:12:34.56,main,Fate,0,0,0,,That's the direction Lady Roxy \Nwas searching in!
+Dialogue: 0,0:12:34.56,0:12:36.51,italics,Greed,0,0,0,,This seems familiar.
+Dialogue: 0,0:12:36.51,0:12:38.30,italics,Greed,0,0,0,,More monsters after Roxy!
+Dialogue: 0,0:12:38.30,0:12:40.74,italics,Greed,0,0,0,,We're never gonna find any \Nmagic crystal at this rate!
+Dialogue: 0,0:12:45.55,0:12:47.92,main,Miria,0,0,0,,I'm gonna protect Lady Roxy!
+Dialogue: 0,0:12:47.92,0:12:48.96,main,Roxy,0,0,0,,Miria!
+Dialogue: 0,0:12:52.04,0:12:53.13,main,Mugan,0,0,0,,Miria!
+Dialogue: 0,0:12:55.62,0:12:57.25,main,Miria,0,0,0,,No! Mugan!
+Dialogue: 0,0:12:57.25,0:12:58.01,main,Roxy,0,0,0,,Mugan!
+Dialogue: 0,0:12:59.55,0:13:00.87,main,Roxy,0,0,0,,Northern!
+Dialogue: 0,0:13:10.15,0:13:11.39,main,Roxy,0,0,0,,Corpse?
+Dialogue: 0,0:13:16.09,0:13:17.07,main,Fate,0,0,0,,You all right?
+Dialogue: 0,0:13:17.07,0:13:20.61,main,Roxy,0,0,0,,Mugan... He was injured protecting Miria.
+Dialogue: 0,0:13:21.14,0:13:22.24,main,Roxy,0,0,0,,Northern's hurt, too.
+Dialogue: 0,0:13:27.35,0:13:29.78,italics,Greed,0,0,0,,It's not regenerating too fast.
+Dialogue: 0,0:13:29.78,0:13:31.54,italics,Greed,0,0,0,,These things don't stack up to Haniel.
+Dialogue: 0,0:13:31.54,0:13:35.04,main,Fate,0,0,0,,These things are called chimera. \NTheir cores are their weakness.
+Dialogue: 0,0:13:35.04,0:13:35.75,main,Roxy,0,0,0,,Cores?
+Dialogue: 0,0:13:35.75,0:13:39.28,main,Fate,0,0,0,,You see how there's a monster \Nembedded in their chest?
+Dialogue: 0,0:13:39.28,0:13:39.97,main,Roxy,0,0,0,,Yes.
+Dialogue: 0,0:13:40.34,0:13:42.90,main,Fate,0,0,0,,That's the core that keeps \Nthe chimera moving.
+Dialogue: 0,0:13:42.90,0:13:45.44,main,Fate,0,0,0,,We just need to slay them. Are you ready?
+Dialogue: 0,0:13:45.44,0:13:46.25,main,Roxy,0,0,0,,Yes.
+Dialogue: 0,0:13:46.77,0:13:47.93,main,Roxy,0,0,0,,Miria, you know what to do?
+Dialogue: 0,0:13:47.93,0:13:48.77,main,Miria,0,0,0,,Right!
+Dialogue: 0,0:13:48.77,0:13:49.77,main,Fate,0,0,0,,Let's go!
+Dialogue: 0,0:13:49.77,0:13:50.85,main,Roxy,0,0,0,,Right!
+Dialogue: 0,0:13:53.56,0:13:56.98,italics,Greed,0,0,0,,They're trying to keep us away. \NToo bad for them...
+Dialogue: 0,0:13:56.98,0:13:59.23,italics,Greed,0,0,0,,We've got Fire Resistance!
+Dialogue: 0,0:14:00.87,0:14:02.41,italics,Greed,0,0,0,,It's covering the core?
+Dialogue: 0,0:14:02.41,0:14:03.98,main,Fate,0,0,0,,Just like I figured.
+Dialogue: 0,0:14:11.54,0:14:12.50,main,Fate,0,0,0,,Now!
+Dialogue: 0,0:14:16.00,0:14:17.78,main,Fate,0,0,0,,Aaron must've taught her a few things.
+Dialogue: 0,0:14:23.26,0:14:26.07,main,Miria,0,0,0,,Die! I'm gonna die!
+Dialogue: 0,0:14:26.07,0:14:28.37,main,Miria,0,0,0,,Someone hurry!
+Dialogue: 0,0:14:28.37,0:14:30.15,main,Fate,0,0,0,,She's better than I thought.
+Dialogue: 0,0:14:30.15,0:14:35.40,italics,Greed,0,0,0,,Yeah. She's using Flamberge's flame \Nto parry the flames of the chimera...
+Dialogue: 0,0:14:35.73,0:14:39.61,italics,Greed,0,0,0,,She's got a mouth on her, but the \Nlittle lady's got a knack for fighting.
+Dialogue: 0,0:14:42.79,0:14:44.28,main,Fate,0,0,0,,I've got this.
+Dialogue: 0,0:14:46.77,0:14:51.05,main,Miria,0,0,0,,I let the bonehead save me again! \NWhat a blunder!
+Dialogue: 0,0:14:51.05,0:14:52.80,main,Miria,0,0,0,,Thanks, though!
+Dialogue: 0,0:14:54.30,0:14:55.99,main,Miria,0,0,0,,You okay, Mugan?
+Dialogue: 0,0:14:55.99,0:14:56.94,main,Mugan,0,0,0,,Yeah...
+Dialogue: 0,0:14:56.94,0:14:57.68,main,Roxy,0,0,0,,Miria!
+Dialogue: 0,0:14:57.68,0:14:59.35,main,Miria,0,0,0,,Lady Roxy!
+Dialogue: 0,0:14:59.77,0:15:01.34,main,Roxy,0,0,0,,Get the others to safety.
+Dialogue: 0,0:15:01.67,0:15:04.84,main,Roxy,0,0,0,,Corpse and I will deal\N with the other chimera.
+Dialogue: 0,0:15:04.84,0:15:05.55,main,Miria,0,0,0,,Right!
+Dialogue: 0,0:15:06.50,0:15:08.14,main,Fate,0,0,0,,We'll use the same method as before.
+Dialogue: 0,0:15:08.14,0:15:09.17,main,Roxy,0,0,0,,Understood!
+Dialogue: 0,0:15:26.50,0:15:29.09,italics,Fate,0,0,0,,I've never fought alongside \NLady Roxy before...
+Dialogue: 0,0:15:29.09,0:15:31.40,italics,Fate,0,0,0,,Feels more natural than with Myne and Aaron.
+Dialogue: 0,0:15:32.93,0:15:34.23,main,Fate,0,0,0,,Just one left.
+Dialogue: 0,0:15:34.23,0:15:37.33,main,Roxy,0,0,0,,Yes. Let's put an end to this.
+Dialogue: 0,0:15:37.92,0:15:41.03,main,Fate,0,0,0,,You okay? You're breathing hard.
+Dialogue: 0,0:15:41.03,0:15:42.38,main,Roxy,0,0,0,,I'm still fit to fight!
+Dialogue: 0,0:15:46.76,0:15:47.76,main,Roxy,0,0,0,,It jumped?
+Dialogue: 0,0:15:48.24,0:15:49.76,main,Fate,0,0,0,,Let's hit it when it lands.
+Dialogue: 0,0:15:49.76,0:15:50.47,main,Roxy,0,0,0,,Right!
+Dialogue: 0,0:16:00.27,0:16:02.23,main,Miria,0,0,0,,Lady Roxy!
+Dialogue: 0,0:16:12.56,0:16:16.64,main,Fate,0,0,0,,It might not look like it, \Nbut I know I can tank the landing.
+Dialogue: 0,0:16:17.48,0:16:19.92,main,Roxy,0,0,0,,Understood. I'm in your care.
+Dialogue: 0,0:16:21.33,0:16:23.67,main,Fate,0,0,0,,Yeah. I've got you.
+Dialogue: 0,0:16:34.89,0:16:36.40,italics,Greed,0,0,0,,You awake, Fate?
+Dialogue: 0,0:16:36.40,0:16:37.72,main,Fate,0,0,0,,Greed?
+Dialogue: 0,0:16:38.18,0:16:41.72,main,Fate,0,0,0,,Right... We must've fallen from there...
+Dialogue: 0,0:16:43.15,0:16:44.15,main,Roxy,0,0,0,,Fay...
+Dialogue: 0,0:16:44.15,0:16:45.09,main,Fate,0,0,0,,Yes?
+Dialogue: 0,0:16:46.51,0:16:48.07,main,Fate,0,0,0,,Lady Roxy?!
+Dialogue: 0,0:16:48.07,0:16:51.03,main,Fate,0,0,0,,Oh, right! I remember now!
+Dialogue: 0,0:16:51.03,0:16:53.71,main,Fate,0,0,0,,This is really, really bad!
+Dialogue: 0,0:16:55.59,0:16:57.00,main,Fate,0,0,0,,It's gone! What the...?!
+Dialogue: 0,0:16:57.00,0:16:58.79,main,Fate,0,0,0,,Why?!
+Dialogue: 0,0:17:01.68,0:17:03.96,main,Roxy,0,0,0,,Oh... what happened?
+Dialogue: 0,0:17:05.01,0:17:07.34,main,Roxy,0,0,0,,Oh! C-Corpse!
+Dialogue: 0,0:17:07.34,0:17:08.66,main,Roxy,0,0,0,,Forgive me.
+Dialogue: 0,0:17:08.66,0:17:09.57,main,Fate,0,0,0,,It's fine.
+Dialogue: 0,0:17:11.51,0:17:12.86,main,Roxy,0,0,0,,Ow...
+Dialogue: 0,0:17:12.86,0:17:14.08,main,Fate,0,0,0,,You all right?
+Dialogue: 0,0:17:14.08,0:17:16.43,main,Roxy,0,0,0,,With some rest, I will be.
+Dialogue: 0,0:17:16.43,0:17:18.35,main,Fate,0,0,0,,That's a holy knight for you.
+Dialogue: 0,0:17:20.81,0:17:23.02,main,Roxy,0,0,0,,You can use Fireball, too?
+Dialogue: 0,0:17:23.67,0:17:25.54,main,Fate,0,0,0,,We almost had it.
+Dialogue: 0,0:17:26.10,0:17:29.98,main,Fate,0,0,0,,If the ground hadn't given out, \Nwe probably could've beat that chimera.
+Dialogue: 0,0:17:29.98,0:17:31.27,main,Roxy,0,0,0,,The chimera...
+Dialogue: 0,0:17:31.27,0:17:32.20,main,Fate,0,0,0,,Yeah.
+Dialogue: 0,0:17:32.95,0:17:37.20,main,Fate,0,0,0,,They're apparently artificial monsters\Ncreated in Galia 4,000 years ago.
+Dialogue: 0,0:17:38.04,0:17:39.72,main,Fate,0,0,0,,How'd things go on your end?
+Dialogue: 0,0:17:40.21,0:17:42.17,main,Fate,0,0,0,,Did you find the supply unit?
+Dialogue: 0,0:17:43.01,0:17:44.82,main,Roxy,0,0,0,,We weren't fast enough.
+Dialogue: 0,0:17:45.63,0:17:49.12,main,Roxy,0,0,0,,Their forward base, along with the \Nentire force, had been burnt to ashes...
+Dialogue: 0,0:17:49.86,0:17:51.09,main,Fate,0,0,0,,I see.
+Dialogue: 0,0:17:51.61,0:17:56.05,main,Roxy,0,0,0,,I'm curious, Corpse,\Nwho told you about the chimera?
+Dialogue: 0,0:17:56.71,0:17:59.07,main,Fate,0,0,0,,A surviving Galian filled me in.
+Dialogue: 0,0:17:59.49,0:18:03.43,main,Roxy,0,0,0,,A young girl with a giant axe, perhaps?
+Dialogue: 0,0:18:04.39,0:18:07.14,main,Roxy,0,0,0,,I've seen her before, in my territory.
+Dialogue: 0,0:18:07.60,0:18:11.03,main,Roxy,0,0,0,,I'd heard rumors about her \Non the way to Babylon, as well.
+Dialogue: 0,0:18:11.55,0:18:14.70,main,Roxy,0,0,0,,She apparently sent a local lord flying \Nwith that axe of hers.
+Dialogue: 0,0:18:14.83,0:18:18.25,main,Fate,0,0,0,,W-Well, that sounds dangerous.
+Dialogue: 0,0:18:19.29,0:18:23.41,main,Roxy,0,0,0,,The rumors say she was traveling \Nwith a young man in a skull mask...
+Dialogue: 0,0:18:27.25,0:18:30.32,main,Fate,0,0,0,,Yeah, that's right! It was me!
+Dialogue: 0,0:18:30.32,0:18:32.59,main,Roxy,0,0,0,,I thought as much!
+Dialogue: 0,0:18:33.85,0:18:35.75,main,Fate,0,0,0,,You seem happy about that.
+Dialogue: 0,0:18:37.12,0:18:40.50,main,Fate,0,0,0,,Seriously... don't stare like that.
+Dialogue: 0,0:18:41.25,0:18:45.80,main,Roxy,0,0,0,,Forgive me. Something about you \Nreminds me of someone I know.
+Dialogue: 0,0:18:45.80,0:18:46.90,main,Fate,0,0,0,,It does?
+Dialogue: 0,0:18:47.22,0:18:48.13,main,Roxy,0,0,0,,Yes.
+Dialogue: 0,0:18:49.46,0:18:51.97,main,Roxy,0,0,0,,He should be in the capital...
+Dialogue: 0,0:18:52.67,0:18:56.11,main,Roxy,0,0,0,,But it feels like he's right here with me.
+Dialogue: 0,0:18:57.27,0:18:58.87,main,Roxy,0,0,0,,It's so strange.
+Dialogue: 0,0:19:00.48,0:19:03.85,main,Roxy,0,0,0,,Now that we're apart, \NI find myself wondering...
+Dialogue: 0,0:19:04.83,0:19:08.78,main,Roxy,0,0,0,,If the things I did for him were right. \NIf they were for the best.
+Dialogue: 0,0:19:08.78,0:19:11.77,main,Roxy,0,0,0,,Is Fay really happy?
+Dialogue: 0,0:19:12.83,0:19:14.99,main,Fate,0,0,0,,He should be.
+Dialogue: 0,0:19:17.23,0:19:22.01,main,Fate,0,0,0,,Having someone care about him as much \Nas you do... he ought to be plenty happy.
+Dialogue: 0,0:19:23.23,0:19:25.52,main,Roxy,0,0,0,,I would like to hope so.
+Dialogue: 0,0:19:26.99,0:19:30.61,italics,Fate,0,0,0,,You never change, Lady Roxy.
+Dialogue: 0,0:19:32.91,0:19:34.67,main,Fate,0,0,0,,Of all the times...!
+Dialogue: 0,0:19:35.27,0:19:37.20,main,Roxy,0,0,0,,What's wrong, Corpse?
+Dialogue: 0,0:19:37.20,0:19:38.70,main,Roxy,0,0,0,,Your eye...
+Dialogue: 0,0:19:38.70,0:19:40.91,main,Fate,0,0,0,,Don't look! Please, just don't.
+Dialogue: 0,0:19:43.09,0:19:44.36,main,Roxy,0,0,0,,Corpse!
+Dialogue: 0,0:19:47.16,0:19:48.55,italics,Fate,0,0,0,,This is awful.
+Dialogue: 0,0:19:49.23,0:19:52.42,italics,Fate,0,0,0,,And this smell... it's nearby.
+Dialogue: 0,0:19:56.12,0:19:57.21,main,Fate,0,0,0,,There you are!
+Dialogue: 0,0:20:09.98,0:20:11.17,italics,Fate,0,0,0,,Enough!
+Dialogue: 0,0:20:12.90,0:20:13.91,italics,Fate,0,0,0,,Don't...
+Dialogue: 0,0:20:17.06,0:20:19.84,italics,Fate,0,0,0,,Don't look at me... like that!
+Dialogue: 0,0:20:31.87,0:20:32.79,main,Fate,0,0,0,,That's...
+Dialogue: 0,0:20:33.77,0:20:35.47,main,Fate,0,0,0,,Another one of these emblems?
+Dialogue: 0,0:20:35.47,0:20:38.01,italics,Greed,0,0,0,,Between the salamanders and now chimera...
+Dialogue: 0,0:20:38.36,0:20:42.90,italics,Greed,0,0,0,,We can be pretty sure \Nsomeone wants Roxy dead.
+Dialogue: 0,0:20:44.74,0:20:46.41,flashback,Eris,0,0,0,,Roxy Hart.
+Dialogue: 0,0:20:47.47,0:20:50.48,flashback,Eris,0,0,0,,She's going to die in Galia.
+Dialogue: 0,0:20:52.09,0:20:54.95,main,Fate,0,0,0,,Eris... you'll pay for this.
+Dialogue: 0,0:20:55.52,0:20:56.68,main,Roxy,0,0,0,,Corpse?
+Dialogue: 0,0:20:57.87,0:20:59.18,main,Roxy,0,0,0,,This thing...
+Dialogue: 0,0:20:59.18,0:21:01.79,main,Fate,0,0,0,,I took it down. Should be fine now.
+Dialogue: 0,0:21:01.79,0:21:03.41,main,Roxy,0,0,0,,I see.
+Dialogue: 0,0:21:05.24,0:21:06.00,main,Fate,0,0,0,,Look out!
+Dialogue: 0,0:21:12.73,0:21:14.16,main,Roxy,0,0,0,,Magic crystal!
+Dialogue: 0,0:21:14.16,0:21:16.63,main,Fate,0,0,0,,But... isn't that just a fossilized monster?
+Dialogue: 0,0:21:17.21,0:21:19.97,main,Roxy,0,0,0,,Magic crystal is made out of such monsters.
+Dialogue: 0,0:21:20.73,0:21:23.09,main,Roxy,0,0,0,,Were you searching for it \Nwithout knowing that?
+Dialogue: 0,0:21:24.04,0:21:26.52,italics,Greed,0,0,0,,No wonder we didn't find any.
+Dialogue: 0,0:21:28.55,0:21:30.77,main,Miria,0,0,0,,Lady Roxy!
+Dialogue: 0,0:21:33.73,0:21:36.25,main,Miria,0,0,0,,I'm so glad you're okay!
+Dialogue: 0,0:21:39.46,0:21:41.35,main,Roxy,0,0,0,,I'm pleased to see you're all safe.
+Dialogue: 0,0:23:35.64,0:23:40.02,sign_harsh_red,Next eptitle sign,0,0,0,,{\fade(400,1)\3c&H000100&\fs30\blur1\pos(319.641,145.329)}Death March
+Dialogue: 0,0:23:36.57,0:23:38.23,italics,Greed,0,0,0,,"Death March."

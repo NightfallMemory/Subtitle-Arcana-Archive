@@ -1,0 +1,452 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Flashback,Open Sans Semibold,36,&H00EDD6B5,&H000000FF,&H00B93634,&H00300000,0,0,0,0,100,100,0,0,1,2,1,2,13,13,24,0
+Style: Flashback - Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Episode-Title,Open Sans Semibold,30,&H00F5FBF6,&H000000FF,&H00434443,&H00F0BFAC,0,0,0,0,100,100,0,0,1,2,0,7,40,28,80,0
+Style: Sign,Open Sans Semibold,33,&H00FFFFFF,&H000000FF,&H00241A19,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,8,28,28,27,0
+Style: Preview,Open Sans Semibold,33,&H00FFFFFC,&H000000FF,&H009F5348,&H00000000,1,0,0,0,100,100,0,0,1,0,0,8,28,28,27,0
+Style: To be Continued,Open Sans Semibold,33,&H00FFFFFF,&H000000FF,&H00161A2B,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,3,28,53,133,0
+Style: Episode-Title - End,Open Sans Semibold,36,&H00FDFAD4,&H000000FF,&H00D1842F,&H00F0BFAC,0,0,0,0,100,100,0,0,1,1,0,7,40,28,80,0
+Style: Name,Open Sans Semibold,33,&H00FAFF82,&H000000FF,&H00783517,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,8,28,28,27,0
+Style: School,Open Sans Semibold,33,&H00783517,&H000000FF,&H00FAFF82,&H00FAFF82,1,0,0,0,100,100,0,0,1,2,0,8,28,28,27,0
+Style: Mashiro Udon,Open Sans Semibold,33,&H000C1F22,&H000000FF,&H009EE2F1,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,8,27,27,27,0
+Style: All-Japan,Open Sans Semibold,33,&H00353031,&H000000FF,&H00FEFEFE,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,8,28,28,27,0
+Style: i love misaki,Open Sans Semibold,33,&H006DEBEA,&H000000FF,&H008D3CE6,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,8,28,28,27,0
+Style: Tobisawa Misaki for Life,Open Sans Semibold,33,&H0086C5D1,&H000000FF,&H00241A19,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,8,28,28,27,0
+Style: School - Copy,Open Sans Semibold,33,&H00783517,&H000000FF,&H00FAFF82,&H00FAFF82,1,0,0,0,100,100,0,0,1,2,0,8,28,28,80,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.58,0:00:07.60,All-Japan,Sign,0000,0000,0000,,{\fad(921,635)}All-Japan Flying Circus\N Fall Tournament\N West Kyushu Qualifiers
+Dialogue: 0,0:00:02.90,0:00:08.40,Main,Ho,0000,0000,0000,,It's time for the All-Japan \NFlying Circus Fall Tournament!
+Dialogue: 0,0:00:08.40,0:00:10.48,Main,Ho,0000,0000,0000,,We're at the West Kyushu qualifiers,
+Dialogue: 0,0:00:10.48,0:00:14.22,Main,Ho,0000,0000,0000,,where Mashiro Udon's poster \Ngirl, Arisaka Mashiro,
+Dialogue: 0,0:00:12.24,0:00:15.49,Name,Sign,0001,0446,0028,,Arisaka Mashiro
+Dialogue: 0,0:00:12.24,0:00:15.49,School,Sign,0001,0368,0056,,Kunahama High 1st Year
+Dialogue: 0,0:00:12.24,0:00:15.49,Name,Sign,0464,0001,0024,,Ichinose Rika
+Dialogue: 0,0:00:12.24,0:00:15.49,School,Sign,0338,0001,0055,,Takafuji Academy 1st Year
+Dialogue: 0,0:00:14.22,0:00:18.99,Main,Ho,0000,0000,0000,,is currently facing Takafuji Academy's \Nhottest prospect, Ichinose Rika!
+Dialogue: 0,0:00:19.86,0:00:22.02,Main,Ho,0000,0000,0000,,The two first-years, having \Nwon their first-round matches,
+Dialogue: 0,0:00:22.02,0:00:25.45,Main,Ho,0000,0000,0000,,are now facing off in an A Block \Nsecond-round matchup.
+Dialogue: 0,0:00:25.45,0:00:28.79,Main,Ho,0000,0000,0000,,Which of these two will \Nprogress to the third round?
+Dialogue: 0,0:00:30.32,0:00:31.30,Main,Ri,0000,0000,0000,,See you later!
+Dialogue: 0,0:00:33.39,0:00:34.51,Main,G,0000,0000,0000,,Point to Ichinose!
+Dialogue: 0,0:00:34.51,0:00:35.88,Main,Ri,0000,0000,0000,,The first point is mine!
+Dialogue: 0,0:00:47.37,0:00:49.65,Main,Ir,0000,0000,0000,,They're getting so excited \Nabout a run-of-the-mill match.
+Dialogue: 0,0:00:50.70,0:00:55.27,Main,Ir,0000,0000,0000,,On the other hand, our FC is sure \Nto elicit pin-drop silence.
+Dialogue: 0,0:00:55.99,0:00:58.62,Main,Ir,0000,0000,0000,,If we win two tournaments in a row,
+Dialogue: 0,0:00:59.04,0:01:01.66,Main,Ir,0000,0000,0000,,the FC community will be forced to admit...
+Dialogue: 0,0:01:02.01,0:01:04.41,Main,Sa,0000,0000,0000,,That what we created is superior.
+Dialogue: 0,0:01:05.01,0:01:08.70,Main,Ir,0000,0000,0000,,That our beautiful, perfect FC is superior.
+Dialogue: 0,0:02:41.61,0:02:44.46,Episode-Title,Title,0000,0000,0000,,Episode Eleven:\N "I Refuse to Lose!"
+Dialogue: 0,0:02:42.27,0:02:44.95,Main,Ho,0000,0000,0000,,In the A Block second-round \Nspeeder-versus-speeder matchup,
+Dialogue: 0,0:02:44.95,0:02:47.70,Main,Ho,0000,0000,0000,,Ichinose has drawn first blood!
+Dialogue: 0,0:02:49.72,0:02:50.94,Main,Mas,0000,0000,0000,,She's going to pull away!
+Dialogue: 0,0:02:51.31,0:02:53.82,Main,A,0000,0000,0000,,Remember, M-Mashiro-chan! \NIt's all about spirit!
+Dialogue: 0,0:02:53.82,0:02:55.90,Main,Mi,0000,0000,0000,,Why are you so nervous?
+Dialogue: 0,0:02:55.90,0:02:57.74,Main,H,0000,0000,0000,,Step on it, Mashiro!
+Dialogue: 0,0:02:58.24,0:03:00.27,Italics,H,0000,0000,0000,,And put your gameplan into motion!
+Dialogue: 0,0:03:00.27,0:03:00.99,Italics,H,0000,0000,0000,,Got it?
+Dialogue: 0,0:03:00.99,0:03:01.95,Main,Mas,0000,0000,0000,,Y-Yeah!
+Dialogue: 0,0:03:05.07,0:03:05.70,Flashback,Ri,0000,0000,0000,,Mashiro.
+Dialogue: 0,0:03:07.00,0:03:09.84,Flashback,Ri,0000,0000,0000,,Let's both do our best in our match today.
+Dialogue: 0,0:03:09.84,0:03:12.60,Flashback,Mas,0000,0000,0000,,Yeah! I'm coming for you \Nwith everything I have!
+Dialogue: 0,0:03:14.70,0:03:16.03,Flashback,Mas,0000,0000,0000,,Thank you, Rika.
+Dialogue: 0,0:03:16.79,0:03:21.07,Flashback,Mas,0000,0000,0000,,It's all thanks to you that I managed \Nto find my own style of FC...
+Dialogue: 0,0:03:21.07,0:03:22.37,Flashback,Mas,0000,0000,0000,,That I managed to get this far.
+Dialogue: 0,0:03:23.30,0:03:25.38,Flashback,Ri,0000,0000,0000,,I didn't do anything.
+Dialogue: 0,0:03:25.38,0:03:27.35,Flashback,Ri,0000,0000,0000,,You're the one who put in the \Neffort to make it this far.
+Dialogue: 0,0:03:27.35,0:03:30.54,Flashback,Mas,0000,0000,0000,,Compared to how much effort you put \Nin, I've still got a ways to go.
+Dialogue: 0,0:03:31.17,0:03:33.68,Flashback,Mas,0000,0000,0000,,But I refuse to lose!
+Dialogue: 0,0:03:33.68,0:03:35.11,Flashback,Mas,0000,0000,0000,,I'll beat you this time for sure.
+Dialogue: 0,0:03:35.11,0:03:35.91,Flashback,Ri,0000,0000,0000,,Good.
+Dialogue: 0,0:03:36.33,0:03:37.57,Flashback,Ri,0000,0000,0000,,Bring it on.
+Dialogue: 0,0:03:43.36,0:03:45.13,Main,A,0000,0000,0000,,Mashiro-chan's making her move.
+Dialogue: 0,0:03:45.13,0:03:45.91,Main,Mi,0000,0000,0000,,Yeah.
+Dialogue: 0,0:03:47.77,0:03:50.05,Main,G,0000,0000,0000,,Point to Ichinose! 0-2!
+Dialogue: 0,0:03:50.05,0:03:53.08,Main,Ho,0000,0000,0000,,Ichinose now has a two-point lead!
+Dialogue: 0,0:03:53.08,0:03:54.83,Main,Ho,0000,0000,0000,,Can Arisaka come back from this?
+Dialogue: 0,0:03:55.13,0:03:57.60,Main,Ri,0000,0000,0000,,Where's Mashiro? I thought \Nshe took a shortcut.
+Dialogue: 0,0:03:57.60,0:03:58.71,Italics,R,0000,0000,0000,,Above you!
+Dialogue: 0,0:04:00.15,0:04:00.84,Main,Ri,0000,0000,0000,,Mashiro?!
+Dialogue: 0,0:04:00.84,0:04:03.72,Main,Mas,0000,0000,0000,,I call this the Pickle Stone Tactic!
+Dialogue: 0,0:04:03.99,0:04:05.14,Main,Mas,0000,0000,0000,,And I'm putting it in play!
+Dialogue: 0,0:04:05.14,0:04:06.60,Main,Mi,0000,0000,0000,,"Pickle Stone"? Come on.
+Dialogue: 0,0:04:07.08,0:04:09.33,Main,H,0000,0000,0000,,She'll put her opponent under pressure \Nby taking up position above her,
+Dialogue: 0,0:04:09.33,0:04:11.79,Main,H,0000,0000,0000,,and then go for either her \Nback or the next buoy.
+Dialogue: 0,0:04:11.79,0:04:13.64,Main,A,0000,0000,0000,,This is just like Inui-san's tactic!
+Dialogue: 0,0:04:15.39,0:04:17.15,Main,R,0000,0000,0000,,Smart move, I must admit.
+Dialogue: 0,0:04:17.15,0:04:19.79,Main,Ari,0000,0000,0000,,Goddammit! I wanted to face her!
+Dialogue: 0,0:04:19.79,0:04:21.99,Main,G,0000,0000,0000,,Mind your language, young lady.
+Dialogue: 0,0:04:21.99,0:04:23.74,Main,Ari,0000,0000,0000,,I-I'm sorry, milady!
+Dialogue: 0,0:04:24.84,0:04:28.05,Main,Aoi,0000,0000,0000,,She got a good read on Ichinose's \Nmovements and got above her.
+Dialogue: 0,0:04:29.20,0:04:30.08,Main,Mas,0000,0000,0000,,Here I come!
+Dialogue: 0,0:04:38.84,0:04:39.63,Main,Mas,0000,0000,0000,,Got you!
+Dialogue: 0,0:04:40.34,0:04:42.63,Main,G,0000,0000,0000,,Point to Arisaka! 1-2!
+Dialogue: 0,0:04:44.49,0:04:45.80,Main,G,0000,0000,0000,,Point to Arisaka!
+Dialogue: 0,0:04:46.13,0:04:47.22,Main,Ho,0000,0000,0000,,We're all tied up!
+Dialogue: 0,0:04:47.22,0:04:51.47,Main,Ho,0000,0000,0000,,Arisaka scored two straight \Npoints to level the score!
+Dialogue: 0,0:04:52.56,0:04:54.75,Main,Sh,0000,0000,0000,,That's the way, Arisaka!
+Dialogue: 0,0:04:54.75,0:04:58.19,Main,Sh,0000,0000,0000,,{\an8}As a fellow speeder, I'll share \Nsome of my spirit with you!
+Dialogue: 0,0:04:54.75,0:04:58.19,Main,Mad,0000,0000,0000,,Only team members are allowed back here, Bro.
+Dialogue: 0,0:04:58.19,0:05:01.38,Italics,R,0000,0000,0000,,Take a shortcut to the fourth \Nline at once, Ichinose-san!
+Dialogue: 0,0:05:01.38,0:05:02.36,Main,Ri,0000,0000,0000,,Okay!
+Dialogue: 0,0:05:03.63,0:05:04.61,Main,Ri,0000,0000,0000,,I'm not letting you past!
+Dialogue: 0,0:05:04.88,0:05:06.27,Main,R,0000,0000,0000,,You must stop her, no matter what.
+Dialogue: 0,0:05:06.27,0:05:07.41,Main,R,0000,0000,0000,,Don't let her get away.
+Dialogue: 0,0:05:07.41,0:05:08.37,Main,Ri,0000,0000,0000,,Got it!
+Dialogue: 0,0:05:12.66,0:05:13.71,Main,Mad,0000,0000,0000,,A back punch?!
+Dialogue: 0,0:05:13.71,0:05:14.77,Main,Mi,0000,0000,0000,,Nicely done.
+Dialogue: 0,0:05:18.28,0:05:19.55,Main,Ri,0000,0000,0000,,Got your back!
+Dialogue: 0,0:05:21.13,0:05:23.55,Main,G,0000,0000,0000,,Point to Ichinose! 2-3!
+Dialogue: 0,0:05:31.46,0:05:33.86,Main,Mas,0000,0000,0000,,Ultimate Move: Mashiro Punch!
+Dialogue: 0,0:05:35.79,0:05:38.06,Main,G,0000,0000,0000,,Point to Arisaka! 3-3!
+Dialogue: 0,0:05:38.26,0:05:39.64,Main,Mi,0000,0000,0000,,Way to go, Mashiro!
+Dialogue: 0,0:05:39.64,0:05:40.61,Main,A,0000,0000,0000,,This match is too close to call!
+Dialogue: 0,0:05:40.92,0:05:44.80,Main,Mas,0000,0000,0000,,I haven't been taking on Misaki-senpai \Nor Asuka-senpai for show, you know.
+Dialogue: 0,0:05:44.80,0:05:46.28,Main,Mas,0000,0000,0000,,I'll beat you this time for sure!
+Dialogue: 0,0:05:46.62,0:05:47.78,Main,R,0000,0000,0000,,I want to win, too!
+Dialogue: 0,0:05:48.54,0:05:52.54,Main,Mi,0000,0000,0000,,Ichinose-chan has gotten a lot \Nbetter at dogfighting since summer.
+Dialogue: 0,0:05:52.81,0:05:55.69,Main,Mad,0000,0000,0000,,She must've practiced really \Nhard after losing to you.
+Dialogue: 0,0:05:55.69,0:05:57.34,Main,A,0000,0000,0000,,They're both awesome!
+Dialogue: 0,0:05:57.34,0:06:00.49,Main,Sh,0000,0000,0000,,Guess I should've learned more \Nlessons from my defeat, too.
+Dialogue: 0,0:06:00.49,0:06:01.54,Main,Mad,0000,0000,0000,,Oh, come on, Bro.
+Dialogue: 0,0:06:03.24,0:06:05.32,Main,Mi,0000,0000,0000,,We'll have to do our best \Nso they don't outshine us.
+Dialogue: 0,0:06:05.32,0:06:06.26,Main,A,0000,0000,0000,,Yeah.
+Dialogue: 0,0:06:11.31,0:06:12.39,Italics,Ho,0000,0000,0000,,{\an8}Time's running out!
+Dialogue: 0,0:06:12.39,0:06:14.19,Italics,Ho,0000,0000,0000,,{\an8}Who will triumph in this one?
+Dialogue: 0,0:06:14.19,0:06:20.40,Italics,,0000,0000,0000,,{\an8}Takafuji's Ichinose, or Kunahama's Arisaka?
+Dialogue: 0,0:06:14.38,0:06:16.64,Main,Ir,0000,0000,0000,,That match is still going?
+Dialogue: 0,0:06:17.48,0:06:18.65,Main,Sa,0000,0000,0000,,Kunahama...
+Dialogue: 0,0:06:21.68,0:06:24.91,Flashback,A,0000,0000,0000,,But I'm practicing really \Nhard right now so I can have
+Dialogue: 0,0:06:24.91,0:06:26.34,Flashback,A,0000,0000,0000,,an exciting match with you next time.
+Dialogue: 0,0:06:26.34,0:06:28.20,Flashback,A,0000,0000,0000,,So look forward to the fall tournament—
+Dialogue: 0,0:06:28.20,0:06:29.02,Flashback,Sa,0000,0000,0000,,That's out of the question.
+Dialogue: 0,0:06:31.48,0:06:33.17,Main,Ir,0000,0000,0000,,What's wrong, Saki?
+Dialogue: 0,0:06:33.46,0:06:34.47,Main,Ir,0000,0000,0000,,Let's go.
+Dialogue: 0,0:06:38.02,0:06:40.29,Main,H,0000,0000,0000,,Make a beeline for the first buoy, Mashiro!
+Dialogue: 0,0:06:40.85,0:06:41.58,Main,Mas,0000,0000,0000,,Okay!
+Dialogue: 0,0:06:42.40,0:06:43.53,Main,Ri,0000,0000,0000,,Oh, no, you don't!
+Dialogue: 0,0:06:46.92,0:06:48.36,Main,Mad,0000,0000,0000,,Mashiro-cchi...
+Dialogue: 0,0:06:56.19,0:06:57.62,Main,G,0000,0000,0000,,Point to Arisaka!
+Dialogue: 0,0:06:58.29,0:06:59.28,Main,G,0000,0000,0000,,4-3!
+Dialogue: 0,0:07:00.72,0:07:03.40,Main,G,0000,0000,0000,,This match is over! Arisaka wins!
+Dialogue: 0,0:07:03.57,0:07:05.27,Main,All,0000,0000,0000,,Yay!
+Dialogue: 0,0:07:04.41,0:07:05.27,Main,H,0000,0000,0000,,All right!
+Dialogue: 0,0:07:05.89,0:07:08.92,Main,Masmom,0000,0000,0000,,Atta girl, Mashiro!
+Dialogue: 0,0:07:09.45,0:07:13.05,Main,Ho,0000,0000,0000,,Arisaka wins a hard-fought battle \Nto advance to the third round!
+Dialogue: 0,0:07:09.88,0:07:11.97,Name,Sign,0001,0442,0024,,Arisaka Mashiro
+Dialogue: 0,0:07:09.88,0:07:11.97,School,Sign,0001,0364,0049,,Kunahama High 1st Year
+Dialogue: 0,0:07:09.88,0:07:11.97,Name,Sign,0446,0001,0022,,Ichinose Rika
+Dialogue: 0,0:07:09.88,0:07:11.97,School,Sign,0322,0001,0047,,Takafuji Academy 1st Year
+Dialogue: 0,0:07:12.64,0:07:13.53,Name,Sign,0001,0006,0038,,Arisaka Mashiro
+Dialogue: 0,0:07:12.64,0:07:13.53,School,Sign,0001,0002,0066,,Kunahama High 1st Year
+Dialogue: 0,0:07:14.89,0:07:17.29,Main,Ri,0000,0000,0000,,You were great, Mashiro!
+Dialogue: 0,0:07:17.29,0:07:18.39,Main,Mas,0000,0000,0000,,Rika...
+Dialogue: 0,0:07:20.75,0:07:21.54,Main,Mas,0000,0000,0000,,I—
+Dialogue: 0,0:07:21.54,0:07:23.60,Main,Ri,0000,0000,0000,,Congrats, Mashiro.
+Dialogue: 0,0:07:24.27,0:07:26.80,Main,Ri,0000,0000,0000,,But I'll be the one to win next time.
+Dialogue: 0,0:07:30.65,0:07:32.42,Main,Mas,0000,0000,0000,,That won't happen, Rika.
+Dialogue: 0,0:07:32.76,0:07:34.78,Main,Mas,0000,0000,0000,,I'll have the last laugh next time, too.
+Dialogue: 0,0:07:38.35,0:07:40.43,Main,A,0000,0000,0000,,Mashiro-chan played so well.
+Dialogue: 0,0:07:40.43,0:07:43.31,Main,Mi,0000,0000,0000,,All right! Time to break a leg myself!
+Dialogue: 0,0:07:43.31,0:07:44.98,Main,Mi,0000,0000,0000,,I'm gonna win, no matter what!
+Dialogue: 0,0:07:44.98,0:07:46.17,Main,,0000,0000,0000,,Right!
+Dialogue: 0,0:07:46.98,0:07:49.23,Mashiro Udon,Sign,0000,0000,0000,,Mashiro Udon
+Dialogue: 0,0:07:47.14,0:07:49.73,Main,MasM,0000,0000,0000,,Here's yer order!
+Dialogue: 0,0:07:49.73,0:07:51.99,Main,MasM,0000,0000,0000,,It's hot. Be careful \Nnot to burn yer tongue.
+Dialogue: 0,0:07:53.13,0:07:54.57,Main,All,0000,0000,0000,,Let's eat!
+Dialogue: 0,0:07:58.32,0:08:00.98,Main,Mi,0000,0000,0000,,So, how does that celebratory udon taste?
+Dialogue: 0,0:08:00.98,0:08:02.03,Main,Mas,0000,0000,0000,,Delicious!
+Dialogue: 0,0:08:02.03,0:08:04.47,Main,MasMo,0000,0000,0000,,Aww, you bring a tear to my eye.
+Dialogue: 0,0:08:04.47,0:08:05.95,Main,Mas,0000,0000,0000,,I wasn't talking to you, Mom.
+Dialogue: 0,0:08:07.26,0:08:08.71,Main,Ari,0000,0000,0000,,Congrats, Mashiro.
+Dialogue: 0,0:08:09.09,0:08:11.32,Main,Ari,0000,0000,0000,,I'll allow you to treat \Nme to udon to celebrate.
+Dialogue: 0,0:08:11.32,0:08:12.37,Main,Ga,0000,0000,0000,,Stop that, Arika.
+Dialogue: 0,0:08:12.37,0:08:13.46,Main,Ari,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:08:13.46,0:08:14.66,Main,MasMo,0000,0000,0000,,Fine by me!
+Dialogue: 0,0:08:14.66,0:08:18.45,Main,,0000,0000,0000,,Everyone who rooted for Mashiro \Ngets to eat on the house!
+Dialogue: 0,0:08:18.45,0:08:20.47,Main,Mas,0000,0000,0000,,You're embarrassing me, Mom.
+Dialogue: 0,0:08:20.47,0:08:23.32,Main,R,0000,0000,0000,,We've come to sample the offerings as well.
+Dialogue: 0,0:08:23.32,0:08:26.73,Main,Ri,0000,0000,0000,,When I told them Mashiro Udon serves great \Nfood, they wanted to try some.
+Dialogue: 0,0:08:27.01,0:08:28.21,Main,Mi,0000,0000,0000,,Shindou-san!
+Dialogue: 0,0:08:28.21,0:08:29.69,Main,Mi,0000,0000,0000,,I didn't know you were here to watch.
+Dialogue: 0,0:08:29.69,0:08:30.62,Main,Kaz,0000,0000,0000,,I am.
+Dialogue: 0,0:08:30.94,0:08:32.87,Main,Kaz,0000,0000,0000,,Partly to cheer my juniors on,
+Dialogue: 0,0:08:32.87,0:08:35.32,Main,Kaz,0000,0000,0000,,but also because I'm curious \Nabout how Inui will play this time.
+Dialogue: 0,0:08:35.92,0:08:37.20,Main,Kaz,0000,0000,0000,,How are things, Hinata-kun?
+Dialogue: 0,0:08:37.58,0:08:39.83,Main,H,0000,0000,0000,,I think we're as ready as we could be.
+Dialogue: 0,0:08:40.26,0:08:43.22,Main,R,0000,0000,0000,,I'll be taking her on in the third round.
+Dialogue: 0,0:08:43.22,0:08:46.83,Main,R,0000,0000,0000,,I shall eat some udon and make \Nsure I play with maximum spirit!
+Dialogue: 0,0:08:46.83,0:08:50.53,Main,MasMo,0000,0000,0000,,I'll have yer bowls ready right away.
+Dialogue: 0,0:08:50.53,0:08:53.87,Main,Mad,0000,0000,0000,,A-Asuka-chan! You need to get \Nready for the next match!
+Dialogue: 0,0:08:53.87,0:08:55.61,Main,A,0000,0000,0000,,R-Right! I'd better hurry!
+Dialogue: 0,0:08:55.61,0:08:56.84,Main,Mi,0000,0000,0000,,I'll eat some more and join you later.
+Dialogue: 0,0:08:56.84,0:08:58.45,Main,MasMo,0000,0000,0000,,They're such a lively bunch.
+Dialogue: 0,0:09:01.00,0:09:03.17,Main,Haruki,0000,0000,0000,,Stay on your toes, Aoi.
+Dialogue: 0,0:09:03.17,0:09:04.72,Main,Aoi,0000,0000,0000,,Where did that come from?
+Dialogue: 0,0:09:05.13,0:09:09.40,Main,Har,0000,0000,0000,,Kairyou Academy's Inui Saki and \Nher second, Irina Avalon...
+Dialogue: 0,0:09:09.40,0:09:11.96,Main,Har,0000,0000,0000,,Those two are no ordinary team.
+Dialogue: 0,0:09:12.39,0:09:13.83,Main,Aoi,0000,0000,0000,,Please.
+Dialogue: 0,0:09:13.83,0:09:16.15,Main,Aoi,0000,0000,0000,,We've known that since the summer tournament.
+Dialogue: 0,0:09:16.65,0:09:18.86,Main,Har,0000,0000,0000,,No, that's not all I'm talking about.
+Dialogue: 0,0:09:18.86,0:09:20.54,Main,Har,0000,0000,0000,,I bet they still have \Nsomething up their sleeves.
+Dialogue: 0,0:09:20.54,0:09:22.33,Main,Har,0000,0000,0000,,That Avalon brand bothers me.
+Dialogue: 0,0:09:23.67,0:09:26.72,Main,Aoi,0000,0000,0000,,Is this your instinct as an \Nexperienced dealer talking?
+Dialogue: 0,0:09:28.22,0:09:30.95,Main,Har,0000,0000,0000,,There's something off about those Grav-Shoes.
+Dialogue: 0,0:09:32.05,0:09:33.43,Main,Aoi,0000,0000,0000,,I'll keep an eye out.
+Dialogue: 0,0:09:36.73,0:09:38.26,Main,G,0000,0000,0000,,Kurashina wins!
+Dialogue: 0,0:09:39.61,0:09:40.50,Main,H,0000,0000,0000,,Well played.
+Dialogue: 0,0:09:40.50,0:09:41.43,Main,A,0000,0000,0000,,Thanks!
+Dialogue: 0,0:09:41.79,0:09:44.39,Main,Mas,0000,0000,0000,,That flying fish-like barrel \Nroll was really pretty!
+Dialogue: 0,0:09:46.17,0:09:47.27,Main,A,0000,0000,0000,,Where's Misaki-chan?
+Dialogue: 0,0:09:47.60,0:09:50.77,Main,Mad,0000,0000,0000,,Over at B Block. Her next match begins soon.
+Dialogue: 0,0:09:50.77,0:09:53.41,Main,Mas,0000,0000,0000,,She was having an udon-eating \Ncontest until just now, though.
+Dialogue: 0,0:09:53.41,0:09:55.15,Main,Mad,0000,0000,0000,,I hope she doesn't get an upset tummy.
+Dialogue: 0,0:09:55.15,0:09:57.93,Main,Mas,0000,0000,0000,,But Shindou-san was something else.
+Dialogue: 0,0:09:57.93,0:09:58.86,Main,Mad,0000,0000,0000,,I know, right?
+Dialogue: 0,0:09:58.86,0:10:01.62,Main,Mad,0000,0000,0000,,He gobbled those noodles up like a Cobra.
+Dialogue: 0,0:10:01.62,0:10:03.12,Main,G,0000,0000,0000,,This match is over!
+Dialogue: 0,0:10:03.35,0:10:06.12,Main,G,0000,0000,0000,,Inui wins 8-0!
+Dialogue: 0,0:10:08.00,0:10:10.15,Main,Ho,0000,0000,0000,,She's good! Way too good!
+Dialogue: 0,0:10:10.15,0:10:13.76,Main,Ho,0000,0000,0000,,Inui once again used the Birdcage, \Nwhich dethroned Shindou,
+Dialogue: 0,0:10:13.76,0:10:16.47,Main,Ho,0000,0000,0000,,to inflict a crushing defeat on Satouin!
+Dialogue: 0,0:10:17.31,0:10:19.09,Main,Ir,0000,0000,0000,,That was perfect, Saki. Keep it up.
+Dialogue: 0,0:10:19.09,0:10:19.89,Italics,Sa,0000,0000,0000,,Okay.
+Dialogue: 0,0:10:24.09,0:10:25.99,Main,Ho,0000,0000,0000,,The first day of the fall \Ntournament comes to close,
+Dialogue: 0,0:10:25.99,0:10:28.64,Main,Ho,0000,0000,0000,,and all matches up to the third \Nround have been completed!
+Dialogue: 0,0:10:28.64,0:10:32.11,School,Sign,0001,0230,0058,,Shitou Suisan 2nd Year
+Dialogue: 0,0:10:28.64,0:10:32.11,Name,Sign,0001,0326,0029,,Ganeko Mayu
+Dialogue: 0,0:10:29.13,0:10:32.67,Main,Sign,0000,0000,0000,,In the A Block semifinals, Ganeko, \None of the favorites for the title,
+Dialogue: 0,0:10:32.11,0:10:37.61,School,Sign,0001,0194,0066,,Kunahama High 2nd Year
+Dialogue: 0,0:10:32.11,0:10:37.61,Name,Sign,0001,0276,0034,,Kurashina Asuka
+Dialogue: 0,0:10:32.67,0:10:37.18,Main,Sign,0000,0000,0000,,will face Kurashina, who pushed \NShindou all the way in summer!
+Dialogue: 0,0:10:37.61,0:10:41.37,School,Sign,0001,0012,0067,,Kairyou Academy 2nd Year
+Dialogue: 0,0:10:37.61,0:10:41.37,Name,Sign,0001,0014,0036,,Inui Saki
+Dialogue: 0,0:10:37.78,0:10:41.37,Main,Sign,0000,0000,0000,,And in the other semifinal in B Block, Inui,\N after her overwhelming victory over Satouin,
+Dialogue: 0,0:10:41.37,0:10:47.58,Name,,0000,0000,0000,,Tobisawa Misaki
+Dialogue: 0,0:10:41.37,0:10:47.58,School - Copy,,0000,0000,0000,,Kunahama High 2nd Year
+Dialogue: 0,0:10:41.37,0:10:47.58,Main,Sign,0000,0000,0000,,takes on another rising star\N from Kunahama, Tobisawa!
+Dialogue: 0,0:10:50.22,0:10:54.24,Main,Mas,0000,0000,0000,,Sorry I was the only one \Nto lose in the third round.
+Dialogue: 0,0:10:54.24,0:10:56.71,Main,Mi,0000,0000,0000,,Don't worry. You did great.
+Dialogue: 0,0:10:56.71,0:10:58.55,Main,A,0000,0000,0000,,She's right, Mashiro-chan.
+Dialogue: 0,0:10:58.55,0:11:01.51,Main,Mad,0000,0000,0000,,You put up a good fight against \NGaneko-san, who placed third in summer.
+Dialogue: 0,0:11:01.82,0:11:04.52,Main,H,0000,0000,0000,,Misaki, you're going up \Nagainst Inui tomorrow.
+Dialogue: 0,0:11:04.52,0:11:08.10,Main,Mi,0000,0000,0000,,I'm gonna show off the fruits of \Nall the training I've done and win!
+Dialogue: 0,0:11:08.35,0:11:11.10,Main,Mi,0000,0000,0000,,And then, I'll play Asuka in the final.
+Dialogue: 0,0:11:12.03,0:11:12.92,Main,A,0000,0000,0000,,Right!
+Dialogue: 0,0:11:12.92,0:11:14.19,Main,A,0000,0000,0000,,I'll do my best, too!
+Dialogue: 0,0:11:17.98,0:11:19.29,Main,G,0000,0000,0000,,Whoa!
+Dialogue: 0,0:11:19.29,0:11:20.74,Main,G,0000,0000,0000,,They're leaving on that?
+Dialogue: 0,0:11:23.77,0:11:24.74,Main,Mad,0000,0000,0000,,What's going on?
+Dialogue: 0,0:11:25.15,0:11:26.37,Main,Mad,0000,0000,0000,,That's—
+Dialogue: 0,0:11:28.18,0:11:30.32,Main,Ir,0000,0000,0000,,Oh, hello.
+Dialogue: 0,0:11:30.71,0:11:31.50,Main,A,0000,0000,0000,,Inui-san!
+Dialogue: 0,0:11:31.98,0:11:33.46,Main,A,0000,0000,0000,,Good work.
+Dialogue: 0,0:11:33.81,0:11:36.11,Main,Ir,0000,0000,0000,,Saki hasn't had to work at all.
+Dialogue: 0,0:11:36.41,0:11:38.46,Main,Ir,0000,0000,0000,,But I'm sure you're all exhausted,
+Dialogue: 0,0:11:38.46,0:11:40.22,Main,Ir,0000,0000,0000,,so please do get some rest.
+Dialogue: 0,0:11:40.84,0:11:46.10,Main,Ir,0000,0000,0000,,If not, Saki won't be able to \Nshow the world a perfect victory.
+Dialogue: 0,0:11:46.10,0:11:47.35,Main,Mad,0000,0000,0000,,You're assuming you're gonna win?!
+Dialogue: 0,0:11:47.35,0:11:48.60,Main,Ir,0000,0000,0000,,Be seeing you, then.
+Dialogue: 0,0:11:48.60,0:11:51.27,Main,Ir,0000,0000,0000,,Let us do our best tomorrow.
+Dialogue: 0,0:12:19.55,0:12:20.42,i love misaki,Sign,0000,0000,0000,,I <3 Misaki
+Dialogue: 0,0:12:20.42,0:12:21.30,Tobisawa Misaki for Life,Sign,0000,0000,0000,,Tobisawa Misaki for Life
+Dialogue: 0,0:12:21.30,0:12:22.17,i love misaki,Sign,0000,0000,0000,,Misaki Life
+Dialogue: 0,0:12:24.18,0:12:24.93,Main,Mas,0000,0000,0000,,Okay!
+Dialogue: 0,0:12:24.93,0:12:28.39,Main,Mas,0000,0000,0000,,I'm going to root for you with \Nall my heart, Misaki-senpai!
+Dialogue: 0,0:12:28.39,0:12:30.20,Main,Mi,0000,0000,0000,,This isn't some idol concert, you know.
+Dialogue: 0,0:12:30.20,0:12:31.65,Main,A,0000,0000,0000,,In Mashiro-chan's eyes,
+Dialogue: 0,0:12:31.65,0:12:34.69,Main,A,0000,0000,0000,,this might just be a \NFlying Misaki-senpai Show.
+Dialogue: 0,0:12:35.12,0:12:38.44,Main,Mas,0000,0000,0000,,Allow me, Arisaka Mashiro, to \Nsing the official cheering song!
+Dialogue: 0,0:12:38.82,0:12:45.55,Main,Mas,0000,0000,0000,,{\an8}Fly across the starry sky \Nwith your unrivaled wings.
+Dialogue: 0,0:12:40.78,0:12:43.42,Main,A,0000,0000,0000,,Whoa, this is really firing me up!
+Dialogue: 0,0:12:43.42,0:12:46.96,Main,Mi,0000,0000,0000,,I can't focus like this, so when you root \Nfor me, do it where I won't see you.
+Dialogue: 0,0:12:45.55,0:12:47.07,Main,Mas,0000,0000,0000,,{\an8}Your answer is surely—
+Dialogue: 0,0:12:46.96,0:12:49.11,Main,Mas,0000,0000,0000,,What? You meanie!
+Dialogue: 0,0:12:49.11,0:12:51.15,Main,Mas,0000,0000,0000,,Don't you realize I'm doing \Nthis out of love for you?!
+Dialogue: 0,0:12:51.15,0:12:52.22,Main,Mi,0000,0000,0000,,Yeah, yeah.
+Dialogue: 0,0:12:52.22,0:12:54.30,Main,Ir,0000,0000,0000,,You sure are full of energy \Nfirst thing in the morning.
+Dialogue: 0,0:12:55.33,0:12:56.49,Main,Ir,0000,0000,0000,,Hello.
+Dialogue: 0,0:12:57.65,0:12:58.71,Main,A,0000,0000,0000,,Inui-san!
+Dialogue: 0,0:12:59.01,0:13:01.47,Main,Ir,0000,0000,0000,,Make as much noise as you want,\N while you still can.
+Dialogue: 0,0:13:01.47,0:13:05.09,Main,Ir,0000,0000,0000,,Because you will fall silent \Nonce the match begins.
+Dialogue: 0,0:13:06.21,0:13:08.72,Main,Mi,0000,0000,0000,,I wouldn't be so sure of that.
+Dialogue: 0,0:13:09.30,0:13:11.68,Main,Mi,0000,0000,0000,,You never know how a match will go.
+Dialogue: 0,0:13:12.21,0:13:14.18,Main,Ir,0000,0000,0000,,Well, I can't wait to find out.
+Dialogue: 0,0:13:14.36,0:13:15.47,Main,Ir,0000,0000,0000,,See you.
+Dialogue: 0,0:13:21.07,0:13:23.90,School,Sign,0001,0370,0047,,Shitou Suisan 2nd Year
+Dialogue: 0,0:13:21.07,0:13:23.90,Name,Sign,0001,0466,0019,,Ganeko Mayu
+Dialogue: 0,0:13:21.07,0:13:23.90,School,Sign,0326,0001,0053,,Kunahama High 2nd Year
+Dialogue: 0,0:13:21.07,0:13:23.90,Name,Sign,0408,0001,0025,,Kurashina Asuka
+Dialogue: 0,0:13:21.78,0:13:24.34,Main,Ho,0000,0000,0000,,This is the second day \Nof the fall tournament!
+Dialogue: 0,0:13:24.34,0:13:27.78,Main,Ho,0000,0000,0000,,Kurashina is currently on top against Ganeko!
+Dialogue: 0,0:13:29.76,0:13:30.58,Main,Ari,0000,0000,0000,,Milady!
+Dialogue: 0,0:13:37.69,0:13:40.04,Main,G,0000,0000,0000,,Point to Kurashina! 2-5!
+Dialogue: 0,0:13:40.04,0:13:42.13,Main,Mas,0000,0000,0000,,Go, Asuka-senpai!
+Dialogue: 0,0:13:44.11,0:13:46.01,Main,G,0000,0000,0000,,You're too careless!
+Dialogue: 0,0:13:50.40,0:13:53.89,Main,Kaz,0000,0000,0000,,You seem full of spirit, Tobisawa-kun.
+Dialogue: 0,0:13:55.12,0:13:56.38,Main,Mi,0000,0000,0000,,Shindou-san...
+Dialogue: 0,0:13:57.33,0:14:00.19,Main,Kaz,0000,0000,0000,,I look forward to great \Nthings from your zipzapping.
+Dialogue: 0,0:14:02.32,0:14:03.07,Main,Mi,0000,0000,0000,,Got it.
+Dialogue: 0,0:14:06.75,0:14:12.49,Main,Mi,0000,0000,0000,,But really, I wanted to beat you \Nat that udon-eating contest.
+Dialogue: 0,0:14:14.06,0:14:16.41,Main,Kaz,0000,0000,0000,,I'll take you on anytime.
+Dialogue: 0,0:14:16.76,0:14:20.27,Main,Mi,0000,0000,0000,,Then if I beat Inui-san, \NI'll come for you next.
+Dialogue: 0,0:14:29.32,0:14:30.75,Main,G,0000,0000,0000,,Point to Kurashina!
+Dialogue: 0,0:14:34.47,0:14:36.06,Main,G,0000,0000,0000,,This match is over!
+Dialogue: 0,0:14:36.44,0:14:38.02,Main,G,0000,0000,0000,,Kurashina wins!
+Dialogue: 0,0:14:38.02,0:14:39.89,Main,Ho,0000,0000,0000,,In the A Block semifinal,
+Dialogue: 0,0:14:39.89,0:14:43.73,Main,Ho,0000,0000,0000,,Kurashina eliminates Ganeko, \Nwho placed third last time around,
+Dialogue: 0,0:14:40.83,0:14:43.14,School,Sign,0001,0368,0048,,Shitou Suisan 2nd Year
+Dialogue: 0,0:14:40.83,0:14:43.14,Name,Sign,0001,0462,0020,,Ganeko Mayu
+Dialogue: 0,0:14:40.83,0:14:43.14,School,Sign,0326,0001,0050,,Kunahama High 2nd Year
+Dialogue: 0,0:14:40.83,0:14:43.14,Name,Sign,0406,0001,0023,,Kurashina Asuka
+Dialogue: 0,0:14:43.73,0:14:45.40,School,Sign,0001,0001,0052,,Kunahama High 2nd Year
+Dialogue: 0,0:14:43.73,0:14:45.40,Name,Sign,0001,0004,0025,,Kurashina Asuka
+Dialogue: 0,0:14:43.73,0:14:45.85,Main,Ho,0000,0000,0000,,to progress to her first-ever final!
+Dialogue: 0,0:14:45.85,0:14:49.38,Main,Ho,0000,0000,0000,,Next up, we have the B Block semifinal!
+Dialogue: 0,0:14:49.38,0:14:52.05,Main,Ho,0000,0000,0000,,Who will face Kurashina in the final?
+Dialogue: 0,0:14:52.05,0:14:54.64,Main,Ho,0000,0000,0000,,Will be the Dominating Queen \Nof the Sky, Inui Saki,
+Dialogue: 0,0:14:54.64,0:14:57.66,Main,Ho,0000,0000,0000,,or will it be the Wildcat \NFighter, Tobisawa Misaki?
+Dialogue: 0,0:14:57.66,0:15:00.06,Main,Mas,0000,0000,0000,,Break a leg, Misaki-senpai!
+Dialogue: 0,0:15:00.06,0:15:02.16,Main,Mas,0000,0000,0000,,If you win, we'll let you \Nhave free udon for a year!
+Dialogue: 0,0:15:02.16,0:15:04.38,Main,Mad,0000,0000,0000,,Settle down, Mashiro-cchi.
+Dialogue: 0,0:15:02.68,0:15:07.13,Main,Mas,0000,0000,0000,,Hooray, hooray, Misaki-senpai!
+Dialogue: 0,0:15:05.10,0:15:07.13,Main,Mad,0000,0000,0000,,Would you listen to me?
+Dialogue: 0,0:15:07.71,0:15:08.55,Main,H,0000,0000,0000,,Misaki.
+Dialogue: 0,0:15:10.14,0:15:11.01,Main,H,0000,0000,0000,,Scared?
+Dialogue: 0,0:15:13.20,0:15:14.76,Main,Mi,0000,0000,0000,,I guess.
+Dialogue: 0,0:15:14.76,0:15:19.15,Main,Mi,0000,0000,0000,,I mean, Inui-san destroyed Satouin-san.
+Dialogue: 0,0:15:19.15,0:15:21.68,Main,Mi,0000,0000,0000,,And I could lose the same way.
+Dialogue: 0,0:15:22.14,0:15:25.40,Main,Mi,0000,0000,0000,,I'll admit that I am pretty \Nscared of that prospect.
+Dialogue: 0,0:15:26.58,0:15:27.63,Main,H,0000,0000,0000,,Misaki...
+Dialogue: 0,0:15:28.42,0:15:34.07,Main,Mi,0000,0000,0000,,But it's because I lost that I could \Ntake a long, hard look at myself.
+Dialogue: 0,0:15:34.39,0:15:37.20,Main,Mi,0000,0000,0000,,And it's because I lost that \NI could dedicate myself to FC.
+Dialogue: 0,0:15:39.03,0:15:41.67,Main,Mi,0000,0000,0000,,Anyway, I'm gonna go on \Nthe attack and stay there!
+Dialogue: 0,0:15:42.11,0:15:44.80,Main,Mi,0000,0000,0000,,That is my brand of FC!
+Dialogue: 0,0:15:46.57,0:15:47.50,Main,H,0000,0000,0000,,Yeah.
+Dialogue: 0,0:15:54.75,0:15:55.72,Main,Mi,0000,0000,0000,,Inui-san...
+Dialogue: 0,0:15:57.45,0:16:00.04,Main,Mi,0000,0000,0000,,I'm gonna break free of your Birdcage.
+Dialogue: 0,0:16:00.39,0:16:01.81,Main,Mi,0000,0000,0000,,You'd best be prepared to zipzap.
+Dialogue: 0,0:16:02.65,0:16:04.19,Main,G,0000,0000,0000,,On your marks...
+Dialogue: 0,0:16:14.32,0:16:15.11,Main,G,0000,0000,0000,,Set!
+Dialogue: 0,0:16:18.88,0:16:20.50,Main,Ho,0000,0000,0000,,Here we go!
+Dialogue: 0,0:16:20.50,0:16:21.86,Main,Ho,0000,0000,0000,,Inui's heading for the buoy,
+Dialogue: 0,0:16:21.86,0:16:24.08,Main,Ho,0000,0000,0000,,whereas Tobisawa immediately took a shortcut!
+Dialogue: 0,0:16:27.41,0:16:28.92,Main,G,0000,0000,0000,,Point to Inui!
+Dialogue: 0,0:16:36.91,0:16:39.39,Main,A,0000,0000,0000,,So it does come down to this after all.
+Dialogue: 0,0:16:39.57,0:16:40.59,Main,Kaz,0000,0000,0000,,Now, then.
+Dialogue: 0,0:16:40.59,0:16:43.27,Main,Kaz,0000,0000,0000,,What will you do, Tobisawa-kun?
+Dialogue: 0,0:16:44.19,0:16:45.02,Italics,H,0000,0000,0000,,Misaki.
+Dialogue: 0,0:16:45.36,0:16:49.47,Main,H,0000,0000,0000,,Inui's looking to win all her matches \Nin this tournament with the Birdcage.
+Dialogue: 0,0:16:50.08,0:16:50.59,Main,H,0000,0000,0000,,So...
+Dialogue: 0,0:16:50.59,0:16:52.34,Italics,H,0000,0000,0000,,you should be able to get \Nclose to her from below.
+Dialogue: 0,0:16:52.75,0:16:53.78,Main,Mi,0000,0000,0000,,Roger.
+Dialogue: 0,0:16:53.78,0:16:56.62,Main,Mi,0000,0000,0000,,As always, I'm gonna look to get \Ndown and dirty in a dogfight.
+Dialogue: 0,0:16:56.79,0:16:57.67,Italics,H,0000,0000,0000,,That's the way.
+Dialogue: 0,0:16:57.67,0:17:00.79,Italics,H,0000,0000,0000,,Once you get close, stick to her like glue
+Dialogue: 0,0:17:01.12,0:17:02.51,Italics,H,0000,0000,0000,,and break her down bit by bit!
+Dialogue: 0,0:17:02.51,0:17:03.87,Main,Mi,0000,0000,0000,,The entire time?
+Dialogue: 0,0:17:03.87,0:17:05.57,Main,Mi,0000,0000,0000,,This is gonna be a pain in the tail.
+Dialogue: 0,0:17:06.02,0:17:08.88,Main,Mi,0000,0000,0000,,But quitting would be even worse!
+Dialogue: 0,0:17:10.98,0:17:11.79,Main,Mi,0000,0000,0000,,Okay...
+Dialogue: 0,0:17:12.46,0:17:13.13,Main,Mi,0000,0000,0000,,Here I go!
+Dialogue: 0,0:17:17.48,0:17:20.42,Main,Ho,0000,0000,0000,,Whoa! Tobisawa with an insane burst of speed!
+Dialogue: 0,0:17:26.40,0:17:29.78,Main,Ho,0000,0000,0000,,Come on, Inui-san. Let's zipzap.
+Dialogue: 0,0:17:30.90,0:17:32.53,Main,H,0000,0000,0000,,Don't let her get away, Misaki!
+Dialogue: 0,0:17:32.77,0:17:33.79,Main,Mi,0000,0000,0000,,I know!
+Dialogue: 0,0:17:35.28,0:17:36.89,Main,Ir,0000,0000,0000,,Sonic Boost, eh?
+Dialogue: 0,0:17:36.89,0:17:39.66,Main,Ir,0000,0000,0000,,She must've practiced a whole lot.
+Dialogue: 0,0:17:40.04,0:17:40.91,Main,Ir,0000,0000,0000,,But...
+Dialogue: 0,0:17:41.52,0:17:43.79,Italics,Ir,0000,0000,0000,,No change in plans, Saki.
+Dialogue: 0,0:17:43.79,0:17:45.54,Italics,Ir,0000,0000,0000,,Push her down to the water.
+Dialogue: 0,0:17:45.54,0:17:46.92,Main,Sa,0000,0000,0000,,Okay, Irina.
+Dialogue: 0,0:17:50.17,0:17:52.76,Main,Sa,0000,0000,0000,,Inui suddenly stopped in her \Ntracks and blew Tobisawa back,
+Dialogue: 0,0:17:52.76,0:17:54.32,Main,,0000,0000,0000,,and now Tobisawa's falling!
+Dialogue: 0,0:17:56.73,0:17:58.39,Main,Mi,0000,0000,0000,,I said, let's zip...
+Dialogue: 0,0:17:58.39,0:17:59.31,Main,Mi,0000,0000,0000,,zap!
+Dialogue: 0,0:18:02.46,0:18:03.66,Main,Mi,0000,0000,0000,,There's more!
+Dialogue: 0,0:18:08.62,0:18:09.65,Main,Mi,0000,0000,0000,,Once more!
+Dialogue: 0,0:18:19.85,0:18:21.83,Main,Mi,0000,0000,0000,,How's that? Did it fire you up some?
+Dialogue: 0,0:18:24.27,0:18:25.01,Main,Ir,0000,0000,0000,,Saki...
+Dialogue: 0,0:18:25.42,0:18:26.97,Main,Ir,0000,0000,0000,,Don't let her dictate the tempo.
+Dialogue: 0,0:18:26.97,0:18:27.92,Italics,Sa,0000,0000,0000,,I know.
+Dialogue: 0,0:18:28.31,0:18:30.57,Main,Mas,0000,0000,0000,,This match is so like Misaki-senpai!
+Dialogue: 0,0:18:30.57,0:18:31.13,Main,A,0000,0000,0000,,Yeah.
+Dialogue: 0,0:18:31.89,0:18:35.71,Main,Ho,0000,0000,0000,,Oh, Tobisawa has been \Nforced down to the water!
+Dialogue: 0,0:18:42.99,0:18:44.79,Main,Ri,0000,0000,0000,,She made it out of the water!
+Dialogue: 0,0:18:44.79,0:18:45.94,Main,S,0000,0000,0000,,She isn't clear yet.
+Dialogue: 0,0:18:45.94,0:18:48.27,Main,S,0000,0000,0000,,She hasn't broken free of the Birdcage yet.
+Dialogue: 0,0:18:49.73,0:18:53.69,Main,Ho,0000,0000,0000,,Back and forth they go, trying to \Nsecure an advantageous position above!
+Dialogue: 0,0:18:54.45,0:18:57.15,Main,Kaz,0000,0000,0000,,She's having trouble breaking free.
+Dialogue: 0,0:18:59.82,0:19:02.41,Main,Sa,0000,0000,0000,,Not looking to get above me anymore?
+Dialogue: 0,0:19:02.72,0:19:06.25,Main,Mi,0000,0000,0000,,H-Hey, you can't touch my back like this.
+Dialogue: 0,0:19:06.79,0:19:07.83,Main,Aoi,0000,0000,0000,,I see.
+Dialogue: 0,0:19:08.35,0:19:09.50,Main,Aoi,0000,0000,0000,,She's flying upside-down, huh?
+Dialogue: 0,0:19:09.81,0:19:14.09,Main,H,0000,0000,0000,,Yeah, with her back facing away, she \Nwon't be at a disadvantage in a dogfight.
+Dialogue: 0,0:19:14.34,0:19:16.38,Main,Kaz,0000,0000,0000,,Well, I certainly hadn't thought of that one.
+Dialogue: 0,0:19:16.38,0:19:21.49,Main,R,0000,0000,0000,,But it should be difficult \Nto keep flying upside-down.
+Dialogue: 0,0:19:21.49,0:19:22.43,Main,Kaz,0000,0000,0000,,Yeah.
+Dialogue: 0,0:19:22.96,0:19:24.68,Main,Kaz,0000,0000,0000,,Which is why this could be the turning point.
+Dialogue: 0,0:19:24.94,0:19:26.14,Main,A,0000,0000,0000,,Misaki-chan!
+Dialogue: 0,0:19:26.55,0:19:27.89,Main,Mi,0000,0000,0000,,I'm not done yet!
+Dialogue: 0,0:19:29.61,0:19:30.87,Main,H,0000,0000,0000,,Nice, Misaki!
+Dialogue: 0,0:19:30.87,0:19:32.05,Italics,H,0000,0000,0000,,Stay on the attack!
+Dialogue: 0,0:19:32.05,0:19:34.48,Main,Mi,0000,0000,0000,,Easy for you to say!
+Dialogue: 0,0:19:37.89,0:19:42.45,Main,Ho,0000,0000,0000,,Wow! Tobisawa is continuously attacking \NInui while flying upside-down!
+Dialogue: 0,0:19:44.15,0:19:46.87,Main,Mi,0000,0000,0000,,I'm gonna go on the attack and stay there!
+Dialogue: 0,0:19:49.39,0:19:50.25,Main,Ir,0000,0000,0000,,Saki?
+Dialogue: 0,0:19:56.73,0:19:57.55,Main,Mad,0000,0000,0000,,That's...
+Dialogue: 0,0:19:57.82,0:19:58.51,Main,Kaz,0000,0000,0000,,Oh?
+Dialogue: 0,0:20:02.61,0:20:05.15,Main,G,0000,0000,0000,,Point to Tobisawa! 1-1!
+Dialogue: 0,0:20:05.97,0:20:08.50,Main,Mas,0000,0000,0000,,You're the best, Misaki-senpai!
+Dialogue: 0,0:20:08.50,0:20:09.48,Main,A,0000,0000,0000,,She's evened the score!
+Dialogue: 0,0:20:09.48,0:20:10.89,Main,Ho,0000,0000,0000,,That was the Cobra!
+Dialogue: 0,0:20:10.89,0:20:14.52,Main,Ho,0000,0000,0000,,Tobisawa pulled off the Cobra from \Nan upside-down position to score!
+Dialogue: 0,0:20:15.25,0:20:15.94,Italics,Ir,0000,0000,0000,,Saki!
+Dialogue: 0,0:20:16.27,0:20:17.57,Main,Ir,0000,0000,0000,,What do you think you're doing?
+Dialogue: 0,0:20:17.88,0:20:20.40,Main,Ir,0000,0000,0000,,There's no place for such \Nunsightly play in our FC!
+Dialogue: 0,0:20:20.73,0:20:22.79,Main,Sa,0000,0000,0000,,Yes, Irina.
+Dialogue: 0,0:20:23.82,0:20:29.24,Main,Mi,0000,0000,0000,,I'm fighting with everything I've got!
+Dialogue: 0,0:20:29.65,0:20:31.04,Main,Mi,0000,0000,0000,,What about you,
+Dialogue: 0,0:20:31.50,0:20:32.65,Main,Mi,0000,0000,0000,,Inui-san?!
+Dialogue: 0,0:20:33.85,0:20:35.25,Italics,Sa,0000,0000,0000,,Everything...
+Dialogue: 0,0:20:43.76,0:20:44.93,Italics,Sa,0000,0000,0000,,What is this feeling?
+Dialogue: 0,0:20:46.62,0:20:48.64,Italics,Sa,0000,0000,0000,,She refuses to run and keeps coming at me.
+Dialogue: 0,0:20:50.53,0:20:52.85,Italics,Sa,0000,0000,0000,,My body's burning up.
+Dialogue: 0,0:20:53.70,0:20:56.56,Italics,Sa,0000,0000,0000,,I want to beat her.
+Dialogue: 0,0:20:57.31,0:20:59.07,Italics,Sa,0000,0000,0000,,I want to beat her in a dogfight.
+Dialogue: 0,0:21:01.59,0:21:03.22,Italics,Sa,0000,0000,0000,,Sorry, Irina.
+Dialogue: 0,0:21:09.90,0:21:11.22,Main,G,0000,0000,0000,,Point to Inui!
+Dialogue: 0,0:21:15.09,0:21:16.70,Italics,Mi,0000,0000,0000,,She's good at dogfighting, too!
+Dialogue: 0,0:21:17.37,0:21:18.75,Main,H,0000,0000,0000,,Ten seconds left!
+Dialogue: 0,0:21:19.32,0:21:20.00,Italics,Mi,0000,0000,0000,,This is scary,
+Dialogue: 0,0:21:20.95,0:21:21.80,Italics,,0000,0000,0000,,but...
+Dialogue: 0,0:21:27.60,0:21:28.47,Italics,Mi,0000,0000,0000,,it's so much fun!
+Dialogue: 0,0:21:32.35,0:21:33.88,Main,G,0000,0000,0000,,This match is over!
+Dialogue: 0,0:21:37.75,0:21:40.57,Italics,A,0000,0000,0000,,You're so cool, Misaki-chan!
+Dialogue: 0,0:21:48.70,0:21:50.24,Main,Mi,0000,0000,0000,,I couldn't beat her.
+Dialogue: 0,0:21:53.01,0:21:53.98,Italics,H,0000,0000,0000,,Misaki...
+Dialogue: 0,0:22:00.57,0:22:05.06,Italics,Ir,0000,0000,0000,,I've never tasted such a \Nrepulsive victory before.
+Dialogue: 0,0:22:10.24,0:22:12.09,School,Sign,0001,0354,0019,,{\fad(798,1)}Kunahama High 2nd Year
+Dialogue: 0,0:22:10.24,0:22:12.09,Name,Sign,0001,0436,0051,,{\fad(798,1)}Kurashina Asuka
+Dialogue: 0,0:22:10.24,0:22:12.09,School,Sign,0318,0001,0127,,{\an2}{\fad(798,1)}Kairyou Academy 2nd Year
+Dialogue: 0,0:22:10.24,0:22:12.09,Name,Sign,0494,0001,0156,,{\an2}{\fad(798,1)}Inui Saki
+Dialogue: 0,0:22:12.10,0:22:15.06,To be Continued,Sign,0000,0000,0000,,To Be Continued
+Dialogue: 0,0:23:45.46,0:23:46.53,Preview,Sign,0000,0000,0000,,{\fad(673,1)}Preview
+Dialogue: 0,0:23:46.53,0:23:47.23,Main,A,0000,0000,0000,,Fly!
+Dialogue: 0,0:23:47.23,0:23:48.19,Main,Sa,0000,0000,0000,,Just a bit more...
+Dialogue: 0,0:23:48.19,0:23:52.03,Main,Ir,0000,0000,0000,,It is time for silence to descend upon us!
+Dialogue: 0,0:23:52.03,0:23:54.29,Main,A,0000,0000,0000,,Let's keep flying together!
+Dialogue: 0,0:23:52.05,0:23:55.45,Episode-Title - End,Title,0000,0000,0000,,Episode Twelve:\N "Let's... Keep Flying!!"

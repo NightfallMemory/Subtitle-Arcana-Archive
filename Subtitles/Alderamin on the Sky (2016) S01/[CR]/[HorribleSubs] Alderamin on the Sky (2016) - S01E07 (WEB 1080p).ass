@@ -1,0 +1,353 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Alderamin-internal/narrator,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Alderamin-internal-top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Alderamin-overlap,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-overlap-top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Alderamin-flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-flashbackinternal,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-flashback-overlap,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Alderamin-Episode_Title,Open Sans Semibold,38,&H00D0DFEE,&H000000FF,&H00493F46,&H00493F46,0,0,0,0,100,100,0,0,1,1,1,2,27,13,173,1
+Style: Alderamin-Next_Episode,Open Sans Semibold,38,&H00FFFFF9,&H000000FF,&H00B0B689,&H0020222B,0,0,0,0,100,100,0,0,1,2,0,2,40,13,200,1
+Style: sign_27255_277_Thoughts_on_the_,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.65,0:00:05.06,Default,T,0000,0000,0000,,A challenge?
+Dialogue: 0,0:00:05.06,0:00:08.77,Default,Gu,0000,0000,0000,,If you're a man of the Empire,\Nyou must accept!
+Dialogue: 0,0:00:08.77,0:00:12.57,Default,T,0000,0000,0000,,Ah, but I'm not very good with blades...
+Dialogue: 0,0:00:12.57,0:00:17.79,Default,Gu,0000,0000,0000,,How, then, do you intend to protect\Nthe princess you serve?!
+Dialogue: 0,0:00:17.79,0:00:20.70,Default,Gi,0000,0000,0000,,Enough, Warrant Officer Deinkun.
+Dialogue: 0,0:00:20.94,0:00:23.37,Default,Gi,0000,0000,0000,,Would you mock my knights \Nin my very presence?
+Dialogue: 0,0:00:24.58,0:00:27.53,Default,Gi,0000,0000,0000,,Torway's skill lies in the gun, anyway.
+Dialogue: 0,0:00:27.53,0:00:29.41,Default,Gi,0000,0000,0000,,In a modern battlefield—
+Dialogue: 0,0:00:28.63,0:00:30.80,Alderamin-overlap,Gu,0000,0000,0000,,My deepest apologies, Your Highness!
+Dialogue: 0,0:00:31.23,0:00:32.58,Default,Gi,0000,0000,0000,,No...
+Dialogue: 0,0:00:32.43,0:00:34.71,Alderamin-overlap,Gu,0000,0000,0000,,Please forgive me, Your Highness!
+Dialogue: 0,0:00:35.00,0:00:37.05,Default,Gi,0000,0000,0000,,Enough. Raise your head.
+Dialogue: 0,0:00:37.05,0:00:39.77,Default,Gu,0000,0000,0000,,Please... I beg you...
+Dialogue: 0,0:00:38.37,0:00:40.18,Alderamin-overlap,Y,0000,0000,0000,,Why not try a chess match instead?
+Dialogue: 0,0:00:40.79,0:00:42.68,Default,Y,0000,0000,0000,,That's something Torway's good at.
+Dialogue: 0,0:00:43.07,0:00:44.34,Default,Gi,0000,0000,0000,,A splendid proposal.
+Dialogue: 0,0:00:44.34,0:00:46.47,Default,Gi,0000,0000,0000,,Engage in a battle of wits on a chessboard
+Dialogue: 0,0:00:46.47,0:00:49.31,Default,Gi,0000,0000,0000,,and show us you're the superior soldier.
+Dialogue: 0,0:00:49.32,0:00:50.73,Default,Gu,0000,0000,0000,,Of course, Your Highness!
+Dialogue: 0,0:00:50.73,0:00:54.82,Default,Gu,0000,0000,0000,,I am honored for this chance at redemption!
+Dialogue: 0,0:00:57.58,0:00:59.16,Default,T,0000,0000,0000,,That's check, right?
+Dialogue: 0,0:01:00.85,0:01:03.43,Default,Gu,0000,0000,0000,,You are a fearsome foe, Torway Remeon!
+Dialogue: 0,0:01:03.43,0:01:06.04,Default,Gu,0000,0000,0000,,However, this is not the end!
+Dialogue: 0,0:01:08.66,0:01:11.97,Default,M,0000,0000,0000,,Just 54 moves? That's terrible.
+Dialogue: 0,0:01:13.81,0:01:15.05,Default,Gu,0000,0000,0000,,You're in the way! Move!
+Dialogue: 0,0:01:16.83,0:01:18.36,Default,Gi,0000,0000,0000,,S-Solork!
+Dialogue: 0,0:01:18.36,0:01:21.37,Default,I,0000,0000,0000,,W-Water...
+Dialogue: 0,0:02:53.98,0:02:56.98,Alderamin-Episode_Title,I,0000,0000,0000,,{\fad(650,1)}The Northern Katjvarna Rebellion
+Dialogue: 0,0:03:03.90,0:03:05.53,Default,I,0000,0000,0000,,I'm alive...
+Dialogue: 0,0:03:06.67,0:03:08.29,Default,H,0000,0000,0000,,Back to yourself now?
+Dialogue: 0,0:03:08.70,0:03:10.92,Default,I,0000,0000,0000,,"My bad, I forgot to come get you yesterday."
+Dialogue: 0,0:03:10.92,0:03:13.42,Default,I,0000,0000,0000,,First Lieutenant Sazaluf, you asshole!
+Dialogue: 0,0:03:13.73,0:03:15.47,Default,Y,0000,0000,0000,,It's your own fault.
+Dialogue: 0,0:03:15.47,0:03:19.36,Default,Y,0000,0000,0000,,If you've come back to your senses,\Nthen get off the princess's lap.
+Dialogue: 0,0:03:22.21,0:03:26.31,Default,Gi,0000,0000,0000,,Solork, do you have anything to say to me?
+Dialogue: 0,0:03:26.31,0:03:27.89,Default,I,0000,0000,0000,,Let me see...
+Dialogue: 0,0:03:28.68,0:03:30.10,Default,I,0000,0000,0000,,If I had to rest on someone's lap,
+Dialogue: 0,0:03:30.10,0:03:32.64,Default,I,0000,0000,0000,,I'd prefer they had a little \Nmore meat on their bones.
+Dialogue: 0,0:03:32.64,0:03:34.10,Default,I,0000,0000,0000,,A woman—
+Dialogue: 0,0:03:34.62,0:03:37.36,Default,Gi,0000,0000,0000,,You can just lie there and die!
+Dialogue: 0,0:03:38.61,0:03:40.51,Default,Y,0000,0000,0000,,Well, come back to life soon.
+Dialogue: 0,0:03:40.51,0:03:42.52,Default,Y,0000,0000,0000,,You're being a bother.
+Dialogue: 0,0:03:46.36,0:03:47.49,Default,I,0000,0000,0000,,You're the best, Yatori!
+Dialogue: 0,0:03:48.92,0:03:51.54,Default,H,0000,0000,0000,,Yatori-san, did you save those for Ikta-san?
+Dialogue: 0,0:03:53.19,0:03:55.71,Default,Y,0000,0000,0000,,I saved them to eat for myself. That's all.
+Dialogue: 0,0:04:05.34,0:04:08.60,Default,Gi,0000,0000,0000,,The guys on horses are so lucky...
+Dialogue: 0,0:04:10.15,0:04:14.99,Default,Gu,0000,0000,0000,,Escorting a supply train must be quite \Nboring to you, Warrant Officer Yatorishino.
+Dialogue: 0,0:04:16.28,0:04:19.72,Default,Y,0000,0000,0000,,No, I'm well aware of\Nthe importance of this mission.
+Dialogue: 0,0:04:19.72,0:04:22.14,Default,Y,0000,0000,0000,,I'm more surprised, Major,
+Dialogue: 0,0:04:22.14,0:04:24.76,Default,Y,0000,0000,0000,,that a high-level officer\Nlike yourself is coming along.
+Dialogue: 0,0:04:25.97,0:04:29.38,Default,Gu,0000,0000,0000,,There's a reason I have to.
+Dialogue: 0,0:04:29.38,0:04:33.21,Default,Gu,0000,0000,0000,,Building a base places a rather\Nheavy burden on the locals,
+Dialogue: 0,0:04:33.21,0:04:37.71,Default,Gu,0000,0000,0000,,so we need to keep them happy.
+Dialogue: 0,0:04:39.39,0:04:40.80,Default,Gu,0000,0000,0000,,Are you disappointed?
+Dialogue: 0,0:04:41.45,0:04:44.17,Default,Y,0000,0000,0000,,That's what a military is \Nsupposed to be, right?
+Dialogue: 0,0:04:44.87,0:04:47.45,Default,Y,0000,0000,0000,,War exists to uphold the peace.
+Dialogue: 0,0:04:47.99,0:04:51.62,Default,Y,0000,0000,0000,,You shouldn't destroy the peace\Nto support a war.
+Dialogue: 0,0:04:54.99,0:04:56.73,Default,Gu,0000,0000,0000,,You may well be right.
+Dialogue: 0,0:05:00.84,0:05:02.61,Default,Gi,0000,0000,0000,,W-We're finally here.
+Dialogue: 0,0:05:05.50,0:05:07.45,Default,I,0000,0000,0000,,Are we there yet?
+Dialogue: 0,0:05:09.33,0:05:10.89,Default,Gi,0000,0000,0000,,Ikkun-dono!
+Dialogue: 0,0:05:12.41,0:05:14.00,Default,I,0000,0000,0000,,No yelling!
+Dialogue: 0,0:05:15.12,0:05:17.67,Default,I,0000,0000,0000,,Anyway, hello, Kanna!
+Dialogue: 0,0:05:17.67,0:05:21.44,Default,I,0000,0000,0000,,Your hair's so charming in that ribbon.
+Dialogue: 0,0:05:21.44,0:05:23.34,Default,Gi,0000,0000,0000,,You were in there the whole time?
+Dialogue: 0,0:05:23.72,0:05:24.76,Default,Gi,0000,0000,0000,,No wonder it was heavy—
+Dialogue: 0,0:05:24.76,0:05:26.44,Default,I,0000,0000,0000,,That is incorrect!
+Dialogue: 0,0:05:26.44,0:05:28.07,Default,I,0000,0000,0000,,I was sleeping in that wagon,
+Dialogue: 0,0:05:28.07,0:05:31.34,Default,I,0000,0000,0000,,and you started pushing it without \Neven asking my permission.
+Dialogue: 0,0:05:31.34,0:05:32.39,Default,Gi,0000,0000,0000,,You're lying.
+Dialogue: 0,0:05:32.39,0:05:35.74,Default,Gi,0000,0000,0000,,When you got out, you said, \N"Are we there yet?"
+Dialogue: 0,0:05:35.74,0:05:39.28,Default,I,0000,0000,0000,,Perhaps dehydration is \Ncausing you to hear things.
+Dialogue: 0,0:05:39.28,0:05:41.73,Default,Gi,0000,0000,0000,,I'm supposed to wait here!
+Dialogue: 0,0:05:41.95,0:05:44.18,Default,I,0000,0000,0000,,You need to make good use of your time!
+Dialogue: 0,0:05:44.18,0:05:46.27,Default,I,0000,0000,0000,,It's not every day we get to visit a town.
+Dialogue: 0,0:05:48.38,0:05:50.07,Default,Gi,0000,0000,0000,,Who are you?
+Dialogue: 0,0:05:50.07,0:05:52.58,Default,I,0000,0000,0000,,Hello there, beautiful young lady.
+Dialogue: 0,0:05:53.26,0:05:56.72,Default,I,0000,0000,0000,,Sorry to bother you, but we're very thirsty.
+Dialogue: 0,0:05:58.21,0:06:02.67,Default,I,0000,0000,0000,,What a nice lady. She gave us sugarcane \Nto tide us over until we get to the well.
+Dialogue: 0,0:06:02.67,0:06:07.72,Default,Gi,0000,0000,0000,,Ikkun-dono, are you one of \Nthose "lady-killer" types?
+Dialogue: 0,0:06:07.97,0:06:09.87,Default,I,0000,0000,0000,,That's a misunderstanding.
+Dialogue: 0,0:06:09.87,0:06:14.72,Default,I,0000,0000,0000,,All the older women in the world \Nare conspiring to seduce {\i1}me{\i0}.
+Dialogue: 0,0:06:15.89,0:06:20.48,Default,I,0000,0000,0000,,Anyway, she didn't seem \Nput off by my uniform.
+Dialogue: 0,0:06:21.21,0:06:24.55,Default,I,0000,0000,0000,,The people here don't seem to \Nhave anything against soldiers.
+Dialogue: 0,0:06:25.40,0:06:26.77,Default,Gi,0000,0000,0000,,That's right.
+Dialogue: 0,0:06:26.77,0:06:29.08,Default,Gi,0000,0000,0000,,This is an important supply base,
+Dialogue: 0,0:06:29.08,0:06:34.12,Default,Gi,0000,0000,0000,,so Major Toakk insists we're careful \Nabout how we interact with the locals.
+Dialogue: 0,0:06:34.44,0:06:36.37,Default,I,0000,0000,0000,,Not Lieutenant General Safida?
+Dialogue: 0,0:06:37.04,0:06:40.37,Default,Gi,0000,0000,0000,,He just puts the Major\N in charge of everything.
+Dialogue: 0,0:06:41.22,0:06:43.15,Default,I,0000,0000,0000,,So, the guy at the top does nothing,
+Dialogue: 0,0:06:43.15,0:06:45.84,Default,I,0000,0000,0000,,and Major Toakk's in charge \Nof keeping an eye on him?
+Dialogue: 0,0:06:46.76,0:06:49.09,Default,Gi,0000,0000,0000,,There's one exception, though.
+Dialogue: 0,0:06:49.09,0:06:54.26,Default,Gi,0000,0000,0000,,Lieutenant General Safida gives orders \Npersonally whenever the Sinack are involved.
+Dialogue: 0,0:06:54.52,0:06:55.98,Default,I,0000,0000,0000,,The Sinack?
+Dialogue: 0,0:06:55.98,0:06:57.18,Default,I,0000,0000,0000,,Why?
+Dialogue: 0,0:06:57.18,0:07:02.19,Default,Gi,0000,0000,0000,,Well... I think he likes being mean to them.
+Dialogue: 0,0:07:02.59,0:07:06.36,Default,Gi,0000,0000,0000,,That's how it seems to me, \Nwatching the way he acts.
+Dialogue: 0,0:07:06.97,0:07:09.87,Alderamin-internal/narrator,I,0000,0000,0000,,So, that's what that was, then...
+Dialogue: 0,0:07:11.98,0:07:13.24,Alderamin-flashback,I,0000,0000,0000,,First Lieutenant...
+Dialogue: 0,0:07:14.40,0:07:18.98,Alderamin-flashback,I,0000,0000,0000,,This isn't something\Nyou're supposed to do, is it?
+Dialogue: 0,0:07:19.52,0:07:23.21,Alderamin-flashback,I,0000,0000,0000,,Spirits can't move without light.
+Dialogue: 0,0:07:24.11,0:07:27.59,Alderamin-flashback,I,0000,0000,0000,,If you tore the spirits away from \Nthe ones they contracted with,
+Dialogue: 0,0:07:28.22,0:07:31.09,Alderamin-flashback,I,0000,0000,0000,,that would go against\Nthe teachings of the Alderans.
+Dialogue: 0,0:07:31.58,0:07:34.09,Alderamin-flashback,I,0000,0000,0000,,This is spirit abuse.
+Dialogue: 0,0:07:34.76,0:07:37.60,Alderamin-flashback,Gu,0000,0000,0000,,I can tell you this now, \Nbecause you've seen it,
+Dialogue: 0,0:07:38.01,0:07:41.64,Alderamin-flashback,Gu,0000,0000,0000,,but these orders came directly \Nfrom Lieutenant General Safida.
+Dialogue: 0,0:07:42.46,0:07:46.48,Alderamin-flashback,Gi,0000,0000,0000,,These spirits were taken from \Nthe Sinack, aren't they?
+Dialogue: 0,0:07:46.95,0:07:48.36,Alderamin-flashback,Gu,0000,0000,0000,,You're pretty smart.
+Dialogue: 0,0:07:48.83,0:07:52.59,Alderamin-flashback,Gi,0000,0000,0000,,I only see wind and fire spirits.
+Dialogue: 0,0:07:52.59,0:07:54.21,Alderamin-flashback,Gi,0000,0000,0000,,Without these two types,
+Dialogue: 0,0:07:54.21,0:07:56.12,Alderamin-flashback,Gi,0000,0000,0000,,they're much less effective at fighting.
+Dialogue: 0,0:07:56.51,0:08:01.00,Alderamin-flashback,Gu,0000,0000,0000,,It's a desperate measure intended \Nto break the will of the Sinack.
+Dialogue: 0,0:08:01.00,0:08:03.75,Alderamin-flashback,Gu,0000,0000,0000,,And, well, given how quiet \Nthey've been lately,
+Dialogue: 0,0:08:04.13,0:08:07.15,Alderamin-flashback,Gu,0000,0000,0000,,it seems to be working.
+Dialogue: 0,0:08:08.21,0:08:10.76,Alderamin-flashbackinternal,I,0000,0000,0000,,I wouldn't do things this way.
+Dialogue: 0,0:08:11.50,0:08:15.89,Alderamin-flashbackinternal,I,0000,0000,0000,,More than anything,\Nit's given them a reason to go to war.
+Dialogue: 0,0:08:17.02,0:08:20.25,Alderamin-flashbackinternal,I,0000,0000,0000,,Retaking their partners who were\Ncruelly stolen from them
+Dialogue: 0,0:08:20.99,0:08:23.66,Alderamin-flashbackinternal,I,0000,0000,0000,,is a simple, powerful reason.
+Dialogue: 0,0:08:29.89,0:08:31.17,Default,Gi,0000,0000,0000,,Ikkun-dono?
+Dialogue: 0,0:08:32.07,0:08:33.39,Default,I,0000,0000,0000,,What's up?
+Dialogue: 0,0:08:33.39,0:08:36.38,Default,Gi,0000,0000,0000,,Can I ask you something?
+Dialogue: 0,0:08:36.38,0:08:37.97,Default,I,0000,0000,0000,,Sure thing.
+Dialogue: 0,0:08:37.97,0:08:41.84,Default,I,0000,0000,0000,,By the way, the right half \Nof my bed is open tonight.
+Dialogue: 0,0:08:41.84,0:08:43.96,Default,Gi,0000,0000,0000,,Th-That's not it!
+Dialogue: 0,0:08:45.48,0:08:47.92,Default,Gi,0000,0000,0000,,Um, about that book...
+Dialogue: 0,0:08:48.46,0:08:50.75,Default,I,0000,0000,0000,,Oh, the {\i1}Great Alafatra Survey Records{\i0}.
+Dialogue: 0,0:08:51.46,0:08:56.24,Default,I,0000,0000,0000,,You said the analysis of the Aldera religion\Nwas the most interesting, right?
+Dialogue: 0,0:08:56.24,0:08:57.13,Default,Gi,0000,0000,0000,,Yes.
+Dialogue: 0,0:08:57.13,0:08:59.18,Default,Gi,0000,0000,0000,,It's quite interesting on its own,
+Dialogue: 0,0:08:59.18,0:09:02.29,Default,Gi,0000,0000,0000,,but I had a question about \Na more fundamental issue.
+Dialogue: 0,0:09:02.71,0:09:04.52,Default,I,0000,0000,0000,,A more fundamental issue?
+Dialogue: 0,0:09:04.91,0:09:08.45,Default,Gi,0000,0000,0000,,Don't you think it's strange?
+Dialogue: 0,0:09:08.45,0:09:16.28,Default,Gi,0000,0000,0000,,The Sinack speak of the spirits without \Nmentioning God—that is, Alderamin.
+Dialogue: 0,0:09:16.66,0:09:23.88,Default,Gi,0000,0000,0000,,But we all say that the four great spirits\Nwere sent to our world by God...
+Dialogue: 0,0:09:23.88,0:09:25.41,Default,Gi,0000,0000,0000,,Um...
+Dialogue: 0,0:09:25.78,0:09:30.42,Default,I,0000,0000,0000,,We say that the spirits come \Nfrom Alderamin to begin with.
+Dialogue: 0,0:09:30.42,0:09:32.24,Default,Gi,0000,0000,0000,,Th-That's right!
+Dialogue: 0,0:09:32.24,0:09:36.30,Default,Gi,0000,0000,0000,,So, from our perspective, it makes no sense.
+Dialogue: 0,0:09:37.08,0:09:43.56,Default,Gi,0000,0000,0000,,But the Sinack's spirit religion exists \Nwithout any reference to Alderamin.
+Dialogue: 0,0:09:44.15,0:09:49.79,Default,Gi,0000,0000,0000,,And then I realized that maybe it was\N{\i1}our{\i0} beliefs that needed to be questioned.
+Dialogue: 0,0:09:50.42,0:09:55.51,Default,Gi,0000,0000,0000,,The spirits never tell us \Nto believe in God, do they?
+Dialogue: 0,0:09:57.24,0:09:59.11,Default,Gu,0000,0000,0000,,You can go now.
+Dialogue: 0,0:09:59.11,0:10:01.49,Default,Gu,0000,0000,0000,,You don't get many chances to go into town.
+Dialogue: 0,0:10:03.25,0:10:05.54,Default,Y,0000,0000,0000,,In that case, I'll wait outside.
+Dialogue: 0,0:10:06.49,0:10:10.46,Default,Gu,0000,0000,0000,,It looks like I need to order you\Nto spread your wings and relax.
+Dialogue: 0,0:10:10.46,0:10:13.80,Default,Y,0000,0000,0000,,Of course, that is one of the orders\NI have been given.
+Dialogue: 0,0:10:14.84,0:10:18.73,Default,Y,0000,0000,0000,,But these are the only wings\N I have to spread.
+Dialogue: 0,0:10:21.84,0:10:27.35,Default,Gu,0000,0000,0000,,It's probably her sense of humor that \Nkeeps her from being overbearing.
+Dialogue: 0,0:10:27.59,0:10:31.33,Default,Gu,0000,0000,0000,,Even if she was born at the wrong time,
+Dialogue: 0,0:10:31.33,0:10:33.82,Default,Gu,0000,0000,0000,,she would still be a splendid soldier.
+Dialogue: 0,0:10:34.73,0:10:37.58,Default,Gu,0000,0000,0000,,They're late to come get us today.
+Dialogue: 0,0:10:37.58,0:10:38.11,Default,Gu,0000,0000,0000,,Yes.
+Dialogue: 0,0:10:38.83,0:10:40.81,Default,Gu,0000,0000,0000,,They might be busy,
+Dialogue: 0,0:10:40.81,0:10:43.12,Default,Gu,0000,0000,0000,,but we're not people they would keep waiting.
+Dialogue: 0,0:10:45.51,0:10:48.25,Default,Gu,0000,0000,0000,,Excuse me. I'm here as the \Ncommander's representative—
+Dialogue: 0,0:10:50.77,0:10:52.05,Default,Gu,0000,0000,0000,,Let's get out of here.
+Dialogue: 0,0:10:58.01,0:11:02.68,Default,Gi,0000,0000,0000,,The core tenets of the Aldera religion \Ninvolve obeying the commandments.
+Dialogue: 0,0:11:03.21,0:11:08.75,Default,Gi,0000,0000,0000,,But the spirit religion of the Sinack\N has no such commandments...
+Dialogue: 0,0:11:08.75,0:11:11.18,Default,Gi,0000,0000,0000,,So, um...
+Dialogue: 0,0:11:11.84,0:11:14.21,Default,I,0000,0000,0000,,Kanna, there's no need to rush.
+Dialogue: 0,0:11:14.21,0:11:16.15,Default,I,0000,0000,0000,,Take your time to find the right words.
+Dialogue: 0,0:11:20.39,0:11:24.42,Default,Gi,0000,0000,0000,,Their religion consists of mere gratitude\N toward the Four Great spirits,
+Dialogue: 0,0:11:24.42,0:11:27.63,Default,Gi,0000,0000,0000,,and a variety of festivals \Nto show that gratitude.
+Dialogue: 0,0:11:27.63,0:11:31.46,Default,Gi,0000,0000,0000,,Their religion has nothing to do \Nwith commandments and rules.
+Dialogue: 0,0:11:32.42,0:11:34.01,Default,Gi,0000,0000,0000,,If what the book says is right,
+Dialogue: 0,0:11:34.01,0:11:37.67,Default,Gi,0000,0000,0000,,and the Aldera religion and\N spirit worship are unrelated,
+Dialogue: 0,0:11:38.28,0:11:46.11,Default,Gi,0000,0000,0000,,the spirits' true nature has nothing to do\Nwith being messengers of Alderamin.
+Dialogue: 0,0:11:47.81,0:11:49.42,Default,I,0000,0000,0000,,Wow, Kanna!
+Dialogue: 0,0:11:49.42,0:11:51.35,Default,I,0000,0000,0000,,You broke the curse of God!
+Dialogue: 0,0:11:51.35,0:11:52.69,Default,I,0000,0000,0000,,And nearly on your own!
+Dialogue: 0,0:11:53.15,0:11:55.19,Default,Gi,0000,0000,0000,,Th-The curse of God?
+Dialogue: 0,0:11:55.33,0:12:00.90,Default,I,0000,0000,0000,,The bigotry that twists the truth by\N ignoring anything that doesn't benefit God!
+Dialogue: 0,0:12:00.90,0:12:03.09,Default,I,0000,0000,0000,,Unless you shake off that curse,
+Dialogue: 0,0:12:01.67,0:12:03.23,Alderamin-overlap-top,Gi,0000,0000,0000,,Hey!
+Dialogue: 0,0:12:03.09,0:12:07.15,Default,I,0000,0000,0000,,you'll never be able to pursue \Nthe path of true science!
+Dialogue: 0,0:12:07.15,0:12:08.45,Default,Gi,0000,0000,0000,,Ikkun-dono?
+Dialogue: 0,0:12:08.45,0:12:11.66,Default,I,0000,0000,0000,,For one thing, if there really \Nwas an omnipotent god,
+Dialogue: 0,0:12:11.66,0:12:15.04,Default,I,0000,0000,0000,,his first commandment would be\N"Thou shalt be lazy."
+Dialogue: 0,0:12:15.04,0:12:18.67,Default,I,0000,0000,0000,,Any god who tells you \Nsomething else is a fake!
+Dialogue: 0,0:12:18.67,0:12:20.59,Default,Gi,0000,0000,0000,,I didn't go that far...
+Dialogue: 0,0:12:27.13,0:12:29.82,Default,Gi,0000,0000,0000,,You're a weird guy, Ikkun.
+Dialogue: 0,0:12:39.07,0:12:40.15,Default,Y,0000,0000,0000,,Major!
+Dialogue: 0,0:12:54.37,0:12:55.12,Default,Gu,0000,0000,0000,,Get her!
+Dialogue: 0,0:12:55.63,0:12:56.75,Default,Gu,0000,0000,0000,,Fall back!
+Dialogue: 0,0:12:57.37,0:12:59.50,Default,Gu,0000,0000,0000,,We've finished what we came here to do.
+Dialogue: 0,0:13:05.90,0:13:08.39,Default,Y,0000,0000,0000,,Leave the rest to me, Major Toakk.
+Dialogue: 0,0:13:09.07,0:13:11.34,Default,Y,0000,0000,0000,,I will hereby pursue the enemy.
+Dialogue: 0,0:13:22.47,0:13:23.40,Default,Gi,0000,0000,0000,,What happened?
+Dialogue: 0,0:13:24.15,0:13:26.77,Default,I,0000,0000,0000,,Five imperial soldiers.
+Dialogue: 0,0:13:26.77,0:13:29.37,Default,I,0000,0000,0000,,One Sinack man.
+Dialogue: 0,0:13:29.37,0:13:30.78,Default,I,0000,0000,0000,,And the residents, I guess.
+Dialogue: 0,0:13:31.26,0:13:35.63,Default,Gi,0000,0000,0000,,Be careful. The enemy could still be inside.
+Dialogue: 0,0:13:36.28,0:13:37.29,Default,I,0000,0000,0000,,I'm aware.
+Dialogue: 0,0:13:38.67,0:13:41.97,Default,I,0000,0000,0000,,Everybody who lived here\N is pretty much dead, huh?
+Dialogue: 0,0:13:46.72,0:13:47.73,Default,I,0000,0000,0000,,What's this?
+Dialogue: 0,0:13:49.55,0:13:54.01,Default,Gi,0000,0000,0000,,Ikkun-dono, those are Alderan \Npilgrimage clothes...
+Dialogue: 0,0:13:54.01,0:13:54.68,Default,I,0000,0000,0000,,Looks like.
+Dialogue: 0,0:13:55.49,0:13:57.22,Default,I,0000,0000,0000,,But why?
+Dialogue: 0,0:13:57.22,0:14:00.19,Default,I,0000,0000,0000,,The Sinack wouldn't wear these.
+Dialogue: 0,0:14:03.29,0:14:04.19,Default,Y,0000,0000,0000,,You won't get away.
+Dialogue: 0,0:14:06.20,0:14:08.75,Default,Y,0000,0000,0000,,All troops, ready ranged weapons!
+Dialogue: 0,0:14:15.13,0:14:16.37,Default,Y,0000,0000,0000,,Halt the attack!
+Dialogue: 0,0:14:16.37,0:14:17.46,Default,Y,0000,0000,0000,,Everyone stop!
+Dialogue: 0,0:14:21.81,0:14:23.65,Default,Y,0000,0000,0000,,They had an ambush ready.
+Dialogue: 0,0:14:25.60,0:14:27.00,Default,Y,0000,0000,0000,,People of Sinack!
+Dialogue: 0,0:14:27.00,0:14:30.31,Default,Y,0000,0000,0000,,Why did you slay our comrades?
+Dialogue: 0,0:14:31.11,0:14:33.22,Default,Y,0000,0000,0000,,Explain yourselves!
+Dialogue: 0,0:14:36.15,0:14:38.33,Default,Gi,0000,0000,0000,,Oh, so it hurts when your friends die?
+Dialogue: 0,0:14:38.33,0:14:40.98,Default,Gi,0000,0000,0000,,You hurt, too, huh?!
+Dialogue: 0,0:14:43.47,0:14:45.99,Default,Gi,0000,0000,0000,,Why did you steal our Hahashiku?!
+Dialogue: 0,0:14:46.60,0:14:47.97,Default,Y,0000,0000,0000,,Hahashiku?
+Dialogue: 0,0:14:47.97,0:14:51.12,Default,Gi,0000,0000,0000,,You have them with you now.
+Dialogue: 0,0:14:51.82,0:14:56.32,Default,Gi,0000,0000,0000,,Would anyone but a monster \Nsteal them from us?!
+Dialogue: 0,0:14:57.89,0:14:59.40,Default,Y,0000,0000,0000,,You mean the spirits?
+Dialogue: 0,0:14:59.40,0:15:02.38,Default,Gi,0000,0000,0000,,You've made us change a lot \Nof things to benefit you.
+Dialogue: 0,0:15:03.38,0:15:05.64,Default,Gi,0000,0000,0000,,We're forbidden from\N selling in the plains town,
+Dialogue: 0,0:15:05.64,0:15:08.26,Default,Gi,0000,0000,0000,,you pay us practically nothing \Nfor the millet we grow,
+Dialogue: 0,0:15:08.26,0:15:11.09,Default,Gi,0000,0000,0000,,and we can only buy a few \Nvegetables and fruits.
+Dialogue: 0,0:15:11.09,0:15:14.14,Default,Gi,0000,0000,0000,,When a few of us were forced into thievery,
+Dialogue: 0,0:15:14.14,0:15:16.64,Default,Gi,0000,0000,0000,,you killed them all!
+Dialogue: 0,0:15:16.64,0:15:19.92,Default,Gi,0000,0000,0000,,And then you stole our Hahashiku...
+Dialogue: 0,0:15:20.59,0:15:24.15,Default,Gi,0000,0000,0000,,If you're not monsters, then what are you?!
+Dialogue: 0,0:15:26.39,0:15:28.16,Default,Y,0000,0000,0000,,Give me your demands, then.
+Dialogue: 0,0:15:28.71,0:15:32.53,Default,Y,0000,0000,0000,,What do you want from the army now?
+Dialogue: 0,0:15:34.08,0:15:36.16,Default,Gi,0000,0000,0000,,There's nothing we want.
+Dialogue: 0,0:15:37.47,0:15:40.91,Default,Gi,0000,0000,0000,,We shall return things to \Nthe way they should be.
+Dialogue: 0,0:15:41.95,0:15:45.17,Default,Gi,0000,0000,0000,,We'll defeat you, retake the Hahashiku,
+Dialogue: 0,0:15:46.20,0:15:49.17,Default,Gi,0000,0000,0000,,and return the world of the Sinack\Nto how it should be.
+Dialogue: 0,0:15:50.02,0:15:53.76,Default,Gi,0000,0000,0000,,We are about to declare a holy war.
+Dialogue: 0,0:15:55.26,0:15:59.03,Default,Gi,0000,0000,0000,,I am Nanaku Daru, chieftain of the Sinack,
+Dialogue: 0,0:15:59.03,0:16:01.89,Default,Gi,0000,0000,0000,,and in my name I begin the holy war!
+Dialogue: 0,0:16:02.93,0:16:07.27,Default,Gu,0000,0000,0000,,They retreated to the Great Alafatra \Nafter their declaration of war.
+Dialogue: 0,0:16:07.69,0:16:09.22,Default,Gu,0000,0000,0000,,I see.
+Dialogue: 0,0:16:09.22,0:16:11.32,Default,Gu,0000,0000,0000,,So, Toakk is dead?
+Dialogue: 0,0:16:11.85,0:16:14.95,Default,Gu,0000,0000,0000,,Don't tell Central about it yet.
+Dialogue: 0,0:16:15.52,0:16:16.63,Default,Gu,0000,0000,0000,,But...
+Dialogue: 0,0:16:16.63,0:16:19.43,Default,Gu,0000,0000,0000,,We can just send a bigger report later.
+Dialogue: 0,0:16:19.43,0:16:23.31,Default,Gu,0000,0000,0000,,There'll be some casualties, either way.
+Dialogue: 0,0:16:24.54,0:16:30.55,Default,Gu,0000,0000,0000,,I am interpreting this declaration of war\Nas involving their entire tribe.
+Dialogue: 0,0:16:30.92,0:16:35.13,Default,Gu,0000,0000,0000,,It looks like the time has come\Nfor a great purge.
+Dialogue: 0,0:16:37.23,0:16:38.57,Default,I,0000,0000,0000,,A holy war...
+Dialogue: 0,0:16:39.55,0:16:42.12,Default,I,0000,0000,0000,,Yatori, let me double-check.
+Dialogue: 0,0:16:42.12,0:16:44.47,Default,I,0000,0000,0000,,That's really what they said, right?
+Dialogue: 0,0:16:44.47,0:16:46.82,Default,Y,0000,0000,0000,,Yes, it was.
+Dialogue: 0,0:16:49.01,0:16:51.31,Default,Gu,0000,0000,0000,,We can just take them head on!
+Dialogue: 0,0:16:51.61,0:16:54.10,Default,Gu,0000,0000,0000,,We need to take revenge for Major Toakk!
+Dialogue: 0,0:16:54.10,0:16:56.24,Default,Gu,0000,0000,0000,,The mountain savages think they can take us?
+Dialogue: 0,0:16:57.49,0:17:00.29,Default,Gu,0000,0000,0000,,What are you drunks babbling about?!
+Dialogue: 0,0:17:00.54,0:17:04.05,Default,Gu,0000,0000,0000,,What sort of knight would get excited\Nover a fight like this?
+Dialogue: 0,0:17:04.05,0:17:05.24,Default,Gu,0000,0000,0000,,What the heck?
+Dialogue: 0,0:17:05.24,0:17:08.57,Default,Gu,0000,0000,0000,,You wanted to go to war more than anyone.
+Dialogue: 0,0:17:10.05,0:17:11.92,Default,Gu,0000,0000,0000,,Of course.
+Dialogue: 0,0:17:12.60,0:17:15.68,Default,Gu,0000,0000,0000,,That is, if our enemy is\N the hated land of Kioka.
+Dialogue: 0,0:17:16.51,0:17:22.68,Default,Gu,0000,0000,0000,,However, a knight's sword \Nis not a tool of murder!
+Dialogue: 0,0:17:25.35,0:17:31.35,Default,H,0000,0000,0000,,I'm a little surprised to see Warrant \NOfficer Hargunska opposed to the war.
+Dialogue: 0,0:17:31.85,0:17:33.94,Default,Y,0000,0000,0000,,It's rude to say that.
+Dialogue: 0,0:17:34.30,0:17:40.52,Default,Y,0000,0000,0000,,A knight should be reluctant to point\Nhis blade at a fellow imperial citizen.
+Dialogue: 0,0:17:40.52,0:17:42.44,Default,T,0000,0000,0000,,I think so, too.
+Dialogue: 0,0:17:42.44,0:17:45.96,Default,T,0000,0000,0000,,It's amazing that Dekkun was able\N to speak up in that atmosphere.
+Dialogue: 0,0:17:46.90,0:17:48.05,Default,I,0000,0000,0000,,A holy war...
+Dialogue: 0,0:17:48.39,0:17:49.76,Default,I,0000,0000,0000,,A holy war, huh?
+Dialogue: 0,0:17:50.66,0:17:52.63,Default,Y,0000,0000,0000,,You're still thinking about that?
+Dialogue: 0,0:17:53.56,0:17:55.18,Default,I,0000,0000,0000,,It doesn't exist.
+Dialogue: 0,0:17:56.07,0:18:00.43,Default,I,0000,0000,0000,,The term "holy war" doesn't exist\Nin the Sinack language.
+Dialogue: 0,0:18:01.33,0:18:02.43,Default,Y,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:18:03.38,0:18:07.29,Default,I,0000,0000,0000,,To the Sinack, war is \Nsimply a means of survival.
+Dialogue: 0,0:18:08.16,0:18:10.35,Default,I,0000,0000,0000,,They consider it neither good nor bad,
+Dialogue: 0,0:18:10.35,0:18:13.32,Default,I,0000,0000,0000,,and they certainly don't consider it holy.
+Dialogue: 0,0:18:13.32,0:18:16.32,Default,I,0000,0000,0000,,The only things they call holy\Nare the Hahashiku,
+Dialogue: 0,0:18:17.27,0:18:19.32,Default,I,0000,0000,0000,,the Four Great spirits.
+Dialogue: 0,0:18:20.37,0:18:22.83,Alderamin-flashback,Gi,0000,0000,0000,,Why did you steal our Hahashiku?!
+Dialogue: 0,0:18:23.28,0:18:28.93,Default,Y,0000,0000,0000,,Then, if the reason for their holy war\Nhas to do with the spirits,
+Dialogue: 0,0:18:29.83,0:18:34.32,Default,Y,0000,0000,0000,,they might be calling it that because \Nthey're taking back something holy.
+Dialogue: 0,0:18:34.32,0:18:38.92,Default,I,0000,0000,0000,,No, I can't see them coming up\Nwith some logic like that.
+Dialogue: 0,0:18:40.30,0:18:42.47,Default,I,0000,0000,0000,,There's probably only one answer.
+Dialogue: 0,0:18:43.55,0:18:48.34,Default,I,0000,0000,0000,,Someone's been giving them \Nready-made excuses for war.
+Dialogue: 0,0:18:56.74,0:18:59.99,sign_27255_277_Thoughts_on_the_,I,0000,0000,0000,,{\fad(1,600)}Thoughts on the Aldera Religion
+Dialogue: 0,0:18:58.86,0:19:02.33,Alderamin-flashback,I,0000,0000,0000,,You should probably get back to your unit.
+Dialogue: 0,0:19:02.70,0:19:03.59,Alderamin-flashback,Gi,0000,0000,0000,,Yeah.
+Dialogue: 0,0:19:04.44,0:19:05.49,Alderamin-flashback,Y,0000,0000,0000,,Next time we meet,
+Dialogue: 0,0:19:05.88,0:19:10.37,Alderamin-flashback,Y,0000,0000,0000,,I'll tell you my thoughts on \Nthe Sinack and the spirits.
+Dialogue: 0,0:19:13.33,0:19:14.32,Default,Gu,0000,0000,0000,,Listen up!
+Dialogue: 0,0:19:14.32,0:19:18.01,Default,Gu,0000,0000,0000,,We'll be leaving on a punitive expedition \Nagainst the Sinack at 0600 tomorrow!
+Dialogue: 0,0:19:18.54,0:19:22.26,Default,Gu,0000,0000,0000,,Everyone be ready to go!
+Dialogue: 0,0:19:22.64,0:19:24.47,Default,Gi,0000,0000,0000,,I'm very disappointed.
+Dialogue: 0,0:19:24.47,0:19:29.61,Default,I,0000,0000,0000,,The brass thinks that a princess \Nhas no place on the front lines.
+Dialogue: 0,0:19:29.61,0:19:32.47,Default,I,0000,0000,0000,,We're all very disappointed as well.
+Dialogue: 0,0:19:33.51,0:19:36.97,Default,Gi,0000,0000,0000,,You're glad to be rid of me.
+Dialogue: 0,0:19:37.78,0:19:40.52,Default,Gi,0000,0000,0000,,At a time when our national energy\Nis already spent,
+Dialogue: 0,0:19:40.52,0:19:44.03,Default,Gi,0000,0000,0000,,it's madness to start\Na fight with our own citizens.
+Dialogue: 0,0:19:52.26,0:19:56.87,Default,Gi,0000,0000,0000,,When I return, I want to see you all safe.
+Dialogue: 0,0:19:57.99,0:19:58.91,Default,All,0000,0000,0000,,Yes, Your Highness!
+Dialogue: 0,0:20:01.34,0:20:03.83,Default,H,0000,0000,0000,,To be honest, I'm a little relieved.
+Dialogue: 0,0:20:03.83,0:20:08.27,Default,M,0000,0000,0000,,But why send her back halfway, to a base\Nat the south edge of the Northern region?
+Dialogue: 0,0:20:08.86,0:20:11.28,Default,T,0000,0000,0000,,It might be that the Lieutenant General
+Dialogue: 0,0:20:11.28,0:20:13.80,Default,T,0000,0000,0000,,doesn't want to send her back to Central.
+Dialogue: 0,0:20:13.80,0:20:14.85,Default,I,0000,0000,0000,,Probably.
+Dialogue: 0,0:20:16.19,0:20:19.60,Default,I,0000,0000,0000,,Given the speed at which he put \Ntogether the punitive expedition,
+Dialogue: 0,0:20:19.60,0:20:22.16,Default,I,0000,0000,0000,,He likely never mentioned it to Central.
+Dialogue: 0,0:20:22.66,0:20:25.37,Default,I,0000,0000,0000,,He's doing all this on his own.
+Dialogue: 0,0:20:25.37,0:20:30.16,Default,M,0000,0000,0000,,B-But we're still on reserve standby, right?
+Dialogue: 0,0:20:30.47,0:20:33.86,Default,I,0000,0000,0000,,Matthew, my friend, I'm afraid that
+Dialogue: 0,0:20:33.86,0:20:37.86,Default,I,0000,0000,0000,,common-sense arguments only work on\Npeople who have common sense.
+Dialogue: 0,0:20:40.32,0:20:44.67,Default,I,0000,0000,0000,,All we can do now is pray that the \NLieutenant General is one of those people.
+Dialogue: 0,0:20:47.53,0:20:52.43,Default,Gu,0000,0000,0000,,Our unit will now depart on a punitive \Nexpedition against the Sinack!
+Dialogue: 0,0:20:53.14,0:20:57.44,Default,Gu,0000,0000,0000,,All troops, be fully ready and stay sharp!
+Dialogue: 0,0:20:59.35,0:21:02.96,Alderamin-internal/narrator,Gi,0000,0000,0000,,The war's about to begin...
+Dialogue: 0,0:21:08.41,0:21:11.28,Default,T,0000,0000,0000,,What are you doing here, Ikkun?
+Dialogue: 0,0:21:14.88,0:21:15.54,Default,T,0000,0000,0000,,These are...
+Dialogue: 0,0:21:16.38,0:21:18.79,Default,I,0000,0000,0000,,Get used to using them now.
+Dialogue: 0,0:21:19.37,0:21:21.47,Default,I,0000,0000,0000,,They're our trump card for when we need them.
+Dialogue: 0,0:21:28.37,0:21:29.36,Default,Gu,0000,0000,0000,,Advance!
+Dialogue: 0,0:21:29.36,0:21:30.55,Default,Gu,0000,0000,0000,,Don't falter!
+Dialogue: 0,0:21:30.55,0:21:31.56,Alderamin-internal/narrator,Gi,0000,0000,0000,,We can't...
+Dialogue: 0,0:21:32.33,0:21:34.47,Default,Gu,0000,0000,0000,,Get our air mortars out, too!
+Dialogue: 0,0:21:34.47,0:21:35.56,Alderamin-internal/narrator,Gi,0000,0000,0000,,We can't!
+Dialogue: 0,0:21:36.87,0:21:38.56,Default,Gu,0000,0000,0000,,Aren't our mortars ready yet?!
+Dialogue: 0,0:21:39.74,0:21:41.07,Default,Gi,0000,0000,0000,,Get a hold of yourself!
+Dialogue: 0,0:21:42.86,0:21:44.32,Alderamin-internal/narrator,Gi,0000,0000,0000,,Ikkun-dono,
+Dialogue: 0,0:21:44.59,0:21:48.69,Alderamin-internal/narrator,Gi,0000,0000,0000,,there's not a trace of science here.
+Dialogue: 0,0:21:49.81,0:21:53.23,Alderamin-overlap-top,Background,0000,0000,0000,,Don't falter! Advance!
+Dialogue: 0,0:21:51.23,0:21:54.83,Alderamin-internal/narrator,Narr,0000,0000,0000,,The Northern Katjvarna Rebellion\Nwas a larger battle
+Dialogue: 0,0:21:54.83,0:21:57.11,Alderamin-internal/narrator,Narr,0000,0000,0000,,than had ever been seen in the north before,
+Dialogue: 0,0:21:57.11,0:21:58.74,Alderamin-internal/narrator,Narr,0000,0000,0000,,and this is how it began...
+Dialogue: 0,0:21:59.59,0:22:04.48,Alderamin-internal/narrator,Narr,0000,0000,0000,,Staining a page of the empire's history \Nwith the blood of its own citizens.
+Dialogue: 0,0:23:37.18,0:23:39.81,Default,Next time,0000,0000,0000,,Next time: Some Day, for the Third Time...
+Dialogue: 0,0:23:37.89,0:23:41.06,Alderamin-Next_Episode,Next time,0000,0000,0000,,"Some Day, for the Third Time..."
