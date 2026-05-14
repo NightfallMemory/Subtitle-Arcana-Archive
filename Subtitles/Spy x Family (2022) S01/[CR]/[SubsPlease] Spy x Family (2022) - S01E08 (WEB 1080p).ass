@@ -1,0 +1,460 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: sign_5367_29_Code_Name__Twili,Trebuchet MS,25,&H00000000,&H000000FF,&H4BFFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_6041_79_OPERATION_STRIX,Trebuchet MS,27,&H19FFFFFF,&H000000FF,&H7D000000,&H96000000,-1,0,0,0,100,100,0,0,1,2,1,1,30,30,20,1
+Style: sign_23950_248_Welcome,Trebuchet MS,15,&H00000100,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_7726_70_He_was_worried__,Trebuchet MS,25,&H0026292D,&H000000FF,&H00F1FAFB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,30,30,20,1
+Style: sign_10852_138_Math_Class,Trebuchet MS,40,&H00F5F8F5,&H000000FF,&H00282A2A,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,20,1
+Style: sign_13319_178__But_then_John_r,Verdana,23,&H001A1C1C,&H000000FF,&H00FEFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,20,1
+Style: sign_21343_286_Missing_Missing_,Arial,8,&H00DDD2FF,&H000000FF,&H00140705,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,9,30,30,100,1
+Style: sign_5970_48_The_State_Securi,Trebuchet MS,17,&H00FEFFFF,&H000000FF,&H32434847,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:30.23,0:01:32.98,sign_6041_79_OPERATION_STRIX,Sign,0,0,0,,{\pos(352,290)\fscx44\fad(527,1)}THE COUNTER-SECRET POLICE COVER OPERATION
+Dialogue: 0,0:01:34.96,0:01:37.70,main,Instructor (Math),0,0,0,,Now, who can answer this question?
+Dialogue: 0,0:01:38.21,0:01:39.99,main,Instructor (Math),0,0,0,,Miss Anya Forger.
+Dialogue: 0,0:01:43.64,0:01:44.99,main,Anya,0,0,0,,Three-thirds!
+Dialogue: 0,0:01:47.77,0:01:50.49,main,Instructor (Math),0,0,0,,Ah. That is quite wrong.
+Dialogue: 0,0:01:59.92,0:02:01.72,main,Handler,0,0,0,,So, how are things going, Twilight?
+Dialogue: 0,0:02:01.72,0:02:04.02,main,Handler,0,0,0,,How is your daughter doing \Nwith her academics?
+Dialogue: 0,0:02:05.35,0:02:09.94,main,Handler,0,0,0,,HQ was estimating that she'd be able to \Nreceive eight Stella in about four months.
+Dialogue: 0,0:02:11.22,0:02:12.16,main,Loid,0,0,0,,Four...
+Dialogue: 0,0:02:12.76,0:02:14.26,main,Loid,0,0,0,,Not a problem.
+Dialogue: 0,0:02:14.26,0:02:17.02,main,Handler,0,0,0,,I see... that your ability \Nto lie has diminished.
+Dialogue: 0,0:02:17.02,0:02:19.72,italics,Loid,0,0,0,,I'm confident she'll be able to get eight \NTonitrus Bolts in two months, though.
+Dialogue: 0,0:02:19.72,0:02:20.85,main,Handler,0,0,0,,No matter.
+Dialogue: 0,0:02:20.85,0:02:21.54,main,Handler,0,0,0,,By the way...
+Dialogue: 0,0:02:22.27,0:02:25.93,main,Handler,0,0,0,,Our informant within city hall \Nwas compromised this morning.
+Dialogue: 0,0:02:26.42,0:02:28.74,main,Handler,0,0,0,,The enemy is stepping up their game.
+Dialogue: 0,0:02:28.98,0:02:30.72,main,Handler,0,0,0,,Be on your guard, Twilight.
+Dialogue: 0,0:02:30.72,0:02:32.53,main,Handler,0,0,0,,I shouldn't have to say this \Nabout being in the city,
+Dialogue: 0,0:02:32.53,0:02:34.16,main,Handler,0,0,0,,but be it at Eden College or elsewhere,
+Dialogue: 0,0:02:34.16,0:02:36.26,main,Handler,0,0,0,,you never know where eyes \Nwill be watching you.
+Dialogue: 0,0:02:36.26,0:02:39.75,main,Handler,0,0,0,,This country's counter-intelligence \Nagency is quite tough.
+Dialogue: 0,0:02:48.18,0:02:50.76,flashback,Hayward,0,0,0,,H-How can I help you gentlemen?
+Dialogue: 0,0:02:51.51,0:02:53.27,flashback,First Lieutenant,0,0,0,,We're with the State Security Service.
+Dialogue: 0,0:02:53.76,0:02:55.65,flashback,First Lieutenant,0,0,0,,You're Jim Hayward, are you not?
+Dialogue: 0,0:02:55.65,0:02:58.32,flashback,First Lieutenant,0,0,0,,We're taking you in on \Nsuspicion of being a spy.
+Dialogue: 0,0:02:58.32,0:03:01.24,flashback,Hayward,0,0,0,,A s-spy?! What are you talking about?
+Dialogue: 0,0:03:01.24,0:03:02.27,flashback,Hayward,0,0,0,,Hey... wait!
+Dialogue: 0,0:03:02.76,0:03:04.80,flashback,Hayward,0,0,0,,Stop that! Unhand me at onc—
+Dialogue: 0,0:03:04.80,0:03:06.88,flashback,First Lieutenant,0,0,0,,We'll hear what you have \Nto say back at the office.
+Dialogue: 0,0:03:14.21,0:03:19.25,main,Millie,0,0,0,,That's totally what happened \Nthis morning! I was {\i1}so{\i0} scared!
+Dialogue: 0,0:03:19.61,0:03:21.84,main,Sharon,0,0,0,,The guy they took from finance
+Dialogue: 0,0:03:21.84,0:03:24.92,main,Sharon,0,0,0,,was apparently leaking \Ndocuments from this office.
+Dialogue: 0,0:03:24.92,0:03:26.21,main,Yor,0,0,0,,Oh, he must be a bad person.
+Dialogue: 0,0:03:26.21,0:03:28.17,main,Camilla,0,0,0,,Mornin'.
+Dialogue: 0,0:03:28.17,0:03:30.11,main,Millie,0,0,0,,Oh, mornin'!
+Dialogue: 0,0:03:30.11,0:03:31.99,main,Yor,0,0,0,,Good morning, Camilla.
+Dialogue: 0,0:03:33.09,0:03:38.71,main,Camilla,0,0,0,,Oh, by the way, Yor, my boyfriend \Ntold me about your marriage.
+Dialogue: 0,0:03:38.71,0:03:40.91,main,Camilla,0,0,0,,You haven't even told your \Nyounger brother yet?
+Dialogue: 0,0:03:41.88,0:03:44.30,main,Yor,0,0,0,,Oh, you're right! I'd completely forgotten!
+Dialogue: 0,0:03:44.30,0:03:47.01,main,Sharon,0,0,0,,Uh, you forgot? For a whole year?
+Dialogue: 0,0:03:47.01,0:03:48.86,main,Yor,0,0,0,,Wh-What shall I do?
+Dialogue: 0,0:03:48.86,0:03:52.83,main,Camilla,0,0,0,,He said he'll be calling you here later.
+Dialogue: 0,0:03:52.83,0:03:54.34,italics,Yor,0,0,0,,That's right.
+Dialogue: 0,0:03:54.34,0:03:56.37,italics,Yor,0,0,0,,I haven't given him the \Nnumber for my new place yet.
+Dialogue: 0,0:03:56.37,0:03:59.33,italics,Yor,0,0,0,,I was so relieved our marriage went through\Nthat I blanked on everything else!
+Dialogue: 0,0:03:59.61,0:04:02.33,main,Millie,0,0,0,,Say... is your younger brother a hottie?
+Dialogue: 0,0:04:03.79,0:04:05.83,main,Millie,0,0,0,,Aw, he's a total cutie!
+Dialogue: 0,0:04:06.13,0:04:08.99,main,Yor,0,0,0,,Yes. Yuri is quite adorable.
+Dialogue: 0,0:04:08.99,0:04:12.70,top,Yor,0,0,0,,He would always call me "Sis" \Nand refused to leave my side.
+Dialogue: 0,0:04:08.99,0:04:13.48,sign_5970_48_The_State_Securi,Sign,0,0,0,,{\blur1\pos(320,300)\fad(1,519)}The State Security Service
+Dialogue: 0,0:04:12.70,0:04:14.98,top,Millie,0,0,0,,Yikes, so he's obsessed with his sister. Pass.
+Dialogue: 0,0:04:15.21,0:04:19.82,main,Sharon,0,0,0,,If your brother looks up to you so much,\Nisn't it kinda mean to forget to tell him that?
+Dialogue: 0,0:04:20.17,0:04:22.73,main,First Lieutenant,0,0,0,,Let's start one more time \Nfrom the beginning.
+Dialogue: 0,0:04:22.73,0:04:26.27,main,First Lieutenant,0,0,0,,How many and what kind of files \Ndid you take from city hall?
+Dialogue: 0,0:04:26.27,0:04:27.76,main,First Lieutenant,0,0,0,,Who did you sell them to?
+Dialogue: 0,0:04:27.76,0:04:29.92,main,First Lieutenant,0,0,0,,What do they look like?\NWhat is their contact information?
+Dialogue: 0,0:04:29.92,0:04:32.47,main,First Lieutenant,0,0,0,,When, where, and how many \Ntimes did you meet with them?
+Dialogue: 0,0:04:32.47,0:04:33.84,main,Hayward,0,0,0,,Please let me go home.
+Dialogue: 0,0:04:38.09,0:04:39.83,italics,Narrator,0,0,0,,The State Security Service.
+Dialogue: 0,0:04:40.77,0:04:43.73,italics,Narrator,0,0,0,,An organization whose goal is to maintain \Nthe peace within their nation.
+Dialogue: 0,0:04:41.53,0:04:46.30,top,First Lieutenant,0,0,0,,Since we're both so good at talking, \Nlet's continue, Mr. Hayward.
+Dialogue: 0,0:04:43.73,0:04:46.30,italics,Narrator,0,0,0,,Its main duties include spy hunting \Nand keeping an eye on the citizens.
+Dialogue: 0,0:04:46.30,0:04:47.23,top,First Lieutenant,0,0,0,,What do you say?
+Dialogue: 0,0:04:46.77,0:04:49.15,italics,Narrator,0,0,0,,To complete their missions, \Nthey frequently use violence,
+Dialogue: 0,0:04:49.15,0:04:51.82,italics,Narrator,0,0,0,,wiretapping, intimidation, and torture.
+Dialogue: 0,0:04:51.82,0:04:55.64,italics,Narrator,0,0,0,,The citizens called them the \N"secret police," and they are feared.
+Dialogue: 0,0:04:56.01,0:04:59.39,main,Yuri,0,0,0,,Great work, First Lieutenant. The boss \Nasked me to take over the questioning.
+Dialogue: 0,0:04:59.80,0:05:03.37,main,First Lieutenant,0,0,0,,All right. I'll leave the rest to you,
+Dialogue: 0,0:05:03.79,0:05:05.08,main,First Lieutenant,0,0,0,,Second Lieutenant Briar.
+Dialogue: 0,0:05:05.08,0:05:06.70,main,Yuri,0,0,0,,Yes, sir! I'll do my best!
+Dialogue: 0,0:05:07.48,0:05:09.84,italics,Narrator,0,0,0,,Yuri Briar, age twenty.
+Dialogue: 0,0:05:09.84,0:05:12.25,italics,Narrator,0,0,0,,He is a member of the secret police.
+Dialogue: 0,0:05:13.75,0:05:17.03,main,Second lieutenant,0,0,0,,Why did the boss bring \Nsuch a softie into our team?
+Dialogue: 0,0:05:17.03,0:05:20.84,main,Second lieutenant,0,0,0,,I admit that he's good, \Nbut frankly, he's just a kid.
+Dialogue: 0,0:05:20.84,0:05:23.99,main,Second lieutenant,0,0,0,,Some elite from the Ministry of Foreign\NAffairs who quickly rose up the ranks.
+Dialogue: 0,0:05:24.44,0:05:25.71,main,First lieutenant,0,0,0,,When I talked to the boss...
+Dialogue: 0,0:05:28.90,0:05:31.93,flashback,Chief,0,0,0,,Huh? Well, isn't Yuri adorable?
+Dialogue: 0,0:05:31.93,0:05:33.72,flashback,Chief,0,0,0,,He's like some cute little puppy.
+Dialogue: 0,0:05:33.72,0:05:35.35,main,First Lieutenant,0,0,0,,And that was all.
+Dialogue: 0,0:05:35.79,0:05:37.22,main,Second Lieutenant,0,0,0,,I-I see...
+Dialogue: 0,0:05:37.46,0:05:41.23,main,First Lieutenant,0,0,0,,Well, our organization needs \Na kid like him sometimes.
+Dialogue: 0,0:05:41.23,0:05:43.90,main,First Lieutenant,0,0,0,,Not to mention, he knows how to do the job,
+Dialogue: 0,0:05:43.90,0:05:45.96,main,First Lieutenant,0,0,0,,and he can be quite indiscriminate.
+Dialogue: 0,0:05:45.96,0:05:47.46,main,Yuri,0,0,0,,Hello, Mr. Hayward!
+Dialogue: 0,0:05:47.46,0:05:48.87,main,Hayward,0,0,0,,You won't get anything out of m—
+Dialogue: 0,0:05:48.87,0:05:52.08,main,Yuri,0,0,0,,My older sister actually works \Nat city hall just like you do!
+Dialogue: 0,0:05:52.48,0:05:53.09,main,Hayward,0,0,0,,Huh?
+Dialogue: 0,0:05:53.09,0:05:57.11,main,Yuri,0,0,0,,Maybe you know her. She's pretty \Nand kind, and I'm super proud of her!
+Dialogue: 0,0:05:57.11,0:05:59.93,main,Yuri,0,0,0,,I'm actually going to celebrate \Nher marriage today.
+Dialogue: 0,0:05:59.93,0:06:02.45,main,Yuri,0,0,0,,I haven't seen her in forever, \Nso I'm really excited!
+Dialogue: 0,0:06:02.78,0:06:05.90,main,Yuri,0,0,0,,So, yeah. I'd like to get this over \Nwith quickly so I can go home.
+Dialogue: 0,0:06:05.90,0:06:07.97,main,Yuri,0,0,0,,Why don't you just spit it all out already?
+Dialogue: 0,0:06:07.97,0:06:10.21,main,Hayward,0,0,0,,I-I don't know anything!
+Dialogue: 0,0:06:12.05,0:06:14.31,main,Yuri,0,0,0,,Here are photos of your deals.
+Dialogue: 0,0:06:14.31,0:06:17.57,main,Yuri,0,0,0,,This is you, isn't it, Mr. Hayward?
+Dialogue: 0,0:06:17.57,0:06:19.16,main,Secretary,0,0,0,,Second Lieutenant, you—
+Dialogue: 0,0:06:19.16,0:06:21.68,main,Secretary,0,0,0,,How long were you holding on to \Nimportant evidence like this?!
+Dialogue: 0,0:06:21.68,0:06:24.44,main,Yuri,0,0,0,,Oh, I'm sorry. I forgot to submit them.
+Dialogue: 0,0:06:24.44,0:06:27.01,main,Yuri,0,0,0,,You'd be much better off if you were honest.
+Dialogue: 0,0:06:31.74,0:06:35.83,main,Heyward,0,0,0,,So, I was just giving them the \Npapers in exchange for cash.
+Dialogue: 0,0:06:36.27,0:06:41.17,main,Heyward,0,0,0,,All I know about him is that he's from \Nthe West. I don't even know his name.
+Dialogue: 0,0:06:41.17,0:06:45.62,main,Yuri,0,0,0,,Was there anything awkward about \Nthis man's looks or speech?
+Dialogue: 0,0:06:45.62,0:06:48.29,main,Yuri,0,0,0,,Perhaps he didn't act his age?
+Dialogue: 0,0:06:49.00,0:06:50.85,main,Heyward,0,0,0,,No, nothing like that.
+Dialogue: 0,0:06:50.85,0:06:53.29,main,Yuri,0,0,0,,I see. In that case...
+Dialogue: 0,0:06:54.39,0:06:57.35,main,Yuri,0,0,0,,Does the name "Twilight" \Nsound familiar to you?
+Dialogue: 0,0:06:58.11,0:06:59.43,main,Heyward,0,0,0,,Who?
+Dialogue: 0,0:06:59.43,0:07:02.85,main,Yuri,0,0,0,,He's a spy from the West. \NApparently, a master of disguise.
+Dialogue: 0,0:07:03.32,0:07:06.72,main,Yuri,0,0,0,,He is the villain who is trying \Nto make this world fall into chaos.
+Dialogue: 0,0:07:06.72,0:07:08.78,main,Yuri,0,0,0,,You could call him my natural enemy.
+Dialogue: 0,0:07:08.78,0:07:13.21,main,Heyward,0,0,0,,I-If I helped you catch him, \Ncould we just forget about all this?
+Dialogue: 0,0:07:13.21,0:07:15.04,main,Yuri,0,0,0,,Do you know something?
+Dialogue: 0,0:07:15.04,0:07:17.07,main,Heyward,0,0,0,,Er, no, but let me remember...
+Dialogue: 0,0:07:17.87,0:07:22.34,main,Yuri,0,0,0,,If you feed me false information, you'll be \Ncommitting another crime, so do be careful.
+Dialogue: 0,0:07:22.34,0:07:26.67,main,Heyward,0,0,0,,I just wanted extra money so I could fool \Naround with girls! I didn't mean any harm.
+Dialogue: 0,0:07:26.67,0:07:28.80,main,Yuri,0,0,0,,You have a wife, don't you?
+Dialogue: 0,0:07:28.80,0:07:31.23,main,Heyward,0,0,0,,You're a man, too! You must understand!
+Dialogue: 0,0:07:31.23,0:07:34.67,main,Heyward,0,0,0,,I was just selling some documents. \NI'm no political criminal.
+Dialogue: 0,0:07:34.67,0:07:36.67,main,Heyward,0,0,0,,Let me off the hook! Please!
+Dialogue: 0,0:07:37.28,0:07:39.95,main,Yuri,0,0,0,,Mr. Hayward, you see...
+Dialogue: 0,0:07:40.52,0:07:44.20,main,Yuri,0,0,0,,I haven't told my sister that I work \Nfor the State Security Service.
+Dialogue: 0,0:07:44.58,0:07:47.70,main,Yuri,0,0,0,,It's a particularly dangerous job, \Nso it'd just worry her.
+Dialogue: 0,0:07:48.07,0:07:53.64,main,Yuri,0,0,0,,And above all, I don't want her \Nto know how much dirty work I do.
+Dialogue: 0,0:07:55.15,0:07:59.73,main,Yuri,0,0,0,,Mr. Hayward, what you've done is treason.
+Dialogue: 0,0:07:59.73,0:08:02.68,main,Yuri,0,0,0,,Perhaps they were nothing more \Nthan pieces of paper to you,
+Dialogue: 0,0:08:02.68,0:08:07.02,main,Yuri,0,0,0,,but they may very well put many \Nof our citizens in danger.
+Dialogue: 0,0:08:07.02,0:08:08.30,main,Yuri,0,0,0,,Do you understand?!
+Dialogue: 0,0:08:08.82,0:08:12.90,main,Yuri,0,0,0,,Unlike you, I love my family... my sister.
+Dialogue: 0,0:08:13.47,0:08:17.73,main,Yuri,0,0,0,,I will do anything to protect this \Ncountry where my sister lives.
+Dialogue: 0,0:08:18.77,0:08:20.45,main,Yuri,0,0,0,,And I do mean anything.
+Dialogue: 0,0:08:23.38,0:08:25.76,italics,Bondman,0,0,0,,I don't care how much you torture me!
+Dialogue: 0,0:08:25.76,0:08:28.88,italics,Bondman,0,0,0,,I will never... sell out my friends!
+Dialogue: 0,0:08:28.88,0:08:31.54,italics,Enemy,0,0,0,,Curse you and your resilience, Bondman!
+Dialogue: 0,0:08:31.54,0:08:35.04,italics,Loid,0,0,0,,If only she could concentrate\N on her studies like this.
+Dialogue: 0,0:08:35.04,0:08:36.88,italics,Bondman,0,0,0,,I only have two bullets left.
+Dialogue: 0,0:08:36.88,0:08:39.83,main,Anya,0,0,0,,How many bullets can Bondman's pistol hold?
+Dialogue: 0,0:08:39.83,0:08:44.04,main,Loid,0,0,0,,Hm? I'm pretty sure it was eight.
+Dialogue: 0,0:08:44.32,0:08:45.54,main,Anya,0,0,0,,So that's two-eighths!
+Dialogue: 0,0:08:46.41,0:08:48.65,main,Loid,0,0,0,,Yes! You're right!
+Dialogue: 0,0:08:48.65,0:08:50.80,main,Anya,0,0,0,,He has two-eighths of his bullets left!
+Dialogue: 0,0:08:50.80,0:08:52.42,main,Loid,0,0,0,,How do you even know those words?
+Dialogue: 0,0:08:52.72,0:08:55.36,italics,Loid,0,0,0,,So the cartoon makes things \Neasier for her to understand?
+Dialogue: 0,0:08:57.62,0:08:59.92,main,Yor,0,0,0,,Th-Th-Th-Th-There's trouble, Loid!
+Dialogue: 0,0:09:00.32,0:09:01.58,main,Loid,0,0,0,,Welcome home, Yor.
+Dialogue: 0,0:09:01.58,0:09:03.81,main,Anya,0,0,0,,He has two-eighths of his bullets left!
+Dialogue: 0,0:09:04.79,0:09:08.70,main,Yor,0,0,0,,Yuri... I mean, my younger brother \Nis coming here today!
+Dialogue: 0,0:09:09.62,0:09:10.58,main,Loid,0,0,0,,Today?!
+Dialogue: 0,0:09:12.31,0:09:13.90,main,Yor,0,0,0,,So, yes...
+Dialogue: 0,0:09:13.90,0:09:16.50,main,Yor,0,0,0,,He insists on coming over \Nand congratulating us.
+Dialogue: 0,0:09:16.50,0:09:19.41,main,Yor,0,0,0,,What shall we do? He won't find out \Nthat this marriage is fake, will he?
+Dialogue: 0,0:09:19.84,0:09:21.15,main,Loid,0,0,0,,Don't worry.
+Dialogue: 0,0:09:21.15,0:09:25.42,main,Loid,0,0,0,,I've prepared lovey-dovey couple \Naccessories for just this sort of occasion.
+Dialogue: 0,0:09:32.18,0:09:33.88,main,Anya,0,0,0,,Papa and Mama are flirting.
+Dialogue: 0,0:09:33.88,0:09:35.27,main,Loid and Yor,0,0,0,,We are not!
+Dialogue: 0,0:09:37.25,0:09:39.89,main,Anya,0,0,0,,Mama's little brother still isn't here?
+Dialogue: 0,0:09:39.89,0:09:41.32,main,Loid,0,0,0,,You mean your uncle.
+Dialogue: 0,0:09:41.32,0:09:42.01,main,Anya,0,0,0,,Unkie...
+Dialogue: 0,0:09:45.02,0:09:47.73,main,Loid,0,0,0,,It's late. You should go to bed.
+Dialogue: 0,0:09:47.73,0:09:50.52,main,Anya,0,0,0,,Anya will greet Unkie, too...
+Dialogue: 0,0:09:50.93,0:09:53.52,main,Yor,0,0,0,,It appears as though he's \Nstill stuck at work.
+Dialogue: 0,0:09:59.02,0:10:01.90,italics,Yuri,0,0,0,,I got a little worked up, and now I'm late.
+Dialogue: 0,0:10:02.51,0:10:03.90,italics,Yuri,0,0,0,,Ah, but...
+Dialogue: 0,0:10:04.31,0:10:07.43,italics,Yuri,0,0,0,,I'll finally be able to see Sis!\N It's been so long! La, la!
+Dialogue: 0,0:10:07.43,0:10:08.41,italics,Yuri,0,0,0,,Hurgh!
+Dialogue: 0,0:10:09.98,0:10:13.17,italics,Yuri,0,0,0,,I can feel the ribs that my \Nsister broke before tingling.
+Dialogue: 0,0:10:13.59,0:10:17.88,italics,Yuri,0,0,0,,I'm remembering her loving embrace, \Nand now my whole body is tingling!
+Dialogue: 0,0:10:18.55,0:10:23.98,italics,Yuri,0,0,0,,But why in the world did my sister wait \Na whole year to tell me she was married?
+Dialogue: 0,0:10:25.29,0:10:28.89,italics,Yuri,0,0,0,,Could he be some foul villain that \Nshe's afraid of introducing to me?!
+Dialogue: 0,0:10:31.11,0:10:35.28,italics,Yuri,0,0,0,,I will eliminate every threat within \Nthis country where my sister lives.
+Dialogue: 0,0:10:35.28,0:10:37.64,italics,Yuri,0,0,0,,That includes her husband, too.
+Dialogue: 0,0:10:38.15,0:10:39.69,italics,Yuri,0,0,0,,Loid Forger...
+Dialogue: 0,0:10:40.15,0:10:43.81,italics,Yuri,0,0,0,,If he's some shithead who's threatening my \Nsister, I'll throw him in a cell immediately.
+Dialogue: 0,0:10:45.27,0:10:48.65,italics,Yuri,0,0,0,,No, calm down. She mustn't\N find out about my job.
+Dialogue: 0,0:10:49.04,0:10:51.58,italics,Yuri,0,0,0,,In order to protect my \Njob and my happiness,
+Dialogue: 0,0:10:51.58,0:10:53.67,italics,Yuri,0,0,0,,I must make sure she never \Nfinds out about this!
+Dialogue: 0,0:10:54.32,0:10:55.68,italics,Loid,0,0,0,,Yuri Briar...
+Dialogue: 0,0:10:56.00,0:10:58.49,italics,Loid,0,0,0,,The Forgers' only blood relative.
+Dialogue: 0,0:10:58.92,0:11:02.37,italics,Loid,0,0,0,,It's easy to slip up around someone you're\Nemotionally close to. We must be careful.
+Dialogue: 0,0:11:02.68,0:11:07.32,italics,Loid,0,0,0,,I cannot lose this family that \NI've worked so hard to create.
+Dialogue: 0,0:11:08.58,0:11:11.93,italics,Narrator,0,0,0,,Everyone has a side they \Ndon't show anyone else.
+Dialogue: 0,0:11:12.79,0:11:17.44,italics,Narrator,0,0,0,,To their friends, their significant others,\N or even their families.
+Dialogue: 0,0:11:19.48,0:11:22.46,top,Yuri,0,0,0,,Hello! It's nice to meet you! \NI'm Yor's younger brother, Yuri!
+Dialogue: 0,0:11:19.83,0:11:22.46,italics,Narrator,0,0,0,,They hide what they're truly feeling \Nthrough fake smiles or bravado,
+Dialogue: 0,0:11:22.73,0:11:24.46,italics,Narrator,0,0,0,,and keep their true identities secret.
+Dialogue: 0,0:11:23.06,0:11:24.26,top,Loid and Yor,0,0,0,,Welcome.
+Dialogue: 0,0:11:24.46,0:11:30.32,italics,Narrator,0,0,0,,That is how the world keeps up \Nthe appearance of its temporary peace.
+Dialogue: 0,0:11:33.13,0:11:38.13,italicstop,Announcer,0,0,0,,Foreign Minister Windsor met with Westalis's \NForeign Minister Brantz for six days of talks,
+Dialogue: 0,0:11:38.13,0:11:40.60,italicstop,Announcer,0,0,0,,with the goal of normalizing diplomatic \Nrelations between the two countries.
+Dialogue: 0,0:11:40.21,0:11:41.50,italics,Loid,0,0,0,,I'm going to find out...
+Dialogue: 0,0:11:40.21,0:11:41.50,italics,Yuri,0,0,0,,I'm going to find out...
+Dialogue: 0,0:11:41.50,0:11:45.33,italicstop,Loid,0,0,0,,if this man is going to \Nharm our family or not!
+Dialogue: 0,0:11:41.50,0:11:45.33,italics,Yuri,0,0,0,,if this man is worthy of my sister or not!
+Dialogue: 0,0:11:45.33,0:11:47.72,italics,Yuri,0,0,0,,No, of course he's not worthy.
+Dialogue: 0,0:11:48.78,0:11:51.88,main,Loid,0,0,0,,Oh, let me take your coat \Nand the things you're carrying.
+Dialogue: 0,0:11:51.88,0:11:54.91,main,Yuri,0,0,0,,Oh, no, there's no need. \NThank you for offering.
+Dialogue: 0,0:11:55.49,0:11:58.73,main,Loid,0,0,0,,I can prepare something simple \Nfor us to eat pretty quickly.
+Dialogue: 0,0:11:58.73,0:12:00.74,main,Loid,0,0,0,,The two of you can go ahead and relax.
+Dialogue: 0,0:12:01.34,0:12:02.94,main,Yuri,0,0,0,,Oh, don't mind me.
+Dialogue: 0,0:12:02.94,0:12:05.16,italics,Yuri,0,0,0,,I would never eat something you've made.
+Dialogue: 0,0:12:05.16,0:12:08.45,main,Yor,0,0,0,,Oh, you look so scary, Yuri.\NYou must be nervous.
+Dialogue: 0,0:12:08.45,0:12:09.99,main,Yuri,0,0,0,,I-I'm not...
+Dialogue: 0,0:12:10.80,0:12:13.83,italics,Yuri,0,0,0,,Crap. My animosity must've been showing.
+Dialogue: 0,0:12:13.28,0:12:14.88,top,Yor,0,0,0,,Please, make yourself at home.
+Dialogue: 0,0:12:13.83,0:12:16.50,italics,Yuri,0,0,0,,I could still be worked up from \Nthat interrogation earlier.
+Dialogue: 0,0:12:16.92,0:12:19.96,italics,Yuri,0,0,0,,I need to play the part of the studious \Ncivil servant in front of my sister!
+Dialogue: 0,0:12:16.92,0:12:19.96,italicstop,Yor,0,0,0,,I need to play the part of the \Nlovely wife in front of Yuri!
+Dialogue: 0,0:12:20.57,0:12:25.51,italics,Yor,0,0,0,,I could never tell him that I got \Nmarried so I could continue killing!
+Dialogue: 0,0:12:26.77,0:12:29.01,main,Yor,0,0,0,,Thank you for the flowers, Yuri.
+Dialogue: 0,0:12:29.01,0:12:31.72,main,Yuri,0,0,0,,Sure... But, Sis...
+Dialogue: 0,0:12:31.72,0:12:34.55,main,Yuri,0,0,0,,I haven't accepted your marriage yet.
+Dialogue: 0,0:12:35.72,0:12:37.88,main,Yuri,0,0,0,,Why did you keep this a secret for a year?
+Dialogue: 0,0:12:37.88,0:12:40.52,main,Yuri,0,0,0,,How am I supposed to accept \Nit if you don't explain?
+Dialogue: 0,0:12:40.52,0:12:42.27,italics,Loid,0,0,0,,A reasonable question.
+Dialogue: 0,0:12:42.27,0:12:43.39,italics,Loid,0,0,0,,Now, then...
+Dialogue: 0,0:12:44.89,0:12:49.28,flashback,Loid,0,0,0,,About your brother... Why don't we just \Ngo ahead and tell him everything?
+Dialogue: 0,0:12:49.28,0:12:52.76,flashback,Loid,0,0,0,,The fact that single women are \Nseen as highly suspicious
+Dialogue: 0,0:12:52.76,0:12:55.45,flashback,Loid,0,0,0,,is a very serious issue in our times.
+Dialogue: 0,0:12:55.45,0:12:57.97,flashback,Loid,0,0,0,,I'm sure your brother will understand.
+Dialogue: 0,0:12:57.97,0:12:59.59,flashback,Yor,0,0,0,,W-We can't!
+Dialogue: 0,0:12:59.59,0:13:02.87,flashback,Yor,0,0,0,,My brother can be very, er, sensitive.
+Dialogue: 0,0:13:03.18,0:13:08.11,flashback,Yor,0,0,0,,If he found out that I... I got married \Nto someone I wasn't in love with,
+Dialogue: 0,0:13:08.11,0:13:09.94,flashback,Yor,0,0,0,,he would probably lose his composure.
+Dialogue: 0,0:13:10.22,0:13:13.31,flashback,Yor,0,0,0,,Then we could end up troubling you, Loid...
+Dialogue: 0,0:13:13.66,0:13:17.55,flashback,Yor,0,0,0,,And I don't want my brother to have to \Nworry about me over something like this.
+Dialogue: 0,0:13:19.77,0:13:24.75,flashback,Yor,0,0,0,,Oh, b-but don't worry! I have the \Nperfect excuse to give him!
+Dialogue: 0,0:13:24.75,0:13:28.81,flashback italics,Yor,0,0,0,,I know more about Yuri than \Nanyone else, so leave this to me!
+Dialogue: 0,0:13:28.81,0:13:30.33,italics,Loid,0,0,0,,I'm counting on you, Yor.
+Dialogue: 0,0:13:30.68,0:13:33.58,main,Yuri,0,0,0,,Well, Sis? Why didn't you tell me?
+Dialogue: 0,0:13:33.89,0:13:35.58,main,Yor,0,0,0,,W-Well...
+Dialogue: 0,0:13:36.08,0:13:38.58,main,Yor,0,0,0,,B-Because I completely forgot!
+Dialogue: 0,0:13:41.33,0:13:44.29,main,Yuri,0,0,0,,Huh? Okay, uh, I...
+Dialogue: 0,0:13:44.29,0:13:45.58,main,Yor,0,0,0,,It completely slipped my mind!
+Dialogue: 0,0:13:46.64,0:13:50.17,main,Yuri,0,0,0,,Actually, when I called you the other day,\N  you told me that you had a partner.
+Dialogue: 0,0:13:50.17,0:13:51.42,main,Yuri,0,0,0,,You could've at least told me then!
+Dialogue: 0,0:13:51.42,0:13:52.59,main,Yor,0,0,0,,W-Well...
+Dialogue: 0,0:13:52.97,0:13:56.47,main,Yor,0,0,0,,I forgot that I had forgotten to \Ntell you about my marriage!
+Dialogue: 0,0:14:00.82,0:14:04.26,main,Yuri,0,0,0,,Well, if you say so, \Nit must be true! Sorry, Sis.
+Dialogue: 0,0:14:04.26,0:14:05.47,italics,Loid,0,0,0,,He accepted that?!
+Dialogue: 0,0:14:05.47,0:14:08.50,italics,Narrator,0,0,0,,When it concerns his sister, this man's\N sense of logic goes out the window.
+Dialogue: 0,0:14:08.50,0:14:11.16,main,Yuri,0,0,0,,Jeez, Sis! You're such a scatterbrain!
+Dialogue: 0,0:14:11.71,0:14:13.49,italics,Loid,0,0,0,,Is this normal for the Briars?
+Dialogue: 0,0:14:15.95,0:14:17.42,main,Loid,0,0,0,,Sorry to keep you waiting.
+Dialogue: 0,0:14:17.42,0:14:21.00,italics,Yuri,0,0,0,,Tch. How dare you interrupt \Nthe fun Sis and I were having?
+Dialogue: 0,0:14:21.42,0:14:27.02,italics,Yuri,0,0,0,,No... If I keep up this nasty attitude, \NSis might end up hating me.
+Dialogue: 0,0:14:27.02,0:14:28.00,italics,Yuri,0,0,0,,I need to at least fake—
+Dialogue: 0,0:14:29.89,0:14:32.71,main,Yor,0,0,0,,Isn't Loid's cooking just so delicious?
+Dialogue: 0,0:14:33.15,0:14:37.82,italics,Yuri,0,0,0,,Hmph! Don't think your cooking is\N enough to win me over, you villain!
+Dialogue: 0,0:14:39.48,0:14:42.05,main,Yuri,0,0,0,,Oh, right. I actually \Nbrought over some wine.
+Dialogue: 0,0:14:42.05,0:14:43.03,main,Yuri,0,0,0,,Please, help yourselves.
+Dialogue: 0,0:14:43.03,0:14:44.67,main,Loid,0,0,0,,How considerate of you.
+Dialogue: 0,0:14:45.08,0:14:48.08,italics,Yuri,0,0,0,,I'll get you drunk and expose you \Nfor the filthy villain you are!
+Dialogue: 0,0:14:48.53,0:14:50.27,main,Loid,0,0,0,,None for you tonight, Yor.
+Dialogue: 0,0:14:50.27,0:14:51.47,main,Yor,0,0,0,,I know.
+Dialogue: 0,0:14:51.47,0:14:52.57,italics,Yor,0,0,0,,Unfortunately.
+Dialogue: 0,0:14:53.43,0:14:56.64,main,Yuri,0,0,0,,So where did you two meet?
+Dialogue: 0,0:14:56.64,0:14:58.58,main,Loid,0,0,0,,At the boutique on 3rd Street.
+Dialogue: 0,0:14:58.58,0:15:02.81,main,Yor,0,0,0,,It was so surprising for a man I didn't\N know to stare at me like that.
+Dialogue: 0,0:15:02.81,0:15:06.05,main,Loid,0,0,0,,Er, well... She was just \Nso beautiful, you know...
+Dialogue: 0,0:15:06.05,0:15:07.09,italics,Loid,0,0,0,,The way you said that...
+Dialogue: 0,0:15:07.59,0:15:11.34,italics,Loid,0,0,0,,This subject will probably lead to \Na slip-up. I need to change it.
+Dialogue: 0,0:15:11.75,0:15:15.09,main,Loid,0,0,0,,After a few dinners, we realized \Nwe had a lot in common.
+Dialogue: 0,0:15:15.38,0:15:17.90,main,Yuri,0,0,0,,When were these dinners? Where? \NHow many times did you go?
+Dialogue: 0,0:15:17.90,0:15:18.60,main,Yuri,0,0,0,,Which restaurants?
+Dialogue: 0,0:15:19.07,0:15:21.66,main,Yuri,0,0,0,,How many encounters led to your courtship?
+Dialogue: 0,0:15:21.66,0:15:23.08,main,Yuri,0,0,0,,What made you decide to marry her?
+Dialogue: 0,0:15:23.08,0:15:24.28,main,Loid,0,0,0,,Um...
+Dialogue: 0,0:15:24.28,0:15:26.11,italics,Loid,0,0,0,,Why do I feel like I'm being \Nquestioned by an officer?
+Dialogue: 0,0:15:26.46,0:15:28.87,main,Yuri,0,0,0,,How do the two of you address each other?
+Dialogue: 0,0:15:28.87,0:15:31.63,main,Loid,0,0,0,,Huh? Er, I call her "Yor."
+Dialogue: 0,0:15:31.63,0:15:32.63,italics,Yuri,0,0,0,,"Yor"?!
+Dialogue: 0,0:15:32.63,0:15:34.37,italics,Yuri,0,0,0,,Even I hesitate to use her given name!
+Dialogue: 0,0:15:34.37,0:15:37.66,main,Yuri,0,0,0,,S-S-S-Sis, you don't happen to call him \N"Loi Loi" or "Loidy," do you?
+Dialogue: 0,0:15:37.66,0:15:38.33,main,Yor,0,0,0,,Huh? Um...
+Dialogue: 0,0:15:40.36,0:15:42.21,main,Yuri,0,0,0,,Loidy!
+Dialogue: 0,0:15:43.41,0:15:44.74,main,Yuri,0,0,0,,God damn it!
+Dialogue: 0,0:15:46.41,0:15:48.92,main,Yor,0,0,0,,I-I just... call him Loid!
+Dialogue: 0,0:15:49.80,0:15:53.47,italics,Narrator,0,0,0,,When it concerns his sister, this man's\N sense of logic... Well, you know the rest.
+Dialogue: 0,0:15:53.92,0:15:54.76,main,Loid,0,0,0,,Are you all right?
+Dialogue: 0,0:15:55.09,0:15:56.43,main,Loid,0,0,0,,Here, have some water.
+Dialogue: 0,0:16:00.57,0:16:03.88,italics,Yuri,0,0,0,,What could my sister possibly \Nlike about this guy?!
+Dialogue: 0,0:16:03.88,0:16:07.91,italics,Yuri,0,0,0,,Just because he can cook a little, \Nand he's handsome, and tall,
+Dialogue: 0,0:16:07.91,0:16:10.20,italics,Yuri,0,0,0,,and considerate, and a \Ndoctor, that's just...
+Dialogue: 0,0:16:10.20,0:16:11.13,italics,Yuri,0,0,0,,That's just...
+Dialogue: 0,0:16:12.19,0:16:14.17,main,Yuri,0,0,0,,God damn it!
+Dialogue: 0,0:16:14.17,0:16:15.93,main,Yor,0,0,0,,Yuri, calm down.
+Dialogue: 0,0:16:15.93,0:16:18.21,italics,Loid,0,0,0,,I guess neither Briar \Nholds their liquor well.
+Dialogue: 0,0:16:18.21,0:16:21.45,main,Loid,0,0,0,,By the way, Yuri, I hear you're a diplomat.
+Dialogue: 0,0:16:21.45,0:16:22.70,italics,Loid,0,0,0,,Divert, divert...
+Dialogue: 0,0:16:23.10,0:16:27.61,main,Loid,0,0,0,,That's quite the line of work. \NYor loves to brag about you all the time.
+Dialogue: 0,0:16:28.51,0:16:32.85,main,Yor,0,0,0,,Dominic told me the other day that you \Nwent all the way to Hugaria recently.
+Dialogue: 0,0:16:32.85,0:16:36.73,main,Yuri,0,0,0,,Huh? Yeah. I mean, it's just work.
+Dialogue: 0,0:16:37.17,0:16:40.44,main,Yuri,0,0,0,,But yes. It was a beautiful city.
+Dialogue: 0,0:16:40.44,0:16:42.52,main,Yuri,0,0,0,,I wish I could've shown you, Sis.
+Dialogue: 0,0:16:42.52,0:16:44.17,main,Yuri,0,0,0,,There were a lot of cafés, too.
+Dialogue: 0,0:16:44.17,0:16:47.14,main,Yuri,0,0,0,,There was even an old one that \Nan empress used to frequent...
+Dialogue: 0,0:16:47.68,0:16:49.53,main,Loid,0,0,0,,You mean in the capital city Obda, right?
+Dialogue: 0,0:16:49.53,0:16:51.76,main,Loid,0,0,0,,There are several delicious \Nrestaurants there.
+Dialogue: 0,0:16:52.20,0:16:55.36,main,Loid,0,0,0,,I went there when I was a medical student.
+Dialogue: 0,0:16:55.36,0:16:56.17,main,Yuri,0,0,0,,Oh, really?
+Dialogue: 0,0:16:56.54,0:16:58.99,main,Yuri,0,0,0,,I went to Kalpatia often.
+Dialogue: 0,0:16:58.99,0:17:01.76,main,Yuri,0,0,0,,The old man who owns it makes a superb stew.
+Dialogue: 0,0:17:01.76,0:17:04.17,main,Loid,0,0,0,,I had that, too! Ah...
+Dialogue: 0,0:17:04.74,0:17:08.91,main,Loid,0,0,0,,So this wine is also from \NHugaria. It's excellent.
+Dialogue: 0,0:17:08.91,0:17:09.87,italics,Loid,0,0,0,,This is...
+Dialogue: 0,0:17:09.87,0:17:11.27,main,Yuri,0,0,0,,Oh, that...
+Dialogue: 0,0:17:11.27,0:17:13.17,italics,Loid,0,0,0,,"I bought it from a shop on Hedger Street."
+Dialogue: 0,0:17:13.55,0:17:16.18,main,Yuri,0,0,0,,I found it at a little \Nshop on Hedger Street.
+Dialogue: 0,0:17:16.75,0:17:18.18,main,Loid,0,0,0,,It must've been pricey.
+Dialogue: 0,0:17:18.53,0:17:19.86,italics,Loid,0,0,0,,It's 200 dalc.
+Dialogue: 0,0:17:19.86,0:17:22.68,main,Yuri,0,0,0,,Oh, no. It was just around 200 dalc.
+Dialogue: 0,0:17:23.15,0:17:24.33,italics,Loid,0,0,0,,I knew it.
+Dialogue: 0,0:17:25.04,0:17:28.68,main,Loid,0,0,0,,That's plenty fancy. Thank you very much.
+Dialogue: 0,0:17:28.68,0:17:30.25,italics,Loid,0,0,0,,This conversation...
+Dialogue: 0,0:17:30.25,0:17:35.20,italics,Loid,0,0,0,,It's right out of the Ostanian Intelligence\N Agency's manual for the art of deception.
+Dialogue: 0,0:17:35.20,0:17:38.78,italics,Loid,0,0,0,,It's a conversation template used to fabricate\N a story about going to another country.
+Dialogue: 0,0:17:39.19,0:17:41.96,italics,Loid,0,0,0,,Meaning this whole story's been a lie.
+Dialogue: 0,0:17:41.96,0:17:45.46,italics,Loid,0,0,0,,Besides, the owner of Kalpatia \Nnow has his son running the shop.
+Dialogue: 0,0:17:45.83,0:17:49.59,italics,Loid,0,0,0,,And this wine actually costs 300 dalc\N now due to a poor harvest.
+Dialogue: 0,0:17:49.59,0:17:53.71,italics,Loid,0,0,0,,You may be able to fool an amateur, \Nbut it won't work on me,
+Dialogue: 0,0:17:54.04,0:17:55.35,italics,Loid,0,0,0,,Yuri Briar!
+Dialogue: 0,0:17:55.71,0:17:58.70,italics,Loid,0,0,0,,I had my reservations as soon as I heard you \Nworked for the Ministry of Foreign Affairs.
+Dialogue: 0,0:17:58.70,0:18:02.21,italics,Loid,0,0,0,,That line of work has commonly \Nbeen an entryway to espionage.
+Dialogue: 0,0:18:02.73,0:18:04.76,italics,Loid,0,0,0,,I had Franky do some digging,
+Dialogue: 0,0:18:04.76,0:18:08.43,italics,Loid,0,0,0,,and there are records showing he worked \Nin that department up until a year ago.
+Dialogue: 0,0:18:08.43,0:18:11.60,italics,Loid,0,0,0,,He must've been scouted by the intelligence \Nagency right before or after that.
+Dialogue: 0,0:18:11.96,0:18:13.90,italics,Loid,0,0,0,,Putting all the pieces together,
+Dialogue: 0,0:18:13.90,0:18:16.83,italics,Loid,0,0,0,,this man works for the domestic \Ncounter-intelligence agency
+Dialogue: 0,0:18:16.83,0:18:19.58,italics,Loid,0,0,0,,that is WISE's mortal enemy...\N the secret police!
+Dialogue: 0,0:18:19.58,0:18:22.01,italics,Loid,0,0,0,,That said, though it may be dangerous,
+Dialogue: 0,0:18:22.01,0:18:24.29,italics,Loid,0,0,0,,as long as he doesn't find \Nout who I really am,
+Dialogue: 0,0:18:24.29,0:18:26.75,italics,Loid,0,0,0,,maintaining this relationship \Nisn't a bad idea.
+Dialogue: 0,0:18:26.75,0:18:29.43,italics,Loid,0,0,0,,If I play my cards right, he could \Nbe a powerful source of information
+Dialogue: 0,0:18:29.43,0:18:30.74,italics,Loid,0,0,0,,regarding my enemies.
+Dialogue: 0,0:18:30.74,0:18:32.76,main,Loid,0,0,0,,I'll get you something in return next time.
+Dialogue: 0,0:18:33.35,0:18:36.32,main,Yor,0,0,0,,Isn't it wonderful that you have such \Na lovely older brother now, Yuri?
+Dialogue: 0,0:18:36.32,0:18:39.27,italics,Loid,0,0,0,,He appears to be concealing \Nhis identity from Yor, too.
+Dialogue: 0,0:18:39.71,0:18:42.21,italics,Loid,0,0,0,,He may be easier to \Nmanipulate than I thought.
+Dialogue: 0,0:18:42.86,0:18:43.76,main,Yor,0,0,0,,Yuri?
+Dialogue: 0,0:18:45.36,0:18:47.80,main,Yuri,0,0,0,,I told you I wouldn't accept him, Sis!
+Dialogue: 0,0:18:47.80,0:18:50.36,main,Yuri,0,0,0,,I'm never going to call him my brother!
+Dialogue: 0,0:18:50.36,0:18:52.03,main,Yor,0,0,0,,You're being rude, Yuri.
+Dialogue: 0,0:18:52.39,0:18:54.02,main,Yuri,0,0,0,,Yeah, you're right.
+Dialogue: 0,0:18:54.27,0:18:56.47,main,Yuri,0,0,0,,I went out into the world, \Nmade a name for myself,
+Dialogue: 0,0:18:56.47,0:18:58.42,main,Yuri,0,0,0,,and I can even buy expensive booze now!
+Dialogue: 0,0:18:58.42,0:19:01.04,main,Yuri,0,0,0,,But that's all because of my sister!
+Dialogue: 0,0:19:01.29,0:19:03.70,main,Yuri,0,0,0,,Our parents were gone, and we were poor,
+Dialogue: 0,0:19:03.70,0:19:06.40,main,Yuri,0,0,0,,so we couldn't even get everything \NI'd need for studying.
+Dialogue: 0,0:19:06.40,0:19:07.35,main,Yuri,0,0,0,,But...
+Dialogue: 0,0:19:07.35,0:19:11.36,flashback,Young Yuri,0,0,0,,Sis sure is late. She's still\N at her part-time job?
+Dialogue: 0,0:19:12.65,0:19:14.26,flashback,Young Yor,0,0,0,,I'm home, Yuri!
+Dialogue: 0,0:19:14.26,0:19:15.50,flashback,Young Yuri,0,0,0,,Uh, Sis?!
+Dialogue: 0,0:19:15.80,0:19:17.78,flashback,Young Yuri,0,0,0,,What happened?! You're covered in blood!
+Dialogue: 0,0:19:17.78,0:19:19.79,flashback,Young Yuri,0,0,0,,What kind of work were you doing?!
+Dialogue: 0,0:19:19.79,0:19:21.89,flashback,Young Yor,0,0,0,,Huh? Oh, I'm totally fine.
+Dialogue: 0,0:19:21.89,0:19:23.51,flashback italics,Young Yor,0,0,0,,This isn't my blood, so...
+Dialogue: 0,0:19:23.87,0:19:26.27,flashback,Young Yor,0,0,0,,More importantly, look, Yuri!
+Dialogue: 0,0:19:26.84,0:19:30.93,flashback,Young Yor,0,0,0,,Ta-da! It's the encyclopedia \Nset you wanted!
+Dialogue: 0,0:19:30.93,0:19:34.04,flashback,Young Yor,0,0,0,,I got paid a lot this time, \Nso I went ahead and bought it!
+Dialogue: 0,0:19:35.09,0:19:36.22,flashback,Young Yuri,0,0,0,,Sis...
+Dialogue: 0,0:19:37.05,0:19:40.14,flashbacktop,Young Yor,0,0,0,,Ta-da! Here are those snacks \Nyou wanted, Yuri!
+Dialogue: 0,0:19:37.51,0:19:41.77,main,Yor,0,0,0,,Sis would always work \Nherself to death for me!
+Dialogue: 0,0:19:40.14,0:19:41.77,flashbacktop,Young Yuri,0,0,0,,You don't have to work anymore, Sis!
+Dialogue: 0,0:19:42.33,0:19:45.29,main,Yuri,0,0,0,,So I made up my mind... that I was \Ngoing to become a proper adult,
+Dialogue: 0,0:19:45.29,0:19:47.69,main,Yuri,0,0,0,,and be a man who could protect my sister.
+Dialogue: 0,0:19:48.29,0:19:52.05,main,Yuri,0,0,0,,I'm going to be the one who protects \Nmy one and only family member.
+Dialogue: 0,0:19:52.47,0:19:53.91,main,Yuri,0,0,0,,Can you even imagine
+Dialogue: 0,0:19:53.91,0:19:56.59,main,Yuri,0,0,0,,how it feels for me to have the \Nmost important person in my life
+Dialogue: 0,0:19:56.59,0:19:59.80,main,Yuri,0,0,0,,just suddenly taken from me by some \Nguy who appeared out of thin air?
+Dialogue: 0,0:20:01.21,0:20:02.31,main,Yor,0,0,0,,Yuri...
+Dialogue: 0,0:20:02.31,0:20:06.73,main,Yuri,0,0,0,,Sure, I wanted you to get married \Nsomeday and find true happiness.
+Dialogue: 0,0:20:06.73,0:20:11.31,main,Yuri,0,0,0,,But that guy has to be someone who \Ncould protect you even better than me!
+Dialogue: 0,0:20:11.88,0:20:14.31,main,Yuri,0,0,0,,Are you saying you're up to that task,
+Dialogue: 0,0:20:14.61,0:20:15.80,main,Yuri,0,0,0,,Loidy?!
+Dialogue: 0,0:20:15.80,0:20:16.57,main,Loid,0,0,0,,Lo—
+Dialogue: 0,0:20:18.97,0:20:21.60,flashback,Yor,0,0,0,,I just want to put my \Nbrother's mind at ease.
+Dialogue: 0,0:20:22.61,0:20:23.61,main,Loid,0,0,0,,I...
+Dialogue: 0,0:20:24.01,0:20:27.06,main,Loid,0,0,0,,I love Yor as much as you do, if not more!
+Dialogue: 0,0:20:28.01,0:20:31.01,main,Loid,0,0,0,,My daughter loves Yor very much, too.
+Dialogue: 0,0:20:31.01,0:20:34.13,italics,Yor,0,0,0,,Come on... This is just an \Nact to deceive my brother.
+Dialogue: 0,0:20:34.38,0:20:37.41,main,Loid,0,0,0,,She is already a part of my family.
+Dialogue: 0,0:20:37.41,0:20:40.12,main,Loid,0,0,0,,Even if spears or meteors \Nrained down from the sky,
+Dialogue: 0,0:20:40.59,0:20:43.85,main,Loid,0,0,0,,I would risk my life to protect her.
+Dialogue: 0,0:20:44.21,0:20:46.88,italics,Narrator,0,0,0,,This man was a bold liar.
+Dialogue: 0,0:20:48.10,0:20:50.01,italics,Yuri,0,0,0,,Did he say... meteors?!
+Dialogue: 0,0:20:50.01,0:20:53.39,italics,Yuri,0,0,0,,I'm confident that I could protect \Nher from spears, but meteors?!
+Dialogue: 0,0:20:53.39,0:20:56.40,italics,Yuri,0,0,0,,Is he surprisingly powerful? \NBut how would he do that?
+Dialogue: 0,0:20:57.37,0:20:59.98,main,Yuri,0,0,0,,I-It's easy to claim such things, you liar!
+Dialogue: 0,0:20:59.98,0:21:02.41,main,Yuri,0,0,0,,Yeah! You have the face of a liar!
+Dialogue: 0,0:21:03.41,0:21:04.65,main,Yor,0,0,0,,Oh, goodness.
+Dialogue: 0,0:21:04.65,0:21:07.46,main,Yor,0,0,0,,You're so careless sometimes, Yuri!
+Dialogue: 0,0:21:06.53,0:21:09.41,italicstop,Loid internal,0,0,0,,I have the face of a liar? \NHas he seen through me?
+Dialogue: 0,0:21:07.46,0:21:10.19,main,Loid,0,0,0,,Oh, don't worry about it, \NYor. I'll clean it up.
+Dialogue: 0,0:21:09.66,0:21:10.90,italicstop,Loid internal,0,0,0,,No, that couldn't be.
+Dialogue: 0,0:21:15.64,0:21:18.47,main,Yuri,0,0,0,,What? You've been married for a year,
+Dialogue: 0,0:21:18.47,0:21:20.46,main,Yuri,0,0,0,,and {\i1}that's{\i0} your reaction when your hands touch?
+Dialogue: 0,0:21:20.80,0:21:22.86,main,Yuri,0,0,0,,What? Are you actually married?
+Dialogue: 0,0:21:22.86,0:21:23.65,main,Loid,0,0,0,,Wha—
+Dialogue: 0,0:21:24.11,0:21:27.59,main,Loid,0,0,0,,Wh-What are you talking about?\NWe're so in love.
+Dialogue: 0,0:21:27.59,0:21:29.17,main,Yor,0,0,0,,Y-Yes, exactly.
+Dialogue: 0,0:21:29.17,0:21:34.18,main,Yuri,0,0,0,,A likely story... If you're really\N married, then prove it to me.
+Dialogue: 0,0:21:34.46,0:21:36.55,main,Loid,0,0,0,,I mean, we have our marriage license...
+Dialogue: 0,0:21:36.55,0:21:37.68,main,Yuri,0,0,0,,That's not what I meant!
+Dialogue: 0,0:21:38.66,0:21:40.82,main,Yuri,0,0,0,,Kiss right here and now.
+Dialogue: 0,0:21:40.82,0:21:41.19,main,Yor and Loid,0,0,0,,Huh?!
+Dialogue: 0,0:21:41.76,0:21:44.30,main,Yuri,0,0,0,,Should be easy if you're actually in love.
+Dialogue: 0,0:21:44.30,0:21:46.77,main,Yor,0,0,0,,Er... But if it's in front of someone...
+Dialogue: 0,0:21:47.46,0:21:50.80,main,Yuri,0,0,0,,Just once is fine. Then I'll believe you.
+Dialogue: 0,0:21:50.80,0:21:53.76,main,Yuri,0,0,0,,If you can't, I'm going to city hall to \Nhave them revoke your marriage license!
+Dialogue: 0,0:21:53.96,0:21:55.75,italicstop,Loid,0,0,0,,This is bad. What should I do?
+Dialogue: 0,0:21:55.75,0:21:56.75,italicstop,Loid,0,0,0,,No, calm down.
+Dialogue: 0,0:21:56.75,0:21:58.97,italicstop,Loid,0,0,0,,I'm Westalis's greatest spy, Twilight.
+Dialogue: 0,0:21:58.97,0:22:01.46,italicstop,Loid,0,0,0,,I've had relations with countless \Nwomen on my missions.
+Dialogue: 0,0:22:01.46,0:22:04.26,italicstop,Loid,0,0,0,,If a kiss or two will \Nkeep my mission safe...
+Dialogue: 0,0:22:04.26,0:22:05.80,main,Loid,0,0,0,,If that's all it takes...
+Dialogue: 0,0:22:05.80,0:22:06.77,main,Yor,0,0,0,,What?!
+Dialogue: 0,0:22:07.47,0:22:08.82,main,Yor,0,0,0,,Loid, wait...
+Dialogue: 0,0:22:09.43,0:22:11.77,main,Loid,0,0,0,,I'm just going to do what I always do, Yor.
+Dialogue: 0,0:22:12.21,0:22:13.02,main,Loid,0,0,0,,Come on.
+Dialogue: 0,0:22:13.54,0:22:17.02,italics,Yor,0,0,0,,I mean, we need to so we can keep \Nour fake marriage going, but...
+Dialogue: 0,0:22:19.73,0:22:20.53,main,Yor,0,0,0,,Wha...
+Dialogue: 0,0:22:21.26,0:22:22.22,main,Yor,0,0,0,,Wha...
+Dialogue: 0,0:22:22.89,0:22:28.63,main,Yor,0,0,0,,What?!
+Dialogue: 0,0:24:06.88,0:24:09.87,sign_6041_79_OPERATION_STRIX,Sign,0,0,0,,{\pos(372,290)\fscx59}SHOW OFF HOW IN LOVE YOU ARE

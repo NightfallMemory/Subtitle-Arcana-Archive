@@ -1,0 +1,406 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: sign_5367_29_Code_Name__Twili,Trebuchet MS,25,&H00000000,&H000000FF,&H4BFFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_6041_79_OPERATION_STRIX,Trebuchet MS,27,&H19FFFFFF,&H000000FF,&H7D000000,&H96000000,-1,0,0,0,100,100,0,0,1,2,1,1,30,30,20,1
+Style: sign_23950_248_Welcome,Trebuchet MS,15,&H00000100,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_7726_70_He_was_worried__,Trebuchet MS,25,&H0026292D,&H000000FF,&H00F1FAFB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,30,30,20,1
+Style: sign_10852_138_Math_Class,Trebuchet MS,40,&H00F5F8F5,&H000000FF,&H00282A2A,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,20,1
+Style: sign_13319_178__But_then_John_r,Verdana,23,&H001A1C1C,&H000000FF,&H00FEFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,20,1
+Style: sign_21343_286_Missing_Missing_,Arial,8,&H00DDD2FF,&H000000FF,&H00140705,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,9,30,30,100,1
+Style: sign_5970_48_The_State_Securi,Trebuchet MS,17,&H00FEFFFF,&H000000FF,&H32434847,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.27,0:00:04.98,italics,Narrator,0,0,0,,The capitol of Ostania, Berlint.
+Dialogue: 0,0:00:08.19,0:00:12.65,italics,Narrator,0,0,0,,This old woman is a contact for \NWestalis's intelligence agency, WISE.
+Dialogue: 0,0:00:30.42,0:00:33.01,italics,Narrator,0,0,0,,This man's name is Loid Forger,
+Dialogue: 0,0:00:33.30,0:00:36.26,italics,Narrator,0,0,0,,otherwise known by his code name, Twilight.
+Dialogue: 0,0:00:36.59,0:00:38.39,italics,Narrator,0,0,0,,His occupation: spy.
+Dialogue: 0,0:00:39.26,0:00:43.39,italics,Narrator,0,0,0,,It appears as though, on top of the current \Nimportant mission he is conducting,
+Dialogue: 0,0:00:43.39,0:00:44.94,italics,Narrator,0,0,0,,he's been given another.
+Dialogue: 0,0:00:58.32,0:01:01.37,italics,Old woman,0,0,0,,This has been my life for decades now.
+Dialogue: 0,0:01:01.37,0:01:04.79,italics,Old woman,0,0,0,,Every day remains the same, \Nand peace is fleeting.
+Dialogue: 0,0:01:05.96,0:01:07.46,italics,Old woman,0,0,0,,Will we ever see a day
+Dialogue: 0,0:01:07.46,0:01:12.21,italics,Old woman,0,0,0,,when we're not needed anymore?
+Dialogue: 0,0:03:01.11,0:03:02.91,main,Loid,0,0,0,,Mission complete.
+Dialogue: 0,0:03:05.12,0:03:08.79,main,Contact,0,0,0,,Good day, or perhaps, good evening, Twilight.
+Dialogue: 0,0:03:09.20,0:03:12.08,main,Contact,0,0,0,,We thank you for completing \Nthat mission so quickly.
+Dialogue: 0,0:03:13.13,0:03:15.42,main,Contact,0,0,0,,How goes Operation Strix?
+Dialogue: 0,0:03:16.42,0:03:22.01,italics,Narrator,0,0,0,,That is his top-priority mission to maintain\N peace between the East and the West.
+Dialogue: 0,0:03:22.01,0:03:23.14,italics,Narrator,0,0,0,,That mission...
+Dialogue: 0,0:03:26.22,0:03:27.72,main,Loid,0,0,0,,It's going smoothly.
+Dialogue: 0,0:03:27.72,0:03:29.93,main,Loid,0,0,0,,I have secured both a wife and child.
+Dialogue: 0,0:03:30.48,0:03:33.15,italics,Narrator,0,0,0,,...is meant to bring the enemy \Ncountry's plans for war to light,
+Dialogue: 0,0:03:33.15,0:03:38.48,italics,Narrator,0,0,0,,establish a family in said country, \Nand infiltrate a certain academy.
+Dialogue: 0,0:03:40.11,0:03:43.91,main,Contact,0,0,0,,Very good. Not standing out is \Nan iron-clad rule for a spy.
+Dialogue: 0,0:03:43.91,0:03:46.49,main,Contact,0,0,0,,Continue acting as a \Ncompletely mundane family.
+Dialogue: 0,0:03:46.49,0:03:47.79,main,Loid,0,0,0,,I know.
+Dialogue: 0,0:03:48.41,0:03:49.83,main,Contact,0,0,0,,Did you quit smoking?
+Dialogue: 0,0:03:50.79,0:03:52.46,main,Loid,0,0,0,,Well, I have a child now.
+Dialogue: 0,0:03:54.04,0:03:57.84,italics,Narrator,0,0,0,,And thus, the Forgers came \Nto be without issue, but...
+Dialogue: 0,0:04:00.76,0:04:03.38,main,Yor,0,0,0,,Loid did mention that he \Nwas going to be late,
+Dialogue: 0,0:04:03.38,0:04:05.59,main,Yor,0,0,0,,so why don't we eat out tonight?
+Dialogue: 0,0:04:05.59,0:04:06.35,main,Anya,0,0,0,,Yep.
+Dialogue: 0,0:04:06.35,0:04:11.10,italics,Yor,0,0,0,,Doctors sure are busy. It must be difficult.
+Dialogue: 0,0:04:12.18,0:04:14.81,italics,Anya,0,0,0,,Papa is not actually a doctor.
+Dialogue: 0,0:04:15.35,0:04:18.73,italics,Narrator,0,0,0,,His daughter, Anya, whom he just happened\N to adopt from an orphanage...
+Dialogue: 0,0:04:20.07,0:04:22.40,italics,Anya,0,0,0,,Papa's real job is a spy.
+Dialogue: 0,0:04:22.40,0:04:25.20,italics,Anya,0,0,0,,Today, he went to take down an arms dealer.
+Dialogue: 0,0:04:25.20,0:04:27.62,italics,Narrator,0,0,0,,...is an Esper who can read minds.
+Dialogue: 0,0:04:30.20,0:04:31.95,main,Anya,0,0,0,,I bring you my dish!
+Dialogue: 0,0:04:31.95,0:04:34.46,main,Yor,0,0,0,,Thank you very much, Miss Anya.
+Dialogue: 0,0:04:34.87,0:04:37.71,italics,Yor,0,0,0,,Hmm... It's just not washing off...
+Dialogue: 0,0:04:38.29,0:04:41.71,italics,Narrator,0,0,0,,His wife, Yor, who agreed to this arrangement \Nbecause of a common interest...
+Dialogue: 0,0:04:43.01,0:04:46.22,italics,Yor,0,0,0,,I can still smell the blood\N from yesterday's kill.
+Dialogue: 0,0:04:46.22,0:04:48.26,italics,Narrator,0,0,0,,...is a hardcore assassin.
+Dialogue: 0,0:04:48.55,0:04:51.85,italics,Narrator,0,0,0,,A spy, a telepath, and an assassin.
+Dialogue: 0,0:04:52.27,0:04:54.64,italics,Narrator,0,0,0,,The three decided to live under one roof
+Dialogue: 0,0:04:54.64,0:04:57.40,italics,Narrator,0,0,0,,for their own reasons while \Nconcealing their true identities,
+Dialogue: 0,0:04:57.40,0:05:01.65,italicstop,Narrator,0,0,0,,and so their less-than-mundane\Nfamily life continues on.
+Dialogue: 0,0:04:57.40,0:05:01.65,sign_6041_79_OPERATION_STRIX,,0,0,0,,{\pos(436,285)}PENGUIN PARK
+Dialogue: 0,0:05:02.44,0:05:07.36,italics,Loid,0,0,0,,I keep getting all these extra missions \Nevery day, on top of Operation Strix.
+Dialogue: 0,0:05:07.82,0:05:11.08,italics,Loid,0,0,0,,HQ must be in dire straits \Nover the personnel shortage.
+Dialogue: 0,0:05:12.04,0:05:14.66,italics,Loid,0,0,0,,When I get home, I have my\N pretend family to deal with.
+Dialogue: 0,0:05:15.12,0:05:19.08,italics,Loid,0,0,0,,I am an agent. Therefore, \Nmy soul has no time to rest.
+Dialogue: 0,0:05:22.42,0:05:25.76,main,Wife A,0,0,0,,Hey, don't you think the husband \Nacross the hall must be in trouble?
+Dialogue: 0,0:05:27.05,0:05:30.93,main,Wife A,0,0,0,,It's supposed to be a day off, but he's \Nworking late into the night again.
+Dialogue: 0,0:05:31.35,0:05:32.93,italics,Loid,0,0,0,,They're our neighbors...
+Dialogue: 0,0:05:33.18,0:05:37.10,main,Wife B,0,0,0,,And they have a little child. \NThat poor, neglected thing.
+Dialogue: 0,0:05:37.10,0:05:40.06,main,Wife C,0,0,0,,I rarely see the three of them together.
+Dialogue: 0,0:05:40.06,0:05:42.19,main,Wife B,0,0,0,,He's probably off cheating somewhere!
+Dialogue: 0,0:05:42.19,0:05:43.50,main,Wife B,0,0,0,,How awful!
+Dialogue: 0,0:05:43.50,0:05:47.70,main,Wife A,0,0,0,,Maybe he actually got fired, \Nand he can't bring himself to go home.
+Dialogue: 0,0:05:48.78,0:05:50.62,italics,Loid,0,0,0,,I was careless.
+Dialogue: 0,0:05:50.62,0:05:52.70,italics,Loid,0,0,0,,I was so consumed by my other missions
+Dialogue: 0,0:05:52.70,0:05:55.25,italics,Loid,0,0,0,,that I neglected playing \Nthe role of the father well.
+Dialogue: 0,0:05:57.79,0:06:01.79,italics,Loid,0,0,0,,Even the slightest suspicion or mistrust \Nfrom those around us in a deception operation
+Dialogue: 0,0:06:01.79,0:06:02.92,italics,Loid,0,0,0,,can be detrimental.
+Dialogue: 0,0:06:03.30,0:06:05.67,italics,Loid,0,0,0,,I must do everything I can \Nto remedy this situation.
+Dialogue: 0,0:06:06.72,0:06:09.30,italics,Loid,0,0,0,,A threat to our family is \Na threat to the world!
+Dialogue: 0,0:06:10.22,0:06:12.30,main,Loid,0,0,0,,We're going out next weekend!
+Dialogue: 0,0:06:15.02,0:06:18.31,main,Loid,0,0,0,,The three of us will have a good time. \NWhere do we want to go?
+Dialogue: 0,0:06:19.35,0:06:21.81,main,Loid,0,0,0,,Oh? Is that a penguin, Anya?
+Dialogue: 0,0:06:22.19,0:06:25.07,main,Loid,0,0,0,,I know. Let's go to the aquarium.
+Dialogue: 0,0:06:25.44,0:06:29.82,main,Yor,0,0,0,,Um... You seem exhausted. \NWhy not get some rest?
+Dialogue: 0,0:06:30.11,0:06:33.99,main,Loid,0,0,0,,Yor, in order for our pretend \Nmarriage to continue,
+Dialogue: 0,0:06:33.99,0:06:37.00,main,Loid,0,0,0,,we must do everything we can to \Nseem like a normal, happy family.
+Dialogue: 0,0:06:37.54,0:06:40.58,main,Loid,0,0,0,,So look forward to the weekend!
+Dialogue: 0,0:06:40.58,0:06:41.83,main,Anya,0,0,0,,So exciting!
+Dialogue: 0,0:06:42.33,0:06:46.30,italics,Loid,0,0,0,,I need to take care of all of \Nmy other missions before then.
+Dialogue: 0,0:06:55.35,0:06:57.10,main,Loid,0,0,0,,Well... let's go.
+Dialogue: 0,0:06:58.23,0:07:01.85,main,Yor,0,0,0,,Loid, perhaps you really \Nshould get some rest.
+Dialogue: 0,0:07:01.85,0:07:03.19,main,Loid,0,0,0,,I'm perfectly fine.
+Dialogue: 0,0:07:03.69,0:07:05.61,main,Wife C,0,0,0,,Oh, if it isn't the Forgers.
+Dialogue: 0,0:07:05.61,0:07:07.86,main,Wife C,0,0,0,,It's so rare to see all of you together.
+Dialogue: 0,0:07:09.36,0:07:12.49,main,Loid,0,0,0,,We're about to go enjoy some \Ntime together at the aquarium.
+Dialogue: 0,0:07:12.49,0:07:14.12,main,Loid,0,0,0,,Isn't that exciting, Anya?
+Dialogue: 0,0:07:14.12,0:07:15.37,main,Wife D,0,0,0,,I see...
+Dialogue: 0,0:07:16.08,0:07:19.50,italics,Loid,0,0,0,,We need to show our neighbors \Nwhat a happy family we are
+Dialogue: 0,0:07:19.50,0:07:23.63,italics,Loid,0,0,0,,so they don't ever suspect \Nthat we're a pretend family.
+Dialogue: 0,0:07:24.29,0:07:26.71,main,Anya,0,0,0,,My papa, who is taking us on an ooting,
+Dialogue: 0,0:07:26.71,0:07:30.22,main,Anya,0,0,0,,and my mama, who is very kind to \Nmy papa, are both very good people.
+Dialogue: 0,0:07:30.59,0:07:33.63,main,Anya,0,0,0,,I think our family is completely normal.
+Dialogue: 0,0:07:34.80,0:07:37.72,italics,Loid,0,0,0,,That sounded more like an explanation \Nthan anything else, but good enough.
+Dialogue: 0,0:07:39.77,0:07:40.39,main,Loid,0,0,0,,Now, then...
+Dialogue: 0,0:07:41.06,0:07:43.02,main,Loid,0,0,0,,If you'll excuse us.
+Dialogue: 0,0:07:43.02,0:07:46.11,main,Anya,0,0,0,,Please wait, Papa, who is a \Nvery good and normal person!
+Dialogue: 0,0:07:49.11,0:07:50.82,main,Anya,0,0,0,,Ba-donk ka-chonk!
+Dialogue: 0,0:07:54.16,0:07:57.53,italics,Loid,0,0,0,,Another summons? \NI have a bad feeling about this.
+Dialogue: 0,0:07:58.33,0:08:00.12,main,Loid,0,0,0,,I'm going to go buy us some drinks.
+Dialogue: 0,0:08:00.12,0:08:00.91,main,Yor,0,0,0,,All right.
+Dialogue: 0,0:08:06.46,0:08:10.38,main,Old woman,0,0,0,,Agent Twilight, we've got another \Nadditional mission for you tod—
+Dialogue: 0,0:08:10.38,0:08:11.63,main,Loid,0,0,0,,I cannot.
+Dialogue: 0,0:08:14.51,0:08:16.14,main,Old Woman,0,0,0,,This is straight from WISE HQ—
+Dialogue: 0,0:08:16.14,0:08:20.47,main,Loid,0,0,0,,I cannot. Today is a very \Nimportant day for Operation Strix.
+Dialogue: 0,0:08:20.47,0:08:21.64,main,Anya,0,0,0,,Papa!
+Dialogue: 0,0:08:21.64,0:08:25.31,main,Anya,0,0,0,,We need to hurry, or the \Naquarium will go out of business!
+Dialogue: 0,0:08:25.31,0:08:27.61,main,Loid,0,0,0,,Don't worry, they just remodeled the place.
+Dialogue: 0,0:08:27.61,0:08:28.65,main,Loid,0,0,0,,Just wait patiently.
+Dialogue: 0,0:08:29.19,0:08:30.78,main,Loid,0,0,0,,There you have it.
+Dialogue: 0,0:08:30.78,0:08:32.86,main,Loid,0,0,0,,Anyway, I'll take one coffee, one juice—
+Dialogue: 0,0:08:32.86,0:08:34.41,main,Old woman,0,0,0,,Hang on! Did you say "aquarium"?
+Dialogue: 0,0:08:34.91,0:08:37.12,main,Old woman,0,0,0,,Splendid, Agent Twilight.
+Dialogue: 0,0:08:37.12,0:08:41.00,main,Old woman,0,0,0,,The location of this mission just \Nhappens to be Berlint Aquarium!
+Dialogue: 0,0:08:41.00,0:08:43.79,main,Old woman,0,0,0,,I am blown away at how prepared you are!
+Dialogue: 0,0:08:43.79,0:08:45.67,main,Loid,0,0,0,,No, really. This was a coincidence.
+Dialogue: 0,0:08:45.67,0:08:47.63,main,Loid,0,0,0,,Could I get that coffee and juice now?
+Dialogue: 0,0:08:47.63,0:08:50.75,main,Old woman,0,0,0,,There will be some intel\N traded at the aquarium—
+Dialogue: 0,0:08:50.75,0:08:51.93,main,Loid,0,0,0,,My coffee and juice, please.
+Dialogue: 0,0:08:52.38,0:08:53.84,main,Old woman,0,0,0,,Listen to me carefully, Twilight.
+Dialogue: 0,0:08:53.84,0:08:58.60,main,Old woman,0,0,0,,This intel contains instructions from another\N country for making a new chemical weapon.
+Dialogue: 0,0:08:58.60,0:09:01.17,main,Old woman,0,0,0,,If terrorists get their \Nhands on this information,
+Dialogue: 0,0:09:01.17,0:09:05.44,main,Old woman,0,0,0,,many will perish in our country!
+Dialogue: 0,0:09:11.82,0:09:14.45,main,Anya,0,0,0,,So many... fishies!
+Dialogue: 0,0:09:14.74,0:09:15.99,main,Anya,0,0,0,,An octopus!
+Dialogue: 0,0:09:15.99,0:09:17.11,main,Anya,0,0,0,,Starfish.
+Dialogue: 0,0:09:17.11,0:09:18.74,main,Anya,0,0,0,,A tiny shark!
+Dialogue: 0,0:09:19.20,0:09:20.91,main,Yor,0,0,0,,She looks like she's having fun.
+Dialogue: 0,0:09:21.54,0:09:22.45,main,Yor,0,0,0,,Loid...
+Dialogue: 0,0:09:22.70,0:09:25.62,main,Yor,0,0,0,,You look so pale. Are you all right?
+Dialogue: 0,0:09:26.67,0:09:29.54,italics,Loid,0,0,0,,I ended up taking the mission.
+Dialogue: 0,0:09:29.54,0:09:34.76,italics,Loid,0,0,0,,But we did successfully show the \Nneighbors how well we get along.
+Dialogue: 0,0:09:34.76,0:09:37.47,italics,Loid,0,0,0,,As long as I can get through \Nthis separate mission...
+Dialogue: 0,0:09:37.47,0:09:40.97,main,Wife A,0,0,0,,Oh, if it isn't the Forgers \Nfrom across the hall.
+Dialogue: 0,0:09:40.97,0:09:42.47,main,Wife A,0,0,0,,What a coincidence.
+Dialogue: 0,0:09:42.68,0:09:43.68,main,Yor,0,0,0,,Oh, hello.
+Dialogue: 0,0:09:43.68,0:09:45.39,italics,Loid,0,0,0,,You can't... be serious!
+Dialogue: 0,0:09:45.73,0:09:47.73,main,Wife A,0,0,0,,We just got here, too.
+Dialogue: 0,0:09:47.73,0:09:50.19,italics,Loid,0,0,0,,Now I definitely can't relax.
+Dialogue: 0,0:09:50.19,0:09:52.48,italics,Loid,0,0,0,,Actually, we just need \Nto shoo them off, and—
+Dialogue: 0,0:09:52.48,0:09:54.36,main,Yor,0,0,0,,Would you like to join us?
+Dialogue: 0,0:09:54.36,0:09:55.86,italics,Loid,0,0,0,,Yor!
+Dialogue: 0,0:09:55.86,0:09:57.11,main,Wife A,0,0,0,,What a great idea.
+Dialogue: 0,0:09:57.53,0:09:58.95,italics,Anya,0,0,0,,Papa is funny.
+Dialogue: 0,0:09:59.20,0:10:01.20,italics,Yor,0,0,0,,If we want to appear normal,
+Dialogue: 0,0:10:01.20,0:10:03.70,italics,Yor,0,0,0,,we need to keep up a good \Nrelationship with our neighbors.
+Dialogue: 0,0:10:04.95,0:10:06.21,italics,Loid,0,0,0,,Very well, then.
+Dialogue: 0,0:10:06.21,0:10:09.42,italics,Loid,0,0,0,,I'll take care of this mission immediately, \Nand then return to weekend mode.
+Dialogue: 0,0:10:09.92,0:10:12.00,flashback italics,Old woman,0,0,0,,According to our intel,
+Dialogue: 0,0:10:12.00,0:10:18.34,flashback,Old woman,0,0,0,,they smuggled in a capsule containing \Nfilm by making a penguin swallow it.
+Dialogue: 0,0:10:18.34,0:10:20.01,flashback,Loid,0,0,0,,Why a penguin?
+Dialogue: 0,0:10:20.01,0:10:22.43,flashback,Old woman,0,0,0,,It was brought in sometime \Nyesterday at an unknown time.
+Dialogue: 0,0:10:22.43,0:10:24.60,flashback,Old woman,0,0,0,,The recipient has not appeared yet.
+Dialogue: 0,0:10:24.60,0:10:28.10,flashback,Old woman,0,0,0,,You must retrieve the goods before the \Nenemy organization does, no matter what!
+Dialogue: 0,0:10:29.35,0:10:32.02,main,Loid,0,0,0,,Why don't we check out the penguin exhibit?\NIt seems to be the main attraction.
+Dialogue: 0,0:10:32.02,0:10:33.23,main,Wife A and B,0,0,0,,Okay.
+Dialogue: 0,0:10:33.23,0:10:35.78,main,Anya,0,0,0,,I like penguins! I wanna see!
+Dialogue: 0,0:10:38.65,0:10:43.37,italics,Announcer,0,0,0,,Welcome to the world's biggest penguin park!
+Dialogue: 0,0:10:43.37,0:10:45.87,main,Anya,0,0,0,,P-P-P-Penguins!
+Dialogue: 0,0:10:45.87,0:10:49.87,italicstop,Announcer,0,0,0,,Our most recommended \Nattraction at this aquarium
+Dialogue: 0,0:10:49.87,0:10:52.96,italicstop,Announcer,0,0,0,,is our adorable underwater show \Nthat stars 200 penguins!
+Dialogue: 0,0:10:50.58,0:10:53.38,italics,Loid,0,0,0,,Exactly which penguin is my target?
+Dialogue: 0,0:10:53.75,0:10:56.63,italics,Loid,0,0,0,,There's no time to check \Neach and every penguin.
+Dialogue: 0,0:10:57.13,0:11:01.26,italics,Loid,0,0,0,,I'd have a better chance of stopping the \Nterrorist from obtaining the film...
+Dialogue: 0,0:11:01.93,0:11:06.31,italics,Loid,0,0,0,,No... Since I don't know when \Nthe recipient is going to show up,
+Dialogue: 0,0:11:06.31,0:11:07.56,italics,Loid,0,0,0,,that'll be difficult, as well.
+Dialogue: 0,0:11:08.73,0:11:12.69,italics,Loid,0,0,0,,I won't be able to keep an eye \Non all of these penguins alone.
+Dialogue: 0,0:11:14.19,0:11:15.15,italics,Loid,0,0,0,,What am I going to do?
+Dialogue: 0,0:11:15.57,0:11:17.90,italics,Loid,0,0,0,,There has to be something...
+Dialogue: 0,0:11:17.90,0:11:20.70,italics,Loid,0,0,0,,They must've marked the penguin somehow \Nto tell it apart from the others.
+Dialogue: 0,0:11:20.70,0:11:22.32,italics,Anya,0,0,0,,Papa is troubled.
+Dialogue: 0,0:11:23.24,0:11:27.16,italics,Yor,0,0,0,,Loid is so enthusiastic. I guess he lets\N his inner child out sometimes, too.
+Dialogue: 0,0:11:31.37,0:11:34.04,italics,Man's voice A,0,0,0,,Hey, that fish looks tasty.
+Dialogue: 0,0:11:32.79,0:11:34.84,italicstop,Woman's voice,0,0,0,,Wait, where did my kid go?!
+Dialogue: 0,0:11:34.34,0:11:37.17,italics,Man's voice B,0,0,0,,I hope my girlfriend stops being so angry.
+Dialogue: 0,0:11:42.76,0:11:44.47,italicstop,Penguin's voice A,0,0,0,,Fish...
+Dialogue: 0,0:11:43.89,0:11:47.18,italics,Anya,0,0,0,,It's hard to read the minds of penguins.
+Dialogue: 0,0:11:44.47,0:11:46.10,italicstop,Penguin's voice B,0,0,0,,Let's play.
+Dialogue: 0,0:11:46.10,0:11:47.43,italicstop,Penguin's voice C,0,0,0,,I'mma eat some fish.
+Dialogue: 0,0:11:47.43,0:11:48.72,italicstop,Penguin's voice D,0,0,0,,I'm hungry.
+Dialogue: 0,0:11:48.72,0:11:50.39,italicstop,Penguin's voice E,0,0,0,,Come over here.
+Dialogue: 0,0:11:52.85,0:11:56.44,main,Anya,0,0,0,,Papa, that penguin looks like it can't breathe.
+Dialogue: 0,0:11:57.44,0:12:00.32,italics,Loid,0,0,0,,It's drinking a lot of water \Nonly to spit it all back out.
+Dialogue: 0,0:12:00.65,0:12:03.70,italics,Loid,0,0,0,,It's possible there's something\N stuck in its throat.
+Dialogue: 0,0:12:03.70,0:12:05.95,italics,Loid,0,0,0,,This is definitely worth investigating.
+Dialogue: 0,0:12:06.66,0:12:09.16,main,Loid,0,0,0,,Sorry. I'm going to go buy \Nsome drinks real quick.
+Dialogue: 0,0:12:10.08,0:12:14.33,italics,Yor,0,0,0,,Loid... His exhaustion must \Nbe making him so thirsty.
+Dialogue: 0,0:12:15.17,0:12:17.96,main,Chief,0,0,0,,Hey! Where's the new guy \Nwe're supposed to get today?
+Dialogue: 0,0:12:17.96,0:12:19.76,main,Chief,0,0,0,,He's this late on his first day?
+Dialogue: 0,0:12:19.76,0:12:21.80,main,Loid,0,0,0,,Sorry I'm late!
+Dialogue: 0,0:12:21.80,0:12:24.39,main,Chief,0,0,0,,What's wrong with you young'uns today?
+Dialogue: 0,0:12:25.80,0:12:28.47,main,Chief,0,0,0,,I'll show you how to feed \Nthe penguins. Follow me.
+Dialogue: 0,0:12:28.47,0:12:29.47,main,Loid,0,0,0,,Yes, sir!
+Dialogue: 0,0:12:30.18,0:12:33.60,italicstop,Loid,0,0,0,,The fastest way to get closer to the target \Npenguin without causing a commotion
+Dialogue: 0,0:12:33.60,0:12:36.23,italicstop,Loid,0,0,0,,is to disguise myself as \None of the aquarists.
+Dialogue: 0,0:12:34.40,0:12:37.23,sign_5970_48_The_State_Securi,Sign,0,0,0,,{\pos(320,290)\fs28\bord1\c&H000000&\3c&HFFFFFF&}Agent Twilight's Specialty: Disguises
+Dialogue: 0,0:12:40.36,0:12:44.99,main,Chief,0,0,0,,The first thing a newbie has to learn \Nis all of the penguins' faces and names.
+Dialogue: 0,0:12:45.36,0:12:47.70,main,Chief,0,0,0,,Did you memorize the roster?
+Dialogue: 0,0:12:47.70,0:12:51.00,main,Loid,0,0,0,,Yes. I glanced through it \Nquickly in the staff room.
+Dialogue: 0,0:12:51.00,0:12:53.21,main,Chief,0,0,0,,You glanced through? You moron!
+Dialogue: 0,0:12:53.21,0:12:57.08,main,Chief,0,0,0,,Even with me, it took two \Nyears to learn all 200...
+Dialogue: 0,0:12:55.83,0:12:59.42,top,Loid,0,0,0,,Oh, Chief. You're about to step \Non poor Petilda behind you.
+Dialogue: 0,0:13:03.26,0:13:05.51,main,Chief,0,0,0,,This is indeed Petilda.
+Dialogue: 0,0:13:05.84,0:13:09.51,main,Loid,0,0,0,,This one is Pemas, and this is Pescar.
+Dialogue: 0,0:13:10.31,0:13:12.52,main,Chief,0,0,0,,How can you tell, newbie?
+Dialogue: 0,0:13:12.77,0:13:16.44,main,Loid,0,0,0,,Huh? Well, all of their patterns \Nare completely different.
+Dialogue: 0,0:13:16.44,0:13:17.77,main,Loid,0,0,0,,Their faces and heights, too.
+Dialogue: 0,0:13:18.81,0:13:21.98,italics,Chief,0,0,0,,Even I still mistake them \Nevery once in a while.
+Dialogue: 0,0:13:21.98,0:13:24.79,italics,Chief,0,0,0,,I can't believe this guy's \Nobservation skills and memory.
+Dialogue: 0,0:13:24.79,0:13:27.99,main,Chief,0,0,0,,All right, then. Let's get to feeding them.
+Dialogue: 0,0:13:27.99,0:13:28.95,main,Chief,0,0,0,,This way.
+Dialogue: 0,0:13:31.95,0:13:34.79,italics,Loid,0,0,0,,The penguin I spotted earlier is...
+Dialogue: 0,0:13:35.87,0:13:38.79,italics,Loid,0,0,0,,Right there. Parles, the emperor penguin.
+Dialogue: 0,0:13:38.79,0:13:40.63,italics,Loid,0,0,0,,I need to get to him immediately and...
+Dialogue: 0,0:13:40.63,0:13:42.46,italics,Loid,0,0,0,,Wh-Wha?!
+Dialogue: 0,0:13:42.46,0:13:43.80,italics,Loid,0,0,0,,I-I can't go any further.
+Dialogue: 0,0:13:44.09,0:13:46.22,main,Chief,0,0,0,,We've got big eaters and fussy eaters.
+Dialogue: 0,0:13:46.22,0:13:49.35,main,Chief,0,0,0,,Each penguin has unique \Neating habits, so pay attention.
+Dialogue: 0,0:13:49.80,0:13:51.93,italics,Loid,0,0,0,,I don't have time for this.
+Dialogue: 0,0:13:51.93,0:13:54.02,italics,Loid,0,0,0,,I need to hurry back, or the \Nneighbors will be suspicious.
+Dialogue: 0,0:13:54.02,0:13:54.81,main,Loid,0,0,0,,Chief!
+Dialogue: 0,0:13:55.14,0:13:56.77,main,Loid,0,0,0,,Allow me to do the honors!
+Dialogue: 0,0:13:56.77,0:13:57.56,main,Chief and Aquarist,0,0,0,,What?
+Dialogue: 0,0:13:58.69,0:14:01.57,italics,Loid,0,0,0,,I figured this out watching \Nveteran aquarists...
+Dialogue: 0,0:14:01.57,0:14:04.57,italics,Loid,0,0,0,,The most important thing \Nis how each penguin eats.
+Dialogue: 0,0:14:04.86,0:14:07.32,italics,Loid,0,0,0,,How much they eat, what kind of food it is,
+Dialogue: 0,0:14:07.32,0:14:09.66,italics,Loid,0,0,0,,and where each group is located.
+Dialogue: 0,0:14:10.07,0:14:12.49,italics,Loid,0,0,0,,As long as I can figure these things out...
+Dialogue: 0,0:14:19.83,0:14:23.09,italics,Loid,0,0,0,,Controlling the masses is mere child's play.
+Dialogue: 0,0:14:23.09,0:14:25.96,main,Chief,0,0,0,,That's no ordinary newbie!
+Dialogue: 0,0:14:28.47,0:14:32.30,main,Loid,0,0,0,,Uh-oh. Apparently Parles isn't very hungry.
+Dialogue: 0,0:14:32.68,0:14:35.93,main,Loid,0,0,0,,He might be sick, so I'll take \Nhim to the treatment room.
+Dialogue: 0,0:14:36.73,0:14:38.19,main,Loid,0,0,0,,If you'll excuse me for a bit.
+Dialogue: 0,0:14:38.19,0:14:39.73,main,Chief,0,0,0,,S-Sure...
+Dialogue: 0,0:14:41.94,0:14:43.73,main,Loid,0,0,0,,Sorry, little guy.
+Dialogue: 0,0:14:46.61,0:14:49.82,italics,Loid,0,0,0,,Bingo! There's something \Nstuck in his throat.
+Dialogue: 0,0:14:50.41,0:14:53.78,italics,Loid,0,0,0,,Upon closer observation, it seems there's \Na mark on the bottom of his foot, too.
+Dialogue: 0,0:14:54.12,0:14:57.00,main,Loid,0,0,0,,Just a second, little guy. \NI'll get it out for you.
+Dialogue: 0,0:14:57.41,0:14:58.50,main,Man from Org,0,0,0,,You there.
+Dialogue: 0,0:14:59.08,0:15:01.75,main,Man from Org,0,0,0,,What are you planning to \Ndo with that penguin?
+Dialogue: 0,0:15:03.29,0:15:06.26,main,Loid,0,0,0,,He's not feeling well, so I'm \Ntaking him to the treatment room.
+Dialogue: 0,0:15:06.51,0:15:09.88,main,Man from Org,0,0,0,,I see. Allow me to do that for you.
+Dialogue: 0,0:15:09.88,0:15:14.43,main,Loid,0,0,0,,I'm terribly sorry. Only staff \Nare allowed to handle them.
+Dialogue: 0,0:15:14.43,0:15:15.76,main,Man from Org,0,0,0,,My apologies.
+Dialogue: 0,0:15:17.77,0:15:22.69,main,Man from Org,0,0,0,,I'm a professor from Berlint University's\N marine biology research lab.
+Dialogue: 0,0:15:22.69,0:15:25.77,main,Man from Org,0,0,0,,I'm in charge of the marine animals here.
+Dialogue: 0,0:15:35.03,0:15:37.83,main,Loid,0,0,0,,This ID is fake.
+Dialogue: 0,0:15:37.83,0:15:39.29,main,Loid,0,0,0,,It's not even well-made.
+Dialogue: 0,0:15:40.33,0:15:41.54,main,Man from Org,0,0,0,,Who do you work for, you—
+Dialogue: 0,0:15:43.88,0:15:45.00,main,Loid,0,0,0,,You're not getting away!
+Dialogue: 0,0:15:46.13,0:15:47.84,main,Loid,0,0,0,,Hey, be still!
+Dialogue: 0,0:15:47.84,0:15:48.88,main,Chief,0,0,0,,Hey, newbie!
+Dialogue: 0,0:15:49.34,0:15:51.55,main,Chief,0,0,0,,Where are you taking that penguin?
+Dialogue: 0,0:15:51.55,0:15:53.39,main,Chief,0,0,0,,The treatment room is that way!
+Dialogue: 0,0:15:54.93,0:15:58.97,italics,Loid,0,0,0,,I can't carelessly let him go without \Nknowing how many enemies are here.
+Dialogue: 0,0:16:00.02,0:16:02.77,italics,Loid,0,0,0,,My top priority is retrieving this film.
+Dialogue: 0,0:16:02.77,0:16:05.06,italics,Loid,0,0,0,,I'll have to give up on chasing after him.
+Dialogue: 0,0:16:09.07,0:16:11.74,main,Yor,0,0,0,,Oh, no... Now where did \NMiss Anya run off to?
+Dialogue: 0,0:16:14.91,0:16:18.12,italics,Man from Org,0,0,0,,I need to let my comrades \Noutside know to kill that man,
+Dialogue: 0,0:16:18.12,0:16:19.45,italics,Man from Org,0,0,0,,and retrieve the film—
+Dialogue: 0,0:16:22.21,0:16:24.00,main,Man from Org,0,0,0,,Who the hell are you?!
+Dialogue: 0,0:16:23.00,0:16:25.96,main,Anya,0,0,0,,Mama! I'm being kidnapped!
+Dialogue: 0,0:16:25.96,0:16:26.75,main,Yor,0,0,0,,Miss Anya?!
+Dialogue: 0,0:16:27.21,0:16:28.50,main,Man from Org,0,0,0,,Let go of me!
+Dialogue: 0,0:16:28.50,0:16:29.88,main,Man from Org,0,0,0,,What are you talking ab—
+Dialogue: 0,0:16:30.42,0:16:31.63,main,Yor,0,0,0,,What do you think...
+Dialogue: 0,0:16:33.13,0:16:35.22,main,Yor,0,0,0,,you're doing to my daughter?!
+Dialogue: 0,0:16:36.76,0:16:37.47,main,Anya,0,0,0,,Wow.
+Dialogue: 0,0:16:37.47,0:16:38.97,main,Yor,0,0,0,,Are you all right?
+Dialogue: 0,0:16:39.77,0:16:42.98,italics,Yor,0,0,0,,Oh, no. I definitely overdid it.
+Dialogue: 0,0:16:43.23,0:16:44.94,italics,Yor,0,0,0,,I hope he's not dead...
+Dialogue: 0,0:16:45.56,0:16:46.48,main,Loid,0,0,0,,Wow.
+Dialogue: 0,0:16:46.73,0:16:49.53,italics,Narrator,0,0,0,,And so, Twilight was able to retrieve the film
+Dialogue: 0,0:16:49.53,0:16:53.15,italics,Narrator,0,0,0,,and get information about the enemy \Norganization from the man they captured.
+Dialogue: 0,0:16:54.57,0:16:58.74,main,Wife A,0,0,0,,You know, your husband \Nhasn't come back at all.
+Dialogue: 0,0:16:58.74,0:17:00.91,main,Wife A,0,0,0,,I'm telling you, he's cheating!
+Dialogue: 0,0:17:00.91,0:17:02.00,main,Wife,0,0,0,,How awful!
+Dialogue: 0,0:17:02.29,0:17:04.87,main,Yor,0,0,0,,Huh? That's not...
+Dialogue: 0,0:17:04.87,0:17:07.17,main,Loid,0,0,0,,I'm sorry I took so long!
+Dialogue: 0,0:17:07.17,0:17:08.25,main,Yor,0,0,0,,Loid!
+Dialogue: 0,0:17:08.54,0:17:09.63,main,Loid,0,0,0,,Ta-da!
+Dialogue: 0,0:17:09.63,0:17:11.13,main,Anya,0,0,0,,A penguin!
+Dialogue: 0,0:17:11.13,0:17:14.00,main,Yor,0,0,0,,Oh, what a big stuffed penguin!\N Where did you get it?
+Dialogue: 0,0:17:14.55,0:17:18.26,main,Loid,0,0,0,,It was a prize from the penguin name-guessing\N challenge they were doing over there.
+Dialogue: 0,0:17:18.55,0:17:22.93,main,Loid,0,0,0,,I just had to get it for Anya,\N so I kept trying over and over.
+Dialogue: 0,0:17:23.52,0:17:25.52,main,Loid,0,0,0,,Boy, it sure was difficult.
+Dialogue: 0,0:17:25.89,0:17:29.77,italics,Anya,0,0,0,,Papa is a liar. He actually got it in one try.
+Dialogue: 0,0:17:31.11,0:17:33.78,italics,Yor,0,0,0,,He got so worked up. How adorable.
+Dialogue: 0,0:17:33.78,0:17:37.28,main,Wife A,0,0,0,,You're a better father than I thought.
+Dialogue: 0,0:17:37.28,0:17:38.78,main,Wife A,0,0,0,,I'm impressed.
+Dialogue: 0,0:17:39.07,0:17:40.95,main,Loid,0,0,0,,You flatter me.
+Dialogue: 0,0:17:41.83,0:17:46.04,main,Loid,0,0,0,,I'm just a simple father trying \Nnot to stumble around too much
+Dialogue: 0,0:17:44.16,0:17:46.04,top,Yor,0,0,0,,It's bigger than you, Miss Anya.
+Dialogue: 0,0:17:47.42,0:17:49.29,main,Loid,0,0,0,,as I protect my happy little family.
+Dialogue: 0,0:17:50.88,0:17:53.80,main,Wife A,0,0,0,,Now that I've gotten a closer look \Nat you, you're quite handsome.
+Dialogue: 0,0:17:54.72,0:17:58.14,italics,Loid,0,0,0,,Looks like things are going \Nto work out here, too.
+Dialogue: 0,0:17:58.68,0:18:02.85,italics,Loid,0,0,0,,But I'm absolutely done with \Nall this excessive overwork.
+Dialogue: 0,0:18:03.77,0:18:07.81,italics,Loid,0,0,0,,I'm going to file a complaint to \NHQ and request a long vaca—
+Dialogue: 0,0:18:10.77,0:18:11.82,italics,Loid,0,0,0,,No...
+Dialogue: 0,0:18:12.23,0:18:14.20,italics,Loid,0,0,0,,Maintaining a world where \Nchildren don't cry...
+Dialogue: 0,0:18:14.82,0:18:17.49,italics,Loid,0,0,0,,A world with no war...
+Dialogue: 0,0:18:17.49,0:18:18.61,italics,Loid,0,0,0,,That is my duty.
+Dialogue: 0,0:18:19.24,0:18:21.41,italics,Loid,0,0,0,,I have no time to stand by idly.
+Dialogue: 0,0:18:21.41,0:18:24.29,main,Anya,0,0,0,,Papa! The dolphin show is gonna start!
+Dialogue: 0,0:18:24.29,0:18:27.33,main,Loid,0,0,0,,Sorry, could you walk a little slower?
+Dialogue: 0,0:18:29.83,0:18:31.79,main,Newbie aquarist,0,0,0,,What?! You want me to be the chief?!
+Dialogue: 0,0:18:31.79,0:18:33.17,main,Newbie aquarist,0,0,0,,But why?!
+Dialogue: 0,0:18:33.17,0:18:36.22,main,Chief,0,0,0,,I have nothing more to teach you.
+Dialogue: 0,0:18:43.39,0:18:47.77,main,Chimera (Anya),0,0,0,,I am Director Chimera, the boss \Nof the secret organization P2.
+Dialogue: 0,0:18:47.77,0:18:51.31,main,Chimera,0,0,0,,So you're the new recruit, eh?
+Dialogue: 0,0:18:51.77,0:18:54.94,main,Penguin (Anya),0,0,0,,I am called Penguin, please, \Nand I come from the aquarium.
+Dialogue: 0,0:18:55.73,0:18:58.15,main,Penguin,0,0,0,,It is a pweasure to meet \Nyour acquaintenance.
+Dialogue: 0,0:18:58.15,0:18:58.94,main,Chimera,0,0,0,,Indeed.
+Dialogue: 0,0:18:59.32,0:19:02.16,main,Chimera,0,0,0,,Agent Anya, you know what to do.
+Dialogue: 0,0:19:02.16,0:19:02.87,main,Anya,0,0,0,,Yep!
+Dialogue: 0,0:19:10.62,0:19:14.21,main,Chimera,0,0,0,,We have a ritual in which we both \Neat the halves of a split peanut.
+Dialogue: 0,0:19:14.21,0:19:16.05,main,Chimera,0,0,0,,Once you have completed this task,
+Dialogue: 0,0:19:16.05,0:19:19.23,main,Chimera,0,0,0,,you will be officially recognized \Nas a member of this organization.
+Dialogue: 0,0:19:22.93,0:19:23.76,main,Anya,0,0,0,,Om...
+Dialogue: 0,0:19:24.68,0:19:28.10,main,Chimera,0,0,0,,Starting today, you will be \Nknown as Agent Penguinman.
+Dialogue: 0,0:19:28.10,0:19:30.39,main,Chimera,0,0,0,,Do your best for peace.
+Dialogue: 0,0:19:30.77,0:19:31.48,main,Penguin,0,0,0,,Yep.
+Dialogue: 0,0:19:32.48,0:19:38.15,main,Chimera,0,0,0,,Agent Anya, show our new \Nagent around our hideout.
+Dialogue: 0,0:19:38.15,0:19:39.61,main,Anya,0,0,0,,Okey-dokey!
+Dialogue: 0,0:19:45.95,0:19:48.37,main,Anya,0,0,0,,This is our hideout's command room.
+Dialogue: 0,0:19:48.37,0:19:51.62,top,Anya,0,0,0,,We gather intel from this machine every day.
+Dialogue: 0,0:19:51.21,0:19:52.37,sign_5970_48_The_State_Securi,Sign,0,0,0,,{\fad(194,1)\an1\c&HD58D67&\bord0\fs20\fscy120\fnTrebuchet MS\3c&HFFFFFF&\bord2\pos(74,315)}* She watches cartoons
+Dialogue: 0,0:19:52.71,0:19:57.30,main,Anya,0,0,0,,This is Agent Papa. He is a \Nsuper-elite that can do anything.
+Dialogue: 0,0:19:57.30,0:19:59.76,italics,Loid,0,0,0,,Um... what? Is she pretending to be a spy?
+Dialogue: 0,0:20:00.80,0:20:02.93,main,Anya,0,0,0,,This is Agent Mama.
+Dialogue: 0,0:20:02.93,0:20:05.10,main,Anya,0,0,0,,She's strong, but fails at everything else.
+Dialogue: 0,0:20:05.10,0:20:07.01,main,Yor,0,0,0,,Am I that much of a failure?!
+Dialogue: 0,0:20:07.51,0:20:10.39,main,Anya,0,0,0,,They are Anya's trusted lackeys.
+Dialogue: 0,0:20:10.89,0:20:12.69,main,Anya,0,0,0,,Okay, onward to the next spot.
+Dialogue: 0,0:20:16.32,0:20:20.19,main,Yor,0,0,0,,It looks like Miss Anya has taken \Nquite a liking to that plushie.
+Dialogue: 0,0:20:20.19,0:20:21.20,main,Loid,0,0,0,,Mm...
+Dialogue: 0,0:20:25.78,0:20:27.66,main,Anya,0,0,0,,This is the bathroom!
+Dialogue: 0,0:20:27.66,0:20:30.50,main,Anya,0,0,0,,You can heal your wounds from battle here.
+Dialogue: 0,0:20:34.83,0:20:39.21,top,Anya,0,0,0,,This is Anya's room. I train in here every day.
+Dialogue: 0,0:20:39.05,0:20:40.06,sign_5970_48_The_State_Securi,Sign,0,0,0,,{\fad(194,1)\an2\c&HD58D67&\bord0\fs24\fscy120\fsp2\fnTrebuchet MS\3c&HFFFFFF&\bord2\pos(320,290)}* She studies
+Dialogue: 0,0:20:46.18,0:20:47.30,main,Anya,0,0,0,,And...
+Dialogue: 0,0:20:48.85,0:20:52.05,main,Anya,0,0,0,,The most top-secret spots in our hideout.
+Dialogue: 0,0:20:52.05,0:20:54.52,main,Anya,0,0,0,,Papa's room and Mama's room!
+Dialogue: 0,0:20:55.49,0:20:57.27,main,Anya,0,0,0,,Be on your guard.
+Dialogue: 0,0:20:57.27,0:21:00.76,main,Anya,0,0,0,,If you discover the secret of \Nthese rooms, you won't leave alive.
+Dialogue: 0,0:21:00.76,0:21:04.80,italics,Anya,0,0,0,,We might find the ultimate knife,\N or the ultimate bomb!
+Dialogue: 0,0:21:11.26,0:21:12.30,main,Anya,0,0,0,,Now, then...
+Dialogue: 0,0:21:12.53,0:21:14.25,main,Loid,0,0,0,,Hey! What do you think you're doing?!
+Dialogue: 0,0:21:15.17,0:21:18.04,main,Loid,0,0,0,,How many times have I told you not \Nto go in there without permission?!
+Dialogue: 0,0:21:20.64,0:21:24.55,main,Loid,0,0,0,,Er, it's just, there's a lot of dangerous things \Nin there, like scissors and heaters.
+Dialogue: 0,0:21:24.55,0:21:26.94,italics,Loid,0,0,0,,Honestly, there are far more \Ndangerous things in there.
+Dialogue: 0,0:21:26.94,0:21:29.02,main,Yor,0,0,0,,Yes, you shouldn't go in mine, either.
+Dialogue: 0,0:21:29.02,0:21:31.52,italics,Yor,0,0,0,,My room has poisoned needles and such.
+Dialogue: 0,0:21:31.52,0:21:34.32,main,Anya,0,0,0,,Papa and Mama, I hate you both!
+Dialogue: 0,0:21:34.32,0:21:36.51,main,Anya,0,0,0,,Anya's gonna run away from home!
+Dialogue: 0,0:21:37.61,0:21:42.43,italics,Loid,0,0,0,,Not good. At this rate, \NOperation Strix is going to collapse!
+Dialogue: 0,0:21:42.43,0:21:43.44,italics,Loid,0,0,0,,What should I do?
+Dialogue: 0,0:21:47.90,0:21:49.76,main,Loid,0,0,0,,A-Agent Anya!
+Dialogue: 0,0:21:49.76,0:21:53.40,main,Loid,0,0,0,,There's no time for crying! \NWorld peace is on the line!
+Dialogue: 0,0:21:53.61,0:21:58.41,main,Loid,0,0,0,,L-Let's wrap up the tour of the hideout \Nand head out for our next mission!
+Dialogue: 0,0:21:58.41,0:22:02.73,main,Yor,0,0,0,,Y-Yes! Let's go beat the bad guys!
+Dialogue: 0,0:22:05.17,0:22:07.60,main,Anya,0,0,0,,Okay! Follow me, you two!
+Dialogue: 0,0:22:07.60,0:22:10.80,main,Anya,0,0,0,,The bad guys have taken over \Nthe candy store on 2nd Street.
+Dialogue: 0,0:22:10.80,0:22:12.21,main,Anya,0,0,0,,Let's go save them!
+Dialogue: 0,0:22:12.21,0:22:13.00,main,Loid and Yor,0,0,0,,Huh?
+Dialogue: 0,0:22:16.25,0:22:17.19,main,Anya,0,0,0,,Be careful.
+Dialogue: 0,0:22:17.43,0:22:20.55,main,Anya,0,0,0,,The enemy might have set traps.
+Dialogue: 0,0:22:20.55,0:22:22.69,main,Loid,0,0,0,,W-Well done, Agent Anya.
+Dialogue: 0,0:22:20.79,0:22:22.13,top,Townsperson 2,0,0,0,,What is that?
+Dialogue: 0,0:22:22.69,0:22:24.69,main,Townsperson 3,0,0,0,,Aw, what a sweet family.
+Dialogue: 0,0:22:25.49,0:22:29.01,italics,Loid,0,0,0,,A spy must not stand out...
+Dialogue: 0,0:22:30.00,0:22:34.20,italics,Narrator,0,0,0,,Later on, Anya's mood improved \Nafter they bought her a snack,
+Dialogue: 0,0:22:34.20,0:22:37.37,italics,Narrator,0,0,0,,and peace was restored \Nto the Forger household.

@@ -1,0 +1,408 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: sign_5367_29_Code_Name__Twili,Trebuchet MS,25,&H00000000,&H000000FF,&H4BFFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_6041_79_OPERATION_STRIX,Trebuchet MS,27,&H19FFFFFF,&H000000FF,&H7D000000,&H96000000,-1,0,0,0,100,100,0,0,1,2,1,1,30,30,20,1
+Style: sign_23950_248_Welcome,Trebuchet MS,15,&H00000100,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_7726_70_He_was_worried__,Trebuchet MS,25,&H0026292D,&H000000FF,&H00F1FAFB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,30,30,20,1
+Style: sign_10852_138_Math_Class,Trebuchet MS,40,&H00F5F8F5,&H000000FF,&H00282A2A,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,20,1
+Style: sign_13319_178__But_then_John_r,Verdana,23,&H001A1C1C,&H000000FF,&H00FEFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,20,1
+Style: sign_21343_286_Missing_Missing_,Arial,8,&H00DDD2FF,&H000000FF,&H00140705,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,9,30,30,100,1
+Style: sign_5970_48_The_State_Securi,Trebuchet MS,17,&H00FEFFFF,&H000000FF,&H32434847,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.32,0:00:04.79,italics,Narrator,0,0,0,,In an era in which the nations of \Nthe world were waging a fierce war
+Dialogue: 0,0:00:04.79,0:00:06.16,italics,Narrator,0,0,0,,of information just out of sight,
+Dialogue: 0,0:00:06.56,0:00:08.86,italics,Narrator,0,0,0,,two countries were at odds with each other:
+Dialogue: 0,0:00:08.86,0:00:10.62,italics,Narrator,0,0,0,,Ostania, in the east,
+Dialogue: 0,0:00:11.11,0:00:13.15,italics,Narrator,0,0,0,,and Westalis, in the west.
+Dialogue: 0,0:00:13.55,0:00:17.80,italics,Narrator,0,0,0,,In order to keep an eye on the actions of \Na leading figure in Ostania's government,
+Dialogue: 0,0:00:17.80,0:00:21.32,italics,Narrator,0,0,0,,Westalis set Operation Strix in motion.
+Dialogue: 0,0:00:21.89,0:00:25.18,italics,Narrator,0,0,0,,The skilled agent, Twilight, who has \Nbeen tasked with this operation,
+Dialogue: 0,0:00:25.18,0:00:28.04,italics,Narrator,0,0,0,,had succeeded in completing phase one:\N creating a pretend family,
+Dialogue: 0,0:00:28.04,0:00:31.37,italics,Narrator,0,0,0,,and enrolling his daughter in \Nthe prestigious Eden College.
+Dialogue: 0,0:00:34.37,0:00:35.90,italics,Narrator,0,0,0,,The father, a spy...
+Dialogue: 0,0:00:36.76,0:00:38.32,italics,Narrator,0,0,0,,The mother, an assassin...
+Dialogue: 0,0:00:39.19,0:00:41.03,italics,Narrator,0,0,0,,The daughter, a telepath...
+Dialogue: 0,0:00:41.60,0:00:43.25,italics,Narrator,0,0,0,,The mission that involves these three
+Dialogue: 0,0:00:43.25,0:00:45.73,italics,Narrator,0,0,0,,hiding their true identities \Nfrom each other continues.
+Dialogue: 0,0:00:45.73,0:00:50.71,italics,Narrator,0,0,0,,And now, after successfully gaining \None of the eight Stella required
+Dialogue: 0,0:00:50.71,0:00:53.42,italics,Narrator,0,0,0,,to become an Imperial Scholar,
+Dialogue: 0,0:00:53.42,0:00:55.53,italics,Narrator,0,0,0,,the mission has moved into phase two:
+Dialogue: 0,0:00:55.53,0:00:58.81,italics,Narrator,0,0,0,,making the necessary progress \Nto attend the social gathering
+Dialogue: 0,0:00:58.81,0:01:01.84,italics,Narrator,0,0,0,,that their target, Donovan Desmond,\N will be attending.
+Dialogue: 0,0:01:05.11,0:01:08.43,italicstop,OP,0,0,0,,Well, apparently I've discovered that
+Dialogue: 0,0:01:08.43,0:01:11.51,italicstop,OP,0,0,0,,I can take these yawn-filled days
+Dialogue: 0,0:01:11.51,0:01:14.46,italicstop,OP,0,0,0,,And turn them into movies
+Dialogue: 0,0:01:14.46,0:01:17.48,italicstop,OP,0,0,0,,I've found the secret and trick to it
+Dialogue: 0,0:01:17.48,0:01:20.42,italicstop,OP,0,0,0,,Under this sky where we don't get along
+Dialogue: 0,0:01:20.42,0:01:23.54,italicstop,OP,0,0,0,,I closed my heart and locked it
+Dialogue: 0,0:01:23.54,0:01:26.55,italicstop,OP,0,0,0,,That's how I've managed to live my life
+Dialogue: 0,0:01:26.55,0:01:28.57,italicstop,OP,0,0,0,,And the melodies now overlap
+Dialogue: 0,0:01:28.57,0:01:35.31,italicstop,OP,0,0,0,,I wanted a sign, no matter how small
+Dialogue: 0,0:01:35.31,0:01:42.24,italicstop,OP,0,0,0,,That I could actually find \Nbetter than any streetlight
+Dialogue: 0,0:01:42.75,0:01:49.13,italicstop,OP,0,0,0,,I put a ribbon on each of the \Nsights that my eyes pick out
+Dialogue: 0,0:01:49.13,0:01:55.05,italicstop,OP,0,0,0,,And I collect them like souvenirs \Nas I continue down this path home
+Dialogue: 0,0:01:55.05,0:02:01.05,italicstop,OP,0,0,0,,The seasons each say hello, \Nand I shed a few tears as I go
+Dialogue: 0,0:02:01.05,0:02:07.30,italicstop,OP,0,0,0,,Where should I begin to talk about \Nthis way home that you've given me?
+Dialogue: 0,0:02:07.30,0:02:15.45,italicstop,OP,0,0,0,,I walk and walk and sometimes \Nrush on my way to see you
+Dialogue: 0,0:02:19.20,0:02:27.63,italicstop,OP,0,0,0,,I run and run, wait, no, I should \Nstill walk on my way to see you
+Dialogue: 0,0:02:43.57,0:02:46.75,main,Keith,0,0,0,,All right. We're all set.
+Dialogue: 0,0:02:47.33,0:02:48.59,main,Keith,0,0,0,,Let's begin.
+Dialogue: 0,0:02:50.89,0:02:52.52,italics,Announcer,0,0,0,,And now for our next story.
+Dialogue: 0,0:02:52.87,0:02:56.63,italics,Announcer,0,0,0,,Yesterday afternoon, Foreign Minister \NBrantz and his entourage from Westalis
+Dialogue: 0,0:02:56.63,0:02:58.98,italics,Announcer,0,0,0,,arrived at Berlint Airport.
+Dialogue: 0,0:02:59.39,0:03:02.40,italics,Announcer,0,0,0,,At the ministerial conference tonight,
+Dialogue: 0,0:03:02.40,0:03:05.73,italics,Announcer,0,0,0,,they will begin coordinating for the \Nsummit between East and West...
+Dialogue: 0,0:03:16.57,0:03:17.94,main,Yor,0,0,0,,Are you all right?!
+Dialogue: 0,0:03:18.49,0:03:19.37,main,Loid,0,0,0,,Hey.
+Dialogue: 0,0:03:19.73,0:03:21.69,main,Loid,0,0,0,,Slow down and eat.
+Dialogue: 0,0:03:22.37,0:03:23.36,main,Anya,0,0,0,,Fanks for the food!
+Dialogue: 0,0:03:24.57,0:03:26.93,main,Anya,0,0,0,,Papa, Mama, hurry it up already!
+Dialogue: 0,0:03:29.39,0:03:30.91,main,Loid,0,0,0,,What are we going to do with her?
+Dialogue: 0,0:03:31.50,0:03:33.19,main,Yor,0,0,0,,Well, it's no surprise she's excited.
+Dialogue: 0,0:03:33.72,0:03:37.72,sign_6041_79_OPERATION_STRIX,Sign,0,0,0,,{\pos(347,287)}PROJECT APPLE
+Dialogue: 0,0:03:34.49,0:03:36.28,top,Yor,0,0,0,,Since today's the day...
+Dialogue: 0,0:03:38.00,0:03:40.23,main,Anya,0,0,0,,Woof, woof, woof-woof...
+Dialogue: 0,0:03:40.23,0:03:42.55,main,Anya,0,0,0,,Woof, woof, woof-woof...
+Dialogue: 0,0:03:42.55,0:03:44.68,main,Yor,0,0,0,,You're so excited, Miss Anya.
+Dialogue: 0,0:03:45.54,0:03:48.05,main,Anya,0,0,0,,Does Mister Dog eat peanuts?
+Dialogue: 0,0:03:48.05,0:03:50.47,main,Loid,0,0,0,,You probably shouldn't give one too many.
+Dialogue: 0,0:03:51.14,0:03:52.15,main,Anya,0,0,0,,Boo...
+Dialogue: 0,0:03:52.15,0:03:54.70,main,Yor,0,0,0,,Let's make sure to give the \Ndoggies what they like.
+Dialogue: 0,0:03:54.70,0:03:58.48,italics,Loid,0,0,0,,Our outing today is actually \Nfor Operation Strix.
+Dialogue: 0,0:03:58.48,0:04:01.68,italics,Loid,0,0,0,,Our destination: a pet shop.
+Dialogue: 0,0:04:02.35,0:04:03.44,main,Loid,0,0,0,,We're here.
+Dialogue: 0,0:04:05.32,0:04:09.64,italics,Loid,0,0,0,,This is because Anya said she wanted a \Ndog as her reward for earning a Stella.
+Dialogue: 0,0:04:11.80,0:04:14.86,italics,Loid,0,0,0,,Until she gets eight Stella and \NI get into that social gathering,
+Dialogue: 0,0:04:14.86,0:04:18.07,italics,Loid,0,0,0,,I need to keep her motivation high,\N no matter what.
+Dialogue: 0,0:04:16.89,0:04:21.48,top,Anya,0,0,0,,Reward, reward! Woof, woof, woof-woof!
+Dialogue: 0,0:04:21.83,0:04:23.05,main,Pet shop owner,0,0,0,,Welcome.
+Dialogue: 0,0:04:27.93,0:04:29.66,main,Pet shop owner,0,0,0,,Well, what do you think, sir?
+Dialogue: 0,0:04:29.66,0:04:33.31,main,Pet shop owner,0,0,0,,We've made sure to properly \Ntrain all of our dogs.
+Dialogue: 0,0:04:33.31,0:04:36.67,italics,Loid,0,0,0,,This is a pet shop that works with \Nour agency, and sells war dogs.
+Dialogue: 0,0:04:37.07,0:04:38.77,italics,Loid,0,0,0,,I figured if we're going to get a dog,
+Dialogue: 0,0:04:38.77,0:04:41.28,italics,Loid,0,0,0,,we'd be best off with a guard \Ndog for safety reasons, but...
+Dialogue: 0,0:04:43.03,0:04:45.95,main,Loid,0,0,0,,Don't they look very smart and cute,
+Dialogue: 0,0:04:45.95,0:04:47.04,main,Loid,0,0,0,,Anya?
+Dialogue: 0,0:04:51.22,0:04:52.58,italics,Loid,0,0,0,,That's a no!
+Dialogue: 0,0:04:52.81,0:04:54.93,italics,Loid,0,0,0,,She clearly doesn't want any of them!
+Dialogue: 0,0:04:55.75,0:04:56.92,italicstop,Doberman,0,0,0,,Me strong.
+Dialogue: 0,0:04:55.75,0:04:58.84,main,Loid,0,0,0,,Don't you have any that are a bit \Nsmaller and at least a {\i1}little{\i0} cute?
+Dialogue: 0,0:04:56.92,0:04:59.33,italicstop,Pitbull,0,0,0,,Gots big muscles.
+Dialogue: 0,0:04:58.84,0:05:02.72,main,Pet shop owner,0,0,0,,Hmm... I guess I could ask a breeder I know.
+Dialogue: 0,0:04:59.33,0:05:00.90,top,Anya,0,0,0,,Anya doesn't like any of them.
+Dialogue: 0,0:05:00.90,0:05:04.56,top,Yor,0,0,0,,Oh, yes, they do look a bit mean.
+Dialogue: 0,0:05:06.96,0:05:10.83,main,Pet shop owner,0,0,0,,Apparently, a shelter is having \Nan adoption event right now.
+Dialogue: 0,0:05:10.83,0:05:12.95,main,Loid,0,0,0,,Then we'll just head over there.
+Dialogue: 0,0:05:16.44,0:05:18.29,italics,Loid,0,0,0,,A new order?
+Dialogue: 0,0:05:20.99,0:05:24.05,main,Loid,0,0,0,,Sorry, I suddenly have a stomachache.
+Dialogue: 0,0:05:24.05,0:05:26.91,main,Loid,0,0,0,,You two go ahead to \Nthe shelter by the station.
+Dialogue: 0,0:05:26.91,0:05:28.22,main,Loid,0,0,0,,I'm going to find a bathroom.
+Dialogue: 0,0:05:28.42,0:05:31.94,main,Yor,0,0,0,,Huh? Are you all right? \NWe can wait right here.
+Dialogue: 0,0:05:31.94,0:05:35.48,main,Anya,0,0,0,,Papa takes a really long time when he goes to\N the shitter to shit, so we should probably go.
+Dialogue: 0,0:05:35.48,0:05:37.71,main,Yor,0,0,0,,I-Is that so?
+Dialogue: 0,0:05:37.71,0:05:38.97,main,Yor,0,0,0,,All right...
+Dialogue: 0,0:05:38.97,0:05:41.15,main,Loid,0,0,0,,You need to watch your mouth, young lady.
+Dialogue: 0,0:05:41.15,0:05:44.73,italics,Loid,0,0,0,,An excellent assist, \Nbut at the same time... yeah.
+Dialogue: 0,0:05:46.15,0:05:49.99,main,Loid,0,0,0,,Wait... You didn't say anything about \Ntaking me all the way to headquarters.
+Dialogue: 0,0:05:50.47,0:05:53.14,main,Loid,0,0,0,,If I take too long, my family \Nwill get suspicious.
+Dialogue: 0,0:05:53.14,0:05:55.42,main,Senior Agent,0,0,0,,If you've got a problem, \Ntake it up with Handler.
+Dialogue: 0,0:05:55.42,0:05:56.94,main,Senior Agent,0,0,0,,This is an emergency summons.
+Dialogue: 0,0:05:59.21,0:06:01.71,main,Loid,0,0,0,,A plot to assassinate Foreign Minister Brantz?
+Dialogue: 0,0:06:02.00,0:06:04.83,main,Senior Agent,0,0,0,,They're probably targeting tonight's summit.
+Dialogue: 0,0:06:04.83,0:06:09.21,main,Senior Agent,0,0,0,,The ones believed to be behind this \Nare a group of isolationists
+Dialogue: 0,0:06:09.21,0:06:11.30,main,Senior agent,0,0,0,,who attend Berlint University.
+Dialogue: 0,0:06:11.30,0:06:14.21,main,Senior Agent,0,0,0,,Apparently, the Secret Police \Nalso had their eyes on them.
+Dialogue: 0,0:06:14.66,0:06:17.97,main,Senior Agent,0,0,0,,We just happened to apprehend one of \Nthem who was hanging around the embassy.
+Dialogue: 0,0:06:17.97,0:06:19.47,main,Senior agent,0,0,0,,We're currently interrogating him.
+Dialogue: 0,0:06:20.08,0:06:23.17,main,Senior Agent,0,0,0,,But he won't tell us where his \Nfriends are or anything else.
+Dialogue: 0,0:06:23.17,0:06:26.02,main,Loid,0,0,0,,And that's why I was called in?
+Dialogue: 0,0:06:26.36,0:06:30.80,main,Senior Agent,0,0,0,,Being both a papa and an agent... \NMust be tough balancing the two.
+Dialogue: 0,0:06:31.25,0:06:33.48,main,Loid,0,0,0,,Being a father is part of the mission.
+Dialogue: 0,0:06:34.09,0:06:36.31,main,Loid,0,0,0,,But I guess the times are changing...
+Dialogue: 0,0:06:37.68,0:06:40.57,main,Loid,0,0,0,,To think that a child like \Nhim could be a terrorist.
+Dialogue: 0,0:06:47.06,0:06:49.32,main,Chris,0,0,0,,Keep coming back all you want.\NI'm never gonna talk.
+Dialogue: 0,0:06:49.71,0:06:51.25,main,Chris,0,0,0,,I won't sell out my comrades.
+Dialogue: 0,0:06:53.26,0:06:56.41,main,Sylvia,0,0,0,,That's quite all right. \NYou're no longer necessary.
+Dialogue: 0,0:06:56.41,0:06:59.23,main,Sylvia,0,0,0,,We've captured your leader, after all.
+Dialogue: 0,0:07:05.89,0:07:06.89,main,Chris,0,0,0,,Keith?!
+Dialogue: 0,0:07:07.92,0:07:09.65,main,Fake Keith,0,0,0,,I-It was him!
+Dialogue: 0,0:07:09.65,0:07:11.81,main,Fake Keith,0,0,0,,He planned all this!
+Dialogue: 0,0:07:11.81,0:07:14.47,main,Fake Keith,0,0,0,,We were tricked into helping him!
+Dialogue: 0,0:07:14.90,0:07:17.57,main,Fake Keith,0,0,0,,You gotta believe me! \NI didn't do anything wrong!
+Dialogue: 0,0:07:15.56,0:07:17.82,top,Chris,0,0,0,,Uh, Keith? What are you...
+Dialogue: 0,0:07:17.82,0:07:21.34,main,Fake Keith,0,0,0,,I'll tell you anything you want!\N Just let me go!
+Dialogue: 0,0:07:20.00,0:07:22.58,top,Member C,0,0,0,,Shut up and keep walking.
+Dialogue: 0,0:07:24.69,0:07:26.04,italics,Chris,0,0,0,,He just...
+Dialogue: 0,0:07:26.04,0:07:28.34,italics,Chris,0,0,0,,Is he really gonna put this all on me?
+Dialogue: 0,0:07:28.34,0:07:30.47,main,Sylvia,0,0,0,,Some comrade.
+Dialogue: 0,0:07:31.36,0:07:34.62,main,Sylvia,0,0,0,,Well, it doesn't really matter to \Nus which one of you is the leader.
+Dialogue: 0,0:07:35.07,0:07:39.02,main,Sylvia,0,0,0,,We only care about which one \Ngives us the intel we need.
+Dialogue: 0,0:07:39.93,0:07:42.25,main,Sylvia,0,0,0,,Now, what do we do with you?
+Dialogue: 0,0:07:42.25,0:07:44.73,main,Chris,0,0,0,,Wait, it's not me! He's the leader!
+Dialogue: 0,0:07:44.95,0:07:48.70,main,Chris,0,0,0,,I'm not lying! He's the one... \Nwho proposed the plan...
+Dialogue: 0,0:07:49.55,0:07:51.88,main,Sylvia,0,0,0,,I'd love to hear more.
+Dialogue: 0,0:07:53.43,0:07:55.76,top,Chris,0,0,0,,Keith planned out all of it.
+Dialogue: 0,0:07:55.27,0:08:00.35,main,Senior Agent,0,0,0,,Thank goodness we had some footage \Nof Keith's past activities.
+Dialogue: 0,0:07:55.76,0:07:57.18,top,Chris,0,0,0,,I just went along with it.
+Dialogue: 0,0:07:57.58,0:08:00.35,top,Chris,0,0,0,,I'll tell you what I know about \Nthe other members, too.
+Dialogue: 0,0:08:00.35,0:08:03.96,top,Chris,0,0,0,,First, there's Kurt, who's in \Nthe same program as Keith.
+Dialogue: 0,0:08:00.78,0:08:04.86,main,Fake Keith/Loid,0,0,0,,It's impossible for me to perfectly \Nplay the role based on such a short video.
+Dialogue: 0,0:08:03.96,0:08:06.04,top,Chris,0,0,0,,There's also a handful of guys \Nfrom the psych program.
+Dialogue: 0,0:08:05.24,0:08:08.05,main,Fake Keith/Loid,0,0,0,,If we were dealing with a pro, \Nhe would've been on to us.
+Dialogue: 0,0:08:06.04,0:08:09.31,top,Chris,0,0,0,,I don't usually talk to them, \Nso I don't know their names.
+Dialogue: 0,0:08:09.87,0:08:12.74,main,Chris,0,0,0,,There's also Kevin and Kim \Nfrom the engineering program.
+Dialogue: 0,0:08:13.07,0:08:15.65,main,Chris,0,0,0,,Those are all the guys I know.
+Dialogue: 0,0:08:15.65,0:08:18.86,main,Chris,0,0,0,,Our hideouts are a warehouse \Nnear the university
+Dialogue: 0,0:08:18.86,0:08:20.81,main,Chris,0,0,0,,and the second floor of a bar on 11th Street.
+Dialogue: 0,0:08:21.66,0:08:24.21,main,Sylvia,0,0,0,,Exactly how were you going to \Ncarry out the assassination?
+Dialogue: 0,0:08:27.57,0:08:28.82,main,Chris,0,0,0,,Dogs.
+Dialogue: 0,0:08:29.83,0:08:31.64,main,Chris,0,0,0,,I don't know exactly how many...
+Dialogue: 0,0:08:31.87,0:08:35.70,main,Chris,0,0,0,,But the plan was to strap bombs \Nonto a dozen or so dogs
+Dialogue: 0,0:08:35.70,0:08:38.41,main,Chris,0,0,0,,and have them ambush him \Nwhile he was on the move.
+Dialogue: 0,0:08:39.39,0:08:40.86,main,Sylvia,0,0,0,,Bomb dogs?
+Dialogue: 0,0:08:41.47,0:08:45.77,main,Senior Agent,0,0,0,,Not good. It's not gonna be \Neasy stopping trained dogs.
+Dialogue: 0,0:08:45.77,0:08:47.21,main,Loid,0,0,0,,But that's impossible.
+Dialogue: 0,0:08:47.21,0:08:49.51,main,Loid,0,0,0,,Giving a war dog proper special training
+Dialogue: 0,0:08:49.51,0:08:52.76,main,Loid,0,0,0,,costs just about as much as \Na small missile per dog.
+Dialogue: 0,0:08:53.23,0:08:56.76,main,Loid,0,0,0,,I can't imagine ordinary students \Nbeing able to afford that.
+Dialogue: 0,0:08:57.12,0:09:00.15,main,Senior Agent,0,0,0,,Either they have someone from \Nthe far right backing them,
+Dialogue: 0,0:09:00.15,0:09:03.38,main,Senior Agent,0,0,0,,or there's a sympathizer from a third power.
+Dialogue: 0,0:09:05.01,0:09:08.27,main,Sylvia,0,0,0,,As you heard, we've got quite \Nthe problem on our hands.
+Dialogue: 0,0:09:09.05,0:09:12.84,main,Sylvia,0,0,0,,In order to stop this terrorist attack, \Nwe'll have to make the first move.
+Dialogue: 0,0:09:13.34,0:09:15.44,main,Loid,0,0,0,,Could we not have the summit canceled?
+Dialogue: 0,0:09:15.44,0:09:19.03,main,Sylvia,0,0,0,,Doubtful. The Eastern government \Nhas a reputation to uphold.
+Dialogue: 0,0:09:19.03,0:09:21.52,main,Sylvia,0,0,0,,Though I'm sure the opposition\N would be thrilled.
+Dialogue: 0,0:09:22.54,0:09:25.76,main,Sylvia,0,0,0,,Casually leak this information \Nto the ruling party.
+Dialogue: 0,0:09:25.76,0:09:28.75,main,Sylvia,0,0,0,,I'm sure they'll also want to \Navoid any pointless trouble.
+Dialogue: 0,0:09:28.75,0:09:29.41,main,Senior Agent,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:09:30.26,0:09:33.09,main,Sylvia,0,0,0,,Sorry, but we'll need your \Nhelp for a bit longer.
+Dialogue: 0,0:09:33.09,0:09:34.03,main,Loid,0,0,0,,Understood.
+Dialogue: 0,0:09:34.74,0:09:37.50,main,Sylvia,0,0,0,,Relations between the East \Nand West are on thin ice.
+Dialogue: 0,0:09:37.50,0:09:40.39,main,Sylvia,0,0,0,,Regardless of whether the \Nassassination is a success or not,
+Dialogue: 0,0:09:40.39,0:09:43.67,main,Sylvia,0,0,0,,if this becomes public, \Nthe ice may finally break.
+Dialogue: 0,0:09:44.26,0:09:46.83,main,Sylvia,0,0,0,,We're going to stop them, whatever it takes.
+Dialogue: 0,0:09:55.34,0:09:56.90,main,Terrorist F,0,0,0,,I'm gonna go buy some coffee.
+Dialogue: 0,0:09:57.39,0:09:58.37,main,Terrorist F,0,0,0,,Wait here.
+Dialogue: 0,0:09:58.79,0:10:01.14,main,Terrorist F,0,0,0,,You better behave, pups.
+Dialogue: 0,0:10:02.45,0:10:04.83,main,Terrorist G,0,0,0,,Well, these dogs are definitely smart,
+Dialogue: 0,0:10:04.83,0:10:07.27,main,Terrorist G,0,0,0,,even if they're up there in years already.
+Dialogue: 0,0:10:18.57,0:10:19.63,main,Mother,0,0,0,,Hey!
+Dialogue: 0,0:10:19.63,0:10:20.76,main,Child,0,0,0,,Yay!
+Dialogue: 0,0:10:20.76,0:10:22.62,main,Mother,0,0,0,,You'll trip if you run like that!
+Dialogue: 0,0:10:23.48,0:10:24.63,main,Terrorist G,0,0,0,,Hey, damn it!
+Dialogue: 0,0:10:29.12,0:10:30.94,main,Mother,0,0,0,,Hey, where'd this dog come from?!
+Dialogue: 0,0:10:29.35,0:10:31.58,main,Child,0,0,0,,No! He's gonna eat me!
+Dialogue: 0,0:10:35.90,0:10:37.90,main,Passerby A,0,0,0,,Whoa, that sign fell.
+Dialogue: 0,0:10:36.94,0:10:38.50,top,Passerby C,0,0,0,,That startled me.
+Dialogue: 0,0:10:37.62,0:10:39.99,main,Passerby B,0,0,0,,That sure was a close one, kid.
+Dialogue: 0,0:10:39.99,0:10:42.51,main,Child,0,0,0,,Did you just save me?
+Dialogue: 0,0:10:42.51,0:10:43.94,main,Child,0,0,0,,Thanks.
+Dialogue: 0,0:10:44.17,0:10:44.97,main,Bond,0,0,0,,Borf.
+Dialogue: 0,0:10:44.97,0:10:47.42,main,Terrorist G,0,0,0,,Er, sorry about my dog, ma'am.
+Dialogue: 0,0:10:47.42,0:10:49.37,main,Terrorist G,0,0,0,,Don't go running off \Nlike that, you dumb mutt!
+Dialogue: 0,0:10:49.37,0:10:50.28,main,Terrorist F,0,0,0,,What's wrong?
+Dialogue: 0,0:10:50.28,0:10:52.40,main,Terrorist G,0,0,0,,This stupid dog just bolted on me.
+Dialogue: 0,0:10:53.07,0:10:55.76,main,Terrorist G,0,0,0,,Are these dogs really gonna work?
+Dialogue: 0,0:10:55.76,0:10:58.62,main,Terrorist F,0,0,0,,Not like we can change our plan now.
+Dialogue: 0,0:10:58.98,0:11:02.63,main,Terrorist F,0,0,0,,We got the area all checked out \Nand ready, so let's head back.
+Dialogue: 0,0:11:02.92,0:11:06.43,main,Terrorist F,0,0,0,,We'll be in a world of hurt if we piss off Keith.
+Dialogue: 0,0:11:15.69,0:11:19.32,main,Yor,0,0,0,,So this is an adoption event. \NIt's bigger than I had imagined.
+Dialogue: 0,0:11:20.18,0:11:24.12,main,Yor,0,0,0,,I wonder why Loid didn't bring us here first.
+Dialogue: 0,0:11:25.18,0:11:27.06,main,Anya,0,0,0,,Tiny doggies!
+Dialogue: 0,0:11:27.36,0:11:28.71,main,Anya,0,0,0,,Kitties!
+Dialogue: 0,0:11:29.72,0:11:31.42,main,Anya,0,0,0,,Bunnies!
+Dialogue: 0,0:11:31.42,0:11:34.70,main,Yor,0,0,0,,Oh! You mustn't, Miss Anya! You'll get lost!
+Dialogue: 0,0:11:35.63,0:11:36.67,main,Yor,0,0,0,,Listen carefully.
+Dialogue: 0,0:11:36.89,0:11:40.18,main,Yor,0,0,0,,Promise me you won't leave \Nthis area with the doggies.
+Dialogue: 0,0:11:40.60,0:11:41.71,main,Anya,0,0,0,,Okay.
+Dialogue: 0,0:11:42.22,0:11:47.64,main,Yor,0,0,0,,Oh... That dachshund is adorable! \NIts legs are so short!
+Dialogue: 0,0:11:47.98,0:11:50.35,main,Anya,0,0,0,,It's cute even with stubby legs?
+Dialogue: 0,0:11:50.35,0:11:52.02,main,Anya,0,0,0,,Does that mean Anya's cute, too?
+Dialogue: 0,0:11:52.90,0:11:54.11,main,Anya,0,0,0,,A Chihuahua!
+Dialogue: 0,0:11:54.38,0:11:55.79,main,Anya,0,0,0,,A Pomeranyan!
+Dialogue: 0,0:11:56.13,0:11:57.87,main,Anya,0,0,0,,Huff, huff, huff...
+Dialogue: 0,0:11:57.87,0:11:59.59,main,Staff,0,0,0,,Are you looking for a dog to adopt?
+Dialogue: 0,0:12:00.24,0:12:02.93,main,Yor,0,0,0,,Is there a breed that's easy to keep?
+Dialogue: 0,0:12:02.93,0:12:04.79,main,Anya,0,0,0,,Huff, huff, huff...
+Dialogue: 0,0:12:08.44,0:12:10.45,italics,Anya,0,0,0,,What a big Mister Dog.
+Dialogue: 0,0:12:19.61,0:12:21.32,italics,Anya,0,0,0,,Anya's family?
+Dialogue: 0,0:12:22.95,0:12:25.03,main,Terrorist G,0,0,0,,What's wrong now? Come on, start walking!
+Dialogue: 0,0:12:26.79,0:12:30.53,italics,Anya,0,0,0,,Was that... Mister Dog's thoughts?
+Dialogue: 0,0:12:33.50,0:12:37.83,main,Staff,0,0,0,,Toy poodles rarely shed, so cleaning\N up after them is a breeze.
+Dialogue: 0,0:12:39.48,0:12:43.00,main,Anya,0,0,0,,Mama! There is a doggy that \Nknows about our family!
+Dialogue: 0,0:12:43.40,0:12:45.91,main,Yor,0,0,0,,What are you talking about, dear?
+Dialogue: 0,0:12:49.43,0:12:52.80,main,Staff,0,0,0,,If you're looking for smaller breeds, \NShih Tzus are very friendly.
+Dialogue: 0,0:12:58.63,0:13:00.14,italics,Anya,0,0,0,,Just for a little bit...
+Dialogue: 0,0:13:02.43,0:13:03.70,italics,Anya,0,0,0,,A shop?
+Dialogue: 0,0:13:08.27,0:13:10.48,italics,Anya,0,0,0,,Where did Mister Dog go?
+Dialogue: 0,0:13:18.15,0:13:19.38,main,Anya,0,0,0,,Mister Dog...
+Dialogue: 0,0:13:26.53,0:13:28.35,main,Anya,0,0,0,,Who are you?
+Dialogue: 0,0:13:30.90,0:13:33.71,main,Keith,0,0,0,,You better not have done \Nanything to draw attention.
+Dialogue: 0,0:13:34.01,0:13:35.73,main,Terrorist G,0,0,0,,D-Don't worry.
+Dialogue: 0,0:13:35.73,0:13:39.13,main,Terrorist G,0,0,0,,There were people with dogs everywhere \Nbecause of the adoption event.
+Dialogue: 0,0:13:40.05,0:13:41.87,main,Keith,0,0,0,,It's finally time.
+Dialogue: 0,0:13:42.13,0:13:45.95,main,Keith,0,0,0,,If this plan with the \Nbomb dogs is a success,
+Dialogue: 0,0:13:45.95,0:13:49.33,main,Keith,0,0,0,,the façade between the East and \Nthe West will finally come down.
+Dialogue: 0,0:13:50.09,0:13:53.63,main,Keith,0,0,0,,In order to restore Ostania \Nto its former glory...
+Dialogue: 0,0:13:53.94,0:13:58.78,main,Keith,0,0,0,,We'll just have Foreign Minister Brantz\N become the catalyst for war.
+Dialogue: 0,0:13:59.65,0:14:02.88,main,Keith,0,0,0,,We're going to bring down those \Narrogant pigs of the West.
+Dialogue: 0,0:14:02.88,0:14:04.16,main,Terrorists,0,0,0,,Bring them down!
+Dialogue: 0,0:14:04.16,0:14:06.52,italics,Anya,0,0,0,,B-Bad guys?!
+Dialogue: 0,0:14:07.15,0:14:09.83,italics,Anya,0,0,0,,This is the bad guys' house!
+Dialogue: 0,0:14:17.97,0:14:20.04,main,Kurt,0,0,0,,Hey, what the hell are you guys doing?
+Dialogue: 0,0:14:20.59,0:14:22.79,main,Kurt,0,0,0,,This little brat heard everything!
+Dialogue: 0,0:14:22.79,0:14:24.92,main,Terrorist A,0,0,0,,Wait, are you serious? Who is that?
+Dialogue: 0,0:14:25.59,0:14:27.59,main,Terrorist G,0,0,0,,Uh... Wh-What do we do?
+Dialogue: 0,0:14:28.24,0:14:29.17,main,Kurt,0,0,0,,Whoa, there!
+Dialogue: 0,0:14:29.48,0:14:31.67,main,Keith,0,0,0,,What are we gonna do? Well...
+Dialogue: 0,0:14:33.86,0:14:36.33,main,Keith,0,0,0,,We'll just have to take care of her.
+Dialogue: 0,0:14:43.87,0:14:47.25,main,Terrorist A,0,0,0,,Yo, Keith, come on. She's just a little kid.
+Dialogue: 0,0:14:48.88,0:14:51.96,main,Keith,0,0,0,,If she tattles to her parents, \Nour plan will be ruined.
+Dialogue: 0,0:14:53.76,0:14:56.87,main,Keith,0,0,0,,Kurt, keep her mouth shut.
+Dialogue: 0,0:15:05.73,0:15:07.09,main,Anya,0,0,0,,Mister Dog!
+Dialogue: 0,0:15:07.66,0:15:09.70,main,Terrorist G,0,0,0,,Damn it... He's not listening again!
+Dialogue: 0,0:15:09.70,0:15:11.84,main,Terrorist F,0,0,0,,Maybe this one was a dud.
+Dialogue: 0,0:15:14.18,0:15:16.44,main,Terrorist E,0,0,0,,You picked the wrong guy to borf at.
+Dialogue: 0,0:15:16.44,0:15:18.11,main,Terrorist E,0,0,0,,I'll shut you up for good.
+Dialogue: 0,0:15:23.79,0:15:24.87,main,Anya,0,0,0,,Shock!
+Dialogue: 0,0:15:29.88,0:15:30.97,main,Terrorist E,0,0,0,,This little...
+Dialogue: 0,0:15:30.97,0:15:33.70,main,Keith,0,0,0,,Don't. Don't damage the goods.
+Dialogue: 0,0:15:33.70,0:15:36.34,main,Terrorist G,0,0,0,,But we need to shut him up.
+Dialogue: 0,0:15:36.34,0:15:37.98,main,Terrorist F,0,0,0,,That's no problem.
+Dialogue: 0,0:15:38.33,0:15:42.21,main,Terrorist F,0,0,0,,No one's gonna pay it any mind \Nif they hear a dog barking today.
+Dialogue: 0,0:15:43.29,0:15:47.30,main,Yor,0,0,0,,Miss Anya? Where did you go?!
+Dialogue: 0,0:15:47.50,0:15:48.84,main,Yor,0,0,0,,Um, pardon me.
+Dialogue: 0,0:15:48.84,0:15:51.76,main,Yor,0,0,0,,Did you happen to see a little \Ngirl who looks like this?
+Dialogue: 0,0:15:51.76,0:15:52.66,main,Patron A,0,0,0,,Dunno...
+Dialogue: 0,0:15:52.66,0:15:54.44,main,Patron B,0,0,0,,I can't say I have.
+Dialogue: 0,0:16:07.49,0:16:10.49,italics,Yor,0,0,0,,She's not here. She's nowhere in the venue...
+Dialogue: 0,0:16:11.74,0:16:15.21,italics,Yor,0,0,0,,Could it be... that she was eaten by a dog?!
+Dialogue: 0,0:16:12.71,0:16:15.21,top,Anya,0,0,0,,Aaaaaa...
+Dialogue: 0,0:16:15.57,0:16:19.15,italics,Yor,0,0,0,,No, no, calm down, Yor. \NThat is probably unlikely.
+Dialogue: 0,0:16:20.12,0:16:22.17,italics,Yor,0,0,0,,But then, could she have been...
+Dialogue: 0,0:16:22.17,0:16:23.19,italics,Yor,0,0,0,,kidnapped?!
+Dialogue: 0,0:16:23.19,0:16:26.56,italicstop,Announcer,0,0,0,,There have been a string of \Nkidnappings in Central Ariane
+Dialogue: 0,0:16:26.56,0:16:29.71,italicstop,Announcer,0,0,0,,involving young women who were abducted\Nand forced into marriage.
+Dialogue: 0,0:16:28.86,0:16:30.36,italics,Yor,0,0,0,,Oh, how frightening.
+Dialogue: 0,0:16:31.43,0:16:33.51,main,Kidnapper,0,0,0,,I'll make you my bride.
+Dialogue: 0,0:16:32.60,0:16:34.88,top,Anya,0,0,0,,Mrrrgh...
+Dialogue: 0,0:16:37.56,0:16:39.35,italics,Yor,0,0,0,,Wh-Wh-Wh-What should I do?!
+Dialogue: 0,0:16:39.35,0:16:41.99,italics,Yor,0,0,0,,Miss Anya will be forced to marry someone!
+Dialogue: 0,0:16:41.99,0:16:44.17,italics,Yor,0,0,0,,Of course this had to happen \Nwhen Loid isn't here.
+Dialogue: 0,0:16:44.17,0:16:47.49,italics,Yor,0,0,0,,Oh, what do I do? Whatever shall I do?
+Dialogue: 0,0:16:47.98,0:16:52.18,italics,Yor,0,0,0,,Please hurry back from the bathroom, Loid!
+Dialogue: 0,0:16:58.51,0:17:02.13,main,Sylvia,0,0,0,,All of the locations he offered\N up turned out to be duds.
+Dialogue: 0,0:17:03.07,0:17:04.14,main,Sylvia,0,0,0,,How is it on your end?
+Dialogue: 0,0:17:04.53,0:17:05.76,main,Loid,0,0,0,,Bingo.
+Dialogue: 0,0:17:06.02,0:17:09.16,main,Loid,0,0,0,,There were two white vans \Nrented here under the name
+Dialogue: 0,0:17:09.16,0:17:11.30,main,Loid,0,0,0,,of one of the terrorists, Kevin Knowles.
+Dialogue: 0,0:17:11.77,0:17:12.88,main,Loid,0,0,0,,The plate numbers are...
+Dialogue: 0,0:17:13.31,0:17:16.21,main,Sylvia,0,0,0,,Excellent work. I'll have someone \Nlook into this immediately.
+Dialogue: 0,0:17:16.60,0:17:19.79,main,Sylvia,0,0,0,,Oh, as for where they were getting the dogs,
+Dialogue: 0,0:17:19.79,0:17:22.31,main,Sylvia,0,0,0,,one lead was particularly suspicious.
+Dialogue: 0,0:17:23.17,0:17:25.67,main,Sylvia,0,0,0,,I'm sure even you've heard of it before...
+Dialogue: 0,0:17:27.98,0:17:29.81,main,Sylvia,0,0,0,,Project Apple.
+Dialogue: 0,0:17:30.45,0:17:34.02,main,Sylvia,0,0,0,,It was research done under the \Nformer government of Ostania,
+Dialogue: 0,0:17:34.02,0:17:38.54,main,Sylvia,0,0,0,,to try to create animals with terrifyingly \Nhigh IQ for military purposes.
+Dialogue: 0,0:17:39.00,0:17:40.06,main,Loid,0,0,0,,I'm aware of it.
+Dialogue: 0,0:17:40.49,0:17:43.67,main,Loid,0,0,0,,I heard they repeated some\Npretty reckless experiments,
+Dialogue: 0,0:17:43.67,0:17:46.13,main,Loid,0,0,0,,but the government fell apart \Nduring their research,
+Dialogue: 0,0:17:46.13,0:17:47.61,main,Loid,0,0,0,,and the project came to a standstill.
+Dialogue: 0,0:17:47.61,0:17:50.84,main,Loid,0,0,0,,They say it ended with mediocre results \Nthat were far from their intended goal.
+Dialogue: 0,0:17:51.61,0:17:55.16,italics,Sylvia,0,0,0,,Correct. And then came rumors \Nthat the dogs and other animals
+Dialogue: 0,0:17:55.16,0:17:58.97,italics,Sylvia,0,0,0,,that were no longer needed ended up on\N the black market instead of being put down.
+Dialogue: 0,0:17:59.69,0:18:02.48,main,Loid,0,0,0,,And you think the terrorists \Ngot a hold of them?
+Dialogue: 0,0:18:03.09,0:18:04.63,italics,Sylvia,0,0,0,,It's possible.
+Dialogue: 0,0:18:05.68,0:18:08.49,main,Sylvia,0,0,0,,They may be the survivors \Nof a failed experiment,
+Dialogue: 0,0:18:08.49,0:18:10.15,main,Sylvia,0,0,0,,but they are probably still highly \Nintelligent pigs of the West.
+Dialogue: 0,0:18:10.15,0:18:13.11,italics,Sylvia,0,0,0,,but they are probably still highly \Nintelligent pigs of the West.
+Dialogue: 0,0:18:15.05,0:18:16.40,italics,Sylvia,0,0,0,,Be on your guard.
+Dialogue: 0,0:18:16.92,0:18:19.59,italics,Sylvia,0,0,0,,The unexpected may very likely happen.
+Dialogue: 0,0:18:20.49,0:18:23.30,main,Keith,0,0,0,,Get away from the dog, you stupid brat.
+Dialogue: 0,0:18:23.30,0:18:25.78,main,Keith,0,0,0,,Then I promise you'll at \Nleast die painlessly.
+Dialogue: 0,0:18:40.79,0:18:41.88,main,Anya,0,0,0,,Phone?
+Dialogue: 0,0:18:42.18,0:18:44.68,main,Keith,0,0,0,,Hey. If you don't hurry up...
+Dialogue: 0,0:18:47.40,0:18:48.84,main,Terrorist F,0,0,0,,Man, that scared me.
+Dialogue: 0,0:18:48.84,0:18:50.59,main,Terrorist D,0,0,0,,Who the hell's calling us right now?
+Dialogue: 0,0:18:54.27,0:18:55.36,main,Terrorist D,0,0,0,,Hello?
+Dialogue: 0,0:18:57.13,0:18:58.79,main,Terrorist D,0,0,0,,What? Seriously?
+Dialogue: 0,0:18:59.17,0:19:00.97,main,Terrorist D,0,0,0,,Hey, Keith, we've got trouble!
+Dialogue: 0,0:19:00.97,0:19:04.17,main,Terrorist D,0,0,0,,Apparently some suspicious guys \Nshowed up at two of our hideouts!
+Dialogue: 0,0:19:04.17,0:19:06.55,main,Terrorist G,0,0,0,,D-Don't tell me it's the Secret Police...
+Dialogue: 0,0:19:06.81,0:19:09.41,main,Terrorist C,0,0,0,,How?! Did someone leak info?
+Dialogue: 0,0:19:09.41,0:19:14.81,main,Keith,0,0,0,,Tch. I haven't seen Chris all morning, \Nso I kind of suspected, but...
+Dialogue: 0,0:19:15.21,0:19:17.09,main,Terrorist A,0,0,0,,It was a good idea to move locations.
+Dialogue: 0,0:19:17.78,0:19:19.69,main,Keith,0,0,0,,Nobody panic!
+Dialogue: 0,0:19:19.88,0:19:22.80,main,Keith,0,0,0,,We're switching over to Plan B and...
+Dialogue: 0,0:19:25.19,0:19:27.18,main,Keith,0,0,0,,Hey! Where'd the brat go?
+Dialogue: 0,0:19:27.18,0:19:29.20,main,Kurt,0,0,0,,Huh? Wh-What the?!
+Dialogue: 0,0:19:34.34,0:19:36.70,main,Anya,0,0,0,,Mister Dog is Anya's friend?
+Dialogue: 0,0:19:37.70,0:19:41.39,main,Anya,0,0,0,,Wait, did you know the phone was \Ngoing to ring before it did?
+Dialogue: 0,0:19:42.40,0:19:43.61,main,Anya,0,0,0,,You...
+Dialogue: 0,0:19:43.61,0:19:45.19,main,Anya,0,0,0,,can see the future?
+Dialogue: 0,0:19:46.45,0:19:50.09,italics,Anya,0,0,0,,Is it a telepath like me?
+Dialogue: 0,0:19:54.84,0:19:59.26,main,Anya,0,0,0,,Mister Dog! Go into that building!\N Mama will save us!
+Dialogue: 0,0:19:59.90,0:20:01.88,main,Anya,0,0,0,,No! Not that way!
+Dialogue: 0,0:20:01.88,0:20:03.40,main,Anya,0,0,0,,Go back!
+Dialogue: 0,0:20:06.53,0:20:07.83,main,Yor,0,0,0,,Miss Anya?!
+Dialogue: 0,0:20:10.51,0:20:12.43,main,Keith,0,0,0,,What are you dumbasses doing?!
+Dialogue: 0,0:20:12.43,0:20:13.84,main,Terrorist E,0,0,0,,We were distracted by the phone...
+Dialogue: 0,0:20:13.84,0:20:16.10,main,Terrorist F,0,0,0,,Whatever. Who cares about her?
+Dialogue: 0,0:20:16.10,0:20:17.48,main,Terrorist F,0,0,0,,We need to get the plan rolling.
+Dialogue: 0,0:20:17.48,0:20:19.71,main,Keith,0,0,0,,You idiots! She's seen our faces!
+Dialogue: 0,0:20:20.00,0:20:21.46,main,Keith,0,0,0,,Hey, Kurt, come with me!
+Dialogue: 0,0:20:21.46,0:20:23.33,main,Keith,0,0,0,,We're taking one of the dogs, too.
+Dialogue: 0,0:20:23.33,0:20:24.87,main,Terrorist F,0,0,0,,You're gonna go after her?
+Dialogue: 0,0:20:25.21,0:20:28.66,main,Keith,0,0,0,,Tear that map off the wall. \NWe're abandoning this hideout, too.
+Dialogue: 0,0:20:28.66,0:20:31.38,main,Keith,0,0,0,,You guys get to the designated \Nlocation and spread out.
+Dialogue: 0,0:20:31.38,0:20:32.44,main,Terrorist C,0,0,0,,Got it.
+Dialogue: 0,0:20:33.09,0:20:35.96,main,Anya,0,0,0,,Dog! Stop! Let me down!
+Dialogue: 0,0:20:35.96,0:20:38.68,main,Anya,0,0,0,,Someone save me!
+Dialogue: 0,0:20:38.68,0:20:42.01,main,Anya,0,0,0,,I'm being chased by bad guys!
+Dialogue: 0,0:20:41.04,0:20:43.20,main,Passerby D,0,0,0,,What is that? How cute.
+Dialogue: 0,0:20:43.20,0:20:45.05,main,Passerby E,0,0,0,,I wonder if she's playing tag.
+Dialogue: 0,0:20:46.55,0:20:49.33,italics,Anya,0,0,0,,Mister Dog runs so fast!
+Dialogue: 0,0:20:50.50,0:20:51.95,italics,Anya,0,0,0,,He's so fast, and...
+Dialogue: 0,0:21:00.31,0:21:01.76,italics,Anya,0,0,0,,So exciting!
+Dialogue: 0,0:21:04.66,0:21:06.06,main,Anya,0,0,0,,Okay, Mister Dog!
+Dialogue: 0,0:21:06.06,0:21:09.21,main,Anya,0,0,0,,Let's make a break for it and go \Nright to the police ociffers!
+Dialogue: 0,0:21:09.67,0:21:11.23,main,Anya,0,0,0,,Anya and Mister Dog...
+Dialogue: 0,0:21:12.08,0:21:15.80,main,Anya,0,0,0,,are gonna solve this on our \Nown and save the day!
+Dialogue: 0,0:21:16.82,0:21:20.83,main,Anya,0,0,0,,And then... I'll be Starlight Anya again!
+Dialogue: 0,0:21:35.34,0:21:36.82,main,Keith,0,0,0,,Thanks for saving us the trouble.
+Dialogue: 0,0:21:36.82,0:21:39.40,main,Anya,0,0,0,,We're right back where we started!
+Dialogue: 0,0:21:39.93,0:21:41.48,main,Anya,0,0,0,,Right face!
+Dialogue: 0,0:21:45.50,0:21:47.08,main,Keith,0,0,0,,You're not getting away.
+Dialogue: 0,0:21:48.22,0:21:50.37,main,Keith,0,0,0,,Do it. Make it quick.
+Dialogue: 0,0:21:50.37,0:21:51.71,main,Kurt,0,0,0,,R-Right...
+Dialogue: 0,0:21:57.17,0:21:59.13,main,Kurt,0,0,0,,No hard feelings, kid.
+Dialogue: 0,0:22:17.32,0:22:19.14,main,Yor,0,0,0,,You won't get away with this,
+Dialogue: 0,0:22:19.14,0:22:21.30,main,Yor,0,0,0,,Mr. Perverted Kidnapper!
+Dialogue: 0,0:22:22.51,0:22:25.40,main,Yor,0,0,0,,It is far too early for \NMiss Anya to get married!
+Dialogue: 0,0:24:06.94,0:25:09.95,sign_6041_79_OPERATION_STRIX,Sign,0,0,0,,{\pos(368,290)\fscx85}DISARM THE TIME BOMB

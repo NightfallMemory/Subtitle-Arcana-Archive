@@ -1,0 +1,385 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: sign_5367_29_Code_Name__Twili,Trebuchet MS,25,&H00000000,&H000000FF,&H4BFFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_6041_79_OPERATION_STRIX,Trebuchet MS,27,&H19FFFFFF,&H000000FF,&H7D000000,&H96000000,-1,0,0,0,100,100,0,0,1,2,1,1,30,30,20,1
+Style: sign_23950_248_Welcome,Trebuchet MS,15,&H00000100,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_7726_70_He_was_worried__,Trebuchet MS,25,&H0026292D,&H000000FF,&H00F1FAFB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,30,30,20,1
+Style: sign_10852_138_Math_Class,Trebuchet MS,40,&H00F5F8F5,&H000000FF,&H00282A2A,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,20,1
+Style: sign_13319_178__But_then_John_r,Verdana,23,&H001A1C1C,&H000000FF,&H00FEFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,20,1
+Style: sign_21343_286_Missing_Missing_,Arial,8,&H00DDD2FF,&H000000FF,&H00140705,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,9,30,30,100,1
+Style: sign_5970_48_The_State_Securi,Trebuchet MS,17,&H00FEFFFF,&H000000FF,&H32434847,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:33.09,0:01:37.63,sign_6041_79_OPERATION_STRIX,,0,0,0,,{\fad(1625,525)\pos(494,300)\fscx104}"STELLA"
+Dialogue: 0,0:01:38.53,0:01:41.49,italics,Bondman's Comrade,0,0,0,,Impossible... All of our pursuers are...
+Dialogue: 0,0:01:41.99,0:01:44.16,italics,Bondman,0,0,0,,Let's go back to our hideout and regroup.
+Dialogue: 0,0:01:44.75,0:01:46.46,italics,Bondman,0,0,0,,I have a bad feeling about this.
+Dialogue: 0,0:01:50.46,0:01:55.09,italics,Bondman's Comrade,0,0,0,,No way... Bondman, this can't be happening!
+Dialogue: 0,0:01:55.59,0:02:00.39,italics,Bondman,0,0,0,,I can't believe this! Hey, hey! Wake up!
+Dialogue: 0,0:01:58.72,0:01:59.76,top,Loid,0,0,0,,Hey, Anya.
+Dialogue: 0,0:01:59.76,0:02:01.64,top,Anya,0,0,0,,Anya is busy right now.
+Dialogue: 0,0:02:02.51,0:02:04.35,italics,Bondman,0,0,0,,This is just awful.
+Dialogue: 0,0:02:06.52,0:02:11.40,main,Anya,0,0,0,,No! I don't wanna study!
+Dialogue: 0,0:02:09.98,0:02:11.52,main,Loid,0,0,0,,Now, hold on.
+Dialogue: 0,0:02:12.31,0:02:14.82,main,Loid,0,0,0,,We made a deal. You agreed \Nto start studying at 5 PM.
+Dialogue: 0,0:02:16.45,0:02:20.46,top,Anya,0,0,0,,You demon! Papa is a demon!
+Dialogue: 0,0:02:17.28,0:02:20.07,italics,Loid,0,0,0,,Operation Strix, Phase 2...
+Dialogue: 0,0:02:21.12,0:02:24.62,italics,Loid,0,0,0,,In order to attend the \Ntarget's social gathering,
+Dialogue: 0,0:02:24.62,0:02:29.50,italics,Loid,0,0,0,,I need to make sure my daughter \NAnya becomes an Imperial Scholar.
+Dialogue: 0,0:02:30.04,0:02:33.50,italics,Loid,0,0,0,,For her to achieve that, \Nshe will need to get good grades
+Dialogue: 0,0:02:33.50,0:02:36.26,italics,Loid,0,0,0,,and receive Stellas.
+Dialogue: 0,0:02:37.97,0:02:39.97,sign_23950_248_Welcome,,0,0,0,,{\pos(137,84)\fnArial\b0\fs18\bord3\3c&HEEF3F2&}PROVERBS
+Dialogue: 0,0:02:43.30,0:02:45.35,main,Loid,0,0,0,,How many times do I have to tell you?
+Dialogue: 0,0:02:45.35,0:02:47.52,main,Loid,0,0,0,,That's supposed to be an "E," not an "A."
+Dialogue: 0,0:02:49.98,0:02:54.36,main,Yor,0,0,0,,B-But, Loid-san, her math \Nscore here is pretty good.
+Dialogue: 0,0:02:54.77,0:02:56.98,main,Yor,0,0,0,,Well done, Anya-san.
+Dialogue: 0,0:02:57.48,0:02:59.98,main,Anya,0,0,0,,He has two-eighths of his bullets left!
+Dialogue: 0,0:03:00.36,0:03:02.16,italics,Loid,0,0,0,,Is this because of her cartoon?
+Dialogue: 0,0:03:02.16,0:03:03.49,main,Loid,0,0,0,,Oh, that's right.
+Dialogue: 0,0:03:03.49,0:03:07.58,main,Loid,0,0,0,,This proverb is the same one \NBondman was saying in episode 16.
+Dialogue: 0,0:03:09.16,0:03:10.50,main,Anya,0,0,0,,I forgot...
+Dialogue: 0,0:03:10.50,0:03:11.75,main,Loid,0,0,0,,Well, remember!
+Dialogue: 0,0:03:11.75,0:03:14.88,main,Loid,0,0,0,,You know, it's the episode where the \Nguy with the sideburns appeared.
+Dialogue: 0,0:03:14.88,0:03:20.13,italics,Anya,0,0,0,,I just happened to mess up my \Nmind-reading cheat on this test.
+Dialogue: 0,0:03:20.38,0:03:22.59,italics,Anya,0,0,0,,From now on, I'm gonna spend a lot of time
+Dialogue: 0,0:03:22.30,0:03:33.65,sign_23950_248_Welcome,Sign,0,0,0,,{\an8\fs22\fnArial\b0\bord3\3c&HF0F5F5&}Good at: ??
+Dialogue: 0,0:03:22.59,0:03:27.26,italics,Anya,0,0,0,,trying to figure out which classmate \Nis good at what subject.
+Dialogue: 0,0:03:27.72,0:03:31.31,italics,Anya,0,0,0,,And then I will definitely \Nget perfect scores,
+Dialogue: 0,0:03:31.31,0:03:32.65,italics,Anya,0,0,0,,no problem.
+Dialogue: 0,0:03:34.06,0:03:35.98,italics,Anya,0,0,0,,I tried sounding like Papa.
+Dialogue: 0,0:03:36.90,0:03:41.15,italics,Loid,0,0,0,,It would be easy to make her every score\N an A+ by using backdoor methods.
+Dialogue: 0,0:03:41.70,0:03:43.91,italics,Loid,0,0,0,,But if she suddenly scores that high,
+Dialogue: 0,0:03:43.91,0:03:46.58,italics,Loid,0,0,0,,the school and those around \Nher will become suspicious.
+Dialogue: 0,0:03:47.16,0:03:49.83,italics,Loid,0,0,0,,In order to make this all \Nseem as natural as possible,
+Dialogue: 0,0:03:49.83,0:03:51.91,italics,Loid,0,0,0,,I need to nurture her basic knowledge.
+Dialogue: 0,0:03:52.96,0:03:58.75,italics,Loid,0,0,0,,If she ends up being shunned by her \Nclassmates, it may affect her life at school.
+Dialogue: 0,0:03:59.17,0:04:01.26,italicstop,Loid,0,0,0,,I can't have her not \Nwanting to go to school.
+Dialogue: 0,0:03:59.55,0:04:04.13,italics,Anya,0,0,0,,If I read everyone's minds to \Nget 100s, they'll all hate me?
+Dialogue: 0,0:04:04.68,0:04:07.68,main,Adult A,0,0,0,,Hey, how do you even know that?
+Dialogue: 0,0:04:07.68,0:04:09.68,main,Adult B,0,0,0,,You creepy little witch!
+Dialogue: 0,0:04:13.44,0:04:16.31,italics,Loid,0,0,0,,I guess forcing her to study too \Nmuch might be a bit rough on her.
+Dialogue: 0,0:04:17.56,0:04:21.28,italics,Loid,0,0,0,,If her motivation remains low, \Nher concentration won't improve,
+Dialogue: 0,0:04:21.28,0:04:23.03,italics,Loid,0,0,0,,so she'll have a lesser chance of learning.
+Dialogue: 0,0:04:23.03,0:04:24.91,italics,Loid,0,0,0,,A change of pace is also important.
+Dialogue: 0,0:04:24.91,0:04:27.70,italics,Loid,0,0,0,,There are ways of earning \NStella besides academics.
+Dialogue: 0,0:04:29.66,0:04:30.70,main,Loid,0,0,0,,Right, then.
+Dialogue: 0,0:04:31.33,0:04:33.66,main,Loid,0,0,0,,Why don't we take a break \Nfrom studying and draw?
+Dialogue: 0,0:04:35.71,0:04:37.22,italics,Loid,0,0,0,,For example, art.
+Dialogue: 0,0:04:37.92,0:04:39.70,main,Loid,0,0,0,,Hey, that looks really cool!
+Dialogue: 0,0:04:40.13,0:04:42.63,main,Loid,0,0,0,,Is it a cheetah? No, wait...
+Dialogue: 0,0:04:43.17,0:04:44.51,main,Loid,0,0,0,,I bet it's a panda!
+Dialogue: 0,0:04:45.43,0:04:48.72,main,Anya,0,0,0,,It's a moo cow. The one that was at school.
+Dialogue: 0,0:04:53.52,0:04:55.34,main,Loid,0,0,0,,For example, music!
+Dialogue: 0,0:04:55.34,0:04:57.48,main,Loid,0,0,0,,This is a violin for children.
+Dialogue: 0,0:05:02.50,0:05:03.99,main,Loid,0,0,0,,There's always sports!
+Dialogue: 0,0:05:04.28,0:05:07.99,main,Anya,0,0,0,,Whoosh! Whoosh! Whoosh!
+Dialogue: 0,0:05:16.71,0:05:18.46,main,Loid,0,0,0,,Come on, don't cry.
+Dialogue: 0,0:05:18.46,0:05:19.79,italics,Loid,0,0,0,,Stay calm, Twilight.
+Dialogue: 0,0:05:20.13,0:05:22.42,italics,Loid,0,0,0,,A journey of a thousand miles \Nbegins with a single step.
+Dialogue: 0,0:05:22.42,0:05:24.34,italics,Loid,0,0,0,,She's still in first grade.
+Dialogue: 0,0:05:25.42,0:05:29.93,italics,Loid,0,0,0,,I need to figure out what she has a \Ntalent for and help her excel in it.
+Dialogue: 0,0:05:29.93,0:05:32.06,main,Yor,0,0,0,,Why don't we do some jump rope?
+Dialogue: 0,0:05:32.06,0:05:33.64,main,Yor,0,0,0,,It's a lot of fun.
+Dialogue: 0,0:05:34.14,0:05:36.02,italics,Loid,0,0,0,,Right. Don't panic.
+Dialogue: 0,0:05:36.44,0:05:40.06,italics,Loid,0,0,0,,It's not like Desmond is immediately \Ngoing to make his move.
+Dialogue: 0,0:05:40.52,0:05:44.44,italics,Loid,0,0,0,,It takes an incredible amount \Nof time to begin a war.
+Dialogue: 0,0:05:44.90,0:05:45.94,italics,Loid,0,0,0,,But...
+Dialogue: 0,0:05:47.78,0:05:52.45,flashback,Handler,0,0,0,,HQ was estimating that she'd be able to \Nreceive eight Stella in about four months.
+Dialogue: 0,0:05:52.87,0:05:56.12,italics,Loid,0,0,0,,Do we actually have that much time?
+Dialogue: 0,0:05:57.33,0:05:58.29,main,Anya,0,0,0,,Papa...
+Dialogue: 0,0:05:58.67,0:06:00.46,main,Anya,0,0,0,,Anya will do her best.
+Dialogue: 0,0:06:02.67,0:06:04.88,main,Anya,0,0,0,,Now untie me.
+Dialogue: 0,0:06:04.88,0:06:06.47,main,Loid,0,0,0,,Uh, right.
+Dialogue: 0,0:06:08.30,0:06:09.18,main,Loid,0,0,0,,Anya.
+Dialogue: 0,0:06:09.84,0:06:11.97,main,Loid,0,0,0,,Why don't we go out tomorrow?
+Dialogue: 0,0:06:12.85,0:06:14.31,main,Anya,0,0,0,,An ooting?
+Dialogue: 0,0:06:17.89,0:06:20.56,italics,Loid,0,0,0,,Academics, the arts, sports...
+Dialogue: 0,0:06:20.56,0:06:22.86,italics,Loid,0,0,0,,But there is actually one \Nother way to earn Stella.
+Dialogue: 0,0:06:23.44,0:06:24.73,italics,Loid,0,0,0,,Community service.
+Dialogue: 0,0:06:25.73,0:06:31.37,main,Head Nurse,0,0,0,,Thank you so much for agreeing to \Nvolunteer at our hospital today.
+Dialogue: 0,0:06:31.37,0:06:36.37,main,Head Nurse,0,0,0,,I will now go over the duties \Nwe'll be asking you to perform.
+Dialogue: 0,0:06:36.75,0:06:40.92,main,Head nurse,0,0,0,,We will have you split up into \Nyour families to perform your duties.
+Dialogue: 0,0:06:38.71,0:06:41.42,italicstop,Loid,0,0,0,,In the past, there have been \Nmany cases where students
+Dialogue: 0,0:06:41.42,0:06:44.25,italics,Loid,0,0,0,,did long-term volunteer work \Nto earn their Stella.
+Dialogue: 0,0:06:45.21,0:06:49.09,italics,Loid,0,0,0,,Rescuing others or helping \Napprehend criminals
+Dialogue: 0,0:06:49.09,0:06:52.26,italics,Loid,0,0,0,,were also methods a few used \Nto earn Stella, but rare.
+Dialogue: 0,0:06:52.85,0:06:56.39,italics,Loid,0,0,0,,We could use more personnel from \NHQ to act out these scenarios,
+Dialogue: 0,0:06:56.39,0:06:59.98,italics,Loid,0,0,0,,but considering the risks that could entail, \Nwe won't be able to easily pull that off.
+Dialogue: 0,0:06:57.27,0:07:00.77,top,Head nurse,0,0,0,,That is what we will be \Nexpecting from all of you.
+Dialogue: 0,0:07:01.19,0:07:03.77,italics,Loid,0,0,0,,Even if she isn't immediately \Nable to receive any Stella,
+Dialogue: 0,0:07:03.77,0:07:07.78,italics,Loid,0,0,0,,it would be beneficial to Anya to learn \Nthe importance of community service.
+Dialogue: 0,0:07:08.19,0:07:14.79,main,Head nurse,0,0,0,,Now, if I can have the Forgers \Nclean this dressing room.
+Dialogue: 0,0:07:15.03,0:07:16.79,main,Anya,0,0,0,,There's a pool!
+Dialogue: 0,0:07:16.79,0:07:19.00,main,Loid,0,0,0,,Yes, for physical therapy.
+Dialogue: 0,0:07:25.46,0:07:28.17,main,Head nurse,0,0,0,,Maybe cleaning was a bit difficult for you.
+Dialogue: 0,0:07:28.17,0:07:30.80,main,Head nurse,0,0,0,,Then let's have you organize \Nbooks in the library.
+Dialogue: 0,0:07:34.93,0:07:37.18,main,Nurse A,0,0,0,,Excuse me, sir, could you \Ndo something about... that?
+Dialogue: 0,0:07:40.10,0:07:42.56,main,Nurse A,0,0,0,,Could you go work somewhere else?
+Dialogue: 0,0:07:49.15,0:07:51.09,main,Anya,0,0,0,,Anya is bored with chores.
+Dialogue: 0,0:07:51.99,0:07:54.74,main,Anya,0,0,0,,I wanna do the job where I give \Nthe doctors their scalpels.
+Dialogue: 0,0:07:54.74,0:07:55.45,main,Loid,0,0,0,,Huh?
+Dialogue: 0,0:07:55.45,0:07:57.33,main,Anya,0,0,0,,I'mma go to the operating room!
+Dialogue: 0,0:07:57.33,0:07:59.54,main,Loid,0,0,0,,Hey! Stop that! Come back here!
+Dialogue: 0,0:08:12.05,0:08:15.34,main,Head nurse,0,0,0,,We've had enough of your "help"! Please leave!
+Dialogue: 0,0:08:17.89,0:08:20.27,main,Anya,0,0,0,,Papa, I'm sorry.
+Dialogue: 0,0:08:20.27,0:08:22.89,main,Loid,0,0,0,,Don't worry about it. \NEveryone fails sometimes.
+Dialogue: 0,0:08:23.23,0:08:27.94,italics,Loid,0,0,0,,But what do we do if our chances of earning \NStella through community service also dry up?
+Dialogue: 0,0:08:27.94,0:08:30.53,main,Ken,0,0,0,,Hey, is physical therapy hard?
+Dialogue: 0,0:08:30.53,0:08:31.99,main,Female swim instructor,0,0,0,,It is,
+Dialogue: 0,0:08:31.99,0:08:35.03,main,Female swim instructor,0,0,0,,but you need to work hard \Nso that you can run again.
+Dialogue: 0,0:08:35.03,0:08:36.66,main,Ken,0,0,0,,Man...
+Dialogue: 0,0:08:40.04,0:08:41.79,main,Male swim instructor,0,0,0,,Three more minutes.
+Dialogue: 0,0:08:43.54,0:08:46.42,main,Ken,0,0,0,,Hey, is the water in the pool cold?
+Dialogue: 0,0:08:46.42,0:08:49.96,main,Female swim instructor,0,0,0,,Don't worry about that. Go on, get changed.
+Dialogue: 0,0:08:49.96,0:08:51.80,main,Female swim instructor,0,0,0,,I'll go get changed, too.
+Dialogue: 0,0:08:53.42,0:08:58.64,top,Male swim instructor,0,0,0,,All right, one, two. One, two. One, two.
+Dialogue: 0,0:08:56.64,0:08:59.30,main,Ken,0,0,0,,I wonder if that's the adult pool...
+Dialogue: 0,0:08:58.64,0:09:00.72,top,Male swim instructor,0,0,0,,Focus on your toes.
+Dialogue: 0,0:09:01.02,0:09:05.35,top,Male swim instructor,0,0,0,,One, two. One, two. One, two. One, two.
+Dialogue: 0,0:09:05.27,0:09:08.44,main,Ken,0,0,0,,Man... it really is kinda cold.
+Dialogue: 0,0:09:05.35,0:09:09.73,top,Male swim instructor,0,0,0,,You're almost there! One, two. One, two.
+Dialogue: 0,0:09:10.94,0:09:12.32,main,Female swim instructor,0,0,0,,Ken?
+Dialogue: 0,0:09:13.61,0:09:16.45,main,Female swim instructor,0,0,0,,Huh? Is he still changing?
+Dialogue: 0,0:09:22.45,0:09:26.96,italics,Loid,0,0,0,,Hmm... I might have to ask HQ \Nto reconsider our game plan.
+Dialogue: 0,0:09:27.46,0:09:29.38,italics,Ken,0,0,0,,C-Can't... breathe...
+Dialogue: 0,0:09:29.38,0:09:32.71,italics,Ken,0,0,0,,My legs... won't move...
+Dialogue: 0,0:09:35.51,0:09:36.51,main,Anya,0,0,0,,The pool!
+Dialogue: 0,0:09:36.51,0:09:37.38,main,Anya,0,0,0,,Papa!
+Dialogue: 0,0:09:37.38,0:09:39.72,main,Loid,0,0,0,,What is it? You just went to \Nthe bathroom, didn't you?
+Dialogue: 0,0:09:40.14,0:09:42.14,main,Anya,0,0,0,,Someone's drowning in the pool!
+Dialogue: 0,0:09:42.14,0:09:44.43,main,Loid,0,0,0,,What?! How do you know that?
+Dialogue: 0,0:09:44.43,0:09:46.31,main,Loid,0,0,0,,Exactly who are you?!
+Dialogue: 0,0:09:49.10,0:09:51.86,italics,Ken,0,0,0,,Help me... Help me...
+Dialogue: 0,0:09:51.86,0:09:52.98,main,Anya,0,0,0,,Papa...
+Dialogue: 0,0:09:53.65,0:09:56.86,main,Anya,0,0,0,,Anya is terrible at volunteering.
+Dialogue: 0,0:09:57.43,0:09:58.90,main,Anya,0,0,0,,So I...
+Dialogue: 0,0:09:59.87,0:10:02.41,main,Anya,0,0,0,,I'm gonna become a pro swimmer and get stars,
+Dialogue: 0,0:10:02.41,0:10:04.95,main,Anya,0,0,0,,so I'm gonna go practice in the pool!
+Dialogue: 0,0:10:04.95,0:10:08.37,main,Loid,0,0,0,,What?! Come back here! \NThat's not a public pool!
+Dialogue: 0,0:10:11.92,0:10:13.37,main,Female swim instructor,0,0,0,,Ken!
+Dialogue: 0,0:10:14.67,0:10:17.01,main,Female swim instructor,0,0,0,,He must've snuck out.
+Dialogue: 0,0:10:18.63,0:10:19.80,main,Female swim instructor,0,0,0,,Hey!
+Dialogue: 0,0:10:20.34,0:10:21.64,main,Female swim instructor,0,0,0,,Where are your parents?
+Dialogue: 0,0:10:22.10,0:10:25.56,main,Anya,0,0,0,,Wow! The pool! How fun!
+Dialogue: 0,0:10:26.02,0:10:27.60,main,Patient A,0,0,0,,What's that about?
+Dialogue: 0,0:10:28.39,0:10:30.69,italics,Anya,0,0,0,,Where is the drowning person?
+Dialogue: 0,0:10:30.69,0:10:31.40,italics,Ken,0,0,0,,I'm...
+Dialogue: 0,0:10:33.90,0:10:36.49,italics,Ken,0,0,0,,I'm... gonna die...
+Dialogue: 0,0:10:48.58,0:10:50.57,main,Female swim instructor,0,0,0,,What are you doing, little girl?!
+Dialogue: 0,0:11:03.10,0:11:05.43,italics,Anya,0,0,0,,Anya... can't... anymore...
+Dialogue: 0,0:11:17.78,0:11:19.40,main,Loid,0,0,0,,Hey, are you two all right?
+Dialogue: 0,0:11:19.40,0:11:20.70,main,Female swim instructor,0,0,0,,Ken!
+Dialogue: 0,0:11:21.99,0:11:22.82,main,Anya,0,0,0,,Papa...
+Dialogue: 0,0:11:23.03,0:11:25.49,top,Female swim instructor,0,0,0,,Someone get a doctor!
+Dialogue: 0,0:11:24.70,0:11:28.41,main,Anya,0,0,0,,I tried to swim and found this boy sinking.
+Dialogue: 0,0:11:28.41,0:11:29.46,main,Female swim instructor,0,0,0,,Ken!
+Dialogue: 0,0:11:31.25,0:11:32.83,main,Female swim instructor,0,0,0,,Are you all right?
+Dialogue: 0,0:11:32.83,0:11:34.59,main,Female swim instructor,0,0,0,,Ken!
+Dialogue: 0,0:11:33.21,0:11:34.38,top,Loid,0,0,0,,Calm down, miss.
+Dialogue: 0,0:11:34.38,0:11:35.59,top,Male swim instructor,0,0,0,,Is everything okay?
+Dialogue: 0,0:11:35.59,0:11:37.63,main,Female swim instructor,0,0,0,,Ken! Ken!
+Dialogue: 0,0:11:43.59,0:11:46.01,main,Patient A,0,0,0,,But there were so many people around.
+Dialogue: 0,0:11:46.01,0:11:47.51,main,Patient B,0,0,0,,Did you hear anything?
+Dialogue: 0,0:11:46.89,0:11:49.31,top,Female swim instructor,0,0,0,,I'm so sorry! I had no \Nidea you were drowning!
+Dialogue: 0,0:11:49.31,0:11:51.10,main,Loid,0,0,0,,It was a drowning response.
+Dialogue: 0,0:11:51.52,0:11:54.98,main,Loid,0,0,0,,Children tend to drown more \Nquietly than you would expect.
+Dialogue: 0,0:11:55.61,0:11:58.57,main,Loid,0,0,0,,Many die because no one \Nnotices they're drowning.
+Dialogue: 0,0:11:58.57,0:12:00.69,main,Loid,0,0,0,,Please make sure you keep your eye on him.
+Dialogue: 0,0:12:01.11,0:12:03.41,main,Loid,0,0,0,,And good job for noticing.
+Dialogue: 0,0:12:04.20,0:12:06.53,main,Anya,0,0,0,,I saw bubbles.
+Dialogue: 0,0:12:07.08,0:12:09.20,main,Loid,0,0,0,,And you should be careful, too.
+Dialogue: 0,0:12:09.20,0:12:11.29,main,Female swim instructor,0,0,0,,Thank you! Thank you!
+Dialogue: 0,0:12:11.29,0:12:14.50,main,Patient B,0,0,0,,Well done, little girl!
+Dialogue: 0,0:12:30.22,0:12:33.35,main,Instructor,0,0,0,,First-year student from the \NCecile Dorm, Anya Forger,
+Dialogue: 0,0:12:33.35,0:12:36.73,main,Instructor,0,0,0,,has earned a Stella for rescuing a boy.
+Dialogue: 0,0:12:41.94,0:12:43.90,main,Becky,0,0,0,,You're amazing, Anya!
+Dialogue: 0,0:12:43.90,0:12:45.99,main,Becky,0,0,0,,You're the first of the \Nfirst graders to get one!
+Dialogue: 0,0:12:46.24,0:12:48.99,main,Becky,0,0,0,,I'm so proud of you for some reason.
+Dialogue: 0,0:12:46.41,0:12:50.33,top,Henry,0,0,0,,Ultra-amazingly elegant, Miss Forger.
+Dialogue: 0,0:12:48.99,0:12:50.91,main,Becky,0,0,0,,Well done, Anya!
+Dialogue: 0,0:12:52.29,0:12:53.91,main,Damian,0,0,0,,She beat me.
+Dialogue: 0,0:13:06.34,0:13:09.93,main,Yor,0,0,0,,You're amazing, Miss Anya! Truly amazing!
+Dialogue: 0,0:13:09.93,0:13:11.77,main,Yor,0,0,0,,I'm so happy for you!
+Dialogue: 0,0:13:11.77,0:13:13.81,italics,Loid,0,0,0,,She unexpectedly earned a Stella.
+Dialogue: 0,0:13:14.52,0:13:16.44,italics,Loid,0,0,0,,An excellent result,
+Dialogue: 0,0:13:17.65,0:13:18.77,italics,Loid,0,0,0,,but how do I describe this?
+Dialogue: 0,0:13:18.77,0:13:22.53,italics,Loid,0,0,0,,It's similar to how I feel when\N I've thwarted a terrorist attack.
+Dialogue: 0,0:13:22.99,0:13:24.53,italics,Loid,0,0,0,,I'm so proud of her.
+Dialogue: 0,0:13:25.57,0:13:26.70,main,Loid,0,0,0,,Well done.
+Dialogue: 0,0:13:28.41,0:13:32.04,italics,Anya,0,0,0,,Anya's powers actually helped someone?
+Dialogue: 0,0:13:36.62,0:13:37.75,main,Anya,0,0,0,,Eheh!
+Dialogue: 0,0:13:39.61,0:13:43.42,main,Yor,0,0,0,,All right, then. I'm going \Nto make you a feast today.
+Dialogue: 0,0:13:45.17,0:13:47.05,main,Anya,0,0,0,,Anya wants Papa to cook.
+Dialogue: 0,0:13:46.82,0:13:50.89,sign_7726_70_He_was_worried__,,0,0,0,,{\fad(500,1)\an7\fs18\fnArial\bord3\3c&HFFFFFF&\fscx90\pos(295,46)}Stella needed to become an Imperial Scholar: 7\N\N{\fscx100}Tonitrus Bolts until expulsion: 7\N\NEveryone's respect: +100
+Dialogue: 0,0:13:47.05,0:13:48.18,main,Yor,0,0,0,,Shock!
+Dialogue: 0,0:14:00.23,0:14:04.36,main,Handler,0,0,0,,I heard that your daughter earned \Na Stella, Agent Twilight.
+Dialogue: 0,0:14:04.74,0:14:08.24,main,Loid,0,0,0,,Yes, Handler. She somehow managed it.
+Dialogue: 0,0:14:09.07,0:14:12.62,main,Handler,0,0,0,,Couldn't we set things up with other agents
+Dialogue: 0,0:14:12.62,0:14:16.83,main,Handler,0,0,0,,to fake whatever you need \Nto get the other Stella?
+Dialogue: 0,0:14:17.29,0:14:19.58,main,Loid,0,0,0,,People would get suspicious.
+Dialogue: 0,0:14:19.58,0:14:22.63,main,Loid,0,0,0,,More importantly, we can't \Ntake risks that could potentially
+Dialogue: 0,0:14:23.17,0:14:25.92,main,Loid,0,0,0,,expose the identities of other \Nagents or get them arrested.
+Dialogue: 0,0:14:27.01,0:14:28.59,main,Handler,0,0,0,,Yes, you've got a point.
+Dialogue: 0,0:14:29.59,0:14:31.60,main,Loid,0,0,0,,Is HQ panicking a bit?
+Dialogue: 0,0:14:32.26,0:14:33.10,main,Handler,0,0,0,,No.
+Dialogue: 0,0:14:33.60,0:14:36.36,main,Handler,0,0,0,,But there are numerous \Nbusinesses surrounding Desmond
+Dialogue: 0,0:14:36.36,0:14:38.94,main,Handler,0,0,0,,that seem to be engaging in shady \Nfinancial dealings lately.
+Dialogue: 0,0:14:39.73,0:14:41.94,main,Handler,0,0,0,,We can't be too laid back in this situation.
+Dialogue: 0,0:14:42.36,0:14:45.11,main,Handler,0,0,0,,Try to make contact with Desmond immediately.
+Dialogue: 0,0:14:45.65,0:14:50.07,main,Handler,0,0,0,,Give your daughter some candy or \Nsomething to get her motivated.
+Dialogue: 0,0:14:51.24,0:14:52.37,main,Girl student A,0,0,0,,Morning!
+Dialogue: 0,0:14:52.37,0:14:54.03,main,Girl student B,0,0,0,,Did you see that thing yesterday?
+Dialogue: 0,0:14:54.54,0:14:56.83,main,Boy student A,0,0,0,,I forgot my homework!
+Dialogue: 0,0:15:09.51,0:15:10.26,main,Anya,0,0,0,,Heh.
+Dialogue: 0,0:15:11.30,0:15:15.35,main,Boy student A,0,0,0,,Hey, is that her? The girl from \NClass 3 that suddenly got a Stella?
+Dialogue: 0,0:15:15.35,0:15:16.97,main,Boy student B,0,0,0,,Apparently it's a new record.
+Dialogue: 0,0:15:16.97,0:15:18.60,main,Girl student A,0,0,0,,I heard she rescued someone.
+Dialogue: 0,0:15:18.60,0:15:22.56,italics,Anya,0,0,0,,This star is just so brilliant \Nthat I stand out now.
+Dialogue: 0,0:15:18.85,0:15:19.89,top,Boy student A,0,0,0,,Really?
+Dialogue: 0,0:15:23.61,0:15:24.32,main,Anya,0,0,0,,Heh.
+Dialogue: 0,0:15:30.40,0:15:32.41,main,Becky,0,0,0,,Good morning, Anya!
+Dialogue: 0,0:15:33.57,0:15:35.62,main,Anya,0,0,0,,Tsk, tsk, tsk.
+Dialogue: 0,0:15:37.83,0:15:40.21,main,Anya,0,0,0,,Call me "Starlight Anya."
+Dialogue: 0,0:15:41.62,0:15:43.08,main,Becky,0,0,0,,Uh... Sure.
+Dialogue: 0,0:15:47.55,0:15:50.05,main,Becky,0,0,0,,You're totally like a celebrity now.
+Dialogue: 0,0:15:50.05,0:15:51.76,main,Becky,0,0,0,,Everyone looks up to you.
+Dialogue: 0,0:15:51.76,0:15:53.93,main,Becky,0,0,0,,You might even make a hundred friends!
+Dialogue: 0,0:15:54.89,0:15:55.60,main,Anya as Damian,0,0,0,,Bam!
+Dialogue: 0,0:15:55.80,0:15:59.10,main,Anya as Damian,0,0,0,,I totally see you in a new light, \NMiss Anya! Be my friend!
+Dialogue: 0,0:15:59.35,0:16:02.60,main,Anya as Damian,0,0,0,,You should totally come over \Nto my place with your dad!
+Dialogue: 0,0:16:03.10,0:16:03.60,main,Anya as Loid,0,0,0,,Bam!
+Dialogue: 0,0:16:03.98,0:16:07.11,main,Anya as Loid,0,0,0,,Well done, Anya! The mission is now a success!
+Dialogue: 0,0:16:07.44,0:16:09.82,italics,Narrator,0,0,0,,And so the world was at peace.
+Dialogue: 0,0:16:11.32,0:16:13.16,main,Damian,0,0,0,,Don't get a big head.
+Dialogue: 0,0:16:16.53,0:16:18.74,main,Becky,0,0,0,,What's their problem? \NUgh! They make me so mad!
+Dialogue: 0,0:16:18.74,0:16:21.86,italics,Anya,0,0,0,,That didn't go as planned. \NThe world is in peril.
+Dialogue: 0,0:16:22.46,0:16:24.25,main,Becky,0,0,0,,Let's go, Anya.
+Dialogue: 0,0:16:30.21,0:16:33.22,main,Becky,0,0,0,,Let's go, Starlight Anya.
+Dialogue: 0,0:16:33.22,0:16:34.09,main,Anya,0,0,0,,Yup.
+Dialogue: 0,0:16:35.26,0:16:36.72,main,Becky,0,0,0,,Ugh, what a pain.
+Dialogue: 0,0:16:40.88,0:16:43.14,main,Boy student C,0,0,0,,Ha. That's hilarious.
+Dialogue: 0,0:16:43.48,0:16:46.77,main,Boy student D,0,0,0,,Who does she think she is?
+Dialogue: 0,0:16:46.77,0:16:49.90,main,Boy student D,0,0,0,,She keeps showing off her stupid badge.
+Dialogue: 0,0:16:49.90,0:16:53.32,main,Boy student C,0,0,0,,Who actually comes to school wearing it?
+Dialogue: 0,0:16:53.61,0:16:58.12,main,Girl student C,0,0,0,,Who would believe such a violent \Ngirl actually rescued someone?
+Dialogue: 0,0:16:58.12,0:17:00.54,main,Girl student D,0,0,0,,They say she saved a kid from drowning,
+Dialogue: 0,0:17:00.54,0:17:03.50,main,Girl student D,0,0,0,,but she probably kicked him \Nin and let him sink herself.
+Dialogue: 0,0:17:03.50,0:17:05.25,main,Girl student C,0,0,0,,Oh, I could totally see that!
+Dialogue: 0,0:17:05.25,0:17:08.96,main,Girl student D,0,0,0,,What if she actually paid the school \Na bunch of money for her Stella?
+Dialogue: 0,0:17:08.96,0:17:12.67,main,Girl student E,0,0,0,,What? She doesn't look {/i1}that{/i0} rich to me.
+Dialogue: 0,0:17:12.67,0:17:14.22,main,Anya,0,0,0,,Shock...
+Dialogue: 0,0:17:15.22,0:17:18.68,main,Becky,0,0,0,,Don't even worry about it. \NThey're all just jealous.
+Dialogue: 0,0:17:19.56,0:17:23.31,main,Girl student F,0,0,0,,Hey, Damian. Wouldn't you agree?
+Dialogue: 0,0:17:23.31,0:17:25.31,main,Girl student G,0,0,0,,She totally cheated, didn't she?
+Dialogue: 0,0:17:25.69,0:17:28.31,main,Damian,0,0,0,,Do you really think we go\N to some third-rate school
+Dialogue: 0,0:17:28.31,0:17:31.28,main,Damian,0,0,0,,that would hand out Stella by mistake?\NOr because someone was being underhanded?
+Dialogue: 0,0:17:31.82,0:17:33.49,main,Damian,0,0,0,,{\i1}Is{\i0} that what you think?
+Dialogue: 0,0:17:33.81,0:17:35.32,main,Girl student F,0,0,0,,Uh, no...
+Dialogue: 0,0:17:36.28,0:17:38.32,main,Damian,0,0,0,,If you've got a problem with our school,
+Dialogue: 0,0:17:38.32,0:17:40.37,main,Damian,0,0,0,,why don't you take the \Ntransfer exam for another one?
+Dialogue: 0,0:17:40.83,0:17:44.08,italics,Ewen,0,0,0,,He's so manly at times like this.
+Dialogue: 0,0:17:44.08,0:17:45.83,italics,Emile,0,0,0,,Gosh, he's cool.
+Dialogue: 0,0:17:46.12,0:17:51.38,italics,Damian,0,0,0,,The fact that she didn't cheat is why I'm so \Nmad that this little shrimp got ahead of me.
+Dialogue: 0,0:17:53.21,0:17:56.19,main,Becky,0,0,0,,Maybe he's more earnest than he looks.
+Dialogue: 0,0:17:57.18,0:17:59.18,main,Instructor,0,0,0,,Let's begin class.
+Dialogue: 0,0:18:09.48,0:18:10.61,main,Becky,0,0,0,,By the way,
+Dialogue: 0,0:18:10.61,0:18:13.28,main,Becky,0,0,0,,have you decided what your \Nreward's going to be,
+Dialogue: 0,0:18:13.28,0:18:16.15,main,Becky,0,0,0,,An—Starlight Anya?
+Dialogue: 0,0:18:16.15,0:18:17.11,main,Anya,0,0,0,,Reward?
+Dialogue: 0,0:18:17.32,0:18:21.70,main,Becky,0,0,0,,Of course! Whenever you work \Nreally hard on tests or contests,
+Dialogue: 0,0:18:21.70,0:18:23.49,main,Becky,0,0,0,,you're supposed to get a reward.
+Dialogue: 0,0:18:23.49,0:18:25.08,main,Anya,0,0,0,,You mean I can get peanuts?
+Dialogue: 0,0:18:25.08,0:18:27.62,main,Becky,0,0,0,,Come on, you should ask for \Nsomething way more expensive.
+Dialogue: 0,0:18:27.92,0:18:30.04,main,Becky,0,0,0,,After the test we had the other day,
+Dialogue: 0,0:18:30.04,0:18:33.00,main,Becky,0,0,0,,I got them to buy me a cute \Nlittle dress and a tiara!
+Dialogue: 0,0:18:34.25,0:18:35.63,main,Becky,0,0,0,,But I mean...
+Dialogue: 0,0:18:35.88,0:18:38.84,main,Becky,0,0,0,,I guess they haven't given me {\i1}that{\i0} much.
+Dialogue: 0,0:18:40.30,0:18:44.77,main,Anya,0,0,0,,Is your family part of a secret \Norganization that pulls the world's strings?
+Dialogue: 0,0:18:44.77,0:18:47.64,main,Becky,0,0,0,,What are you talking about? \NThey run a perfectly legitimate company.
+Dialogue: 0,0:18:51.02,0:18:53.07,main,Anya,0,0,0,,Then Anya wants a castle.
+Dialogue: 0,0:18:53.07,0:18:55.82,main,Becky,0,0,0,,That might be asking for too much.
+Dialogue: 0,0:18:55.82,0:18:57.28,main,Becky,0,0,0,,Where would you even put it?
+Dialogue: 0,0:18:58.74,0:18:59.66,main,Anya,0,0,0,,Then...
+Dialogue: 0,0:18:59.95,0:19:01.99,main,Anya,0,0,0,,A year's worth of peanuts?
+Dialogue: 0,0:19:01.99,0:19:06.08,main,Becky,0,0,0,,That shouldn't be a problem at all, \Nbut is that really what you want?
+Dialogue: 0,0:19:08.00,0:19:10.12,main,Anya,0,0,0,,Rewards are difficult.
+Dialogue: 0,0:19:10.67,0:19:16.42,main,Becky,0,0,0,,Well... I think the reward that made \Nme the happiest is my little Wiesel.
+Dialogue: 0,0:19:16.42,0:19:20.18,main,Becky,0,0,0,,Oh, that's my puppy! It's the cutest!
+Dialogue: 0,0:19:20.18,0:19:22.22,flashback,Becky,0,0,0,,Come here, Weezy!
+Dialogue: 0,0:19:23.68,0:19:25.10,main,Anya,0,0,0,,Mister Dog?
+Dialogue: 0,0:19:30.14,0:19:32.23,main,Anya,0,0,0,,Do you have a dog, too, Second Son?
+Dialogue: 0,0:19:33.40,0:19:34.86,main,Damian,0,0,0,,Huh? A dog?
+Dialogue: 0,0:19:34.86,0:19:37.19,main,Becky,0,0,0,,What are you asking that jerk for?
+Dialogue: 0,0:19:39.19,0:19:40.78,flashback,Damian,0,0,0,,Max!
+Dialogue: 0,0:19:43.32,0:19:44.71,main,Damian,0,0,0,,Who cares?
+Dialogue: 0,0:19:44.98,0:19:46.79,main,Damian,0,0,0,,Don't talk to me!
+Dialogue: 0,0:19:50.16,0:19:52.17,main,Anya,0,0,0,,Anya has a doggy now, too.
+Dialogue: 0,0:19:52.17,0:19:55.59,main,Anya as Damian,0,0,0,,All right! Let's see who's cuter, yours or my Max!
+Dialogue: 0,0:19:55.59,0:19:58.46,main,Anya as Damian,0,0,0,,Bring it over to my place! And your dad, too!
+Dialogue: 0,0:20:00.17,0:20:02.43,main,Anya as Donovan,0,0,0,,Well, hello, Mr. Forger.
+Dialogue: 0,0:20:02.72,0:20:05.43,main,Anya as Loid,0,0,0,,Let's stop this war, Mr. Desmond.
+Dialogue: 0,0:20:05.80,0:20:08.14,italics,Narrator,0,0,0,,And so the world was at peace.
+Dialogue: 0,0:20:09.64,0:20:10.39,main,Anya,0,0,0,,Heh.
+Dialogue: 0,0:20:12.06,0:20:15.40,main,Loid,0,0,0,,You want a dog... as a reward?
+Dialogue: 0,0:20:15.40,0:20:16.07,main,Anya,0,0,0,,Mm-hm.
+Dialogue: 0,0:20:16.44,0:20:18.82,main,Anya,0,0,0,,Having a dog will bring peace.
+Dialogue: 0,0:20:18.82,0:20:20.86,main,Loid,0,0,0,,Peace? Like peace of mind?
+Dialogue: 0,0:20:21.36,0:20:25.57,main,Loid,0,0,0,,Hmm... Well, I {\i1}was{\i0} thinking \Nof buying you something.
+Dialogue: 0,0:20:27.28,0:20:28.45,main,Yor,0,0,0,,Miss Anya...
+Dialogue: 0,0:20:28.91,0:20:32.54,main,Yor,0,0,0,,Taking care of a living creature \Nrequires a lot of work.
+Dialogue: 0,0:20:32.54,0:20:34.83,main,Yor,0,0,0,,It is a very big responsibility!
+Dialogue: 0,0:20:34.83,0:20:36.17,main,Anya,0,0,0,,Responsibility...
+Dialogue: 0,0:20:38.71,0:20:41.47,main,Loid,0,0,0,,A dog, huh? Yeah...
+Dialogue: 0,0:20:42.22,0:20:44.09,main,Loid,0,0,0,,Let's discuss this a bit further.
+Dialogue: 0,0:20:44.09,0:20:45.30,main,Yor,0,0,0,,Loid...
+Dialogue: 0,0:20:45.30,0:20:46.39,main,Anya,0,0,0,,Papa!
+Dialogue: 0,0:20:46.72,0:20:51.98,italics,Loid,0,0,0,,A properly trained dog may prove \Nuseful in securing this house.
+Dialogue: 0,0:20:52.94,0:20:55.31,italics,Yor,0,0,0,,Dogs are so violent, though.
+Dialogue: 0,0:20:55.31,0:20:58.94,italics,Yor,0,0,0,,I'm so terribly worried that one \Nmight rip Miss Anya to shreds.
+Dialogue: 0,0:21:00.19,0:21:03.28,main,Anya,0,0,0,,Anya would like a cute puppy, please, Papa.
+Dialogue: 0,0:21:03.28,0:21:04.49,main,Anya,0,0,0,,A tiny one.
+Dialogue: 0,0:21:04.49,0:21:06.70,main,Loid,0,0,0,,Huh? Sure, all right.
+Dialogue: 0,0:21:10.49,0:21:14.04,italics,Loid,0,0,0,,Ah, well. I'm sure we can find \Na small dog that's still capable.
+Dialogue: 0,0:21:14.04,0:21:16.54,italics,Loid,0,0,0,,I'll see if HQ can get us one later.
+Dialogue: 0,0:21:17.79,0:21:21.05,main,Loid,0,0,0,,All right. Why don't we go \Nto a pet shop this weekend?
+Dialogue: 0,0:21:26.43,0:21:28.26,main,Smuggler A,0,0,0,,We get a buyer yet?
+Dialogue: 0,0:21:29.47,0:21:32.06,main,Smuggler B,0,0,0,,Things are pretty tough right now.
+Dialogue: 0,0:21:32.68,0:21:35.60,main,Smuggler B,0,0,0,,We got some punks who think \Nthey're revolutionaries.
+Dialogue: 0,0:21:36.48,0:21:39.49,main,Smuggler A,0,0,0,,What, they gonna use 'em as bomb dogs?
+Dialogue: 0,0:21:39.73,0:21:41.82,main,Smuggler A,0,0,0,,These little guys sure have it rough,
+Dialogue: 0,0:21:41.82,0:21:45.99,main,Smuggler A,0,0,0,,getting tinkered with just so they can \Nend up as toys for some humans.
+Dialogue: 0,0:21:51.49,0:21:54.23,main,Smuggler B,0,0,0,,Shut up! If you want food, quit yer yappin'!
+Dialogue: 0,0:21:54.49,0:21:58.77,main,Smuggler A,0,0,0,,They sure don't look that smart.
+Dialogue: 0,0:21:59.68,0:22:02.01,main,Smuggler A,0,0,0,,Do Numbers Three and Five look weaker to you?
+Dialogue: 0,0:22:02.01,0:22:04.49,main,Smuggler B,0,0,0,,Hell if I know. Who cares?
+Dialogue: 0,0:22:07.83,0:22:10.52,main,Smuggler A,0,0,0,,God, it always reeks in here.
+Dialogue: 0,0:22:10.52,0:22:12.24,main,Smuggler B,0,0,0,,Yeah, let's get the hell outta here.
+Dialogue: 0,0:22:20.31,0:22:22.02,main,Anya,0,0,0,,Anya wants this one...
+Dialogue: 0,0:22:22.02,0:22:23.24,main,Anya,0,0,0,,Or this one!
+Dialogue: 0,0:22:23.48,0:22:25.79,main,Yor,0,0,0,,Oh, thank goodness. They look very weak.
+Dialogue: 0,0:24:06.88,0:24:09.87,sign_6041_79_OPERATION_STRIX,,0,0,0,,{\pos(436,282)}PENGUIN PARK

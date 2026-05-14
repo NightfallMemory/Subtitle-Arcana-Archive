@@ -1,0 +1,479 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: sign_6041_79_OPERATION_STRIX,Trebuchet MS,27,&H19FFFFFF,&H000000FF,&H7D000000,&H96000000,-1,0,0,0,100,100,0,0,1,2,1,1,30,30,20,1
+Style: sign_7726_70_He_was_worried__,Trebuchet MS,25,&H0026292D,&H000000FF,&H00F1FAFB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,30,30,20,1
+Style: sign_13319_178__But_then_John_r,Verdana,23,&H001A1C1C,&H000000FF,&H00FEFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,20,1
+Style: sign_2226_17_CARRY_OUT_THE_GR,Trebuchet MS,25,&H00000000,&H000000FF,&H4BFFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,30,30,20,1
+Style: sign_4065_41_Second_Son_s_Hom,Comic Sans MS,8,&H00000100,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_32319_339_Omelet_Rice___,Trebuchet MS,40,&H004CCBEF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,0,2,8,30,30,20,1
+Style: sign_1402_19_Supplementary_Le,Trebuchet MS,8,&H0081998A,&H000000FF,&H002C4435,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,20,1
+Style: sign_6150_85_is_a_goddess_,Verdana,8,&H001A1C1C,&H000000FF,&H00FEFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,2,6,30,30,20,1
+Style: sign_7655_120_Biology_for_Good,Verdana,23,&H003D4241,&H000000FF,&H00EDF0ED,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+Style: sign_9163_143_Sis_,Trebuchet MS,40,&H00FFF9F7,&H000000FF,&H00A232D7,&H009C36C5,-1,0,0,0,100,100,0,0,1,2,2,7,30,30,20,1
+Style: sign_8129_90_3_Days_Later,Verdana,27,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,30,30,20,1
+Style: sign_24580_375_WRONG,Arial,13,&H00C4BDB1,&H000000FF,&H00EDF0ED,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,20,1
+Style: sign_32013_479_Stella_needed_to,Verdana,9,&H001A1C1C,&H000000FF,&H00FEFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,20,1
+Style: sign_26325_339_SECRET_CODE_,Arial,20,&H00484D4A,&H000000FF,&H00F0F3F1,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,30,30,20,1
+Style: sign_102_1_WISE_Safe_House_,Arial,25,&H00FFFFFF,&H000000FF,&HC8000000,&HC8000000,-1,0,0,0,100,100,0,0,1,2,1,2,30,30,20,1
+Style: sign_32795_345_Salt_Flavored,Arial,8,&H001A1C1C,&H000000FF,&H00EEEEED,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,20,1
+Style: sign_26518_282_Love_Love_Love,Trebuchet MS,40,&H001C00E6,&H000000FF,&H000F0C0D,&H009C36C5,-1,0,0,0,100,100,0,0,1,4,0,5,30,30,20,1
+Style: sign_8477_99_Missing,Arial,13,&H003F4645,&H000000FF,&H00EEF3F2,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.14,0:00:04.44,italicstop,OP,0,0,0,,Well, apparently I've discovered that
+Dialogue: 0,0:00:04.44,0:00:07.52,italicstop,OP,0,0,0,,I can take these yawn-filled days
+Dialogue: 0,0:00:07.52,0:00:10.48,italicstop,OP,0,0,0,,And turn them into movies
+Dialogue: 0,0:00:10.48,0:00:13.49,italicstop,OP,0,0,0,,I've found the secret and trick to it
+Dialogue: 0,0:00:13.49,0:00:16.45,italicstop,OP,0,0,0,,Under this sky where we don't get along
+Dialogue: 0,0:00:16.45,0:00:19.54,italicstop,OP,0,0,0,,I closed my heart and locked it
+Dialogue: 0,0:00:19.54,0:00:22.58,italicstop,OP,0,0,0,,That's how I've managed to live my life
+Dialogue: 0,0:00:22.58,0:00:24.58,italicstop,OP,0,0,0,,And the melodies now overlap
+Dialogue: 0,0:00:24.58,0:00:31.34,italicstop,OP,0,0,0,,I wanted a sign, no matter how small
+Dialogue: 0,0:00:31.34,0:00:38.26,italicstop,OP,0,0,0,,That I could actually find \Nbetter than any streetlight
+Dialogue: 0,0:00:38.76,0:00:45.14,italicstop,OP,0,0,0,,I put a ribbon on each of the \Nsights that my eyes pick out
+Dialogue: 0,0:00:45.14,0:00:51.07,italicstop,OP,0,0,0,,And I collect them like souvenirs \Nas I continue down this path home
+Dialogue: 0,0:00:51.07,0:00:57.07,italicstop,OP,0,0,0,,The seasons each say hello, \Nand I shed a few tears as I go
+Dialogue: 0,0:00:57.07,0:01:03.33,italicstop,OP,0,0,0,,Where should I begin to talk about \Nthis way home that you've given me?
+Dialogue: 0,0:01:03.33,0:01:11.46,italicstop,OP,0,0,0,,I walk and walk and sometimes \Nrush on my way to see you
+Dialogue: 0,0:01:15.22,0:01:23.64,italicstop,OP,0,0,0,,I run and run, wait, no, I should \Nstill walk on my way to see you
+Dialogue: 0,0:01:37.91,0:01:41.37,main,Wife A,0,0,0,,Oh, you don't say! Really?
+Dialogue: 0,0:01:41.37,0:01:44.20,main,Wife B,0,0,0,,Yes, really! That's why I've been saying...
+Dialogue: 0,0:01:44.20,0:01:46.37,main,Wife B,0,0,0,,Oh? Good morning, Mrs. Forger.
+Dialogue: 0,0:01:46.37,0:01:48.54,main,Wife B,0,0,0,,What's the matter? You look so blue.
+Dialogue: 0,0:01:48.54,0:01:51.50,main,Yor,0,0,0,,Am I going to be tossed aside?
+Dialogue: 0,0:01:51.50,0:01:52.38,main,Wife A,0,0,0,,Huh?
+Dialogue: 0,0:01:52.38,0:01:56.67,main,Yor,0,0,0,,When I really think about it, it never \Nmattered if I won that tennis match.
+Dialogue: 0,0:01:58.55,0:01:59.93,main,Wife A,0,0,0,,What in the world?
+Dialogue: 0,0:01:59.93,0:02:03.35,main,Wife B,0,0,0,,Her husband cheated on her. I just know it.
+Dialogue: 0,0:02:03.35,0:02:06.06,main,Wife A,0,0,0,,Oh, heavens! What an awful man!
+Dialogue: 0,0:02:07.06,0:02:09.48,main,Wife A,0,0,0,,Well, look at how handsome he is!\N I guess it's to be expected.
+Dialogue: 0,0:02:09.48,0:02:12.11,main,Wife A,0,0,0,,Women just flock to him \Nlike fruit flies on fruit.
+Dialogue: 0,0:02:12.11,0:02:14.36,main,Wife B,0,0,0,,I hope the missus doesn't sell \Nhim off to the Secret Police
+Dialogue: 0,0:02:14.36,0:02:17.32,main,Wife B,0,0,0,,like the woman in apartment 15\N did with her husband.
+Dialogue: 0,0:02:18.45,0:02:21.57,italics,Loid,0,0,0,,Is Yor concerned about Nightfall?
+Dialogue: 0,0:02:21.57,0:02:22.74,italics,Loid,0,0,0,,Not good.
+Dialogue: 0,0:02:22.74,0:02:25.29,italics,Loid,0,0,0,,This would be bad for my cover,
+Dialogue: 0,0:02:25.29,0:02:27.87,italics,Loid,0,0,0,,and if she just happened to \Nmention it to her brother...
+Dialogue: 0,0:02:27.87,0:02:29.46,main,Yor,0,0,0,,So that's what happened.
+Dialogue: 0,0:02:29.46,0:02:32.46,main,Yuri,0,0,0,,That utter bastard! \NI'll execute him immediately!
+Dialogue: 0,0:02:32.46,0:02:34.34,main,Yuri,0,0,0,,I'll get the entire \NState Security Service on it!
+Dialogue: 0,0:02:34.34,0:02:36.21,italics,Loid,0,0,0,,I can definitely see that happening.
+Dialogue: 0,0:02:36.21,0:02:39.22,sign_6041_79_OPERATION_STRIX,Sign,0,0,0,,{\fscx50\pos(398,285)}THE ROLE OF A MOTHER AND WIFE
+Dialogue: 0,0:02:36.42,0:02:38.09,main,Anya,0,0,0,,Wah!
+Dialogue: 0,0:02:38.09,0:02:39.22,main,Bond,0,0,0,,Borf...
+Dialogue: 0,0:02:39.22,0:02:40.38,main,Franky,0,0,0,,Scruffy, scruffy, scruff!
+Dialogue: 0,0:02:40.38,0:02:41.72,main,Franky,0,0,0,,I've got you cornered now, Bondman!
+Dialogue: 0,0:02:41.72,0:02:43.97,main,Anya,0,0,0,,Curse you, King Scruff!
+Dialogue: 0,0:02:43.97,0:02:46.31,main,Franky,0,0,0,,Scruffy, scruffy, scruffy, scruff!
+Dialogue: 0,0:02:47.73,0:02:49.77,main,Anya,0,0,0,,Anya's gonna draw now.
+Dialogue: 0,0:02:49.77,0:02:54.44,main,Franky,0,0,0,,Heh. I'll allow you to use the magical \Ncolor-changing pen that I invented.
+Dialogue: 0,0:02:54.44,0:02:57.65,main,Franky,0,0,0,,Oh, yeah! I even brought a \NFrisbee for the goodest boy!
+Dialogue: 0,0:02:57.65,0:02:59.28,top,Bond,0,0,0,,Borf!
+Dialogue: 0,0:02:57.65,0:02:59.28,main,Anya,0,0,0,,Hooray!
+Dialogue: 0,0:02:59.28,0:03:02.03,main,Loid,0,0,0,,So, yeah. Thanks for looking after the pla—
+Dialogue: 0,0:03:02.57,0:03:03.24,main,Loid,0,0,0,,Urk!
+Dialogue: 0,0:03:04.41,0:03:08.08,main,Franky,0,0,0,,No, seriously! How many times do I have \Nto tell you I ain't no babysitter?!
+Dialogue: 0,0:03:08.45,0:03:09.82,main,Loid,0,0,0,,I already explained this to you.
+Dialogue: 0,0:03:10.08,0:03:12.96,main,Loid,0,0,0,,If I don't clear up Yor's misunderstanding \Ninvolving my coworker,
+Dialogue: 0,0:03:12.96,0:03:13.83,main,Loid,0,0,0,,it'll affect the mission.
+Dialogue: 0,0:03:13.83,0:03:15.96,main,Franky,0,0,0,,Well, have your damn family meeting at home!
+Dialogue: 0,0:03:15.96,0:03:18.92,main,Loid,0,0,0,,It'd be hard to talk to her about \Nthese things in front of the child.
+Dialogue: 0,0:03:19.55,0:03:21.01,main,Loid,0,0,0,,Anyway, here.
+Dialogue: 0,0:03:21.01,0:03:24.36,main,Franky,0,0,0,,Don't try to solve everything \Nwith money, you damn villain!
+Dialogue: 0,0:03:25.26,0:03:29.93,main,Franky,0,0,0,,Anyway, time to go to \Nthe park, kids! Let's enjoy!
+Dialogue: 0,0:03:29.93,0:03:31.27,main,Anya,0,0,0,,Yay!
+Dialogue: 0,0:03:31.27,0:03:32.39,main,Bond,0,0,0,,Borf.
+Dialogue: 0,0:03:36.19,0:03:37.15,main,Loid,0,0,0,,Yor.
+Dialogue: 0,0:03:38.61,0:03:42.03,main,Yor,0,0,0,,I'm sorry. I'm late because \NI had to work overtime.
+Dialogue: 0,0:03:42.03,0:03:43.28,main,Loid,0,0,0,,Well, you can relax now.
+Dialogue: 0,0:03:44.45,0:03:46.67,main,Yor,0,0,0,,So what are we...
+Dialogue: 0,0:03:47.03,0:03:49.28,main,Loid,0,0,0,,I thought we could go out \Nand enjoy some drinks.
+Dialogue: 0,0:03:49.28,0:03:51.29,main,Loid,0,0,0,,I know a great place.
+Dialogue: 0,0:03:58.59,0:04:00.55,main,Barkeep,0,0,0,,Here's your Red Queen.
+Dialogue: 0,0:04:00.92,0:04:02.09,main,Yor,0,0,0,,Thank you.
+Dialogue: 0,0:04:02.09,0:04:05.14,main,Loid,0,0,0,,I'll have my usual scotch.
+Dialogue: 0,0:04:07.81,0:04:10.93,main,Loid,0,0,0,,Thank you for always doing the \Nchores and taking care of Anya.
+Dialogue: 0,0:04:10.93,0:04:11.68,main,Loid,0,0,0,,Cheers.
+Dialogue: 0,0:04:12.35,0:04:14.56,main,Yor,0,0,0,,Oh, ch-ch-cheers...
+Dialogue: 0,0:04:15.73,0:04:18.36,italics,Yor,0,0,0,,I-I wonder what's going on.
+Dialogue: 0,0:04:18.36,0:04:21.11,italics,Yor,0,0,0,,He seems like he wants \Nto talk about something.
+Dialogue: 0,0:04:21.57,0:04:23.36,main,Loid,0,0,0,,Thanks for everything you've done.
+Dialogue: 0,0:04:23.36,0:04:25.75,main,Loid,0,0,0,,I'll enjoy life with my new wife now.
+Dialogue: 0,0:04:25.75,0:04:27.16,main,Nightfall,0,0,0,,Good evening.
+Dialogue: 0,0:04:27.16,0:04:27.95,main,Loid,0,0,0,,Tee-hee.
+Dialogue: 0,0:04:28.33,0:04:30.62,italics,Yor,0,0,0,,Oh, I knew it!
+Dialogue: 0,0:04:31.12,0:04:32.29,main,Loid,0,0,0,,By the way, Yor...
+Dialogue: 0,0:04:32.29,0:04:34.25,main,Loid,0,0,0,,About Fiona the other day—
+Dialogue: 0,0:04:34.25,0:04:35.61,main,Yor,0,0,0,,Wai—whoa!
+Dialogue: 0,0:04:36.00,0:04:37.21,main,Loid,0,0,0,,Yor?
+Dialogue: 0,0:04:37.21,0:04:38.88,main,Yor,0,0,0,,S-Sorry about that...
+Dialogue: 0,0:04:39.34,0:04:42.21,italics,Yor,0,0,0,,What should I do? This is a problem.
+Dialogue: 0,0:04:42.21,0:04:44.72,italics,Yor,0,0,0,,If he ends this relationship...
+Dialogue: 0,0:04:46.39,0:04:51.52,italics,Yor,0,0,0,,Well... This was always a \Nmarriage of convenience.
+Dialogue: 0,0:04:51.52,0:04:55.60,italics,Yor,0,0,0,,I have no right to say anything \Nabout Loid's personal life.
+Dialogue: 0,0:04:55.98,0:04:57.31,main,Loid,0,0,0,,Um...
+Dialogue: 0,0:04:57.31,0:05:02.57,italics,Yor,0,0,0,,If Loid has romantic feelings for her, \Nthat means I'm no longer of use,
+Dialogue: 0,0:05:02.57,0:05:03.78,italics,Yor,0,0,0,,and I should just leave.
+Dialogue: 0,0:05:05.53,0:05:07.32,main,Yor,0,0,0,,Um, Loid...
+Dialogue: 0,0:05:07.82,0:05:13.12,main,Yor,0,0,0,,If this is what you want, \NI'd be happy to, um...
+Dialogue: 0,0:05:13.62,0:05:14.71,main,Yor,0,0,0,,Uh...
+Dialogue: 0,0:05:15.50,0:05:17.62,italics,Yor,0,0,0,,Huh? But why?
+Dialogue: 0,0:05:18.42,0:05:19.29,main,Yor,0,0,0,,Um...
+Dialogue: 0,0:05:21.09,0:05:24.17,italics,Yor,0,0,0,,My throat keeps closing up, \Nand the words won't come out.
+Dialogue: 0,0:05:24.97,0:05:27.30,italics,Yor,0,0,0,,Is it because I want this life to continue?
+Dialogue: 0,0:05:28.05,0:05:29.51,italics,Yor,0,0,0,,But you mustn't, Yor!
+Dialogue: 0,0:05:29.51,0:05:31.76,italics,Yor,0,0,0,,Loid's happiness is more important \Nthan protecting yourself.
+Dialogue: 0,0:05:31.76,0:05:33.39,italics,Yor,0,0,0,,You need to tell him that!
+Dialogue: 0,0:05:34.06,0:05:34.98,italics,Yor,0,0,0,,Oh, alcohol!
+Dialogue: 0,0:05:35.23,0:05:38.52,italics,Yor,0,0,0,,Give me strength! Open, throat!
+Dialogue: 0,0:05:39.27,0:05:42.15,main,Yor,0,0,0,,That's not enough! Let me have yours, Loid!
+Dialogue: 0,0:05:42.52,0:05:44.99,main,Loid,0,0,0,,Yor! You're going to die \Nif you drink like that!
+Dialogue: 0,0:05:46.99,0:05:48.66,main,Yor,0,0,0,,Woid...
+Dialogue: 0,0:05:48.66,0:05:49.24,main,Loid,0,0,0,,Huh?
+Dialogue: 0,0:05:49.66,0:05:52.58,main,Yor,0,0,0,,Jush who ish dat woman?!
+Dialogue: 0,0:05:52.58,0:05:55.54,main,Yor,0,0,0,,Are you in wuv wif her, Woid?!
+Dialogue: 0,0:05:56.96,0:05:59.67,main,Loid,0,0,0,,I was just about to explain all that...
+Dialogue: 0,0:05:59.67,0:06:04.25,main,Yor,0,0,0,,Oh, I shee! Sho you were in a werationship!
+Dialogue: 0,0:06:04.25,0:06:10.43,main,Yor,0,0,0,,I jush wanted to giff you my bwessings!\NWhat am I even shaying?!
+Dialogue: 0,0:06:05.38,0:06:07.22,top,Loid,0,0,0,,Please calm down, Yor...
+Dialogue: 0,0:06:10.43,0:06:12.51,main,Loid,0,0,0,,She's just a colleague of mine.
+Dialogue: 0,0:06:12.51,0:06:14.72,main,Loid,0,0,0,,I promise you, our relationship \Nis nothing more than that.
+Dialogue: 0,0:06:14.72,0:06:17.64,italics,Barkeep,0,0,0,,Being such a hot guy must be rough.
+Dialogue: 0,0:06:18.10,0:06:21.23,main,Yor,0,0,0,,Ish fine. I know I'm a fwailure.
+Dialogue: 0,0:06:21.23,0:06:24.32,main,Yor,0,0,0,,I'm nowhere near ash pwetty ash Hiona.
+Dialogue: 0,0:06:24.32,0:06:25.99,main,Loid,0,0,0,,Have you... heard a word I've said?
+Dialogue: 0,0:06:26.19,0:06:27.65,italics,Loid,0,0,0,,Hm? Wait...
+Dialogue: 0,0:06:27.65,0:06:30.99,main,Yor,0,0,0,,But you shaid before dat \NI wash pwetty, too.
+Dialogue: 0,0:06:30.99,0:06:33.49,main,Yor,0,0,0,,Wash dat jush a wie?!
+Dialogue: 0,0:06:33.99,0:06:39.86,italics,Loid,0,0,0,,I thought she was fearing the end of our \Ncontract because she lost faith in her abilities.
+Dialogue: 0,0:06:39.86,0:06:41.25,italics,Loid,0,0,0,,Is this actually jealousy?
+Dialogue: 0,0:06:41.25,0:06:43.79,main,Yor,0,0,0,,Are you awready shick of me?
+Dialogue: 0,0:06:44.50,0:06:47.59,italics,Loid,0,0,0,,Wait, does Yor have romantic feelings for me?!
+Dialogue: 0,0:06:49.47,0:06:50.97,italicstop,Loid,0,0,0,,I am Twilight.
+Dialogue: 0,0:06:50.97,0:06:54.01,italicstop,Loid,0,0,0,,I have had relationships with countless \Nwomen for the sake of my missions.
+Dialogue: 0,0:06:55.31,0:06:57.73,main,Loid,0,0,0,,I'm sorry I've made you worry, Yor.
+Dialogue: 0,0:06:58.17,0:07:01.98,italics,Loid,0,0,0,,If Yor truly feels this way about me, \NI simply must take advantage of this.
+Dialogue: 0,0:07:01.98,0:07:03.90,italics,Loid,0,0,0,,Which means... time for \NOperation Honey Trap.
+Dialogue: 0,0:07:03.90,0:07:05.82,main,Loid,0,0,0,,But I want you to have faith in me.
+Dialogue: 0,0:07:05.82,0:07:06.65,main,Yor,0,0,0,,Huh?!
+Dialogue: 0,0:07:07.74,0:07:09.61,main,Loid,0,0,0,,Do you hate me now?
+Dialogue: 0,0:07:09.61,0:07:13.41,main,Yor,0,0,0,,Huh? U-Um, no... I wouldn't shay that...
+Dialogue: 0,0:07:10.68,0:07:13.41,main,,0,0,0,,{\fad(959,1)\pos(50,175)\an5\fnComic Sans MS\shad0\c&H774AD7&\3c&HC9C5F4&\fscy70\bord3\b1}R\Na\Nc\Ni\Nn\Ng\N\NH\Ne\Na\Nr\Nt\N\NM\Ne\Nt\Ne\Nr
+Dialogue: 0,0:07:13.74,0:07:19.20,main,Loid,0,0,0,,Yor, after spending so much time by your side,\N I've finally realized my true feelings.
+Dialogue: 0,0:07:16.40,0:07:20.91,main,,0,0,0,,{\pos(50,175)\an5\fnComic Sans MS\shad0\c&H774AD7&\3c&HC9C5F4&\fscy70\bord3\b1}R\Na\Nc\Ni\Nn\Ng\N\NH\Ne\Na\Nr\Nt\N\NM\Ne\Nt\Ne\Nr
+Dialogue: 0,0:07:19.20,0:07:20.91,main,Yor,0,0,0,,Um... W-W-W-Woi...
+Dialogue: 0,0:07:21.46,0:07:23.50,main,Yor,0,0,0,,W-W-W-Wo...
+Dialogue: 0,0:07:22.91,0:07:26.92,main,,0,0,0,,{\pos(50,175)\an5\fnComic Sans MS\shad0\c&H774AD7&\3c&HC9C5F4&\fscy70\bord3\b1}R\Na\Nc\Ni\Nn\Ng\N\NH\Ne\Na\Nr\Nt\N\NM\Ne\Nt\Ne\Nr
+Dialogue: 0,0:07:23.50,0:07:24.59,main,Yor,0,0,0,,Woi?!
+Dialogue: 0,0:07:24.84,0:07:27.45,main,Loid,0,0,0,,Yor, let's get married for rea—
+Dialogue: 0,0:07:35.30,0:07:37.31,main,Yor,0,0,0,,Huh? Wha' did I jush do?!
+Dialogue: 0,0:07:41.06,0:07:42.31,main,Patrons,0,0,0,,Oooh...
+Dialogue: 0,0:07:42.52,0:07:43.98,italics,Loid,0,0,0,,I was {\i0}so{\i1} wrong!
+Dialogue: 0,0:07:43.98,0:07:45.31,italics,Loid,0,0,0,,The force behind that kick...
+Dialogue: 0,0:07:45.65,0:07:48.61,italics,Loid,0,0,0,,That wasn't from embarrassment. \NThat was true rejection!
+Dialogue: 0,0:07:48.61,0:07:50.78,italics,Loid,0,0,0,,There weren't even a hint of \Nromantic feelings there!
+Dialogue: 0,0:07:50.78,0:07:53.11,italics,Loid,0,0,0,,I got cocky! I'm so sorry!
+Dialogue: 0,0:07:53.57,0:07:55.82,main,Yor,0,0,0,,Are you awwight, Woid?!
+Dialogue: 0,0:07:56.28,0:07:59.54,italics,Loid,0,0,0,,I don't understand! What was \Nthat mood of hers just now?!
+Dialogue: 0,0:07:59.54,0:08:02.87,italics,Loid,0,0,0,,Did she initiate some high-level reverse \Ntrap to get me to initiate my honey trap?
+Dialogue: 0,0:08:02.87,0:08:06.71,italics,Loid,0,0,0,,Is Yor a spy? No, calm down, \NTwilight. That can't be it.
+Dialogue: 0,0:08:07.67,0:08:12.30,top,Yor,0,0,0,,I'm sho sowwy! I'm sho sowwy! Woid! Woi...
+Dialogue: 0,0:08:07.88,0:08:12.30,italics,Loid,0,0,0,,I can't let my guard down like that. \NSomehow, being with Yor throws me off...
+Dialogue: 0,0:08:12.88,0:08:23.31,top,Yor,0,0,0,,Beneath their silver shine, drift to sleep...
+Dialogue: 0,0:08:18.06,0:08:19.39,italics,Loid,0,0,0,,A song?
+Dialogue: 0,0:08:21.68,0:08:26.44,italics,Loid,0,0,0,,How nostalgic. That's a lullaby \NI used to hear all the time.
+Dialogue: 0,0:08:24.90,0:08:30.65,top,Yor,0,0,0,,O sweet prince of mine...
+Dialogue: 0,0:08:30.65,0:08:35.03,top,Yor,0,0,0,,Drift to sleep...
+Dialogue: 0,0:08:32.61,0:08:33.74,italics,Loid,0,0,0,,Mother?
+Dialogue: 0,0:08:36.03,0:08:41.58,main,Yor,0,0,0,,I don't know the rest of the words...
+Dialogue: 0,0:08:45.79,0:08:48.28,main,Yor,0,0,0,,Good mworning, Woid...
+Dialogue: 0,0:08:47.84,0:08:50.13,main,Loid,0,0,0,,Wh-Where am I?!
+Dialogue: 0,0:08:50.13,0:08:52.05,main,Loid,0,0,0,,How long was I out?!
+Dialogue: 0,0:08:52.05,0:08:54.30,main,Yor,0,0,0,,We're at a nearby park.
+Dialogue: 0,0:08:54.30,0:08:58.18,main,Yor,0,0,0,,The barthender shaid we were \Nbeing too woud and kicked ush out.
+Dialogue: 0,0:08:58.18,0:09:00.06,main,Yor,0,0,0,,You were only asweep for about five minutes.
+Dialogue: 0,0:09:00.39,0:09:04.27,italics,Loid,0,0,0,,I haven't been knocked out like that \Nsince my instructor got rough with me!
+Dialogue: 0,0:09:04.27,0:09:06.02,italics,Loid,0,0,0,,You've let your guard \Ndown way too much, Loid!
+Dialogue: 0,0:09:06.02,0:09:07.56,italics,Loid,0,0,0,,Also, why I was I using \Nher lap as a pillow?!
+Dialogue: 0,0:09:08.56,0:09:11.53,main,Yor,0,0,0,,I'm very sowwy, Woid.
+Dialogue: 0,0:09:12.90,0:09:18.82,main,Yor,0,0,0,,Of course you'd get shick of \Na musclehead woman wike me...
+Dialogue: 0,0:09:32.30,0:09:34.05,main,Loid,0,0,0,,When I was little...
+Dialogue: 0,0:09:36.05,0:09:38.39,main,Loid,0,0,0,,Though I can't remember her face anymore,
+Dialogue: 0,0:09:38.83,0:09:41.34,main,Loid,0,0,0,,I loved being in my mother's arms.
+Dialogue: 0,0:09:41.85,0:09:44.89,main,Loid,0,0,0,,Even on nights when we could've \Nbeen bombed at any moment,
+Dialogue: 0,0:09:44.89,0:09:48.52,main,Loid,0,0,0,,just having my mother by my side \Nallowed me to sleep soundly.
+Dialogue: 0,0:09:48.98,0:09:50.61,main,Loid,0,0,0,,My mother was strong.
+Dialogue: 0,0:09:51.69,0:09:54.11,main,Loid,0,0,0,,Anya tells me all the time that
+Dialogue: 0,0:09:55.28,0:09:59.37,main,Loid,0,0,0,,even if she's in danger, her Mama \Nwill come save her, so she'll be okay.
+Dialogue: 0,0:10:00.37,0:10:03.29,main,Loid,0,0,0,,The reason she's able to \Nsmile and have fun like that
+Dialogue: 0,0:10:03.62,0:10:06.41,main,Loid,0,0,0,,is because you're a safe place for her, Yor.
+Dialogue: 0,0:10:07.50,0:10:10.04,italics,Loid,0,0,0,,We agents of the state have been \Ntrying to rebuild this world
+Dialogue: 0,0:10:10.04,0:10:11.37,italics,Loid,0,0,0,,through our blood, sweat, and tears.
+Dialogue: 0,0:10:12.04,0:10:14.80,italics,Loid,0,0,0,,Yet she managed to accomplish \Nthat all on her own.
+Dialogue: 0,0:10:15.92,0:10:17.60,main,Loid,0,0,0,,You're very strong, Yor.
+Dialogue: 0,0:10:18.55,0:10:21.60,main,Loid,0,0,0,,This may be rude to say \Nto an unmarried woman,
+Dialogue: 0,0:10:21.60,0:10:24.10,main,Loid,0,0,0,,but you're already a wonderful mother.
+Dialogue: 0,0:10:24.10,0:10:27.56,italics,Yor,0,0,0,,I don't think mine is the kind of \Nstrength you're talking about...
+Dialogue: 0,0:10:28.27,0:10:32.02,main,Loid,0,0,0,,I have absolutely no intention of replacing \Nyou in the role of her mother.
+Dialogue: 0,0:10:32.02,0:10:35.23,main,Yor,0,0,0,,B-But Hiona...
+Dialogue: 0,0:10:35.78,0:10:38.74,main,Loid,0,0,0,,Even if I had ever asked her to \Ntake on the role of Anya's mother,
+Dialogue: 0,0:10:38.74,0:10:40.89,main,Loid,0,0,0,,she has absolutely no parenting skills.
+Dialogue: 0,0:10:41.57,0:10:46.29,main,Yor,0,0,0,,But in my cashe... I'd jush been \Ntaking care of Yuri for sho long...
+Dialogue: 0,0:10:46.29,0:10:48.71,main,Yor,0,0,0,,that I jusht twied to do \Nshomething similar.
+Dialogue: 0,0:10:48.71,0:10:50.12,main,Loid,0,0,0,,But that's just it, though.
+Dialogue: 0,0:10:51.75,0:10:54.55,main,Loid,0,0,0,,This is a skill you've been building \Nup ever since you were little,
+Dialogue: 0,0:10:54.55,0:10:56.38,main,Loid,0,0,0,,which makes you unparalleled.
+Dialogue: 0,0:10:56.38,0:10:57.89,main,Loid,0,0,0,,Have more confidence in yourself.
+Dialogue: 0,0:10:58.59,0:11:03.22,main,Loid,0,0,0,,I would love for you to \Ncontinue being Anya's mother.
+Dialogue: 0,0:11:07.25,0:11:09.89,main,Loid,0,0,0,,And to continue in the role of my wife.
+Dialogue: 0,0:11:12.98,0:11:17.85,main,Yor,0,0,0,,I humbwy accept... \NIf you'll continue to have me.
+Dialogue: 0,0:11:18.90,0:11:20.61,main,Loid,0,0,0,,Yor, your nose is running.
+Dialogue: 0,0:11:21.49,0:11:23.49,main,Yor,0,0,0,,Pwease excuse me...
+Dialogue: 0,0:11:24.24,0:11:25.53,main,Loid,0,0,0,,Should we head home?
+Dialogue: 0,0:11:25.53,0:11:26.91,main,Yor,0,0,0,,Yesh, we should.
+Dialogue: 0,0:11:27.29,0:11:30.37,main,Yor,0,0,0,,I'll make you shome hot \Ntea once we get home.
+Dialogue: 0,0:11:31.71,0:11:34.63,main,Anya,0,0,0,,Mama and Papa are late. \NThey must be shacking up somewhere.
+Dialogue: 0,0:11:34.92,0:11:37.71,main,Franky,0,0,0,,Where exactly do you learn to talk like that?
+Dialogue: 0,0:11:37.71,0:11:39.26,main,Anya,0,0,0,,Mostly from Becky.
+Dialogue: 0,0:11:39.26,0:11:41.09,main,Anya,0,0,0,,I hope they'll be home soon.
+Dialogue: 0,0:11:41.51,0:11:45.05,main,Franky,0,0,0,,Hey, do you like your mom and dad?
+Dialogue: 0,0:11:46.18,0:11:47.17,main,Anya,0,0,0,,I love them!
+Dialogue: 0,0:11:47.68,0:11:48.93,main,Franky,0,0,0,,I see.
+Dialogue: 0,0:11:53.19,0:11:54.23,main,Loid,0,0,0,,We're home.
+Dialogue: 0,0:11:54.23,0:11:55.48,main,Bond,0,0,0,,Borf!
+Dialogue: 0,0:11:55.94,0:11:57.81,main,Anya,0,0,0,,Mama and Papa are flirt...
+Dialogue: 0,0:11:58.19,0:11:59.19,main,Anya,0,0,0,,...ing.
+Dialogue: 0,0:12:01.49,0:12:02.32,main,Franky,0,0,0,,The hell, man?!
+Dialogue: 0,0:12:02.32,0:12:04.37,main,Franky,0,0,0,,Did you try to put some moves\N on her and get punched?!
+Dialogue: 0,0:12:04.37,0:12:06.41,main,Yor,0,0,0,,No, no! Ish all my fault!
+Dialogue: 0,0:12:06.41,0:12:07.83,main,Anya,0,0,0,,He's a chin monster.
+Dialogue: 0,0:12:07.83,0:12:09.79,main,Franky,0,0,0,,Here, have a closer look!
+Dialogue: 0,0:12:09.79,0:12:11.21,main,Loid,0,0,0,,Wait! Don't touch it!
+Dialogue: 0,0:12:11.21,0:12:12.41,main,Loid,0,0,0,,Don't touch!
+Dialogue: 0,0:12:12.41,0:12:14.59,italics,Yor,0,0,0,,I'm actually surprised myself.
+Dialogue: 0,0:12:15.46,0:12:20.25,italics,Yor,0,0,0,,Back then, I never became attached to \Nanyone or anything other than my brother.
+Dialogue: 0,0:12:21.13,0:12:22.14,italics,Yor,0,0,0,,And yet...
+Dialogue: 0,0:12:22.52,0:12:26.22,italics,Yor,0,0,0,,I really can't let this place go.
+Dialogue: 0,0:12:29.89,0:12:31.35,italics,Narrator,0,0,0,,The next day...
+Dialogue: 0,0:12:31.35,0:12:34.35,main,Yor,0,0,0,,Loid! What in the world \Nhappened to your chin?!
+Dialogue: 0,0:12:34.35,0:12:37.40,main,Loid,0,0,0,,Wait, what?! You forgot everything \Nthat happened yesterday?!
+Dialogue: 0,0:12:38.02,0:12:40.57,italics,Narrator,0,0,0,,They had the same conversation \Nall over again.
+Dialogue: 0,0:12:44.82,0:12:47.46,main,Damian,0,0,0,,So the social gathering is \Nfinally happening next week.
+Dialogue: 0,0:12:47.80,0:12:48.87,main,Emile,0,0,0,,Well...
+Dialogue: 0,0:12:48.87,0:12:51.30,main,Ewen,0,0,0,,They don't really apply to us just yet.
+Dialogue: 0,0:12:51.79,0:12:54.54,main,Damian,0,0,0,,I'm gonna get eight Stella in no time.
+Dialogue: 0,0:12:54.83,0:12:55.79,main,Ewen,0,0,0,,Of course!
+Dialogue: 0,0:12:55.79,0:12:59.00,italics,Anya,0,0,0,,The mission so that Papa can be \Nfriends with Second's Son's papa:
+Dialogue: 0,0:12:59.00,0:13:00.84,italics,Anya,0,0,0,,Operation Skoricks.
+Dialogue: 0,0:13:00.84,0:13:03.97,italics,Anya,0,0,0,,To make it a success, I must \Nbecome an Imperel Scooter
+Dialogue: 0,0:13:03.97,0:13:05.80,italics,Anya,0,0,0,,and go to the social event.
+Dialogue: 0,0:13:06.30,0:13:07.39,italics,Anya,0,0,0,,But...
+Dialogue: 0,0:13:07.39,0:13:10.85,italics,Anya,0,0,0,,Anya has sort of given up \Non getting eight stars.
+Dialogue: 0,0:13:11.89,0:13:13.23,italics,Anya,0,0,0,,Whether it's studying...
+Dialogue: 0,0:13:14.64,0:13:18.85,italics,Anya,0,0,0,,or sports, I'm not getting better at all, \Nand my heart can't take more disappointment.
+Dialogue: 0,0:13:20.24,0:13:22.48,italics,Anya,0,0,0,,And that's why Anya is \Ngiving her all to Plan B,
+Dialogue: 0,0:13:22.48,0:13:25.49,italics,Anya,0,0,0,,the Friendship Scheme, \Nto get closer to Second Son,
+Dialogue: 0,0:13:25.49,0:13:28.03,italics,Anya,0,0,0,,but that's not going well, either.
+Dialogue: 0,0:13:28.03,0:13:29.95,main,Damian,0,0,0,,The heck are you looking at, huh?
+Dialogue: 0,0:13:29.95,0:13:31.79,main,Emile,0,0,0,,Stupid daughter of that \Nviolent, bribing doctor!
+Dialogue: 0,0:13:32.20,0:13:33.75,main,Anya,0,0,0,,Anya is losing patience.
+Dialogue: 0,0:13:33.75,0:13:37.04,main,Becky,0,0,0,,Oh, my heart is getting impatient \Nwatching you like this, Anya!
+Dialogue: 0,0:13:37.33,0:13:42.71,main,Becky,0,0,0,,I totally get it, Anya! It's so hard \Nto tell someone you love them!
+Dialogue: 0,0:13:43.21,0:13:44.04,main,Anya,0,0,0,,Love?
+Dialogue: 0,0:13:44.47,0:13:46.43,italics,Anya,0,0,0,,I love Papa.
+Dialogue: 0,0:13:46.43,0:13:48.14,italics,Anya,0,0,0,,I love Mama.
+Dialogue: 0,0:13:48.14,0:13:50.05,italics,Anya,0,0,0,,I love peanuts.
+Dialogue: 0,0:13:50.05,0:13:51.85,italics,Anya,0,0,0,,I love cartoons.
+Dialogue: 0,0:13:51.85,0:13:52.85,italics,Anya,0,0,0,,Second Son...
+Dialogue: 0,0:13:53.60,0:13:55.64,main,Anya,0,0,0,,Nope, nuh-uh.
+Dialogue: 0,0:13:55.64,0:13:58.31,main,Becky,0,0,0,,Oh, look at you being all shy!\N Be true to your heart!
+Dialogue: 0,0:13:58.69,0:14:03.57,main,Becky,0,0,0,,Okay, I know! I'll help you \Nso he ends up liking you.
+Dialogue: 0,0:14:04.69,0:14:08.51,main,Becky,0,0,0,,Boys always fall for how a girl looks.
+Dialogue: 0,0:14:08.51,0:14:11.87,main,Becky,0,0,0,,If you get dressed up all cute and fancy, \Nhe'll be head over heels for you in no time!
+Dialogue: 0,0:14:12.49,0:14:13.45,main,Anya,0,0,0,,Oho.
+Dialogue: 0,0:14:13.45,0:14:15.79,main,Becky,0,0,0,,Which means, next weekend...
+Dialogue: 0,0:14:16.62,0:14:18.25,top,Becky,0,0,0,,We're going shopping together!
+Dialogue: 0,0:14:16.83,0:14:20.50,sign_6041_79_OPERATION_STRIX,Sign,0,0,0,,{\fad(500,0)\pos(392,285)\fscx72}SHOPPING WITH FRIENDS
+Dialogue: 0,0:14:18.46,0:14:20.50,top,Anya,0,0,0,,Anya's never been in a fancy car!
+Dialogue: 0,0:14:20.50,0:14:22.09,main,Anya,0,0,0,,So exciting!
+Dialogue: 0,0:14:22.09,0:14:24.13,main,Becky,0,0,0,,It's not bad, right?
+Dialogue: 0,0:14:24.55,0:14:30.05,main,Becky,0,0,0,,And hey! I went all the way to your house, \Nand my precious Loid wasn't there! Why?!
+Dialogue: 0,0:14:30.30,0:14:33.12,flashback,Becky,0,0,0,,Loid, oh Loid! Wherefore art thou, Loid?
+Dialogue: 0,0:14:33.51,0:14:36.02,flashback,Yor,0,0,0,,Thank you for looking \Nafter our daughter today.
+Dialogue: 0,0:14:36.56,0:14:38.69,main,Anya,0,0,0,,Papa had an emergency at work.
+Dialogue: 0,0:14:38.69,0:14:41.86,main,Becky,0,0,0,,Also, my precious Loid's \Nwife is way prettier in person.
+Dialogue: 0,0:14:41.86,0:14:43.61,main,Becky,0,0,0,,She's definitely a worthy rival.
+Dialogue: 0,0:14:43.61,0:14:45.99,italics,Martha,0,0,0,,You mustn't commit adultery, my lady.
+Dialogue: 0,0:14:46.24,0:14:49.53,main,Becky,0,0,0,,By the way, that pochette is \Nreally cute. What's in it?
+Dialogue: 0,0:14:49.82,0:14:51.03,main,Anya,0,0,0,,Um...
+Dialogue: 0,0:14:51.03,0:14:52.57,main,Anya,0,0,0,,Lots of cold, hard cash.
+Dialogue: 0,0:14:53.16,0:14:57.00,flashback italics,Loid,0,0,0,,Being on good terms with the Blackbells \Nwill be extremely advantageous.
+Dialogue: 0,0:14:57.62,0:14:59.83,flashback italics,Loid,0,0,0,,I'm sure intel will be willing \Nto splurge on the budget.
+Dialogue: 0,0:14:59.83,0:15:00.56,flashback,Loid,0,0,0,,Take this.
+Dialogue: 0,0:15:00.56,0:15:01.58,flashback,Yor,0,0,0,,That much?!
+Dialogue: 0,0:15:02.04,0:15:03.38,main,Anya,0,0,0,,My allowance.
+Dialogue: 0,0:15:03.38,0:15:06.01,main,Becky,0,0,0,,Oh, my precious Loid is so kind!
+Dialogue: 0,0:15:06.01,0:15:07.88,main,Becky,0,0,0,,It's not that much, though.
+Dialogue: 0,0:15:07.88,0:15:09.59,italics,Martha,0,0,0,,Kids these days...
+Dialogue: 0,0:15:09.88,0:15:12.59,main,Anya,0,0,0,,How many peanuts can I buy with this?
+Dialogue: 0,0:15:12.59,0:15:15.06,main,Becky,0,0,0,,We're not buying peanuts.
+Dialogue: 0,0:15:15.97,0:15:18.64,main,Becky,0,0,0,,We're buying clothes, my dear. Clothes.
+Dialogue: 0,0:15:29.19,0:15:32.36,main,Employees,0,0,0,,Welcome, Miss Becky.
+Dialogue: 0,0:15:32.70,0:15:36.49,main,Employee A,0,0,0,,We've prepared quite a few pieces \Nfrom the Berlint Collection.
+Dialogue: 0,0:15:36.49,0:15:37.66,main,Becky,0,0,0,,Thank you!
+Dialogue: 0,0:15:38.29,0:15:41.42,main,Anya,0,0,0,,Are your family evil masterminds after all?
+Dialogue: 0,0:15:41.42,0:15:43.54,main,Anya,0,0,0,,How much cold, hard cash do you have?
+Dialogue: 0,0:15:43.54,0:15:46.69,main,Becky,0,0,0,,I've never even walked \Naround with cash before.
+Dialogue: 0,0:15:47.06,0:15:50.13,main,Becky,0,0,0,,Usually, the shops come to me, but today,
+Dialogue: 0,0:15:50.13,0:15:54.89,main,Becky,0,0,0,,I wanted to enjoy shopping with you, \Nso I rented out this whole department store.
+Dialogue: 0,0:15:55.26,0:15:57.44,main,Becky,0,0,0,,Let's have you try on all kinds of outfits
+Dialogue: 0,0:15:57.81,0:16:00.31,main,Becky,0,0,0,,and find the one that'll make him fall for you.
+Dialogue: 0,0:16:02.85,0:16:05.81,sign_7726_70_He_was_worried__,,0,0,0,,{\fad(250,0)\fs16\an7\pos(466,190)\fscx85}Lip-Reading Techniques\N{\fscx70}to Let You Truly Be Yourself\N{\fscx80}Read Minds and Become\NMore Beautiful.
+Dialogue: 0,0:16:02.85,0:16:05.81,sign_7726_70_He_was_worried__,,0,0,0,,{\fad(250,0)\fs16\an7\bord1\fscx85\pos(10,51)}Anya's Fall Collection
+Dialogue: 0,0:16:02.85,0:16:05.81,sign_7726_70_He_was_worried__,,0,0,0,,{\fad(250,0)\fs16\an7\bord1\fscx85\pos(10,280)}Clothes That'll Get Your Classmates to Love You
+Dialogue: 0,0:16:02.85,0:16:05.81,sign_7726_70_He_was_worried__,,0,0,0,,{\fad(250,0)\fs16\an7\bord1\fscx80\c&HFEECFF&\3c&HB798E1&\pos(8,132)}A Special Feature on Westalis Import Brands
+Dialogue: 0,0:16:02.85,0:16:05.81,sign_7726_70_He_was_worried__,,0,0,0,,{\fad(250,0)\fs16\an7\bord1\fscx80\c&HFEECFF&\3c&HB798E1&\pos(8,186)}A Telepath Girl's Styling Tutorial\NStyling Tutorial
+Dialogue: 0,0:16:02.85,0:16:05.81,sign_7726_70_He_was_worried__,,0,0,0,,{\fad(250,0)\fs16\an7\bord1\fscx80\c&HFEECFF&\3c&HB798E1&\pos(10,324)}Forget All About Your School Uniform
+Dialogue: 0,0:16:09.49,0:16:12.32,main,Becky,0,0,0,,Yes! Perfect, Anya!
+Dialogue: 0,0:16:12.86,0:16:15.62,main,Becky,0,0,0,,You look adorable! But I'm still cuter.
+Dialogue: 0,0:16:15.99,0:16:20.25,main,Becky,0,0,0,,That's right, Anya. Break free from \Nyour shell and become a new you.
+Dialogue: 0,0:16:20.25,0:16:23.87,main,Becky,0,0,0,,Hmm... Maybe we broke the shell a bit too much.
+Dialogue: 0,0:16:23.87,0:16:26.79,main,Becky,0,0,0,,But you need to be aggressive \Nwhen it comes to fashion!
+Dialogue: 0,0:16:27.29,0:16:30.63,main,Becky,0,0,0,,Perfect, Anya! I don't even get \Nit anymore, but it's perfect!
+Dialogue: 0,0:16:30.63,0:16:33.35,main,Becky,0,0,0,,Reach out your hand and \Ngo beyond fashion itself!
+Dialogue: 0,0:16:36.01,0:16:37.76,main,Anya,0,0,0,,Fashion is hard...
+Dialogue: 0,0:16:37.76,0:16:42.69,main,Becky,0,0,0,,Yeah... We don't know what he's into, \Nso it's hard to narrow down the choices.
+Dialogue: 0,0:16:43.02,0:16:46.73,main,Anya,0,0,0,,But I wear the same clothes \Nevery day at school.
+Dialogue: 0,0:16:46.73,0:16:48.94,main,Anya,0,0,0,,I don't have a chance to \Nshow off another outfit.
+Dialogue: 0,0:16:48.94,0:16:52.03,main,Becky,0,0,0,,Of course our uniforms \Nare the same every day.
+Dialogue: 0,0:16:52.03,0:16:54.41,main,Becky,0,0,0,,But if our instructor allows it,
+Dialogue: 0,0:16:54.41,0:16:57.87,main,Becky,0,0,0,,we can wear our own clothes at the \Ndorm party at the end of the term.
+Dialogue: 0,0:16:57.87,0:16:59.20,main,Becky,0,0,0,,That'll be your opportunity!
+Dialogue: 0,0:16:59.49,0:17:04.12,italics,Becky,0,0,0,,Oh, wait! If parents and guardians \Nare going to attend this party...
+Dialogue: 0,0:17:04.12,0:17:06.67,main,Loid,0,0,0,,My, what a beautiful young lady.
+Dialogue: 0,0:17:06.67,0:17:08.46,main,Loid,0,0,0,,I'm Anya's father, Loid.
+Dialogue: 0,0:17:08.46,0:17:13.05,main,Becky,0,0,0,,Oh, no! I shouldn't have wasted so \Nmuch time finding clothes for Anya!
+Dialogue: 0,0:17:13.05,0:17:13.92,main,Anya,0,0,0,,Shock!
+Dialogue: 0,0:17:14.34,0:17:17.72,main,Becky,0,0,0,,Hey, what kind of clothes \Ndoes my precious Loid like?
+Dialogue: 0,0:17:22.10,0:17:23.35,main,Employees,0,0,0,,So cute!
+Dialogue: 0,0:17:23.73,0:17:27.23,main,Becky,0,0,0,,Maybe I'll go for an orthodox cute look.
+Dialogue: 0,0:17:27.77,0:17:29.52,main,Employee A,0,0,0,,Miss Becky!
+Dialogue: 0,0:17:32.48,0:17:33.99,main,Employees,0,0,0,,How lovely!
+Dialogue: 0,0:17:34.45,0:17:36.74,main,Becky,0,0,0,,Or perhaps something a bit more stylish?
+Dialogue: 0,0:17:37.11,0:17:38.32,main,Employee B,0,0,0,,You look amazing!
+Dialogue: 0,0:17:39.20,0:17:40.95,main,Becky,0,0,0,,How about this?
+Dialogue: 0,0:17:42.58,0:17:45.62,main,Becky,0,0,0,,Maybe I'll just go for a \Nmore sophisticated look.
+Dialogue: 0,0:17:46.21,0:17:47.42,main,Employee C,0,0,0,,So mature!
+Dialogue: 0,0:17:47.71,0:17:50.50,main,Becky,0,0,0,,Maybe I'll try out his wife's look.
+Dialogue: 0,0:17:50.50,0:17:51.80,main,Employee A,0,0,0,,It's perfect!
+Dialogue: 0,0:17:51.80,0:17:53.17,main,Employees B and C,0,0,0,,So cute!
+Dialogue: 0,0:17:53.46,0:17:57.43,main,Becky,0,0,0,,Hmm... I don't know what to do anymore, either.
+Dialogue: 0,0:17:57.43,0:18:00.14,main,Employee A,0,0,0,,You looked lovely in all of them.
+Dialogue: 0,0:18:00.14,0:18:02.47,main,Becky,0,0,0,,Anyway, I'll go ahead and buy all of them.
+Dialogue: 0,0:18:02.47,0:18:04.20,main,Employee A,0,0,0,,Thank you very much.
+Dialogue: 0,0:18:04.64,0:18:06.85,main,Becky,0,0,0,,Which one do you want, Anya?
+Dialogue: 0,0:18:06.85,0:18:09.77,main,Anya,0,0,0,,Anya's tummy is already very \Nfull from all the outfits.
+Dialogue: 0,0:18:09.77,0:18:13.20,main,Becky,0,0,0,,Really? Then do you want \Nto go look at some shoes?
+Dialogue: 0,0:18:32.84,0:18:35.25,main,Becky,0,0,0,,I guess I'm a little tired, too.
+Dialogue: 0,0:18:35.25,0:18:38.97,main,Anya,0,0,0,,I almost shopped myself to death...
+Dialogue: 0,0:18:38.97,0:18:41.25,main,Becky,0,0,0,,To death? Are you actually going to die?
+Dialogue: 0,0:18:41.80,0:18:44.06,main,Martha,0,0,0,,My lady, you have purchased too many things.
+Dialogue: 0,0:18:44.06,0:18:46.52,main,Becky,0,0,0,,Wait! Are you in there somewhere, Martha?!
+Dialogue: 0,0:18:48.27,0:18:51.65,main,Becky,0,0,0,,By the way, you haven't \Nbought anything yet, Anya.
+Dialogue: 0,0:18:51.65,0:18:53.90,main,Anya,0,0,0,,I dunno what I want.
+Dialogue: 0,0:18:53.90,0:18:55.86,main,Anya,0,0,0,,Fashion is hard.
+Dialogue: 0,0:18:56.90,0:19:01.25,main,Becky,0,0,0,,Did you... not enjoy shopping with me?
+Dialogue: 0,0:19:02.16,0:19:03.24,main,Anya,0,0,0,,I had fun!
+Dialogue: 0,0:19:04.49,0:19:09.16,main,Anya,0,0,0,,This is Anya's first time shopping \Nwith a friend! So exciting!
+Dialogue: 0,0:19:09.16,0:19:10.75,main,Becky,0,0,0,,Friend?
+Dialogue: 0,0:19:11.13,0:19:14.46,main,Becky,0,0,0,,I-In that case, let's get right back into it!
+Dialogue: 0,0:19:14.46,0:19:16.96,main,Becky,0,0,0,,Let's look for something you want, Anya!
+Dialogue: 0,0:19:16.96,0:19:19.47,main,Anya,0,0,0,,Cartoon merch is what calls my name.
+Dialogue: 0,0:19:19.69,0:19:22.34,main,Becky,0,0,0,,They don't have anything \Nlike that at this shop.
+Dialogue: 0,0:19:24.97,0:19:27.47,main,Becky,0,0,0,,I think there's a plushie shop over there.
+Dialogue: 0,0:19:27.73,0:19:29.94,main,Anya,0,0,0,,Who is Mister Sheep here?
+Dialogue: 0,0:19:29.94,0:19:30.48,main,Becky,0,0,0,,Huh?
+Dialogue: 0,0:19:30.69,0:19:33.73,main,Becky,0,0,0,,Oh, it's this department store's mascot.
+Dialogue: 0,0:19:34.23,0:19:35.19,main,Becky,0,0,0,,Look over there.
+Dialogue: 0,0:19:35.19,0:19:38.15,main,Becky,0,0,0,,Apparently, it's because they \Nstarted off selling wool.
+Dialogue: 0,0:19:39.11,0:19:41.91,main,Anya,0,0,0,,So cute... I want this!
+Dialogue: 0,0:19:41.91,0:19:43.95,main,Becky,0,0,0,,What? A key chain?
+Dialogue: 0,0:19:43.95,0:19:46.45,main,Becky,0,0,0,,You're such a child, Anya.
+Dialogue: 0,0:19:46.95,0:19:49.37,main,Anya,0,0,0,,It's to remember going shopping with you.
+Dialogue: 0,0:19:49.37,0:19:50.20,main,Becky,0,0,0,,Huh?
+Dialogue: 0,0:19:50.20,0:19:52.83,main,Anya,0,0,0,,To celebrate that we both overcame death.
+Dialogue: 0,0:19:52.83,0:19:54.96,main,Becky,0,0,0,,Th-Then I'll also—
+Dialogue: 0,0:19:55.42,0:19:56.92,flashback,Becky's Father,0,0,0,,Listen well, Becky.
+Dialogue: 0,0:19:56.92,0:20:01.47,flashback,Becky's Father,0,0,0,,As the daughter of a top conglomerate, \Nyou must only wear the finest things.
+Dialogue: 0,0:20:05.39,0:20:08.10,main,Anya,0,0,0,,Here! I bought one for you, too.
+Dialogue: 0,0:20:08.72,0:20:10.77,main,Becky,0,0,0,,Huh? When did you...
+Dialogue: 0,0:20:10.77,0:20:12.85,main,Anya,0,0,0,,Anya is very good at doing big sister things.
+Dialogue: 0,0:20:12.85,0:20:14.02,main,Becky,0,0,0,,But...
+Dialogue: 0,0:20:14.65,0:20:17.36,main,Martha,0,0,0,,If you were to ignore \Nyour friend's generosity,
+Dialogue: 0,0:20:17.36,0:20:19.69,main,Martha,0,0,0,,you would be tarnishing the Blackbell name.
+Dialogue: 0,0:20:19.69,0:20:22.45,main,Martha,0,0,0,,I'm sure that's exactly \Nwhat your father would say.
+Dialogue: 0,0:20:22.95,0:20:25.87,main,Becky,0,0,0,,Th-Then I guess I don't have a choice.
+Dialogue: 0,0:20:25.87,0:20:28.69,main,Becky,0,0,0,,It's a bit embarrassing, \Nbut I guess I'll take it.
+Dialogue: 0,0:20:29.24,0:20:30.50,main,Becky,0,0,0,,Thank you.
+Dialogue: 0,0:20:30.50,0:20:32.41,main,Anya,0,0,0,,Becky should also be more honest.
+Dialogue: 0,0:20:32.72,0:20:35.75,main,Becky,0,0,0,,Wait, why did we go shopping today, anyway?
+Dialogue: 0,0:20:35.75,0:20:36.92,main,Anya,0,0,0,,I forget.
+Dialogue: 0,0:20:36.92,0:20:39.38,main,Becky,0,0,0,,Well, whatever. Let's go home.
+Dialogue: 0,0:20:53.98,0:20:56.73,flashback,Kid,0,0,0,,Becky's always so mean!
+Dialogue: 0,0:20:56.73,0:20:59.82,flashback,Kid,0,0,0,,She always says mean things and bullies us!
+Dialogue: 0,0:20:59.82,0:21:03.24,flashback,Becky,0,0,0,,What? What's wrong with calling you little \Nbrats when that's exactly what you are?
+Dialogue: 0,0:21:03.24,0:21:04.99,flashback,Martha,0,0,0,,That's quite enough, young lady!
+Dialogue: 0,0:21:05.41,0:21:09.37,flashback,Becky,0,0,0,,Eden College? No! \NBecause I learned in nursery school
+Dialogue: 0,0:21:09.37,0:21:12.41,flashback,Becky,0,0,0,,that no good comes from associating \Nwith commoners.
+Dialogue: 0,0:21:12.66,0:21:14.12,flashback,Becky,0,0,0,,This sucks.
+Dialogue: 0,0:21:14.12,0:21:19.09,flashback,Becky,0,0,0,,Whatever. I guess smiling and going along with\N those around you is the adult strategy here.
+Dialogue: 0,0:21:19.55,0:21:23.97,flashback,Martha,0,0,0,,My lady, you mustn't think you know all \Nthere is to know about everything and everyone.
+Dialogue: 0,0:21:24.59,0:21:29.01,flashback,Martha,0,0,0,,Once you can stop doing that, you'll be \Non your way to becoming a proper adult.
+Dialogue: 0,0:21:32.47,0:21:33.76,flashback,Becky,0,0,0,,Listen to this, Martha!
+Dialogue: 0,0:21:34.27,0:21:36.60,flashback,Becky,0,0,0,,There's this really interesting \Ngirl in my class!
+Dialogue: 0,0:21:36.60,0:21:39.39,flashback,Becky,0,0,0,,Maybe school's not so bad after all!
+Dialogue: 0,0:21:41.90,0:21:44.15,main,Becky,0,0,0,,I'll get you something later...
+Dialogue: 0,0:21:47.45,0:21:49.99,main,Martha,0,0,0,,I'm very happy for you, my lady.
+Dialogue: 0,0:21:52.16,0:21:54.71,main,Loid,0,0,0,,Just this was 300 dalc?!
+Dialogue: 0,0:21:52.70,0:21:57.83,sign_13319_178__But_then_John_r,Sign,0,0,0,,{\an1\pos(58,50)\fad(404,1)}* Roughly 100,000 yen
+Dialogue: 0,0:21:54.71,0:21:56.67,main,Anya,0,0,0,,It's the treasure Becky and me share.
+Dialogue: 0,0:21:56.67,0:21:57.46,main,Bond,0,0,0,,Jealou...
+Dialogue: 0,0:21:58.46,0:21:59.84,main,Becky,0,0,0,,Good morning!
+Dialogue: 0,0:22:00.70,0:22:02.12,main,Becky,0,0,0,,Anya!
+Dialogue: 0,0:22:02.12,0:22:03.58,main,Anya,0,0,0,,Morning, pwease.
+Dialogue: 0,0:22:07.05,0:22:08.48,main,Anya,0,0,0,,We match!
+Dialogue: 0,0:22:08.48,0:22:10.08,main,Becky,0,0,0,,We do!
+Dialogue: 0,0:22:10.30,0:22:12.44,main,Becky,0,0,0,,I hope the teachers don't yell at us.
+Dialogue: 0,0:22:12.44,0:22:13.72,main,Anya,0,0,0,,It's no problem!
+Dialogue: 0,0:22:14.09,0:22:15.09,main,Becky,0,0,0,,You're right.
+Dialogue: 0,0:22:22.72,0:22:25.11,main,Ewen,0,0,0,,What's the matter, Lord Damian?
+Dialogue: 0,0:22:25.11,0:22:27.43,main,Damian,0,0,0,,Nothing! Jeez!
+Dialogue: 0,0:24:06.96,0:24:09.96,sign_6041_79_OPERATION_STRIX,,0,0,0,,{\fscx70\pos(486,275)}FIRST CONTACT
