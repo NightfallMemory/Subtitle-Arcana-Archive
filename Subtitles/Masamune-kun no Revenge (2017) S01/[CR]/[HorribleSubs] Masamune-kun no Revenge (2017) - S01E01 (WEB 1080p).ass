@@ -1,0 +1,401 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Main Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Italics Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Flashback Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Signs,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Episode,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,7,249,484,95,0
+Style: Next Episode,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,3,473,89,108,0
+Style: Black Signs,Open Sans Semibold,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Milk,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H0037C23A,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,116,600,57,1
+Style: High in Calories 1,Open Sans Semibold,30,&H0020293F,&H000000FF,&H003F93F4,&H00000000,1,0,0,0,100,100,0,0,1,2,0,1,69,576,213,1
+Style: High in Calories 2,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00341EE0,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,320,307,283,1
+Style: High in Calories 3,Open Sans Semibold,30,&H001445DF,&H000000FF,&H0034FFFC,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,560,47,63,1
+Style: Episode Title,Open Sans Semibold,30,&H006000C2,&H000000FF,&H00FFDBFF,&H00000000,1,0,0,0,100,100,0,0,1,2,1,3,27,53,81,0
+Style: Spicy,Open Sans Semibold,30,&H007EECE4,&H000000FF,&H00474A4A,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,140,73,47,1
+Style: Yakisoba,Open Sans Semibold,33,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,117,115,261,1
+Style: High in Calories 4,Open Sans Semibold,30,&H0020293F,&H000000FF,&H003F68BC,&H00000000,1,0,0,0,100,100,0,0,1,2,0,1,88,533,160,1
+Style: High in Calories 5,Open Sans Semibold,30,&H00BFC3C3,&H000000FF,&H00362AA5,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,513,87,355,1
+Style: High in Calories 6,Open Sans Semibold,30,&H00182EA1,&H000000FF,&H0046BAC0,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,101,507,141,1
+Style: Dog House,Open Sans Semibold,30,&H005E5F5D,&H000000FF,&H00F2F3F1,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Hours,Open Sans Semibold,21,&H0066523D,&H000000FF,&H00EBF2E6,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,40,587,151,1
+Style: Piggy,Open Sans Semibold,36,&H00646766,&H000000FF,&H00F7FAF9,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:26.58,0:00:27.51,Main,Masamune,0000,0000,0000,,All right!
+Dialogue: 0,0:00:27.51,0:00:28.32,Main,Chinatsu,0000,0000,0000,,Ew.
+Dialogue: 0,0:00:28.67,0:00:31.48,Main,Chinatsu,0000,0000,0000,,The picture of vanity. \NWe have a narcissist here.
+Dialogue: 0,0:00:31.48,0:00:32.51,Main,Masamune,0000,0000,0000,,Chinatsu.
+Dialogue: 0,0:00:32.85,0:00:34.70,Main,Chinatsu,0000,0000,0000,,A morning shampoo and shower,
+Dialogue: 0,0:00:34.70,0:00:37.18,Main,Chinatsu,0000,0000,0000,,and to top it off, posing \Nin front of the mirror.
+Dialogue: 0,0:00:37.48,0:00:40.06,Main,Chinatsu,0000,0000,0000,,How vain could you be?
+Dialogue: 0,0:00:40.06,0:00:42.52,Main,Masamune,0000,0000,0000,,I'm not vain! I'm just setting \Nan example for myself!
+Dialogue: 0,0:00:42.52,0:00:44.74,Main,Masamune,0000,0000,0000,,How can {\i1}you{\i0} eat junk food\Nso early in the morning?
+Dialogue: 0,0:00:45.02,0:00:45.86,Main,Chinatsu,0000,0000,0000,,Want some?
+Dialogue: 0,0:00:45.86,0:00:46.73,Main,Masamune,0000,0000,0000,,Never!
+Dialogue: 0,0:00:46.98,0:00:47.98,Main,Chinatsu,0000,0000,0000,,Okay.
+Dialogue: 0,0:00:49.19,0:00:52.73,Main,Masamune,0000,0000,0000,,Jeez... I told you not to come \Ninto my room without permission.
+Dialogue: 0,0:00:52.73,0:00:55.75,Main,Chinatsu,0000,0000,0000,,So cold! How could you forget our sibling bond
+Dialogue: 0,0:00:55.75,0:00:58.37,Main,Chinatsu,0000,0000,0000,,just because we were living apart?
+Dialogue: 0,0:01:00.20,0:01:01.32,Italics,Masamune,0000,0000,0000,,I made a decision
+Dialogue: 0,0:01:01.90,0:01:05.83,Italics,Masamune,0000,0000,0000,,that I would never return to the days \Nwhen I was so naïve and powerless.
+Dialogue: 0,0:01:08.55,0:01:11.24,Main,Kinue,0000,0000,0000,,Good morning, Maa-kun, Chinatsu-chan.
+Dialogue: 0,0:01:11.24,0:01:12.67,Main,Kinue,0000,0000,0000,,Breakfast is ready.
+Dialogue: 0,0:01:12.67,0:01:19.68,Milk,Sign,0000,0000,0000,,Milk
+Dialogue: 0,0:01:15.12,0:01:19.10,Main,Kinue,0000,0000,0000,,You loved donuts when you were \Nlittle, didn't you, Maa-kun?
+Dialogue: 0,0:01:16.88,0:01:19.68,High in Calories 1,Sign,0000,0000,0000,,High in Calories
+Dialogue: 0,0:01:17.89,0:01:19.68,High in Calories 2,Sign,0000,0000,0000,,High in Calories
+Dialogue: 0,0:01:18.89,0:01:19.68,High in Calories 3,Sign,0000,0000,0000,,High in Calories
+Dialogue: 0,0:01:19.10,0:01:20.81,Main,Kinue,0000,0000,0000,,They're loaded with sugar!
+Dialogue: 0,0:01:20.81,0:01:22.66,Main,Kinue,0000,0000,0000,,The fried chicken's fresh out of the fryer, too.
+Dialogue: 0,0:01:23.01,0:01:25.05,Main,Kinue,0000,0000,0000,,Can't you hear them sizzling?
+Dialogue: 0,0:01:25.05,0:01:26.19,Main,Masamune,0000,0000,0000,,Er, no thanks...
+Dialogue: 0,0:01:28.23,0:01:29.64,Main,Kinue,0000,0000,0000,,Chinatsu!
+Dialogue: 0,0:01:29.64,0:01:32.30,Main,Kinue,0000,0000,0000,,Maa-kun just said he hates his mommy!
+Dialogue: 0,0:01:32.30,0:01:35.28,Main,Kinue,0000,0000,0000,,And when we're finally able \Nto live together again!
+Dialogue: 0,0:01:35.28,0:01:39.03,Main,Chinatsu,0000,0000,0000,,Yeah, yeah. Seems like Onii-chan \Ngot rid of a lot of baggage.
+Dialogue: 0,0:01:39.35,0:01:40.29,Main,Masamune,0000,0000,0000,,I'm heading out.
+Dialogue: 0,0:01:41.00,0:01:43.24,Main,Kinue,0000,0000,0000,,Maa-kun!
+Dialogue: 0,0:01:46.54,0:01:50.49,Italics,Masamune,0000,0000,0000,,Like I could eat something that high \Nin calories so early in the morning.
+Dialogue: 0,0:01:57.92,0:01:59.84,Italics,Masamune,0000,0000,0000,,"Everything depends on\Nwhether you're hot or not."
+Dialogue: 0,0:02:00.20,0:02:02.56,Italics,Masamune,0000,0000,0000,,This is my motto.
+Dialogue: 0,0:02:02.88,0:02:05.14,Italics,Masamune,0000,0000,0000,,If you're not a hot guy, you're not human.
+Dialogue: 0,0:02:05.39,0:02:07.88,Italics,Masamune,0000,0000,0000,,Even a normal guy attains \Nbirth in the Pure Land,
+Dialogue: 0,0:02:07.88,0:02:09.60,Italics,Masamune,0000,0000,0000,,so it goes without saying that a hot guy will.
+Dialogue: 0,0:02:18.18,0:02:19.70,Main,Girl,0000,0000,0000,,Hey, what are you gawking at?
+Dialogue: 0,0:02:26.26,0:02:28.30,Main,Girl,0000,0000,0000,,Let me see your cell phone!
+Dialogue: 0,0:02:28.30,0:02:31.36,Main,Guy,0000,0000,0000,,You've got the wrong idea! \NI was just sending a text!
+Dialogue: 0,0:02:31.36,0:02:34.10,Main,Girl,0000,0000,0000,,You're lying. No one holds a\Nphone that way to type a text!
+Dialogue: 0,0:02:34.10,0:02:36.07,Main Top,Guy,0000,0000,0000,,Seriously, it's not what you think!
+Dialogue: 0,0:02:36.07,0:02:38.75,Main Top,Girl,0000,0000,0000,,Then hurry up and let me see your phone!
+Dialogue: 0,0:02:36.07,0:02:39.09,Italics,Masamune,0000,0000,0000,,My sin should be much \Nworse than that poor fool
+Dialogue: 0,0:02:38.75,0:02:39.52,Main Top,Girl,0000,0000,0000,,Yeah!
+Dialogue: 0,0:02:39.39,0:02:41.67,Italics,Masamune,0000,0000,0000,,who took out his cell phone \Nwithout thinking.
+Dialogue: 0,0:02:42.76,0:02:45.34,Main,Girl,0000,0000,0000,,Wait, are you Makabe Masamune-kun?
+Dialogue: 0,0:02:45.66,0:02:47.25,Main,Masamune,0000,0000,0000,,Y-Yes...
+Dialogue: 0,0:02:47.25,0:02:48.14,Main,Girl,0000,0000,0000,,I knew it!
+Dialogue: 0,0:02:48.14,0:02:48.62,Main,Girl,0000,0000,0000,,Who's that?
+Dialogue: 0,0:02:48.62,0:02:50.97,Main,Girl,0000,0000,0000,,Makabe-kun. He transferred here last week.
+Dialogue: 0,0:02:50.97,0:02:53.51,Main,Girl,0000,0000,0000,,Oh, are you interested in tennis?
+Dialogue: 0,0:02:53.51,0:02:55.59,Main,Girl,0000,0000,0000,,Would you like to practice with us?
+Dialogue: 0,0:02:55.59,0:02:57.04,Main,Masamune,0000,0000,0000,,Er, no...
+Dialogue: 0,0:02:57.04,0:02:59.26,Main,Girl,0000,0000,0000,,Did you really get a perfect \Nscore on the transfer exam?
+Dialogue: 0,0:02:59.26,0:03:00.25,Main,Girl,0000,0000,0000,,Wow!
+Dialogue: 0,0:03:00.25,0:03:03.66,Main,Girl,0000,0000,0000,,I saw you playing soccer! You looked so cool!
+Dialogue: 0,0:03:03.84,0:03:06.94,Italics,Masamune,0000,0000,0000,,Oh, man... Could this be...
+Dialogue: 0,0:03:09.04,0:03:12.58,Main,Masamune,0000,0000,0000,,You're too kind. I was \Nactually admiring how hard
+Dialogue: 0,0:03:12.58,0:03:14.29,Main,Masamune,0000,0000,0000,,all of you were practicing.
+Dialogue: 0,0:03:15.15,0:03:17.42,Main,Masamune,0000,0000,0000,,Well, keep up the good work.
+Dialogue: 0,0:03:21.08,0:03:22.18,Main Top,Girl,0000,0000,0000,,So cool!
+Dialogue: 0,0:03:22.18,0:03:23.20,Main Top,Girl,0000,0000,0000,,I'm in love!
+Dialogue: 0,0:03:22.51,0:03:25.85,Italics,Masamune,0000,0000,0000,,"Everything depends on whether \Nyou're hot or not"... I guess it's true.
+Dialogue: 0,0:03:26.28,0:03:28.99,Italics,Masamune,0000,0000,0000,,My plan may work after all!
+Dialogue: 0,0:03:35.27,0:03:37.58,Main,Girl,0000,0000,0000,,Shigeo-senpai is going to confess his love?
+Dialogue: 0,0:03:37.58,0:03:39.09,Main,Girl,0000,0000,0000,,To the Cruel Princess?
+Dialogue: 0,0:03:39.09,0:03:40.71,Main,Guy,0000,0000,0000,,I bet she'll finally break this time.
+Dialogue: 0,0:03:40.71,0:03:44.62,Main,Guy,0000,0000,0000,,I know she's the Cruel Princess and all, \Nbut Shigeo-senpai is a super hot guy.
+Dialogue: 0,0:03:46.59,0:03:48.16,Main,Guys,0000,0000,0000,,She's here!
+Dialogue: 0,0:03:49.16,0:03:52.71,Main,Shigeo,0000,0000,0000,,You came, my bashful little Rapunzel!
+Dialogue: 0,0:03:53.04,0:03:56.02,Main,Shigeo,0000,0000,0000,,There's no need to be shy. \NI'm used to people staring at me.
+Dialogue: 0,0:03:56.02,0:03:58.92,Main,Shigeo,0000,0000,0000,,That's why I want your answer, \Nright here, right now.
+Dialogue: 0,0:04:00.63,0:04:02.70,Main,Aki,0000,0000,0000,,Well, that's good, then.
+Dialogue: 0,0:04:03.93,0:04:07.44,Main,Aki,0000,0000,0000,,Yamada Shigeo-senpai from class 3-C,
+Dialogue: 0,0:04:05.05,0:04:06.18,Italics,Masamune,0000,0000,0000,,What's going on?
+Dialogue: 0,0:04:07.74,0:04:11.08,Main,Aki,0000,0000,0000,,thank you very much for asking me out.
+Dialogue: 0,0:04:11.08,0:04:12.43,Italics,Masamune,0000,0000,0000,,A public confession of love?
+Dialogue: 0,0:04:12.79,0:04:15.78,Main,Aki,0000,0000,0000,,Because of this, I had one of my servants
+Dialogue: 0,0:04:15.78,0:04:18.07,Main,Aki,0000,0000,0000,,run a background check on you.
+Dialogue: 0,0:04:18.32,0:04:19.07,Main,Shigeo,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:19.40,0:04:21.38,Main,Aki,0000,0000,0000,,As a result, I see that...
+Dialogue: 0,0:04:22.36,0:04:25.84,Main,Aki,0000,0000,0000,,you recently went to the bookstore by \Nthe station to buy the new volume of
+Dialogue: 0,0:04:25.84,0:04:29.58,Main,Aki,0000,0000,0000,,"Oh, Jeez! I'm Ryuubi Gentoku in a \NGenderswapped 'Romance of the Three Kingdoms'"
+Dialogue: 0,0:04:29.58,0:04:31.83,Main,Aki,0000,0000,0000,,and then hid it in a college workbook.
+Dialogue: 0,0:04:31.83,0:04:33.29,Main,Guys,0000,0000,0000,,"Genderswapped"?
+Dialogue: 0,0:04:34.07,0:04:36.31,Main,Aki,0000,0000,0000,,Also, I don't think unnaturally staring at
+Dialogue: 0,0:04:36.31,0:04:39.83,Main,Aki,0000,0000,0000,,an underclassman's upper arm flab \Nis a very favorable hobby.
+Dialogue: 0,0:04:40.13,0:04:43.45,Main,Aki,0000,0000,0000,,I also wonder about your internet-serialized \Nempowerment-fantasy novel
+Dialogue: 0,0:04:43.45,0:04:46.67,Main,Aki,0000,0000,0000,,whose protagonist shares your name, "Shigeo."
+Dialogue: 0,0:04:47.21,0:04:48.72,Main,Shigeo,0000,0000,0000,,W-Wait...
+Dialogue: 0,0:04:48.96,0:04:50.81,Main,Shigeo,0000,0000,0000,,I can explain...
+Dialogue: 0,0:04:51.54,0:04:52.74,Main,Shigeo,0000,0000,0000,,You've got it all wrong!
+Dialogue: 0,0:04:53.06,0:04:55.15,Main,Aki,0000,0000,0000,,And you always have
+Dialogue: 0,0:04:55.15,0:04:58.11,Main,Aki,0000,0000,0000,,a single hair growing from \Nthe mole on your chest.
+Dialogue: 0,0:04:59.98,0:05:03.98,Main,Aki,0000,0000,0000,,From the bottom of my heart, \NI grant you this name.
+Dialogue: 0,0:05:09.91,0:05:14.66,Black Signs,Sign,0000,0000,0000,,Moleo
+Dialogue: 0,0:05:10.20,0:05:12.62,Main,,0000,0000,0000,,Moleo...
+Dialogue: 0,0:05:15.60,0:05:18.11,Main,Girl,0000,0000,0000,,And I really liked Yamada-kun, too.
+Dialogue: 0,0:05:18.11,0:05:19.89,Main,Girl,0000,0000,0000,,But if he's "Moleo"...
+Dialogue: 0,0:05:19.89,0:05:21.95,Main,Guy,0000,0000,0000,,That's the Cruel Princess for you.
+Dialogue: 0,0:05:21.95,0:05:23.44,Main,Guy,0000,0000,0000,,She's merciless.
+Dialogue: 0,0:05:27.80,0:05:31.01,Italics,Masamune,0000,0000,0000,,The city is scary... The city is scary...
+Dialogue: 0,0:05:34.12,0:05:37.43,Italics,Masamune,0000,0000,0000,,No... I can't lose my nerve \Nover something like this.
+Dialogue: 0,0:05:37.73,0:05:39.61,Italics,Masamune,0000,0000,0000,,My battle's just begu—
+Dialogue: 0,0:07:18.18,0:07:21.17,Episode Title,Sign,0000,0000,0000,,{\fad(459,1)}#1 "The Boy Who Was Called Pig's Foot"
+Dialogue: 0,0:07:22.10,0:07:24.71,Flashback,Yoshino,0000,0000,0000,,I'll never fall in love with you.
+Dialogue: 0,0:07:25.65,0:07:26.74,Italics,Masamune,0000,0000,0000,,No...
+Dialogue: 0,0:07:27.63,0:07:29.01,Flashback,Yoshino,0000,0000,0000,,You're just...
+Dialogue: 0,0:07:27.63,0:07:29.01,Italics,Masamune,0000,0000,0000,,No!
+Dialogue: 0,0:07:32.93,0:07:35.96,Italics,Masamune,0000,0000,0000,,C-Crap! I totally let my guard down!
+Dialogue: 0,0:07:35.96,0:07:38.08,Main,Tae,0000,0000,0000,,Hey, Makabe! You're slacking off!
+Dialogue: 0,0:07:38.08,0:07:39.52,Main,Masamune,0000,0000,0000,,Right! I'm sorry!
+Dialogue: 0,0:07:40.65,0:07:42.03,Main,Masamune,0000,0000,0000,,Er, huh?
+Dialogue: 0,0:07:42.33,0:07:45.48,Main,Tae,0000,0000,0000,,Good morning, Makabe-kun. \NYou were sound asleep.
+Dialogue: 0,0:07:45.48,0:07:48.10,Main,Masamune,0000,0000,0000,,Oh, it's you, Class Rep Futaba.
+Dialogue: 0,0:07:48.10,0:07:51.45,Main,Tae,0000,0000,0000,,But that just means you're \Nfinally adjusting to this school.
+Dialogue: 0,0:07:51.45,0:07:53.70,Main,Tae,0000,0000,0000,,As the class rep, I feel relieved.
+Dialogue: 0,0:07:55.20,0:07:58.88,Italics,Masamune,0000,0000,0000,,Hot guys can get away with sleeping\Nin class, and even drooling?
+Dialogue: 0,0:07:58.88,0:08:01.16,Main,Kojuurou,0000,0000,0000,,Oh, Makabe-kun's awake.
+Dialogue: 0,0:08:01.52,0:08:03.29,Main,Masamune,0000,0000,0000,,Sh-Shuri-kun.
+Dialogue: 0,0:08:03.29,0:08:05.24,Main,Kojuurou,0000,0000,0000,,You can just call me Kojuurou.
+Dialogue: 0,0:08:05.67,0:08:07.47,Main,Kojuurou,0000,0000,0000,,You haven't had lunch yet, right?
+Dialogue: 0,0:08:07.47,0:08:10.31,Main,Kojuurou,0000,0000,0000,,If you go now, the school store \Nwill just be sold out, so...
+Dialogue: 0,0:08:10.31,0:08:13.51,Main,Masamune,0000,0000,0000,,O-Oh, thanks. You're a lifesaver.
+Dialogue: 0,0:08:14.01,0:08:17.00,Italics,Masamune,0000,0000,0000,,This bread has a full meal's \Nworth of calories...
+Dialogue: 0,0:08:14.01,0:08:19.10,Yakisoba,Sign,0000,0000,0000,,A Man's Yakisoba Bread
+Dialogue: 0,0:08:14.01,0:08:19.10,Spicy,Sign,0000,0000,0000,,Spicy!!
+Dialogue: 0,0:08:17.00,0:08:19.10,Italics,Masamune,0000,0000,0000,,Not to mention it's mostly carbs!
+Dialogue: 0,0:08:19.59,0:08:22.47,Italics,Masamune,0000,0000,0000,,I'll have to do an extra hundred \Ncrunches when I get home.
+Dialogue: 0,0:08:22.96,0:08:26.94,Main,Kojuurou,0000,0000,0000,,You're amazing, Makabe-kun. You get good \Ngrades, but don't act stuck up at all.
+Dialogue: 0,0:08:26.94,0:08:28.75,Main,Kojuurou,0000,0000,0000,,You're good at sports, too.
+Dialogue: 0,0:08:28.75,0:08:30.26,Main,Kojuurou,0000,0000,0000,,And you're good-looking!
+Dialogue: 0,0:08:30.26,0:08:31.72,Main,Masamune,0000,0000,0000,,Oh, stop.
+Dialogue: 0,0:08:32.05,0:08:34.62,Italics,Masamune,0000,0000,0000,,And I hear you're quite popular \Nwith a certain crowd
+Dialogue: 0,0:08:34.62,0:08:37.41,Italics,Masamune,0000,0000,0000,,that calls you "Kojuurou-kyun, \Nthe designated bottom."
+Dialogue: 0,0:08:37.82,0:08:40.32,Main,Kojuurou,0000,0000,0000,,There is one other person who's as
+Dialogue: 0,0:08:40.32,0:08:42.25,Main,Kojuurou,0000,0000,0000,,highly accomplished as you, but...
+Dialogue: 0,0:08:42.25,0:08:43.90,Main,Tae,0000,0000,0000,,Oh, you mean that one?
+Dialogue: 0,0:08:43.90,0:08:44.88,Main,Masamune,0000,0000,0000,,"That one"?
+Dialogue: 0,0:08:44.88,0:08:46.88,Main,Kojuurou,0000,0000,0000,,Yeah, the one who...
+Dialogue: 0,0:08:48.02,0:08:49.71,Main,Aki,0000,0000,0000,,Is Tanabe Akio here?
+Dialogue: 0,0:08:57.41,0:08:59.51,Italics,Masamune,0000,0000,0000,,That's the girl from this morning...
+Dialogue: 0,0:09:01.39,0:09:03.87,Main,Aki,0000,0000,0000,,You'll do just fine. Answer me.
+Dialogue: 0,0:09:04.22,0:09:06.70,Main,Aki,0000,0000,0000,,Is Tanabe Akio here or not?
+Dialogue: 0,0:09:08.88,0:09:10.99,Main,Masamune,0000,0000,0000,,Um, uh...
+Dialogue: 0,0:09:12.90,0:09:14.24,Main,Tanabe,0000,0000,0000,,Th-That's me.
+Dialogue: 0,0:09:20.16,0:09:23.50,Main,Aki,0000,0000,0000,,"I fell for how dignified you look in PE class."
+Dialogue: 0,0:09:23.50,0:09:27.48,Main,Aki,0000,0000,0000,,Simply put, you like how \Nmy legs look in shorts.
+Dialogue: 0,0:09:30.86,0:09:34.79,Main,Aki,0000,0000,0000,,From now on, I'll call you "Pudding Prince."
+Dialogue: 0,0:09:42.56,0:09:44.26,Main,Aki,0000,0000,0000,,Let's go, Yoshino.
+Dialogue: 0,0:09:46.94,0:09:49.78,Main,Masamune,0000,0000,0000,,Wh-What's with her?
+Dialogue: 0,0:09:50.08,0:09:53.17,Main,Kojuurou,0000,0000,0000,,She has the best grades in our \Nyear and is really beautiful,
+Dialogue: 0,0:09:53.17,0:09:55.54,Main,Kojuurou,0000,0000,0000,,but her personality is nothing \Nlike yours, Makabe-kun.
+Dialogue: 0,0:09:55.54,0:09:58.05,Main,Tae,0000,0000,0000,,On top of that, she really hates guys
+Dialogue: 0,0:09:58.05,0:10:00.19,Main,Tae,0000,0000,0000,,and gives anyone who asks her out
+Dialogue: 0,0:09:59.51,0:10:01.43,Main,Guy,0000,0000,0000,,{\an8}Yikes... You okay?
+Dialogue: 0,0:10:00.19,0:10:02.53,Main,Tae,0000,0000,0000,,cruel nicknames and drives them off.
+Dialogue: 0,0:10:01.43,0:10:02.53,Main,Guy,0000,0000,0000,,{\an8}Hang in there.
+Dialogue: 0,0:10:03.50,0:10:05.74,Main,Kojuurou,0000,0000,0000,,That's why they call her the "Cruel Princess."
+Dialogue: 0,0:10:06.00,0:10:07.90,Main,Kojuurou,0000,0000,0000,,Her name is Adagaki Aki-san.
+Dialogue: 0,0:10:08.88,0:10:11.41,Main,Kojuurou,0000,0000,0000,,She's the daughter of the \Nhead of the Adagaki Group.
+Dialogue: 0,0:10:11.41,0:10:13.46,Italics,Masamune,0000,0000,0000,,Adagaki...?
+Dialogue: 0,0:10:15.41,0:10:16.49,Main,Tae,0000,0000,0000,,Makabe-kun?
+Dialogue: 0,0:10:16.49,0:10:17.45,Main,Kojuurou,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:10:20.41,0:10:21.90,Italics,Masamune,0000,0000,0000,,Adagaki Aki...
+Dialogue: 0,0:10:22.54,0:10:23.56,Italics,Masamune,0000,0000,0000,,That's her?
+Dialogue: 0,0:10:35.67,0:10:37.00,Italics,Masamune,0000,0000,0000,,Who would've thought
+Dialogue: 0,0:10:37.00,0:10:39.77,Italics,Masamune,0000,0000,0000,,I'd run into her again so soon?
+Dialogue: 0,0:10:41.91,0:10:44.45,Main,Kaneko,0000,0000,0000,,Aki-sama, would you like another cup of tea?
+Dialogue: 0,0:10:44.69,0:10:46.78,Main,Aki,0000,0000,0000,,Thank you. I would.
+Dialogue: 0,0:10:47.13,0:10:50.58,Main,Mizuno,0000,0000,0000,,These are chocolates I ordered \Nfrom a chocolatier in Brussels.
+Dialogue: 0,0:10:50.88,0:10:52.96,Main,Mizuno,0000,0000,0000,,Please, try one.
+Dialogue: 0,0:10:52.96,0:10:56.27,Main,Aki,0000,0000,0000,,How lovely. But I'm going to pass for now.
+Dialogue: 0,0:10:56.27,0:10:59.61,Italics,Masamune,0000,0000,0000,,It looks like what Kojuurou\Ntold me was correct,
+Dialogue: 0,0:10:59.61,0:11:01.89,Italics,Masamune,0000,0000,0000,,but she seems to have a lot \Nof girls as her lackeys.
+Dialogue: 0,0:11:01.89,0:11:04.98,Main,Aki,0000,0000,0000,,Oh, Sonoka. Your ribbon's coming loose.
+Dialogue: 0,0:11:06.60,0:11:07.68,Main,Kaneko,0000,0000,0000,,Aki-sama...
+Dialogue: 0,0:11:09.32,0:11:12.28,Main,Masamune,0000,0000,0000,,I thought she'd be feared by girls, too,
+Dialogue: 0,0:11:12.28,0:11:13.58,Main,Masamune,0000,0000,0000,,but I guess that's not the case.
+Dialogue: 0,0:11:13.58,0:11:16.97,Main,Kojuurou,0000,0000,0000,,Apparently some girls think she's \Ncool because she's so blunt.
+Dialogue: 0,0:11:16.97,0:11:18.64,Main,Masamune,0000,0000,0000,,Is that how it works?
+Dialogue: 0,0:11:18.64,0:11:21.41,Main,Kojuurou,0000,0000,0000,,But the one who's always with her is
+Dialogue: 0,0:11:21.41,0:11:23.72,Main,Kojuurou,0000,0000,0000,,Koiwai Yoshino-san.
+Dialogue: 0,0:11:24.14,0:11:24.83,Main,Masamune,0000,0000,0000,,Anything else?
+Dialogue: 0,0:11:25.37,0:11:26.20,Main,Kojuurou,0000,0000,0000,,Anything else?
+Dialogue: 0,0:11:26.20,0:11:29.40,Main,Masamune,0000,0000,0000,,Yeah, like her type, her likes \Nand dislikes, or her tendencies.
+Dialogue: 0,0:11:29.40,0:11:32.78,Main,Kojuurou,0000,0000,0000,,I'm not sure. I can't say \NI've heard much about that.
+Dialogue: 0,0:11:32.78,0:11:36.48,Main,Kojuurou,0000,0000,0000,,I think the only thing I've heard is \Nthat she likes to eat lunch alone.
+Dialogue: 0,0:11:36.82,0:11:38.76,Main,Aki,0000,0000,0000,,If you'll excuse me.
+Dialogue: 0,0:11:39.30,0:11:41.18,Main,Kaneko,0000,0000,0000,,Farewell, Aki-sama.
+Dialogue: 0,0:11:41.18,0:11:42.21,Main,Mizuno,0000,0000,0000,,Farewell.
+Dialogue: 0,0:11:42.21,0:11:43.56,Main,Kiba,0000,0000,0000,,Bye-bye, Aki-sama.
+Dialogue: 0,0:11:48.95,0:11:50.39,Main,Masamune,0000,0000,0000,,Huh...
+Dialogue: 0,0:11:50.39,0:11:54.53,Main,Masamune,0000,0000,0000,,So she's usually in a harem situation \Nwith all these girls waiting on her,
+Dialogue: 0,0:11:54.53,0:11:56.82,Main,Masamune,0000,0000,0000,,but that's not the case when she's eating.
+Dialogue: 0,0:11:57.12,0:11:59.32,Main,Masamune,0000,0000,0000,,I'm going to have to look into this.
+Dialogue: 0,0:11:59.32,0:12:02.27,Main,Kojuurou,0000,0000,0000,,I wouldn't do that, Makabe-kun.
+Dialogue: 0,0:12:02.27,0:12:04.33,Main,Kojuurou,0000,0000,0000,,She'll probably do something awful to you.
+Dialogue: 0,0:12:04.33,0:12:07.22,Main,Masamune,0000,0000,0000,,I won't have to worry about \Nthat! I don't think.
+Dialogue: 0,0:12:07.22,0:12:08.73,Main,Kojuurou,0000,0000,0000,,You think so?
+Dialogue: 0,0:12:08.73,0:12:09.82,Main,Masamune,0000,0000,0000,,Oh, crap.
+Dialogue: 0,0:12:11.57,0:12:14.30,Main,Kojuurou,0000,0000,0000,,I wonder what's up with Makabe-kun.
+Dialogue: 0,0:12:18.89,0:12:19.88,Italics,Masamune,0000,0000,0000,,I messed up.
+Dialogue: 0,0:12:20.13,0:12:21.51,Italics,Masamune,0000,0000,0000,,Where did
+Dialogue: 0,0:12:21.51,0:12:22.84,Italics,Masamune,0000,0000,0000,,she go?
+Dialogue: 0,0:12:25.55,0:12:28.26,Italics,Masamune,0000,0000,0000,,Now that I actually want to find her,\NI realize this school is huge.
+Dialogue: 0,0:12:29.89,0:12:30.82,Italics,Masamune,0000,0000,0000,,That's...
+Dialogue: 0,0:12:33.45,0:12:36.72,Italics,Masamune,0000,0000,0000,,There's no doubt about it. \NThat's one of Adagaki Aki's lackeys.
+Dialogue: 0,0:12:36.72,0:12:39.54,Italics,Masamune,0000,0000,0000,,I definitely remember that unfortunate aura.
+Dialogue: 0,0:12:52.07,0:12:53.79,Main,Masamune,0000,0000,0000,,Something seems fishy...
+Dialogue: 0,0:13:03.98,0:13:06.30,Italics,Masamune,0000,0000,0000,,What could she be doing there?
+Dialogue: 0,0:13:06.97,0:13:08.32,Main,Yoshino,0000,0000,0000,,I bought them.
+Dialogue: 0,0:13:08.32,0:13:11.31,Main,Aki,0000,0000,0000,,What took you so long, Yoshino? \NI got tired of waiting.
+Dialogue: 0,0:13:11.82,0:13:15.52,Main,Yoshino,0000,0000,0000,,Sorry, but there were only \Ntwo cutlet sandwiches.
+Dialogue: 0,0:13:15.86,0:13:18.73,Main,Aki,0000,0000,0000,,Then you could have just \Nbought something else.
+Dialogue: 0,0:13:18.97,0:13:20.33,Main,Aki,0000,0000,0000,,Have you no sense?
+Dialogue: 0,0:13:20.33,0:13:23.39,Italics,Masamune,0000,0000,0000,,Bingo! I've found you, Adagaki Aki!
+Dialogue: 0,0:13:24.24,0:13:26.86,Italics,Masamune,0000,0000,0000,,What's that metal case?
+Dialogue: 0,0:13:34.75,0:13:37.22,Main,Masamune,0000,0000,0000,,A spider!
+Dialogue: 0,0:13:46.82,0:13:47.88,Main,Masamune,0000,0000,0000,,Heya.
+Dialogue: 0,0:13:51.13,0:13:54.34,Main,Masamune,0000,0000,0000,,Sorry, I didn't mean to eavesdrop.
+Dialogue: 0,0:13:54.34,0:13:57.08,Main,Masamune,0000,0000,0000,,I just happened to see her walk in here.
+Dialogue: 0,0:13:57.08,0:14:00.48,Main,Aki,0000,0000,0000,,Are you saying that you \Ndidn't think I'd be in here?
+Dialogue: 0,0:14:00.48,0:14:01.93,Main,Masamune,0000,0000,0000,,Right.
+Dialogue: 0,0:14:02.68,0:14:06.59,Italics,Masamune,0000,0000,0000,,Who the hell would expect to \Nfind the great Adagaki Aki
+Dialogue: 0,0:14:06.59,0:14:08.52,Italics,Masamune,0000,0000,0000,,eating alone in the gym storage room?
+Dialogue: 0,0:14:09.20,0:14:11.56,Italics,Masamune,0000,0000,0000,,And the idea that she loves \Nhigh-calorie meals that are
+Dialogue: 0,0:14:11.56,0:14:13.33,Italics,Masamune,0000,0000,0000,,ideal for people who do physical labor...
+Dialogue: 0,0:14:13.33,0:14:14.41,High in Calories 4,Sign,0000,0000,0000,,High in Calories
+Dialogue: 0,0:14:13.58,0:14:14.41,High in Calories 5,Sign,0000,0000,0000,,High in Calories
+Dialogue: 0,0:14:13.83,0:14:14.41,High in Calories 6,Sign,0000,0000,0000,,High in Calories
+Dialogue: 0,0:14:14.61,0:14:17.72,Main,Aki,0000,0000,0000,,You're in the way, so would you mind leaving?
+Dialogue: 0,0:14:17.72,0:14:19.38,Main,Masamune,0000,0000,0000,,Don't worry about it.
+Dialogue: 0,0:14:19.38,0:14:21.81,Main,Masamune,0000,0000,0000,,I'm sure there are some athletic girls who
+Dialogue: 0,0:14:21.81,0:14:24.27,Main,Masamune,0000,0000,0000,,eat slightly bigger lunches like that.
+Dialogue: 0,0:14:24.27,0:14:25.67,Main,Masamune,0000,0000,0000,,Heck, my little sister...
+Dialogue: 0,0:14:27.78,0:14:29.65,Main,Yoshino,0000,0000,0000,,Would you like your bread now?
+Dialogue: 0,0:14:29.65,0:14:30.74,Main,Aki,0000,0000,0000,,Later is fine.
+Dialogue: 0,0:14:38.08,0:14:40.27,Main,Aki,0000,0000,0000,,I-I can't help it!
+Dialogue: 0,0:14:40.27,0:14:43.73,Main,Aki,0000,0000,0000,,If I just eat like everyone else, \NI get hungry again right away.
+Dialogue: 0,0:14:43.73,0:14:47.55,Main,Aki,0000,0000,0000,,I'm prone to hypoglycemia, so I always \Nhave to make sure I get enough sugar.
+Dialogue: 0,0:14:47.55,0:14:50.27,Main,Aki,0000,0000,0000,,I thought I seriously might have \Na parasite, so I had tests done,
+Dialogue: 0,0:14:50.27,0:14:51.85,Main,Aki,0000,0000,0000,,but they didn't find anything.
+Dialogue: 0,0:14:51.85,0:14:55.51,Main,Aki,0000,0000,0000,,Anyway, I have to do everything I can to \Nmake sure my stomach doesn't rumble.
+Dialogue: 0,0:14:55.51,0:14:58.29,Main,Aki,0000,0000,0000,,You don't hear a normal girl's \Nstomach rumbling, ever!
+Dialogue: 0,0:14:58.54,0:15:02.32,Main,Aki,0000,0000,0000,,Or what? Do you want my stomach \Nmaking noises as loud as Big Ben?
+Dialogue: 0,0:15:02.32,0:15:03.94,Main,Aki,0000,0000,0000,,Is that what you're into?!
+Dialogue: 0,0:15:06.97,0:15:10.75,Main,Masamune,0000,0000,0000,,O-Oh, yeah... I just remembered \Nsomewhere I have to be.
+Dialogue: 0,0:15:14.40,0:15:16.47,Main,Aki,0000,0000,0000,,What's your name?
+Dialogue: 0,0:15:17.89,0:15:19.12,Main,Masamune,0000,0000,0000,,Makabe.
+Dialogue: 0,0:15:21.08,0:15:23.40,Main,Aki,0000,0000,0000,,Tell anyone about this, and you'll regret it.
+Dialogue: 0,0:15:24.61,0:15:28.32,Italics,Masamune,0000,0000,0000,,But I've just been dealt a trump card!
+Dialogue: 0,0:15:35.04,0:15:38.33,Main,Kojuurou,0000,0000,0000,,Makabe-kun, I hear you're \Nfriendly with Adagaki-san now.
+Dialogue: 0,0:15:38.33,0:15:40.66,Main,Masamune,0000,0000,0000,,Where did that come from?
+Dialogue: 0,0:15:40.66,0:15:44.18,Main,Kojuurou,0000,0000,0000,,That's the rumor in our class. Whoa, whoa...
+Dialogue: 0,0:15:44.18,0:15:47.80,Main,Kojuurou,0000,0000,0000,,Everyone thinks the Cruel Princess \Nmight finally fall this time.
+Dialogue: 0,0:15:49.84,0:15:51.74,Main,Masamune,0000,0000,0000,,Oh, man...
+Dialogue: 0,0:15:51.74,0:15:54.12,Main,Masamune,0000,0000,0000,,It's not like that at all.
+Dialogue: 0,0:15:58.95,0:16:02.30,Italics,Masamune,0000,0000,0000,,In reality, she's only been \Nmean to me ever since.
+Dialogue: 0,0:16:02.30,0:16:04.28,Italics,Masamune,0000,0000,0000,,Are they that delusional?
+Dialogue: 0,0:16:04.70,0:16:07.04,Italics,Masamune,0000,0000,0000,,Girls are scary when it comes to love.
+Dialogue: 0,0:16:08.87,0:16:12.04,Italics,Masamune,0000,0000,0000,,Someone that pretty is able \Nto eat that super hefty meal.
+Dialogue: 0,0:16:12.04,0:16:14.25,Italics,Masamune,0000,0000,0000,,No one would believe that... right?
+Dialogue: 0,0:16:16.70,0:16:18.16,Dog House,Sign,0000,0000,0000,,Back to Your Dog House
+Dialogue: 0,0:16:18.16,0:16:19.58,Main,Masamune,0000,0000,0000,,What am I, a dog?!
+Dialogue: 0,0:16:20.25,0:16:20.83,Main,Masamune,0000,0000,0000,,Ow!
+Dialogue: 0,0:16:23.46,0:16:25.08,Main,Kojuurou,0000,0000,0000,,A-Are you okay?
+Dialogue: 0,0:16:26.14,0:16:27.31,Main,Tae,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:16:27.31,0:16:29.44,Main,Girl,0000,0000,0000,,Are you okay? Do you need \Nto go to the nurse's office?
+Dialogue: 0,0:16:29.44,0:16:30.83,Main,Masamune,0000,0000,0000,,No, I'm fine.
+Dialogue: 0,0:16:33.64,0:16:35.06,Main,Tanabe,0000,0000,0000,,Don't get full of yourself.
+Dialogue: 0,0:16:42.96,0:16:44.75,Main,Girl,0000,0000,0000,,Makabe-kun, are you okay?
+Dialogue: 0,0:16:44.75,0:16:46.11,Main,Girl,0000,0000,0000,,Are you hurt?
+Dialogue: 0,0:16:46.86,0:16:50.62,Italics,Masamune,0000,0000,0000,,I guess it's not only girls who are \Nlike that when it comes to love.
+Dialogue: 0,0:16:50.96,0:16:53.90,Italics,Masamune,0000,0000,0000,,That's really annoying, but I \Ncan use that to my advantage.
+Dialogue: 0,0:16:55.20,0:16:59.66,Hours,Sign,0000,0000,0000,,Hours of Operation\N\NOpen Year-Round
+Dialogue: 0,0:16:55.60,0:16:57.17,Main,Mizuno,0000,0000,0000,,Farewell, Aki-sama.
+Dialogue: 0,0:16:57.17,0:16:57.93,Main,Aki,0000,0000,0000,,See you tomorrow.
+Dialogue: 0,0:16:57.93,0:16:58.62,Main,Kiba,0000,0000,0000,,Bye-bye!
+Dialogue: 0,0:16:58.62,0:16:59.66,Main,Kaneko,0000,0000,0000,,Farewell!
+Dialogue: 0,0:17:06.21,0:17:07.08,Main,Aki,0000,0000,0000,,Yoshino.
+Dialogue: 0,0:17:08.18,0:17:09.69,Main,Aki,0000,0000,0000,,Yoshino, wake up!
+Dialogue: 0,0:17:12.26,0:17:14.21,Main,Aki,0000,0000,0000,,I'm so hungry that I might faint.
+Dialogue: 0,0:17:14.21,0:17:16.38,Main,Aki,0000,0000,0000,,Go buy me something to eat.
+Dialogue: 0,0:17:16.38,0:17:18.14,Main,Yoshino,0000,0000,0000,,Right now?
+Dialogue: 0,0:17:18.14,0:17:19.33,Main,Aki,0000,0000,0000,,Yes. Hurry.
+Dialogue: 0,0:17:19.33,0:17:22.84,Main,Yoshino,0000,0000,0000,,What would you like? \NSomething with rice, or bread?
+Dialogue: 0,0:17:22.84,0:17:24.68,Main,Aki,0000,0000,0000,,I told you, I'm about to faint.
+Dialogue: 0,0:17:24.68,0:17:27.11,Main,Aki,0000,0000,0000,,It doesn't matter what it is. \NJust hurry up and go buy it.
+Dialogue: 0,0:17:27.11,0:17:28.09,Main,Yoshino,0000,0000,0000,,Right.
+Dialogue: 0,0:17:44.00,0:17:47.06,Italics,Aki,0000,0000,0000,,I ate a proper lunch.
+Dialogue: 0,0:17:47.06,0:17:50.07,Italics,Aki,0000,0000,0000,,It seems my body's calorie \Nconsumption is getting worse...
+Dialogue: 0,0:17:51.13,0:17:54.55,Italics,Aki,0000,0000,0000,,How far did Yoshino go, anyway?
+Dialogue: 0,0:17:55.24,0:17:58.26,Main,Tanabe,0000,0000,0000,,You're in quite a hurry. \NDo you have a date with Makabe?
+Dialogue: 0,0:18:01.05,0:18:02.72,Main,Aki,0000,0000,0000,,You're the Pudding Pr—
+Dialogue: 0,0:18:02.72,0:18:03.60,Main,Tanabe,0000,0000,0000,,Shut up!
+Dialogue: 0,0:18:04.72,0:18:07.48,Main,Aki,0000,0000,0000,,Oh, but it's such a fitting nickname.
+Dialogue: 0,0:18:07.48,0:18:08.27,Main,Aki,0000,0000,0000,,You don't like—
+Dialogue: 0,0:18:09.38,0:18:12.83,Main,Tanabe,0000,0000,0000,,You ripped up my letter, \Nbut Makabe's just fine?
+Dialogue: 0,0:18:12.83,0:18:14.67,Main,Tanabe,0000,0000,0000,,Must be nice to be a hot guy.
+Dialogue: 0,0:18:14.67,0:18:17.45,Main,Aki,0000,0000,0000,,Looks don't matter. Let go of me.
+Dialogue: 0,0:18:17.94,0:18:21.20,Main,Tanabe,0000,0000,0000,,You think you're such a princess,\Nlooking down on everyone else!
+Dialogue: 0,0:18:24.09,0:18:24.95,Italics,Aki,0000,0000,0000,,Don't!
+Dialogue: 0,0:18:35.80,0:18:39.68,Main,Masamune,0000,0000,0000,,I always thought something like \Nthis might happen eventually.
+Dialogue: 0,0:18:39.93,0:18:41.98,Main,Masamune,0000,0000,0000,,Because you're so scary, Adagaki-san.
+Dialogue: 0,0:18:51.96,0:18:53.07,Main,Masamune,0000,0000,0000,,Are you hurt?
+Dialogue: 0,0:18:53.46,0:18:55.65,Main,Aki,0000,0000,0000,,Th-That's what I should be asking you.
+Dialogue: 0,0:18:55.98,0:18:59.07,Main,Masamune,0000,0000,0000,,This is nothing, as long as you're safe.
+Dialogue: 0,0:19:02.85,0:19:03.70,Italics,Masamune,0000,0000,0000,,O—
+Dialogue: 0,0:19:05.37,0:19:07.62,Italics,Masamune,0000,0000,0000,,Ow!
+Dialogue: 0,0:19:07.62,0:19:09.37,Italics,Masamune,0000,0000,0000,,Ow, ow! That seriously hurt, damn it!
+Dialogue: 0,0:19:09.37,0:19:12.49,Italics,Masamune,0000,0000,0000,,It so hurts! It frickin' hurts! \NI want to cry! I want to scream!
+Dialogue: 0,0:19:12.49,0:19:14.42,Italics,Masamune,0000,0000,0000,,Actually, can I just pass out?
+Dialogue: 0,0:19:17.52,0:19:18.63,Italics,Masamune,0000,0000,0000,,But now...
+Dialogue: 0,0:19:18.63,0:19:21.79,Italics,Masamune,0000,0000,0000,,I bet she can't be nasty to me anymore.
+Dialogue: 0,0:19:22.09,0:19:25.17,Italics,Masamune,0000,0000,0000,,Not only do I know Adagaki Aki's secret,
+Dialogue: 0,0:19:25.17,0:19:26.81,Italics,Masamune,0000,0000,0000,,but now I've saved her.
+Dialogue: 0,0:19:27.24,0:19:29.18,Italics,Masamune,0000,0000,0000,,Her pride won't let her get away with that.
+Dialogue: 0,0:19:32.87,0:19:34.54,Main,Masamune,0000,0000,0000,,Don't make that face.
+Dialogue: 0,0:19:34.84,0:19:36.98,Main,Masamune,0000,0000,0000,,Girls are much cuter when they're smiling.
+Dialogue: 0,0:19:48.91,0:19:52.11,Flashback,Masamune,0000,0000,0000,,M-My daddy's super rich!
+Dialogue: 0,0:19:52.11,0:19:54.62,Italics,Masamune,0000,0000,0000,,Let me make a confession. I was a fatty.
+Dialogue: 0,0:19:54.62,0:19:57.88,Italics,Masamune,0000,0000,0000,,On top of that, I was a snobby \Nrich kid and a target of bullies.
+Dialogue: 0,0:19:59.37,0:20:02.09,Flashback,Aki,0000,0000,0000,,What are you all doing in front of my house?
+Dialogue: 0,0:20:02.65,0:20:05.72,Italics,Masamune,0000,0000,0000,,Back then, Adagaki Aki looked like
+Dialogue: 0,0:20:05.72,0:20:07.35,Italics,Masamune,0000,0000,0000,,a savior to me.
+Dialogue: 0,0:20:07.80,0:20:09.39,Italics,Masamune,0000,0000,0000,,Until that fateful moment...
+Dialogue: 0,0:20:11.66,0:20:14.35,Flashback,Aki,0000,0000,0000,,I won't fall for you.
+Dialogue: 0,0:20:14.35,0:20:15.98,Flashback,Aki,0000,0000,0000,,You're just a Pig's Foot!
+Dialogue: 0,0:20:19.57,0:20:22.46,Italics,Masamune,0000,0000,0000,,This is revenge, Adagaki Aki.
+Dialogue: 0,0:20:23.18,0:20:26.63,Italics,Masamune,0000,0000,0000,,I hate you and despise you \Nso much that I can't bear it.
+Dialogue: 0,0:20:27.11,0:20:30.08,Italics,Masamune,0000,0000,0000,,That's why I'm going to do whatever it takes
+Dialogue: 0,0:20:31.01,0:20:34.15,Italics,Masamune,0000,0000,0000,,to make you fall in love with me now.
+Dialogue: 0,0:20:37.43,0:20:40.57,Italics,Masamune,0000,0000,0000,,And when she really does, it'll all be over.
+Dialogue: 0,0:20:40.90,0:20:44.72,Italics,Masamune,0000,0000,0000,,I'll tell her who I am, then dump her \Nin the most awesome way possible.
+Dialogue: 0,0:20:45.01,0:20:48.02,Italics,Masamune,0000,0000,0000,,I call it the "Dead or Love Plan."
+Dialogue: 0,0:20:54.90,0:20:57.16,Main,Kinue,0000,0000,0000,,Oh, Maa-kun seems to be in a good mood.
+Dialogue: 0,0:20:57.16,0:20:57.99,Main,Chinatsu,0000,0000,0000,,Gross.
+Dialogue: 0,0:21:01.57,0:21:03.16,Main,Girl,0000,0000,0000,,Good morning, Makabe-kun.
+Dialogue: 0,0:21:03.16,0:21:04.02,Main,Masamune,0000,0000,0000,,Morning.
+Dialogue: 0,0:21:04.02,0:21:05.74,Main,Tae,0000,0000,0000,,Good morning, Makabe-kun.
+Dialogue: 0,0:21:05.74,0:21:07.14,Main,Masamune,0000,0000,0000,,Good morning, Futaba-san.
+Dialogue: 0,0:21:07.84,0:21:09.23,Main,Tae,0000,0000,0000,,What happened to your hand?
+Dialogue: 0,0:21:09.23,0:21:11.04,Main,Masamune,0000,0000,0000,,Oh, I was just a bit clumsy.
+Dialogue: 0,0:21:11.27,0:21:14.37,Main,Tae,0000,0000,0000,,I didn't know you could be clumsy, \NMakabe-kun. How surprising.
+Dialogue: 0,0:21:14.37,0:21:17.29,Italics,Masamune,0000,0000,0000,,That sexy contrast between hot \Nand clumsy! Score one for me!
+Dialogue: 0,0:21:27.66,0:21:29.22,Main,Masamune,0000,0000,0000,,Good morning, Tanabe-kun.
+Dialogue: 0,0:21:29.58,0:21:31.44,Main,Tanabe,0000,0000,0000,,G-Good morning...
+Dialogue: 0,0:21:32.28,0:21:33.61,Main,Tanabe,0000,0000,0000,,Sorry about yesterday.
+Dialogue: 0,0:21:33.61,0:21:36.19,Main,Masamune,0000,0000,0000,,Hey, it's all good. Don't worry about it.
+Dialogue: 0,0:21:37.09,0:21:39.27,Main,Tae,0000,0000,0000,,Huh? What? What happened?
+Dialogue: 0,0:21:40.60,0:21:41.76,Main,Masamune,0000,0000,0000,,It's a secret.
+Dialogue: 0,0:21:46.10,0:21:47.66,Main,Kojuurou,0000,0000,0000,,Good morning, Makabe-kun.
+Dialogue: 0,0:21:47.66,0:21:48.60,Main,Masamune,0000,0000,0000,,Morning.
+Dialogue: 0,0:21:56.10,0:21:58.56,Main,Kojuurou,0000,0000,0000,,Wow, a love letter? Nice.
+Dialogue: 0,0:21:58.56,0:21:59.88,Main,Masamune,0000,0000,0000,,Oh, I'm not sure about that...
+Dialogue: 0,0:22:00.88,0:22:04.09,Piggy,Sign,0000,0000,0000,,Pig's Foot
+Dialogue: 0,0:22:04.36,0:22:05.11,Italics,Masamune,0000,0000,0000,,Huh?
+Dialogue: 0,0:22:05.41,0:22:06.55,Italics,Masamune,0000,0000,0000,,Could it be...
+Dialogue: 0,0:22:06.84,0:22:08.32,Italics,Masamune,0000,0000,0000,,I've already been found out?

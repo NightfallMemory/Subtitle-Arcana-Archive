@@ -1,0 +1,414 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default-Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics-Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Emperor,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Show Title,Trebuchet MS,20,&H007000CE,&H0000FFFF,&H00F5CCFB,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Ep Title,Trebuchet MS,18,&H14EEFDFF,&H008B3081,&H287688B3,&H8D2552C4,-1,0,0,0,95,100,0,0,1,1,1,2,20,290,19,0
+Style: Next Ep Title,Trebuchet MS,20,&H14FFFFFF,&H008B3081,&H28000000,&H20000000,-1,0,0,0,95,100,0,0,1,0,0,3,20,78,10,0
+Style: Next Ep Title - Lower,Trebuchet MS,26,&H14334E5C,&H008B3081,&H28334E5C,&H20000000,0,0,0,0,95,100,0,0,1,0,0,2,20,20,60,0
+Style: White-Standard,Arial,25,&H00FFFFFF,&H0000FFFF,&H30000000,&H79000000,-1,0,0,0,100,100,0,0,1,0,0,2,20,20,70,0
+Style: Black-Standard,Arial,19,&H00000000,&H0000FFFF,&H00FFFFFF,&H9A000000,-1,0,0,0,100,100,0,0,1,0,0,8,20,20,20,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: shopping,Arial,19,&H0FFFFFFF,&H0000FFFF,&H00887CBF,&H9A000000,-1,0,0,0,100,100,0,0,1,3,0,8,20,20,20,0
+Style: Comp small -an9,Arial,21,&H24FFFFFF,&H0000FFFF,&H70FFFFFF,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,9,20,20,20,0
+Style: Comp big-an8,Arial,24,&H00FFFFFF,&H0000FFFF,&H70FFFFFF,&H7F404040,0,0,0,0,100,100,0,0,1,1,0,8,20,20,20,0
+Style: Comp big-an8 - closeup blue,Arial,24,&H00FDEAD0,&H0000FFFF,&H72B5A99C,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,8,20,20,20,0
+Style: Comp very big-an8,Arial,40,&H00FFFFFF,&H0000FFFF,&H70FFFFFF,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,8,20,20,100,0
+Style: Phone,Verdana,24,&H00636061,&H0000FFFF,&H00E5E6E4,&H7F404040,0,0,0,0,100,100,0,0,3,4,0,8,20,20,20,0
+Style: Board,Arial,24,&H002B2D28,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,7,20,20,20,0
+Style: georgia,Trebuchet MS,17,&H002B2D28,&H0000FFFF,&H00ECEFEC,&H7F404040,-1,0,0,0,100,100,0,0,1,4,0,9,20,35,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.36,0:00:05.66,Default,Gobo,0,0,0,,Feels good to eat outside \Nfor a change, for real!
+Dialogue: 0,0:00:05.66,0:00:08.06,Default,Rika,0,0,0,,Everyone needs to take it easy sometimes.
+Dialogue: 0,0:00:08.06,0:00:11.14,Default,Gobo,0,0,0,,But man, this sucks...
+Dialogue: 0,0:00:11.55,0:00:12.62,Default,Rika,0,0,0,,What does?
+Dialogue: 0,0:00:12.62,0:00:15.33,Default,Gobo,0,0,0,,I thought we were gonna win...
+Dialogue: 0,0:00:15.98,0:00:20.03,Default,Gobo,0,0,0,,We can't find the Queen's headquarters since \Nit's hidden away with the Concealment Right.
+Dialogue: 0,0:00:20.03,0:00:23.25,Default,Gobo,0,0,0,,There's really not a way \Nfor us to win, for real...
+Dialogue: 0,0:00:23.25,0:00:25.43,Default,Rika,0,0,0,,Don't worry too much and eat up!
+Dialogue: 0,0:00:25.43,0:00:29.34,Default,Rika,0,0,0,,We can still use the public \Nwith the Emperor's announcements.
+Dialogue: 0,0:00:29.34,0:00:31.38,Default,Gobo,0,0,0,,Yeah... I guess...
+Dialogue: 0,0:00:31.38,0:00:33.68,Default,Iruga,0,0,0,,You guys sure are down in the dumps!
+Dialogue: 0,0:00:34.56,0:00:37.08,Default,Iruga,0,0,0,,I get how you feel, really.
+Dialogue: 0,0:00:37.08,0:00:38.81,Default,Gobo,0,0,0,,Ren Iruga!
+Dialogue: 0,0:00:55.58,0:00:58.50,Show Title,Title,0,0,0,,{\fad(250,0)\pos(320,110)}Tasuketsu: Fate of the Majority
+Dialogue: 0,0:02:12.90,0:02:14.11,Default,Shinozaki,0,0,0,,How did you find us?!
+Dialogue: 0,0:02:14.11,0:02:16.40,Default,Iruga,0,0,0,,Whoa, easy now.
+Dialogue: 0,0:02:16.40,0:02:19.86,Default,Iruga,0,0,0,,Remember that envelope \Nfrom the Emperor operation?
+Dialogue: 0,0:02:19.86,0:02:23.87,Default,Iruga,0,0,0,,It came with an antenna \Nto trace whoever opened it.
+Dialogue: 0,0:02:25.12,0:02:27.04,Default,Iruga,0,0,0,,With my Tracing Right!
+Dialogue: 0,0:02:27.13,0:02:28.59,Board,Sign,0,0,0,,{\an8\fs50\c&H53473B&\fad(390,1)\move(317,213,317,48,17,1435)}Die
+Dialogue: 0,0:02:28.59,0:02:30.55,Default,Gobo,0,0,0,,I opened that envelope!
+Dialogue: 0,0:02:30.55,0:02:33.26,Default,Iruga,0,0,0,,Would you happen to be the current Emperor?
+Dialogue: 0,0:02:35.22,0:02:39.72,Default,Iruga,0,0,0,,I'm not just here to drop by. I came to \Nshare some valuable information.
+Dialogue: 0,0:02:40.10,0:02:42.14,Default,Shinozaki,0,0,0,,Valuable information?
+Dialogue: 0,0:02:42.14,0:02:46.73,Default,Iruga,0,0,0,,At this rate, there's no way \Nyou can defeat the Queen.
+Dialogue: 0,0:02:47.86,0:02:49.99,Default,Iruga,0,0,0,,I'm assuming that you've already figured out
+Dialogue: 0,0:02:49.99,0:02:53.40,Default,Iruga,0,0,0,,that the Queen can obtain Rights \Nwithout an owner.
+Dialogue: 0,0:02:53.40,0:02:55.11,Default,Gobo,0,0,0,,Y-Yeah...
+Dialogue: 0,0:02:55.28,0:03:04.46,White-Standard,Sign,0,0,0,,{\fad(400,1)\fs30\pos(152,151)}Attack
+Dialogue: 0,0:02:55.40,0:03:00.56,Default,Iruga,0,0,0,,Attack, defense, revival... \Neven Rights to conceal herself.
+Dialogue: 0,0:02:56.24,0:03:04.46,White-Standard,Sign,0,0,0,,{\fad(400,1)\fs30\pos(479,82)}Defense
+Dialogue: 0,0:02:57.32,0:03:04.46,White-Standard,Sign,0,0,0,,{\fad(400,1)\fs30\pos(174,198)}Revival
+Dialogue: 0,0:02:58.32,0:03:04.46,White-Standard,Sign,0,0,0,,{\fad(400,1)\fs30\pos(483,208)}Concealment
+Dialogue: 0,0:03:00.56,0:03:04.46,Default,Iruga,0,0,0,,The Queen has a strong hand \Nand a full slate...
+Dialogue: 0,0:03:04.46,0:03:07.89,Default,Iruga,0,0,0,,and that's where my info comes into play!
+Dialogue: 0,0:03:07.89,0:03:12.92,Default,Iruga,0,0,0,,Today, I'm gonna teach you \Nthe hottest source of information!
+Dialogue: 0,0:03:13.98,0:03:15.93,Default,Iruga,0,0,0,,Knight Kato...
+Dialogue: 0,0:03:15.93,0:03:19.89,Default,Iruga,0,0,0,,He's the one you should win over if you \Nwant a safe way to extract information!
+Dialogue: 0,0:03:19.89,0:03:23.63,Default,Rika,0,0,0,,Didn't Pres say he planted \Nsomething in Knight?
+Dialogue: 0,0:03:26.21,0:03:29.56,Default,Iruga,0,0,0,,I don't know if I'd blindly believe \Nthe President if I were you.
+Dialogue: 0,0:03:30.52,0:03:34.49,Default,Iruga,0,0,0,,Not that I'd stop you guys... \Nit's fun to watch anyway.
+Dialogue: 0,0:03:36.45,0:03:39.24,Default,Shinozaki,0,0,0,,Don't blindly believe... Yagihashi?
+Dialogue: 0,0:03:39.52,0:03:41.08,Default,Rika,0,0,0,,What's that supposed to mean?
+Dialogue: 0,0:03:41.95,0:03:43.82,Default,Shinozaki,0,0,0,,It's Iruga we're dealing with.
+Dialogue: 0,0:03:43.82,0:03:46.03,Default,Shinozaki,0,0,0,,We may be better off ignoring him.
+Dialogue: 0,0:03:46.03,0:03:47.69,Default,Gobo,0,0,0,,Yeah, for real!
+Dialogue: 0,0:03:47.69,0:03:49.18,Default,Yagihashi,0,0,0,,Good grief...
+Dialogue: 0,0:03:49.18,0:03:52.49,Default,Yagihashi,0,0,0,,I wondered what you meant \Nwhen you told me to listen here.
+Dialogue: 0,0:03:52.49,0:03:55.67,Default,Yagihashi,0,0,0,,Come to find out, you just wanted to \Ntalk about me behind my back.
+Dialogue: 0,0:03:55.67,0:03:58.09,Default,Iruga,0,0,0,,I only told the truth!
+Dialogue: 0,0:03:58.43,0:04:01.20,Default,Yagihashi,0,0,0,,It's not exactly helpful, though.
+Dialogue: 0,0:04:01.20,0:04:03.51,Default,Sudo,0,0,0,,I'm fully on board now.
+Dialogue: 0,0:04:04.40,0:04:05.98,Default,Sudo,0,0,0,,Count me in, too.
+Dialogue: 0,0:04:05.98,0:04:08.85,Default,Sudo,0,0,0,,Still, I'm surprised you're \Nwilling to do this, Iruga.
+Dialogue: 0,0:04:08.85,0:04:10.17,Default,Iruga,0,0,0,,Aww, shucks.
+Dialogue: 0,0:04:10.17,0:04:15.65,Default,Iruga,0,0,0,,I just still believe \Nin Saneatsu Narita, that's all.
+Dialogue: 0,0:04:15.65,0:04:21.12,Default,Raion,0,0,0,,Sorry to tell you guys this, but that \NYagihashi guy reeks of lies to me.
+Dialogue: 0,0:04:21.42,0:04:25.47,Default,Ryuta,0,0,0,,I guess it's weird that he didn't \Nmention the Queen sooner, but...
+Dialogue: 0,0:04:25.47,0:04:27.58,Default,Ryuta,0,0,0,,He's always been that way, you know.
+Dialogue: 0,0:04:27.58,0:04:30.53,Default,Raion,0,0,0,,I'm not telling you to turn \Nyour back on him. But...
+Dialogue: 0,0:04:30.53,0:04:32.72,Default,Raion,0,0,0,,It doesn't hurt to be cautious.
+Dialogue: 0,0:04:37.89,0:04:40.53,Default,Ryuta,0,0,0,,Omi, what the hell are you...
+Dialogue: 0,0:04:41.58,0:04:43.47,Default,Omi,0,0,0,,Feels awesome!
+Dialogue: 0,0:04:43.81,0:04:48.76,Default,Raion,0,0,0,,Whoooooa! I can feel \Nthe tension melting away!
+Dialogue: 0,0:04:48.76,0:04:53.77,Default,Ryuta,0,0,0,,We gotta do this more often!
+Dialogue: 0,0:04:57.51,0:05:00.20,Default,Queen,0,0,0,,The Emperor is my deputy officer...
+Dialogue: 0,0:05:00.20,0:05:02.91,Default,Queen,0,0,0,,I won't allow any defiance against him.
+Dialogue: 0,0:05:02.91,0:05:04.14,Default,Queen,0,0,0,,Is that understood?
+Dialogue: 0,0:05:04.91,0:05:06.70,Default,Ikusa,0,0,0,,I don't get any of this.
+Dialogue: 0,0:05:06.70,0:05:09.50,Default,Ikusa,0,0,0,,Lady Kisaragi was in contact with the Emperor?
+Dialogue: 0,0:05:09.50,0:05:10.90,Default,Meguru,0,0,0,,I guess.
+Dialogue: 0,0:05:10.90,0:05:12.74,Default,Meguru,0,0,0,,Even the Emperor follows her lead...
+Dialogue: 0,0:05:12.74,0:05:14.59,Default,Meguru,0,0,0,,That's the power of Lady Kisaragi.
+Dialogue: 0,0:05:14.92,0:05:16.40,Default,Meguru,0,0,0,,By the way, where's Kou?
+Dialogue: 0,0:05:16.40,0:05:17.55,Default,Meguru,0,0,0,,I didn't see him.
+Dialogue: 0,0:05:17.55,0:05:20.21,Default,Ikusa,0,0,0,,Who knows. Don't care either way.
+Dialogue: 0,0:05:21.74,0:05:25.47,Default,Ikusa,0,0,0,,{\i1}I'm not happy about these newcomers, but...{\i0}
+Dialogue: 0,0:05:25.47,0:05:28.52,Default,Ikusa,0,0,0,,{\i1}with them around, Kou \Ncan't get too comfortable.{\i0}
+Dialogue: 0,0:05:28.52,0:05:29.68,Default,Ikusa,0,0,0,,{\i1}Can't complain about that.{\i0}
+Dialogue: 0,0:05:30.12,0:05:32.69,Default,Mutsuki,0,0,0,,{\i1}Looks like there's some \Ninternal conflict in play.{\i0}
+Dialogue: 0,0:05:33.22,0:05:35.66,Default,Mutsuki,0,0,0,,{\i1}And what's he doing on our side?{\i0}
+Dialogue: 0,0:05:36.23,0:05:41.15,Default,Mutsuki,0,0,0,,{\i1}Stop. My only focus should be \Non serving Lady Kisaragi!{\i0}
+Dialogue: 0,0:05:41.84,0:05:43.04,Default,Hikari,0,0,0,,Wait a second!
+Dialogue: 0,0:05:43.04,0:05:46.87,Default,Hikari,0,0,0,,So you're saying that you killed me \Nbecause of a misunderstanding?!
+Dialogue: 0,0:05:46.87,0:05:49.70,Default,Hirayama,0,0,0,,You were about to tell them about our plan.
+Dialogue: 0,0:05:49.70,0:05:51.62,Default,Hirayama,0,0,0,,I thought you were betraying us.
+Dialogue: 0,0:05:51.62,0:05:56.22,Default,Hirayama,0,0,0,,Besides, the whole point of the infiltration \Nwas to defeat both the Queen and the Emperor!
+Dialogue: 0,0:05:56.99,0:06:00.76,Default,Hikari,0,0,0,,You're right... I shouldn't have \Nacted on my own judgment.
+Dialogue: 0,0:06:00.76,0:06:02.09,Default,Hikari,0,0,0,,That's my fault.
+Dialogue: 0,0:06:02.55,0:06:04.01,Default,Hirayama,0,0,0,,Let's go back to square one...
+Dialogue: 0,0:06:04.01,0:06:06.05,Default,Hirayama,0,0,0,,Are you still willing to join us?
+Dialogue: 0,0:06:07.37,0:06:08.31,Default,Hikari,0,0,0,,Of course.
+Dialogue: 0,0:06:08.31,0:06:10.79,Default,Hirayama,0,0,0,,Good! Then let's start over.
+Dialogue: 0,0:06:10.79,0:06:14.77,Default,Hirayama,0,0,0,,Tell me why you were willing \Nto reveal our plan in the first place.
+Dialogue: 0,0:06:17.92,0:06:19.32,Default,Hikari,0,0,0,,Because of Raion Ouno.
+Dialogue: 0,0:06:19.86,0:06:24.46,Default,Hikari,0,0,0,,The current Emperor's chance at winning \Nis much higher with him on their side.
+Dialogue: 0,0:06:24.46,0:06:26.21,Default,Hikari,0,0,0,,I think we should join forces.
+Dialogue: 0,0:06:26.95,0:06:27.87,Default,Hirayama,0,0,0,,That kid...
+Dialogue: 0,0:06:29.45,0:06:30.73,Default,Hirayama,0,0,0,,Okay.
+Dialogue: 0,0:06:30.73,0:06:32.32,Default,Hirayama,0,0,0,,I trust your judgment.
+Dialogue: 0,0:06:34.06,0:06:34.92,Default,Hirayama,0,0,0,,Knight...
+Dialogue: 0,0:06:36.60,0:06:38.31,Default,Hirayama,0,0,0,,Can you still use your Destruction Right?
+Dialogue: 0,0:06:40.82,0:06:41.86,Default,Hirayama,0,0,0,,Perfect.
+Dialogue: 0,0:06:41.86,0:06:45.01,Default,Hirayama,0,0,0,,I was worried my unusual tactic \Nwouldn't work, but we're good.
+Dialogue: 0,0:06:45.01,0:06:46.72,Default,Hikari,0,0,0,,Unusual?
+Dialogue: 0,0:06:46.80,0:06:48.89,OS,Sign,0,0,0,,{\fs35\fad(180,500)}Immobilization Right
+Dialogue: 0,0:06:47.36,0:06:50.65,Default,Hirayama,0,0,0,,My Immobilization Right comes \Nwith both physical and principle fixation.
+Dialogue: 0,0:06:48.89,0:06:51.52,OS,Sign,0,0,0,,{\an5\fs35\fad(400,1)}Physical Fixation\NPrinciple Fixation
+Dialogue: 0,0:06:50.65,0:06:55.89,Default,Hirayama,0,0,0,,I used principle fixation to secure ownership \Nof Rights between Knight, Lili, and myself.
+Dialogue: 0,0:06:55.89,0:06:58.48,Default,Hikari,0,0,0,,You secured your... ownership?
+Dialogue: 0,0:06:58.48,0:07:03.84,Default,Hirayama,0,0,0,,As long as Knight or Lili is alive, \NI maintain ownership of my own Right.
+Dialogue: 0,0:07:04.19,0:07:09.20,Default,Hirayama,0,0,0,,And as long as I own the Immobilization \NRight, they both maintain their Rights.
+Dialogue: 0,0:07:09.20,0:07:11.01,Default,Hikari,0,0,0,,I see...
+Dialogue: 0,0:07:12.03,0:07:13.16,Default,Hikari,0,0,0,,Someone's coming!
+Dialogue: 0,0:07:13.16,0:07:14.00,Default,Hirayama,0,0,0,,Knight!
+Dialogue: 0,0:07:19.20,0:07:21.92,Default,Kirishima,0,0,0,,Hirayama... Ebina...
+Dialogue: 0,0:07:22.38,0:07:24.32,Default,Hirayama,0,0,0,,You're interrupting our date.
+Dialogue: 0,0:07:24.92,0:07:29.09,Default,Kirishima,0,0,0,,I've already reported you two \Nto Lady Kisaragi.
+Dialogue: 0,0:07:31.89,0:07:34.61,Default,Kirishima,0,0,0,,But she didn't give any orders.
+Dialogue: 0,0:07:34.61,0:07:36.35,Default,Kirishima,0,0,0,,You understand what that means?
+Dialogue: 0,0:07:37.31,0:07:39.89,Default,Kirishima,0,0,0,,It means you're less \Nof a nuisance than an eyesore.
+Dialogue: 0,0:07:39.89,0:07:41.86,Default,Kirishima,0,0,0,,You don't even amount \Nto the threat of a fly.
+Dialogue: 0,0:07:42.40,0:07:44.87,Default,Kirishima,0,0,0,,Go ahead and play make-believe all you want.
+Dialogue: 0,0:07:44.87,0:07:48.89,Default,Kirishima,0,0,0,,If you ever stand in the way, \NI'll dispose of you with my eyes closed.
+Dialogue: 0,0:07:49.38,0:07:50.41,Default,Hirayama,0,0,0,,Hey...
+Dialogue: 0,0:07:51.53,0:07:55.50,Default,Hirayama,0,0,0,,Don't get too cocky and underestimate me \Njust because you're one of the Three Powers.
+Dialogue: 0,0:07:55.87,0:07:58.58,Default,Kirishima,0,0,0,,Oh? Will you prove me wrong?
+Dialogue: 0,0:08:00.14,0:08:01.46,Default,Hirayama,0,0,0,,Whatever.
+Dialogue: 0,0:08:01.46,0:08:04.55,Default,Hirayama,0,0,0,,Don't mind me. I'm just acting up.
+Dialogue: 0,0:08:08.05,0:08:12.22,Default,Kazuhiko,0,0,0,,They said to look for clues \Nto the Queen but...
+Dialogue: 0,0:08:12.48,0:08:15.75,Default,Nishime,0,0,0,,At least you get a chance \Nto get some fresh air, Souma.
+Dialogue: 0,0:08:15.75,0:08:19.28,Default,Nishime,0,0,0,,You've been sticking next to Gobo \Nguarding him this entire time.
+Dialogue: 0,0:08:19.28,0:08:20.44,Default,Souma,0,0,0,,Yeah, I guess.
+Dialogue: 0,0:08:23.53,0:08:24.90,Default,Kazuhiko,0,0,0,,Explosion Right.
+Dialogue: 0,0:08:27.41,0:08:29.32,Default,Souma,0,0,0,,Is he the Queen's servant?
+Dialogue: 0,0:08:29.32,0:08:31.82,Default,Kazuhiko,0,0,0,,Look at me, keeping my cool for a change.
+Dialogue: 0,0:08:31.82,0:08:34.79,Default,Man,0,0,0,,Huh? Queen...? What?
+Dialogue: 0,0:08:34.79,0:08:36.79,Default,Souma,0,0,0,,Must be a surviving civilian...
+Dialogue: 0,0:08:37.32,0:08:39.40,Default,Souma,0,0,0,,Why did you attack us like that?!
+Dialogue: 0,0:08:39.40,0:08:40.71,Default,Souma,0,0,0,,Tell the truth!
+Dialogue: 0,0:08:41.04,0:08:44.56,Default,Man,0,0,0,,T-To survive you have to kill \Nbefore you get killed!
+Dialogue: 0,0:08:44.56,0:08:45.65,Default,Souma,0,0,0,,Any Rights?!
+Dialogue: 0,0:08:46.25,0:08:48.13,Default,Man,0,0,0,,Wh-Wha? Um, I'm...
+Dialogue: 0,0:08:48.48,0:08:50.80,Default,Souma,0,0,0,,Do you have any or not?!
+Dialogue: 0,0:08:50.80,0:08:52.06,Default,Souma,0,0,0,,Make up your mind!
+Dialogue: 0,0:08:53.51,0:08:54.99,Default,Nishime,0,0,0,,Scary...
+Dialogue: 0,0:08:54.99,0:08:56.55,Default,Man,0,0,0,,I have some still sealed in envelopes!
+Dialogue: 0,0:08:56.55,0:08:57.31,Default,Souma,0,0,0,,Hand them over!
+Dialogue: 0,0:08:57.31,0:09:01.14,Default,Kazuhiko,0,0,0,,Hold up, isn't this called... extortion?
+Dialogue: 0,0:09:01.14,0:09:02.77,georgia,Sign,0,0,0,,{\an8\bord0\fs30}Right
+Dialogue: 0,0:09:03.81,0:09:07.61,Default,Man,0,0,0,,There was another one I found, but \Nit disappeared before I could grab it...
+Dialogue: 0,0:09:08.42,0:09:09.24,Default,Souma,0,0,0,,Disappeared?!
+Dialogue: 0,0:09:09.24,0:09:11.21,Default,Man,0,0,0,,It's true! Please believe me!
+Dialogue: 0,0:09:11.21,0:09:12.81,Default,Souma,0,0,0,,When did you find it?
+Dialogue: 0,0:09:12.81,0:09:14.29,Default,Man,0,0,0,,Y-Yesterday!
+Dialogue: 0,0:09:14.29,0:09:16.41,Default,Man,0,0,0,,Please! Let me go!
+Dialogue: 0,0:09:16.43,0:09:22.37,georgia,Sign,0,0,0,,{\an8\bord0\fs30}Right
+Dialogue: 0,0:09:17.17,0:09:20.12,Default,Souma,0,0,0,,{\i1}They must have recovered \Nabandoned envelopes,{\i0}
+Dialogue: 0,0:09:20.12,0:09:22.37,Default,Souma,0,0,0,,{\i1}which would make these valuable.{\i0}
+Dialogue: 0,0:09:23.19,0:09:24.90,Default,Souma,0,0,0,,{\i1}Should we take them back with us?{\i0}
+Dialogue: 0,0:09:24.90,0:09:27.30,Default,Souma,0,0,0,,{\i1}Or should we bring this dude along?{\i0}
+Dialogue: 0,0:09:29.27,0:09:30.45,Default,Souma,0,0,0,,Wait, where did he go?!
+Dialogue: 0,0:09:30.45,0:09:31.57,Default,Kazuhiko/Nishime,0,0,0,,He took off.
+Dialogue: 0,0:09:31.57,0:09:32.72,Default,Souma,0,0,0,,Why didn't you stop him?!
+Dialogue: 0,0:09:33.29,0:09:35.43,Default,Souma,0,0,0,,So that's how everything went down.
+Dialogue: 0,0:09:35.57,0:09:37.93,georgia,Sign,0,0,0,,{\an8\bord3\fs25}Right
+Dialogue: 0,0:09:35.94,0:09:37.93,Default,Souma,0,0,0,,I think these are the last of them.
+Dialogue: 0,0:09:38.60,0:09:42.35,Default,Souma,0,0,0,,Apparently, envelopes across Tokyo \Nwere recovered yesterday.
+Dialogue: 0,0:09:42.35,0:09:44.39,Default,Ryuta,0,0,0,,Then first thing's first...
+Dialogue: 0,0:09:46.14,0:09:49.14,Emperor,Emperor,0,0,0,,It's 23:55 PM.
+Dialogue: 0,0:09:49.14,0:09:50.28,Emperor,Emperor,0,0,0,,This is your Emperor speaking.
+Dialogue: 0,0:09:50.28,0:09:53.12,Default,Gobo,0,0,0,,Another fake message? For real?
+Dialogue: 0,0:09:53.12,0:09:56.04,Default,Shinozaki,0,0,0,,What's the Queen up to now?
+Dialogue: 0,0:09:56.04,0:09:57.43,Default,Eren,0,0,0,,Hang on a minute!
+Dialogue: 0,0:09:57.78,0:10:01.55,Default,Eren,0,0,0,,The Queen sent her last message \Nfrom the network station, right?
+Dialogue: 0,0:10:01.55,0:10:04.35,Default,Eren,0,0,0,,That's why her message only \Naired on one channel on TV...
+Dialogue: 0,0:10:04.35,0:10:05.50,Default,Raion,0,0,0,,Yeah...
+Dialogue: 0,0:10:05.90,0:10:07.71,Default,Eren,0,0,0,,Then... wouldn't this be...
+Dialogue: 0,0:10:08.07,0:10:09.42,Default,Eren,0,0,0,,Impossible?!
+Dialogue: 0,0:10:11.25,0:10:16.35,Emperor,Emperor,0,0,0,,I have organized an event \Nspecifically for Right owners.
+Dialogue: 0,0:10:16.85,0:10:22.56,Emperor,Emperor,0,0,0,,To launch this special event, \Nwe will be conducting Tasuketsu
+Dialogue: 0,0:10:22.56,0:10:24.31,Emperor,Emperor,0,0,0,,within Tokyo's 23 wards tonight.
+Dialogue: 0,0:10:24.31,0:10:25.06,Default,Shinozaki,0,0,0,,Tasuketsu?!
+Dialogue: 0,0:10:25.06,0:10:25.89,Default,Ryuta,0,0,0,,No way!
+Dialogue: 0,0:10:25.89,0:10:26.90,Default,Omi,0,0,0,,It's the Emperor!
+Dialogue: 0,0:10:26.90,0:10:27.92,Default,Raion,0,0,0,,{\i1}It's possible!{\i0}
+Dialogue: 0,0:10:27.92,0:10:30.04,Default,Raion,0,0,0,,{\i1}The Emperor's body was missing...{\i0}
+Dialogue: 0,0:10:30.04,0:10:32.67,Default,Raion,0,0,0,,{\i1}With the power of resurrection... Damn it!{\i0}
+Dialogue: 0,0:10:32.67,0:10:34.78,Default,Raion,0,0,0,,{\i1}Depending on the question, we could all die!{\i0}
+Dialogue: 0,0:10:34.78,0:10:38.20,Default,Kazuhiko,0,0,0,,I thought the Emperor couldn't \Nsubmit questions himself!
+Dialogue: 0,0:10:38.20,0:10:40.39,Default,Raion,0,0,0,,The Queen resurrected him!
+Dialogue: 0,0:10:40.39,0:10:42.83,Default,Raion,0,0,0,,She must be standing beside \Nhim providing questions!
+Dialogue: 0,0:10:44.12,0:10:47.29,Default,Ryuta,0,0,0,,Omi! No matter what happens, \Nyou gotta stay alive!
+Dialogue: 0,0:10:48.50,0:10:49.75,Default,Omi,0,0,0,,Gotcha!
+Dialogue: 0,0:10:50.10,0:10:53.72,Emperor,Emperor,0,0,0,,It's time. We will now \Nbegin tallying the majority.
+Dialogue: 0,0:10:53.72,0:10:55.18,Default,Omi,0,0,0,,I reject!
+Dialogue: 0,0:10:57.18,0:11:00.14,Comp big-an8,Sign,0,0,0,,{\pos(320,95)}You're a male with the blood type RH-O
+Dialogue: 0,0:10:57.18,0:11:00.14,Comp big-an8,Sign,0,0,0,,{\pos(320,160)}who has lived in Niimi City, Okayama Prefecture.
+Dialogue: 0,0:11:00.14,0:11:03.10,Default,Ryuta,0,0,0,,What the hell is this?
+Dialogue: 0,0:11:03.45,0:11:05.81,Default,Rika,0,0,0,,He's targeting a specific person?
+Dialogue: 0,0:11:06.10,0:11:08.69,Default,Raion,0,0,0,,{\i1}The jig is up...{\i0}
+Dialogue: 0,0:11:13.08,0:11:15.56,Emperor,Emperor,0,0,0,,{\an8}We've passed midnight.
+Dialogue: 0,0:11:13.90,0:11:15.86,Show Title,Sign,0,0,0,,{\pos(492,245)}Tasuketsu: Fate of the Majority
+Dialogue: 0,0:11:19.13,0:11:24.25,Emperor,Emperor,0,0,0,,We will now begin our new \Nevent, the Killer Game.
+Dialogue: 0,0:11:24.25,0:11:28.08,Emperor,Emperor,0,0,0,,The aim is to kill as many \NRight owners as possible within Tokyo
+Dialogue: 0,0:11:28.08,0:11:30.80,Emperor,Emperor,0,0,0,,between now and the end of the game.
+Dialogue: 0,0:11:30.80,0:11:33.46,Emperor,Emperor,0,0,0,,Winners will be those within the top 10%.
+Dialogue: 0,0:11:33.77,0:11:37.27,Emperor,Emperor,0,0,0,,As of midnight tomorrow, \Nthose outside the 23 wards
+Dialogue: 0,0:11:37.27,0:11:40.47,Emperor,Emperor,0,0,0,,and losers of the game \Nwill be executed as needed.
+Dialogue: 0,0:11:41.51,0:11:43.30,Emperor,Emperor,0,0,0,,Good luck to all participants.
+Dialogue: 0,0:11:45.76,0:11:47.11,Default,Emperor,0,0,0,,Now for...
+Dialogue: 0,0:11:47.11,0:11:49.21,Default,Emperor,0,0,0,,Prime Right of Recovery.
+Dialogue: 0,0:11:55.85,0:12:01.16,Default,Emperor,0,0,0,,All Right owners in Tokyo have died \Nand I've recovered their Rights.
+Dialogue: 0,0:12:01.63,0:12:05.62,Default,Emperor,0,0,0,,Who knew working with the Queen \Nwould make Tasuketsu possible...
+Dialogue: 0,0:12:06.03,0:12:09.83,Default,Queen,0,0,0,,Not that my powers will always \Nbe available, as busy as I am.
+Dialogue: 0,0:12:09.83,0:12:11.53,Default,Ikusa,0,0,0,,Lady Kisaragi,
+Dialogue: 0,0:12:11.53,0:12:16.05,Default,Ikusa,0,0,0,,we've surely exterminated the current \NEmperor's entire group with this blow.
+Dialogue: 0,0:12:16.55,0:12:17.81,Default,Iruga,0,0,0,,{\i1}Oh boy...{\i0}
+Dialogue: 0,0:12:17.81,0:12:18.99,Default,Iruga,0,0,0,,{\i1}I wasn't expecting this.{\i0}
+Dialogue: 0,0:12:18.99,0:12:21.51,Default,Iruga,0,0,0,,{\i1}They may have all died with that one...{\i0}
+Dialogue: 0,0:12:23.97,0:12:26.18,Default,Omi,0,0,0,,Y-You guys...
+Dialogue: 0,0:12:26.18,0:12:28.16,Default,Omi,0,0,0,,How are you all safe?!
+Dialogue: 0,0:12:29.33,0:12:31.55,Default,Ryuta,0,0,0,,I... have no clue...
+Dialogue: 0,0:12:31.55,0:12:34.86,Default,Raion,0,0,0,,We were definitely supposed \Nto die with that question.
+Dialogue: 0,0:12:36.65,0:12:38.40,Default,Gobo,0,0,0,,Lucky us...
+Dialogue: 0,0:12:36.65,0:12:38.40,Black-Standard,Sign,0,0,0,,{\move(338,91,404,199,22,1732)}Protect
+Dialogue: 0,0:12:38.40,0:12:39.68,Default,Ryuta,0,0,0,,It was that!
+Dialogue: 0,0:12:39.68,0:12:41.36,Default,Omi,0,0,0,,The envelope with the command!
+Dialogue: 0,0:12:41.36,0:12:46.96,Default,Gobo,0,0,0,,I opened it while commanding in my head \Nto protect all of us from Tasuketsu.
+Dialogue: 0,0:12:48.54,0:12:49.83,Default,Kazuhiko,0,0,0,,Nice move, Gobo!
+Dialogue: 0,0:12:49.83,0:12:51.91,Default,Raion,0,0,0,,Envelopes with commands?
+Dialogue: 0,0:12:52.40,0:12:57.15,Default,Ryuta,0,0,0,,Oh yeah... It's basically our key to \Nenforce the Prime Right of Obedience.
+Dialogue: 0,0:12:57.79,0:13:01.06,Default,Shinozaki,0,0,0,,Its owner was a boy named \NTeppei Yoshii, but he died.
+Dialogue: 0,0:13:01.06,0:13:04.16,Default,Shinozaki,0,0,0,,He set a trick to retain ownership \Nof the Right even after his death,
+Dialogue: 0,0:13:04.16,0:13:06.22,Default,Shinozaki,0,0,0,,and passed it on to his friend, Ren Iruga.
+Dialogue: 0,0:13:06.56,0:13:08.00,Default,Raion,0,0,0,,Ren Iruga?
+Dialogue: 0,0:13:08.00,0:13:10.49,Default,Ryuta,0,0,0,,We'll tell you all the deets later.
+Dialogue: 0,0:13:10.49,0:13:13.73,Default,Ryuta,0,0,0,,Just think of it as a secret \Nweapon we got from Iruga.
+Dialogue: 0,0:13:13.73,0:13:17.94,Default,Omi,0,0,0,,The only two commands we have left \Nare "destroy" and "love".
+Dialogue: 0,0:13:18.34,0:13:21.70,Default,Souma,0,0,0,,Either way, we've gotta thank \NGobo for his quick thinking.
+Dialogue: 0,0:13:25.53,0:13:28.39,Default,Gobo,0,0,0,,Are all these people dead, for real?!
+Dialogue: 0,0:13:28.39,0:13:32.17,Default,Nishime,0,0,0,,The Emperor's really back, isn't he?
+Dialogue: 0,0:13:32.17,0:13:34.33,Default,Sudo,0,0,0,,He was able to conduct Tasuketsu,
+Dialogue: 0,0:13:34.33,0:13:37.25,Default,Sudo,0,0,0,,so I'm assuming all the lost Rights \Nhave been restored, too.
+Dialogue: 0,0:13:38.83,0:13:42.03,Default,Ryuta,0,0,0,,{\i1}After all that Sane risked to defeat him...{\i0}
+Dialogue: 0,0:13:42.03,0:13:43.80,Default,Ryuta,0,0,0,,{\i1}How could he be back?!{\i0}
+Dialogue: 0,0:13:44.20,0:13:47.38,Default,Sudo,0,0,0,,It won't be long before the Emperor \Nfigures out we're still alive
+Dialogue: 0,0:13:47.38,0:13:50.27,Default,Sudo,0,0,0,,after realizing he \Ncouldn't recover our Rights.
+Dialogue: 0,0:13:51.64,0:13:55.19,Default,Sudo,0,0,0,,That's when the Killer Game \Nwill come into play.
+Dialogue: 0,0:13:55.19,0:13:59.46,Default,Yagihashi,0,0,0,,He could also conduct another round \Nof Tasuketsu and take tally again.
+Dialogue: 0,0:14:00.02,0:14:02.63,Default,Yagihashi,0,0,0,,We escaped the last round by chance.
+Dialogue: 0,0:14:02.63,0:14:04.61,Default,Yagihashi,0,0,0,,There's no way we survive another round.
+Dialogue: 0,0:14:04.61,0:14:08.45,Default,Raion,0,0,0,,There's no point in our plan \Nto lure out the Queen now.
+Dialogue: 0,0:14:08.45,0:14:10.66,Default,Raion,0,0,0,,We're totally out of options.
+Dialogue: 0,0:14:10.95,0:14:14.98,Default,Sudo,0,0,0,,Either way, our focus for now has to be \Nto gather information and find safe grounds.
+Dialogue: 0,0:14:15.31,0:14:16.67,Default,Sudo,0,0,0,,Let's do what we can.
+Dialogue: 0,0:14:17.63,0:14:21.15,Default,Raion,0,0,0,,{\i1}If he really did plant something in Knight...{\i0}
+Dialogue: 0,0:14:22.45,0:14:25.50,Default,Shinozaki,0,0,0,,{\i1}If Iruga's information turns out to be true...{\i0}
+Dialogue: 0,0:14:26.80,0:14:29.32,Default,Raion/Shinozaki,0,0,0,,{\i1}We have to wait for Knight's next move!{\i0}
+Dialogue: 0,0:14:33.14,0:14:34.76,Default,Knight,0,0,0,,Hey, hag...
+Dialogue: 0,0:14:35.89,0:14:38.28,Default,Knight,0,0,0,,Can I ask a favor?
+Dialogue: 0,0:14:39.48,0:14:41.83,Default,Queen,0,0,0,,Well this is a surprise.
+Dialogue: 0,0:14:41.83,0:14:42.99,Default,Queen,0,0,0,,What is it?
+Dialogue: 0,0:14:42.99,0:14:45.61,Default,Knight,0,0,0,,I want you to let me see Mom and Lili!
+Dialogue: 0,0:14:47.07,0:14:48.93,Default,Knight,0,0,0,,Just one time!
+Dialogue: 0,0:14:48.93,0:14:51.61,Default,Knight,0,0,0,,After that, I'll work even harder!
+Dialogue: 0,0:14:56.63,0:14:57.79,Default,Queen,0,0,0,,Fine.
+Dialogue: 0,0:14:58.11,0:14:59.08,Default,Queen,0,0,0,,However...
+Dialogue: 0,0:14:59.08,0:15:01.00,Default,Queen,0,0,0,,You'll have to make do with just Lili.
+Dialogue: 0,0:15:01.87,0:15:02.92,Default,Knight,0,0,0,,What about my mom?!
+Dialogue: 0,0:15:02.92,0:15:05.57,Default,Queen,0,0,0,,Your mother is a hostage, \Nand it'll stay that way.
+Dialogue: 0,0:15:05.57,0:15:08.18,Default,Queen,0,0,0,,If you disobey me, \NI'll kill her in a heartbeat.
+Dialogue: 0,0:15:10.00,0:15:11.14,Default,Knight,0,0,0,,Okay...
+Dialogue: 0,0:15:12.62,0:15:14.94,Default,Queen,0,0,0,,I'm glad you're such a good boy.
+Dialogue: 0,0:15:14.94,0:15:16.44,Default,Knight,0,0,0,,But please...
+Dialogue: 0,0:15:17.10,0:15:19.90,Default,Knight,0,0,0,,Can we go just you and me?!
+Dialogue: 0,0:15:20.21,0:15:22.36,Default,Knight,0,0,0,,I... don't like that guy...
+Dialogue: 0,0:15:23.45,0:15:24.46,Default,Queen,0,0,0,,Fine.
+Dialogue: 0,0:15:24.46,0:15:25.82,Default,Queen,0,0,0,,Wait outside.
+Dialogue: 0,0:15:28.92,0:15:30.29,Default,Seraphiel,0,0,0,,By yourself?
+Dialogue: 0,0:15:30.60,0:15:34.91,Default,Queen,0,0,0,,He won't act out as long as I mention \Nhis mother is being held hostage.
+Dialogue: 0,0:15:35.91,0:15:38.38,Default,Emperor,0,0,0,,Man! I'm bored.
+Dialogue: 0,0:15:39.36,0:15:41.31,Default,Emperor,0,0,0,,Can I go to the bathroom?
+Dialogue: 0,0:15:41.31,0:15:42.88,Default,Seraphiel,0,0,0,,Why of course.
+Dialogue: 0,0:15:45.42,0:15:47.30,Default,Knight,0,0,0,,I didn't know this building was here!
+Dialogue: 0,0:15:54.27,0:15:55.66,Default,Queen,0,0,0,,Lili is in here.
+Dialogue: 0,0:16:00.09,0:16:01.17,Default,Knight,0,0,0,,Lili!
+Dialogue: 0,0:16:02.15,0:16:03.96,Default,Knight,0,0,0,,Thank God...
+Dialogue: 0,0:16:03.96,0:16:06.05,Default,Knight,0,0,0,,You really are safe!
+Dialogue: 0,0:16:07.41,0:16:09.32,Default,Queen,0,0,0,,Are you satisfied now?
+Dialogue: 0,0:16:09.32,0:16:10.54,Default,Knight,0,0,0,,Yeah...
+Dialogue: 0,0:16:10.54,0:16:12.04,Default,Queen,0,0,0,,Then let's head back.
+Dialogue: 0,0:16:16.94,0:16:19.54,Default,Knight,0,0,0,,Um... Now that I saw her and all...
+Dialogue: 0,0:16:21.00,0:16:22.21,Default,Knight,0,0,0,,Thank you!
+Dialogue: 0,0:16:26.46,0:16:29.72,Flashback,Yagihashi,0,0,0,,The magic words are "Thank you" \Nand "Cock-A-Doodle-Doo."
+Dialogue: 0,0:16:30.34,0:16:33.71,Flashback,Yagihashi,0,0,0,,They become a spell to freeze \Ntime of anything you touch.
+Dialogue: 0,0:16:35.43,0:16:36.78,Default,Knight,0,0,0,,I did it!
+Dialogue: 0,0:16:36.78,0:16:38.33,Default,Knight,0,0,0,,Now I just have to...
+Dialogue: 0,0:16:44.63,0:16:45.73,Default,Knight,0,0,0,,To the roof!
+Dialogue: 0,0:16:57.18,0:16:59.41,Default,Emperor,0,0,0,,Prime Right of Recovery.
+Dialogue: 0,0:16:59.90,0:17:03.13,Default,Emperor,0,0,0,,Recover all knives within \Na two-kilometer radius.
+Dialogue: 0,0:17:03.13,0:17:05.57,Default,Emperor,0,0,0,,Prime Right of Imitation!
+Dialogue: 0,0:17:05.57,0:17:07.07,Default,Emperor,0,0,0,,All knives!
+Dialogue: 0,0:17:07.07,0:17:08.34,Default,Emperor,0,0,0,,Imitate the same movement!
+Dialogue: 0,0:17:10.18,0:17:11.59,Italics,Knight,0,0,0,,Destruction Right!
+Dialogue: 0,0:17:22.60,0:17:24.56,Default,Knight,0,0,0,,Right of Flight!
+Dialogue: 0,0:17:25.92,0:17:28.53,Default,Knight,0,0,0,,Cock-A-Doodle-Doo!
+Dialogue: 0,0:17:31.35,0:17:32.78,Default,Kazuhiko,0,0,0,,What's up, Pres?
+Dialogue: 0,0:17:34.18,0:17:35.43,Default,Yagihashi,0,0,0,,That's the signal...
+Dialogue: 0,0:17:44.96,0:17:47.01,Default,Yagihashi,0,0,0,,Prime Right of Induction.
+Dialogue: 0,0:17:51.64,0:17:54.26,Default,Yagihashi,0,0,0,,Flying at supersonic speed \Nwould have been too hard on them...
+Dialogue: 0,0:17:55.91,0:17:58.18,Default,Yagihashi,0,0,0,,Welcome, Kato siblings.
+Dialogue: 0,0:17:58.18,0:17:59.66,Default,Yagihashi,0,0,0,,I'm glad you came.
+Dialogue: 0,0:18:01.95,0:18:04.21,Default,Queen,0,0,0,,Knight tricked me?!
+Dialogue: 0,0:18:04.65,0:18:06.94,Default,Queen,0,0,0,,It's as though time slipped away...
+Dialogue: 0,0:18:06.94,0:18:09.44,Default,Queen,0,0,0,,This can only be... The Suspension Right...
+Dialogue: 0,0:18:10.66,0:18:13.40,Default,Queen,0,0,0,,Tojuro Yagihashi!
+Dialogue: 0,0:18:14.13,0:18:17.89,Default,Yagihashi,0,0,0,,I've gained a grasp of the overall picture. \NThank you, Knight-kun.
+Dialogue: 0,0:18:17.89,0:18:19.41,Default,Yagihashi,0,0,0,,Let's recap.
+Dialogue: 0,0:18:20.49,0:18:25.87,Default,Yagihashi,0,0,0,,At the top is the Queen, and at a similar \Nlevel are the Emperor and Seraphiel.
+Dialogue: 0,0:18:25.87,0:18:29.25,Default,Yagihashi,0,0,0,,Just below that are the Three Powers, \Nthen Touya Mutsuki...
+Dialogue: 0,0:18:29.88,0:18:33.81,Default,Yagihashi,0,0,0,,Ren Iruga and Yohei Fukami's \Npositions are unknown.
+Dialogue: 0,0:18:33.81,0:18:37.78,Default,Yagihashi,0,0,0,,And Hirayama and Hikaru Ebina \Nare on your side,
+Dialogue: 0,0:18:37.78,0:18:39.97,Default,Yagihashi,0,0,0,,which means they're our comrades, as well.
+Dialogue: 0,0:18:40.36,0:18:43.41,Default,Sudo,0,0,0,,As we thought, the Queen has the power \Nto both grant and take away Rights.
+Dialogue: 0,0:18:43.41,0:18:45.57,Default,Sudo,0,0,0,,And she even has the Resurrection Right.
+Dialogue: 0,0:18:45.57,0:18:48.77,Default,Nishime,0,0,0,,No wonder why that guy with the \NImmobilization Right was strong...
+Dialogue: 0,0:18:49.10,0:18:51.23,Default,Omi,0,0,0,,I wonder if they can come here somehow...
+Dialogue: 0,0:18:51.23,0:18:54.08,Default,Shinozaki,0,0,0,,Above all, our aim is the Queen.
+Dialogue: 0,0:18:54.08,0:18:56.70,Default,Souma,0,0,0,,We've gotta take down that \Nresurrection factory of doom.
+Dialogue: 0,0:18:57.23,0:19:04.25,Default,Yagihashi,0,0,0,,As of right now, besides us and \Nwhoever applied to that last question...
+Dialogue: 0,0:19:04.66,0:19:07.71,Default,Yagihashi,0,0,0,,The entire population of Tokyo should be dead.
+Dialogue: 0,0:19:07.96,0:19:13.55,Default,Sudo,0,0,0,,In the name of the Killer Game, the Emperor \Nordered all people to head to Tokyo.
+Dialogue: 0,0:19:14.09,0:19:18.21,Default,Sudo,0,0,0,,He's planning to use survivors as pawns \Nto find and annihilate us.
+Dialogue: 0,0:19:18.51,0:19:22.52,Default,Ryuta,0,0,0,,He mentioned that people outside of Tokyo \Nwould be executed starting tomorrow.
+Dialogue: 0,0:19:22.99,0:19:25.90,Default,Sudo,0,0,0,,It was to prevent us from \Nescaping outside of Tokyo.
+Dialogue: 0,0:19:27.96,0:19:30.23,Default,Knight,0,0,0,,H-Hey, Yagihashi?
+Dialogue: 0,0:19:30.57,0:19:32.57,Default,Knight,0,0,0,,You think Lili's okay?
+Dialogue: 0,0:19:32.87,0:19:36.19,Default,Yagihashi,0,0,0,,She might be asleep under \Nthe influence of some kind of Right.
+Dialogue: 0,0:19:36.64,0:19:39.09,Default,Yagihashi,0,0,0,,I've frozen her in time for now.
+Dialogue: 0,0:19:39.09,0:19:41.16,Default,Yagihashi,0,0,0,,She'll be safe as long as she's frozen.
+Dialogue: 0,0:19:41.62,0:19:44.30,Default,Yagihashi,0,0,0,,Let's release the Suspension Right \Nonce we figure out a solution.
+Dialogue: 0,0:19:45.67,0:19:46.75,Default,Knight,0,0,0,,Thanks!
+Dialogue: 0,0:19:47.10,0:19:48.98,Default,Sudo,0,0,0,,The first task is to figure out our defenses.
+Dialogue: 0,0:19:48.98,0:19:50.51,Default,Sudo,0,0,0,,Let's all head to the other room.
+Dialogue: 0,0:19:54.71,0:19:56.38,Default,Ryuta,0,0,0,,I bet you're tired!
+Dialogue: 0,0:19:56.38,0:19:58.25,Default,Ryuta,0,0,0,,We've got a massage chair, you know!
+Dialogue: 0,0:19:58.25,0:20:00.08,Default,Ryuta,0,0,0,,It's the best, you should try it!
+Dialogue: 0,0:20:00.08,0:20:01.47,Default,Omi,0,0,0,,It's so relaxing!
+Dialogue: 0,0:20:06.70,0:20:08.70,Default,Raion,0,0,0,,Yagihashi... Sudo...
+Dialogue: 0,0:20:11.81,0:20:15.03,Default,Raion,0,0,0,,What are you guys plotting?!
+Dialogue: 0,0:20:19.22,0:20:22.45,Default,Seraphiel,0,0,0,,Kisaragi-san, can you tell me what happened?
+Dialogue: 0,0:20:22.73,0:20:24.35,Default,Queen,0,0,0,,He got me...
+Dialogue: 0,0:20:24.35,0:20:28.27,Default,Queen,0,0,0,,He used Knight as a medium to \Nattack me with the Suspension Right!
+Dialogue: 0,0:20:28.27,0:20:31.04,Default,Queen,0,0,0,,Now, Knight and Lili are both gone.
+Dialogue: 0,0:20:31.04,0:20:35.47,Default,Seraphiel,0,0,0,,So that request of his was a trap then.
+Dialogue: 0,0:20:35.47,0:20:38.76,Default,Queen,0,0,0,,I'm sure Tojuro planted an idea \Nin his head and manipulated him!
+Dialogue: 0,0:20:39.12,0:20:42.98,Default,Queen,0,0,0,,I thought he'd figure out my \Nend goal and join me, but...
+Dialogue: 0,0:20:43.57,0:20:45.97,Default,Queen,0,0,0,,I never should have given him \Nthe Suspension Right!
+Dialogue: 0,0:20:45.97,0:20:50.48,Default,Emperor,0,0,0,,We should be able to defend ourselves \Njust fine with all the Rights in our hands.
+Dialogue: 0,0:20:51.85,0:20:54.73,Default,Queen,0,0,0,,We were caught off guard, Emperor!
+Dialogue: 0,0:20:55.18,0:20:58.81,Default,Emperor,0,0,0,,{\i1}Maybe cooperating in conducting \NTasuketsu isn't as easy as I thought?{\i0}
+Dialogue: 0,0:20:58.81,0:21:00.93,Default,Emperor,0,0,0,,{\i1}Was she exposed to some unusual sacrifice?{\i0}
+Dialogue: 0,0:21:01.51,0:21:02.73,Default,Emperor,0,0,0,,Oh well.
+Dialogue: 0,0:21:03.13,0:21:07.95,Default,Emperor,0,0,0,,Anyways, seeing as nature's blessings \Nwill drown out our voices to the outside,
+Dialogue: 0,0:21:08.66,0:21:11.42,Default,Emperor,0,0,0,,why not call each other by our usual names?
+Dialogue: 0,0:21:12.11,0:21:13.17,Default,Emperor,0,0,0,,Big sis.
+Dialogue: 0,0:21:15.30,0:21:16.47,Default,Queen,0,0,0,,Haruto.
+Dialogue: 0,0:21:16.92,0:21:19.92,Next Ep Title,Sign,0,0,0,,Covertness

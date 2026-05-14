@@ -1,0 +1,492 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: FlashbackItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,0
+Style: Signs_EpTitle,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,30,30,10,0
+Style: Signs_Chat,Arial,16,&H00535359,&H000000FF,&H00EFF0ED,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,200,30,10,0
+Style: Signs_Boxed,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,0,0,8,30,30,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.70,0:00:05.10,DefaultItalics,Ichiko,0,0,0,,Actually... We're vampires!
+Dialogue: 0,0:00:05.41,0:00:06.28,DefaultTop,Masaki,0,0,0,,What?!
+Dialogue: 0,0:00:06.28,0:00:08.43,DefaultTop,Masaki,0,0,0,,What the hell are you {\i1}doing?!{\i0}
+Dialogue: 1,0:00:06.75,0:00:11.86,DefaultItalics,Fu,0,0,0,,MayoPan was a way for us \Nto interact with all of you humans.
+Dialogue: 0,0:00:08.11,0:00:11.86,Signs,Sign,0,0,0,,{\pos(242,53)\3c&HFFFFFF&\bord4}Livestream to hit {\c&H9B4AE0&\3c&H9B4AE0&}1,000,000 subscribers!!
+Dialogue: 1,0:00:08.11,0:00:11.86,Signs,Sign,0,0,0,,{\pos(242,53)\3c&H9B4AE0&\bord2.5}Livestream to hit {\c&H9B4AE0&\3c&HFFFFFF&}1,000,000 subscribers!!
+Dialogue: 0,0:00:08.11,0:00:11.86,Signs,Sign,0,0,0,,{\bord3\fs16\pos(522,274.5)\3c&HA252EA&}Make sure you subscribe!!
+Dialogue: 0,0:00:08.11,0:00:11.86,Signs,Sign,0,0,0,,{\q2\fs12\bord1\move(385,342.5,255,342.5)}Good morning from the dead of night~   Streaming live from an abandoned hospital at night   Please subscribe, leave comments, and hit the like button!!
+Dialogue: 0,0:00:11.86,0:00:17.28,DefaultItalics,Fu,0,0,0,,But unless we hit a million subs tonight, \Nour channel is going to be erased!
+Dialogue: 0,0:00:17.28,0:00:18.99,DefaultItalicsTop,Ichiko,0,0,0,,Live-sama, you're watching, aren't you?!
+Dialogue: 0,0:00:18.99,0:00:20.49,DefaultItalicsTop,Ichiko,0,0,0,,We're in big trouble!
+Dialogue: 0,0:00:20.49,0:00:23.05,DefaultItalicsTop,Ichiko,0,0,0,,So please, come back right away!
+Dialogue: 0,0:00:21.45,0:00:22.50,DefaultItalics,Masaki,0,0,0,,Live...
+Dialogue: 0,0:00:22.50,0:00:24.96,DefaultItalics,Masaki,0,0,0,,Where are you, and what are you doing?
+Dialogue: 0,0:00:23.05,0:00:25.66,DefaultItalicsTop,Fu,0,0,0,,And so, today's stream is...
+Dialogue: 0,0:00:26.00,0:00:26.96,Default,Masaki,0,0,0,,Huh?
+Dialogue: 0,0:00:34.49,0:00:39.10,Default,Tokage,0,0,0,,Oh! Now we have vampires \Nwho are going to be "it"!
+Dialogue: 0,0:00:39.10,0:00:41.35,DefaultItalics,Ichiko,0,0,0,,Vampires playing tag in an abandoned hospital!
+Dialogue: 0,0:00:39.10,0:00:41.35,Signs,Sign,0,0,0,,{\pos(242,53)\3c&HFFFFFF&\bord4}Livestream to hit {\c&H9B4AE0&\3c&H9B4AE0&}1,000,000 subscribers!!
+Dialogue: 1,0:00:39.10,0:00:41.35,Signs,Sign,0,0,0,,{\pos(242,53)\3c&H9B4AE0&\bord2.5}Livestream to hit {\c&H9B4AE0&\3c&HFFFFFF&}1,000,000 subscribers!!
+Dialogue: 0,0:00:39.10,0:00:41.35,Signs,Sign,0,0,0,,{\bord3\fs16\pos(522,274.5)\3c&HA252EA&}Make sure you subscribe!!
+Dialogue: 0,0:00:39.10,0:00:41.35,Signs,Sign,0,0,0,,{\q2\fs12\bord1\move(385,342.5,255,342.5)}Good morning from the dead of night~   Streaming live from an abandoned hospital at night   Please subscribe, leave comments, and hit the like button!!
+Dialogue: 0,0:00:41.35,0:00:44.28,DefaultItalics,Ichiko,0,0,0,,No stopping until we hit a million subs!
+Dialogue: 0,0:00:41.35,0:00:44.85,Signs,Sign,0,0,0,,{\bord4\fs30\fnArial Black\3c&HFCF9F9&}Vampire Tag in an Abandoned Hospital!!
+Dialogue: 1,0:00:41.35,0:00:44.85,Signs,Sign,0,0,0,,{\bord2\fs30\fnArial Black\c&H4F06C5&\3c&H7B285F&}Vampire {\c&H8503E3&}Tag {\c&HFBF9F9&}in an {\c&H470AE1&}Abandoned {\c&HF8F9F9&}Hospital!!
+Dialogue: 0,0:00:44.28,0:00:45.68,Default,Masaki,0,0,0,,No stopping?
+Dialogue: 0,0:00:45.68,0:00:47.30,Default,Masaki,0,0,0,,If they catch you, then it's all over!
+Dialogue: 0,0:00:49.18,0:00:52.22,Default,Ichiko,0,0,0,,Hey, now, we didn't start yet.
+Dialogue: 0,0:00:53.51,0:00:55.49,Default,Yuki,0,0,0,,Looks like they're serious!
+Dialogue: 0,0:00:55.49,0:00:57.23,Default,Yuki,0,0,0,,Okay, then, to kick this off...
+Dialogue: 0,0:00:57.23,0:00:58.95,Default,Yuki,0,0,0,,Let's begin this game of tag!
+Dialogue: 0,0:00:58.95,0:01:00.66,Default,Masaki,0,0,0,,Man, this has gotten out of hand!
+Dialogue: 0,0:01:00.66,0:01:02.76,Default,Tokage,0,0,0,,This way, morons!
+Dialogue: 0,0:01:02.29,0:01:04.41,Signs,Sign,0,0,0,,{\bord4\shad2\fs30\fnTimes New Roman\c&H000000&\3c&H000000&\4c&H000000&}The Game of Tag Begins!!
+Dialogue: 1,0:01:02.29,0:01:04.41,Signs,Sign,0,0,0,,{\bord2\fs30\fnTimes New Roman\c&H3F09BA&\3c&HF7F7F5&}The Game of Tag Begins!!
+Dialogue: 0,0:01:06.17,0:01:08.36,Default,Masaki,0,0,0,,How do I put this all together?
+Dialogue: 0,0:01:08.36,0:01:09.62,Default,Fu,0,0,0,,Masaki-san.
+Dialogue: 0,0:01:09.62,0:01:11.53,Default,Fu,0,0,0,,Think the stream will be okay?
+Dialogue: 0,0:01:11.53,0:01:13.04,Default,Masaki,0,0,0,,Somehow.
+Dialogue: 0,0:01:13.04,0:01:14.58,Default,Fu,0,0,0,,Thank you.
+Dialogue: 0,0:01:14.58,0:01:15.98,Default,Fu,0,0,0,,Also, Masaki-san...
+Dialogue: 0,0:01:15.98,0:01:16.83,Default,Masaki,0,0,0,,Wait.
+Dialogue: 0,0:01:17.34,0:01:19.58,Default,Masaki,0,0,0,,This stream is way too reckless!
+Dialogue: 0,0:01:19.58,0:01:21.87,Default,Masaki,0,0,0,,Why did you reveal yourselves \Nin the first place?!
+Dialogue: 0,0:01:21.87,0:01:23.10,Default,Masaki,0,0,0,,Now Mother will be on your—
+Dialogue: 0,0:01:23.10,0:01:25.21,Default,Fu,0,0,0,,Nobody watching believes any of it.
+Dialogue: 0,0:01:25.21,0:01:25.93,Default,Masaki,0,0,0,,What?
+Dialogue: 0,0:01:27.10,0:01:30.36,Signs_Chat,Sign,0,0,0,,{\fs14\c&HF2CCA7&\3c&HB24A32&\pos(346.5,15)}stones: damn loud explosion\Neelchair: What was that?!\Nwawawa: ?!?!\NExtra Serving of Abura Soba: Which side\Nis it in vampire tag?\NPlease Listen to Me: Did something explode?\NSuch elaborate effects~\NObemura: Really funny joke there lolol\Nribon: Where's Live-sama...?\N17765: Wait... There's way too much\Ngoing on here
+Dialogue: 0,0:01:27.63,0:01:30.36,Default,Fu,0,0,0,,But we managed to lure out our hunters.
+Dialogue: 0,0:01:30.66,0:01:34.58,Default,Fu,0,0,0,,Now we can shoot a game of tag \Nlike no one's seen before.
+Dialogue: 0,0:01:34.58,0:01:35.86,Default,Masaki,0,0,0,,What if they catch you?
+Dialogue: 0,0:01:36.50,0:01:37.66,Default,Fu,0,0,0,,It'll be fine!
+Dialogue: 0,0:01:37.66,0:01:39.82,Default,Fu,0,0,0,,We won't let them get us!
+Dialogue: 0,0:01:42.83,0:01:44.54,Signs,Sign,0,0,0,,{\fad(1,603)\c&HF9F9CA&}2,581 watching now
+Dialogue: 0,0:01:43.41,0:01:47.58,DefaultItalics,Masaki,0,0,0,,It's true that the audience \Nis eating this up, but...
+Dialogue: 0,0:01:43.91,0:01:47.58,Signs_Chat,Sign,0,0,0,,{\fad(600,1)\fs14\c&HF2CCA7&\3c&HB24A32&\pos(303.5,46)}Obemura: Oh, look at them all run\Nponsuke: this camera switching is really...\NChocolate Chip: What a serious game of tag\NG7I5N: Are the staff amateurs?\NShould have gotten pros...\NDim-Witted Kana: It just started and it's already\Nhard to see~ I don't know if I can watch this to the end\NSayacha: No way they'll hit a million subs\NFlying Chicken: Please set up the cameras\Nso we can see everyone~~~\NRunning & Sneaker: We want to see more Fu\Nokapon: this camera work...
+Dialogue: 0,0:01:51.57,0:01:54.31,Default,Tokage,0,0,0,,She really is such a pain in the butt.
+Dialogue: 0,0:01:55.14,0:01:56.55,Default,Tokage,0,0,0,,Oh, there you are.
+Dialogue: 0,0:01:58.36,0:01:59.03,Default,Tokage,0,0,0,,Jump!
+Dialogue: 0,0:01:59.64,0:02:00.60,Default,Tokage,0,0,0,,Cling...
+Dialogue: 0,0:02:02.79,0:02:06.35,Default,Tokage,0,0,0,,A wild gamble ain't so bad sometimes!
+Dialogue: 0,0:02:06.94,0:02:10.06,Default,Tokage,0,0,0,,I'll make sure MayoPan lives on!
+Dialogue: 0,0:02:12.96,0:02:14.78,Default,Tokage,0,0,0,,You won't get your hands on—
+Dialogue: 0,0:02:22.12,0:02:25.12,Signs,Sign,0,0,0,,{\pos(242,53)\3c&HFFFFFF&\bord4}Livestream to hit {\c&H9B4AE0&\3c&H9B4AE0&}1,000,000 subscribers!!
+Dialogue: 1,0:02:22.12,0:02:25.12,Signs,Sign,0,0,0,,{\pos(242,53)\3c&H9B4AE0&\bord2.5}Livestream to hit {\c&H9B4AE0&\3c&HFFFFFF&}1,000,000 subscribers!!
+Dialogue: 0,0:02:22.78,0:02:25.12,Signs,Sign,0,0,0,,{\an9\bord3\fnGeorgia\fs40\c&H3F0BB9&\3c&HF6F7FA&\pos(568.5,225.5)}Tokage's Out!!
+Dialogue: 0,0:02:25.44,0:02:26.95,Default,Masaki,0,0,0,,Tokage!
+Dialogue: 0,0:02:27.50,0:02:32.00,Signs_Chat,Sign,0,0,0,,{\fs14\c&HC9B5AC&\3c&H5C3E31&\pos(325,17.5)}Green Turtle: What's going on\NKe-boy: Her fault for smoking in a hospital\NgomadanGO: No idea what's happening\Nsince the camera work sucks so much.\Nribon: Where's Live-sama...?\NWasshoi: These cameras kys kys kys\NGen: So hard to see ;w;\Npaka: How dare they do this to my Tokage-sama...!\NJshi66: they suck\NFried Mackerel Meal: Wait, isn't Fu in danger, too??\NFork Devil: Fu...\NEngawa: Ah, not good\Nwawawa: Show us how the others are doing!
+Dialogue: 0,0:02:30.05,0:02:30.92,Default,Masaki,0,0,0,,What?
+Dialogue: 0,0:02:33.00,0:02:34.30,Signs,Sign,0,0,0,,{\pos(242,53)\3c&HFFFFFF&\bord4}Livestream to hit {\c&H9B4AE0&\3c&H9B4AE0&}1,000,000 subscribers!!
+Dialogue: 1,0:02:33.00,0:02:34.30,Signs,Sign,0,0,0,,{\pos(242,53)\3c&H9B4AE0&\bord2.5}Livestream to hit {\c&H9B4AE0&\3c&HFFFFFF&}1,000,000 subscribers!!
+Dialogue: 0,0:02:40.34,0:02:41.30,DefaultItalics,Fu,0,0,0,,Masaki-san.
+Dialogue: 0,0:02:41.30,0:02:42.02,Default,Masaki,0,0,0,,Huh?
+Dialogue: 0,0:02:42.65,0:02:45.88,Default,Fu,0,0,0,,Keep the stream going.
+Dialogue: 0,0:02:45.88,0:02:48.82,Default,Fu,0,0,0,,Don't let this be the end for MayoPan.
+Dialogue: 0,0:02:48.82,0:02:52.87,Default,Fu,0,0,0,,Everyone watching, thanks for tuning in.
+Dialogue: 0,0:02:52.87,0:02:56.65,Default,Fu,0,0,0,,Please! Keep spreading the word \Nabout this stream!
+Dialogue: 0,0:02:58.94,0:03:00.20,Default,Masaki,0,0,0,,Fu!
+Dialogue: 0,0:03:05.95,0:03:10.62,Signs,Sign,0,0,0,,{\pos(242,53)\3c&HFFFFFF&\bord4}Livestream to hit {\c&H9B4AE0&\3c&H9B4AE0&}1,000,000 subscribers!!
+Dialogue: 1,0:03:05.95,0:03:10.62,Signs,Sign,0,0,0,,{\pos(242,53)\3c&H9B4AE0&\bord2.5}Livestream to hit {\c&H9B4AE0&\3c&HFFFFFF&}1,000,000 subscribers!!
+Dialogue: 0,0:03:06.87,0:03:10.62,Signs,Sign,0,0,0,,{\an9\bord3\fnGeorgia\fs40\c&H3F0BB9&\3c&HF6F7FA&\pos(570,227)}Fu's Out!!
+Dialogue: 0,0:03:08.27,0:03:10.62,Default,Masaki,0,0,0,,You said they wouldn't get you...
+Dialogue: 0,0:03:13.38,0:03:16.50,Default,Masaki,0,0,0,,Who cares about {\i1}that{\i0} now?!
+Dialogue: 0,0:03:13.38,0:03:16.50,Signs_Chat,Sign,0,0,0,,{\fs14\c&HF2CCA7&\3c&HB24A32&\pos(354,16.5)}flapjack octopus: oh no\N1000 km/h: They got Fu-chan too\NFork Devil: Fuuuuuuuuuuuu ;w;\Nwww.jp: wait, did she just say masaki???\Nwho-love-love: Don't you go scaring Fu\Nvckx: By Masaki, does she mean Masakichi?!\NJshi66: Masakichi?!\Nribon: Where's Live-sama...?\NWhere's Live-sama...? Where's Live-sama...?\NWhere's Live-sama...? Where's Live-sama...?\NMii: Is Fu okay? I'm so worried\NGoemon: So Masakichi came up with this??\NYukko: Did you get proper permission\Nto film here?\NLevel-1200: Is Masakichi there?
+Dialogue: 0,0:03:16.50,0:03:18.14,Default,Masaki,0,0,0,,Shut up already!
+Dialogue: 0,0:03:19.85,0:03:22.34,Default,Masaki,0,0,0,,Wait, Ichiko! In front of you!
+Dialogue: 0,0:03:36.66,0:03:38.19,Default,Ichiko,0,0,0,,Masaki?!
+Dialogue: 0,0:03:38.19,0:03:39.44,Default,Masaki,0,0,0,,Hold this!
+Dialogue: 0,0:03:39.81,0:03:41.32,Default,Masaki,0,0,0,,This game of tag isn't over yet!
+Dialogue: 0,0:03:42.20,0:03:43.16,Default,Ichiko,0,0,0,,Right!
+Dialogue: 0,0:03:43.16,0:03:44.06,Default,Masaki,0,0,0,,Ichiko!
+Dialogue: 0,0:03:44.06,0:03:46.17,Default,Masaki,0,0,0,,Use the laptop to see where they are!
+Dialogue: 0,0:03:46.17,0:03:47.55,Default,Ichiko,0,0,0,,Um...
+Dialogue: 0,0:03:48.04,0:03:48.79,Signs_Chat,Sign,0,0,0,,{\fad(271,1)\an8\fs22\c&HFDF6E0&\3c&H4F3623&\pos(311.5,27)}Goemon: Did I just hear Masakichi??
+Dialogue: 0,0:03:49.58,0:03:50.40,Default,Ichiko,0,0,0,,That's right!
+Dialogue: 0,0:03:50.40,0:03:52.00,Default,Ichiko,0,0,0,,Here with me is Masakichi!
+Dialogue: 0,0:03:51.46,0:03:52.87,DefaultTop,Masaki,0,0,0,,Don't show my face! Where are they?
+Dialogue: 0,0:03:52.87,0:03:54.29,Default,Masaki,0,0,0,,Um, they're...
+Dialogue: 0,0:03:57.25,0:03:58.80,Default,Masaki,0,0,0,,We're done for.
+Dialogue: 0,0:03:59.71,0:04:02.46,Default,Ichiko,0,0,0,,Th-The jigsaw is up.
+Dialogue: 0,0:04:02.46,0:04:04.76,Default,Masaki,0,0,0,,Damn it!
+Dialogue: 0,0:04:14.18,0:04:15.02,Default,Masaki,0,0,0,,Yuki?!
+Dialogue: 0,0:04:15.31,0:04:16.65,Default,Yuki,0,0,0,,Leave them to me.
+Dialogue: 0,0:04:16.65,0:04:17.77,Default,Yuki,0,0,0,,Hurry up and run away!
+Dialogue: 0,0:04:17.77,0:04:18.77,Default,Ichiko,0,0,0,,Don't be absurd!
+Dialogue: 0,0:04:18.77,0:04:19.78,Default,Ichiko,0,0,0,,Yuki-sama, there's no way—
+Dialogue: 0,0:04:19.78,0:04:20.73,Default,Yuki,0,0,0,,Just go on!
+Dialogue: 0,0:04:21.17,0:04:22.93,Default,Yuki,0,0,0,,Or we'll all end up out!
+Dialogue: 0,0:04:22.93,0:04:24.02,Default,Masaki,0,0,0,,Shigeyuki...
+Dialogue: 0,0:04:24.02,0:04:25.26,Default,Yuki,0,0,0,,And don't call me Shigeyuki!
+Dialogue: 0,0:04:32.61,0:04:36.25,Default,Yuki,0,0,0,,I'll take care of all of you.
+Dialogue: 0,0:04:36.84,0:04:38.09,Default,Yuki,0,0,0,,Get ready!
+Dialogue: 0,0:04:43.29,0:04:44.09,Default,Masaki,0,0,0,,Ichiko!
+Dialogue: 0,0:04:44.76,0:04:46.82,Default,Ichiko,0,0,0,,M-Masaki...
+Dialogue: 0,0:04:47.71,0:04:48.68,Default,Ichiko,0,0,0,,I'm bleeding!
+Dialogue: 0,0:04:48.68,0:04:49.35,Default,Masaki,0,0,0,,What?!
+Dialogue: 0,0:04:49.83,0:04:52.35,Default,Masaki,0,0,0,,First aid... We need first aid!
+Dialogue: 0,0:04:54.25,0:04:55.23,Default,Masaki,0,0,0,,What was that?
+Dialogue: 0,0:04:57.02,0:04:58.11,Default,Masaki,0,0,0,,Yuki?
+Dialogue: 0,0:05:10.58,0:05:12.33,Signs,Sign,0,0,0,,{\fnArial Black\bord4\shad1\c&HFBFEFE&\3c&HFBFEFE&\fax0.03\4c&HDAC3F4&\pos(289.5,226)\frz3.072}Please Stand By
+Dialogue: 1,0:05:10.58,0:05:12.33,Signs,Sign,0,0,0,,{\fnArial Black\bord2\c&HFBFEFE&\3c&HDAC3F4&\fax0.03\pos(289.5,226)\frz3.072}Please Stand By
+Dialogue: 0,0:05:13.72,0:05:14.94,Default,Ichiko,0,0,0,,They got Yuki-sama...
+Dialogue: 0,0:05:14.94,0:05:15.80,Default,Masaki,0,0,0,,Ichiko!
+Dialogue: 0,0:05:18.59,0:05:19.50,Default,Masaki,0,0,0,,What do we do?
+Dialogue: 0,0:05:21.39,0:05:22.74,Default,Ichiko,0,0,0,,It's fine.
+Dialogue: 0,0:05:22.74,0:05:25.45,Default,Ichiko,0,0,0,,A quick nap'll heal me right up.
+Dialogue: 0,0:05:26.46,0:05:27.59,Default,Ichiko,0,0,0,,Masaki.
+Dialogue: 0,0:05:27.59,0:05:28.97,Default,Masaki,0,0,0,,What is it?
+Dialogue: 0,0:05:29.42,0:05:31.60,Default,Ichiko,0,0,0,,The stream is going to end...
+Dialogue: 0,0:05:32.28,0:05:35.38,Default,Ichiko,0,0,0,,MayoPan is going to end!
+Dialogue: 0,0:05:36.13,0:05:37.73,Default,Ichiko,0,0,0,,I don't want that!
+Dialogue: 0,0:05:37.73,0:05:41.48,Signs_Chat,Sign,0,0,0,,{\fs14\c&HF7EACC&\3c&H764B35&\pos(345.5,15.5)}ribon: Where's Live-sama...?\NWhere's Live-sama...? Where's Live-sama...?\NWhere's Live-sama...? Where's Live-sama...?\Ntaiyaki: still not back?\NLevel-1200: Stop slacking\Nmumu: if only live was here...\NG7I5N: Taking so long, I can't watch this\NTakowasa: Stop trying to buy time for views\NFlying Chicken: What's taking so long?\NVending Machine: Did they get permission\Nfrom the owner of this abandoned hospital?\NIf they didn't...
+Dialogue: 0,0:05:38.42,0:05:41.48,Default,Ichiko,0,0,0,,After we all tried so hard...
+Dialogue: 0,0:05:42.33,0:05:45.20,Default,Ichiko,0,0,0,,After you came to Banpai Manor...
+Dialogue: 0,0:05:45.20,0:05:47.71,Default,Ichiko,0,0,0,,Everything's been so much fun.
+Dialogue: 0,0:05:48.27,0:05:51.51,Default,Ichiko,0,0,0,,That's... That's why...
+Dialogue: 0,0:05:52.24,0:05:56.59,Default,Ichiko,0,0,0,,All I wanted was for that to last.
+Dialogue: 0,0:05:57.24,0:05:58.59,Default,Ichiko,0,0,0,,Masaki...
+Dialogue: 0,0:05:59.65,0:06:01.26,Default,Ichiko,0,0,0,,MayoPan's...
+Dialogue: 0,0:06:01.90,0:06:03.93,Default,Masaki,0,0,0,,Ichiko? Ichiko!
+Dialogue: 0,0:06:09.08,0:06:11.89,DefaultItalics,Masaki,0,0,0,,I'm the only one left now.
+Dialogue: 0,0:06:14.14,0:06:21.15,Signs_Chat,Sign,0,0,0,,{\fs14\c&HF3DDD3&\3c&H883F3B&\pos(338.5,15)}coffee beans: not even funny\NIron Deficiency: Your ideas blow, just quit now\Nyani-yani: Stop streaming\Naieuo: Masakichi trying to rack up viewers\NGen: Get on with it already. Don't keep us waiting\NPassion Exploitation: What happened to all that\Nvampire stuff???\Ntaiyaki: boring\NJelly-beans: Everyone! I saw a post saying\Nthe stream is over!!\NPraying Owl: Snoozefest, what a waste of time\Nmasa: this is all masakichi's fault\Nrice on rice: she'll pay\Nribon: Where's Live-sama...?\NWhere's Live-sama...? Where's Live-sama...?\NWhere's Live-sama...? Where's Live-sama...?\NStalemate Gamer: Awful stream.\NGive me my time back\Neeeeeeks: What a creep.
+Dialogue: 0,0:06:25.27,0:06:27.05,DefaultItalics,Masaki,0,0,0,,This is...
+Dialogue: 0,0:06:28.78,0:06:30.96,DefaultItalics,Masaki,0,0,0,,where I first met Live!
+Dialogue: 0,0:06:32.32,0:06:34.34,Default,Masaki,0,0,0,,Ah, damn it all!
+Dialogue: 0,0:06:34.34,0:06:36.17,Default,Masaki,0,0,0,,This is all Live's fault!
+Dialogue: 0,0:06:36.17,0:06:38.62,Default,Masaki,0,0,0,,Where the hell {\i1}is{\i0} she?!
+Dialogue: 0,0:06:49.09,0:06:51.84,Signs,Sign,0,0,0,,{\fs14\frz7.699\pos(136,171)}Images
+Dialogue: 0,0:06:49.09,0:06:51.84,Signs,Sign,0,0,0,,{\an7\fs13\frz7.699\pos(93.5,230.5)}Title\N\N\N\NPlease stand by\N\N\N\NFor end of stream
+Dialogue: 0,0:06:58.73,0:07:00.55,Default,Masaki,0,0,0,,I swear...
+Dialogue: 0,0:07:01.85,0:07:04.11,Signs,Sign,0,0,0,,{\\c&HF1B636&\pos(371,114)}Lonely Oedo Girl
+Dialogue: 0,0:07:02.55,0:07:04.11,Default,Masaki,0,0,0,,"Oedo"...
+Dialogue: 0,0:07:05.61,0:07:08.44,Default,Masaki/Oedo,0,0,0,,"Ah, another one of Masakichi's ideas?"
+Dialogue: 0,0:07:05.61,0:07:14.37,Signs_Chat,Sign,0,0,0,,{\fs16\c&HFFF0BB&\3c&H9B5E2D&\pos(347.5,16)}Work: So many trolls lol\Nenergy: Please do something about this\NLemon Sour: Is it coming back?\N\NLonely Oedo Girl: Ah, another one\Nof Masakichi's ideas? Whenever she\Ngets stoked, it always ends in trouble\N\N{\alpha&HFF&\t(5654,5904,\alpha&H00&)}Lonely Oedo Girl: Hilarious how she\Nhasn't changed at all since the\NHype-Sis days
+Dialogue: 0,0:07:08.44,0:07:11.37,DefaultItalics,Oedo Girl,0,0,0,,Whenever she gets stoked, \Nit always ends in trouble!
+Dialogue: 0,0:07:11.37,0:07:14.37,DefaultItalics,Oedo Girl,0,0,0,,Hilarious how she hasn't changed \Nat all since the Hype-Sis days!
+Dialogue: 0,0:07:14.37,0:07:15.62,Default,Masaki,0,0,0,,Huh?
+Dialogue: 0,0:07:15.74,0:07:18.37,Signs_Chat,Sign,0,0,0,,{\q2\fad(278,1)\an9\fs20\c&HFEF8B8&\3c&HAB7531&\pos(623,44.5)}Lonely Oedo Girl: So now she's ruining MayoPan?
+Dialogue: 0,0:07:16.08,0:07:18.37,DefaultItalics,Oedo Girl,0,0,0,,So now she's ruining MayoPan?
+Dialogue: 0,0:07:18.37,0:07:22.25,Signs_Chat,Sign,0,0,0,,{\q2\fs20\c&HFEF8B8&\3c&HAB7531&\pos(50,44.5)}Lonely Oedo Girl: Oh, is she suddenly going to turn things around\Nfor some real hype?
+Dialogue: 0,0:07:18.37,0:07:22.25,DefaultItalics,Oedo Girl,0,0,0,,Oh, is she suddenly going to turn \Nthings around for some real hype?
+Dialogue: 0,0:07:22.25,0:07:24.13,Default,Masaki/Oedo,0,0,0,,"I can't wait!"
+Dialogue: 0,0:07:22.25,0:07:24.13,Signs_Chat,Sign,0,0,0,,{\an9\fs20\c&HFEF8B8&\3c&HAB7531&\pos(607.5,116.5)}Lonely Oedo Girl: I can't wait lmao
+Dialogue: 0,0:07:24.69,0:07:25.85,Default,Masaki,0,0,0,,Huh?!
+Dialogue: 0,0:07:25.85,0:07:27.21,Default,Masaki,0,0,0,,What the hell's your deal?!
+Dialogue: 0,0:07:27.21,0:07:28.21,Default,Masaki,0,0,0,,I mean...
+Dialogue: 0,0:07:28.21,0:07:30.05,Flashback,Oedo Girl,0,0,0,,You're Masakichi-san, right?
+Dialogue: 0,0:07:30.05,0:07:31.59,Flashback,Oedo Girl,0,0,0,,I'm a huge fan!
+Dialogue: 0,0:07:31.59,0:07:33.29,Default,Masaki,0,0,0,,That's what you said!
+Dialogue: 0,0:07:33.29,0:07:34.81,Default,Masaki,0,0,0,,So why this?!
+Dialogue: 0,0:07:34.81,0:07:36.70,Default,Masaki,0,0,0,,What's even going through your head?!
+Dialogue: 0,0:07:36.70,0:07:40.02,Default,Masaki,0,0,0,,Do you {\i1}know{\i0} what I've gone through \Nbecause of comments like yours?!
+Dialogue: 0,0:07:40.02,0:07:43.43,Default,Masaki,0,0,0,,Get a life, you goddamn idiot!
+Dialogue: 0,0:07:47.83,0:07:51.44,Default,Masaki,0,0,0,,Is she just having fun stirring the pot?
+Dialogue: 0,0:07:52.42,0:07:57.62,Default,Masaki,0,0,0,,Am I taking this way too seriously?
+Dialogue: 0,0:07:54.41,0:07:58.41,Signs_Chat,Sign,0,0,0,,{\fs16\c&HF8EDC8&\3c&H774A33&\pos(228,20)}Lonely Oedo Girl: Ah, another one of Masakichi's ideas? Whenever she gets stoked, it always ends in trouble\NLonely Oedo Girl: Hilarious how she hasn't changed\Nat all since the Hype-Sis days\NLonely Oedo Girl: So now she's ruining MayoPan? lmao\NLonely Oedo Girl: Oh, is she suddenly going to\Nturn things around for some real hype?\NLonely Oedo Girl: I can't wait lmao\Nmumu: If Live was here...
+Dialogue: 0,0:08:05.17,0:08:08.17,Signs_Chat,Sign,0,0,0,,{\fad(1,266)\fs18\c&HFCF1E5&\3c&H7B4F2F&\pos(213,21)}If the abuser wants to show her face, then go ahead\NI wouldn't mind seeing Masakichi. In a lot...{cut off}\NGo away scumbag
+Dialogue: 0,0:08:08.17,0:08:11.67,Signs_Chat,Sign,0,0,0,,{\fs16\c&HF8EDC8&\3c&H774A33&\pos(228,20)}thxbye: I wouldn't mind seeing Masakichi. In...\NAsahitaro: Go away scumbag\NMomo: To tell you the truth, I don't hate Masakichi\Nthat much either...\N{\alpha&HFF&\t(2320,2528,\alpha&H00&)}dedesuke: [Newsflash] Masakichi on the run\N[Newsflash] Masakichi on the run [Newsflash] Masakichi\Non the run [Newsflash] Masakichi on the run [Newsflash]\NMasakichi on the run [Newsflash] Masakichi on the run\N{\alpha&HFF&\t(3237,3362,\alpha&H00&)}chelly-blossoms: I'll always be Masakichi-san's fan
+Dialogue: 0,0:08:11.67,0:08:16.80,Signs_Chat,Sign,0,0,0,,{\fs18\c&HF8EDC8&\3c&H774A33&\pos(233,127.5)}chelly-blossoms: I'll always be Masakichi-san's fan
+Dialogue: 0,0:08:12.10,0:08:13.44,Default,Masaki,0,0,0,,Sakura?
+Dialogue: 0,0:08:19.78,0:08:21.56,Default,Masaki,0,0,0,,Of course there are people out there
+Dialogue: 0,0:08:22.13,0:08:26.94,Default,Masaki,0,0,0,,who really hate me, \Nas well as those having fun trolling.
+Dialogue: 0,0:08:27.31,0:08:30.28,Default,Masaki,0,0,0,,But there are also people who support me.
+Dialogue: 0,0:08:30.94,0:08:33.05,Default,Masaki,0,0,0,,A very small number, but still.
+Dialogue: 0,0:08:33.70,0:08:36.57,Default,Masaki,0,0,0,,No matter how much I try, I don't understand!
+Dialogue: 0,0:08:36.57,0:08:39.30,Default,Masaki,0,0,0,,I can't tell how any of these \Npeople feel about me!
+Dialogue: 0,0:08:39.30,0:08:42.23,Default,Masaki,0,0,0,,I never will, and when all's \Nsaid and done, I'm scared!
+Dialogue: 0,0:08:42.74,0:08:45.33,Default,Masaki,0,0,0,,But one thing's for sure!
+Dialogue: 0,0:08:45.33,0:08:48.00,Signs,Sign,0,0,0,,{\fs36\fay-0.25\pos(466,185.5)\c&HEAEEED&\blur3\b0}watching now
+Dialogue: 1,0:08:45.33,0:08:48.00,Signs,Sign,0,0,0,,{\fs36\fay-0.25\pos(466,185.5)\c&HEAEEED&\b0}watching now
+Dialogue: 0,0:08:45.82,0:08:48.62,Default,Masaki,0,0,0,,Everyone's here to watch MayoPan.
+Dialogue: 0,0:08:49.50,0:08:50.50,Default,Masaki,0,0,0,,Our haters...
+Dialogue: 0,0:08:51.59,0:08:53.72,Default,Masaki,0,0,0,,and our supporters!
+Dialogue: 0,0:08:54.59,0:08:57.43,Default,Masaki,0,0,0,,So no matter what anyone thinks...
+Dialogue: 0,0:08:57.85,0:09:00.47,Default,Masaki,0,0,0,,I've gotta continue the stream!
+Dialogue: 0,0:09:02.22,0:09:11.11,Signs,Sign,0,0,0,,{\pos(242,53)\3c&HFFFFFF&\bord4}Livestream to hit {\c&H9B4AE0&\3c&H9B4AE0&}1,000,000 subscribers!!
+Dialogue: 1,0:09:02.22,0:09:11.11,Signs,Sign,0,0,0,,{\pos(242,53)\3c&H9B4AE0&\bord2.5}Livestream to hit {\c&H9B4AE0&\3c&HFFFFFF&}1,000,000 subscribers!!
+Dialogue: 0,0:09:05.49,0:09:07.54,Default,Masaki,0,0,0,,Good morning from the dead of night!
+Dialogue: 0,0:09:07.54,0:09:08.78,Default,Masaki,0,0,0,,Mayonaka Punch!
+Dialogue: 0,0:09:08.78,0:09:10.65,Default,Masaki,0,0,0,,Staff member Masakichi here!
+Dialogue: 0,0:09:13.36,0:09:14.20,Default,Masaki,0,0,0,,Yep.
+Dialogue: 0,0:09:13.36,0:09:28.83,Signs,Sign,0,0,0,,{\pos(242,53)\3c&HFFFFFF&\bord4}Livestream to hit {\c&H9B4AE0&\3c&H9B4AE0&}1,000,000 subscribers!!
+Dialogue: 1,0:09:13.36,0:09:28.83,Signs,Sign,0,0,0,,{\pos(242,53)\3c&H9B4AE0&\bord2.5}Livestream to hit {\c&H9B4AE0&\3c&HFFFFFF&}1,000,000 subscribers!!
+Dialogue: 0,0:09:14.20,0:09:16.61,Default,Masaki,0,0,0,,"How dare you show your face on camera?"
+Dialogue: 0,0:09:16.61,0:09:18.49,Default,Masaki,0,0,0,,You're absolutely right.
+Dialogue: 0,0:09:18.49,0:09:19.25,Default,Masaki,0,0,0,,However...
+Dialogue: 0,0:09:19.25,0:09:20.37,Default,Masaki,0,0,0,,However!
+Dialogue: 0,0:09:20.37,0:09:24.00,Default,Masaki,0,0,0,,I can't let this livestream end!
+Dialogue: 0,0:09:24.00,0:09:26.64,Default,Masaki,0,0,0,,I can't let this be the end for MayoPan!
+Dialogue: 0,0:09:26.64,0:09:28.83,Default,Masaki,0,0,0,,So I have a favor to ask you all!
+Dialogue: 0,0:09:30.13,0:09:33.74,Default,Masaki,0,0,0,,Let me join in on this game of tag.
+Dialogue: 0,0:09:39.09,0:09:42.66,Default,Masaki,0,0,0,,And so, I'm the only one left now!
+Dialogue: 0,0:09:42.66,0:09:45.68,Default,Masaki,0,0,0,,If they catch me, \Nthe stream will immediately end!
+Dialogue: 0,0:09:45.68,0:09:47.40,Default,Masaki,0,0,0,,But I won't lose!
+Dialogue: 0,0:09:47.40,0:09:50.19,Default,Masaki,0,0,0,,You may be surprised to hear \Nthat I'm pretty dang good at tag!
+Dialogue: 0,0:09:52.53,0:09:53.98,Default,Masaki,0,0,0,,Yes, that's right.
+Dialogue: 0,0:09:53.98,0:09:55.50,Default,Masaki,0,0,0,,I'm a nasty piece of work—
+Dialogue: 0,0:09:55.50,0:09:56.19,Default,Masaki,0,0,0,,What?
+Dialogue: 0,0:10:01.11,0:10:04.18,Default,Masaki,0,0,0,,I'm the one who made a \Nhuge mess of Hype-Sis.
+Dialogue: 0,0:10:10.54,0:10:12.75,Default,Masaki,0,0,0,,And I'm to blame for this as well!
+Dialogue: 0,0:10:13.22,0:10:15.76,Default,Masaki,0,0,0,,For saying such awful things to Live!
+Dialogue: 0,0:10:15.76,0:10:17.45,Default,Masaki,0,0,0,,So that's why...
+Dialogue: 0,0:10:22.06,0:10:27.85,Default,Masaki,0,0,0,,That's why Live, all of MayoPan, \Nthe Hype-Sis girls...
+Dialogue: 0,0:10:27.85,0:10:31.38,Default,Masaki,0,0,0,,and all of you watching \Ndeserve an apology from me.
+Dialogue: 0,0:10:31.38,0:10:33.28,Default,Masaki,0,0,0,,I'm really sorry!
+Dialogue: 0,0:10:50.62,0:10:53.99,Default,Masaki,0,0,0,,I know it's not something an apology will fix.
+Dialogue: 0,0:10:54.42,0:10:58.13,Default,Masaki,0,0,0,,Still, I don't want to say goodbye to MayoPan!
+Dialogue: 0,0:10:59.29,0:11:03.61,Default,Masaki,0,0,0,,If there's anyone out there who wants \Nto show their support for MayoPan,
+Dialogue: 0,0:11:03.61,0:11:05.99,Default,Masaki,0,0,0,,spread the word about this stream!
+Dialogue: 0,0:11:05.99,0:11:10.31,Default,Masaki,0,0,0,,I, Masakichi, won't let myself \Nbe caught until Live shows up!
+Dialogue: 0,0:11:10.31,0:11:14.82,Signs,Sign,0,0,0,,{\bord2.5\an7\c&H6A6A6A&\fs10\fscx85\3c&HFDFCFF&\pos(59.5,237.5)\frz3.047}Vampires Playing Tag in an Abandoned Hospital! No Stopping Until We Hit a Million Subs!!
+Dialogue: 0,0:11:11.48,0:11:14.82,Default,TSUMA-shi,0,0,0,,MayoPan's going all out as usual, I see.
+Dialogue: 0,0:11:15.22,0:11:18.32,Default,TSUMA-shi,0,0,0,,It's not much, but the least \NI can do is lend a hand.
+Dialogue: 0,0:11:18.32,0:11:18.69,Signs,Sign,0,0,0,,{\bord3\an7\fs12\c&HF9FDFA&\3c&HF18782&\frz0.6599\fax0.08\pos(263.5,242)}Send
+Dialogue: 0,0:11:18.32,0:11:19.32,Signs,Sign,0,0,0,,{\bord3\an7\fs12\c&H989B98&\3c&HF9FDFA&}MayoPan helped me out at TSUMA FES Extreme, and they've got an\Ninteresting stream going right now! Please give it a look! Bomber!!\N\N{\c&H565956&}Mayonaka Punch{\c&H989B98&}   @mayopan\NGood morning from the dead of night!\NToday's gonna be a day to remember!! Get ready to stay up all night~ <3
+Dialogue: 0,0:11:18.69,0:11:19.87,Default,TSUMA-shi,0,0,0,,Bomber!
+Dialogue: 0,0:11:19.32,0:11:22.95,Signs,Sign,0,0,0,,{\bord3\an7\fs12\c&H565956&\3c&HF9FDFA&}TSUMA-shi{\c&H989B98&}   @tsumashi\NMayoPan helped me out at TSUMA FES Extreme, and they've got an\Ninteresting stream going right now! Please give it a look! Bomber!!\N\N{\c&H565956&}Mayonaka Punch{\c&H989B98&}   @mayopan\NGood morning from the dead of night!\NToday's gonna be a day to remember!! Get ready to stay up all night~ <3\N\N{\c&H565956&}Vampires Playing Tag in an Abandoned Hospital!\NNo Stopping Until We Hit a Million Subs!!\N{\c&H989B98&}NewTube
+Dialogue: 0,0:11:27.20,0:11:30.71,Signs,Sign,0,0,0,,{\bord2\fs36\fnArial Black\c&HFEFBFD&\3c&HE952E8&\pos(525.5,109.5)}watching now
+Dialogue: 0,0:11:30.71,0:11:34.70,Default,Masaki,0,0,0,,There's no way you're getting your hands on me!
+Dialogue: 0,0:11:34.70,0:11:36.54,Default,Masaki,0,0,0,,Catch me if you can!
+Dialogue: 0,0:11:40.66,0:11:41.68,DefaultItalics,Masaki,0,0,0,,Sorry, Live.
+Dialogue: 0,0:11:42.09,0:11:46.51,DefaultItalics,Masaki,0,0,0,,Ever since we met, you've \Nalways been thinking about me.
+Dialogue: 0,0:11:46.51,0:11:47.18,Default,Masaki,0,0,0,,That's why...
+Dialogue: 0,0:11:47.75,0:11:50.84,Default,Masaki,0,0,0,,I'll keep up this game of tag, \Neven if I break my leg!
+Dialogue: 0,0:11:51.89,0:11:53.40,Signs_Chat,Sign,0,0,0,,{\fs18\c&HAE9D96&\3c&HF9E5F2&\pos(275.5,83)}Feudal Lord: Masakichi's doing better than...
+Dialogue: 0,0:11:53.40,0:11:54.69,Signs_Chat,Sign,0,0,0,,{\fs18\c&HAE9D96&\3c&HF9E5F2&\pos(223.5,23)}hipopo: Seriously, go away\NCheese Naan: We don't need Masakichi, just find...\N...cone: violent bitch kys kys
+Dialogue: 0,0:11:59.94,0:12:01.70,Signs_Chat,Sign,0,0,0,,{\fs18\c&HAE9D96&\3c&HF9E5F2&\pos(339,114.5)}Lonely Oedo Girl: Lol wow\Nshe's really running. Good luck~
+Dialogue: 0,0:12:03.66,0:12:04.99,Signs_Chat,Sign,0,0,0,,{\fs18\c&HAE9D96&\3c&HF9E5F2&\pos(315,64.5)}Remy: So intense lmao\NClaire: TSUMA-shi sent me here!\NMust be exhausting~ Good luck!!\Ndaniel: You're nobody, don't get cocky
+Dialogue: 0,0:12:09.20,0:12:11.96,Signs,Sign,0,0,0,,{\bord3\an7\c&H6A6A6A&\fs11\3c&HFDFCFF&\pos(20,323.5)}Vampires Playing Tag in an Abandoned Hospital! No Stopping Until We Hit a Million Subs!!
+Dialogue: 0,0:12:14.12,0:12:15.96,Signs_Chat,Sign,0,0,0,,{\fs18\c&H958992&\3c&HEDDFE8&\pos(209.5,103)}cherry-blossoms: Masakichi, you can do it!!\Nflapjack octopus: so much for the vampire stuff lmao\NTerrarium: TSUMA-shi recommended this stream...\NI'll be silently cheering you on!
+Dialogue: 0,0:12:17.71,0:12:19.34,Signs,Sign,0,0,0,,{\t(27,1611,\fscx105\fscy105)\fs30\fnArial Black\c&HFEFBFD&\frz337.5\fax0.28\move(390.5,177.5,398.71,177.35,27,1611)}watching now
+Dialogue: 0,0:12:20.84,0:12:22.05,Signs_Chat,Sign,0,0,0,,{\fs18\c&H766C70&\3c&HEDDFE8&\pos(268.5,143)}hinoko: You're pretty athletic!! My opinion...\NFork Devil: If Masakichi survives...\NFu will be saved, so I'm on your side!\N
+Dialogue: 0,0:12:23.55,0:12:25.01,Signs_Chat,Sign,0,0,0,,{\fs18\c&H766C70&\3c&HEDDFE8&\pos(222,132)}ny...nyold it~ ny...nyold it~ ny...nyold it~\NBoiled Tofu: What's entertaining about this stream?\NWhat's entertaining about this stream?\NWhat's entertaining about this stream?
+Dialogue: 0,0:12:41.74,0:12:43.70,Default,Masaki,0,0,0,,Give up already!
+Dialogue: 0,0:12:49.25,0:12:52.37,Default,Masaki,0,0,0,,This game's not over yet!
+Dialogue: 0,0:12:53.64,0:12:55.53,Default,Leader,0,0,0,,You've all lost.
+Dialogue: 0,0:12:56.90,0:12:58.38,Default,Leader,0,0,0,,Stop the stream.
+Dialogue: 0,0:12:58.38,0:13:00.04,Default,Masaki,0,0,0,,D-Don't move!
+Dialogue: 0,0:13:00.04,0:13:01.38,Default,Masaki,0,0,0,,If you come any closer...
+Dialogue: 0,0:13:03.82,0:13:05.93,Default,Leader,0,0,0,,Why did you decide to do it?
+Dialogue: 0,0:13:05.93,0:13:06.64,Default,Masaki,0,0,0,,What?
+Dialogue: 0,0:13:07.27,0:13:09.69,Default,Leader,0,0,0,,Why did you decide to be on camera?
+Dialogue: 0,0:13:09.69,0:13:10.76,Default,Masaki,0,0,0,,Huh?
+Dialogue: 0,0:13:11.07,0:13:12.49,Default,Masaki,0,0,0,,For MayoPan!
+Dialogue: 0,0:13:12.49,0:13:15.15,Default,Masaki,0,0,0,,Not to mention everyone watching!
+Dialogue: 0,0:13:15.15,0:13:15.98,Default,Masaki,0,0,0,,Listen up!
+Dialogue: 0,0:13:15.98,0:13:18.99,Default,Masaki,0,0,0,,If we reach a million subs, \NI want all of them back!
+Dialogue: 0,0:13:18.99,0:13:19.90,Default,Masaki,0,0,0,,And Banpai Manor—
+Dialogue: 0,0:13:19.30,0:13:19.90,DefaultTop,Leader,0,0,0,,No.
+Dialogue: 0,0:13:22.85,0:13:25.55,Default,Leader,0,0,0,,I'm asking about {\i1}you{\i0}.
+Dialogue: 0,0:13:25.90,0:13:27.50,Default,Masaki,0,0,0,,What are you talking about?
+Dialogue: 0,0:13:27.50,0:13:28.44,Default,Masaki,0,0,0,,That doesn't matter—
+Dialogue: 0,0:13:28.44,0:13:29.45,Default,Leader,0,0,0,,Answer me.
+Dialogue: 0,0:13:29.45,0:13:32.36,Default,Masaki,0,0,0,,Like I said, so MayoPan can live on.
+Dialogue: 0,0:13:32.36,0:13:33.79,Default,Masaki,0,0,0,,That's all it is.
+Dialogue: 0,0:13:34.37,0:13:38.02,Default,Masaki,0,0,0,,This may be an atrocious idea \Nthat doesn't make any sense,
+Dialogue: 0,0:13:38.02,0:13:40.46,Default,Masaki,0,0,0,,but they gave their all for it!
+Dialogue: 0,0:13:40.46,0:13:41.34,Default,Masaki,0,0,0,,That's why...
+Dialogue: 0,0:13:42.06,0:13:45.34,Default,Masaki,0,0,0,,Even though I know no one wants to watch me...
+Dialogue: 0,0:13:45.34,0:13:46.67,Default,Masaki,0,0,0,,Ah, never mind!
+Dialogue: 0,0:13:46.67,0:13:48.47,Default,Masaki,0,0,0,,Everyone, forget what I just said!
+Dialogue: 0,0:13:48.47,0:13:52.14,Default,Masaki,0,0,0,,Anyway, I'll do everything I can \Nuntil Live comes back...
+Dialogue: 0,0:13:52.60,0:13:53.43,Default,Masaki,0,0,0,,Huh?
+Dialogue: 0,0:13:53.95,0:13:54.98,Default,Masaki,0,0,0,,No way.
+Dialogue: 0,0:13:55.56,0:13:59.48,Signs,Sign,0,0,0,,{\bord2.5\an7\fs18\c&H693C55&\3c&HC194AD&}Vampires Playing Tag in an Abandoned Hospital! No Stopping Until We Hit a Million Subs!!\N{\c&HE1BEC8&\3c&HB550A1&}10k watching now
+Dialogue: 0,0:13:57.13,0:13:59.48,Default,Masaki,0,0,0,,When did all these people...
+Dialogue: 0,0:14:02.48,0:14:05.32,Default,Masaki,0,0,0,,In the end, I...
+Dialogue: 0,0:14:05.32,0:14:07.24,Default,Leader,0,0,0,,Let me ask you one more time.
+Dialogue: 0,0:14:07.61,0:14:09.86,Default,Leader,0,0,0,,Why did you decide to be on camera?
+Dialogue: 0,0:14:11.35,0:14:13.37,Default,Masaki,0,0,0,,I...
+Dialogue: 0,0:14:13.70,0:14:14.12,Signs,Sign,0,0,0,,{\fs30\bord2\fnArial Black\c&H76F4F6&\3c&H024BEF&}Visiting an abandoned hospital!!
+Dialogue: 0,0:14:20.97,0:14:24.66,Default,Masaki,0,0,0,,I mean, that's obvious, isn't it?!
+Dialogue: 0,0:14:24.66,0:14:28.43,Default,Masaki,0,0,0,,Because... Because... Because...
+Dialogue: 0,0:14:29.05,0:14:31.60,Default,Masaki,0,0,0,,Because I {\i1}want{\i0} to, of course!
+Dialogue: 0,0:14:41.71,0:14:45.77,Default,Masaki,0,0,0,,The truth is, I want to feel wanted.
+Dialogue: 0,0:14:45.77,0:14:48.57,Default,Masaki,0,0,0,,Even now, I want them to enjoy watching me.
+Dialogue: 0,0:14:48.57,0:14:52.18,Default,Masaki,0,0,0,,But I know that's too much to ask.
+Dialogue: 0,0:15:00.21,0:15:01.33,Default,Masaki,0,0,0,,Live!
+Dialogue: 0,0:15:01.33,0:15:03.13,Default,Masaki,0,0,0,,You're watching this stream, aren't you?!
+Dialogue: 0,0:15:03.13,0:15:04.24,Default,Masaki,0,0,0,,I showed my face!
+Dialogue: 0,0:15:04.24,0:15:05.84,Default,Masaki,0,0,0,,I didn't run away this time!
+Dialogue: 0,0:15:05.84,0:15:07.97,Default,Masaki,0,0,0,,Did you forget our deal?!
+Dialogue: 0,0:15:07.97,0:15:09.90,Default,Masaki,0,0,0,,You promised me, didn't you?!
+Dialogue: 0,0:15:09.90,0:15:12.81,Default,Masaki,0,0,0,,To make a meal of me \Nonce we hit a million subs!
+Dialogue: 0,0:15:12.81,0:15:15.72,Default,Masaki,0,0,0,,So hurry up and show yourself already!
+Dialogue: 0,0:15:17.06,0:15:20.64,Default,Masaki,0,0,0,,I won't let myself be caught just yet!
+Dialogue: 0,0:15:26.27,0:15:28.55,DefaultItalics,Masaki,0,0,0,,I'm not gonna make it.
+Dialogue: 0,0:15:28.55,0:15:30.82,DefaultItalics,Masaki,0,0,0,,No, no, no!
+Dialogue: 0,0:15:30.82,0:15:32.89,DefaultItalics,Masaki,0,0,0,,I'll make sure the stream goes on!
+Dialogue: 0,0:15:32.89,0:15:35.79,DefaultItalics,Masaki,0,0,0,,I won't let it all end here!
+Dialogue: 0,0:15:43.29,0:15:44.67,Default,Live,0,0,0,,Gotcha.
+Dialogue: 0,0:15:46.74,0:15:49.17,Default,Live,0,0,0,,I'm here for you, Masaki.
+Dialogue: 0,0:15:49.17,0:15:50.95,Default,Masaki,0,0,0,,What took you so long?!
+Dialogue: 0,0:15:51.34,0:15:52.33,Default,Live,0,0,0,,Sorry.
+Dialogue: 0,0:15:52.33,0:15:54.82,Default,Masaki,0,0,0,,No, I was in the wrong.
+Dialogue: 0,0:15:55.33,0:15:57.98,Default,Masaki,0,0,0,,Live, I'm sorry for all \Nthe awful things I said.
+Dialogue: 0,0:15:58.47,0:15:59.77,Default,Live,0,0,0,,It's fine.
+Dialogue: 0,0:16:00.91,0:16:03.16,Default,Live,0,0,0,,I'm just glad I could hear it.
+Dialogue: 0,0:16:03.16,0:16:04.25,Default,Masaki,0,0,0,,Hear what?
+Dialogue: 0,0:16:04.25,0:16:05.84,Default,Live,0,0,0,,How you really felt.
+Dialogue: 0,0:16:05.84,0:16:07.94,Default,Live,0,0,0,,That you wanted to be in our videos.
+Dialogue: 0,0:16:07.94,0:16:09.82,Default,Masaki,0,0,0,,You knew already, didn't you?
+Dialogue: 0,0:16:09.82,0:16:13.28,Default,Masaki,0,0,0,,You're the vampire who knows me \Nbetter than anyone else, after all.
+Dialogue: 0,0:16:14.44,0:16:16.53,Default,Live,0,0,0,,I wanted to hear {\i1}you{\i0} say it!
+Dialogue: 0,0:16:16.53,0:16:18.28,Default,Live,0,0,0,,So I'm really happy!
+Dialogue: 0,0:16:18.65,0:16:19.46,Default,Masaki,0,0,0,,Yeah.
+Dialogue: 0,0:16:19.96,0:16:20.72,Default,Masaki,0,0,0,,Huh?
+Dialogue: 0,0:16:21.50,0:16:24.80,Default,Masaki,0,0,0,,You're happy you heard me say it?
+Dialogue: 0,0:16:24.80,0:16:25.67,Default,Live,0,0,0,,Yep!
+Dialogue: 0,0:16:26.06,0:16:28.80,Default,Masaki,0,0,0,,Live, you heard us talking just now?
+Dialogue: 0,0:16:30.42,0:16:31.90,Default,Masaki,0,0,0,,Hey, wait a minute!
+Dialogue: 0,0:16:32.51,0:16:34.63,Default,Masaki,0,0,0,,Wait, that means...
+Dialogue: 0,0:16:34.89,0:16:36.43,Default,Masaki,0,0,0,,Huh? What?
+Dialogue: 0,0:16:36.43,0:16:37.29,Default,Masaki,0,0,0,,Huh?!
+Dialogue: 0,0:16:38.68,0:16:40.89,Default,Masaki,0,0,0,,Wait, wait, wait, wait!
+Dialogue: 0,0:16:43.25,0:16:44.82,Default,Kikka,0,0,0,,It went off without a hitch.
+Dialogue: 0,0:16:44.82,0:16:45.86,Default,Otomi,0,0,0,,What a relief.
+Dialogue: 0,0:16:45.86,0:16:47.41,Default,Fu,0,0,0,,Masakichi's back in action.
+Dialogue: 0,0:16:47.41,0:16:48.91,Default,Sidebrah,0,0,0,,The hunters were...
+Dialogue: 0,0:16:48.91,0:16:51.12,Default,Outlaw,0,0,0,,Us Outside Kids, and...
+Dialogue: 0,0:16:51.12,0:16:52.90,Default,Group,0,0,0,,Hype-Sis!
+Dialogue: 0,0:16:54.40,0:16:58.64,Default,Sidebrah,0,0,0,,Tokage-nee-san, your athletic skills \Nare, like, totally out there!
+Dialogue: 0,0:16:58.64,0:16:59.37,Default,Tokage,0,0,0,,Whoo...
+Dialogue: 0,0:16:59.37,0:17:01.48,Default,Ichiko,0,0,0,,I mean, that's obvious, isn't it?
+Dialogue: 0,0:17:01.48,0:17:03.89,Default,Ichiko,0,0,0,,Because, because, because...
+Dialogue: 0,0:17:03.89,0:17:06.54,Default,Ichiko,0,0,0,,Because I {\i1}want{\i0} to, of course!
+Dialogue: 0,0:17:10.96,0:17:13.72,Default,Live,0,0,0,,Okay, everyone! All together now!
+Dialogue: 0,0:17:13.72,0:17:18.18,Default,Group,0,0,0,,You got pranked!
+Dialogue: 0,0:17:13.80,0:17:14.97,Signs,Sign,0,0,0,,{\fad(233,1)\fs40\bord4\fnArial Black\c&H7E3FA4&\3c&HFADAC0&}Y{\c&H9E6011&}o{\c&H5F7B3A&}u {\c&H9B3CA9&}G{\c&HD13D0F&}o{\c&H58539F&}t {\c&H7E3FA4&}P{\c&H9E6011&}r{\c&H5F7B3A&}a{\c&H9B3CA9&}n{\c&HD13D0F&}k{\c&H58539F&}e{\c&H7E3FA4&}d{\c&H9E6011&}!
+Dialogue: 0,0:17:18.14,0:17:19.97,Signs,Sign,0,0,0,,{\fad(355,1)\fs40\fnArial Black\c&H51457D&\3c&H51457D&\4c&H51457D&\bord4\shad2\pos(518.5,24.5)}You Got\NPranked!!
+Dialogue: 1,0:17:18.14,0:17:19.97,Signs,Sign,0,0,0,,{\fad(355,1)\fs40\fnArial Black\c&H6D4ED8&\3c&HEDE8EE&\bord3\pos(518.5,24.5)}You Got\N{\c&H4EFEEF&\3c&H5333DB&}Pranked!!
+Dialogue: 0,0:17:19.97,0:17:22.56,Default,Plumb Wrong Logic,0,0,0,,Impeccable timing, Mastamin-nee-san.
+Dialogue: 0,0:17:22.56,0:17:24.35,Default,Yuki,0,0,0,,Don't call me Mastamin-nee-san.
+Dialogue: 0,0:17:24.35,0:17:30.61,Signs,Sign,0,0,0,,{\fs26\fnTimes New Roman\pos(320,54)\3c&H000000&\bord3\blur0.4}"Would Masakichi Show Up on Stream for MayoPan?"
+Dialogue: 1,0:17:24.35,0:17:30.61,Signs,Sign,0,0,0,,{\fs26\fnTimes New Roman\pos(320,54)\c&H000000&\3c&HF2F4F5&\bord2\blur0.2}"Would {\c&H3E0CB7&}Masakichi{\c&H000000&} Show Up on {\c&H3E0CB7&}Stream{\c&H000000&} for {\c&H3E0CB7&}MayoPan{\c&H000000&}?"
+Dialogue: 0,0:17:24.35,0:17:30.61,Signs,Sign,0,0,0,,{\fs25\bord4\fnArial Black\c&H7E3FA4&\3c&HECE7E1&\pos(480,131.5)}Y{\c&H9E6011&}o{\c&H5F7B3A&}u {\c&H9B3CA9&}G{\c&HD13D0F&}o{\c&H58539F&}t {\c&H7E3FA4&}P{\c&H9E6011&}r{\c&H5F7B3A&}a{\c&H9B3CA9&}n{\c&HD13D0F&}k{\c&H58539F&}e{\c&H7E3FA4&}d{\c&H9E6011&}!
+Dialogue: 0,0:17:24.83,0:17:26.57,Default,Live,0,0,0,,Well, then...
+Dialogue: 0,0:17:26.57,0:17:30.61,Default,Live,0,0,0,,So sorry for making all of you worry!
+Dialogue: 0,0:17:31.26,0:17:33.11,Default,Live,0,0,0,,Man, I know, right?
+Dialogue: 0,0:17:33.11,0:17:36.11,Default,Live,0,0,0,,I didn't think it'd all work out this well!
+Dialogue: 0,0:17:36.11,0:17:39.84,Default,Live,0,0,0,,All righty, time to explain how it went down!
+Dialogue: 0,0:17:39.84,0:17:41.33,Default,Live,0,0,0,,Oh, hold that thought!
+Dialogue: 0,0:17:41.33,0:17:43.28,Default,Live,0,0,0,,Masakichi, why don't we—
+Dialogue: 0,0:17:42.37,0:17:43.95,DefaultTop,Masaki,0,0,0,,You bastard...
+Dialogue: 0,0:17:44.74,0:17:46.46,Default,Masaki,0,0,0,,Screw you!
+Dialogue: 0,0:17:50.23,0:17:52.63,Default,Ichiko,0,0,0,,Live-sama!
+Dialogue: 0,0:17:54.61,0:17:59.89,Default,Masaki,0,0,0,,We sincerely apologize for putting on \Nthis preposterous stream.
+Dialogue: 0,0:18:00.36,0:18:05.44,Default,Live,0,0,0,,It all started when Masakichi ran out of \Nthe house, refusing to star in our videos,
+Dialogue: 0,0:18:05.44,0:18:08.11,Default,Live,0,0,0,,which was when I came up with this prank.
+Dialogue: 0,0:18:08.11,0:18:12.66,Default,Live,0,0,0,,We'll explain all the nitty-gritty \Ndetails later in a separate video.
+Dialogue: 0,0:18:12.66,0:18:13.92,Default,Live,0,0,0,,Huh? Vampires?
+Dialogue: 0,0:18:13.92,0:18:16.44,Default,Live,0,0,0,,Of course there's no such thing!
+Dialogue: 0,0:18:15.00,0:18:16.44,DefaultTop,Masaki,0,0,0,,Anyway!
+Dialogue: 0,0:18:16.44,0:18:17.90,Default,Masaki,0,0,0,,We're really...
+Dialogue: 0,0:18:17.90,0:18:20.28,Default,Group,0,0,0,,Very sorry about what we did!
+Dialogue: 0,0:18:23.40,0:18:25.48,Default,Masaki,0,0,0,,You got all of them involved.
+Dialogue: 0,0:18:25.48,0:18:28.12,Default,Masaki,0,0,0,,Wait, if it was you under this mask,
+Dialogue: 0,0:18:28.12,0:18:30.25,Default,Masaki,0,0,0,,were you the one who attacked our car?
+Dialogue: 0,0:18:30.25,0:18:32.17,Default,Fu,0,0,0,,Th-That was me.
+Dialogue: 0,0:18:32.46,0:18:35.34,Default,Fu,0,0,0,,I immediately changed my outfit \Nto meet up with you.
+Dialogue: 0,0:18:35.34,0:18:36.67,Default,Masaki,0,0,0,,What about Banpai Manor?
+Dialogue: 0,0:18:36.67,0:18:38.30,Default,Live,0,0,0,,Just normal repairs!
+Dialogue: 0,0:18:38.30,0:18:40.65,Default,Masaki,0,0,0,,For a house that might get torn down?
+Dialogue: 0,0:18:40.65,0:18:42.29,Default,Masaki,0,0,0,,What about Ai-san, then?
+Dialogue: 0,0:18:42.29,0:18:44.56,Default,Tokage,0,0,0,,I came up with that one!
+Dialogue: 0,0:18:44.56,0:18:47.33,Default,Tokage,0,0,0,,Changing one letter in Live gives you Love!
+Dialogue: 0,0:18:47.33,0:18:49.00,Default,Tokage,0,0,0,,That's what "Ai" means!
+Dialogue: 0,0:18:47.56,0:18:49.94,Signs,Sign,0,0,0,,{\fad(400,1)\fnComic Sans MS\fs40\pos(554.5,120)\c&H735BD8&\3c&HF2F3FD&\bord2}Ai
+Dialogue: 0,0:18:50.35,0:18:54.02,Default,Masaki,0,0,0,,So the part about Live remembering \Nwhat happened twenty years ago...
+Dialogue: 0,0:18:54.02,0:18:55.57,Default,Live,0,0,0,,Oh, that part's true!
+Dialogue: 0,0:18:55.57,0:18:56.21,Default,Masaki,0,0,0,,What?
+Dialogue: 0,0:18:56.21,0:19:00.53,Default,Live,0,0,0,,Man, the two of us really are \Nfated to be together!
+Dialogue: 0,0:19:00.53,0:19:01.91,Default,Masaki,0,0,0,,Huh?!
+Dialogue: 0,0:19:02.83,0:19:03.98,Default,Live,0,0,0,,Don't worry about it.
+Dialogue: 0,0:19:03.98,0:19:06.56,Default,Live,0,0,0,,Well, then... Once again, \Nlet's aim for one million!
+Dialogue: 0,0:19:06.56,0:19:08.29,Default,Live,0,0,0,,We have one month left!
+Dialogue: 0,0:19:08.65,0:19:10.30,Default,Masaki,0,0,0,,Oh, right.
+Dialogue: 0,0:19:10.30,0:19:13.40,Default,Masaki,0,0,0,,Today being the deadline was a lie as well.
+Dialogue: 0,0:19:11.63,0:19:14.10,DefaultTop,Live,0,0,0,,Once we reach it, I can go ahead, right?
+Dialogue: 0,0:19:14.10,0:19:14.63,Default,Masaki,0,0,0,,What?
+Dialogue: 0,0:19:14.63,0:19:17.38,Default,Live,0,0,0,,I can make a meal of you, right?
+Dialogue: 0,0:19:17.38,0:19:18.90,Default,Masaki,0,0,0,,That's null and void now.
+Dialogue: 0,0:19:18.90,0:19:21.91,Default,Live,0,0,0,,What?!
+Dialogue: 0,0:20:46.19,0:20:50.93,Default,Yuki,0,0,0,,We're truly, {\i1}truly{\i0} sorry \Nabout our past livestream!
+Dialogue: 0,0:20:50.93,0:20:53.31,Default,Mother,0,0,0,,Not you too, Shigeyuki.
+Dialogue: 0,0:20:53.31,0:20:54.82,Default,Yuki,0,0,0,,Oh, but it's all okay!
+Dialogue: 0,0:20:54.82,0:20:58.62,Default,Yuki,0,0,0,,Not a single person who watched \Nbelieves that vampires exist!
+Dialogue: 0,0:20:58.52,0:20:59.19,Signs,Sign,0,0,0,,{\fnArial Black\c&H5A32C4&\frz15.71\pos(253,65.5)\shad2}Right?
+Dialogue: 0,0:20:58.62,0:20:59.82,Default,Yuki,0,0,0,,Right? Right?
+Dialogue: 0,0:20:59.19,0:20:59.82,Signs,Sign,0,0,0,,{\fnArial Black\c&H5A32C4&\shad2\frz344.4\pos(331.5,43.5)}Right?
+Dialogue: 0,0:21:03.29,0:21:08.02,Default,Mother,0,0,0,,It seems this served as a good \Nopportunity for that human, Masaki.
+Dialogue: 0,0:21:08.02,0:21:09.33,Default,Yuki,0,0,0,,Y-Yes!
+Dialogue: 0,0:21:09.33,0:21:13.61,Default,Yuki,0,0,0,,I have to say, the bonds between \NLive and Masaki are strong indeed!
+Dialogue: 0,0:21:13.61,0:21:16.15,Default,Mother,0,0,0,,They certainly are.
+Dialogue: 0,0:21:19.46,0:21:22.85,Flashback,Live,0,0,0,,Agh! I'm sick and tired of being a vampire!
+Dialogue: 0,0:21:22.85,0:21:25.13,Flashback,Live,0,0,0,,What's wrong with going out during the day?!
+Dialogue: 0,0:21:34.61,0:21:36.97,Flashback,Live,0,0,0,,I-I'm done for...
+Dialogue: 0,0:21:36.97,0:21:37.92,Flashback,Masaki,0,0,0,,Huh?
+Dialogue: 0,0:21:39.03,0:21:41.57,Flashback,Masaki,0,0,0,,A talking bat.
+Dialogue: 0,0:21:42.18,0:21:43.50,Flashback,Masaki,0,0,0,,Are you okay?
+Dialogue: 0,0:21:44.07,0:21:46.82,Flashback,Live,0,0,0,,L-Let me have some blood!
+Dialogue: 0,0:21:46.82,0:21:49.15,Flashback,Masaki,0,0,0,,Go ahead. Make a meal of me.
+Dialogue: 0,0:21:49.15,0:21:50.33,Flashback,Masaki,0,0,0,,Here.
+Dialogue: 0,0:21:51.24,0:21:53.33,Flashback,Live,0,0,0,,Time to dig in!
+Dialogue: 0,0:21:53.33,0:21:54.33,Signs,Sign,0,0,0,,{\fad(232,1)\fs40\shad2\fnArial Black\c&H7647ED&\4c&H77825C&\pos(203.5,24)}Chomp!!
+Dialogue: 0,0:21:54.33,0:21:55.40,Flashback,Masaki,0,0,0,,Ow!
+Dialogue: 0,0:21:55.40,0:21:56.65,Flashback,Masaki,0,0,0,,Ow, ow, ow, ow!
+Dialogue: 0,0:21:56.65,0:21:58.98,Flashback,Masaki,0,0,0,,Go away, you dumb bat!
+Dialogue: 0,0:22:00.38,0:22:03.00,FlashbackTop,Masaki,0,0,0,,It hurts!
+Dialogue: 0,0:22:00.74,0:22:02.08,Flashback,Masaki's Mom,0,0,0,,Are you okay, Masaki-chan?
+Dialogue: 0,0:22:02.08,0:22:04.88,Default,Mother,0,0,0,,She saved Live's life, after all.
+Dialogue: 0,0:22:05.33,0:22:08.65,Default,Yuki,0,0,0,,So that's why she can't forget that taste?
+Dialogue: 0,0:22:09.09,0:22:12.51,Default,Yuki,0,0,0,,Well, she ended up sleeping \Nfor twenty years after that.
+Dialogue: 0,0:22:12.88,0:22:14.58,Default,Ichiko,0,0,0,,We're home!
+Dialogue: 0,0:22:14.58,0:22:16.29,Default,Fu,0,0,0,,Tokage-san, you can park the car over there.
+Dialogue: 0,0:22:16.29,0:22:18.42,Default,Tokage,0,0,0,,Sheesh, why's it {\i1}my{\i0} job...
+Dialogue: 0,0:22:20.58,0:22:22.40,Default,Live,0,0,0,,Masaki...
+Dialogue: 0,0:22:22.40,0:22:24.66,Default,Live,0,0,0,,I'm sorry! I mean it, really!
+Dialogue: 0,0:22:24.66,0:22:28.46,Default,Live,0,0,0,,But you know, that prank was \Nmy way of showing how much I care!
+Dialogue: 0,0:22:28.46,0:22:29.88,Default,Masaki,0,0,0,,Well, I don't know...
+Dialogue: 0,0:22:29.88,0:22:32.69,Default,Live,0,0,0,,I'll work even harder on \Nour videos starting tomorrow!
+Dialogue: 0,0:22:32.69,0:22:35.16,Default,Live,0,0,0,,I'll make sure we hit a million subs!
+Dialogue: 0,0:22:35.16,0:22:37.38,Default,Live,0,0,0,,So our deal about your blood...
+Dialogue: 0,0:22:37.38,0:22:39.29,Default,Masaki,0,0,0,,Ah, sure, fine.
+Dialogue: 0,0:22:39.66,0:22:41.67,Default,Masaki,0,0,0,,I'll consider it.
+Dialogue: 0,0:22:44.25,0:22:45.96,Default,Live,0,0,0,,No backsies, okay?!
+Dialogue: 0,0:22:45.96,0:22:48.34,Default,Live,0,0,0,,Let's go shoot a video together right now!
+Dialogue: 0,0:22:47.33,0:22:48.34,DefaultTop,Masaki,0,0,0,,Hey!
+Dialogue: 0,0:22:49.08,0:22:51.97,Default,Ichiko,0,0,0,,What are you two ditching for?!
+Dialogue: 0,0:23:00.60,0:23:02.08,Default,Masaki,0,0,0,,Hey, Live!
+Dialogue: 0,0:23:02.08,0:23:04.02,Default,Masaki,0,0,0,,Can you slow it down a bit?!
+Dialogue: 0,0:23:04.02,0:23:06.12,Default,Live,0,0,0,,Masaki, thanks.
+Dialogue: 0,0:23:06.12,0:23:07.24,Default,Masaki,0,0,0,,Huh? For what?
+Dialogue: 0,0:23:07.24,0:23:10.74,Default,Live,0,0,0,,For teaching us all about videos.
+Dialogue: 0,0:23:11.48,0:23:15.32,Default,Live,0,0,0,,And bringing us out into the world \Nfrom the darkness.
+Dialogue: 0,0:23:17.23,0:23:20.00,Default,Masaki,0,0,0,,You did the same for me.
+Dialogue: 0,0:23:22.73,0:23:23.63,Default,Live,0,0,0,,All right!
+Dialogue: 0,0:23:23.63,0:23:26.30,Default,Live,0,0,0,,Here we go!
+Dialogue: 0,0:23:32.74,0:23:36.01,Default,Group,0,0,0,,Good morning from the dead of night!

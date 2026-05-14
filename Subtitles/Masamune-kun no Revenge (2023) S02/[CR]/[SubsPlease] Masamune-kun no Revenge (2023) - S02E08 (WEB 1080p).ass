@@ -1,0 +1,340 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Episode Title,Arial,20,&H006B47F3,&H000000FF,&H00EAF4FF,&H64000000,-1,0,0,0,100,100,0,0,1,2,1,3,20,40,60,0
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,18,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,18,1
+Style: Flight Board,Arial,16,&H006E5859,&H000000FF,&H0030312A,&H00000000,0,0,0,0,100,100,0,0,1,4,0,4,436,171,0,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:20.58,0:00:24.00,Main,Aki,0,0,0,,I'm hungry! Yoshino!
+Dialogue: 0,0:00:25.91,0:00:27.50,Main,Aki,0,0,0,,Yoshino?
+Dialogue: 0,0:00:31.62,0:00:33.22,Main,Aki,0,0,0,,Yoshino?
+Dialogue: 0,0:00:35.43,0:00:38.18,Main,Aki,0,0,0,,Yoshino? Are you not here?
+Dialogue: 0,0:00:39.33,0:00:41.06,Main,Aki,0,0,0,,That's strange.
+Dialogue: 0,0:00:44.56,0:00:47.58,Main,Aki,0,0,0,,Hey, Narino. Do you know where Yoshino is?
+Dialogue: 0,0:00:47.58,0:00:48.99,Main,Narino,0,0,0,,What's wrong?
+Dialogue: 0,0:00:48.99,0:00:51.36,Main,Aki,0,0,0,,I got hungry right before \NI was supposed to leave,
+Dialogue: 0,0:00:51.36,0:00:54.00,Main,Aki,0,0,0,,so I thought I'd have her make me something.
+Dialogue: 0,0:00:54.00,0:00:56.61,Main,Narino,0,0,0,,My sister went out shopping.
+Dialogue: 0,0:00:56.92,0:00:59.50,Main,Aki,0,0,0,,Shopping? That's strange.
+Dialogue: 0,0:00:59.50,0:01:02.08,Main,Aki,0,0,0,,Did I ask her to get me something?
+Dialogue: 0,0:01:02.08,0:01:05.53,Main,Narino,0,0,0,,No, I asked her to get something.
+Dialogue: 0,0:01:05.95,0:01:09.29,Main,Narino,0,0,0,,And I told her to buy something\Nfor herself, too.
+Dialogue: 0,0:01:09.79,0:01:11.25,Main,Aki,0,0,0,,I see.
+Dialogue: 0,0:01:14.62,0:01:20.19,Main,Narino,0,0,0,,Otherwise, she'd never do \Nanything for herself,
+Dialogue: 0,0:01:20.19,0:01:22.31,Main,Narino,0,0,0,,considering she's stuck in errand girl mode.
+Dialogue: 0,0:02:53.06,0:02:59.03,Episode Title,Sign,0,0,0,,{\fad(1475,950)\shad0}#8 "{\c&H4190EF&}T{\c}h{\c&H4190EF&}e{\c}r{\c&H4190EF&}e {\c}A{\c&H4190EF&}r{\c}e {\c&H4190EF&}T{\c}h{\c&H4190EF&}i{\c}n{\c&H4190EF&}g{\c}s {\c&H4190EF&}Y{\c}o{\c&H4190EF&}u {\c}S{\c&H4190EF&}h{\c}o{\c&H4190EF&}u{\c}l{\c&H4190EF&}d{\c}n{\c&H4190EF&}'{\c}t {\c&H4190EF&}R{\c}e{\c&H4190EF&}a{\c}l{\c&H4190EF&}i{\c}z{\c&H4190EF&}e{\c}"
+Dialogue: 0,0:02:54.37,0:02:55.82,Main Top,Yoshino,0,0,0,,Pig's Foot...
+Dialogue: 0,0:03:04.50,0:03:05.77,Main,Masamune,0,0,0,,Master...
+Dialogue: 0,0:03:07.95,0:03:09.91,Sign_Basic,Sign,0,0,0,,{\an1\b1\fs14\c&HB16C95&\3c&H754364&\shad0\pos(461.334,156.667)\frz153.1}Grapel
+Dialogue: 0,0:03:09.91,0:03:11.12,Main,Yoshino,0,0,0,,Well...
+Dialogue: 0,0:03:12.12,0:03:14.08,Main,Yoshino,0,0,0,,Bye.
+Dialogue: 0,0:03:15.50,0:03:16.91,Main,Yoshino,0,0,0,,Ow!
+Dialogue: 0,0:03:16.91,0:03:18.46,Main,Masamune,0,0,0,,Are you hurt?
+Dialogue: 0,0:03:18.84,0:03:21.84,Main,Yoshino,0,0,0,,The biggest blunder of my life...
+Dialogue: 0,0:03:21.84,0:03:24.68,Main,Masamune,0,0,0,,What nonsense are you going on about?
+Dialogue: 0,0:03:24.97,0:03:27.43,Main,Masamune,0,0,0,,You sprained your ankle, didn't you?
+Dialogue: 0,0:03:31.10,0:03:33.10,Main,Yoshino,0,0,0,,I'm fine.
+Dialogue: 0,0:03:33.10,0:03:34.81,Main,Masamune,0,0,0,,Anyway, this isn't the best place.
+Dialogue: 0,0:03:35.08,0:03:36.24,Main,Masamune,0,0,0,,Let's go somewhere else.
+Dialogue: 0,0:03:41.70,0:03:43.98,Main,Masamune,0,0,0,,Why do you have brass knuckles?!
+Dialogue: 0,0:03:44.91,0:03:47.87,Main,Yoshino,0,0,0,,I can't hold back when my life is in danger.
+Dialogue: 0,0:03:47.87,0:03:50.25,Main,Masamune,0,0,0,,Why are you saying that\Nwith such a serious face?!
+Dialogue: 0,0:03:50.25,0:03:52.06,Main,Masamune,0,0,0,,Well, can you move, then?!
+Dialogue: 0,0:03:57.16,0:03:58.70,Main,Masamune,0,0,0,,She moves like she's ancient.
+Dialogue: 0,0:04:09.28,0:04:11.64,Main,Masamune,0,0,0,,See? You can't walk, right?
+Dialogue: 0,0:04:17.48,0:04:20.23,Main,Yoshino,0,0,0,,At least make it a piggyback ride...
+Dialogue: 0,0:04:23.24,0:04:25.19,Main,Masamune,0,0,0,,That's what this was about?
+Dialogue: 0,0:04:31.79,0:04:34.94,Main,Sonoka,0,0,0,,Aki-sama's late...
+Dialogue: 0,0:04:34.94,0:04:40.59,Main,Kikune,0,0,0,,Last time, Aki-sama canceled\Nbecause she said something came up.
+Dialogue: 0,0:04:40.59,0:04:46.02,Main,Mari,0,0,0,,Yes. This social gathering between\NAki-sama and us, her bodyguards...
+Dialogue: 0,0:04:46.53,0:04:52.06,Main,Mari,0,0,0,,has been either canceled or \Ndelayed three times out of five.
+Dialogue: 0,0:04:53.37,0:04:55.77,Main,Sonoka,0,0,0,,And they're all due to that incident!
+Dialogue: 0,0:04:55.77,0:05:00.02,Main,Sonoka,0,0,0,,Ever since rumors started going around about\NAki-sama going out with Makabe Masamune!
+Dialogue: 0,0:05:01.36,0:05:04.12,Main,Kikune,0,0,0,,Rumors... about them going out?
+Dialogue: 0,0:05:04.12,0:05:10.84,Main,Mari,0,0,0,,A-A moment, please. I'm not sure\Nif "rumor" is quite the right word...
+Dialogue: 0,0:05:10.84,0:05:12.35,Main,Sonoka,0,0,0,,I called it a rumor because it {\i1}is{\i0} a rumor!
+Dialogue: 0,0:05:12.35,0:05:15.00,Main,Sonoka,0,0,0,,It's basically an urban legend!
+Dialogue: 0,0:05:15.00,0:05:17.83,Main,Mari,0,0,0,,I'd rather not admit it myself...
+Dialogue: 0,0:05:18.58,0:05:23.17,Main,Mari,0,0,0,,But it is a known fact that Aki-sama\Nand Makabe Masamune are dating.
+Dialogue: 0,0:05:23.17,0:05:25.13,Main,Sonoka,0,0,0,,I won't accept it!
+Dialogue: 0,0:05:25.13,0:05:27.13,Main,Mari,0,0,0,,You need to face reality!
+Dialogue: 0,0:05:27.13,0:05:29.85,Main,Sonoka,0,0,0,,But I don't wanna!
+Dialogue: 0,0:05:29.85,0:05:34.35,Main,Sonoka,0,0,0,,It's a rumor! It's just a rumor, \Ndang it! Aki-sama!
+Dialogue: 0,0:05:30.07,0:05:34.35,Main Top,Kikune,0,0,0,,Hang on a sec! No good is going \Nto come of us fighting over this!
+Dialogue: 0,0:05:40.94,0:05:44.62,Main,Kikune,0,0,0,,Today's just gonna have to \Nbe the day we ask Aki-sama
+Dialogue: 0,0:05:44.62,0:05:49.11,Main,Kikune,0,0,0,,how the hell she ended up going out\Nwith that Makabe Masamune!
+Dialogue: 0,0:05:49.11,0:05:52.76,Main,Kikune,0,0,0,,I still believe in the theory\Nthat Makabe's tricking her!
+Dialogue: 0,0:05:52.76,0:05:54.76,Main,Sonoka,0,0,0,,Well, of course he is!
+Dialogue: 0,0:05:54.76,0:05:56.84,Main,Mari,0,0,0,,B-But...
+Dialogue: 0,0:05:58.98,0:06:02.92,Main,Mari,0,0,0,,If there's just a slight chance...\Nno, even a sliver of a chance
+Dialogue: 0,0:06:03.47,0:06:08.36,Main,Mari,0,0,0,,that Aki-sama really has feelings\Nfor Makabe Masamune...
+Dialogue: 0,0:06:11.28,0:06:14.01,Main,Sonoka and Kikune,0,0,0,,If she does?
+Dialogue: 0,0:06:14.01,0:06:20.98,Main,Mari,0,0,0,,Perhaps she may think us worrying about her\Nis nothing more than a nuisance, and...
+Dialogue: 0,0:06:25.02,0:06:28.12,Main,Sonoka,0,0,0,,Then... Then what are we supposed to do?!
+Dialogue: 0,0:06:28.12,0:06:30.51,Main,Kikuna,0,0,0,,Oh, yeah! Ever since it was reported
+Dialogue: 0,0:06:30.51,0:06:33.44,Main,Kikuna,0,0,0,,at the end of last year that \NAki-sama was going out with Makabe,
+Dialogue: 0,0:06:33.44,0:06:36.78,Main,Kikuna,0,0,0,,she's never given us a proper explanation!
+Dialogue: 0,0:06:37.36,0:06:40.46,Main,Mari,0,0,0,,To be honest, I have no idea
+Dialogue: 0,0:06:41.04,0:06:42.92,Main,Mari,0,0,0,,how we should even approach this.
+Dialogue: 0,0:06:46.37,0:06:48.73,Main,Aki,0,0,0,,Sorry to keep you waiting.
+Dialogue: 0,0:06:50.08,0:06:52.16,Main,Sonoka,0,0,0,,A-Aki-sama...
+Dialogue: 0,0:06:52.16,0:06:54.89,Main,Kikune,0,0,0,,Um, er...
+Dialogue: 0,0:06:56.35,0:07:02.31,Main,Mari,0,0,0,,Y-You look... radiant... today...
+Dialogue: 0,0:07:13.84,0:07:16.41,Italics,Masamune,0,0,0,,People keep staring at us.
+Dialogue: 0,0:07:17.92,0:07:19.48,Italics,Masamune,0,0,0,,But more importantly...
+Dialogue: 0,0:07:23.35,0:07:24.35,Main,Yoshino,0,0,0,,Am I heavy?
+Dialogue: 0,0:07:24.35,0:07:26.09,Main,Masamune,0,0,0,,No, not really!
+Dialogue: 0,0:07:26.09,0:07:28.80,Italics,Masamune,0,0,0,,She'd kill me for saying this, but...
+Dialogue: 0,0:07:28.80,0:07:32.31,Italics,Masamune,0,0,0,,Her boobs are squished\Nso tight against my back...
+Dialogue: 0,0:07:33.58,0:07:37.47,Italics,Masamune,0,0,0,,She'd just snap my neck like... "crack."
+Dialogue: 0,0:07:37.47,0:07:40.18,Italics,Masamune,0,0,0,,Master can get pretty violent at times...
+Dialogue: 0,0:07:41.37,0:07:44.34,Italics,Masamune,0,0,0,,But this weight and sensation...
+Dialogue: 0,0:07:45.02,0:07:48.65,Italics,Masamune,0,0,0,,No, no, no! If she ever found out \NI was worried about that...
+Dialogue: 0,0:07:49.00,0:07:50.15,Main,Yoshino,0,0,0,,Pig's Foot.
+Dialogue: 0,0:07:50.15,0:07:52.61,Italics,Masamune,0,0,0,,Did she figure me out?! I'm gonna die!
+Dialogue: 0,0:07:52.92,0:07:54.46,Main,Yoshino,0,0,0,,You can put me down.
+Dialogue: 0,0:07:55.34,0:07:59.62,Main,Yoshino,0,0,0,,There's a park over there.\NI'll be fine if I rest there.
+Dialogue: 0,0:08:01.44,0:08:02.83,Italics,Masamune,0,0,0,,Oh...
+Dialogue: 0,0:08:02.83,0:08:05.25,Main,Masamune,0,0,0,,What are you talking about?\NYou don't need to be—
+Dialogue: 0,0:08:05.25,0:08:08.03,Main,Yoshino,0,0,0,,I'm wearing a skirt, and \Npeople might see my panties!
+Dialogue: 0,0:08:09.51,0:08:12.16,Main,Masamune,0,0,0,,Okay, we can go over there.
+Dialogue: 0,0:08:12.16,0:08:13.76,Main,Yoshino,0,0,0,,Make it extra quick.
+Dialogue: 0,0:08:14.26,0:08:16.60,Italics,Masamune,0,0,0,,This whole time, I was\Nworried about her boobs,
+Dialogue: 0,0:08:16.60,0:08:18.94,Italics,Masamune,0,0,0,,and she was worried about\Nsomething completely different...
+Dialogue: 0,0:08:29.56,0:08:31.21,Main,Aki,0,0,0,,I'm sorry, everyone.
+Dialogue: 0,0:08:31.21,0:08:34.28,Main,Aki,0,0,0,,I haven't been able to match my \Nschedule with all of yours lately.
+Dialogue: 0,0:08:34.28,0:08:35.53,Main,Sonoka,0,0,0,,I-It's okay...
+Dialogue: 0,0:08:35.53,0:08:37.63,Main,Kikune,0,0,0,,W-We're not worried about that.
+Dialogue: 0,0:08:37.63,0:08:41.29,Main,Mari,0,0,0,,Y-You needn't worry about us.
+Dialogue: 0,0:08:47.14,0:08:49.25,Main,Kikune,0,0,0,,Hey, ask her the question already.
+Dialogue: 0,0:08:49.56,0:08:53.72,Main,Mari,0,0,0,,Me?! But I can't!
+Dialogue: 0,0:08:58.05,0:08:59.64,Main,Kikune,0,0,0,,Oh, fine.
+Dialogue: 0,0:09:00.68,0:09:04.80,Main,Kikune,0,0,0,,Um, so... Aki-sama...
+Dialogue: 0,0:09:04.80,0:09:05.76,Main,Aki,0,0,0,,Yes?
+Dialogue: 0,0:09:05.76,0:09:08.40,Main,Kikune,0,0,0,,How are things going for you lately?
+Dialogue: 0,0:09:08.40,0:09:09.36,Main,Aki,0,0,0,,What things?
+Dialogue: 0,0:09:09.36,0:09:13.69,Main,Kikune,0,0,0,,You know... Are you...
+Dialogue: 0,0:09:13.69,0:09:16.82,Main,Kikune,0,0,0,,enjoying the sweet life?
+Dialogue: 0,0:09:16.82,0:09:17.96,Main,Aki,0,0,0,,Sweet?
+Dialogue: 0,0:09:17.96,0:09:21.77,Main,Aki,0,0,0,,Oh, you mean sweets?\NYeah, I've been eating them quite often.
+Dialogue: 0,0:09:26.36,0:09:28.92,Main,Mari,0,0,0,,You didn't get through to her at all!
+Dialogue: 0,0:09:28.92,0:09:32.00,Main,Kikune,0,0,0,,This is the best I can do.
+Dialogue: 0,0:09:37.67,0:09:39.18,Main,Mari,0,0,0,,Very well...
+Dialogue: 0,0:09:39.18,0:09:41.80,Main,Mari,0,0,0,,A-Aki-sama...
+Dialogue: 0,0:09:41.80,0:09:42.94,Main,Aki,0,0,0,,Yes?
+Dialogue: 0,0:09:43.42,0:09:49.11,Main,Mari,0,0,0,,Is... Is... your...
+Dialogue: 0,0:09:50.40,0:09:52.47,Main,Mari,0,0,0,,Isn't the moon lovely?!
+Dialogue: 0,0:09:53.24,0:09:54.78,Main,Aki,0,0,0,,It's the middle of the day.
+Dialogue: 0,0:09:56.04,0:09:58.51,Italics,Mari,0,0,0,,I-I'm sunk...
+Dialogue: 0,0:09:58.51,0:10:00.87,Italics,Kikune,0,0,0,,Private Mizuno!
+Dialogue: 0,0:10:01.24,0:10:05.61,Main,Aki,0,0,0,,Hey, what's going on?\NYou're all acting strange today.
+Dialogue: 0,0:10:08.63,0:10:10.83,Main,Aki,0,0,0,,Did something happen?
+Dialogue: 0,0:10:13.55,0:10:15.17,Main,Aki,0,0,0,,Wh-What the...
+Dialogue: 0,0:10:16.15,0:10:19.94,Main,Sonoka,0,0,0,,We want to know how you really feel!
+Dialogue: 0,0:10:20.40,0:10:23.01,Main,Aki,0,0,0,,How I... really feel?
+Dialogue: 0,0:10:23.01,0:10:26.98,Main,Sonoka,0,0,0,,Are you really going out\Nwith Makabe Masamune?!
+Dialogue: 0,0:10:27.31,0:10:28.69,Italics,Kikune,0,0,0,,She said it!
+Dialogue: 0,0:10:28.69,0:10:32.15,Italics,Mari,0,0,0,,Even through her panic, she managed \Nan attack right to the core!
+Dialogue: 0,0:10:38.11,0:10:41.80,Main,Aki,0,0,0,,Well... yes...
+Dialogue: 0,0:10:42.91,0:10:44.03,Italics,Mari,0,0,0,,That's...
+Dialogue: 0,0:10:44.03,0:10:47.25,Italics,Kikune,0,0,0,,The embarrassed face a girl\Nmakes when she's in love.
+Dialogue: 0,0:10:47.25,0:10:50.98,Italics,Sonoka,0,0,0,,I never thought I'd see\NAki-sama make this face.
+Dialogue: 0,0:10:51.78,0:10:53.35,Italics,Sonoka,0,0,0,,I hate to admit it, but...
+Dialogue: 0,0:10:54.96,0:10:57.96,Italics,Mari; Sonoka; Kikune,0,0,0,,I love this side of her, too!
+Dialogue: 0,0:11:02.07,0:11:04.46,Main,Masamune,0,0,0,,There we go.
+Dialogue: 0,0:11:08.93,0:11:10.52,Main,Masamune,0,0,0,,Are you okay?
+Dialogue: 0,0:11:10.52,0:11:12.48,Main,Yoshino,0,0,0,,You don't need to touch me!
+Dialogue: 0,0:11:12.48,0:11:13.77,Main,Masamune,0,0,0,,Okay, okay.
+Dialogue: 0,0:11:20.66,0:11:23.53,Italics,Masamune,0,0,0,,I haven't seen her in so long,\Nand she treats me like this...
+Dialogue: 0,0:11:23.53,0:11:26.09,Italics,Masamune,0,0,0,,She really doesn't back off.
+Dialogue: 0,0:11:28.47,0:11:29.96,Main,Yoshino,0,0,0,,The birthday date...
+Dialogue: 0,0:11:31.33,0:11:33.18,Main,Yoshino,0,0,0,,You chased Aki-sama away?
+Dialogue: 0,0:11:34.22,0:11:37.12,Italics,Masamune,0,0,0,,The one thing I really didn't want \Nher to ask me about right now!
+Dialogue: 0,0:11:37.12,0:11:38.38,Italics,Masamune,0,0,0,,Play it off!
+Dialogue: 0,0:11:38.85,0:11:42.19,Main,Masamune,0,0,0,,D-Don't make it sound so bad!
+Dialogue: 0,0:11:42.19,0:11:46.10,Main,Masamune,0,0,0,,We just wrapped things up\Na bit earlier than planned!
+Dialogue: 0,0:11:46.10,0:11:49.44,Main,Masamune,0,0,0,,You know, the fact that I wasn't\Nso pushy makes me a gentleman,
+Dialogue: 0,0:11:49.44,0:11:53.78,Main,Masamune,0,0,0,,and most girls would think, "Wow, how \Nlovely!" and my likability would go up.
+Dialogue: 0,0:11:54.44,0:11:56.06,Main,Yoshino,0,0,0,,Don't give me that.
+Dialogue: 0,0:11:56.43,0:11:58.84,Main,Yoshino,0,0,0,,Aki-sama's super depressed right now.
+Dialogue: 0,0:12:02.12,0:12:04.39,Italics,Masamune,0,0,0,,Well, I think it's weird, too.
+Dialogue: 0,0:12:06.35,0:12:10.15,Italics,Masamune,0,0,0,,But... my body's not cooperating.
+Dialogue: 0,0:12:11.33,0:12:12.64,Main,Masamune,0,0,0,,Ow!
+Dialogue: 0,0:12:12.64,0:12:16.67,Main,Yoshino,0,0,0,,Can you promise me you'll throw her\Nonto the bed the next time you see her?
+Dialogue: 0,0:12:16.67,0:12:19.42,Main,Masamune,0,0,0,,I absolutely cannot!
+Dialogue: 0,0:12:19.42,0:12:21.70,Main,Yoshino,0,0,0,,How are you so pathetic?
+Dialogue: 0,0:12:19.42,0:12:24.09,Main,Masamune,0,0,0,,Ow, ow, ow, ow, ow!
+Dialogue: 0,0:12:27.86,0:12:29.21,Main,Yoshino,0,0,0,,Pig's Foot?
+Dialogue: 0,0:12:33.44,0:12:34.87,Italics,Masamune,0,0,0,,Could it be...
+Dialogue: 0,0:12:36.68,0:12:38.06,Main,Masamune,0,0,0,,Pardon me a sec.
+Dialogue: 0,0:12:53.72,0:12:54.96,Main,Yoshino,0,0,0,,Pig's Foo—
+Dialogue: 0,0:13:14.28,0:13:18.90,Main,Masamune,0,0,0,,I was right. With you, it's okay.
+Dialogue: 0,0:13:20.02,0:13:23.29,Main,Masamune,0,0,0,,I never should've gone out with her.
+Dialogue: 0,0:13:23.92,0:13:28.55,Main,Masamune,0,0,0,,I think I had the most fun when \NI was devising my plan with you.
+Dialogue: 0,0:13:30.37,0:13:31.32,Main,Masamune,0,0,0,,Master?
+Dialogue: 0,0:13:39.71,0:13:43.71,Flashback,Sonoka,0,0,0,,We want to know how you really feel!
+Dialogue: 0,0:13:44.56,0:13:48.68,Main,Aki,0,0,0,,Well, so do I...
+Dialogue: 0,0:13:53.14,0:13:54.14,Main,Gasou,0,0,0,,Aki-chan?
+Dialogue: 0,0:13:58.48,0:13:59.82,Main,Aki,0,0,0,,Kanetsugu?
+Dialogue: 0,0:13:59.82,0:14:02.32,Main,Gasou,0,0,0,,It's... been a while.
+Dialogue: 0,0:14:03.17,0:14:04.52,Main,Aki,0,0,0,,Yeah...
+Dialogue: 0,0:14:05.66,0:14:09.77,Main,Gasou,0,0,0,,Do you... have a second?
+Dialogue: 0,0:14:11.60,0:14:12.52,Main,Aki,0,0,0,,Sure...
+Dialogue: 0,0:14:15.38,0:14:17.45,Main,Masamune,0,0,0,,Ow!
+Dialogue: 0,0:14:17.45,0:14:20.21,Main,Masamune,0,0,0,,Why'd she headbutt me all of a sudden?
+Dialogue: 0,0:14:20.70,0:14:21.50,Main,Masamune,0,0,0,,Huh?
+Dialogue: 0,0:14:23.65,0:14:25.63,Main,Masamune,0,0,0,,Where'd she go?
+Dialogue: 0,0:14:25.63,0:14:27.48,Main,Masamune,0,0,0,,She can't walk on that leg.
+Dialogue: 0,0:14:28.34,0:14:33.31,Sign_Basic,Sign,0,0,0,,{\c&H244783&\3c&H446FAA&\shad0\b1\fnComic Sans MS\fs18\an4\frx180\move(350,0,350,170)\frz270.8}I'll pretend you\Nnever said that
+Dialogue: 0,0:14:33.69,0:14:37.21,Italics,Masamune,0,0,0,,She's right. I shouldn't have said that.
+Dialogue: 0,0:14:38.16,0:14:40.12,Italics,Masamune,0,0,0,,For Adagaki-san's sake...
+Dialogue: 0,0:14:40.73,0:14:42.76,Italics,Masamune,0,0,0,,And for Master's sake.
+Dialogue: 0,0:14:44.01,0:14:45.90,Italics,Masamune,0,0,0,,How stupid am I?
+Dialogue: 0,0:14:46.77,0:14:51.11,Italics,Masamune,0,0,0,,No matter how much I regret it,\NI can't take it back now.
+Dialogue: 0,0:14:54.66,0:14:56.33,Main,Gasou,0,0,0,,I was pretty surprised.
+Dialogue: 0,0:14:56.33,0:14:59.88,Main,Gasou,0,0,0,,I never would've thought \NI'd run into you out there.
+Dialogue: 0,0:14:59.88,0:15:01.29,Main,Aki,0,0,0,,Yeah.
+Dialogue: 0,0:15:02.05,0:15:05.50,Main,Gasou,0,0,0,,I think this is the first time\Nwe've talked since that incident.
+Dialogue: 0,0:15:05.95,0:15:06.78,Main,Aki,0,0,0,,Yeah.
+Dialogue: 0,0:15:08.97,0:15:10.19,Main,Aki,0,0,0,,Kanetsugu?!
+Dialogue: 0,0:15:10.19,0:15:13.04,Main,Gasou,0,0,0,,Aki-chan, I'm so sorry!
+Dialogue: 0,0:15:13.04,0:15:15.93,Main,Gasou,0,0,0,,I'm not expecting you to completely forgive me.
+Dialogue: 0,0:15:16.33,0:15:18.22,Main,Gasou,0,0,0,,But I...
+Dialogue: 0,0:15:19.24,0:15:21.14,Main,Aki,0,0,0,,Lift your head, please.
+Dialogue: 0,0:15:23.03,0:15:24.99,Main,Aki,0,0,0,,I heard the details.
+Dialogue: 0,0:15:24.99,0:15:27.57,Main,Aki,0,0,0,,You've basically worked things \Nout with my father, right?
+Dialogue: 0,0:15:28.34,0:15:29.21,Main,Gasou,0,0,0,,Yeah...
+Dialogue: 0,0:15:30.18,0:15:33.47,Main,Aki,0,0,0,,So your sister's in the hospital?
+Dialogue: 0,0:15:33.47,0:15:35.96,Main,Aki,0,0,0,,And you needed money for that.
+Dialogue: 0,0:15:37.51,0:15:42.84,Main,Aki,0,0,0,,Don't get the wrong idea. \NThere's nothing to forgive. I'm not even mad.
+Dialogue: 0,0:15:42.84,0:15:46.76,Main,Gasou,0,0,0,,But it's still true that I was\Nlying to you that whole time.
+Dialogue: 0,0:15:47.51,0:15:52.25,Main,Aki,0,0,0,,It's also true that it's been weighing \Non your mind and you regret it, right?
+Dialogue: 0,0:15:52.25,0:15:55.14,Main,Aki,0,0,0,,I know that because that's \Nthe kind of person you are.
+Dialogue: 0,0:15:57.60,0:16:01.77,Main,Aki,0,0,0,,Besides, it's all in the past now.
+Dialogue: 0,0:16:06.63,0:16:09.45,Main,Gasou,0,0,0,,You're so strong, Aki-chan.
+Dialogue: 0,0:16:10.53,0:16:12.73,Main,Aki,0,0,0,,No, I'm not.
+Dialogue: 0,0:16:13.82,0:16:16.33,Main,Aki,0,0,0,,You had something you wanted\Nto protect, even if it meant
+Dialogue: 0,0:16:16.33,0:16:18.18,Main,Aki,0,0,0,,making some sacrifices\Nwith those around you.
+Dialogue: 0,0:16:18.68,0:16:21.62,Main,Aki,0,0,0,,You did all that because \Nyou had the resolve, right?
+Dialogue: 0,0:16:22.99,0:16:25.00,Main,Aki,0,0,0,,But I'm different.
+Dialogue: 0,0:16:25.66,0:16:29.79,Main,Aki,0,0,0,,I had no idea I'd been hurting\Na certain someone...
+Dialogue: 0,0:16:29.79,0:16:31.17,Main,Aki,0,0,0,,apparently.
+Dialogue: 0,0:16:33.17,0:16:35.20,Sign_Basic,Sign,0,0,0,,{\c&H707677&\shad0\3c&HEAF1F0&\fs14\frz54.13\frx12\fry2\pos(160,214)}I'm going to get revenge\Non that woman!!
+Dialogue: 0,0:16:35.61,0:16:38.89,Main,Aki,0,0,0,,Even though I know that now,\NI can't do anything.
+Dialogue: 0,0:16:39.73,0:16:42.66,Main,Aki,0,0,0,,I can't even be brave enough\Nto accept that fact.
+Dialogue: 0,0:16:45.25,0:16:47.16,Main,Aki,0,0,0,,I'm not strong at all.
+Dialogue: 0,0:16:48.48,0:16:52.06,Main,Gasou,0,0,0,,This certain someone...\NAre you talking about...
+Dialogue: 0,0:16:52.06,0:16:53.57,Main,Gasou,0,0,0,,Makabe-kun?
+Dialogue: 0,0:16:55.03,0:16:58.64,Main,Gasou,0,0,0,,Aki-chan, you're dating Makabe-kun, right?
+Dialogue: 0,0:16:58.64,0:17:04.15,Main,Gasou,0,0,0,,I didn't think you two would actually\Nstart dating after that confession.
+Dialogue: 0,0:17:07.61,0:17:10.72,Main,Gasou,0,0,0,,I know it's going to be hard to\Nconvince you, considering
+Dialogue: 0,0:17:10.72,0:17:12.92,Main,Gasou,0,0,0,,I'd been lying to you that whole time...
+Dialogue: 0,0:17:13.29,0:17:17.43,Main,Gasou,0,0,0,,But because I'd been lying\Nthat whole time, I can say this.
+Dialogue: 0,0:17:18.19,0:17:21.85,Main,Gasou,0,0,0,,The one thing you can't do\Nis lie to your own heart.
+Dialogue: 0,0:17:23.32,0:17:26.31,Main,Aki,0,0,0,,Lie to my own heart?
+Dialogue: 0,0:17:26.79,0:17:28.52,Main,Gasou,0,0,0,,All this time...
+Dialogue: 0,0:17:29.14,0:17:33.23,Main,Gasou,0,0,0,,I thought that maintaining the Gasou\Nfamily's financial power and status
+Dialogue: 0,0:17:33.23,0:17:35.95,Main,Gasou,0,0,0,,was the way to protect my family.
+Dialogue: 0,0:17:33.99,0:17:35.95,Signs,Sign,0,0,0,,{\fad(950,0)\an4\c&H7C635E&\bord0\frx30\frz27.18\fax.1\pos(206.667,206.667)}gaki Group
+Dialogue: 0,0:17:33.99,0:17:35.95,Signs,Sign,0,0,0,,{\fad(950,0)\fnTimes New Roman\fs10\bord0\shad0\c&H506064&\frx30\frz27.18\fax.1\pos(272.666,217.333)}Secretary
+Dialogue: 0,0:17:36.71,0:17:40.74,Main,Gasou,0,0,0,,I'd convinced myself that I had to \Ndo whatever it took to do that.
+Dialogue: 0,0:17:41.57,0:17:45.50,Main,Gasou,0,0,0,,But all I was doing was lying\Nto myself that whole time.
+Dialogue: 0,0:17:46.16,0:17:48.46,Main,Gasou,0,0,0,,When you all found out everything,
+Dialogue: 0,0:17:48.46,0:17:54.50,Main,Gasou,0,0,0,,it became clear to me that my family's \Nfinancial power and status meant nothing.
+Dialogue: 0,0:17:55.41,0:18:00.09,Main,Gasou,0,0,0,,The one thing that mattered to \Nme was my little sister's smile.
+Dialogue: 0,0:18:01.68,0:18:04.22,Main,Gasou,0,0,0,,Everything I did was for my sister.
+Dialogue: 0,0:18:04.22,0:18:08.90,Main,Gasou,0,0,0,,When I realized that, I figured out \Nwhat I really wanted to do.
+Dialogue: 0,0:18:08.90,0:18:10.66,Main,Gasou,0,0,0,,So, right now...
+Dialogue: 0,0:18:11.88,0:18:14.12,Main,Gasou,0,0,0,,I feel really refreshed.
+Dialogue: 0,0:18:15.38,0:18:16.98,Main,Aki,0,0,0,,I see...
+Dialogue: 0,0:18:17.83,0:18:21.32,Main,Gasou,0,0,0,,Are you able to accept \Nyour feelings right now?
+Dialogue: 0,0:18:22.80,0:18:25.58,Main,Aki,0,0,0,,My... feelings?
+Dialogue: 0,0:18:25.58,0:18:28.79,Main,Gasou,0,0,0,,You can't end up like me.
+Dialogue: 0,0:18:41.56,0:18:46.92,Italics,Aki,0,0,0,,Accept... my feelings...
+Dialogue: 0,0:18:58.85,0:19:01.42,Main,Aki,0,0,0,,I get it. I...
+Dialogue: 0,0:19:12.26,0:19:14.17,Main,Aki,0,0,0,,Welcome home, Yoshino.
+Dialogue: 0,0:19:15.31,0:19:17.10,Main,Aki,0,0,0,,I heard you went shopping.
+Dialogue: 0,0:19:17.76,0:19:20.47,Main,Aki,0,0,0,,Well? Did you find anything nice?
+Dialogue: 0,0:19:20.47,0:19:22.62,Main,Yoshino,0,0,0,,No, I...
+Dialogue: 0,0:19:23.43,0:19:26.14,Sign_Basic,Sign,0,0,0,,{\pos(218.667,254.667)\fnArial\b1\fs16\an4\shad0\3c&H845720&\c&HDCD1D2&\frz23.54\fax.1}Yoronpas
+Dialogue: 0,0:19:23.43,0:19:26.14,Sign_Basic,Sign,0,0,0,,{\fnArial\b1\fs8\an4\shad0\3c&H845720&\c&HDCD1D2&\frz23.54\pos(309.333,228)\fax.1}Tape
+Dialogue: 0,0:19:23.43,0:19:26.14,Main,Sign,0,0,0,,{\fnArial\b1\fs8\an4\shad0\3c&H845720&\c&HDCD1D2&\frz23.54\pos(327.334,255.333)\fax.1}Includes 6
+Dialogue: 0,0:19:23.43,0:19:26.14,Sign_Basic,Sign,0,0,0,,{\fnArial\b1\fs8\an8\shad0\c&H845720&\3c&HC1C2B5&\fax.1\pos(372,272)\frz22.3}Ointment
+Dialogue: 0,0:19:23.43,0:19:26.14,Sign_Basic,Sign,0,0,0,,{\fs6\shad0\3c&HA0874E&\pos(148.666,169.333)\frz21.79}Nikixin
+Dialogue: 0,0:19:23.43,0:19:26.14,Main,Sign,0,0,0,,{\fnArial\b1\fs10\an4\shad0\3c&H743C2A&\c&HB2A49A&\fax.1\frx326\fry348\frz343.1\pos(404.666,208.667)}Keshiro
+Dialogue: 0,0:19:23.43,0:19:26.14,Main,Sign,0,0,0,,{\fnArial\b1\fs10\an5\shad0\3c&HDBD7D7&\c&H393D44&\fax.2\frx22\fry4\frz25.22\pos(468,228.666)}Patappu – Pills
+Dialogue: 0,0:19:23.95,0:19:26.14,Main,Aki,0,0,0,,What? The first-aid kit?
+Dialogue: 0,0:19:26.71,0:19:28.80,Main,Yoshino,0,0,0,,I twisted my ankle.
+Dialogue: 0,0:19:28.80,0:19:31.60,Main,Aki,0,0,0,,Wait, you sprained it?! That's no good!
+Dialogue: 0,0:19:31.60,0:19:34.31,Main,Aki,0,0,0,,Honestly, you're such a klutz.
+Dialogue: 0,0:19:34.31,0:19:37.16,Main,Aki,0,0,0,,Here, have a seat. I'll treat you.
+Dialogue: 0,0:19:37.89,0:19:39.40,Main,Yoshino,0,0,0,,I'm fine...
+Dialogue: 0,0:19:39.40,0:19:40.78,Main,Aki,0,0,0,,Just sit already.
+Dialogue: 0,0:19:41.21,0:19:42.34,Main,Yoshino,0,0,0,,Ow!
+Dialogue: 0,0:19:47.20,0:19:49.93,Main,Aki,0,0,0,,This is really bad...
+Dialogue: 0,0:19:49.93,0:19:52.17,Main,Yoshino,0,0,0,,I'm honestly pretty surprised myself.
+Dialogue: 0,0:19:52.17,0:19:54.70,Main,Aki,0,0,0,,How did you even walk home like this?
+Dialogue: 0,0:19:54.70,0:19:55.88,Main,Yoshino,0,0,0,,Perseverance!
+Dialogue: 0,0:19:55.88,0:19:56.92,Main,Aki,0,0,0,,What?!
+Dialogue: 0,0:19:57.74,0:19:59.84,Main,Aki,0,0,0,,Anyway, all we can do now is ice it.
+Dialogue: 0,0:20:00.47,0:20:03.16,Main,Aki,0,0,0,,Make sure you go to the hospital tomorrow.
+Dialogue: 0,0:20:03.16,0:20:04.30,Main,Yoshino,0,0,0,,Okay.
+Dialogue: 0,0:20:06.04,0:20:08.72,Main,Yoshino,0,0,0,,Aki-sama, thank you very much.
+Dialogue: 0,0:20:09.10,0:20:12.94,Main,Aki,0,0,0,,What are you talking about?\NAnyone would do this much.
+Dialogue: 0,0:20:17.60,0:20:19.34,Italics,Yoshino,0,0,0,,Would they, though?
+Dialogue: 0,0:20:20.07,0:20:23.69,Italics,Yoshino,0,0,0,,I'm a traitorous witch.
+Dialogue: 0,0:20:25.72,0:20:27.83,Italics,Yoshino,0,0,0,,Even what happened today...
+Dialogue: 0,0:20:32.48,0:20:33.74,Main,Aki,0,0,0,,Yoshino?
+Dialogue: 0,0:20:34.80,0:20:35.58,Italics,Yoshino,0,0,0,,No...
+Dialogue: 0,0:20:36.53,0:20:38.54,Italics,Yoshino,0,0,0,,No, no, no...
+Dialogue: 0,0:20:39.75,0:20:44.38,Flashback,Masamune,0,0,0,,I think I had the most fun when \NI was devising my plan with you.
+Dialogue: 0,0:20:45.83,0:20:48.52,Italics,Yoshino,0,0,0,,This absolutely cannot happen...
+Dialogue: 0,0:20:49.50,0:20:52.30,Italics,Yoshino,0,0,0,,Why would you say\Nsomething like that, you idiot?
+Dialogue: 0,0:22:23.99,0:22:25.45,Main,Students,0,0,0,,Morning!
+Dialogue: 0,0:22:25.45,0:22:26.78,Main,Students,0,0,0,,Morning!
+Dialogue: 0,0:22:34.42,0:22:36.83,Main,Kojuurou,0,0,0,,Morning, Makabe-kun.
+Dialogue: 0,0:22:36.83,0:22:39.42,Main,Masamune,0,0,0,,H-Hey... Morning.
+Dialogue: 0,0:22:42.42,0:22:43.27,Main,Kojuurou,0,0,0,,Huh?
+Dialogue: 0,0:22:43.27,0:22:44.41,Main,Masamune,0,0,0,,What?
+Dialogue: 0,0:22:44.41,0:22:47.38,Main,Kojuurou,0,0,0,,Oh, I just realized you're by yourself today.
+Dialogue: 0,0:22:47.38,0:22:49.31,Main,Masamune,0,0,0,,By myself? What are you—
+Dialogue: 0,0:22:49.31,0:22:50.36,Main,Kojuurou,0,0,0,,Oh, no!
+Dialogue: 0,0:22:50.36,0:22:53.10,Main,Kojuurou,0,0,0,,I'm on duty in class today,\Nso I have to get there early!
+Dialogue: 0,0:22:53.10,0:22:54.92,Main,Kojuurou,0,0,0,,I'll see you later!
+Dialogue: 0,0:22:56.20,0:22:58.38,Main,Masamune,0,0,0,,You sure are busy bright and early.
+Dialogue: 0,0:23:01.22,0:23:02.44,Main,Yoshino,0,0,0,,That's a big yawn.
+Dialogue: 0,0:23:03.39,0:23:04.66,Main,Masamune,0,0,0,,Koiwai-san.
+Dialogue: 0,0:23:05.82,0:23:08.28,Main,Yoshino,0,0,0,,Don't call me that.
+Dialogue: 0,0:23:10.11,0:23:12.70,Main,Yoshino,0,0,0,,You're supposed to call me Yoshino, remember?
+Dialogue: 0,0:23:14.66,0:23:17.03,Italics,Masamune,0,0,0,,Th-This is...
+Dialogue: 0,0:23:17.62,0:23:21.43,Italics,Masamune,0,0,0,,This isn't right!
+Dialogue: 0,0:23:28.47,0:23:30.51,Main,Masamune,0,0,0,,A dream?
+Dialogue: 0,0:23:33.65,0:23:35.85,Italics,Masamune,0,0,0,,I think there are some feelings
+Dialogue: 0,0:23:35.85,0:23:39.54,Italics,Masamune,0,0,0,,that you should really never accept.

@@ -1,0 +1,533 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Internal,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Top Internal,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Sign,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,20,1
+Style: EpTitle,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0,0,20,1
+Style: Show Title,Trebuchet MS,24,&H000ADFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0,0,20,1
+Style: Flashback Internal,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.98,0:00:07.48,Default,Sitri,0,0,0,,Our total budget came \Nout to 950 million gil.
+Dialogue: 0,0:00:07.48,0:00:10.55,Default,Sitri,0,0,0,,Our chances of winning are about 70%.
+Dialogue: 0,0:00:10.55,0:00:14.47,Default,Sitri,0,0,0,,If it's all right with you, there\Nare more avenues I can explore...
+Dialogue: 0,0:00:13.51,0:00:14.47,Top,Krai,0,0,0,,Nah.
+Dialogue: 0,0:00:15.50,0:00:17.07,Default,Krai,0,0,0,,You've already done so much.
+Dialogue: 0,0:00:17.07,0:00:18.40,Default,Krai,0,0,0,,Thank you.
+Dialogue: 0,0:00:18.40,0:00:19.61,Default,Sitri,0,0,0,,It was noth—
+Dialogue: 0,0:00:18.76,0:00:20.57,Default,Liz,0,0,0,,Hey, Krai!
+Dialogue: 0,0:00:20.57,0:00:25.36,Default,Liz,0,0,0,,If you don't end up winning, I'll just \Nsteal it from that aristocrat brat for you.
+Dialogue: 0,0:00:25.89,0:00:27.49,Default,Sitri,0,0,0,,Liz!
+Dialogue: 0,0:00:27.49,0:00:30.82,Default,Sitri,0,0,0,,Doing something like that would \Njust put Krai under suspicion!
+Dialogue: 0,0:00:30.82,0:00:33.88,Default,Sitri,0,0,0,,You'll have to make it look like some \Nviolent bandits or something...
+Dialogue: 0,0:00:34.88,0:00:38.40,Default,Krai,0,0,0,,Let's end the joke there, shall we?
+Dialogue: 0,0:00:39.28,0:00:41.10,Internal,Krai(M),0,0,0,,The Reversible Face...
+Dialogue: 0,0:00:41.10,0:00:43.85,Internal,Krai(M),0,0,0,,I definitely want it, but...
+Dialogue: 0,0:00:42.52,0:00:44.29,Top,Liz,0,0,0,,Let go!
+Dialogue: 0,0:00:43.85,0:00:46.26,Internal,Krai(M),0,0,0,,I don't want any more trouble...
+Dialogue: 0,0:00:44.29,0:00:46.26,Top,Sitri,0,0,0,,You let go first!
+Dialogue: 0,0:00:46.89,0:00:49.87,Internal,Krai(M),0,0,0,,If I don't win it at today's \Nauction, I'll just give up.
+Dialogue: 0,0:00:50.35,0:00:53.84,Internal,Krai(M),0,0,0,,If I accrue more debt, \NEva will get really mad again.
+Dialogue: 0,0:00:54.51,0:00:57.43,Default,Grievers,0,0,0,,{\i1}Let This Grieving Soul Retire!{\i0}
+Dialogue: 0,0:00:54.82,0:01:00.78,Show Title,Grievers,0,0,0,,{\fad(900,700)\fscx95\fscy76\pos(324,89)}Let This Grieving Soul Retire
+Dialogue: 0,0:00:57.43,0:00:58.02,Default,Ansem,0,0,0,,Yup!
+Dialogue: 0,0:00:58.02,0:01:00.60,Default,Krai,0,0,0,,"I Want to Win the Bid No Matter What!"
+Dialogue: 0,0:00:58.07,0:01:00.78,EpTitle,title,0,0,0,,{\fad(300,600)\fs19\c&H00BAFF&\pos(321.076,211.623)}Episode 13
+Dialogue: 0,0:00:58.07,0:01:00.78,EpTitle,title,0,0,0,,{\fad(300,600)\fs22\bord2.5\c&HD1D1D1&\pos(319.476,306.27)}I Want to Win the Bid No Matter What
+Dialogue: 0,0:01:11.98,0:01:13.29,Default,Liz,0,0,0,,Wow!
+Dialogue: 0,0:01:13.29,0:01:15.04,Default,Liz,0,0,0,,So many people!
+Dialogue: 0,0:01:15.04,0:01:17.61,Default,Liz,0,0,0,,Are they all here to take \Npart in the auction?
+Dialogue: 0,0:01:17.61,0:01:19.53,Default,Krai,0,0,0,,A lot of spectators, too.
+Dialogue: 0,0:01:19.53,0:01:21.96,Default,Tino,0,0,0,,Good morning, Master!
+Dialogue: 0,0:01:21.96,0:01:24.48,Default,Krai,0,0,0,,Wait, you guys came, too?
+Dialogue: 0,0:01:24.48,0:01:25.66,Default,Krai,0,0,0,,You've become friends, huh?
+Dialogue: 0,0:01:25.66,0:01:28.60,Default,Tino,0,0,0,,Oh, no. I just came to see \Nyour magnificent self.
+Dialogue: 0,0:01:28.60,0:01:30.98,Default,Tino,0,0,0,,Then I randomly ran into them.
+Dialogue: 0,0:01:30.98,0:01:32.91,Default,Rhuda,0,0,0,,Long time no see, Krai.
+Dialogue: 0,0:01:31.45,0:01:34.85,Top,Tino,0,0,0,,Nice to see you both!
+Dialogue: 0,0:01:32.91,0:01:34.33,Default,Krai,0,0,0,,Hi, Rhuda.
+Dialogue: 0,0:01:34.33,0:01:35.77,Default,Greg,0,0,0,,So I've heard...
+Dialogue: 0,0:01:34.85,0:01:35.70,Top,Liz,0,0,0,,Heya.
+Dialogue: 0,0:01:35.70,0:01:37.23,Top,Sitri,0,0,0,,Hello, Tino.
+Dialogue: 0,0:01:36.47,0:01:39.86,Default,Greg,0,0,0,,there's some incredible relic \Nyou're trying to get your hands on.
+Dialogue: 0,0:01:39.86,0:01:42.24,Default,Gilbert,0,0,0,,Sounds like your debt's \Nthrough the roof, too!
+Dialogue: 0,0:01:42.45,0:01:44.94,Default,Krai,0,0,0,,Yeah, something like that.
+Dialogue: 0,0:01:44.94,0:01:48.27,Default,Krai,0,0,0,,But, Tino... How come you came by yourself?
+Dialogue: 0,0:01:48.27,0:01:50.95,Default,Krai,0,0,0,,You could've come with us.
+Dialogue: 0,0:01:50.95,0:01:52.37,Default,Tino,0,0,0,,Well...
+Dialogue: 0,0:01:52.37,0:01:55.26,Default,Tino,0,0,0,,I didn't get invited.
+Dialogue: 0,0:01:55.26,0:01:57.96,Internal,Krai(M),0,0,0,,Sorry, I completely forgot.
+Dialogue: 0,0:01:58.51,0:02:02.47,Default,Krai,0,0,0,,W-Well, I've been attracting\Na lot of unwelcome attention lately.
+Dialogue: 0,0:02:02.47,0:02:04.25,Default,Krai,0,0,0,,You probably shouldn't be around me.
+Dialogue: 0,0:02:03.89,0:02:05.75,Top,Girl,0,0,0,,That's Thousand Tricks.
+Dialogue: 0,0:02:04.25,0:02:05.12,Default,Krai,0,0,0,,Yup, yup!
+Dialogue: 0,0:02:05.75,0:02:07.47,Top,Guy,0,0,0,,I heard the relic is incredible.
+Dialogue: 0,0:02:07.47,0:02:09.65,Top,Guy2,0,0,0,,All-powerful, I heard.
+Dialogue: 0,0:02:08.97,0:02:11.86,Internal,Krai(M),0,0,0,,More attention than I even imagined.
+Dialogue: 0,0:02:11.86,0:02:12.87,Internal,Krai(M),0,0,0,,That's it!
+Dialogue: 0,0:02:12.87,0:02:16.15,Default,Krai,0,0,0,,Tino, how would you like to be \Nmy agent at the auction?
+Dialogue: 0,0:02:17.53,0:02:19.67,Default,Tino,0,0,0,,Your... agent?
+Dialogue: 0,0:02:19.67,0:02:20.40,Default,Krai,0,0,0,,Right.
+Dialogue: 0,0:02:20.40,0:02:23.41,Default,Krai,0,0,0,,When I give you the signal, \Nyou raise the paddle and bid.
+Dialogue: 0,0:02:26.34,0:02:29.06,Default,Tino,0,0,0,,13.27 million gil!
+Dialogue: 0,0:02:31.79,0:02:33.53,Default,Krai,0,0,0,,It's a rare opportunity,
+Dialogue: 0,0:02:33.53,0:02:36.22,Default,Krai,0,0,0,,so why don't you all enjoy yourselves, too?
+Dialogue: 0,0:02:36.22,0:02:37.12,Default,Rhuda,0,0,0,,Are you sure?
+Dialogue: 0,0:02:37.12,0:02:38.04,Default,Krai,0,0,0,,Sure.
+Dialogue: 0,0:02:38.04,0:02:40.15,Default,Krai,0,0,0,,I've done it tons of times already.
+Dialogue: 0,0:02:40.15,0:02:42.44,Default,Liz,0,0,0,,Aw, but I wanted to...
+Dialogue: 0,0:02:42.44,0:02:45.52,Default,Krai,0,0,0,,Come on, Liz. Don't make that \Nkind of disappointed face.
+Dialogue: 0,0:02:45.52,0:02:46.74,Default,Liz,0,0,0,,Fine.
+Dialogue: 0,0:02:46.74,0:02:47.30,Default,Liz,0,0,0,,Ti!
+Dialogue: 0,0:02:47.30,0:02:49.04,Default,Liz,0,0,0,,You better win this.
+Dialogue: 0,0:02:49.04,0:02:50.90,Default,Liz,0,0,0,,You know what happens if you don't.
+Dialogue: 0,0:02:50.90,0:02:52.11,Default,Tino,0,0,0,,Yes, ma'am!
+Dialogue: 0,0:02:52.11,0:02:53.28,Default,Tino,0,0,0,,You can count on me.
+Dialogue: 0,0:02:53.28,0:02:56.20,Default,Tino,0,0,0,,I will definitely win that mask!
+Dialogue: 0,0:02:56.95,0:02:59.77,Internal,Krai(M),0,0,0,,I mean, I'm the one who'll \Nbe giving her the signal,
+Dialogue: 0,0:02:59.77,0:03:02.71,Internal,Krai(M),0,0,0,,so if she doesn't win, \Nit won't be her fault...
+Dialogue: 0,0:03:10.04,0:03:12.47,Default,Sitri,0,0,0,,Looks like she prepared her funds.
+Dialogue: 0,0:03:12.47,0:03:13.92,Default,Krai,0,0,0,,What will be, will be.
+Dialogue: 0,0:03:17.06,0:03:18.62,Default,Emcee,0,0,0,,Sold!
+Dialogue: 0,0:03:18.62,0:03:21.22,Default,Emcee,0,0,0,,Entry number 14, the Mirror Shield,
+Dialogue: 0,0:03:21.22,0:03:26.30,Default,Emcee,0,0,0,,sold for 15 million gil \Nto bidder number 413!
+Dialogue: 0,0:03:27.71,0:03:30.65,Default,Emcee,0,0,0,,Next up, we have entry number 15.
+Dialogue: 0,0:03:30.65,0:03:34.47,Default,Liz,0,0,0,,So, Krai, when is your relic coming up?
+Dialogue: 0,0:03:34.47,0:03:35.72,Default,Liz,0,0,0,,Is it next? The one after?
+Dialogue: 0,0:03:36.07,0:03:38.41,Default,Krai,0,0,0,,Sorry, but it won't be \Ncoming out for a while.
+Dialogue: 0,0:03:38.41,0:03:41.25,Default,Krai,0,0,0,,It's a popular item, so I'm \Nguessing they're dragging it out.
+Dialogue: 0,0:03:41.53,0:03:44.74,Default,Liz,0,0,0,,What, it's last?
+Dialogue: 0,0:03:44.74,0:03:46.20,Internal,Krai(M),0,0,0,,Tell me about it.
+Dialogue: 0,0:03:46.20,0:03:47.96,Internal,Krai(M),0,0,0,,Since my funds are limited,
+Dialogue: 0,0:03:47.96,0:03:51.95,Internal,Krai(M),0,0,0,,I can't bid on anything else until \Nthe Reversible Face comes out.
+Dialogue: 0,0:03:51.95,0:03:53.98,Internal,Krai(M),0,0,0,,If it came out in the first half,
+Dialogue: 0,0:03:53.98,0:03:57.00,Internal,Krai(M),0,0,0,,I could bid on other relics afterward, too!
+Dialogue: 0,0:03:57.00,0:03:59.81,Default,Emcee,0,0,0,,Next up, we have entry number 16!
+Dialogue: 0,0:04:01.00,0:04:03.85,Default,Emcee,0,0,0,,Next up, we have entry number 17!
+Dialogue: 0,0:04:03.85,0:04:07.89,Default,Emcee,0,0,0,,This sword can change its length from \N30 centimeters to three meters at will!
+Dialogue: 0,0:04:06.25,0:04:09.01,Top Internal,Krai(M),0,0,0,,I want it! I want it!
+Dialogue: 0,0:04:09.72,0:04:12.44,Internal,Krai(M),0,0,0,,Is she urging me? Am I being urged?
+Dialogue: 0,0:04:12.44,0:04:15.68,Internal,Krai(M),0,0,0,,"Master, are you sure you \Ndon't want to buy that?"
+Dialogue: 0,0:04:15.68,0:04:18.27,Internal,Krai(M),0,0,0,,Is Tino testing me?!
+Dialogue: 0,0:04:18.27,0:04:19.59,Internal,Krai(M),0,0,0,,I want it!
+Dialogue: 0,0:04:19.59,0:04:20.40,Internal,Krai(M),0,0,0,,I want to participate!
+Dialogue: 0,0:04:20.40,0:04:22.16,Internal,Krai(M),0,0,0,,I want to participate in the auction!
+Dialogue: 0,0:04:22.16,0:04:23.77,Internal,Krai(M),0,0,0,,But the funds...
+Dialogue: 0,0:04:24.13,0:04:25.33,Internal,Krai(M),0,0,0,,But wait.
+Dialogue: 0,0:04:25.33,0:04:27.44,Internal,Krai(M),0,0,0,,I've still got an ace up my sleeve.
+Dialogue: 0,0:04:28.33,0:04:29.98,Internal,Krai(M),0,0,0,,No, no, hang on.
+Dialogue: 0,0:04:29.98,0:04:31.79,Internal,Krai(M),0,0,0,,I really can't do that.
+Dialogue: 0,0:04:31.79,0:04:33.50,Internal,Krai(M),0,0,0,,This isn't an emergency situation.
+Dialogue: 0,0:04:33.50,0:04:34.75,Internal,Krai(M),0,0,0,,Or is it?
+Dialogue: 0,0:04:34.75,0:04:36.46,Internal,Krai(M),0,0,0,,Is this not an emergency?
+Dialogue: 0,0:04:36.46,0:04:38.29,Internal,Krai(M),0,0,0,,It is, right?!
+Dialogue: 0,0:04:38.29,0:04:41.61,Default,Emcee,0,0,0,,Next up, we've got a cloak that \Nallows you to breathe underwater!
+Dialogue: 0,0:04:41.61,0:04:43.73,Internal,Krai(M),0,0,0,,I want it. I want it! I want it!
+Dialogue: 0,0:04:43.73,0:04:47.17,Internal,Krai(M),0,0,0,,Damn it, why do all the fun \Nrelics need to come out today?!
+Dialogue: 0,0:04:47.17,0:04:50.54,Internal,Krai(M),0,0,0,,If it weren't for the Reversible Face,\N I could have bought so many!
+Dialogue: 0,0:04:50.54,0:04:51.69,Internal,Krai(M),0,0,0,,Tino's looking at me again.
+Dialogue: 0,0:04:51.69,0:04:53.29,Internal,Krai(M),0,0,0,,She's looking at me!
+Dialogue: 0,0:04:53.29,0:04:55.14,Internal,Krai(M),0,0,0,,She's testing my love for relics!
+Dialogue: 0,0:04:55.14,0:04:57.69,Internal,Krai(M),0,0,0,,Do I even care about the mask anymore?!
+Dialogue: 0,0:04:57.93,0:04:59.30,Internal,Krai(M),0,0,0,,Quantity over quality?
+Dialogue: 0,0:04:59.30,0:05:04.33,Internal,Krai(M),0,0,0,,I feel like I'm quietly watching someone \Nelse take away the girl I like!
+Dialogue: 0,0:05:04.33,0:05:06.94,Default,Emcee,0,0,0,,Boots that can make you \Nlevitate one centimeter!
+Dialogue: 0,0:05:07.26,0:05:09.98,Internal,Krai(M),0,0,0,,Would you actually use \Nthose after buying them?!
+Dialogue: 0,0:05:09.98,0:05:11.21,Internal,Krai(M),0,0,0,,I would!
+Dialogue: 0,0:05:11.21,0:05:12.42,Internal,Krai(M),0,0,0,,So please give them to me!
+Dialogue: 0,0:05:12.42,0:05:15.15,Internal,Krai(M),0,0,0,,Argh, why aren't I wealthy?!
+Dialogue: 0,0:05:15.15,0:05:17.23,Internal,Krai(M),0,0,0,,I want relics! I want relics!
+Dialogue: 0,0:05:17.23,0:05:18.46,Internal,Krai(M),0,0,0,,I can't stand it anymore!
+Dialogue: 0,0:05:18.46,0:05:21.71,Internal,Krai(M),0,0,0,,I'm not proud of it, but I've got \Nless self-control than anyone else!
+Dialogue: 0,0:05:21.71,0:05:22.51,Internal,Krai(M),0,0,0,,Let's buy them.
+Dialogue: 0,0:05:22.51,0:05:23.55,Internal,Krai(M),0,0,0,,Let's give her the sign.
+Dialogue: 0,0:05:23.55,0:05:25.26,Internal,Krai(M),0,0,0,,I'm sure Tino will praise me for it, too.
+Dialogue: 0,0:05:25.26,0:05:28.09,Default,Emcee,0,0,0,,A crystal ball that predicts the \Nweather with 70 percent accuracy!
+Dialogue: 0,0:05:28.09,0:05:31.27,Internal,Krai(M),0,0,0,,I want it!
+Dialogue: 0,0:05:31.27,0:05:34.94,Internal,Krai(M),0,0,0,,Hold on. I may have an ace up my sleeve,
+Dialogue: 0,0:05:34.94,0:05:39.21,Internal,Krai(M),0,0,0,,but if I were to bid on another \Nrelic now, Sitri would...
+Dialogue: 0,0:05:40.77,0:05:44.11,Internal,Krai(M),0,0,0,,probably say nothing and \Nlet me get away with it.
+Dialogue: 0,0:05:44.80,0:05:46.28,Internal,Krai(M),0,0,0,,Has the time come?
+Dialogue: 0,0:05:47.14,0:05:48.37,Default,Sitri,0,0,0,,Krai?
+Dialogue: 0,0:05:48.59,0:05:49.86,Default,Liz,0,0,0,,What's up?
+Dialogue: 0,0:05:50.13,0:05:52.62,Internal,Krai(M),0,0,0,,This farce ends now.
+Dialogue: 0,0:05:53.11,0:05:55.93,Internal,Krai(M),0,0,0,,I will show you how terrifying \NI can really be.
+Dialogue: 0,0:05:56.35,0:05:58.19,Default,Krai,0,0,0,,Burn this image into your retinas!
+Dialogue: 0,0:05:58.19,0:06:00.69,Default,Krai,0,0,0,,This is Thousand Tricks going into \Ndebt with his childhood friends
+Dialogue: 0,0:06:00.69,0:06:02.62,Default,Krai,0,0,0,,to go on a relic-buying frenzy!
+Dialogue: 0,0:06:02.88,0:06:05.81,Default,Emcee,0,0,0,,Next up, we have entry number 44.
+Dialogue: 0,0:06:05.81,0:06:09.66,Default,Emcee,0,0,0,,An item from our empire's pride and joy, \Nthe Institute for Relic Research!
+Dialogue: 0,0:06:09.66,0:06:14.13,Default,Emcee,0,0,0,,A metal golem constructed\Nby a certain magic association!
+Dialogue: 0,0:06:14.13,0:06:15.76,Internal,Krai,0,0,0,,A golem?
+Dialogue: 0,0:06:15.76,0:06:17.51,Internal,Krai,0,0,0,,So not a relic?
+Dialogue: 0,0:06:18.91,0:06:21.04,Default,Liz,0,0,0,,Si, isn't that...?
+Dialogue: 0,0:06:21.04,0:06:21.77,Default,Sitri,0,0,0,,Huh?
+Dialogue: 0,0:06:22.04,0:06:23.14,Default,Sitri,0,0,0,,Akasha?
+Dialogue: 0,0:06:23.14,0:06:24.27,Default,Sitri,0,0,0,,What is it doing here?
+Dialogue: 0,0:06:24.79,0:06:26.17,Default,Krai,0,0,0,,Akasha?
+Dialogue: 0,0:06:26.92,0:06:28.37,Internal,Krai(M),0,0,0,,You mean...
+Dialogue: 0,0:06:28.97,0:06:33.42,Flashback,Sitri,0,0,0,,If possible, I'd like us to get our hands \Non the Akasha golem and the Malice Eaters.
+Dialogue: 0,0:06:35.42,0:06:38.40,Default,Emcee,0,0,0,,We'll start the bid at 30 million gil!
+Dialogue: 0,0:06:38.40,0:06:39.60,Default,Emcee,0,0,0,,I've got 30 million.
+Dialogue: 0,0:06:39.60,0:06:41.42,Default,Emcee,0,0,0,,35 million.
+Dialogue: 0,0:06:41.42,0:06:42.88,Default,Emcee,0,0,0,,40 million!
+Dialogue: 0,0:06:42.88,0:06:44.20,Top,Emcee,0,0,0,,Over there, 50 million.
+Dialogue: 0,0:06:43.42,0:06:46.30,Default,Krai,0,0,0,,Sitri, what do you want to do?
+Dialogue: 0,0:06:46.30,0:06:48.43,Default,Sitri,0,0,0,,Nothing. It's fine.
+Dialogue: 0,0:06:48.43,0:06:52.73,Default,Sitri,0,0,0,,If I bid on that, we won't \Nbe able to get your relic.
+Dialogue: 0,0:06:53.35,0:06:54.77,Default,Sitri,0,0,0,,It's just that...
+Dialogue: 0,0:06:54.77,0:06:58.31,Default,Sitri,0,0,0,,creating that took an enormous \Namount of my time and money.
+Dialogue: 0,0:06:58.31,0:07:01.82,Default,Sitri,0,0,0,,But that's not the only \Nthing that's important.
+Dialogue: 0,0:07:01.82,0:07:04.83,Default,Sitri,0,0,0,,I don't know how anyone else feels,
+Dialogue: 0,0:07:04.83,0:07:07.48,Default,Sitri,0,0,0,,but to me, it's like a \Nmemento of my colleagues.
+Dialogue: 0,0:07:07.91,0:07:09.86,Default,Krai,0,0,0,,So it has sentimental value?
+Dialogue: 0,0:07:10.35,0:07:12.98,Default,Sitri,0,0,0,,It's fine. Don't worry about me.
+Dialogue: 0,0:07:12.98,0:07:15.30,Default,Sitri,0,0,0,,I'm totally fine.
+Dialogue: 0,0:07:16.55,0:07:18.67,Default,Krai,0,0,0,,You're such a liar, Sitri.
+Dialogue: 0,0:07:31.20,0:07:34.52,Default,Emcee,0,0,0,,We've got 300 million gil!
+Dialogue: 0,0:07:34.92,0:07:36.90,Default,Emcee,0,0,0,,And now, we've got 330 million.
+Dialogue: 0,0:07:36.90,0:07:38.50,Default,Emcee,0,0,0,,The bid is still climbing higher!
+Dialogue: 0,0:07:38.92,0:07:40.51,Default,Emcee,0,0,0,,330 million!
+Dialogue: 0,0:07:40.51,0:07:42.26,Default,Emcee,0,0,0,,380 million!
+Dialogue: 0,0:07:43.88,0:07:45.29,Default,Sitri,0,0,0,,Krai.
+Dialogue: 0,0:07:45.93,0:07:48.13,Default,Sitri,0,0,0,,Are you really sure?
+Dialogue: 0,0:07:48.13,0:07:51.15,Default,Sitri,0,0,0,,If you keep going, we won't \Nbe able to get your relic.
+Dialogue: 0,0:07:51.15,0:07:51.96,Default,Krai,0,0,0,,It's fine.
+Dialogue: 0,0:07:51.96,0:07:54.41,Default,Krai,0,0,0,,This is how money is meant to be used.
+Dialogue: 0,0:07:54.41,0:07:56.55,Default,Liz,0,0,0,,You go, Krai.
+Dialogue: 0,0:07:57.10,0:08:01.00,Internal,Krai(M),0,0,0,,It's all basically Sitri's money, anyway.
+Dialogue: 0,0:08:01.00,0:08:02.22,Default,Emcee,0,0,0,,400 million!
+Dialogue: 0,0:08:02.22,0:08:04.30,Default,Emcee,0,0,0,,And we've already passed it!
+Dialogue: 0,0:08:04.30,0:08:06.30,Default,Emcee,0,0,0,,All right, 410 million!
+Dialogue: 0,0:08:06.30,0:08:08.60,Default,Emcee,0,0,0,,We've got 430 million!
+Dialogue: 0,0:08:09.40,0:08:12.92,Internal,Krai(M),0,0,0,,Sitri usually endures things in silence.
+Dialogue: 0,0:08:09.64,0:08:10.78,Top,Emcee,0,0,0,,440 million!
+Dialogue: 0,0:08:10.78,0:08:11.68,Top,Emcee,0,0,0,,450 million!
+Dialogue: 0,0:08:11.68,0:08:13.40,Top,Emcee,0,0,0,,There it is, 470 million!
+Dialogue: 0,0:08:12.92,0:08:15.99,Internal,Krai(M),0,0,0,,But look at her face...
+Dialogue: 0,0:08:13.40,0:08:15.21,Top,Emcee,0,0,0,,480 million!
+Dialogue: 0,0:08:15.21,0:08:16.36,Top,Emcee,0,0,0,,Can we get 490 million?!
+Dialogue: 0,0:08:16.34,0:08:19.94,Internal,Krai(M),0,0,0,,The Akashic Tower probably \Nstole skills and inventions
+Dialogue: 0,0:08:19.94,0:08:23.97,Internal,Krai(M),0,0,0,,from her alchemist colleagues \Nto build that golem.
+Dialogue: 0,0:08:23.97,0:08:25.97,Internal,Krai(M),0,0,0,,Or something like that.
+Dialogue: 0,0:08:25.97,0:08:27.68,Internal,Krai(M),0,0,0,,That's why she called it a memento.
+Dialogue: 0,0:08:27.68,0:08:29.11,Default,Emcee,0,0,0,,500 million!
+Dialogue: 0,0:08:29.11,0:08:31.61,Default,Emcee,0,0,0,,We're now at 500 million!
+Dialogue: 0,0:08:31.61,0:08:33.40,Internal,Krai(M),0,0,0,,500 million?
+Dialogue: 0,0:08:33.40,0:08:36.37,Internal,Krai(M),0,0,0,,I could buy so many other relics with that!
+Dialogue: 0,0:08:36.68,0:08:38.73,Default,Sitri,0,0,0,,That's enough, Krai.
+Dialogue: 0,0:08:38.73,0:08:41.18,Default,Sitri,0,0,0,,If we keep this up, we won't \Nbe able to buy your relic.
+Dialogue: 0,0:08:41.18,0:08:42.57,Default,Krai,0,0,0,,Don't worry about that.
+Dialogue: 0,0:08:42.57,0:08:43.28,Default,Sitri,0,0,0,,Huh?
+Dialogue: 0,0:08:43.73,0:08:48.39,Default,Krai,0,0,0,,Actually, I've been collecting money \Nto get this golem all along.
+Dialogue: 0,0:08:48.39,0:08:49.89,Default,Sitri,0,0,0,,Krai...
+Dialogue: 0,0:08:49.89,0:08:53.57,Default,Liz,0,0,0,,But Si's budget is 950 million gil.
+Dialogue: 0,0:08:53.57,0:08:56.81,Default,Liz,0,0,0,,Let's just hope the others \Ngive up before then.
+Dialogue: 0,0:08:57.55,0:09:00.17,Default,Emcee,0,0,0,,760 million gil!
+Dialogue: 0,0:09:00.75,0:09:02.89,Default,Emcee,0,0,0,,830 million gil!
+Dialogue: 0,0:09:05.26,0:09:08.53,Default,Emcee,0,0,0,,Yes, over there, 950 million gil!
+Dialogue: 0,0:09:10.27,0:09:11.19,Internal,Krai(M),0,0,0,,Don't.
+Dialogue: 0,0:09:11.61,0:09:15.31,Internal,Krai(M),0,0,0,,Don't. Don't. Don't. Don't!
+Dialogue: 0,0:09:16.23,0:09:17.67,Default,Emcee,0,0,0,,There it is!
+Dialogue: 0,0:09:17.67,0:09:20.39,Default,Emcee,0,0,0,,990 million gil!
+Dialogue: 0,0:09:24.03,0:09:26.33,Default,Liz,0,0,0,,Over our budget.
+Dialogue: 0,0:09:28.34,0:09:29.17,Default,Tino,0,0,0,,Huh?
+Dialogue: 0,0:09:30.13,0:09:31.22,Default,Tino,0,0,0,,What?!
+Dialogue: 0,0:09:33.53,0:09:35.67,Default,Emcee,0,0,0,,Entry number 44.
+Dialogue: 0,0:09:35.67,0:09:40.62,Default,Emcee,0,0,0,,The silver golem has been sold for \N1 billion and 60 million gil!
+Dialogue: 0,0:09:42.51,0:09:43.55,Default,Krai,0,0,0,,Oh, boy.
+Dialogue: 0,0:09:43.98,0:09:46.68,Default,Krai,0,0,0,,Looks like their limit was 1 billion.
+Dialogue: 0,0:09:47.11,0:09:48.70,Default,Sitri,0,0,0,,Krai...
+Dialogue: 0,0:09:49.06,0:09:52.08,Default,Liz,0,0,0,,That was 110 million over our budget!
+Dialogue: 0,0:09:52.08,0:09:54.52,Default,Liz,0,0,0,,It's a serious crime if you can't pay up!
+Dialogue: 0,0:09:54.52,0:09:56.70,Default,Liz,0,0,0,,Oh, but Ti placed the bid,\Nso it's not our problem.
+Dialogue: 0,0:09:56.70,0:09:58.21,Default,Krai,0,0,0,,Don't worry.
+Dialogue: 0,0:09:58.21,0:09:59.46,Default,Krai,0,0,0,,I've got an ace up my sleeve.
+Dialogue: 0,0:10:00.49,0:10:01.78,Default,Liz,0,0,0,,Krai?
+Dialogue: 0,0:10:04.18,0:10:05.22,Default,Krai,0,0,0,,Sitri.
+Dialogue: 0,0:10:06.48,0:10:07.95,Default,Krai,0,0,0,,With this, we have exactly enough.
+Dialogue: 0,0:10:08.36,0:10:10.48,Default,Krai,0,0,0,,So go pay.
+Dialogue: 0,0:10:11.26,0:10:12.80,Default,Sitri,0,0,0,,Krai...
+Dialogue: 0,0:10:13.37,0:10:15.62,Default,Sitri,0,0,0,,Thank you so much!
+Dialogue: 0,0:10:15.62,0:10:17.41,Default,Sitri,0,0,0,,I promise to pay you back!
+Dialogue: 0,0:10:17.81,0:10:18.94,Default,Krai,0,0,0,,Yup, yup.
+Dialogue: 0,0:10:19.40,0:10:21.73,Default,Liz,0,0,0,,You go, Krai.
+Dialogue: 0,0:10:22.09,0:10:25.47,Internal,Krai(M),0,0,0,,Well, if you're going to pay \Nit back, it goes to Lucia.
+Dialogue: 0,0:10:25.74,0:10:27.57,Internal,Krai(M),0,0,0,,Ever seen an older brother
+Dialogue: 0,0:10:27.57,0:10:31.53,Internal,Krai(M),0,0,0,,use half of his little sister's \Nsavings for his childhood friend?
+Dialogue: 0,0:10:31.53,0:10:32.64,Internal,Krai(M),0,0,0,,Have you?!
+Dialogue: 0,0:10:32.64,0:10:37.50,Default,Emcee,0,0,0,,We have now received information \Nabout the metal golem's bidder!
+Dialogue: 0,0:10:37.50,0:10:41.86,Default,Emcee,0,0,0,,Setting a record bid at \N1 billion and 60 million gil...
+Dialogue: 0,0:10:42.49,0:10:45.31,Default,Emcee,0,0,0,,is bidder number 66!
+Dialogue: 0,0:10:45.31,0:10:50.00,Default,Emcee,0,0,0,,His name is Greg Zangief!
+Dialogue: 0,0:10:50.78,0:10:53.26,Default,Krai,0,0,0,,Why is it The Great Greg?
+Dialogue: 0,0:10:53.52,0:10:55.63,Default,Greg,0,0,0,,One billion...
+Dialogue: 0,0:10:58.15,0:11:00.00,Top,Guy,0,0,0,,How do you feel, Greg?
+Dialogue: 0,0:10:59.24,0:11:01.52,Default,Tino,0,0,0,,Master, I'm really sorry.
+Dialogue: 0,0:11:01.52,0:11:05.52,Default,Tino,0,0,0,,I didn't actually know\Nhow to bid in an auction.
+Dialogue: 0,0:11:05.52,0:11:08.26,Default,Tino,0,0,0,,Greg said he did, \Nso I asked him to handle it.
+Dialogue: 0,0:11:08.26,0:11:09.64,Default,Tino,0,0,0,,Then this happened...
+Dialogue: 0,0:11:09.64,0:11:13.01,Default,Krai,0,0,0,,Don't worry about it.
+Dialogue: 0,0:11:13.26,0:11:15.73,Internal,Krai(M),0,0,0,,Greg is a veteran hunter.
+Dialogue: 0,0:11:15.73,0:11:18.91,Internal,Krai(M),0,0,0,,I'm sure he won't flap his \Ngums about me and Sitri.
+Dialogue: 0,0:11:18.91,0:11:21.95,Default,Gilbert,0,0,0,,It looks like you've spent a lot of money,
+Dialogue: 0,0:11:21.95,0:11:24.03,Default,Gilbert,0,0,0,,so what are you gonna do about that relic?
+Dialogue: 0,0:11:24.03,0:11:26.22,Default,Rhuda,0,0,0,,It's still due to appear, right?
+Dialogue: 0,0:11:26.22,0:11:27.42,Default,Krai,0,0,0,,It's fine.
+Dialogue: 0,0:11:27.42,0:11:28.92,Default,Krai,0,0,0,,I got what I wanted, anyway.
+Dialogue: 0,0:11:29.19,0:11:30.30,Default,Gilbert,0,0,0,,Really?
+Dialogue: 0,0:11:30.30,0:11:31.16,Default,Krai,0,0,0,,Yeah.
+Dialogue: 0,0:11:31.16,0:11:33.99,Default,Krai,0,0,0,,I'm pretty tired, so I'm headed home now.
+Dialogue: 0,0:11:34.35,0:11:37.45,Default,Krai,0,0,0,,It looks like Sitri and the others\Nwill have to pick up the golem.
+Dialogue: 0,0:11:37.45,0:11:39.49,Default,Krai,0,0,0,,You guys stay here and have a good time.
+Dialogue: 0,0:11:41.76,0:11:43.31,Default,Tino,0,0,0,,Master...
+Dialogue: 0,0:11:44.62,0:11:47.67,Default,Emcee,0,0,0,,I know we're all having a great time!
+Dialogue: 0,0:11:47.67,0:11:50.67,Default,Emcee,0,0,0,,Ladies and gentlemen, the relic \Nyou've all been waiting for...
+Dialogue: 0,0:11:50.67,0:11:53.17,Default,Emcee,0,0,0,,is about to take center stage!
+Dialogue: 0,0:11:59.15,0:12:03.96,Flashback,Éclair,0,0,0,,I swear, I will definitely give \Nthat all-powerful relic to Ark!
+Dialogue: 0,0:12:04.31,0:12:07.00,Internal,Krai(M),0,0,0,,Oh, right!
+Dialogue: 0,0:12:08.25,0:12:09.85,Default,Krai,0,0,0,,Let me get straight to the point.
+Dialogue: 0,0:12:10.54,0:12:13.31,Default,Krai,0,0,0,,Please go see Lady Éclair right away.
+Dialogue: 0,0:12:13.31,0:12:14.83,Default,Krai,0,0,0,,Everything will be made clear.
+Dialogue: 0,0:12:15.07,0:12:16.93,Default,Ark,0,0,0,,Is this about that one relic?
+Dialogue: 0,0:12:16.93,0:12:19.08,Default,Ark,0,0,0,,I heard she wanted to win the bid for it.
+Dialogue: 0,0:12:19.08,0:12:20.34,Default,Krai,0,0,0,,Yeah.
+Dialogue: 0,0:12:20.34,0:12:23.64,Default,Krai,0,0,0,,I don't know if she heard my warning or not,
+Dialogue: 0,0:12:24.28,0:12:26.33,Default,Krai,0,0,0,,but that thing's a bit dangerous.
+Dialogue: 0,0:12:26.33,0:12:27.56,Default,Isabella,0,0,0,,Hey!
+Dialogue: 0,0:12:27.56,0:12:29.86,Default,Isabella,0,0,0,,You're giving us vague information again!
+Dialogue: 0,0:12:29.86,0:12:32.26,Default,Isabella,0,0,0,,Are you trying to make Ark your gofer?
+Dialogue: 0,0:12:30.51,0:12:31.91,Default,Benetta,0,0,0,,Yup, yup.
+Dialogue: 0,0:12:32.85,0:12:34.85,Default,Isabella,0,0,0,,Go yourself!
+Dialogue: 0,0:12:36.40,0:12:37.86,Default,Ark,0,0,0,,A dangerous relic?
+Dialogue: 0,0:12:37.86,0:12:39.87,Default,Krai,0,0,0,,Yes, in a way.
+Dialogue: 0,0:12:40.28,0:12:42.23,Default,Krai,0,0,0,,But you can handle it.
+Dialogue: 0,0:12:42.23,0:12:44.41,Default,Krai,0,0,0,,If you go now, I think \Nyou'll make it in time.
+Dialogue: 0,0:12:45.41,0:12:46.78,Default,Ark,0,0,0,,I see.
+Dialogue: 0,0:12:46.78,0:12:48.00,Default,Ark,0,0,0,,Do I need weapons?
+Dialogue: 0,0:12:48.00,0:12:48.72,Default,Krai,0,0,0,,Huh?
+Dialogue: 0,0:12:49.15,0:12:51.23,Default,Krai,0,0,0,,Oh. No, you don't.
+Dialogue: 0,0:12:51.23,0:12:53.63,Default,Krai,0,0,0,,In fact, I think it's \Nbest if you don't take any.
+Dialogue: 0,0:12:53.63,0:12:55.18,Default,Ark,0,0,0,,And what if I'm too late?
+Dialogue: 0,0:12:59.64,0:13:01.37,Default,Krai,0,0,0,,Then I'll be sad.
+Dialogue: 0,0:13:03.74,0:13:05.12,Internal,Krai(M),0,0,0,,All set.
+Dialogue: 0,0:13:05.60,0:13:08.15,Internal,Krai(M),0,0,0,,Lady Éclair will give Ark the relic.
+Dialogue: 0,0:13:08.15,0:13:11.14,Internal,Krai(M),0,0,0,,Then I'll buy it off him for \Nthe friends-and-family price.
+Dialogue: 0,0:13:11.47,0:13:13.95,Internal,Krai(M),0,0,0,,Why didn't I do this from the start?
+Dialogue: 0,0:13:13.95,0:13:14.97,Internal,Krai(M),0,0,0,,Yup, yup.
+Dialogue: 0,0:13:15.29,0:13:18.52,Internal,Krai(M),0,0,0,,The problem is whether or not\NArk will accept the gift...
+Dialogue: 0,0:13:18.76,0:13:22.45,Default,Krai,0,0,0,,Knowing her, she'd probably throw\N a temper tantrum if he didn't.
+Dialogue: 0,0:13:22.45,0:13:24.41,Default,Krai,0,0,0,,In the end, he'll have to take it.
+Dialogue: 0,0:13:24.81,0:13:27.24,Default,Krai,0,0,0,,I'm going to have to thank him!
+Dialogue: 0,0:13:29.42,0:13:30.64,Default,Krai,0,0,0,,I know!
+Dialogue: 0,0:13:35.13,0:13:36.68,Flashback,Earl Gladis,0,0,0,,He let you win.
+Dialogue: 0,0:13:36.68,0:13:38.75,Flashback,Éclair,0,0,0,,Why do you say that, Father?
+Dialogue: 0,0:13:39.16,0:13:41.69,Flashback,Éclair,0,0,0,,I won the bid for the relic.
+Dialogue: 0,0:13:41.69,0:13:43.00,Flashback,Éclair,0,0,0,,I won against him!
+Dialogue: 0,0:13:43.00,0:13:44.55,Flashback,Earl Gladis,0,0,0,,Do you still not see?
+Dialogue: 0,0:13:45.46,0:13:49.53,Flashback,Montaure,0,0,0,,Thousand Tricks has already \Nleft the auction hall.
+Dialogue: 0,0:13:49.53,0:13:54.69,Flashback,Montaure,0,0,0,,I also have a report that he had \Nfunds far beyond 200 million...
+Dialogue: 0,0:13:55.00,0:13:59.93,Flashback,Earl Gladis,0,0,0,,Win or lose, if he were to take \Nus on, some ill will would remain.
+Dialogue: 0,0:14:00.21,0:14:02.11,Flashback,Earl Gladis,0,0,0,,This is utterly vexing!
+Dialogue: 0,0:14:02.11,0:14:06.63,Flashback,Earl Gladis,0,0,0,,We spent 200 million just to learn \Nhow capable Thousand Tricks is.
+Dialogue: 0,0:14:08.39,0:14:10.46,Default,Éclair,0,0,0,,He took pity on me.
+Dialogue: 0,0:14:10.46,0:14:12.22,Default,Éclair,0,0,0,,He let me win.
+Dialogue: 0,0:14:12.53,0:14:15.54,Default,Éclair,0,0,0,,And what did I gain? This creepy thing.
+Dialogue: 0,0:14:15.54,0:14:17.95,Default,Éclair,0,0,0,,I can't give this to Ark.
+Dialogue: 0,0:14:18.55,0:14:21.08,Default,Éclair,0,0,0,,How can {\i1}this{\i0} be the all-powerful relic?
+Dialogue: 0,0:14:21.50,0:14:24.26,Default,Éclair,0,0,0,,I'm so... powerless...
+Dialogue: 0,0:14:24.26,0:14:26.27,Default,Mask,0,0,0,,Do you desire power?
+Dialogue: 0,0:14:27.26,0:14:28.01,Default,Éclair,0,0,0,,Sorry?
+Dialogue: 0,0:14:28.35,0:14:30.21,Default,Mask,0,0,0,,I've been watching all this time.
+Dialogue: 0,0:14:31.09,0:14:33.34,Default,Mask,0,0,0,,Lament. Sorrow.
+Dialogue: 0,0:14:33.34,0:14:35.21,Default,Mask,0,0,0,,Wrath. Despair.
+Dialogue: 0,0:14:35.85,0:14:41.01,Default,Mask,0,0,0,,You are fit to receive my power, weak one.
+Dialogue: 0,0:14:41.84,0:14:44.61,Default,Mask,0,0,0,,I elevate people.
+Dialogue: 0,0:14:44.88,0:14:48.57,Default,Mask,0,0,0,,I give hope to those who are weary.
+Dialogue: 0,0:14:53.26,0:14:55.04,Flashback,Arnold,0,0,0,,Answer me, Thousand Tricks.
+Dialogue: 0,0:14:55.04,0:14:56.59,Flashback,Arnold,0,0,0,,What does this mask do?
+Dialogue: 0,0:14:57.11,0:14:59.10,Flashback,Krai,0,0,0,,That I cannot say.
+Dialogue: 0,0:14:59.10,0:15:01.37,Flashback,Krai,0,0,0,,But if my predictions are right,
+Dialogue: 0,0:15:01.37,0:15:03.38,Flashback,Krai,0,0,0,,that relic is a bit dangerous.
+Dialogue: 0,0:15:03.38,0:15:04.89,Flashback,Krai,0,0,0,,Dangerous... {\fs20}Dangerous...
+Dialogue: 0,0:15:07.56,0:15:09.13,Default,Ark,0,0,0,,I see.
+Dialogue: 0,0:15:09.13,0:15:11.21,Default,Ark,0,0,0,,So Lady Éclair did that for me...
+Dialogue: 0,0:15:11.56,0:15:13.25,Default,Earl Gladis,0,0,0,,What a pointless endeavor.
+Dialogue: 0,0:15:13.25,0:15:18.13,Default,Earl Gladis,0,0,0,,Did she really believe that you'd see any \Nvalue in gaining strength from a relic?
+Dialogue: 0,0:15:18.40,0:15:22.36,Default,Earl Gladis,0,0,0,,Éclair has kept herself shut up \Nin her room since last evening.
+Dialogue: 0,0:15:22.36,0:15:25.52,Default,Earl Gladis,0,0,0,,But I'm sure she would come out for you.
+Dialogue: 0,0:15:25.87,0:15:27.84,Default,Earl Gladis,0,0,0,,Thank you for coming. It's a great help.
+Dialogue: 0,0:15:27.84,0:15:28.90,Default,Ark,0,0,0,,It's nothing.
+Dialogue: 0,0:15:29.39,0:15:32.17,Internal,Ark(M),0,0,0,,Krai, what were you thinking?
+Dialogue: 0,0:15:32.17,0:15:36.72,Internal,Ark(M),0,0,0,,What are you trying to do, pushing \Na 10-year-old girl into this kind of state?
+Dialogue: 0,0:15:36.72,0:15:38.65,Internal,Ark(M),0,0,0,,Why did you make me come here?
+Dialogue: 0,0:15:40.22,0:15:41.58,Default,Earl Gladis,0,0,0,,What was that?!
+Dialogue: 0,0:15:41.58,0:15:42.77,Default,Ark,0,0,0,,Excuse me!
+Dialogue: 0,0:15:45.02,0:15:46.39,Default,Isabella,0,0,0,,Benetta, directions!
+Dialogue: 0,0:15:46.39,0:15:48.16,Default,Ven,0,0,0,,Left, and then the third right!
+Dialogue: 0,0:15:59.31,0:16:01.30,Default,Éclair,0,0,0,,Don't patronize me.
+Dialogue: 0,0:16:01.30,0:16:03.56,Default,Éclair,0,0,0,,Don't look at me like that!
+Dialogue: 0,0:16:05.06,0:16:06.55,Default,Éclair,0,0,0,,Don't patronize me!
+Dialogue: 0,0:16:06.55,0:16:08.24,Default,Éclair,0,0,0,,I am...
+Dialogue: 0,0:16:06.69,0:16:08.24,Default,Isabella,0,0,0,,Lady Éclair!
+Dialogue: 0,0:16:08.24,0:16:10.46,Default,Ark,0,0,0,,Could that mask be... the relic?
+Dialogue: 0,0:16:10.74,0:16:14.34,Default,Éclair,0,0,0,,Don't look at me like that!
+Dialogue: 0,0:16:17.38,0:16:20.41,Default,Éclair,0,0,0,,I've become strong!
+Dialogue: 0,0:16:20.41,0:16:23.17,Default,Éclair,0,0,0,,I'll kill anyone who mocks me!
+Dialogue: 0,0:16:27.26,0:16:28.47,Default,Yu,0,0,0,,Ark...
+Dialogue: 0,0:16:29.12,0:16:31.45,Default,Ark,0,0,0,,Lady Éclair. It's me.
+Dialogue: 0,0:16:31.75,0:16:33.99,Default,Éclair,0,0,0,,A-Ark...?
+Dialogue: 0,0:16:33.99,0:16:35.44,Default,Éclair,0,0,0,,Ark, is that you?
+Dialogue: 0,0:16:36.37,0:16:38.52,Default,Ark,0,0,0,,What in the world happened here?
+Dialogue: 0,0:16:38.52,0:16:40.82,Default,Éclair,0,0,0,,I got this...
+Dialogue: 0,0:16:40.82,0:16:44.03,Default,Éclair,0,0,0,,It's the world's strongest relic,\N and I got it for you.
+Dialogue: 0,0:16:44.03,0:16:46.34,Default,Éclair,0,0,0,,I fought to get this, and yet...
+Dialogue: 0,0:16:46.34,0:16:47.58,Default,Éclair,0,0,0,,Why?
+Dialogue: 0,0:16:47.58,0:16:48.79,Default,Éclair,0,0,0,,Why do I...
+Dialogue: 0,0:16:48.79,0:16:50.08,Default,Éclair,0,0,0,,Do I...
+Dialogue: 0,0:16:50.08,0:16:51.48,Default,Ark,0,0,0,,Thank you very much.
+Dialogue: 0,0:16:51.48,0:16:54.42,Default,Ark,0,0,0,,It's all right now, Lady Éclair.
+Dialogue: 0,0:16:54.71,0:16:58.02,Default,Ark,0,0,0,,Would you take off the \Nmask and let me have it?
+Dialogue: 0,0:17:02.20,0:17:04.62,Default,Éclair,0,0,0,,Why, Ark?
+Dialogue: 0,0:17:04.62,0:17:08.16,Default,Éclair,0,0,0,,Why did you bring that?
+Dialogue: 0,0:17:09.37,0:17:10.76,Flashback,Krai,0,0,0,,Oh. No, you don't.
+Dialogue: 0,0:17:10.76,0:17:13.17,Flashback,Krai,0,0,0,,In fact, I think it's \Nbest if you don't take any.
+Dialogue: 0,0:17:19.69,0:17:22.55,Default,Ark,0,0,0,,Everyone, select your spells \Nand attacks very carefully!
+Dialogue: 0,0:17:22.76,0:17:26.47,Default,Ark,0,0,0,,We will remove the mask without \Nharming a hair on Lady Éclair's head!
+Dialogue: 0,0:17:27.70,0:17:29.79,Default,Ark,0,0,0,,On my honor as Ark Brave,
+Dialogue: 0,0:17:33.55,0:17:35.07,Default,Ark,0,0,0,,we will succeed!
+Dialogue: 0,0:17:35.07,0:17:35.81,Default,All,0,0,0,,Yes, sir!
+Dialogue: 0,0:17:37.33,0:17:40.81,Default,Éclair,0,0,0,,I am strong! I am strong!
+Dialogue: 0,0:17:40.81,0:17:43.44,Default,Éclair,0,0,0,,Nobody can mock me! Nobody can mock me!
+Dialogue: 0,0:17:43.44,0:17:47.91,Default,Éclair,0,0,0,,I'm all-powerful!
+Dialogue: 0,0:17:54.29,0:17:57.25,Default,Eigh,0,0,0,,Man, it really makes you laugh, right?
+Dialogue: 0,0:17:57.25,0:18:00.89,Default,Eigh,0,0,0,,That creepy mask going\N for 200 million gil!
+Dialogue: 0,0:18:00.89,0:18:04.99,Default,Juster,0,0,0,,Sorry, but truth be told, I thought \Nit would sell for even more!
+Dialogue: 0,0:18:04.99,0:18:06.87,Default,Arnold,0,0,0,,You're too greedy.
+Dialogue: 0,0:18:06.87,0:18:09.54,Default,Arnold,0,0,0,,200 million for that thing\N is more than enough.
+Dialogue: 0,0:18:09.54,0:18:11.65,Default,Liz,0,0,0,,You're late, losers!
+Dialogue: 0,0:18:12.10,0:18:15.99,Default,Liz,0,0,0,,Since when are any of you in the \Nposition to keep me waiting?
+Dialogue: 0,0:18:15.99,0:18:17.11,Default,Liz,0,0,0,,I'll kill you.
+Dialogue: 0,0:18:17.11,0:18:19.19,Default,Arnold,0,0,0,,What the hell do you want?
+Dialogue: 0,0:18:19.19,0:18:21.12,Default,Sitri,0,0,0,,It's an important yet simple matter.
+Dialogue: 0,0:18:21.12,0:18:25.13,Default,Sitri,0,0,0,,Krai's scheme is the reason \Nyour relic yielded such a profit.
+Dialogue: 0,0:18:25.13,0:18:27.37,Default,Sitri,0,0,0,,Which means he deserves a cut.
+Dialogue: 0,0:18:27.64,0:18:30.52,Default,Eigh,0,0,0,,What?! You really think \Nwe'd go along with that?!
+Dialogue: 0,0:18:30.52,0:18:31.37,Default,Eigh,0,0,0,,Huh?
+Dialogue: 0,0:18:31.37,0:18:33.44,Default,Sitri,0,0,0,,I didn't say it would be for nothing.
+Dialogue: 0,0:18:33.44,0:18:36.63,Default,Sitri,0,0,0,,I'll sell this to you for 110 million gil.
+Dialogue: 0,0:18:36.87,0:18:38.39,Default,Arnold,0,0,0,,What is that?
+Dialogue: 0,0:18:38.73,0:18:40.38,Default,Sitri,0,0,0,,It's an antidote.
+Dialogue: 0,0:18:40.38,0:18:42.89,Default,Sitri,0,0,0,,You didn't notice anything unusual
+Dialogue: 0,0:18:43.68,0:18:45.89,Default,Sitri,0,0,0,,when you were drinking without a care?
+Dialogue: 0,0:18:46.22,0:18:48.22,Flashback Top,Waitress,0,0,0,,Here you go!
+Dialogue: 0,0:18:46.62,0:18:49.27,Default,Sitri,0,0,0,,Like the taste of the beer being a bit off?
+Dialogue: 0,0:18:49.62,0:18:52.11,Default,Sitri,0,0,0,,Or that you were getting \Ndrunk faster than usual?
+Dialogue: 0,0:18:52.11,0:18:53.61,Flashback,Waitress,0,0,0,,Enjoy!
+Dialogue: 0,0:18:54.39,0:18:56.51,Default,Eigh,0,0,0,,N-Now that you mention it...
+Dialogue: 0,0:18:56.51,0:18:58.27,Default,Juster,0,0,0,,M-My stomach {\i1}does{\i0} feel funny.
+Dialogue: 0,0:18:58.27,0:19:00.42,Default,Arnold,0,0,0,,I don't believe this. You poisoned us?!
+Dialogue: 0,0:19:00.77,0:19:02.31,Default,Liz,0,0,0,,We're being nice.
+Dialogue: 0,0:19:02.31,0:19:07.22,Default,Liz,0,0,0,,Usually, we'd charge 200 million, but we're \Nletting you keep 90 million for yourselves!
+Dialogue: 0,0:19:07.22,0:19:10.42,Default,Sitri,0,0,0,,Since you're level 7, Arnold, \Nyou're probably fine.
+Dialogue: 0,0:19:10.42,0:19:12.77,Default,Sitri,0,0,0,,But what about the others?
+Dialogue: 0,0:19:13.29,0:19:14.80,Default,Arnold,0,0,0,,Guys!
+Dialogue: 0,0:19:15.37,0:19:16.69,Default,Sitri,0,0,0,,So what do you say?
+Dialogue: 0,0:19:16.69,0:19:18.87,Default,Liz,0,0,0,,This bargain's to die for!
+Dialogue: 0,0:19:21.13,0:19:23.55,Default,Krai,0,0,0,,Forgive me, Ark!
+Dialogue: 0,0:19:24.92,0:19:26.55,Default,Ark,0,0,0,,What is the meaning of this?
+Dialogue: 0,0:19:26.55,0:19:29.52,Default,Krai,0,0,0,,I wanted to show you how \Ngrateful I am and apologize.
+Dialogue: 0,0:19:30.44,0:19:35.06,Default,Krai,0,0,0,,From the looks of it, the young lady must \Nhave thrown quite a tantrum.
+Dialogue: 0,0:19:35.06,0:19:36.73,Default,Ark,0,0,0,,A tantrum?
+Dialogue: 0,0:19:36.73,0:19:42.48,Default,Ark,0,0,0,,Something like that, but you know, Krai,\N that wasn't nearly enough to go on.
+Dialogue: 0,0:19:43.09,0:19:45.10,Default,Krai,0,0,0,,I'm really sorry about that.
+Dialogue: 0,0:19:45.10,0:19:47.11,Default,Krai,0,0,0,,Speaking of, do you have it?
+Dialogue: 0,0:19:48.68,0:19:51.16,Default,Ark,0,0,0,,I don't know everything, you know?
+Dialogue: 0,0:19:51.55,0:19:53.65,Default,Ark,0,0,0,,Krai! Don't do anything hasty.
+Dialogue: 0,0:19:53.65,0:19:54.91,Internal,Krai(M),0,0,0,,This texture!
+Dialogue: 0,0:19:54.91,0:19:56.99,Internal,Krai(M),0,0,0,,Yup, this is the Reversible Face!
+Dialogue: 0,0:19:58.34,0:20:02.35,Default,Mask,0,0,0,,Just as I thought I had acquired some \Nreal talent, I got subdued again...
+Dialogue: 0,0:20:02.35,0:20:04.36,Default,Mask,0,0,0,,I'll need to change my approach.
+Dialogue: 0,0:20:04.36,0:20:06.45,Internal,Krai(M),0,0,0,,It spoke! That's so cool!
+Dialogue: 0,0:20:06.45,0:20:10.80,Default,Éclair,0,0,0,,Thousand Tricks, I was wrong.
+Dialogue: 0,0:20:11.39,0:20:15.20,Default,Éclair,0,0,0,,I am grateful that you sent Ark to assist—
+Dialogue: 0,0:20:15.85,0:20:17.67,Default,Krai,0,0,0,,Sure. Huh?
+Dialogue: 0,0:20:20.37,0:20:21.36,Default,Eva,0,0,0,,So gross.
+Dialogue: 0,0:20:21.36,0:20:22.49,Default,Tino,0,0,0,,That's {\i1}so{\i0} gross.
+Dialogue: 0,0:20:23.95,0:20:27.99,Default,Mask,0,0,0,,Strength, agility, stamina, \Nmagic ability, all E-.
+Dialogue: 0,0:20:27.99,0:20:28.93,Default,Mask,0,0,0,,Motivation, zero.
+Dialogue: 0,0:20:28.93,0:20:30.48,Default,Mask,0,0,0,,Overall rating, 3 points.
+Dialogue: 0,0:20:30.48,0:20:33.53,Default,Mask,0,0,0,,Required base parameters to initiate \NOvergreed are not present.
+Dialogue: 0,0:20:33.53,0:20:35.16,Default,Mask,0,0,0,,Forcibly disengaging.
+Dialogue: 0,0:20:40.01,0:20:43.36,Internal,Krai(M),0,0,0,,This isn't a Reversible Face?
+Dialogue: 0,0:20:43.80,0:20:47.92,Internal,Krai(M),0,0,0,,Talking relics are rare, \Nthough, so that's still good.
+Dialogue: 0,0:20:48.73,0:20:51.02,Default,Krai,0,0,0,,Can I have this?
+Dialogue: 0,0:20:51.29,0:20:53.56,Default,Éclair,0,0,0,,Yes, you can have it!
+Dialogue: 0,0:20:53.56,0:20:57.01,Default,Éclair,0,0,0,,It was wrong of me to go after \Na relic that you wanted!
+Dialogue: 0,0:20:57.01,0:20:58.61,Default,Krai,0,0,0,,Thanks!
+Dialogue: 0,0:20:58.61,0:21:00.03,Default,Krai,0,0,0,,Since you're already here,
+Dialogue: 0,0:21:00.74,0:21:03.33,Default,Krai,0,0,0,,why don't you have some cake?
+Dialogue: 0,0:21:04.98,0:21:06.21,Default,Liz,0,0,0,,We're back!
+Dialogue: 0,0:21:06.21,0:21:07.37,Top,Sitri,0,0,0,,Krai.
+Dialogue: 0,0:21:06.21,0:21:09.03,Internal,Narrator,0,0,0,,In the end, the relic became his.
+Dialogue: 0,0:21:09.29,0:21:11.80,Internal,Narrator,0,0,0,,All's well that ends well!
+Dialogue: 0,0:21:12.30,0:21:14.41,Internal,Narrator,0,0,0,,It may have not been the mask he sought,
+Dialogue: 0,0:21:14.41,0:21:17.95,Internal,Narrator,0,0,0,,but don't grieve, our Krai Andrey!
+Dialogue: 0,0:21:17.95,0:21:19.44,Internal,Krai(M),0,0,0,,Wait a minute...
+Dialogue: 0,0:21:19.91,0:21:24.25,Internal,Krai(M),0,0,0,,So that mask worked on Lady Éclair?
+Dialogue: 0,0:21:24.65,0:21:28.41,Internal,Krai(M),0,0,0,,That means even that little \Nrich girl's stronger than...
+Dialogue: 0,0:21:28.96,0:21:30.92,Internal,Krai(M),0,0,0,,Yeah, I really do want to retire.
+Dialogue: 0,0:21:31.47,0:21:33.82,Internal,Krai(M),0,0,0,,I think I'm gonna puke.
+Dialogue: 0,0:22:12.01,0:22:16.98,Sign,Text,0,0,0,,{\fad(487,1)\bord2\fs15\pos(504.622,185.022)\u1}Level 8 Treasure Vault{\u0}{\fs15\u0}\N\N"Night Palace"
+Dialogue: 0,0:22:18.02,0:22:18.84,Default,Ansel,0,0,0,,Right.
+Dialogue: 0,0:22:20.22,0:22:21.50,Default,Luke,0,0,0,,Thank you!
+Dialogue: 0,0:22:21.88,0:22:24.74,Top,Luke,0,0,0,,All right! I'm going to \Ngo settle this thing!
+Dialogue: 0,0:22:22.73,0:22:24.74,Sign,Text,0,0,0,,{\fad(000,000)\bord2\fs15\pos(511.555,217.555)}"Thousand Swords"\N{\u1\fs20}Luke Sykol{\fs15\u0}\NHunter Level 6
+Dialogue: 0,0:22:24.74,0:22:27.74,Sign,Text,0,0,0,,{\fad(000,000)\bord2\fs15\pos(128.888,221.555)}"Immutable"\N{\u1\fs20}Ansem Smart{\fs15\u0}\NHunter Level 7
+Dialogue: 0,0:22:25.00,0:22:25.78,Default,Ansem,0,0,0,,Yes.
+Dialogue: 0,0:22:28.78,0:22:32.99,Sign,Text,0,0,0,,{\fad(300,000)\bord2\fs15\pos(128.888,206.888)}"Avatar of Creation"\N{\u1\fs20}Lucia Rogier{\fs15\u0}\NHunter Level 6
+Dialogue: 0,0:22:29.92,0:22:32.64,Top,Lucia,0,0,0,,I suppose we can wait a little longer.
+Dialogue: 0,0:22:34.22,0:22:35.07,Default,Ansem,0,0,0,,Yes!
+Dialogue: 0,0:22:36.05,0:22:40.99,Internal,Narrator,0,0,0,,We are now in the golden age \Nof the treasure hunters!
+Dialogue: 0,0:22:41.46,0:22:45.38,Internal,Narrator,0,0,0,,Among the sparkling talent on \Ndisplay in the capital of Zebrudia,
+Dialogue: 0,0:22:45.38,0:22:48.75,Internal,Narrator,0,0,0,,there was one man who stood \Nout amongst all others!
+Dialogue: 0,0:22:48.75,0:22:51.64,Internal,Narrator,0,0,0,,His name is Krai Andrey.
+Dialogue: 0,0:22:52.12,0:22:55.40,Internal,Narrator,0,0,0,,This is an epic tale \Nfull of glory and agony,
+Dialogue: 0,0:22:55.40,0:22:57.49,Internal,Narrator,0,0,0,,of how he became renowned \Nfor being the leader
+Dialogue: 0,0:22:57.49,0:23:00.67,Internal,Narrator,0,0,0,,of the strongest party he founded \Nwith his childhood friends,
+Dialogue: 0,0:23:00.67,0:23:04.63,Internal,Narrator,0,0,0,,and also the master of the strongest clan!
+Dialogue: 0,0:23:10.42,0:23:12.42,Default,Krai,0,0,0,,A report to the Association?
+Dialogue: 0,0:23:12.42,0:23:16.42,Default,Eva,0,0,0,,Yes, the regular status update \Nabout the Grievers' members.
+Dialogue: 0,0:23:16.42,0:23:19.72,Default,Eva,0,0,0,,I did prepare something already, but...
+Dialogue: 0,0:23:19.72,0:23:21.65,Default,Krai,0,0,0,,Ah, Eliza.
+Dialogue: 0,0:23:21.65,0:23:22.36,Default,Eva,0,0,0,,Yes.
+Dialogue: 0,0:23:22.98,0:23:24.37,Top Internal,Krai(M),0,0,0,,Eliza Beck,
+Dialogue: 0,0:23:23.63,0:23:33.10,Sign,txt,0,0,0,,{\fad(481,481)\bord2\fs15\pos(487.555,205.555)}"Lost One"\N{\u1\fs20}Eliza Beck{\fs15\u0}\NHunter Level 6
+Dialogue: 0,0:23:24.88,0:23:27.94,Top Internal,Krai(M),0,0,0,,the one and only person to join the \NGrieving Souls after we formed.
+Dialogue: 0,0:23:27.94,0:23:29.39,Top Internal,Krai(M),0,0,0,,Our seventh member.
+Dialogue: 0,0:23:29.81,0:23:31.93,Top Internal,Krai(M),0,0,0,,She's a thief from the Desert Nobles.
+Dialogue: 0,0:23:31.93,0:23:33.62,Top Internal,Krai(M),0,0,0,,Maybe it's because she's a free spirit,
+Dialogue: 0,0:23:33.62,0:23:35.42,Top Internal,Krai(M),0,0,0,,or because she always has wanderlust...
+Dialogue: 0,0:23:35.78,0:23:37.94,Internal,Krai(M),0,0,0,,But we haven't seen her in some time.
+Dialogue: 0,0:23:38.63,0:23:41.01,Default,Krai,0,0,0,,Just write in whatever.
+Dialogue: 0,0:23:41.60,0:23:43.34,Default,Eva,0,0,0,,I guess we have no choice.

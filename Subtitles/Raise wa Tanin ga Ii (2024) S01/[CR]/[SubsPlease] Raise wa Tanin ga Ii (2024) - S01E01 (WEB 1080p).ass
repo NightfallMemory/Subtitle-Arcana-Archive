@@ -1,0 +1,435 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: main screener,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top screener,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics screener,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop screener,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback screener,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics screener,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop screener,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop screener,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap screener,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop screener,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics screener,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: sign_generic_screener,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.98,0:00:04.85,sign_generic_screener,Sign,0,0,0,,{\fs14\fnGeorgia\b1\bord0\c&H2D231E&\move(365.6,154.8,330.4,154.8)}Miyama
+Dialogue: 0,0:00:03.28,0:00:04.17,main screener,Tachibana,0,0,0,,Here.
+Dialogue: 0,0:00:04.85,0:00:06.72,main screener,Tachibana,0,0,0,,You said you wanted to \Nlook at this, didn't you?
+Dialogue: 0,0:00:12.61,0:00:14.61,main screener,Kirishima,0,0,0,,She's cute...
+Dialogue: 0,0:00:14.93,0:00:17.47,main screener,Kirishima,0,0,0,,I wouldn't mind letting her...
+Dialogue: 0,0:00:18.13,0:00:20.62,main screener,Kirishima,0,0,0,,mess up my life.
+Dialogue: 0,0:01:54.00,0:01:58.01,sign_generic_screener,Sign,0,0,0,,{\fnGeorgia\b1\an9\3c&H54C76E&\c&H322743&\move(518,17,442,17)\frz98.99}Best Kushikatsu in Japan
+Dialogue: 0,0:01:54.00,0:01:58.01,sign_generic_screener,Sign,0,0,0,,{\b1\fnGeorgia\fs13\frz3.318\3c&H61F1F1&\c&H4C2F5A&\move(480,210.8,404.8,210.8)}Yokozuna\N Pub
+Dialogue: 0,0:01:54.00,0:01:58.01,sign_generic_screener,Sign,0,0,0,,{\c&H353936&\3c&H829897&\fs12\b1\move(244.8,193.2,168.8,193.2)}Ain't no place \Nfor losers here
+Dialogue: 0,0:01:56.13,0:01:58.01,main screener,Yoshino,0,0,0,,Hey, Gramps!
+Dialogue: 0,0:01:59.13,0:02:00.64,main screener,Yoshino,0,0,0,,The hell is this?
+Dialogue: 0,0:02:01.43,0:02:02.05,main screener,Renji,0,0,0,,Oh?
+Dialogue: 0,0:02:02.05,0:02:05.56,sign_generic_screener,Sign,0,0,0,,{\an7\bord0\p1\fscy220\alpha&H20&\c&H2B2F2C&}m 0 0 l 220 0 220 80 0 80
+Dialogue: 0,0:02:02.05,0:02:05.56,sign_generic_screener,Sign,0,0,0,,{\bord0\b1\fs12\pos(116.8,78.8)}A Huge Shakeup in the Yakuza World?\NThe Kingpins of Kanto and Kansai\NFinally Call a Truce?!
+Dialogue: 0,0:02:02.05,0:02:05.56,sign_generic_screener,Sign,0,0,0,,{\fs12\fnTimes New Roman\an7\bord0\pos(18.8,94)}The Biggest in Kansai! The Fourth-Generation \NKirigaya-gumi Direct Subsidiary Somei-gumi \NLeader Somei Renji\N and\N The Biggest in Kanto! Fifth-Generation \NTokusa-gumi Direct Subsidiary Miyama \NFamily Leader Miyama Gaku Swore an Oath\N of Brotherhood!!
+Dialogue: 0,0:02:02.39,0:02:05.17,main screener,Renji,0,0,0,,"A Huge Shakeup in the Yakuza World"?
+Dialogue: 0,0:02:05.56,0:02:09.56,top screener,Renji,0,0,0,,Hey, I look really handsome here.
+Dialogue: 0,0:02:05.62,0:02:09.56,sign_generic_screener,Sign,0,0,0,,{\fnGeorgia\b1\fs13\pos(137.6,112.4)\c&H111615&\3c&HF0F6F3&\fade(150,1)}Kirigaya-gumi Direct Subsidiary \NSomei-gumi Leader\N Somei Renji
+Dialogue: 0,0:02:05.62,0:02:09.56,sign_generic_screener,Sign,0,0,0,,{\fnGeorgia\b1\bord0\c&H0F110F&\fade(150,1)\pos(132.8,248.4)}Kiri
+Dialogue: 0,0:02:09.56,0:02:10.42,main screener,Yoshino,0,0,0,,You moron!
+Dialogue: 0,0:02:10.42,0:02:12.12,main screener,Yoshino,0,0,0,,No one gives a crap about that!
+Dialogue: 0,0:02:12.12,0:02:13.99,main screener,Yoshino,0,0,0,,I'm talkin' about the last part!
+Dialogue: 0,0:02:13.99,0:02:16.25,main screener,Yoshino,0,0,0,,"Apparently, their grandchildren \Nare rather close,
+Dialogue: 0,0:02:16.25,0:02:19.07,main screener,Yoshino,0,0,0,,and according to sources \Nclose to the families,
+Dialogue: 0,0:02:19.07,0:02:23.08,main screener,Yoshino,0,0,0,,they may be getting engaged \Nin the near future."
+Dialogue: 0,0:02:23.31,0:02:25.95,main screener,Yoshino,0,0,0,,This better not be talkin' about me!
+Dialogue: 0,0:02:25.95,0:02:28.08,main screener,Renji,0,0,0,,Who else would it be?
+Dialogue: 0,0:02:28.08,0:02:29.75,main screener,Yoshino,0,0,0,,God damn it!
+Dialogue: 0,0:02:29.75,0:02:34.78,main screener,Yoshino,0,0,0,,First off, I've never met this Miyama \Nor whoever from Tokyo or their grandson!
+Dialogue: 0,0:02:34.78,0:02:37.09,main screener,Yoshino,0,0,0,,Who the hell're these "sources"?!
+Dialogue: 0,0:02:37.50,0:02:38.47,main screener,Renji,0,0,0,,Me, of course!
+Dialogue: 0,0:02:38.47,0:02:39.40,main screener,Yoshino,0,0,0,,Huh?
+Dialogue: 0,0:02:39.40,0:02:43.10,main screener,Renji,0,0,0,,Yoshino, you're turning 17 \Nthis year, aren't ya?
+Dialogue: 0,0:02:43.10,0:02:46.22,main screener,Renji,0,0,0,,But you haven't even been with a boy yet.
+Dialogue: 0,0:02:46.60,0:02:49.48,main screener,Renji,0,0,0,,And since you're so lonely...
+Dialogue: 0,0:02:49.91,0:02:53.36,main screener,Renji,0,0,0,,I found you a guy myself!
+Dialogue: 0,0:02:50.08,0:02:52.88,sign_generic_screener,Sign,0,0,0,,{\an8\b1\fs35\fade(50,1)\pos(337.6,10.8)\c&H5753E8&\3c&H453B26&}Booooooooooom
+Dialogue: 0,0:02:53.36,0:02:57.72,main screener,Renji,0,0,0,,I mean, Miyama's grandson is quite the looker!
+Dialogue: 0,0:02:56.98,0:03:00.24,sign_generic_screener,Sign,0,0,0,,{\an7\bord0\p1\fscy220\alpha&H20&\c&H2B2F2C&}m 0 0 l 220 0 220 50 0 50
+Dialogue: 0,0:02:56.98,0:03:00.24,sign_generic_screener,Sign,0,0,0,,{\fs18\fnTimes New Roman\an7\bord0\b1\pos(41.2,40.4)}The Biggest in Kanto!
+Dialogue: 0,0:02:56.98,0:03:00.24,sign_generic_screener,Sign,0,0,0,,{\fs16\fnTimes New Roman\an7\bord0\b1\pos(26,74.8)}Fifth-Generation Tokusa-gumi \NDirect Subsidiary Miyama \NFamily Leader Miyama Gaku
+Dialogue: 0,0:02:57.72,0:03:00.24,main screener,Renji,0,0,0,,He looks just like Gaku when he was young!
+Dialogue: 0,0:03:00.24,0:03:02.00,main screener,Renji,0,0,0,,Honestly, I was shocked.
+Dialogue: 0,0:03:02.00,0:03:05.35,main screener,Yoshino,0,0,0,,Gramps, you've known this \NMiyama guy for a while now?
+Dialogue: 0,0:03:05.35,0:03:09.07,main screener,Renji,0,0,0,,If I didn't, I wouldn't have suggested you.
+Dialogue: 0,0:03:09.66,0:03:12.52,main screener,Yoshino,0,0,0,,Just so you know, I ain't gettin' married!
+Dialogue: 0,0:03:12.52,0:03:15.39,main screener,Renji,0,0,0,,Oh, quit your yappin' and \Nat least meet the guy first!
+Dialogue: 0,0:03:15.39,0:03:20.26,main screener,Renji,0,0,0,,Or your life's gonna end with you never \Ntalkin' to a young guy that ain't family!
+Dialogue: 0,0:03:20.26,0:03:23.11,main screener,Yoshino,0,0,0,,M-Mind your own damn business \Nand leave me alone!
+Dialogue: 0,0:03:23.11,0:03:25.61,main screener,Renji,0,0,0,,Not to mention you were \Nblessed with my genetics
+Dialogue: 0,0:03:25.61,0:03:28.64,main screener,Renji,0,0,0,,and turned out hot, yet you \Nnever let your damn guard down.
+Dialogue: 0,0:03:29.63,0:03:31.80,main screener,Yoshino,0,0,0,,You keep sayin' that I'm hot,
+Dialogue: 0,0:03:31.80,0:03:34.26,main screener,Yoshino,0,0,0,,but it's because of this face people \Nkeep saying I'm an Umeda hostess
+Dialogue: 0,0:03:34.26,0:03:36.27,main screener,Yoshino,0,0,0,,or that I'm divorced with a child!
+Dialogue: 0,0:03:36.27,0:03:38.49,main screener,Renji,0,0,0,,Meh, who cares?
+Dialogue: 0,0:03:38.49,0:03:41.04,main screener,Renji,0,0,0,,Why don't you try livin' in Tokyo?
+Dialogue: 0,0:03:41.04,0:03:42.67,main screener,Renji,0,0,0,,You can transfer there.
+Dialogue: 0,0:03:42.67,0:03:46.28,main screener,Renji,0,0,0,,You're basically bilingual since you can \Nspeak Tokyo Japanese and Kansai Japanese!
+Dialogue: 0,0:03:46.28,0:03:47.77,main screener,Yoshino,0,0,0,,They're both Japanese!
+Dialogue: 0,0:03:47.77,0:03:50.54,main screener,Yoshino,0,0,0,,I don't even know this guy's \Nname or what he looks like!
+Dialogue: 0,0:03:50.54,0:03:53.07,main screener,Renji,0,0,0,,Well, his name is Miyama Kirishima!
+Dialogue: 0,0:03:53.07,0:03:55.50,main screener,Yoshino,0,0,0,,What? Is that like his yakuza name?
+Dialogue: 0,0:03:55.50,0:03:58.65,main screener,Renji,0,0,0,,You moron. That's his real \Nname. He ain't no yakuza.
+Dialogue: 0,0:03:58.65,0:04:00.55,main screener,Renji,0,0,0,,I'm tellin' you, he's in high school.
+Dialogue: 0,0:04:00.55,0:04:03.26,main screener,Renji,0,0,0,,Anyway, just go to Tokyo \Nand see for yourself.
+Dialogue: 0,0:04:03.26,0:04:05.00,main screener,Renji,0,0,0,,Then we can talk.
+Dialogue: 0,0:04:11.60,0:04:14.02,italics screener,Yoshino,0,0,0,,In the end, I actually came.
+Dialogue: 0,0:04:14.45,0:04:15.65,italics screener,Yoshino,0,0,0,,It's huge.
+Dialogue: 0,0:04:18.96,0:04:21.53,sign_generic_screener,Sign,0,0,0,,{\fnGeorgia\fs13\c&H0E0C0C&\fade(250,1)\3c&HF0F6F3&\pos(490.4,146)}Tokusa-gumi Direct Subsidiary \NMiyama Family Leader\N Miyama Gaku
+Dialogue: 0,0:04:18.96,0:04:21.53,sign_generic_screener,Sign,0,0,0,,{\fnGeorgia\bord0\fs12\c&H0E0C0C&\pos(488.8,245.2)\fade(250,1)}Tokusa
+Dialogue: 0,0:04:19.21,0:04:21.53,main screener,Gaku,0,0,0,,Thanks for traveling so far.
+Dialogue: 0,0:04:21.76,0:04:23.94,italics screener,,0,0,0,,H-He's so handsome!
+Dialogue: 0,0:04:24.24,0:04:27.76,main screener,Gaku,0,0,0,,You actually do look like Renji. \NAnyone ever tell you that?
+Dialogue: 0,0:04:27.76,0:04:29.18,main screener,Yoshino,0,0,0,,All the time, actually.
+Dialogue: 0,0:04:29.18,0:04:32.67,main screener,Yoshino,0,0,0,,That I look like Renji when he was \Nyoung but if he was a girl.
+Dialogue: 0,0:04:33.62,0:04:34.85,main screener,Gaku,0,0,0,,Damn straight.
+Dialogue: 0,0:04:34.85,0:04:40.50,main screener,Yoshino,0,0,0,,U-Um, by the way, so where is \Nthis Miyama Kirishima-san...?
+Dialogue: 0,0:04:40.50,0:04:43.17,main screener,Gaku,0,0,0,,Huh? What're you talking about?
+Dialogue: 0,0:04:43.17,0:04:45.26,main screener,Gaku,0,0,0,,He's standing right behind you.
+Dialogue: 0,0:04:47.54,0:04:49.71,main screener,Kirishima,0,0,0,,That worked better than I thought it would.
+Dialogue: 0,0:04:49.71,0:04:53.14,main screener,Kirishima,0,0,0,,Hello, it's nice to meet \Nyou. I'm Miyama Kirishima.
+Dialogue: 0,0:04:53.14,0:04:54.57,main screener,Yoshino,0,0,0,,Huh? Uh...
+Dialogue: 0,0:04:54.57,0:04:57.37,main screener,Kirishima,0,0,0,,Whoops, sorry. Did I scare you?
+Dialogue: 0,0:04:57.37,0:04:58.99,main screener,Kirishima,0,0,0,,I just couldn't find the right moment.
+Dialogue: 0,0:04:58.99,0:05:00.51,main screener,Yoshino,0,0,0,,R-Right...
+Dialogue: 0,0:05:00.51,0:05:03.02,main screener,Kirishima,0,0,0,,I'll go ahead and show you \Naround the rest of the place.
+Dialogue: 0,0:05:03.02,0:05:04.65,main screener,Yoshino,0,0,0,,H-Hey, wait!
+Dialogue: 0,0:05:05.57,0:05:06.59,main screener,Kirishima,0,0,0,,What do you think?
+Dialogue: 0,0:05:06.59,0:05:08.24,main screener,Yoshino,0,0,0,,About what?
+Dialogue: 0,0:05:08.24,0:05:10.26,main screener,Kirishima,0,0,0,,We heard you were going to \Nbe living with us in Tokyo,
+Dialogue: 0,0:05:10.26,0:05:12.83,main screener,Kirishima,0,0,0,,so we had the tea room \Nof this annex remodeled.
+Dialogue: 0,0:05:12.83,0:05:13.66,main screener,Yoshino,0,0,0,,Huh?!
+Dialogue: 0,0:05:14.19,0:05:17.57,main screener,Kirishima,0,0,0,,It's separated from the main house, so we \Nthought you'd feel a little more relaxed.
+Dialogue: 0,0:05:17.57,0:05:19.54,main screener,Yoshino,0,0,0,,Sorry, can I say something?
+Dialogue: 0,0:05:20.25,0:05:24.34,main screener,Yoshino,0,0,0,,I really appreciate you guys \Ndoing all of this for me...
+Dialogue: 0,0:05:24.34,0:05:26.76,main screener,Yoshino,0,0,0,,but I haven't decided on if \NI'm actually coming here.
+Dialogue: 0,0:05:26.76,0:05:29.72,main screener,Yoshino,0,0,0,,If I end up declining this offer...
+Dialogue: 0,0:05:30.05,0:05:33.21,main screener,Kirishima,0,0,0,,Oh, sorry. I forgot to mention that.
+Dialogue: 0,0:05:33.21,0:05:34.60,main screener,Kirishima,0,0,0,,Sorry for jumping the gun.
+Dialogue: 0,0:05:34.60,0:05:34.93,main screener,Yoshino,0,0,0,,Huh?
+Dialogue: 0,0:05:35.20,0:05:40.44,main screener,Kirishima,0,0,0,,Of course, we don't mind if \Nyou decline this offer at all.
+Dialogue: 0,0:05:41.71,0:05:44.19,main screener,Kirishima,0,0,0,,I mean, you were pretty much forced into it.
+Dialogue: 0,0:05:44.48,0:05:47.96,main screener,Kirishima,0,0,0,,I mean, a guy and a girl who'd never met \Nbefore preparing to marry each other?
+Dialogue: 0,0:05:47.96,0:05:49.65,main screener,Kirishima,0,0,0,,Talk about old-fashioned.
+Dialogue: 0,0:05:49.65,0:05:51.20,main screener,Yoshino,0,0,0,,T-True...
+Dialogue: 0,0:05:51.20,0:05:54.35,main screener,Kirishima,0,0,0,,I honestly thought you \Nwouldn't even come up here.
+Dialogue: 0,0:05:54.35,0:05:55.08,main screener,Yoshino,0,0,0,,Huh?
+Dialogue: 0,0:05:55.46,0:06:00.08,main screener,Kirishima,0,0,0,,I was really happy when they \Ntold me you'd at least come to meet me.
+Dialogue: 0,0:06:00.08,0:06:02.90,main screener,Kirishima,0,0,0,,That's genuinely enough. Thanks.
+Dialogue: 0,0:06:03.84,0:06:06.84,sign_generic_screener,Sign,0,0,0,,{\b1\bord0.5\shad1\fs13\3c&H3D4F4C&\4c&H3D4F4C&\c&H7D9B94&\frx16\fry346\frz1.541\move(300,308,236,308)}Oren Private High School
+Dialogue: 0,0:06:09.84,0:06:14.35,main screener,Yoshino,0,0,0,,I was just saying he didn't seem so bad, \Nand somehow I ended up transferring here.
+Dialogue: 0,0:06:14.35,0:06:17.84,main screener,Yoshino,0,0,0,,I mean, if we're being honest, I'm \Nthe pushover in this situation...
+Dialogue: 0,0:06:17.84,0:06:21.47,main screener,Yoshino,0,0,0,,I can't help but feel like I got duped!
+Dialogue: 0,0:06:22.64,0:06:24.36,main screener,Kirishima,0,0,0,,Sorry to keep you waiting, Yoshino.
+Dialogue: 0,0:06:24.98,0:06:28.81,main screener,Kirishima,0,0,0,,It took a while to figure out our classes.
+Dialogue: 0,0:06:28.81,0:06:30.01,main screener,Kirishima,0,0,0,,Is something wrong?
+Dialogue: 0,0:06:30.01,0:06:32.86,main screener,Yoshino,0,0,0,,N-No, I'm fine.
+Dialogue: 0,0:06:33.22,0:06:35.34,main screener,Kirishima,0,0,0,,You have fine arts classes, don't you?
+Dialogue: 0,0:06:35.34,0:06:38.11,main screener,Yoshino,0,0,0,,Yeah. And you're concentrating \Non math and science, aren't you?
+Dialogue: 0,0:06:38.11,0:06:39.53,main screener,Yoshino,0,0,0,,That's amazing.
+Dialogue: 0,0:06:39.53,0:06:41.68,main screener,Yoshino,0,0,0,,I'm not smart,
+Dialogue: 0,0:06:41.68,0:06:45.63,main screener,Yoshino,0,0,0,,so I was worried if I could even \Ntransfer into such a high-level school.
+Dialogue: 0,0:06:45.63,0:06:47.65,main screener,Yoshino,0,0,0,,So, Kirishima-kun...
+Dialogue: 0,0:06:47.65,0:06:50.57,main screener,Kirishima,0,0,0,,"Kirishima-kun" is a bit embarrassing.
+Dialogue: 0,0:06:50.57,0:06:53.12,main screener,Kirishima,0,0,0,,If you don't mind, could \Nyou just call me Kirishima?
+Dialogue: 0,0:06:53.12,0:06:55.64,main screener,Yoshino,0,0,0,,Huh? Uh, er, then, um...
+Dialogue: 0,0:06:55.64,0:06:59.77,main screener,Yoshino,0,0,0,,Do you always get rides to \Nand from school, Kirishima?
+Dialogue: 0,0:06:59.77,0:07:04.67,main screener,Kirishima,0,0,0,,No way. I got a ride today, but \Nusually, I just take the train.
+Dialogue: 0,0:07:04.67,0:07:07.22,main screener,Kirishima,0,0,0,,Should we get you a ride to \Nand from school, Yoshino?
+Dialogue: 0,0:07:07.22,0:07:09.28,main screener,Yoshino,0,0,0,,Huh? No, I'm fine...
+Dialogue: 0,0:07:09.28,0:07:10.28,main screener,Kirishima,0,0,0,,I see.
+Dialogue: 0,0:07:10.28,0:07:12.77,main screener,Kirishima,0,0,0,,Your class is back there, Yoshino.
+Dialogue: 0,0:07:12.77,0:07:14.44,main screener,Kirishima,0,0,0,,Well, see you after school.
+Dialogue: 0,0:07:15.98,0:07:18.66,italics screener,Yoshino,0,0,0,,It's hard to imagine he was \Nborn in a yakuza family...
+Dialogue: 0,0:07:19.26,0:07:22.17,main screener,Yoshino,0,0,0,,Thank goodness he's just \Na normal, nice person.
+Dialogue: 0,0:07:25.67,0:07:28.03,main screener,Girl 1,0,0,0,,Hey, do you have a second?
+Dialogue: 0,0:07:28.03,0:07:30.20,main screener,Yoshino,0,0,0,,Huh? M-Me?
+Dialogue: 0,0:07:30.20,0:07:31.18,main screener,Girl 1,0,0,0,,Yeah.
+Dialogue: 0,0:07:31.69,0:07:35.57,main screener,Yoshino,0,0,0,,Sorry. No one's ever really \Ntalked to me at school before.
+Dialogue: 0,0:07:35.57,0:07:36.55,main screener,Girl 2,0,0,0,,Huh?
+Dialogue: 0,0:07:36.55,0:07:38.69,main screener,Yoshino,0,0,0,,S-So, how can I help you?
+Dialogue: 0,0:07:39.07,0:07:42.17,main screener,Girl 1,0,0,0,,You came to school this morning \Nwith Miyama-kun, didn't you?
+Dialogue: 0,0:07:42.17,0:07:43.80,main screener,Yoshino,0,0,0,,Huh? Um...
+Dialogue: 0,0:07:43.80,0:07:47.94,main screener,Girl 3,0,0,0,,I heard you came from Osaka. Are you \NMiyama-kun's relative or something?
+Dialogue: 0,0:07:47.94,0:07:50.98,main screener,Yoshino,0,0,0,,Huh? No, I'm not his relative...
+Dialogue: 0,0:07:50.98,0:07:53.45,main screener,Yoshino,0,0,0,,Our families are close...
+Dialogue: 0,0:07:53.80,0:07:55.45,main screener,Girl 2,0,0,0,,You're not his girlfriend, are you?
+Dialogue: 0,0:07:55.85,0:07:57.42,main screener,Yoshino,0,0,0,,G-Girlfriend?!
+Dialogue: 0,0:07:57.42,0:08:02.83,main screener,Yoshino,0,0,0,,No, er, I'm not his girlfriend...\Nbut we may end up living together...
+Dialogue: 0,0:08:02.83,0:08:04.33,main screener,Girl 2,0,0,0,,Hang on a second!
+Dialogue: 0,0:08:04.64,0:08:08.34,main screener,Girl 2,0,0,0,,Stop beating around the bush and answer us.
+Dialogue: 0,0:08:10.93,0:08:12.84,main screener,Girl 1,0,0,0,,That's enough. Let's go.
+Dialogue: 0,0:08:13.11,0:08:15.43,main screener,Yoshino,0,0,0,,Huh? What?
+Dialogue: 0,0:08:19.85,0:08:22.88,italics screener,Yoshino,0,0,0,,Man, I'm really being\Ngawked at by the girls...
+Dialogue: 0,0:08:22.88,0:08:23.81,main screener,Kirishima,0,0,0,,Yoshino.
+Dialogue: 0,0:08:26.95,0:08:27.99,main screener,Girl 4,0,0,0,,Did you see that?
+Dialogue: 0,0:08:27.99,0:08:29.98,main screener,Girl 5,0,0,0,,Miyama-kun's so hot!
+Dialogue: 0,0:08:30.42,0:08:32.22,main screener,Kirishima,0,0,0,,What's wrong, Yoshino?
+Dialogue: 0,0:08:32.22,0:08:36.34,main screener,Yoshino,0,0,0,,Er, I guess you're really... popular.
+Dialogue: 0,0:08:36.34,0:08:37.99,main screener,Kirishima,0,0,0,,You think so?
+Dialogue: 0,0:08:37.99,0:08:40.74,main screener,Kirishima,0,0,0,,No one talks to me other than to greet me,
+Dialogue: 0,0:08:41.03,0:08:44.25,main screener,Kirishima,0,0,0,,and everyone knows I'm \Nthe grandson of a yakuza.
+Dialogue: 0,0:08:44.70,0:08:48.11,main screener,Yoshino,0,0,0,,Oh, really? I thought they didn't know...
+Dialogue: 0,0:08:48.57,0:08:50.00,main screener,Yoshino,0,0,0,,Aren't they scared?
+Dialogue: 0,0:08:50.00,0:08:53.61,main screener,Kirishima,0,0,0,,In this day in age, if you report \Nthat a yakuza did something to you,
+Dialogue: 0,0:08:53.61,0:08:54.76,main screener,Kirishima,0,0,0,,the police would come running.
+Dialogue: 0,0:08:55.10,0:08:58.41,main screener,Kirishima,0,0,0,,Even if someone's a yakuza, they're \Nnot scary if they can't do anything.
+Dialogue: 0,0:08:58.41,0:08:59.85,main screener,Yoshino,0,0,0,,I see...
+Dialogue: 0,0:09:00.85,0:09:02.85,main screener,Yoshino,0,0,0,,You don't hate it, Kirishima?
+Dialogue: 0,0:09:02.85,0:09:03.54,main screener,Kirishima,0,0,0,,Huh?
+Dialogue: 0,0:09:03.54,0:09:08.11,main screener,Yoshino,0,0,0,,Like... doesn't it get annoying \Nto have people look at you weird?
+Dialogue: 0,0:09:08.55,0:09:10.13,main screener,Kirishima,0,0,0,,Annoying?
+Dialogue: 0,0:09:10.64,0:09:15.70,main screener,Kirishima,0,0,0,,Nah, I can't say I ever thought \Nabout that. I don't really care.
+Dialogue: 0,0:09:21.23,0:09:22.41,main screener,Kirishima,0,0,0,,Is something wrong?
+Dialogue: 0,0:09:23.52,0:09:25.61,main screener,Yoshino,0,0,0,,No, it's nothing.
+Dialogue: 0,0:09:32.17,0:09:34.92,main screener,Yoshino,0,0,0,,Oh, damn it! I can't sleep!
+Dialogue: 0,0:09:35.24,0:09:38.40,main screener,Yoshino,0,0,0,,Ugh, tomorrow's gonna suck if I can't sleep!
+Dialogue: 0,0:09:40.93,0:09:43.16,flashback screener,Kirishima,0,0,0,,I don't really care.
+Dialogue: 0,0:09:45.32,0:09:47.46,main screener,Yoshino,0,0,0,,He seemed like someone completely different.
+Dialogue: 0,0:09:47.46,0:09:48.71,main screener,Yoshino,0,0,0,,I'll drink some water.
+Dialogue: 0,0:10:03.01,0:10:03.70,main screener,Yoshino,0,0,0,,Blood?
+Dialogue: 0,0:10:10.40,0:10:12.11,main screener,Yoshino,0,0,0,,He looks like a yakuza.
+Dialogue: 0,0:10:14.03,0:10:18.98,main screener,Yoshino,0,0,0,,Sorry. I figured I could buy daily \Nnecessities when I came over here.
+Dialogue: 0,0:10:18.98,0:10:21.88,main screener,Yoshino,0,0,0,,I hate to ask, but would you come with me?
+Dialogue: 0,0:10:21.88,0:10:24.01,main screener,Kirishima,0,0,0,,Sure. Is tonight okay?
+Dialogue: 0,0:10:24.37,0:10:25.49,main screener,Yoshino,0,0,0,,Y-Yeah.
+Dialogue: 0,0:10:25.90,0:10:27.64,main screener,Kirishima,0,0,0,,All right. See you then.
+Dialogue: 0,0:10:30.04,0:10:31.67,main screener,Yoshino,0,0,0,,That was standoffish.
+Dialogue: 0,0:10:32.83,0:10:34.34,italics screener,Yoshino,0,0,0,,Maybe I was imagining it.
+Dialogue: 0,0:10:34.34,0:10:36.28,italics screener,Yoshino,0,0,0,,No, but I mean...
+Dialogue: 0,0:10:39.28,0:10:41.03,main screener,Yoshino,0,0,0,,I wonder what he was doing.
+Dialogue: 0,0:10:41.38,0:10:44.04,main screener,Yoshino,0,0,0,,No, no. What am I even talking about?
+Dialogue: 0,0:10:44.04,0:10:46.04,main screener,Yoshino,0,0,0,,Am I that exhausted from not enough sleep?
+Dialogue: 0,0:10:46.04,0:10:48.46,main screener,Girl 6,0,0,0,,I finally saw that transfer student.
+Dialogue: 0,0:10:48.46,0:10:50.34,main screener,Girl 2,0,0,0,,She's so flashy.
+Dialogue: 0,0:10:50.34,0:10:53.04,main screener,Girl 1,0,0,0,,I'm gonna be shocked if he that's his type.
+Dialogue: 0,0:10:53.04,0:10:55.55,main screener,Girl 2,0,0,0,,You know what Miyama-kun's \Nhouse is like, don't you?
+Dialogue: 0,0:10:55.55,0:10:59.80,main screener,Girl 2,0,0,0,,Well, I heard she was working as a \Nprostitute so she could pay off some debt to them.
+Dialogue: 0,0:10:59.80,0:11:01.24,main screener,Girl 6,0,0,0,,No way!
+Dialogue: 0,0:11:01.24,0:11:03.79,main screener,Girl 1,0,0,0,,Actually, I can see that. \NJust look at her face.
+Dialogue: 0,0:11:03.79,0:11:06.87,main screener,Yoshino,0,0,0,,God, this is such a pain!
+Dialogue: 0,0:11:07.84,0:11:11.50,main screener,Yoshino,0,0,0,,I guess this is the same in Tokyo or Osaka.
+Dialogue: 0,0:11:12.97,0:11:14.69,main screener,Yoshino,0,0,0,,What a pain in the ass.
+Dialogue: 0,0:11:14.69,0:11:16.94,main screener,Yoshino,0,0,0,,S-Sorry, one sec!
+Dialogue: 0,0:11:16.94,0:11:19.19,main screener,Yoshino,0,0,0,,Do you mind if I withdraw \Nsome cash at the store?
+Dialogue: 0,0:11:19.19,0:11:20.57,main screener,Yoshino,0,0,0,,I'll be right back!
+Dialogue: 0,0:11:20.57,0:11:22.24,main screener,Yoshino,0,0,0,,Wait right here!
+Dialogue: 0,0:11:27.33,0:11:29.96,main screener,Guy,0,0,0,,Hey, miss! Your skirt's flipped.
+Dialogue: 0,0:11:29.25,0:11:30.90,top screener,Yoshino,0,0,0,,Huh?! What?!
+Dialogue: 0,0:11:30.90,0:11:31.66,main screener,Yoshino,0,0,0,,Huh?
+Dialogue: 0,0:11:32.09,0:11:34.71,main screener,Thug 1,0,0,0,,Oh, my bad. I guess I was seein' things.
+Dialogue: 0,0:11:34.71,0:11:36.11,main screener,Thug 1,0,0,0,,Sorry.
+Dialogue: 0,0:11:37.09,0:11:39.85,main screener,Thug 3,0,0,0,,You goin' out somewhere?
+Dialogue: 0,0:11:39.85,0:11:41.31,main screener,Yoshino,0,0,0,,You reek of alcohol.
+Dialogue: 0,0:11:41.31,0:11:44.72,main screener,Thug 2,0,0,0,,You heading to work now? \NYou work around here?
+Dialogue: 0,0:11:44.72,0:11:47.64,main screener,Yoshino,0,0,0,,Huh? No, I'm not like that...
+Dialogue: 0,0:11:47.64,0:11:49.75,main screener,Thug 3,0,0,0,,Want us to take you?
+Dialogue: 0,0:11:51.04,0:11:53.31,italics screener,Yoshino,0,0,0,,W-Wait, are they...
+Dialogue: 0,0:11:53.37,0:11:59.71,sign_generic_screener,Sign,0,0,0,,{\fs35\b1\an8\c&HD89EF6&\3c&H7A23C6&\fade(50,1)}Hitting {\alphaFF\t(500,551,\alpha00)}on {\alphaFF\t(1000,1051,\alpha00)}me
+Dialogue: 0,0:11:55.52,0:11:58.96,italics screener,Yoshino,0,0,0,,I've never had any guys talk \Nto me in town other than
+Dialogue: 0,0:11:58.96,0:12:02.79,italics screener,Yoshino,0,0,0,,Old Man Imai from the shopping district!
+Dialogue: 0,0:11:59.46,0:12:02.79,flashbacktop screener,Imai,0,0,0,,You're as pretty as ever.
+Dialogue: 0,0:12:02.51,0:12:03.22,sign_generic_screener,Sign,0,0,0,,{\bord0\fs15\c&H858585&\frz14.04\pos(157.6,98.8)\fade(175,330)}Really?
+Dialogue: 0,0:12:04.70,0:12:07.59,main screener,Thug 1,0,0,0,,Hey, don't worry. We'll make \Nsure you get where you need to.
+Dialogue: 0,0:12:07.59,0:12:11.50,main screener,Yoshino,0,0,0,,Huh? No, wait! I have someone waiting for me.
+Dialogue: 0,0:12:11.50,0:12:12.34,main screener,Thug 1,0,0,0,,What?!
+Dialogue: 0,0:12:12.34,0:12:15.02,main screener,Thug 1,0,0,0,,Just shut your mouth and come with us!
+Dialogue: 0,0:12:15.02,0:12:17.21,main screener,Yoshino,0,0,0,,N-No, really...
+Dialogue: 0,0:12:17.21,0:12:20.35,main screener,Thug 3,0,0,0,,Don't try to fight back. \NIt's a pain in the ass.
+Dialogue: 0,0:12:21.97,0:12:23.49,main screener,Thug 3,0,0,0,,Who the hell are you?
+Dialogue: 0,0:12:23.49,0:12:25.90,main screener,Kirishima,0,0,0,,Yeah, so that girl's with me.
+Dialogue: 0,0:12:25.90,0:12:27.35,main screener,Kirishima,0,0,0,,Let's go.
+Dialogue: 0,0:12:29.93,0:12:32.35,main screener,Thug 3,0,0,0,,Get lost before you get hurt!
+Dialogue: 0,0:12:35.65,0:12:37.15,main screener,Thug 3,0,0,0,,Ow, ow, ow, ow, ow!
+Dialogue: 0,0:12:37.39,0:12:38.02,main screener,Thug 2,0,0,0,,Huh!?
+Dialogue: 0,0:12:49.16,0:12:50.18,main screener,Yoshino,0,0,0,,Huh?
+Dialogue: 0,0:12:50.18,0:12:52.33,main screener,Thug 1,0,0,0,,Y-You bastard!
+Dialogue: 0,0:13:00.43,0:13:04.51,main screener,Yoshino,0,0,0,,K-Kirishima! I think that's enough...
+Dialogue: 0,0:13:05.30,0:13:08.68,main screener,Kirishima,0,0,0,,Oh, sorry. It'll just be a little longer.
+Dialogue: 0,0:13:09.73,0:13:14.22,main screener,Kirishima,0,0,0,,Hey, are you listening? \NHey, remember my face.
+Dialogue: 0,0:13:14.22,0:13:16.08,main screener,Kirishima,0,0,0,,That girl's mine,
+Dialogue: 0,0:13:16.08,0:13:19.10,main screener,Kirishima,0,0,0,,so make sure you never talk to her again.
+Dialogue: 0,0:13:20.67,0:13:25.40,main screener,Kirishima,0,0,0,,Also, tell the rest of your friends \Nabout me the best you can.
+Dialogue: 0,0:13:26.03,0:13:27.94,main screener,Kirishima,0,0,0,,You can try to get revenge,
+Dialogue: 0,0:13:27.94,0:13:33.06,main screener,Kirishima,0,0,0,,but if you do, just know I'll \Nkill you and anyone close to you.
+Dialogue: 0,0:13:33.06,0:13:34.29,main screener,Kirishima,0,0,0,,Got it?
+Dialogue: 0,0:13:34.29,0:13:35.33,main screener,Thug 1,0,0,0,,Yes...
+Dialogue: 0,0:13:36.31,0:13:38.22,main screener,Kirishima,0,0,0,,Okay, let's go, Yoshino.
+Dialogue: 0,0:13:38.22,0:13:40.52,main screener,Yoshino,0,0,0,,Huh? Shouldn't we call an ambulance?
+Dialogue: 0,0:13:40.52,0:13:43.09,main screener,Kirishima,0,0,0,,Nah, they won't die or anything.
+Dialogue: 0,0:13:43.09,0:13:46.90,main screener,Kirishima,0,0,0,,You've never had guys like that \Nhit on you before, have you?
+Dialogue: 0,0:13:46.90,0:13:47.59,main screener,Yoshino,0,0,0,,Huh?
+Dialogue: 0,0:13:47.59,0:13:53.12,main screener,Kirishima,0,0,0,,That's because the people around you knew \Nthat you were Boss Somei's granddaughter.
+Dialogue: 0,0:13:53.58,0:13:56.12,main screener,Kirishima,0,0,0,,And I'm sure you always had someone with you.
+Dialogue: 0,0:13:56.12,0:13:58.78,main screener,Kirishima,0,0,0,,Some guy that definitely didn't \Nlook like some upstanding citizen.
+Dialogue: 0,0:13:59.23,0:14:03.36,main screener,Kirishima,0,0,0,,You should be more careful. \NThis isn't Osaka, after all.
+Dialogue: 0,0:14:05.08,0:14:06.57,main screener,Yoshino,0,0,0,,Sorry, I...
+Dialogue: 0,0:14:06.57,0:14:08.74,main screener,Kirishima,0,0,0,,It's fine. Let's go.
+Dialogue: 0,0:14:09.24,0:14:13.24,main screener,Yoshino,0,0,0,,Wait a sec. At this rate, someone \Nmight call the police...
+Dialogue: 0,0:14:13.95,0:14:16.08,main screener,Kirishima,0,0,0,,Oh, it's fine.
+Dialogue: 0,0:14:16.75,0:14:18.08,main screener,Yoshino,0,0,0,,Where's my handkerchief...
+Dialogue: 0,0:14:22.46,0:14:24.38,main screener,Yoshino,0,0,0,,Hey, that's...
+Dialogue: 0,0:14:24.38,0:14:25.21,main screener,Kirishima,0,0,0,,Huh?
+Dialogue: 0,0:14:25.67,0:14:27.95,main screener,Kirishima,0,0,0,,Oh, didn't I tell you?
+Dialogue: 0,0:14:27.95,0:14:31.22,main screener,Kirishima,0,0,0,,Sorry to scare you. I'll \Nbe more careful next time.
+Dialogue: 0,0:14:31.22,0:14:33.22,main screener,Yoshino,0,0,0,,Next time?
+Dialogue: 0,0:14:33.98,0:14:35.21,main screener,Kirishima,0,0,0,,Something wrong?
+Dialogue: 0,0:14:43.78,0:14:46.99,main screener,Yoshino,0,0,0,,Uh, s-sorry! I-I...
+Dialogue: 0,0:14:48.94,0:14:52.24,main screener,Kirishima,0,0,0,,Yeah, I can't anymore. \NThis is a pain in the ass.
+Dialogue: 0,0:14:52.24,0:14:53.24,main screener,Yoshino,0,0,0,,Huh??
+Dialogue: 0,0:14:53.78,0:14:57.12,main screener,Kirishima,0,0,0,,I honestly had high hopes for you, Yoshino.
+Dialogue: 0,0:14:57.55,0:15:00.13,main screener,Kirishima,0,0,0,,You're not only the granddaughter of \Nthe leader of the Somei-gumi that's
+Dialogue: 0,0:15:00.13,0:15:03.00,main screener,Kirishima,0,0,0,,affiliated with the Kirigaya-gumi, \Nbut you're also hot.
+Dialogue: 0,0:15:03.00,0:15:07.13,main screener,Kirishima,0,0,0,,I figured you were spoiled \Nrotten, insanely selfish,
+Dialogue: 0,0:15:07.13,0:15:11.51,main screener,Kirishima,0,0,0,,and probably some chick who thought \Nthe world revolved around her.
+Dialogue: 0,0:15:12.51,0:15:16.08,main screener,Kirishima,0,0,0,,I love girls who are hated by other girls.
+Dialogue: 0,0:15:16.08,0:15:19.98,main screener,Kirishima,0,0,0,,I absolutely love having some girl \Nwho doesn't have a single girlfriend
+Dialogue: 0,0:15:19.98,0:15:24.65,main screener,Kirishima,0,0,0,,lead me on with absolutely \Nno mercy or humanity.
+Dialogue: 0,0:15:24.90,0:15:26.82,main screener,Yoshino,0,0,0,,What are you...
+Dialogue: 0,0:15:29.45,0:15:31.57,main screener,Kirishima,0,0,0,,You don't understand what I'm saying?
+Dialogue: 0,0:15:32.18,0:15:37.08,main screener,Kirishima,0,0,0,,Basically, you're way more normal than I \Ncould've imagined, so I got bored with you.
+Dialogue: 0,0:15:37.08,0:15:39.65,main screener,Kirishima,0,0,0,,I thought you'd at least keep \Nme entertained for a year,
+Dialogue: 0,0:15:39.65,0:15:42.58,main screener,Kirishima,0,0,0,,but you're already a pain to deal with now.
+Dialogue: 0,0:15:42.89,0:15:45.51,main screener,Kirishima,0,0,0,,Though this is my own fault for \Nhaving such high hopes for you.
+Dialogue: 0,0:15:47.08,0:15:49.76,main screener,Kirishima,0,0,0,,What do you want to do? Go back to Osaka?
+Dialogue: 0,0:15:50.61,0:15:52.23,main screener,Kirishima,0,0,0,,You can stay here if you want,
+Dialogue: 0,0:15:52.23,0:15:56.10,main screener,Kirishima,0,0,0,,but right now, you're just some chick \Nwith absolutely no value to me.
+Dialogue: 0,0:15:56.86,0:16:00.62,main screener,Kirishima,0,0,0,,If you're gonna stay, could you \Nat least be of some use to me?
+Dialogue: 0,0:16:00.83,0:16:01.85,main screener,Yoshino,0,0,0,,What?
+Dialogue: 0,0:16:02.23,0:16:05.02,main screener,Kirishima,0,0,0,,You're only good for your \Nface and your body, right?
+Dialogue: 0,0:16:05.02,0:16:07.11,main screener,Kirishima,0,0,0,,Why not sell your body and make some cash?
+Dialogue: 0,0:16:07.89,0:16:10.61,main screener,Kirishima,0,0,0,,We actually work with an escort service.
+Dialogue: 0,0:16:10.85,0:16:12.69,main screener,Kirishima,0,0,0,,If you work really hard,
+Dialogue: 0,0:16:12.69,0:16:15.62,main screener,Kirishima,0,0,0,,you should easily be able to make \Na million in like two months.
+Dialogue: 0,0:16:16.06,0:16:18.24,main screener,Kirishima,0,0,0,,They pride themselves on \Nquality and hygiene, too.
+Dialogue: 0,0:16:18.49,0:16:22.00,main screener,Kirishima,0,0,0,,Oh, you've got milder options \Nlike facials and vibrators, too.
+Dialogue: 0,0:16:22.26,0:16:25.25,main screener,Kirishima,0,0,0,,If you don't think you can \Nhandle that, you can go home.
+Dialogue: 0,0:16:25.49,0:16:29.88,main screener,Kirishima,0,0,0,,If you go back to Osaka, tell them \Nexactly what I just said to you.
+Dialogue: 0,0:16:30.27,0:16:34.55,main screener,Kirishima,0,0,0,,It'd be awesome if this ends \Nup starting some shit again.
+Dialogue: 0,0:16:34.55,0:16:38.39,main screener,Kirishima,0,0,0,,My life might actually be over. I can't wait.
+Dialogue: 0,0:16:41.32,0:16:46.16,main screener,Yoshino,0,0,0,,I never imagined that a guy like \Nthat existed in this world.
+Dialogue: 0,0:16:46.55,0:16:48.39,main screener,Yoshino,0,0,0,,Maybe I will go back to Osaka.
+Dialogue: 0,0:16:49.85,0:16:52.03,main screener,Yoshino,0,0,0,,It hasn't even been that long yet though.
+Dialogue: 0,0:16:56.56,0:16:58.38,main screener,Yoshino,0,0,0,,Huh? Mud?
+Dialogue: 0,0:16:58.38,0:17:00.54,main screener,Yoshino,0,0,0,,The hell's mud doing in here?
+Dialogue: 0,0:17:00.54,0:17:03.04,main screener,Yoshino,0,0,0,,Wait... could this be...
+Dialogue: 0,0:17:04.50,0:17:05.79,sign_generic_screener,Sign,0,0,0,,{\fs35\b1\bord1\fade(250,1)\c&H47FAF1&\3c&H000100&\frz335.8\pos(276.8,145.2)}Bullying
+Dialogue: 0,0:17:04.66,0:17:05.79,main screener,Yoshino,0,0,0,,Bullying?
+Dialogue: 0,0:17:05.94,0:17:06.04,sign_generic_screener,Sign,0,0,0,,{\fnTimes New Roman\bord0\c&H678281&\fs15\frz54.33\pos(140,238)}Modern
+Dialogue: 0,0:17:06.04,0:17:06.17,sign_generic_screener,Sign,0,0,0,,{\fnTimes New Roman\bord0\c&H678281&\fs15\frz41.86\pos(198.4,151.6)}Modern
+Dialogue: 0,0:17:06.17,0:17:06.29,sign_generic_screener,Sign,0,0,0,,{\fnTimes New Roman\bord0\c&H678281&\fs15\pos(227.2,108.4)\frz29.02}Modern
+Dialogue: 0,0:17:06.29,0:17:09.67,sign_generic_screener,Sign,0,0,0,,{\fnTimes New Roman\bord0\c&H6A7380&\fs15\pos(260,71.6)\frx12\fry350\frz23.24}Modern
+Dialogue: 0,0:17:06.74,0:17:08.09,main screener,Yoshino,0,0,0,,You can't be serious.
+Dialogue: 0,0:17:08.09,0:17:10.89,main screener,Yoshino,0,0,0,,I've never seen such a stereotypical \Nexample of this in my life.
+Dialogue: 0,0:17:11.63,0:17:13.47,main screener,Yoshino,0,0,0,,I guess I'll take a picture.
+Dialogue: 0,0:17:15.69,0:17:17.86,main screener,Female student 1,0,0,0,,Come on, that's going too far!
+Dialogue: 0,0:17:17.86,0:17:19.82,main screener,Female student 2,0,0,0,,You're the one who said we should do it!
+Dialogue: 0,0:17:23.68,0:17:25.69,sign_generic_screener,Sign,0,0,0,,{\bord0\fs12\c&H393C3D&\pos(336,145.2)\frz21.09\frx18\fry2}Shoma
+Dialogue: 0,0:17:23.68,0:17:25.69,sign_generic_screener,Sign,0,0,0,,{\fs15\3c&HE1E9FA&\c&H161616&\frz21.56\pos(387.2,314)}What are you doing in Tokyo?
+Dialogue: 0,0:17:25.69,0:17:29.15,main screener,Yoshino,0,0,0,,Seriously, what am I doing?
+Dialogue: 0,0:17:34.23,0:17:35.95,main screener,Yoshino,0,0,0,,I wanna go back to Osaka.
+Dialogue: 0,0:17:36.24,0:17:39.64,main screener,Yoshino,0,0,0,,No, wait. What am I saying?
+Dialogue: 0,0:17:44.04,0:17:46.79,sign_generic_screener,Sign,0,0,0,,{\bord0\fs9\frx40\fry16\frz21.21\move(298.4,114,295.2,117.2)}Somei Renji
+Dialogue: 0,0:17:47.18,0:17:49.95,main screener,Renji,0,0,0,,Hey, Yoshino! It's your Gramps!
+Dialogue: 0,0:17:49.95,0:17:51.29,main screener,Renji,0,0,0,,You doin' good?
+Dialogue: 0,0:17:51.55,0:17:54.55,main screener,Yoshino,0,0,0,,Yeah, but... What? Is something wrong?
+Dialogue: 0,0:17:54.55,0:17:59.55,main screener,Renji,0,0,0,,Nah, we were all just talkin' about \Nthe fact that you might be homesick.
+Dialogue: 0,0:18:03.43,0:18:05.10,italics screener,Renji,0,0,0,,What? What's wrong?
+Dialogue: 0,0:18:05.58,0:18:06.93,main screener,Yoshino,0,0,0,,No, it's just...
+Dialogue: 0,0:18:07.52,0:18:08.56,italics screener,Renji,0,0,0,,Are you cryin'?
+Dialogue: 0,0:18:08.82,0:18:11.03,main screener,Yoshino,0,0,0,,You couldn't even beat around the bush?
+Dialogue: 0,0:18:11.44,0:18:14.22,italics screener,Renji,0,0,0,,Thing's goin' good with \Nyou and Miyama's grandson?
+Dialogue: 0,0:18:17.40,0:18:18.66,italics screener,Renji,0,0,0,,One year.
+Dialogue: 0,0:18:19.70,0:18:22.70,main screener,Renji,0,0,0,,No matter how much they oppress you, \Nno matter how much they ostracize you,
+Dialogue: 0,0:18:22.70,0:18:26.20,main screener,Renji,0,0,0,,no matter how much things don't go \Nright, don't come back here for a year.
+Dialogue: 0,0:18:27.22,0:18:29.83,italics screener,Renji,0,0,0,,Latch on like your life depends on it.
+Dialogue: 0,0:18:30.08,0:18:31.62,main screener,Renji,0,0,0,,You got that, Yoshino?
+Dialogue: 0,0:18:32.02,0:18:34.49,main screener,Renji,0,0,0,,Spend the next year makin' \Nthat grandson of Miyama's
+Dialogue: 0,0:18:34.49,0:18:36.59,main screener,Renji,0,0,0,,fall so madly in love with you it kills him.
+Dialogue: 0,0:18:36.59,0:18:40.17,main screener,Renji,0,0,0,,And then after a year, dump \Nhis ass and come back home.
+Dialogue: 0,0:18:40.17,0:18:42.60,main screener,Renji,0,0,0,,That's the best revenge you can get on a guy.
+Dialogue: 0,0:18:44.62,0:18:47.78,italics screener,Renji,0,0,0,,I'm sayin' that plenty of \Nwomen dumped my ass, too!
+Dialogue: 0,0:18:47.78,0:18:50.01,italics screener,Renji,0,0,0,,When I was younger, I \Ngot caught three-timing,
+Dialogue: 0,0:18:50.01,0:18:54.36,italics screener,Renji,0,0,0,,and when those three threw me into \Na lake, I thought I was a goner!
+Dialogue: 0,0:18:55.60,0:18:58.92,italics screener,Renji,0,0,0,,Talk to ya later, Yoshino. \NI'll call you again. Bye!
+Dialogue: 0,0:19:00.20,0:19:04.37,main screener,Yoshino,0,0,0,,All the men in my life are nothing but trash.
+Dialogue: 0,0:19:07.29,0:19:11.37,main screener,Yoshino,0,0,0,,Well, I guess I'm gonna have to \Nlive up to your expectations.
+Dialogue: 0,0:19:14.34,0:19:17.04,main screener,Yoshino,0,0,0,,Hello? It's Yoshino...
+Dialogue: 0,0:19:19.13,0:19:22.42,main screener,Tachibana,0,0,0,,I haven't seen that chick around lately.
+Dialogue: 0,0:19:22.42,0:19:27.31,main screener,Kirishima,0,0,0,,Yeah... She just upped and \Ndisappeared about two weeks ago.
+Dialogue: 0,0:19:27.94,0:19:30.43,main screener,Tachibana,0,0,0,,Hey, you didn't do anything, did you?
+Dialogue: 0,0:19:30.43,0:19:32.10,main screener,Tachibana,0,0,0,,The boss is gonna kill you.
+Dialogue: 0,0:19:32.56,0:19:35.66,main screener,Kirishima,0,0,0,,And the thrill of that danger \Nis what makes me do it.
+Dialogue: 0,0:19:36.79,0:19:39.83,main screener,Tachibana,0,0,0,,You're so creepy, you damn masochist.
+Dialogue: 0,0:19:43.95,0:19:45.20,main screener,Yoshino,0,0,0,,Mornin'.
+Dialogue: 0,0:19:46.20,0:19:48.95,main screener,Yoshino,0,0,0,,It's been a while. You been good?
+Dialogue: 0,0:19:49.36,0:19:50.46,main screener,Kirishima,0,0,0,,Of course.
+Dialogue: 0,0:19:50.73,0:19:53.02,main screener,Kirishima,0,0,0,,How about you, Yoshino?
+Dialogue: 0,0:19:53.02,0:19:54.95,main screener,Yoshino,0,0,0,,I've been doin' all right.
+Dialogue: 0,0:19:54.95,0:19:56.92,main screener,Yoshino,0,0,0,,Did you think I went back to Osaka?
+Dialogue: 0,0:19:56.92,0:19:59.09,main screener,Kirishima,0,0,0,,To be honest, yeah.
+Dialogue: 0,0:19:59.09,0:20:04.01,main screener,Yoshino,0,0,0,,Remember when you said that I was \Nonly good for my face and my body?
+Dialogue: 0,0:20:04.01,0:20:06.35,main screener,Yoshino,0,0,0,,And that I should sell \Nmy body for some money.
+Dialogue: 0,0:20:06.35,0:20:08.10,main screener,Kirishima,0,0,0,,Yeah, I do.
+Dialogue: 0,0:20:08.46,0:20:10.85,main screener,Yoshino,0,0,0,,Honestly, that creeped me out.
+Dialogue: 0,0:20:12.45,0:20:15.20,main screener,Yoshino,0,0,0,,And well, I did sell my body.
+Dialogue: 0,0:20:15.64,0:20:17.86,main screener,Yoshino,0,0,0,,I sold one of my kidneys for 4 mil.
+Dialogue: 0,0:20:20.64,0:20:22.86,main screener,Kirishima,0,0,0,,Your kidney? Where?
+Dialogue: 0,0:20:22.86,0:20:25.95,main screener,Yoshino,0,0,0,,Shikoku: A contact of a contact of a contact.
+Dialogue: 0,0:20:25.95,0:20:28.17,main screener,Yoshino,0,0,0,,I had them take it with an endoscope.
+Dialogue: 0,0:20:28.17,0:20:32.87,main screener,Yoshino,0,0,0,,I'm gonna have to live the rest of \Nmy life watchin' my salt intake.
+Dialogue: 0,0:20:33.12,0:20:36.28,main screener,Yoshino,0,0,0,,Anyway, I'm gonna go back to my class.
+Dialogue: 0,0:20:36.28,0:20:38.98,main screener,Yoshino,0,0,0,,Also, I ain't goin' back to Osaka.
+Dialogue: 0,0:20:38.98,0:20:43.38,main screener,Yoshino,0,0,0,,I could give a rat's ass if you're \Nsome masochistic piece of shit.
+Dialogue: 0,0:20:45.27,0:20:49.14,main screener,Yoshino,0,0,0,,But you know what'll happen if you \Nget too ahead of yourself, right?
+Dialogue: 0,0:20:49.14,0:20:50.04,main screener,Yoshino,0,0,0,,Hey!
+Dialogue: 0,0:20:50.40,0:20:52.14,main screener,Yoshino,0,0,0,,I'm talkin' to you three, too.
+Dialogue: 0,0:20:52.14,0:20:57.84,main screener,Yoshino,0,0,0,,No matter how much I try to make an honest \Nlivin', I'm gonna die a real shitty death.
+Dialogue: 0,0:20:58.15,0:20:59.40,main screener,Yoshino,0,0,0,,In that case...
+Dialogue: 0,0:20:59.40,0:21:02.12,main screener,Yoshino,0,0,0,,Even if I have to crawl around \Non the floor and cough up blood,
+Dialogue: 0,0:21:02.12,0:21:06.93,main screener,Yoshino,0,0,0,,I'll take y'all down to hell \Nwith me and ruin your lives!
+Dialogue: 0,0:21:08.49,0:21:10.81,main screener,Yoshino,0,0,0,,Anyway, just thought you should know.
+Dialogue: 0,0:21:17.82,0:21:19.41,main screener,Yoshino,0,0,0,,Uh? What?
+Dialogue: 0,0:21:20.39,0:21:22.09,main screener,Kirishima,0,0,0,,I love you!
+Dialogue: 0,0:21:23.92,0:21:27.13,main screener,Kirishima,0,0,0,,I've never felt so excited in my life!
+Dialogue: 0,0:21:27.13,0:21:28.18,main screener,Kirishima,0,0,0,,I'm still excited!
+Dialogue: 0,0:21:28.70,0:21:32.18,main screener,Kirishima,0,0,0,,That must mean that I \Nlove you, right, Yoshino?
+Dialogue: 0,0:21:32.18,0:21:34.25,main screener,Yoshino,0,0,0,,Wait, what?
+Dialogue: 0,0:21:34.25,0:21:36.50,main screener,Kirishima,0,0,0,,I love you! Let's absolutely get married!
+Dialogue: 0,0:21:36.50,0:21:38.77,main screener,Kirishima,0,0,0,,I want you to mess up my life!
+Dialogue: 0,0:21:38.77,0:21:40.27,main screener,Yoshino,0,0,0,,What?!
+Dialogue: 0,0:21:40.27,0:21:42.88,main screener,Yoshino,0,0,0,,You've got to be messed up in the head!
+Dialogue: 0,0:21:42.88,0:21:45.13,main screener,Yoshino,0,0,0,,Did you already forget what \Nyou told me the other day?!
+Dialogue: 0,0:21:45.13,0:21:47.07,main screener,Kirishima,0,0,0,,Yeah, I'm really sorry about that!
+Dialogue: 0,0:21:47.07,0:21:50.03,main screener,Kirishima,0,0,0,,But I know now! I was wrong!
+Dialogue: 1,0:21:50.03,0:21:52.30,main screener,Kirishima,0,0,0,,No, really! I'm in love with you!\NI've got a boner right now!
+Dialogue: 0,0:21:50.03,0:21:55.41,sign_generic_screener,Sign,0,0,0,,{\b1\bord0.5\shad1\fs12\3c&H3D4F4C&\4c&H3D4F4C&\c&H7D9B94&\frx16\fry346\frz5.065\move(309.6,251.6,309.6,387.8)}Oren Private High School
+Dialogue: 1,0:21:52.30,0:21:54.43,main screener,Yoshino,0,0,0,,You're so gross!
+Dialogue: 0,0:21:55.75,0:21:57.92,main screener,Gaku,0,0,0,,All right, I see.
+Dialogue: 0,0:21:57.92,0:22:00.67,main screener,Gaku,0,0,0,,I'll tell my boys, too.
+Dialogue: 0,0:22:00.67,0:22:01.90,main screener,Gaku,0,0,0,,Talk to ya later.
+Dialogue: 0,0:22:02.96,0:22:04.31,main screener,Tachibana,0,0,0,,Is something the matter?
+Dialogue: 0,0:22:05.39,0:22:08.69,main screener,Gaku,0,0,0,,Something really annoying just happened...

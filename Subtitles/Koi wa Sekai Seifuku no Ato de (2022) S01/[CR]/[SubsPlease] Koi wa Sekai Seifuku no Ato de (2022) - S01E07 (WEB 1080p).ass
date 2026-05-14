@@ -1,0 +1,488 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,20,0
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: sign_3317_26_The_cuteness,Arial,10,&H00030000,&H000000FF,&H00FDFFFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_5517_46_Allow_me_to_expl,Times New Roman,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,20,1
+Style: sign_5871_55_Missing,Trebuchet MS,24,&H00000000,&H000000FF,&H003723A7,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_8302_60_Episode_1__I_Lov,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00C419C8,&H006CEBF1,0,0,0,0,100,100,0,0,1,2,2,7,30,30,20,1
+Style: sign_9447_74_1_Week_Earlier,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,30,30,20,1
+Style: sign_9769_111_Reaper_Princess_,Trebuchet MS,12,&H004B3374,&H000000FF,&H00A48CCD,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,30,30,20,1
+Style: sign_10322_110_Bluuush,Trebuchet MS,29,&H006631D4,&H000000FF,&H00EAEEF6,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,7,30,30,20,1
+Style: sign_10159_85_Refreshing__Goes,Arial,20,&H00F9FFFA,&H000000FF,&H007C8C81,&H0042C7F2,-1,0,0,0,100,100,0,0,1,1,2,4,30,20,20,1
+Style: sign_24298_247_squee,Trebuchet MS,24,&H006F39DC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_2638_16_Opening_Theme___,Verdana,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_3807_20_Tense,Trebuchet MS,17,&H005E8EF2,&H000000FF,&H006F34A7,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,30,30,20,1
+Style: sign_4134_39_Hmmm___,Comic Sans MS,30,&H00000000,&H000000FF,&H32FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_4134_36_Pasta_Set__Desse,Trebuchet MS,20,&H0050634B,&H000000FF,&H00D3F6E0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_4134_37_Green_Tea_Puddin,Trebuchet MS,8,&H00667569,&H000000FF,&H00D3E2D8,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_6040_68_Supreme_Leader_B,Trebuchet MS,8,&H003C3F3C,&H000000FF,&H00F7FAF8,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_8187_110_Fusion_Concept_D,Trebuchet MS,19,&H002B282A,&H000000FF,&H322C2683,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_9132_124_Lifetime_Soldier,Times New Roman,34,&H002B282A,&H000000FF,&H32FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,30,30,20,1
+Style: sign_11462_157_Fudo,Arial,25,&H00FFFFFF,&H000000FF,&H64000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+Style: sign_12413_166_I_m_here__Desumi,Arial,11,&H008A8D8A,&H000000FF,&H64FCFFFC,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,7,30,30,20,1
+Style: sign_13667_180_Gekko_Interview_,Times New Roman,20,&H00ADB2AD,&H000000FF,&H003B4E59,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,30,30,20,1
+Style: sign_16692_216_Burned,Trebuchet MS,25,&H00F6B476,&H000000FF,&H00FCFAFB,&H00000000,-1,-1,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+Style: sign_16960_219_I_told_them_I_di,Arial,12,&H00292C29,&H000000FF,&H64FCFFFC,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,7,30,30,20,1
+Style: sign_18009_232_Ack,Verdana,25,&H004EF4F3,&H000000FF,&H005F76EA,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,30,30,20,1
+Style: sign_18970_254_Sparkle,Verdana,25,&H00273ADE,&H000000FF,&H00383062,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,30,30,20,1
+Style: sign_19313_258_Gekko_Aquatic_Co,Trebuchet MS,8,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,20,1
+Style: sign_20134_270_Majima,Comic Sans MS,25,&H007A6657,&H000000FF,&H00F2EAE0,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,20,1
+Style: sign_22115_299_Ta_dah,Trebuchet MS,25,&H005CE8EE,&H000000FF,&HC8000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,30,30,20,1
+Style: sign_24901_335_She_s,Verdana,25,&H001B1E1C,&H000000FF,&H00F6F9F6,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,30,30,20,1
+Style: sign_25372_343_Menace,Verdana,25,&H008F1E2A,&H000000FF,&H00CD9292,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,20,1
+Style: sign_26979_373_grin,Trebuchet MS,25,&H0066DBDD,&H000000FF,&H0008435B,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+Style: sign_27088_375_shake,Verdana,20,&H009DF3E7,&H000000FF,&H008288D6,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,20,1
+Style: sign_29201_397_Handheld__200_Sp,Arial,20,&H003B5A5E,&H000000FF,&H00FFFFF6,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_29992_408_clunk,Trebuchet MS,30,&H0082F8FA,&H000000FF,&H00BBBDBD,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,20,1
+Style: sign_1062_13_Indifference,Verdana,15,&H009AFF9E,&H000000FF,&H00FEFFEB,&H00000000,-1,-1,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_2154_30_Crash,Verdana,35,&H004E3EDA,&H000000FF,&H00A292DF,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,9,30,30,20,1
+Style: sign_4795_38_Infirmary,Arial,28,&H009E8E75,&H000000FF,&H00F8FCF9,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_5895_51_Intense,Trebuchet MS,28,&H009730F5,&H000000FF,&H0078308F,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,30,30,20,1
+Style: sign_6455_60_Oda_Style_Karate,Trebuchet MS,13,&H002A3442,&H000000FF,&H32698695,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,30,30,20,1
+Style: sign_8615_89_Gasp__,Comic Sans MS,40,&H00261917,&H000000FF,&H00FFBB76,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,30,30,20,1
+Style: sign_8657_90_knock_knock,Trebuchet MS,19,&H00A4D1E1,&H000000FF,&H32FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_11330_126_Fair_and_Equal,Times New Roman,25,&H64655138,&H000000FF,&H64836D53,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+Style: sign_16865_197_Tremble,Verdana,20,&H00F5F1E4,&H000000FF,&H004D3926,&H00000000,0,0,0,0,100,100,0,0,1,1,0,7,30,30,20,1
+Style: sign_17499_210_Desperation,Times New Roman,25,&H00462097,&H000000FF,&H00F4F5EB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,30,30,20,1
+Style: sign_18270_222_Gusco,Verdana,23,&H009966C2,&H000000FF,&H00383062,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_18860_230_Tremble,Trebuchet MS,28,&H00F5FBF3,&H000000FF,&H00161911,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_20105_251_Relief,Trebuchet MS,25,&H009BFFB3,&H000000FF,&HC866DE6E,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,30,30,20,1
+Style: sign_20172_253_Disappointment__,Trebuchet MS,14,&H00F9F1B8,&H000000FF,&HC8AE9571,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,7,30,30,20,1
+Style: sign_21757_273_Twitch,Verdana,25,&H006EF6FE,&H000000FF,&H32616249,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,7,30,30,20,1
+Style: sign_22864_288_Hee_hee_hee___,Trebuchet MS,35,&H00D54AE5,&H000000FF,&H00EA9CFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,30,30,20,1
+Style: sign_22930_289_Scoop___Red___Bl,Verdana,20,&H0058C1CB,&H000000FF,&H003947C1,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,30,30,20,1
+Style: sign_22930_290_Announce_Their_R,Verdana,20,&H00BB6DDD,&H000000FF,&H00DF5CAF,&H00FFFEFD,-1,0,0,0,100,100,0,0,1,2,2,7,30,30,20,1
+Style: sign_23666_300_Gelato_5_New_Emp,Verdana,15,&H0050ADCE,&H000000FF,&H00041E45,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,30,30,20,1
+Style: sign_24581_314_bap_bap,Verdana,35,&H00D23FEB,&H000000FF,&H00E59FEF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,30,30,20,1
+Style: sign_30349_385_Grin_Grin,Verdana,25,&H004A71EA,&H000000FF,&H002844A3,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+Style: sign_30614_390_Squeeze,Trebuchet MS,25,&H00A88DEC,&H000000FF,&H007A4BD4,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,9,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.83,0:00:18.30,main,Haru,0,0,0,,Misaki-san! All done for the day?
+Dialogue: 0,0:00:18.30,0:00:19.45,main,Misaki,0,0,0,,Yeah, I'm checking out.
+Dialogue: 0,0:00:19.45,0:00:20.12,main,Misaki,0,0,0,,What?
+Dialogue: 0,0:00:20.12,0:00:22.05,main,Misaki,0,0,0,,Daigo, you're still here?
+Dialogue: 0,0:00:22.05,0:00:24.59,main,Daigo,0,0,0,,Yeah, Fudo is working the late shift.
+Dialogue: 0,0:00:24.90,0:00:26.38,main,Daigo,0,0,0,,I decided to make him some rations.
+Dialogue: 0,0:00:27.55,0:00:30.25,main,Misaki,0,0,0,,Truly impressive as ever!
+Dialogue: 0,0:00:30.54,0:00:33.46,main,Haru,0,0,0,,All that on top of scouting \Nout new heroes for the team.
+Dialogue: 0,0:00:33.46,0:00:35.55,main,Haru,0,0,0,,You must be very busy!
+Dialogue: 0,0:00:36.04,0:00:37.14,main,Daigo,0,0,0,,It's not a problem.
+Dialogue: 0,0:00:38.72,0:00:40.53,main,Misaki,0,0,0,,Well, Daigo?
+Dialogue: 0,0:00:40.53,0:00:43.98,main,Misaki,0,0,0,,Feel like scouting {\i1}me{\i0}\Nas a companion for life?
+Dialogue: 0,0:00:43.98,0:00:45.54,italics,Daigo,0,0,0,,Indifference...
+Dialogue: 0,0:00:44.29,0:00:48.21,sign_1062_13_Indifference,sign,0,0,0,,{\move(545,75,545,45)\fad(588,1163)}Indifference
+Dialogue: 0,0:00:45.54,0:00:47.07,main,Misaki,0,0,0,,At least don't ignore me!
+Dialogue: 0,0:00:47.07,0:00:48.47,main,Misaki,0,0,0,,You're making me cry!
+Dialogue: 0,0:00:48.98,0:00:51.00,main,Daigo,0,0,0,,Workplace relationships are off-limits.
+Dialogue: 0,0:00:51.00,0:00:53.61,main,Misaki,0,0,0,,As if I don't know that! You goody-goody!
+Dialogue: 0,0:00:54.15,0:00:56.92,main,Haru,0,0,0,,Daigo-san is completely unflappable.
+Dialogue: 0,0:00:56.92,0:01:01.12,main,Haru,0,0,0,,He's calm by nature, \Nand levelheaded in combat.
+Dialogue: 0,0:01:01.34,0:01:05.00,main,Haru,0,0,0,,He never loses his cool... unlike me.
+Dialogue: 0,0:01:05.00,0:01:09.69,main,Misaki,0,0,0,,Yeah. Psychologically speaking, \NDaigo is our organization's rock.
+Dialogue: 0,0:01:14.05,0:01:15.42,main,Daigo,0,0,0,,I brought dinner.
+Dialogue: 0,0:01:16.46,0:01:17.96,main,Fudo,0,0,0,,Thank you, Daigo-san.
+Dialogue: 0,0:01:18.73,0:01:20.04,main,Daigo,0,0,0,,Working hard?
+Dialogue: 0,0:01:20.04,0:01:22.26,main,Fudo,0,0,0,,I'm writing an exchange diary!
+Dialogue: 0,0:01:22.26,0:01:25.00,main,Daigo,0,0,0,,Oh. With the girl who \Nvisited you at the beach?
+Dialogue: 0,0:01:25.00,0:01:28.27,main,Fudo,0,0,0,,That's right. I never introduced \Nthe two of you, did I?
+Dialogue: 0,0:01:28.27,0:01:30.10,main,Fudo,0,0,0,,Her name is Desumi-san—
+Dialogue: 0,0:01:29.83,0:01:31.15,sign_2154_30_Crash,sign,0,0,0,,Crash
+Dialogue: 0,0:01:31.15,0:01:32.11,main,Fudo,0,0,0,,Daigo-san?
+Dialogue: 0,0:01:34.09,0:01:37.37,main,Daigo,0,0,0,,D-Desu... Desu...
+Dialogue: 0,0:01:38.49,0:01:39.77,main,Daigo,0,0,0,,Desu...mi...
+Dialogue: 0,0:01:39.77,0:01:41.25,main,Fudo,0,0,0,,A-Are you all right?!
+Dialogue: 0,0:01:41.94,0:01:44.54,main,Daigo,0,0,0,,Desumi... Magahara...
+Dialogue: 0,0:01:45.00,0:01:46.42,main,Fudo,0,0,0,,Daigo-san?
+Dialogue: 0,0:01:46.42,0:01:48.42,main,Fudo,0,0,0,,Daigo-san?!
+Dialogue: 0,0:03:19.97,0:03:24.22,sign_4795_38_Infirmary,Sign,0,0,0,,{\frz-7.78\fax0.14\fsp6\pos(280,75)}Infirmary
+Dialogue: 0,0:03:20.01,0:03:24.22,sign_8302_60_Episode_1__I_Lov,title,0,0,0,,{\an1\pos(38,305)\fscx88\fad(1330,1)}Episode 7    {\fscx100\fsp4.3}Desumi Magahara Is the Monster I Made
+Dialogue: 0,0:03:24.87,0:03:26.22,main,Fudo,0,0,0,,Here, some water.
+Dialogue: 0,0:03:26.92,0:03:27.96,main,Daigo,0,0,0,,It's appreciated.
+Dialogue: 0,0:03:37.53,0:03:38.73,main,Fudo,0,0,0,,Daigo-san...
+Dialogue: 0,0:03:38.73,0:03:42.33,main,Fudo,0,0,0,,It's hard to believe, but do \Nyou already know Desumi-san?
+Dialogue: 0,0:03:43.83,0:03:44.87,main,Daigo,0,0,0,,Yes.
+Dialogue: 0,0:03:44.87,0:03:48.27,main,Fudo,0,0,0,,That's right, you were also born in Hakata.
+Dialogue: 0,0:03:48.66,0:03:51.38,main,Fudo,0,0,0,,Do you have some kind of history with her?
+Dialogue: 0,0:03:55.25,0:04:00.26,main,Daigo,0,0,0,,Desumi Magahara is the monster I made.
+Dialogue: 0,0:04:00.81,0:04:03.22,main,Fudo,0,0,0,,Are you saying you knew her as a child?!
+Dialogue: 0,0:04:04.29,0:04:06.13,main,Fudo,0,0,0,,Tell me everything!
+Dialogue: 0,0:04:05.86,0:04:08.72,sign_5895_51_Intense,Sign,0,0,0,,{\fax0.01\frz-27.54\move(110,65,110,75)\fad(344,1)}Intense
+Dialogue: 0,0:04:06.13,0:04:08.72,main,Fudo,0,0,0,,Everything about Desumi-san \Nthat I don't already know!
+Dialogue: 0,0:04:10.05,0:04:12.55,main,Daigo,0,0,0,,It's a truly terrifying story.
+Dialogue: 0,0:04:12.55,0:04:14.85,main,Daigo,0,0,0,,I'd prefer you not ask unless \Nyou're prepared for the worst.
+Dialogue: 0,0:04:14.85,0:04:16.04,main,Fudo,0,0,0,,That's ridiculous!
+Dialogue: 0,0:04:16.04,0:04:17.86,main,Fudo,0,0,0,,I'm prepared for anything!
+Dialogue: 0,0:04:19.34,0:04:20.36,main,Daigo,0,0,0,,Very well.
+Dialogue: 0,0:04:21.02,0:04:22.76,main,Daigo,0,0,0,,I'll tell you, then...
+Dialogue: 0,0:04:22.76,0:04:24.65,main,Daigo,0,0,0,,Of the day that the \N"Land of Demons," Fukuoka,
+Dialogue: 0,0:04:24.65,0:04:27.64,main,Daigo,0,0,0,,became the home of a true demon.
+Dialogue: 0,0:04:29.20,0:04:33.21,sign_6455_60_Oda_Style_Karate,sign,0,0,0,,{\move(375,265,400,265)\frz-2.29\fax0.07}Oda-Style\NKarate
+Dialogue: 0,0:04:31.31,0:04:33.21,main,Daigo,0,0,0,,This was ten years ago.
+Dialogue: 0,0:04:33.21,0:04:38.21,sign_6455_60_Oda_Style_Karate,sign,0,0,0,,{\an8\fs40\c&H323135&\3c&H7997A3&\bord4}Oda-Style Karate
+Dialogue: 0,0:04:33.96,0:04:36.25,main,Daigo,0,0,0,,I was still in middle school then.
+Dialogue: 0,0:04:40.59,0:04:45.34,main,Daigo,0,0,0,,I was a promising talent \Nat a famous karate school.
+Dialogue: 0,0:04:46.91,0:04:50.36,main,Daigo,0,0,0,,I had no rivals among the older \Nstudents, let alone among my peers.
+Dialogue: 0,0:04:50.36,0:04:52.45,main,Daigo,0,0,0,,I believed myself the best in the prefecture.
+Dialogue: 0,0:04:53.30,0:04:55.96,main,Daigo,0,0,0,,And then... she arrived.
+Dialogue: 0,0:04:58.36,0:05:00.73,flashback,Instructor,0,0,0,,This is Desumi Magahara. She's seven.
+Dialogue: 0,0:05:01.07,0:05:02.46,flashback,Instructor,0,0,0,,Give her your best, everyone.
+Dialogue: 0,0:05:03.11,0:05:05.34,sign_3317_26_The_cuteness,sign,0,0,0,,{\pos(390,185)}Oh so cute
+Dialogue: 0,0:05:03.45,0:05:04.75,main,Fudo,0,0,0,,Oh so cute...
+Dialogue: 0,0:05:04.75,0:05:06.68,main,Daigo,0,0,0,,I'll ask you not to smile \Nand stare absently, please.
+Dialogue: 0,0:05:07.03,0:05:08.31,main,Daigo,0,0,0,,There's far more to the story.
+Dialogue: 0,0:05:09.48,0:05:11.87,main,Daigo,0,0,0,,These were the first words out of her mouth:
+Dialogue: 0,0:05:12.25,0:05:15.56,flashback,Desumi,0,0,0,,I try to play with stuff an' always break it.
+Dialogue: 0,0:05:15.56,0:05:17.82,flashback,Desumi,0,0,0,,I'm gonna try hard not to break nothin' here!
+Dialogue: 0,0:05:17.82,0:05:19.65,flashback,Dojo Student A,0,0,0,,Well, look at that little terror!
+Dialogue: 0,0:05:25.63,0:05:28.50,flashback,Instructor,0,0,0,,Daigo, look after her, would you?
+Dialogue: 0,0:05:32.68,0:05:34.01,flashback,Daigo,0,0,0,,Young Desu, was it?
+Dialogue: 0,0:05:34.01,0:05:35.32,flashback,Daigo,0,0,0,,I'd like to see what you can do.
+Dialogue: 0,0:05:35.32,0:05:36.35,flashback,Daigo,0,0,0,,Give me a hit, right here.
+Dialogue: 0,0:05:37.96,0:05:38.85,flashback,Desumi,0,0,0,,A hit?
+Dialogue: 0,0:05:39.48,0:05:41.08,flashback,Desumi,0,0,0,,What's that? Like a punch?
+Dialogue: 0,0:05:41.08,0:05:42.11,flashback,Daigo,0,0,0,,Yes, that's right.
+Dialogue: 0,0:05:42.67,0:05:44.74,flashback,Desumi,0,0,0,,Like this?
+Dialogue: 0,0:05:48.35,0:05:51.23,flashback,Daigo's mother,0,0,0,,Upsy-daisy!
+Dialogue: 0,0:05:51.61,0:05:55.42,flashback,Daigo's grandmother,0,0,0,,Dai-chan chose the chopsticks!
+Dialogue: 0,0:05:56.37,0:05:59.17,flashback,Daigo's father,0,0,0,,You're going to start learning karate today.
+Dialogue: 0,0:05:59.31,0:06:00.54,sign_8615_89_Gasp__,Sign,0,0,0,,Gasp!!
+Dialogue: 0,0:06:00.86,0:06:03.32,flashback italics,Daigo,0,0,0,,D-Did my life just flash before my eyes?
+Dialogue: 0,0:06:01.06,0:06:01.56,sign_8657_90_knock_knock,Sign,0,0,0,,{\pos(495,255)}knock\Nknock
+Dialogue: 0,0:06:02.06,0:06:03.32,sign_8657_90_knock_knock,Sign,0,0,0,,{\pos(495,255)}knock\Nknock
+Dialogue: 0,0:06:03.32,0:06:06.55,flashback italics,Daigo,0,0,0,,I, the strongest in the dojo, \Nwas nearly killed by a second-grader?!
+Dialogue: 0,0:06:03.82,0:06:06.55,sign_8657_90_knock_knock,Sign,0,0,0,,{\move(490,255,490,250)}knock\Nknock
+Dialogue: 0,0:06:06.55,0:06:09.05,flashback,Desumi,0,0,0,,Sorry. It didn't hurt too bad, did it?
+Dialogue: 0,0:06:09.95,0:06:13.43,flashback,Daigo,0,0,0,,It was an excellent straight punch, \Nbut it didn't even faze me.
+Dialogue: 0,0:06:13.67,0:06:15.58,flashback,Desumi,0,0,0,,S-So cool!
+Dialogue: 0,0:06:15.58,0:06:17.18,flashback,Desumi,0,0,0,,You're the first thing I couldn't break!
+Dialogue: 0,0:06:17.56,0:06:20.02,flashback,Desumi,0,0,0,,Can I hit you again?!
+Dialogue: 0,0:06:20.02,0:06:22.13,flashback,Daigo,0,0,0,,N-Not... today.
+Dialogue: 0,0:06:22.13,0:06:23.82,flashback,Daigo,0,0,0,,I don't want you hurting your fists.
+Dialogue: 0,0:06:26.89,0:06:29.94,flashback,Desumi,0,0,0,,Let's play again, Daigo-niichan!
+Dialogue: 0,0:06:31.28,0:06:34.41,main,Fudo,0,0,0,,Little Desumi-san is everything \NI'd expect! A true child prodigy!
+Dialogue: 0,0:06:34.89,0:06:37.70,main,Daigo,0,0,0,,I didn't entirely believe it at the time.
+Dialogue: 0,0:06:38.17,0:06:40.04,main,Daigo,0,0,0,,I chalked it up to dumb luck.
+Dialogue: 0,0:06:40.91,0:06:42.42,main,Daigo,0,0,0,,But then, the next day...
+Dialogue: 0,0:06:44.42,0:06:45.80,flashback,Daigo,0,0,0,,Good morning.
+Dialogue: 0,0:06:46.11,0:06:48.30,flashback,Daigo,0,0,0,,Instructor, why are you taking down the sign?
+Dialogue: 0,0:06:49.38,0:06:52.05,flashback,Instructor,0,0,0,,I'm sorry, but I'm closing the dojo.
+Dialogue: 0,0:06:54.67,0:06:57.82,flashback,Instructor,0,0,0,,I was trying to train a second-grader...
+Dialogue: 0,0:06:58.25,0:07:00.67,flashback,Instructor,0,0,0,,and she actually {\i1}beat{\i0} me.
+Dialogue: 0,0:07:00.67,0:07:02.70,flashback,Instructor,0,0,0,,I'm a failure as an instructor.
+Dialogue: 0,0:07:02.70,0:07:04.57,flashback,Instructor,0,0,0,,I'm going to become a hermit.
+Dialogue: 0,0:07:04.85,0:07:05.69,flashback,Daigo,0,0,0,,There's no way...
+Dialogue: 0,0:07:13.51,0:07:15.50,flashback,Desumi,0,0,0,,Daigo-niichan!
+Dialogue: 0,0:07:15.50,0:07:16.83,flashback,Daigo,0,0,0,,Young Desu?
+Dialogue: 0,0:07:17.15,0:07:20.14,flashback,Desumi,0,0,0,,I heard the dojo was goin' away.
+Dialogue: 0,0:07:22.54,0:07:24.27,flashback,Desumi,0,0,0,,This is always what happens.
+Dialogue: 0,0:07:26.20,0:07:28.53,flashback,Desumi,0,0,0,,Every place where I have fun
+Dialogue: 0,0:07:28.84,0:07:31.30,flashback,Desumi,0,0,0,,always goes away...
+Dialogue: 0,0:07:41.52,0:07:43.77,flashback,Daigo,0,0,0,,Don't worry, Young Desu.
+Dialogue: 0,0:07:43.77,0:07:45.66,flashback,Daigo,0,0,0,,I'll train you.
+Dialogue: 0,0:07:46.77,0:07:49.03,flashback,Daigo,0,0,0,,So please, no more tears.
+Dialogue: 0,0:07:50.35,0:07:52.10,flashback,Desumi,0,0,0,,Daigo-niichan!
+Dialogue: 0,0:07:52.53,0:07:57.78,sign_11330_126_Fair_and_Equal,sign,0,0,0,,{\t(1,5250,\fs22)}Fair and Equal
+Dialogue: 0,0:07:53.53,0:07:56.47,flashback,Daigo,0,0,0,,Starting today, I will be your teacher.
+Dialogue: 0,0:07:58.46,0:08:01.43,main,Daigo,0,0,0,,I had no way of knowing this at the time,
+Dialogue: 0,0:08:01.43,0:08:04.66,main,Daigo,0,0,0,,but that was the moment \NI'd opened Pandora's box.
+Dialogue: 0,0:08:18.23,0:08:19.18,flashback,Daigo,0,0,0,,You've improved quite a lot.
+Dialogue: 0,0:08:19.68,0:08:23.05,flashback,Daigo,0,0,0,,But I fear you're a long \Nway from catching up to me.
+Dialogue: 0,0:08:23.66,0:08:27.44,main,Daigo,0,0,0,,I was desperate to save face as her teacher.
+Dialogue: 0,0:08:27.44,0:08:30.22,flashback,Desumi,0,0,0,,You're so strong, Instructor!
+Dialogue: 0,0:08:30.22,0:08:33.45,main,Daigo,0,0,0,,But all I did was stoke her enthusiasm.
+Dialogue: 0,0:08:34.02,0:08:36.26,main,Daigo,0,0,0,,I worked desperately to make myself stronger
+Dialogue: 0,0:08:36.26,0:08:38.27,main,Daigo,0,0,0,,just to keep her from killing me.
+Dialogue: 0,0:08:38.27,0:08:42.20,main,Fudo,0,0,0,,So Desumi-san is the reason \Nwhy you're so strong!
+Dialogue: 0,0:08:42.87,0:08:44.71,main,Daigo,0,0,0,,And as the days passed...
+Dialogue: 0,0:08:46.86,0:08:50.34,flashback,Punk A,0,0,0,,Hey! You Desumi Magahara?
+Dialogue: 0,0:08:53.30,0:08:56.10,flashback,Punk B,0,0,0,,Looks like your average \Nmiddle schooler to me.
+Dialogue: 0,0:08:56.55,0:08:59.60,flashback,Punk C,0,0,0,,But takin' her down'll be our ticket to fame!
+Dialogue: 0,0:09:01.58,0:09:03.28,main,Daigo,0,0,0,,Rumors spread like wildfire,
+Dialogue: 0,0:09:03.28,0:09:07.10,main,Daigo,0,0,0,,and soon, Young Desu was forced \Nto deal with hooligans constantly.
+Dialogue: 0,0:09:07.49,0:09:10.64,flashback,Desumi,0,0,0,,I gotta make dinner for \Nmy little brothers today.
+Dialogue: 0,0:09:10.64,0:09:12.09,flashback,Desumi,0,0,0,,Mind givin' me a break?
+Dialogue: 0,0:09:12.09,0:09:13.97,flashback,Punk B,0,0,0,,Too bad, girlie!
+Dialogue: 0,0:09:13.97,0:09:16.07,flashback,Punk B,0,0,0,,Your little bros'll have \Nto go hungry tonight!
+Dialogue: 0,0:09:18.39,0:09:24.58,main,Daigo,0,0,0,,And soon, Young Desu became known \Nas the Reaper of Oyafuko-dori.
+Dialogue: 0,0:09:24.58,0:09:26.48,main,Fudo,0,0,0,,What a fun nickname!
+Dialogue: 0,0:09:26.48,0:09:28.52,main,Fudo,0,0,0,,I'll tease her about it \Nin our exchange diary.
+Dialogue: 0,0:09:30.18,0:09:32.03,main,Daigo,0,0,0,,Then, during the last\Nwinter of high school,
+Dialogue: 0,0:09:32.36,0:09:35.74,main,Daigo,0,0,0,,my parents divorced,\Nand I had to move to Tokyo.
+Dialogue: 0,0:09:38.29,0:09:41.47,main,Daigo,0,0,0,,But I had one last piece \Nof business to take care of.
+Dialogue: 0,0:09:47.79,0:09:49.75,main,Daigo,0,0,0,,Settling things with Young Desu!
+Dialogue: 0,0:09:50.86,0:09:53.32,flashback,Desumi,0,0,0,,It's been forever, Daigo-niichan!
+Dialogue: 0,0:09:53.32,0:09:54.61,flashback,Desumi,0,0,0,,Where ya been?
+Dialogue: 0,0:09:54.61,0:09:56.02,flashback,Daigo,0,0,0,,Listen closely, Young Desu.
+Dialogue: 0,0:09:58.59,0:10:00.62,flashback,Daigo,0,0,0,,This will be our final practice.
+Dialogue: 0,0:10:01.08,0:10:02.87,flashback,Daigo,0,0,0,,Let us both give it all we have.
+Dialogue: 0,0:10:05.75,0:10:09.37,flashback italics,Daigo,0,0,0,,I've been training hard for so \Nlong in anticipation of this day.
+Dialogue: 0,0:10:10.54,0:10:14.76,flashback italics,Daigo,0,0,0,,I made this monster. Now I must slay it!
+Dialogue: 0,0:10:16.42,0:10:17.38,flashback,Daigo,0,0,0,,Let's begin!
+Dialogue: 0,0:10:18.83,0:10:23.89,main,Daigo,0,0,0,,Two minutes later, I lay upon the \Nground like a tattered rag.
+Dialogue: 0,0:10:23.89,0:10:26.17,flashback,Desumi,0,0,0,,We said we wouldn't take \Nit easy on each other,
+Dialogue: 0,0:10:26.17,0:10:27.51,flashback,Desumi,0,0,0,,but you totally held back on me.
+Dialogue: 0,0:10:27.51,0:10:29.54,flashback italics,Daigo,0,0,0,,I swear to God, I didn't.
+Dialogue: 0,0:10:30.35,0:10:32.82,flashback,Daigo,0,0,0,,What kind of instructor could \Ngo all-out on his student?
+Dialogue: 0,0:10:34.42,0:10:35.95,flashback italics,Daigo,0,0,0,,What a fool I am.
+Dialogue: 0,0:10:37.37,0:10:38.95,flashback,Daigo,0,0,0,,Farewell, Young Desu.
+Dialogue: 0,0:10:39.50,0:10:40.99,flashback,Desumi,0,0,0,,Daigo-niichan!
+Dialogue: 0,0:10:42.55,0:10:44.83,flashback,Desumi,0,0,0,,Will I ever see you again?
+Dialogue: 0,0:10:44.83,0:10:45.85,flashback italics,Daigo,0,0,0,,You will not.
+Dialogue: 0,0:10:45.85,0:10:49.55,flashback,Desumi,0,0,0,,When we meet again, will we practice \Ntogether again, like we did today?
+Dialogue: 0,0:10:49.55,0:10:50.83,flashback italics,Daigo,0,0,0,,Absolutely not.
+Dialogue: 0,0:10:50.83,0:10:54.19,flashback,Desumi,0,0,0,,When we do, I promise to go \Nall-out for the first time!
+Dialogue: 0,0:10:54.19,0:10:55.80,flashback italics,Daigo,0,0,0,,She wasn't even going all-out back there?
+Dialogue: 0,0:10:55.80,0:10:56.90,flashback italics,Daigo,0,0,0,,Terrifying...
+Dialogue: 0,0:10:56.90,0:10:58.28,flashback italics,Daigo (Echo),0,0,0,,{\fs19}Terrifying...
+Dialogue: 0,0:10:58.28,0:11:01.07,main,Daigo,0,0,0,,I left for Tokyo like a man on the run,
+Dialogue: 0,0:11:01.07,0:11:03.05,main,Daigo,0,0,0,,and was scouted to be a hero.
+Dialogue: 0,0:11:04.22,0:11:07.00,main,Daigo,0,0,0,,It appears the memories \Nwere so frightening to me,
+Dialogue: 0,0:11:07.00,0:11:08.84,main,Daigo,0,0,0,,I unconsciously sealed them away.
+Dialogue: 0,0:11:09.15,0:11:10.87,main,Daigo,0,0,0,,It's pathetic, I'm sure.
+Dialogue: 0,0:11:11.65,0:11:15.03,main,Daigo,0,0,0,,But I can't believe she's here in Tokyo.
+Dialogue: 0,0:11:15.35,0:11:16.70,main,Daigo,0,0,0,,What in the world brought her here?
+Dialogue: 0,0:11:17.28,0:11:19.53,italics,Fudo,0,0,0,,It's because she's a Gekko executive!
+Dialogue: 0,0:11:19.87,0:11:24.31,main,Daigo,0,0,0,,She didn't seem to recognize \Nme during the barbecue,
+Dialogue: 0,0:11:24.71,0:11:27.08,main,Daigo,0,0,0,,but it's only a matter of time \Nuntil she figures out who I am.
+Dialogue: 0,0:11:27.94,0:11:32.17,main,Daigo,0,0,0,,I wonder. Does she still have the power \Nthat earned her the "Reaper" nickname?
+Dialogue: 0,0:11:32.17,0:11:34.38,main,Fudo,0,0,0,,M-Most likely.
+Dialogue: 0,0:11:34.38,0:11:35.82,main,Daigo,0,0,0,,I see.
+Dialogue: 0,0:11:35.82,0:11:37.89,main,Daigo,0,0,0,,Then I must prepare myself.
+Dialogue: 0,0:11:38.43,0:11:41.47,main,Daigo,0,0,0,,Fudo, you are aware that workplace \Nromance is forbidden here, correct?
+Dialogue: 0,0:11:41.47,0:11:42.60,main,Fudo,0,0,0,,Yes.
+Dialogue: 0,0:11:42.60,0:11:43.39,main,Daigo,0,0,0,,Listen to me.
+Dialogue: 0,0:11:43.39,0:11:47.89,sign_16865_197_Tremble,sign,0,0,0,,Tremble
+Dialogue: 0,0:11:43.69,0:11:47.10,main,Daigo,0,0,0,,You need to break up with her at once.
+Dialogue: 0,0:11:47.10,0:11:47.89,main,Fudo,0,0,0,,What?
+Dialogue: 0,0:11:48.22,0:11:50.63,main,Daigo,0,0,0,,I am going to find Desumi Magahara—
+Dialogue: 0,0:11:51.67,0:11:53.27,main,Fudo,0,0,0,,D-Daigo-san?
+Dialogue: 0,0:11:53.27,0:11:55.24,main,Daigo,0,0,0,,—and s-scout her for our team!
+Dialogue: 0,0:11:55.24,0:11:56.27,main,Fudo,0,0,0,,What?!
+Dialogue: 0,0:11:57.34,0:11:59.22,main,Fudo,0,0,0,,You're having trouble even saying it.
+Dialogue: 0,0:11:59.22,0:12:00.58,main,Daigo,0,0,0,,Of course I'm having trouble.
+Dialogue: 0,0:12:00.58,0:12:02.67,main,Daigo,0,0,0,,Th-The thought of even \Ntalking to Young Desu—
+Dialogue: 0,0:12:02.67,0:12:05.35,main,Daigo,0,0,0,,The thought of even talking \Nto her terrifies me!
+Dialogue: 0,0:12:05.71,0:12:08.74,main,Daigo,0,0,0,,But this is all for the sake of world peace!
+Dialogue: 0,0:12:09.83,0:12:15.83,sign_17499_210_Desperation,Sign,0,0,0,,Desperation
+Dialogue: 0,0:12:10.19,0:12:13.33,main,Daigo,0,0,0,,As the person in charge of personnel \Nscouting for a hero organization,
+Dialogue: 0,0:12:13.33,0:12:15.83,main,Daigo,0,0,0,,I cannot simply neglect to pursue her talent!
+Dialogue: 0,0:12:17.03,0:12:19.25,italics,Fudo,0,0,0,,Desumi-san... part of Gelato 5?
+Dialogue: 0,0:12:19.25,0:12:22.10,main,Desumi,0,0,0,,I'm Black Gelato! Nice to work with you!
+Dialogue: 0,0:12:22.10,0:12:24.76,top,Desumi (Echo),0,0,0,,{\fs19}Black Gelato!
+Dialogue: 0,0:12:22.65,0:12:24.76,sign_3317_26_The_cuteness,Sign,0,0,0,,{\pos(85,185)}Oh so cute
+Dialogue: 0,0:12:23.06,0:12:24.29,italics,Fudo,0,0,0,,Oh so cute!
+Dialogue: 0,0:12:25.19,0:12:26.34,main,Daigo,0,0,0,,Fudo!
+Dialogue: 0,0:12:26.82,0:12:28.83,main,Daigo,0,0,0,,First, I need to learn more about her.
+Dialogue: 0,0:12:28.83,0:12:29.77,main,Daigo,0,0,0,,Come with me.
+Dialogue: 0,0:12:30.49,0:12:31.42,italics,Fudo,0,0,0,,I think...
+Dialogue: 0,0:12:32.47,0:12:35.26,italics,Fudo,0,0,0,,this might end up being \Nmore trouble than expected.
+Dialogue: 0,0:12:37.71,0:12:40.02,main,Desumi,0,0,0,,Love After World Domination!
+Dialogue: 0,0:12:41.99,0:12:46.95,sign_18270_222_Gusco,sign,0,0,0,,{\fax0.22\move(155,85,155,0)\frz341.8}Gusco
+Dialogue: 0,0:12:51.47,0:12:53.46,main,Fudo,0,0,0,,N-Now, Daigo-san.
+Dialogue: 0,0:12:53.79,0:12:55.46,main,Fudo,0,0,0,,Allow me to officially introduce...
+Dialogue: 0,0:12:55.82,0:12:57.71,main,Fudo,0,0,0,,Desumi-san.
+Dialogue: 0,0:12:57.71,0:13:00.15,main,Desumi,0,0,0,,It's been so long, Daigo-niichan!
+Dialogue: 0,0:13:00.15,0:13:01.34,main,Desumi,0,0,0,,How ya been?
+Dialogue: 0,0:13:02.27,0:13:03.29,main,Daigo,0,0,0,,Fine.
+Dialogue: 0,0:13:03.29,0:13:05.14,main,Daigo,0,0,0,,You appear to be well, as well.
+Dialogue: 0,0:13:06.59,0:13:18.10,sign_18860_230_Tremble,Sign,0,0,0,,{\pos(85,120)\fscy150}Tremble
+Dialogue: 0,0:13:06.59,0:13:18.10,sign_18860_230_Tremble,Sign,0,0,0,,{\fscy150\pos(510,110)}Tremble
+Dialogue: 0,0:13:07.06,0:13:08.50,italics,narrator,0,0,0,,Allow me to explain!
+Dialogue: 0,0:13:08.50,0:13:12.43,italics,narrator,0,0,0,,Desumi-phobic Green Gelato, \NA.K.A. Daigo Todoroki,
+Dialogue: 0,0:13:12.43,0:13:17.05,italics,narrator,0,0,0,,has decided to risk life and \Nlimb to scout Desumi as a hero!
+Dialogue: 0,0:13:18.10,0:13:20.58,main,Desumi,0,0,0,,That sure was some surprise!
+Dialogue: 0,0:13:20.58,0:13:24.11,main,Desumi,0,0,0,,I never thought you'd turn out \Nto be a member of Gelato 5!
+Dialogue: 0,0:13:24.11,0:13:27.32,main,Desumi,0,0,0,,I didn't recognize you at \Nthe barbecue at all, either!
+Dialogue: 0,0:13:27.32,0:13:30.08,main,Desumi,0,0,0,,It's gotta be 'cause you \Nchanged your last name, huh?
+Dialogue: 0,0:13:30.54,0:13:32.31,main,Desumi,0,0,0,,Boy, that takes me back!
+Dialogue: 0,0:13:32.31,0:13:35.00,main,Desumi,0,0,0,,I can't forget those days \Nwe spent trainin' together.
+Dialogue: 0,0:13:35.00,0:13:36.58,main,Desumi,0,0,0,,Daigo-niichan!
+Dialogue: 0,0:13:37.56,0:13:39.94,main,Daigo,0,0,0,,I-Indeed.
+Dialogue: 0,0:13:40.99,0:13:42.15,main,Desumi,0,0,0,,I know!
+Dialogue: 0,0:13:42.15,0:13:44.42,main,Desumi,0,0,0,,You oughta train me again, \Njust like old times!
+Dialogue: 0,0:13:46.37,0:13:49.18,main,Desumi,0,0,0,,I think I've maybe even grown a \Nlittle bit stronger since then!
+Dialogue: 0,0:13:50.47,0:13:52.20,main,Daigo,0,0,0,,A-Actually...
+Dialogue: 0,0:13:52.20,0:13:54.04,main,Fudo,0,0,0,,Come on now, Desumi-san.
+Dialogue: 0,0:13:54.04,0:13:55.93,main,Fudo,0,0,0,,Daigo-san is a busy man.
+Dialogue: 0,0:13:56.19,0:13:57.56,main,Fudo,0,0,0,,You mustn't make demands on his time.
+Dialogue: 0,0:13:58.54,0:14:00.02,italics,Daigo,0,0,0,,Fudo...
+Dialogue: 0,0:13:58.54,0:14:00.02,sign_20105_251_Relief,sign,0,0,0,,{\move(465,120,475,40)}Relief
+Dialogue: 0,0:14:00.02,0:14:01.77,main,Desumi,0,0,0,,That's true.
+Dialogue: 0,0:14:01.33,0:14:04.00,sign_20172_253_Disappointment__,Sign,0,0,0,,{\move(95,40,85,15)\fad(469,700)}Disappointment...
+Dialogue: 0,0:14:01.77,0:14:03.64,main,Desumi,0,0,0,,I was just so surprised to see you again...
+Dialogue: 0,0:14:03.64,0:14:05.25,main,Desumi,0,0,0,,I'm sorry for getting carried way.
+Dialogue: 0,0:14:06.03,0:14:07.70,main,Fudo,0,0,0,,Do you think you could do it after all?
+Dialogue: 0,0:14:08.01,0:14:09.16,main,Daigo,0,0,0,,Fudo!
+Dialogue: 0,0:14:09.73,0:14:11.19,main,Desumi,0,0,0,,That's it!
+Dialogue: 0,0:14:11.19,0:14:12.95,main,Desumi,0,0,0,,I'll get something from the drink bar!
+Dialogue: 0,0:14:16.22,0:14:18.28,main,Fudo,0,0,0,,Are you all right, Daigo-san?
+Dialogue: 0,0:14:19.63,0:14:22.74,main,Daigo,0,0,0,,Trauma isn't something you \Ncan shrug off so easily.
+Dialogue: 0,0:14:23.59,0:14:27.64,main,Daigo,0,0,0,,Are you really dating?
+Dialogue: 0,0:14:28.66,0:14:31.83,main,Daigo,0,0,0,,She isn't coercing you, is she?
+Dialogue: 0,0:14:31.83,0:14:34.33,main,Daigo,0,0,0,,She's not threatening to kill you \Nif you don't go out with her?
+Dialogue: 0,0:14:34.33,0:14:36.18,main,Fudo,0,0,0,,You're making me angry, Daigo-san.
+Dialogue: 0,0:14:36.98,0:14:38.60,main,Fudo,0,0,0,,You can trust in one thing:
+Dialogue: 0,0:14:39.14,0:14:42.19,main,Fudo,0,0,0,,I truly, truly love Desumi-san.
+Dialogue: 0,0:14:50.93,0:14:53.40,main,Desumi,0,0,0,,Y-You're making me blush, Fudo.
+Dialogue: 0,0:14:53.40,0:14:56.16,main,Fudo,0,0,0,,Y-You heard that, Desumi-san?
+Dialogue: 0,0:14:56.16,0:14:59.16,main,Desumi,0,0,0,,Th-That green tea cake looks delicious.
+Dialogue: 0,0:15:01.42,0:15:02.76,main,Fudo,0,0,0,,Would you like a bite?
+Dialogue: 0,0:15:03.70,0:15:05.40,main,Desumi,0,0,0,,Aah...
+Dialogue: 0,0:15:07.44,0:15:10.68,sign_21757_273_Twitch,sign,0,0,0,,Twitch
+Dialogue: 0,0:15:07.56,0:15:09.01,main,Desumi,0,0,0,,H-Hang on a minute!
+Dialogue: 0,0:15:09.01,0:15:11.17,main,Desumi,0,0,0,,It's too soon for us to do such things!
+Dialogue: 0,0:15:11.17,0:15:13.68,main,Desumi,0,0,0,,That would be an indirect kiss, remember?!
+Dialogue: 0,0:15:14.01,0:15:16.03,main,Fudo,0,0,0,,You're so bashful, Desumi-san!
+Dialogue: 0,0:15:17.77,0:15:19.67,main,Daigo,0,0,0,,Perhaps it's time to get down to business.
+Dialogue: 0,0:15:19.67,0:15:21.08,main,Desumi,0,0,0,,Oh, right...
+Dialogue: 0,0:15:21.08,0:15:23.93,main,Desumi,0,0,0,,You were wantin' somethin' \Nfrom me, right, Daigo-niichan?
+Dialogue: 0,0:15:25.38,0:15:26.93,main,Daigo,0,0,0,,Desumi Magahara...
+Dialogue: 0,0:15:27.50,0:15:31.32,main,Daigo,0,0,0,,I've come here to scout you for Gelato 5.
+Dialogue: 0,0:15:33.75,0:15:37.70,main,Daigo,0,0,0,,The power you possess \Nshould be used for justice.
+Dialogue: 0,0:15:37.70,0:15:40.83,main,Desumi,0,0,0,,Me? A member of Gelato 5?
+Dialogue: 0,0:15:40.83,0:15:43.08,main,Fudo,0,0,0,,Daigo-san. About that...
+Dialogue: 0,0:15:45.42,0:15:47.09,italics,Desumi,0,0,0,,If I was...
+Dialogue: 0,0:15:48.23,0:15:51.26,italics,Desumi,0,0,0,,Could we be together all the time, then?
+Dialogue: 0,0:15:53.61,0:15:56.35,sign_22864_288_Hee_hee_hee___,sign,0,0,0,,{\move(320,80,320,85)\fad(634,1)\t(1,2740,\fs40)\fscy75}Hee hee hee...
+Dialogue: 0,0:15:56.35,0:16:03.37,sign_22930_289_Scoop___Red___Bl,sign,0,0,0,,{\frz8.18\move(55,95,30,95,1,4651)\fad(1,283)}Scoop!!\N{\c&H5B53C5&\3c&HE5F2FF&\fscx90}Red {\c&H58C1CB&\3c&H3947C1&}& {\c&H81605A&\3c&HF0E7E6&}Black
+Dialogue: 0,0:15:56.35,0:16:03.37,sign_22930_290_Announce_Their_R,sign,0,0,0,,{\frz6.39\move(100,280,70,280,1,4651)\fad(1,283)}Announce Their Relationship!!
+Dialogue: 0,0:15:56.61,0:15:58.42,italics,Desumi,0,0,0,,And not only that!
+Dialogue: 0,0:15:58.42,0:16:02.09,italics,Desumi,0,0,0,,We could date in public, \Nwithout fear of scandal!
+Dialogue: 0,0:16:04.39,0:16:06.36,main,Daigo,0,0,0,,What do you say, Young Desu?
+Dialogue: 0,0:16:18.97,0:16:20.63,main,Desumi,0,0,0,,I'm sorry, Daigo-niichan.
+Dialogue: 0,0:16:21.08,0:16:22.61,main,Desumi,0,0,0,,I would love to accept your offer,
+Dialogue: 0,0:16:22.61,0:16:24.62,main,Desumi,0,0,0,,but I just can't.
+Dialogue: 0,0:16:24.62,0:16:25.84,main,Daigo,0,0,0,,Why not?
+Dialogue: 0,0:16:25.84,0:16:27.34,main,Daigo,0,0,0,,What objections could you have?
+Dialogue: 0,0:16:27.06,0:16:29.17,sign_23666_300_Gelato_5_New_Emp,Sign,0,0,0,,Gelato 5 \NNew Employee Guide\N\N{\fs10\c&H2C2E28&\3c&HE2E6E9&} You Could Be the Sixth!
+Dialogue: 0,0:16:27.79,0:16:29.17,main,Daigo,0,0,0,,We offer paid vacation.
+Dialogue: 0,0:16:30.61,0:16:33.47,main,Desumi,0,0,0,,I'm more than happy where I am.
+Dialogue: 0,0:16:33.47,0:16:36.43,main,Desumi,0,0,0,,I think bein' any happier would \Nearn me some karmic retribution.
+Dialogue: 0,0:16:37.56,0:16:40.91,main,Desumi,0,0,0,,Besides, I've got my hands full with Gekko—
+Dialogue: 0,0:16:41.66,0:16:44.12,main,Fudo,0,0,0,,With {\i1}get-going{\i0} to school every day, she said!
+Dialogue: 0,0:16:44.12,0:16:45.45,main,Fudo,0,0,0,,Right, Desumi-san?
+Dialogue: 0,0:16:46.17,0:16:47.30,italics,Desumi,0,0,0,,That's right!
+Dialogue: 0,0:16:47.30,0:16:50.65,italics,Desumi,0,0,0,,I can't say that, not even to Daigo-niichan!
+Dialogue: 0,0:16:50.65,0:16:52.27,main,Desumi,0,0,0,,I'm sorry, Fudo.
+Dialogue: 0,0:16:52.27,0:16:53.37,main,Desumi,0,0,0,,I was careless.
+Dialogue: 0,0:16:53.37,0:16:55.27,main,Fudo,0,0,0,,Yes. We should both be careful.
+Dialogue: 0,0:16:56.02,0:16:57.53,main,Fudo,0,0,0,,B-But...
+Dialogue: 0,0:16:58.49,0:17:00.79,italics,Fudo,0,0,0,,Her lips are so soft!
+Dialogue: 0,0:17:01.83,0:17:04.29,sign_10322_110_Bluuush,Sign,0,0,0,,{\an8\fad(983,1)\bord2}Blush
+Dialogue: 0,0:17:04.29,0:17:09.79,sign_23666_300_Gelato_5_New_Emp,sign,0,0,0,,{\an2\fs13\pos(313,260)\fad(3319,1)}Gelato 5 New Employee Guide\N{\fs8\c&H222629&\3c&HC1CCBF&} You Could Be the Sixth!\N{\fs13\c&H002CB1&\3c&H34C2FF&}Generous Benefits
+Dialogue: 0,0:17:05.23,0:17:09.79,sign_24581_314_bap_bap,sign,0,0,0,,bap bap
+Dialogue: 0,0:17:05.23,0:17:09.79,sign_24581_314_bap_bap,sign,0,0,0,,{\an9}bap bap
+Dialogue: 0,0:17:11.30,0:17:14.39,italics,Daigo,0,0,0,,What in the world am I\Nbeing forced to look at?
+Dialogue: 0,0:17:15.61,0:17:22.07,italics,Daigo,0,0,0,,Is this truly Desumi Magahara, the girl \Nonce feared as the Reaper of Oyafuko-dori?
+Dialogue: 0,0:17:23.41,0:17:24.48,italics,Daigo,0,0,0,,Back when I knew you,
+Dialogue: 0,0:17:24.48,0:17:27.71,italics,Daigo,0,0,0,,you always seemed lonely, and somehow bored.
+Dialogue: 0,0:17:28.58,0:17:32.19,italics,Daigo,0,0,0,,You had the air of a woman \Nisolated by her supremacy.
+Dialogue: 0,0:17:33.42,0:17:34.99,top,Desumi,0,0,0,,Say, "Aah"!
+Dialogue: 0,0:17:33.73,0:17:34.99,italics,Daigo,0,0,0,,Quite frankly...
+Dialogue: 0,0:17:34.99,0:17:39.39,italics,Daigo,0,0,0,,I sense none of that air of invincibility \Nyou projected back in the day.
+Dialogue: 0,0:17:39.05,0:17:40.12,top,Fudo,0,0,0,,Aah...
+Dialogue: 0,0:17:41.38,0:17:45.37,italics,Daigo,0,0,0,,Love has made you weak!
+Dialogue: 0,0:17:45.37,0:17:51.13,sign_3317_26_The_cuteness,Sign,0,0,0,,{\move(125,140,40,140)\fs14}Desumi
+Dialogue: 0,0:17:46.07,0:17:50.42,italics,Daigo,0,0,0,,And in that time, I have continued \Ntraining via my battles against evil.
+Dialogue: 0,0:17:53.07,0:17:54.76,italics,Daigo,0,0,0,,That's right, Daigo Todoroki!
+Dialogue: 0,0:17:56.17,0:17:58.13,italics,Daigo,0,0,0,,What need is there to fear her now?
+Dialogue: 0,0:17:58.79,0:18:00.04,italics,Daigo,0,0,0,,You can win!
+Dialogue: 0,0:18:00.04,0:18:02.10,italics,Daigo,0,0,0,,Now is the time to defeat Young Desu,
+Dialogue: 0,0:18:02.10,0:18:04.14,italics,Daigo,0,0,0,,and conquer your trauma!
+Dialogue: 0,0:18:05.83,0:18:06.89,main,Fudo,0,0,0,,Daigo-san?
+Dialogue: 0,0:18:07.43,0:18:09.43,main,Daigo,0,0,0,,Step out with me, Young Desu.
+Dialogue: 0,0:18:09.98,0:18:11.85,main,Daigo,0,0,0,,I shall fight you, as you wished.
+Dialogue: 0,0:18:18.60,0:18:19.61,main,Fudo,0,0,0,,Daigo-san...
+Dialogue: 0,0:18:20.07,0:18:22.50,main,Fudo,0,0,0,,Why do you have to fight Desumi-san?
+Dialogue: 0,0:18:22.50,0:18:23.62,main,Daigo,0,0,0,,Silence, Fudo.
+Dialogue: 0,0:18:24.73,0:18:26.21,main,Daigo,0,0,0,,Are you ready, Young Desu?
+Dialogue: 0,0:18:26.21,0:18:30.11,main,Daigo,0,0,0,,If you defeat me in this match, I'll give\N up on scouting you for our team.
+Dialogue: 0,0:18:30.11,0:18:31.72,main,Desumi,0,0,0,,That's not fair!
+Dialogue: 0,0:18:31.72,0:18:33.92,main,Desumi,0,0,0,,There's no way I could possibly defeat you!
+Dialogue: 0,0:18:33.92,0:18:36.55,main,Daigo,0,0,0,,And... If I win...
+Dialogue: 0,0:18:37.41,0:18:40.80,main,Daigo,0,0,0,,You will give up on your \Nrelationship with Fudo,
+Dialogue: 0,0:18:40.80,0:18:43.17,main,Daigo,0,0,0,,and join Gelato 5.
+Dialogue: 0,0:18:44.26,0:18:46.74,main,Desumi,0,0,0,,Give up on my relationship with Fudo?
+Dialogue: 0,0:18:46.74,0:18:47.43,main,Daigo,0,0,0,,Yes.
+Dialogue: 0,0:18:47.75,0:18:50.03,main,Daigo,0,0,0,,Because workplace relationships \Nare forbidden.
+Dialogue: 0,0:18:58.04,0:19:01.16,main,Desumi,0,0,0,,Shoulda told me you had a rule like that.
+Dialogue: 0,0:19:05.91,0:19:07.79,main,Desumi,0,0,0,,If that's what you're tellin' me...
+Dialogue: 0,0:19:07.79,0:19:11.75,main,Desumi,0,0,0,,This is one battle I can't afford to lose.
+Dialogue: 0,0:19:11.75,0:19:13.75,sign_5517_46_Allow_me_to_expl,Sign,0,0,0,,{\an8\blur4\pos(450,20)\fad(526,1)}Terror
+Dialogue: 0,0:19:12.89,0:19:14.01,italics,Narrator,0,0,0,,Suddenly and unconsciously,
+Dialogue: 0,0:19:14.01,0:19:18.01,italics,Narrator,0,0,0,,Daigo Todoroki activated \Nhis suit's transformation!
+Dialogue: 0,0:19:15.09,0:19:15.75,italicstop,Changer,0,0,0,,Five!
+Dialogue: 0,0:19:19.25,0:19:20.51,italics,Narrator,0,0,0,,The result:
+Dialogue: 0,0:19:20.51,0:19:23.74,italics,Narrator,0,0,0,,He just barely escaped with his life!
+Dialogue: 0,0:19:24.51,0:19:26.70,main,Fudo,0,0,0,,Are you all right, Daigo-san?!
+Dialogue: 0,0:19:27.99,0:19:30.39,main,Desumi,0,0,0,,You went easy on me again.
+Dialogue: 0,0:19:31.05,0:19:34.90,italics,Daigo,0,0,0,,Even after I transformed, \Nyou still think that?
+Dialogue: 0,0:19:34.90,0:19:36.74,main,Fudo,0,0,0,,I wanted to stop her,
+Dialogue: 0,0:19:36.74,0:19:40.32,main,Fudo,0,0,0,,but I found myself entranced \Nby her beautiful moves!
+Dialogue: 0,0:19:40.68,0:19:43.24,italics,Daigo,0,0,0,,And you're always so honest.
+Dialogue: 0,0:19:44.23,0:19:47.32,italics,Daigo,0,0,0,,What in the world kind of couple is this?
+Dialogue: 0,0:19:48.07,0:19:48.97,italics,Daigo,0,0,0,,How terrifying...
+Dialogue: 0,0:19:48.97,0:19:51.12,italics,Daigo (Echo),0,0,0,,{\fs19}How terrifying...
+Dialogue: 0,0:19:51.67,0:19:54.25,main,Daigo,0,0,0,,It's a reunion with my pupil \Nafter so long, after all.
+Dialogue: 0,0:19:55.43,0:19:58.50,main,Daigo,0,0,0,,I wanted to give you a win.
+Dialogue: 0,0:19:59.81,0:20:02.65,italics,Daigo,0,0,0,,And who in the world am I, saying all this?
+Dialogue: 0,0:20:04.76,0:20:06.25,main,Daigo,0,0,0,,Never mind.
+Dialogue: 0,0:20:06.25,0:20:10.52,main,Daigo,0,0,0,,For now, we'll say it's my defeat.
+Dialogue: 0,0:20:11.00,0:20:12.37,main,Daigo,0,0,0,,But, Young Desu...
+Dialogue: 0,0:20:12.81,0:20:14.65,main,Daigo,0,0,0,,Promise me one thing.
+Dialogue: 0,0:20:16.19,0:20:19.69,main,Daigo,0,0,0,,There are many forces out there that \Nwould seek out power like yours.
+Dialogue: 0,0:20:21.32,0:20:25.00,main,Daigo,0,0,0,,If you are to join one of them, \Nsee that it is not Gekko.
+Dialogue: 0,0:20:35.31,0:20:37.13,main,Desumi,0,0,0,,It really is a problem.
+Dialogue: 0,0:20:37.51,0:20:41.88,main,Desumi,0,0,0,,Does your whole organization \Njust assume we're a couple?
+Dialogue: 0,0:20:42.27,0:20:46.57,main,Fudo,0,0,0,,Yeah... Misaki-neesan is \Nspreading the rumor everywhere.
+Dialogue: 0,0:20:46.57,0:20:49.70,main,Misaki,0,0,0,,They're totally dating!
+Dialogue: 0,0:20:50.37,0:20:53.02,main,Desumi,0,0,0,,We have been a little too comfortable lately.
+Dialogue: 0,0:20:53.50,0:20:55.67,main,Desumi,0,0,0,,Maybe we need to put some barriers back up.
+Dialogue: 0,0:20:56.26,0:20:58.86,main,Desumi,0,0,0,,No more PDA, for one thing.
+Dialogue: 0,0:20:58.86,0:21:01.41,main,Fudo,0,0,0,,R-Right.
+Dialogue: 0,0:21:01.41,0:21:03.28,main,Fudo,0,0,0,,You're right, Desumi-san.
+Dialogue: 0,0:21:05.78,0:21:08.53,sign_30349_385_Grin_Grin,sign,0,0,0,,{\pos(515,20)}Grin Grin
+Dialogue: 0,0:21:07.21,0:21:08.06,main,Fudo,0,0,0,,What is it?
+Dialogue: 0,0:21:09.07,0:21:13.12,main,Desumi,0,0,0,,You're a little upset about that, huh?
+Dialogue: 0,0:21:13.12,0:21:15.98,main,Fudo,0,0,0,,I-I'm just being serious!
+Dialogue: 0,0:21:15.98,0:21:16.71,main,Fudo,0,0,0,,Don't tease—
+Dialogue: 0,0:21:16.85,0:21:19.21,sign_30614_390_Squeeze,sign,0,0,0,,Squeeze
+Dialogue: 0,0:21:21.19,0:21:22.71,main,Fudo,0,0,0,,Wh-What are you doing?
+Dialogue: 0,0:21:22.71,0:21:25.34,main,Desumi,0,0,0,,For instance, if I ever try \Nto do something like this...
+Dialogue: 0,0:21:25.71,0:21:28.31,main,Desumi,0,0,0,,Don't be afraid to push me off, okay?
+Dialogue: 0,0:21:28.66,0:21:30.76,italics,Fudo,0,0,0,,Oh... Oh so cute!
+Dialogue: 0,0:21:28.66,0:21:31.22,sign_3317_26_The_cuteness,Sign,0,0,0,,{\pos(570,240)}Oh so cute
+Dialogue: 0,0:23:21.52,0:23:22.71,sign_2154_30_Crash,sign,0,0,0,,Crash
+Dialogue: 0,0:23:22.71,0:23:23.67,main,Fudo,0,0,0,,Daigo-san!
+Dialogue: 0,0:23:26.37,0:23:28.55,main,Daigo,0,0,0,,N-N-Next...
+Dialogue: 0,0:23:29.57,0:23:33.01,top,Daigo,0,0,0,,Next time: "Everybody Has a Secret or Two"!
+Dialogue: 0,0:23:29.86,0:23:40.25,sign_8302_60_Episode_1__I_Lov,Sign,0,0,0,,{\an1\pos(40,300)\fad(1005,1)\fsp.4}Episode 8   {\fsp6\fscx110}Everybody Has a Secret or Two
+Dialogue: 0,0:23:33.59,0:23:35.21,top,Daigo,0,0,0,,See you then.
+Dialogue: 0,0:23:36.59,0:23:38.46,top,Fudo,0,0,0,,Daigo-san!

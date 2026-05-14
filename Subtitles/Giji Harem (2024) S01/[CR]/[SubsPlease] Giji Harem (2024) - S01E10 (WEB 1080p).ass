@@ -1,0 +1,354 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main - top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: main - italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main - italics top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: main - flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main - flashback - top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: sign_407_1_Kouban_Private_H,Times New Roman,14,&H00735E61,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,277,277,18,0
+Style: sign_407_2_Welcome__New__St,Times New Roman,18,&H00595C64,&H000000FF,&H00E1E3F0,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,330,229,131,0
+Style: sign_455_4_Bulletin_Board,Trebuchet MS,18,&H00595C64,&H000000FF,&H00E1E3F0,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,63,447,109,0
+Style: sign_455_6_Band_Club______D,Trebuchet MS,16,&H009E8E8E,&H000000FF,&H00F7EFF9,&H00000000,0,0,0,0,100,100,0,180,1,2,0,2,29,273,87,0
+Style: sign_455_5_Soccer_Club____B,Trebuchet MS,16,&H005B565D,&H000000FF,&H00F7EFF9,&H00000000,0,0,0,0,100,100,0,349,1,2,0,2,0,142,223,0
+Style: sign_7050_55_Episode_1_______,Trebuchet MS,20,&H000D0D0F,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,255,0,53,0
+Style: sign_17213_188_Dying_Inside__,Trebuchet MS,18,&H0034325E,&H000000FF,&H00CBB9CF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,531,0,269,0
+Style: sign_18558_208_Psuedo_Harem,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,5,0,1,0,0,2,407,19,80,0
+Style: sign_27236_333_Two_days_until__,Trebuchet MS,16,&H00F5E8ED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,236,264,295,0
+Style: sign_29239_363_Follicle_Disaste,Times New Roman,24,&H003D01C7,&H000000FF,&H00F3EAFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,223,223,18,0
+Style: sign_29239_363_Follicle________,Times New Roman,24,&H003D01C7,&H000000FF,&H00F3EAFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,91,91,18,0
+Style: sign_31948_393_Tomorrow_s_Weath,Trebuchet MS,16,&H00FBE5E8,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,234,232,290,0
+Style: sign_8786_71_I_m_incoming_wit,Trebuchet MS,14,&H00353535,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,144,176,113,0
+Style: sign_12856_113_Die,Trebuchet MS,24,&H0096CDED,&H000000FF,&H00779ABB,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,147,455,259,0
+Style: sign_16992_158_Preferences___tr,Trebuchet MS,12,&H000D0D0F,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,0,0,239,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:40.99,0:01:45.00,sign_7050_55_Episode_1_______,Eptitle sign,0,0,0,,{\fad(530,519)\pos(423.222,304.778)}Episode 10                   Birthday
+Dialogue: 0,0:01:43.92,0:01:45.74,main - top,Eiji,0,0,0,,Pardon the intrusion...
+Dialogue: 0,0:01:47.57,0:01:50.47,main,Eiji,0,0,0,,So, this is Rin's house...
+Dialogue: 0,0:01:50.84,0:01:52.07,main,Rin,0,0,0,,Let me give you the tour.
+Dialogue: 0,0:01:53.30,0:01:54.68,main,Rin,0,0,0,,Here's the living room.
+Dialogue: 0,0:01:57.38,0:01:59.30,main,Rin,0,0,0,,Here's the bathroom.
+Dialogue: 0,0:02:03.14,0:02:04.87,main,Rin,0,0,0,,And here we've got the \Ntraditional Japanese room.
+Dialogue: 0,0:02:06.43,0:02:08.48,main,Eiji,0,0,0,,I'm really starting to enjoy this!
+Dialogue: 0,0:02:08.90,0:02:10.08,main,Rin,0,0,0,,So am I!
+Dialogue: 0,0:02:13.51,0:02:17.10,main,Eiji,0,0,0,,Come to think of it, Rin, \Nyou still talk pretty formally around me...
+Dialogue: 0,0:02:18.29,0:02:19.99,main,Eiji,0,0,0,,Don't you figure it's time to stop?
+Dialogue: 0,0:02:20.52,0:02:22.44,main,Rin,0,0,0,,Y-Yeah...
+Dialogue: 0,0:02:23.22,0:02:25.62,main,Eiji,0,0,0,,Granted, it's kinda late at this point.
+Dialogue: 0,0:02:26.92,0:02:27.58,main,Rin,0,0,0,,'Sup!
+Dialogue: 0,0:02:28.28,0:02:30.88,main,Eiji,0,0,0,,Uh... What do you mean, 'sup?
+Dialogue: 0,0:02:31.20,0:02:33.37,main,Rin,0,0,0,,I'm just... so happy right now...
+Dialogue: 0,0:02:33.66,0:02:35.70,main,Rin,0,0,0,,I'll do better once I get used to it!
+Dialogue: 0,0:02:35.91,0:02:38.60,main,Eiji,0,0,0,,Want me to think up \Na penalty game to motivate you?
+Dialogue: 0,0:02:39.77,0:02:43.76,main,Eiji,0,0,0,,And I have to ask... will this \Ntour include your room?
+Dialogue: 0,0:02:45.14,0:02:46.38,main,Rin,0,0,0,,It will not.
+Dialogue: 0,0:02:47.23,0:02:49.26,main,Eiji,0,0,0,,But I want more details!
+Dialogue: 0,0:02:53.40,0:02:56.22,main,Rin,0,0,0,,Senpai, you have a real knack \Nfor dressing dishes.
+Dialogue: 0,0:02:57.30,0:02:59.40,main,Rin,0,0,0,,Er, I mean, you're real good!
+Dialogue: 0,0:03:00.28,0:03:02.65,main,Eiji,0,0,0,,Wait, were you being formal just now?
+Dialogue: 0,0:03:04.24,0:03:05.28,main,Rin,0,0,0,,What are you talking about?
+Dialogue: 0,0:03:05.88,0:03:07.31,main,Eiji,0,0,0,,Seriously...?
+Dialogue: 0,0:03:08.28,0:03:09.10,main,Eiji,0,0,0,,There!
+Dialogue: 0,0:03:09.90,0:03:11.66,main,Rin,0,0,0,,You really are good at this!
+Dialogue: 0,0:03:11.85,0:03:15.57,main,Eiji,0,0,0,,Well, we made it together, \Nso I had to pull my weight somehow.
+Dialogue: 0,0:03:16.10,0:03:19.76,main,Eiji,0,0,0,,Kinda like... being a husband...
+Dialogue: 0,0:03:20.48,0:03:23.55,main,Eiji,0,0,0,,Playing a husband, I mean... acting.
+Dialogue: 0,0:03:23.84,0:03:25.04,main,Eiji,0,0,0,,Y'know, like a role.
+Dialogue: 0,0:03:25.31,0:03:28.69,main,Rin,0,0,0,,I'll do my best \Nin the role of the wife, too.
+Dialogue: 0,0:03:31.60,0:03:34.72,main,Eiji,0,0,0,,Which kind of sauce do you prefer, \NJapanese or western style?
+Dialogue: 0,0:03:36.23,0:03:38.40,main,Rin,0,0,0,,I really can't decide!
+Dialogue: 0,0:03:38.60,0:03:41.03,main,Eiji,0,0,0,,Let's make both then! Think we can manage?
+Dialogue: 0,0:03:41.17,0:03:44.91,main,Rin,0,0,0,,We don't have a lot ingredients, \Nso it'll just have to be western today.
+Dialogue: 0,0:03:46.88,0:03:48.74,main,Rin,0,0,0,,We can do Japanese some other time.
+Dialogue: 0,0:03:49.00,0:03:50.66,main,Eiji,0,0,0,,'Kay...
+Dialogue: 0,0:03:58.81,0:04:00.79,main,Eiji,0,0,0,,I wanna do that too.
+Dialogue: 0,0:04:03.40,0:04:05.68,main,Imp Rin,0,0,0,,You want a taste, huh?
+Dialogue: 0,0:04:05.68,0:04:09.43,main,Eiji,0,0,0,,Of the latest recipe \Nfrom head chef Imp-chan?!
+Dialogue: 0,0:04:10.02,0:04:13.32,main,Eiji,0,0,0,,Imp-chan being able to cook would be \Nan interesting contrast...
+Dialogue: 0,0:04:14.24,0:04:18.56,main,Eiji,0,0,0,,And if it was Cool-chan, \Nwould it taste differently?!
+Dialogue: 0,0:04:18.76,0:04:19.98,main,Rin,0,0,0,,Food's getting cold.
+Dialogue: 0,0:04:19.98,0:04:22.20,main,Eiji,0,0,0,,As long as you don't!
+Dialogue: 0,0:04:27.27,0:04:29.08,main,Eiji,0,0,0,,Is there a festival going on nearby?
+Dialogue: 0,0:04:29.38,0:04:32.42,main,Rin,0,0,0,,Yep. It's not big, but they have fireworks.
+Dialogue: 0,0:04:33.69,0:04:34.58,main,Rin,0,0,0,,Wanna go?
+Dialogue: 0,0:04:34.79,0:04:35.56,main,Eiji,0,0,0,,Nah.
+Dialogue: 0,0:04:36.15,0:04:39.33,main,Eiji,0,0,0,,I'd rather stay here,\Nnow that I'm finally at your place.
+Dialogue: 0,0:04:41.17,0:04:46.10,main,Spoiled,0,0,0,,But I want Senpai \Nto see me wearing a yukata...
+Dialogue: 0,0:04:46.10,0:04:49.22,main,Eiji,0,0,0,,Come on! Don't try to tempt me like that.
+Dialogue: 0,0:04:49.22,0:04:51.22,main,Eiji,0,0,0,,It's gonna make me wanna go!
+Dialogue: 0,0:04:52.36,0:04:54.59,main,Rin,0,0,0,,Come on, Senpai! Let's watch the fireworks.
+Dialogue: 0,0:04:55.64,0:04:56.52,main,Eiji,0,0,0,,Are we going?
+Dialogue: 0,0:04:56.86,0:04:57.60,main,Rin,0,0,0,,Just come on.
+Dialogue: 0,0:05:01.08,0:05:01.77,main,Eiji,0,0,0,,Your room?
+Dialogue: 0,0:05:02.50,0:05:03.07,main,Rin,0,0,0,,Yeah.
+Dialogue: 0,0:05:03.81,0:05:06.11,main,Rin,0,0,0,,The fireworks are visible from my window.
+Dialogue: 0,0:05:15.09,0:05:17.60,main,Eiji,0,0,0,,Um... not gonna... turn the lights on?
+Dialogue: 0,0:05:19.68,0:05:22.12,main,Rin,0,0,0,,The fireworks should be starting soon.
+Dialogue: 0,0:05:22.64,0:05:24.12,main,Rin,0,0,0,,Let's leave them off until then.
+Dialogue: 0,0:05:31.37,0:05:34.76,main,Eji,0,0,0,,It being dark won't let me \Nsnoop around in here, though.
+Dialogue: 0,0:05:35.61,0:05:37.72,main,Rin,0,0,0,,There you go, ruining the mood...
+Dialogue: 0,0:05:38.12,0:05:41.96,main,Eiji,0,0,0,,I mean, come on... I'm still \Na rowdy little fella, deep down.
+Dialogue: 0,0:05:44.79,0:05:46.43,main,Rin,0,0,0,,I'm looking forward to the fireworks.
+Dialogue: 0,0:05:46.72,0:05:48.83,main,Eiji,0,0,0,,Yeah. Me too.
+Dialogue: 0,0:05:59.16,0:06:01.71,main,Eiji,0,0,0,,What?! Did your parents come home?!
+Dialogue: 0,0:06:03.32,0:06:05.04,main,Rin,0,0,0,,They shouldn't have!
+Dialogue: 0,0:06:06.42,0:06:09.68,sign_8786_71_I_m_incoming_wit,Text sign,0,0,0,,{\fs16\pos(293,227)}I'm incoming with some spoils from the festival
+Dialogue: 0,0:06:08.21,0:06:09.23,main,Rin,0,0,0,,It was just Megu...
+Dialogue: 0,0:06:12.00,0:06:13.68,main,Eiji,0,0,0,,That scared me...
+Dialogue: 0,0:06:14.92,0:06:18.43,main,Eiji,0,0,0,,But shouldn't you answer the door?
+Dialogue: 0,0:06:20.70,0:06:22.82,main,Eiji,0,0,0,,I want to watch the fireworks too,
+Dialogue: 0,0:06:22.82,0:06:25.19,main,Eiji,0,0,0,,but I'd feel bad about \Npretending no one was home.
+Dialogue: 0,0:06:42.88,0:06:46.88,main,Rin,0,0,0,,I was planning to do \Nthat during the fireworks...
+Dialogue: 0,0:07:03.60,0:07:05.48,main,Tsuu,0,0,0,,Good job with the delivery.
+Dialogue: 0,0:07:06.53,0:07:09.61,main,Eiji,0,0,0,,I never should've told you \Nabout the job I got...
+Dialogue: 0,0:07:09.88,0:07:13.00,main,Tsuu,0,0,0,,But you're earning good money off us.
+Dialogue: 0,0:07:13.00,0:07:15.24,main,Eiji,0,0,0,,Thanks for doing business with us!
+Dialogue: 0,0:07:15.45,0:07:17.51,main,Tsuu,0,0,0,,You didn't eat our fries, did you?
+Dialogue: 0,0:07:17.51,0:07:19.74,main,Eiji,0,0,0,,Y'know, I really should have!
+Dialogue: 0,0:07:20.28,0:07:22.75,main,Prez,0,0,0,,You wanna come in and take a break?
+Dialogue: 0,0:07:22.75,0:07:26.50,main,Eiji,0,0,0,,This is a good time to stay busy, though...
+Dialogue: 0,0:07:26.69,0:07:28.74,main,Tsuu,0,0,0,,You realize we haven't \Ndone anything fun lately
+Dialogue: 0,0:07:28.74,0:07:30.88,main,Tsuu,0,0,0,,because you're so hard \Nto get hold of, right?
+Dialogue: 0,0:07:30.88,0:07:33.64,main,Eiji,0,0,0,,I'm trying to save up, man!
+Dialogue: 0,0:07:33.64,0:07:37.39,main,Tsuu,0,0,0,,Isn't being able to set your own hours the
+Dialogue: 0,0:07:37.39,0:07:41.14,main,Tsuu,0,0,0,,whole point of these online \Nfood delivery services?!
+Dialogue: 0,0:07:41.14,0:07:42.88,main,Eiji,0,0,0,,Wow, settle down.
+Dialogue: 0,0:07:44.07,0:07:46.11,main,Tsuu,0,0,0,,I wanna go camping!
+Dialogue: 0,0:07:46.11,0:07:49.32,main,Eiji,0,0,0,,Camping? Sounds expensive.
+Dialogue: 0,0:07:50.09,0:07:52.27,main,Tsuu,0,0,0,,Isn't that what you're saving up for?
+Dialogue: 0,0:07:52.49,0:07:54.16,main,Eiji,0,0,0,,Don't be dumb.
+Dialogue: 0,0:07:54.37,0:07:56.48,main,Tsuu,0,0,0,,Camping's so awesome, though.
+Dialogue: 0,0:07:56.48,0:07:58.56,main,Tsuu,0,0,0,,Fishing, barbecuing...
+Dialogue: 0,0:07:58.56,0:08:01.67,main,Tsuu,0,0,0,,It's bound to be the most \Nmemorable event of the summer!
+Dialogue: 0,0:08:08.05,0:08:11.17,main,Eiji,0,0,0,,Not the {\i1}most{\i0} memorable, no.
+Dialogue: 0,0:08:14.47,0:08:16.36,main,Prez,0,0,0,,Oh, Nanakura-san, right?
+Dialogue: 0,0:08:16.63,0:08:18.25,main,Eiji,0,0,0,,Not necessarily...
+Dialogue: 0,0:08:19.81,0:08:22.07,main,Tsuu,0,0,0,,Dammit, you did something, didn't you?!
+Dialogue: 0,0:08:22.07,0:08:25.40,main,Tsuu,0,0,0,,I wanna ask about it! But I don't wanna hear \Nabout it! But I wanna know!
+Dialogue: 0,0:08:25.59,0:08:28.90,main,Eiji,0,0,0,,Seriously, it's not a big deal.
+Dialogue: 0,0:08:29.12,0:08:33.40,main,Tsuu,0,0,0,,Dammit, running your mouth about \Nhow stupidly happy you are...
+Dialogue: 0,0:08:34.12,0:08:35.40,main,Eiji,0,0,0,,I didn't even say anything.
+Dialogue: 0,0:08:35.81,0:08:38.67,main,Tsuu,0,0,0,,Then what are you saving up for?
+Dialogue: 0,0:08:38.67,0:08:43.03,main,Eiji,0,0,0,,Well, her birthday's coming... up...
+Dialogue: 0,0:08:44.78,0:08:48.41,main,Tsuu,0,0,0,,I want you to deliver me \Nsome ice cream. Now!
+Dialogue: 0,0:08:48.53,0:08:50.28,main,Eiji,0,0,0,,Don't make it sound like I'm your gopher!
+Dialogue: 0,0:08:50.80,0:08:52.20,main,Tsuu,0,0,0,,Unacceptable.
+Dialogue: 0,0:08:52.58,0:08:55.20,main,Tsuu,0,0,0,,You being the only one \Nfully enjoying summer...
+Dialogue: 0,0:08:55.18,0:08:56.93,sign_12856_113_Die,French fries sign,0,0,0,,{\frz28.89\pos(176,113)}Die
+Dialogue: 0,0:08:59.11,0:09:02.19,main,Prez,0,0,0,,I guess we better go \Non that camping trip, huh?
+Dialogue: 0,0:09:02.40,0:09:04.98,main,Tsuu,0,0,0,,No! No more camping.
+Dialogue: 0,0:09:04.98,0:09:08.00,main,Tsuu,0,0,0,,Instead, we're going to \Nplay tag at the local park.
+Dialogue: 0,0:09:08.00,0:09:10.26,main,Eiji,0,0,0,,That's one heck of a downgrade!
+Dialogue: 0,0:09:10.26,0:09:13.07,main,Tsuu,0,0,0,,You're gonna be doing this \Nfor the rest of the day...
+Dialogue: 0,0:09:13.07,0:09:14.94,main,Eiji,0,0,0,,That sounds like hell.
+Dialogue: 0,0:09:15.10,0:09:20.41,main,Tsuu,0,0,0,,I'm gonna make sure you have \Nthe worst summer ever!
+Dialogue: 0,0:09:20.67,0:09:21.71,main,Eiji,0,0,0,,Knock it off!
+Dialogue: 0,0:09:22.66,0:09:24.38,main,Eiji,0,0,0,,I'm gonna get back to work then.
+Dialogue: 0,0:09:24.38,0:09:26.03,main,Tsuu,0,0,0,,I won't let you escape!
+Dialogue: 0,0:09:32.42,0:09:34.46,main,Rin,0,0,0,,Senpai's clothes!
+Dialogue: 0,0:09:55.96,0:09:57.24,main,Eiji,0,0,0,,Whatcha doing?
+Dialogue: 0,0:09:57.24,0:09:58.32,main,Rin,0,0,0,,N-Nothing!
+Dialogue: 0,0:10:00.44,0:10:04.24,main,Rin,0,0,0,,Oh, this jacket wanted me to wear it, so...
+Dialogue: 0,0:10:04.49,0:10:05.49,main,Eiji,0,0,0,,Say what?!
+Dialogue: 0,0:10:05.71,0:10:10.99,main,Eiji,0,0,0,,Missy, you mean to tell me you can hear \Nthe voice of these clothes?
+Dialogue: 0,0:10:11.40,0:10:13.00,main,Rin,0,0,0,,This has turned into a thing...
+Dialogue: 0,0:10:13.00,0:10:19.38,main,Eiji,0,0,0,,Long ago, all the folks around these parts \Ncould hear the voices of clothing.
+Dialogue: 0,0:10:21.38,0:10:24.99,main,Eiji,0,0,0,,They say hearing the voice \Nof clothing brings good fortune,
+Dialogue: 0,0:10:24.99,0:10:28.65,main,Eiji,0,0,0,,and man and clothing had \Na well-worn symbiotic relationship.
+Dialogue: 0,0:10:28.82,0:10:29.61,main,Rin,0,0,0,,Was that a pun?
+Dialogue: 0,0:10:30.45,0:10:35.75,main,Eiji,0,0,0,,But one day, a different type \Nof clothing came from across the sea...
+Dialogue: 0,0:10:35.75,0:10:40.78,main,Eiji,0,0,0,,And ever since, we haven't been able to \Nhear the voice of the clothing.
+Dialogue: 0,0:10:42.47,0:10:45.28,main,Eiji,0,0,0,,These foreign words \Nare impossible to figure out...
+Dialogue: 0,0:10:45.28,0:10:46.58,main,Rin,0,0,0,,Are we talking about language?
+Dialogue: 0,0:10:47.12,0:10:48.36,main,Eiji,0,0,0,,Wow.
+Dialogue: 0,0:10:55.64,0:10:59.04,main,Eiji,0,0,0,,And that wraps up my reports \Nfor summer vacation!
+Dialogue: 0,0:10:59.04,0:11:02.00,main,Eiji,0,0,0,,Except I'm lying. Look at how\N much I have left to do...
+Dialogue: 0,0:11:02.00,0:11:04.21,main,Rin,0,0,0,,You'll need to hurry \Nif you want to finish at all.
+Dialogue: 0,0:11:05.15,0:11:07.56,main,Eiji,0,0,0,,I wanted at least a taste of being done...
+Dialogue: 0,0:11:07.96,0:11:09.51,main,Rin,0,0,0,,Want to take a break?
+Dialogue: 0,0:11:09.86,0:11:14.01,main,Eiji,0,0,0,,If you were the same grade as me, \Nyou could help me out...
+Dialogue: 0,0:11:14.40,0:11:19.03,main,Rin,0,0,0,,Treat me to lunch at the cafeteria \Nthree times and I'll do it!
+Dialogue: 0,0:11:19.76,0:11:24.28,main,Eiji,0,0,0,,You can act like we have the same classes \Nbut that won't actually get the reports done...
+Dialogue: 0,0:11:24.85,0:11:27.78,main,Eiji,0,0,0,,I work and I work but it never ends.
+Dialogue: 0,0:11:29.08,0:11:30.26,main,Eiji,0,0,0,,Come to think of it,
+Dialogue: 0,0:11:30.60,0:11:33.16,main,Eiji,0,0,0,,what are you guys putting \Non for the culture festival?
+Dialogue: 0,0:11:33.34,0:11:35.03,main,Rin,0,0,0,,Let's see...
+Dialogue: 0,0:11:35.03,0:11:38.57,main,Rin,0,0,0,,It's about two people who look identical, \Nbut have opposite personalities.
+Dialogue: 0,0:11:38.57,0:11:41.68,main,Rin,0,0,0,,They switch places \Nand go to each other's schools...
+Dialogue: 0,0:11:42.10,0:11:42.99,main,Rin,0,0,0,,Here's the script.
+Dialogue: 0,0:11:43.40,0:11:45.30,main,Eiji,0,0,0,,That's a lot of doodles!
+Dialogue: 1,0:11:48.68,0:11:53.31,sign_16992_158_Preferences___tr,Notes sign,0,0,0,,{\b0\pos(15,150)}Preferences: Tsundere-chan: Lemon tea, bunnies, friends, anime. \NCharacteristic actions: Crossing arms, Trying to look taller.\N Gets embarrassed.\N\NImp-chan: {circled}Teasing, black earrings? Gum. \NMaybe cooking for contrast?\N Smirking, biting lower lip, body contact .\N\NSpoiled-chan: Teasing{circled} Selfies. Likes to talk, likes conversations.\N Looking upwards from below. Talking in a sweet voice. \NPoking with fingers.
+Dialogue: 0,0:11:48.68,0:11:53.31,main,Notes sign,0,0,0,,{\an7\bord0\p1\c&HBCD7E0&\4c&HBCD7E0&\pos(11.041,14.111)}{\blur3\c&HF7E9E4&\1a&H1F&\3c&HF7E9E4&\4c&HF7E9E4&}m 0 0 l 310 0 310 150 0 150
+Dialogue: 0,0:11:48.87,0:11:53.31,main,Eiji,0,0,0,,Preferences... Tsundere-chan... \Nlemon tea... bunnies...
+Dialogue: 0,0:11:54.36,0:11:55.31,main,Eiji,0,0,0,,What's this?
+Dialogue: 0,0:11:55.31,0:11:59.19,main,Rin,0,0,0,,I was thinking about profiles and such... \Nand I wrote some notes.
+Dialogue: 0,0:11:59.51,0:12:01.82,main,Eiji,0,0,0,,So, Tsundere-chan likes bunnies?
+Dialogue: 0,0:12:03.00,0:12:03.82,main,Rin,0,0,0,,Yes...
+Dialogue: 0,0:12:03.82,0:12:06.53,main,Eiji,0,0,0,,Oh, the ones with the droopy ears, right?!
+Dialogue: 0,0:12:06.53,0:12:08.62,main,Rin,0,0,0,,Enough already!
+Dialogue: 0,0:12:08.62,0:12:10.62,main,Eiji,0,0,0,,Aw, it's fine!
+Dialogue: 0,0:12:10.62,0:12:12.08,main,Rin,0,0,0,,Give it back!
+Dialogue: 0,0:12:12.61,0:12:14.93,main,Eiji,0,0,0,,You even came up with habits...
+Dialogue: 0,0:12:17.56,0:12:19.12,main,Rin,0,0,0,,What is it?
+Dialogue: 0,0:12:19.71,0:12:24.05,main,Eiji,0,0,0,,I really don't deserve to have \Nall these nice girls be into me.
+Dialogue: 0,0:12:25.26,0:12:27.03,main,Rin,0,0,0,,Make them all happy, okay?
+Dialogue: 0,0:12:35.60,0:12:38.60,main,Eiji,0,0,0,,You're too close. I can't relax like this.
+Dialogue: 0,0:12:41.08,0:12:43.11,main,Eiji,0,0,0,,Rin, you wanna have some watermelon?
+Dialogue: 0,0:12:44.08,0:12:45.48,main,Rin,0,0,0,,Are you sure we can finish it?
+Dialogue: 0,0:12:45.91,0:12:47.52,main,Eiji,0,0,0,,Well, it's already cut and everything.
+Dialogue: 0,0:12:47.77,0:12:50.99,main,Eiji,0,0,0,,Plus, you can eat the rind, \Nand the seeds are chocolate.
+Dialogue: 0,0:12:51.32,0:12:53.17,main,Rin,0,0,0,,You're talking about ice cream, aren't you?
+Dialogue: 0,0:12:53.48,0:12:55.48,main,Eiji,0,0,0,,Remember what I said about getting a taste?
+Dialogue: 0,0:13:03.33,0:13:06.43,main - italics,Eiji,0,0,0,,What should I get Rin for her birthday?
+Dialogue: 0,0:13:07.78,0:13:09.94,main - italics,Eiji,0,0,0,,Gifts... search.
+Dialogue: 0,0:13:09.94,0:13:11.58,main - italics,Eiji,0,0,0,,Craft beer?!
+Dialogue: 0,0:13:13.44,0:13:15.76,main - italics,Eiji,0,0,0,,Probably should include some snacks, then.
+Dialogue: 0,0:13:16.43,0:13:20.27,main - italics,Eiji,0,0,0,,Come to think of it, her script had \Na bunch of preferences in it...
+Dialogue: 0,0:13:20.88,0:13:22.60,main - italics,Eiji,0,0,0,,If I remember right, it was bunnies?
+Dialogue: 0,0:13:22.80,0:13:24.52,main,TsundeRin,0,0,0,,Is that a problem?!
+Dialogue: 0,0:13:26.76,0:13:28.48,main - italics,Eiji,0,0,0,,Oh, this is perfect!
+Dialogue: 0,0:13:29.03,0:13:32.54,sign_7050_55_Episode_1_______,Cup sign,0,0,0,,{\c&H606060&\frz347.6\pos(320,279)}Aim Higher
+Dialogue: 1,0:13:29.19,0:13:32.53,main - italics,Eiji,0,0,0,,And Spoiled-chan would \Nwant something cute...
+Dialogue: 0,0:13:32.93,0:13:35.55,main,Spoiled Rin,0,0,0,,I want something cute!
+Dialogue: 0,0:13:35.76,0:13:37.61,main - italics,Eiji,0,0,0,,I could get two!
+Dialogue: 0,0:13:38.45,0:13:40.37,main - italics,Eiji,0,0,0,,As for Cool-chan...
+Dialogue: 0,0:13:43.29,0:13:44.88,main,Cool,0,0,0,,A late-summer gift?
+Dialogue: 0,0:13:45.24,0:13:46.03,main,Cool,0,0,0,,Thank you.
+Dialogue: 0,0:13:49.91,0:13:53.64,main,Eiji,0,0,0,,Uh, no, it's a birthday present...
+Dialogue: 0,0:13:55.69,0:13:56.72,main - italics,Eiji,0,0,0,,Maybe no Japanese sweets.
+Dialogue: 0,0:13:57.35,0:13:59.13,main - italics,Eiji,0,0,0,,That just leaves Imp-chan...
+Dialogue: 0,0:14:00.74,0:14:03.15,main - italics,Eiji,0,0,0,,But it's Rin's birthday, right?
+Dialogue: 0,0:14:05.32,0:14:08.38,main - italics,Eiji,0,0,0,,Would she like it if I \Npicked out a serious gift?
+Dialogue: 0,0:14:08.82,0:14:10.42,main - italics,Eiji,0,0,0,,Although that's kind of embarrassing...
+Dialogue: 0,0:14:10.91,0:14:15.91,sign_18558_208_Psuedo_Harem,Eyecatch sign,0,0,0,,{\pos(533,123)}Pseudo Harem
+Dialogue: 0,0:14:15.91,0:14:20.92,sign_18558_208_Psuedo_Harem,Eyecatch sign,0,0,0,,{\pos(163,356)}Pseudo Harem
+Dialogue: 0,0:14:24.35,0:14:26.68,main,Rin,0,0,0,,Sorry about the wait! Let's go.
+Dialogue: 0,0:14:27.77,0:14:30.46,main,Megu,0,0,0,,You're looking prettier lately, Rin.
+Dialogue: 0,0:14:30.46,0:14:32.40,main,Rin,0,0,0,,What? Where did this come from?
+Dialogue: 0,0:14:32.40,0:14:35.36,main,Megu,0,0,0,,I feel like you're looking nicer\Nsince you got back from summer break.
+Dialogue: 0,0:14:36.61,0:14:41.44,main,Rin,0,0,0,,Really? Oh, but I hadn't noticed!
+Dialogue: 0,0:14:41.76,0:14:43.25,main,Megu,0,0,0,,I must've been imagining it...
+Dialogue: 0,0:14:43.25,0:14:43.96,main,Rin,0,0,0,,Hey!
+Dialogue: 0,0:14:45.84,0:14:49.20,main,Megu,0,0,0,,What do you think, Kiri-chan? \NGive us the kouhai's opinion.
+Dialogue: 0,0:14:49.20,0:14:50.74,main,Kiri,0,0,0,,My opinion?
+Dialogue: 0,0:14:51.23,0:14:54.46,main,Kiri,0,0,0,,I was thinking she seemed different, too...
+Dialogue: 0,0:14:54.98,0:14:58.32,main,Kiri,0,0,0,,Not that she didn't look \Npretty before, mind you!
+Dialogue: 0,0:14:58.88,0:15:01.59,main,Kiri,0,0,0,,Senpai, you're always lovely.
+Dialogue: 0,0:15:02.12,0:15:05.21,main,Megu,0,0,0,,How earnest you are makes you \Nthe cutest, Kiri-chan.
+Dialogue: 0,0:15:05.21,0:15:06.27,main,Rin,0,0,0,,Seriously.
+Dialogue: 0,0:15:06.27,0:15:07.84,main,Kiri,0,0,0,,No, no, no...
+Dialogue: 0,0:15:08.47,0:15:12.84,main,Kiri,0,0,0,,Actually, did something \Nhappen during summer vacation?
+Dialogue: 0,0:15:15.32,0:15:19.64,main,Rin,0,0,0,,Oh, kitten, I think you might not \Nbe old enough for this kind of talk!
+Dialogue: 0,0:15:20.49,0:15:23.72,main,Megu,0,0,0,,You've definitely gotten funnier \Nsince summer vacation, Rin!
+Dialogue: 0,0:15:24.54,0:15:25.54,main,Kiri,0,0,0,,Scary...
+Dialogue: 0,0:15:29.37,0:15:32.03,main,Megu,0,0,0,,Rin, are you serious about running \Nin that getup this year?
+Dialogue: 0,0:15:34.25,0:15:37.11,main,Rin,0,0,0,,Everyone has to cross-dress, right?
+Dialogue: 0,0:15:38.50,0:15:40.17,main,Megu,0,0,0,,Looks hard to get around in...
+Dialogue: 0,0:15:40.37,0:15:42.67,main,Rin,0,0,0,,These soles are really thick too!
+Dialogue: 0,0:15:42.67,0:15:44.52,main,Megu,0,0,0,,I feel like drama puts too much effort
+Dialogue: 0,0:15:44.52,0:15:46.96,main,Megu,0,0,0,,into the performance side \Nof things every year.
+Dialogue: 0,0:15:46.96,0:15:48.54,main,Megu,0,0,0,,You don't even care about winning!
+Dialogue: 0,0:15:48.77,0:15:53.55,main,Lady in Drag Rin,0,0,0,,As long as you're rooting for me, \Nbaby, I'm gonna be number one.
+Dialogue: 0,0:15:53.73,0:15:56.80,main,Megu,0,0,0,,Yeah, I'm not really into Hotshot-kun.
+Dialogue: 0,0:15:57.19,0:15:59.83,main,Lady in Drag Rin,0,0,0,,A hotshot like me, rejected?!
+Dialogue: 0,0:16:00.69,0:16:02.06,main,Lady in Drag Rin,0,0,0,,Interesting...
+Dialogue: 0,0:16:07.77,0:16:10.82,main,Kiri,0,0,0,,Nanakura-senpai... sorry about the wait.
+Dialogue: 0,0:16:10.82,0:16:12.32,main,Rin,0,0,0,,Kiri-chan!
+Dialogue: 0,0:16:13.82,0:16:14.64,main,Megu,0,0,0,,I love you.
+Dialogue: 0,0:16:13.82,0:16:18.33,sign_12856_113_Die,SFX sign,0,0,0,,{\fs16\c&HC4F42B&\3c&HB2C74D&\b0\move(190,160,190,130,319,4490)}Squeeze
+Dialogue: 0,0:16:15.56,0:16:17.88,main,Rin,0,0,0,,That's a pretty huge \Ndifference in reactions!
+Dialogue: 0,0:16:18.33,0:16:22.13,main,Kiri,0,0,0,,M-Megu-senpai?! Is something wrong?
+Dialogue: 0,0:16:23.33,0:16:27.60,main,Megu,0,0,0,,I really don't think a delicate young \Nboy would say something like that!
+Dialogue: 0,0:16:29.43,0:16:31.88,main,Rin,0,0,0,,I've never seen Megu this excited before...
+Dialogue: 0,0:16:33.73,0:16:38.23,main,Kiri,0,0,0,,If it's for you, Nee-san, I don't mind \Nrunning until my body falls apart...
+Dialogue: 0,0:16:44.92,0:16:48.36,main,Megu,0,0,0,,I get the feeling if I stay too \Nclose by, I could taint him...
+Dialogue: 0,0:16:48.58,0:16:49.71,main,Rin,0,0,0,,That's intense.
+Dialogue: 0,0:16:50.11,0:16:53.01,main,Rin,0,0,0,,I wish I could've dressed like that.
+Dialogue: 0,0:16:53.59,0:16:54.86,main,Rin,0,0,0,,It seems easier to run in.
+Dialogue: 0,0:16:55.41,0:16:58.31,main,Kiri,0,0,0,,I'm pretty confident in my running, \Nso you can count on me!
+Dialogue: 0,0:17:00.70,0:17:02.57,main,Megu,0,0,0,,But Delicate-kyun's too delicate to run.
+Dialogue: 0,0:17:03.92,0:17:07.19,main,Megu,0,0,0,,It's okay, I'll teach you all about it...
+Dialogue: 0,0:17:23.64,0:17:26.15,main - italics top,PA,0,0,0,,We will now begin our final event,
+Dialogue: 0,0:17:26.15,0:17:29.99,main - italics top,PA,0,0,0,,the inter-club, mixed-gender, \Ncostume relay race!
+Dialogue: 0,0:17:30.69,0:17:31.80,main - italics top,PA,0,0,0,,On your marks...
+Dialogue: 0,0:17:35.36,0:17:36.34,main - italics top,PA,0,0,0,,Get set...
+Dialogue: 0,0:17:38.95,0:17:40.56,main,Students,0,0,0,,Yeah, go for it!
+Dialogue: 0,0:18:14.28,0:18:15.77,main,Students,0,0,0,,You've got this!
+Dialogue: 0,0:18:15.77,0:18:17.28,main,Students,0,0,0,,Come on!
+Dialogue: 0,0:18:19.32,0:18:21.17,main,Kiri,0,0,0,,Good luck, Senpai.
+Dialogue: 0,0:18:40.31,0:18:40.92,main,Runner,0,0,0,,It's all yours!
+Dialogue: 0,0:18:41.41,0:18:42.17,main,Rin,0,0,0,,Right!
+Dialogue: 0,0:18:48.74,0:18:50.21,main,Rin,0,0,0,,These are in the way!
+Dialogue: 0,0:18:55.32,0:18:56.32,main,Kiri,0,0,0,,Senpai!
+Dialogue: 0,0:18:56.67,0:18:59.32,main - italics,Kiri,0,0,0,,She's so cool!
+Dialogue: 0,0:19:10.21,0:19:11.08,main,Kiri,0,0,0,,Kiri-chan!
+Dialogue: 0,0:19:11.29,0:19:13.84,main,Kiri,0,0,0,,Show these people what \Nthe drama club is made of!
+Dialogue: 0,0:19:14.88,0:19:17.22,main - flashback,Megu,0,0,0,,Delicate-kyun can't run.
+Dialogue: 0,0:19:17.22,0:19:19.29,main - flashback,Megu,0,0,0,,He's too fragile...
+Dialogue: 0,0:19:19.29,0:19:22.90,main - flashback,Megu,0,0,0,,fragile...fragile... fragile...
+Dialogue: 0,0:19:23.85,0:19:26.77,main - flashback,Rin,0,0,0,,That might be what helps \Nme figure out roles...
+Dialogue: 0,0:19:26.77,0:19:28.42,main - flashback,Rin,0,0,0,,figure out roles...
+Dialogue: 0,0:19:28.42,0:19:30.99,main - flashback,Rin,0,0,0,,Roles...roles...
+Dialogue: 0,0:19:32.11,0:19:35.49,main - italics top,PA,0,0,0,,The baton is now in the hands \Nof the drama club's anchor.
+Dialogue: 0,0:19:35.97,0:19:40.61,main - italics top,PA,0,0,0,,Oh, what's this?! She seems \Nunsteady on her feet!
+Dialogue: 0,0:19:40.88,0:19:43.11,main - italics top,PA,0,0,0,,Was it a good idea \Nfor her to run in the race?
+Dialogue: 0,0:19:45.49,0:19:49.87,main - italics top,PA,0,0,0,,Oh, and they pass her one by one!
+Dialogue: 0,0:19:49.87,0:19:51.43,main - italics top,PA,0,0,0,,This is hard to watch...
+Dialogue: 0,0:19:51.68,0:19:56.06,main - italics top,PA,0,0,0,,It's okay! Just stop! \NYou don't have to run anymore!
+Dialogue: 0,0:19:58.24,0:19:58.88,main,Rin,0,0,0,,Kiri-chan!
+Dialogue: 0,0:19:59.36,0:20:01.93,main - italics top,PA,0,0,0,,And now she's collapsed!
+Dialogue: 0,0:20:01.93,0:20:05.34,main - italics top,PA,0,0,0,,I'm not sure why, but something \Nabout the sight of it is beautiful!
+Dialogue: 0,0:20:06.42,0:20:08.35,main,Rin,0,0,0,,Are you okay, Kiri-chan?!
+Dialogue: 0,0:20:10.57,0:20:13.85,main,Kiri,0,0,0,,What did you think of my Delicate-kun?
+Dialogue: 0,0:20:18.00,0:20:19.10,main,Megu,0,0,0,,Very good!
+Dialogue: 0,0:20:19.10,0:20:22.06,main,Rin,0,0,0,,Come on, Kiri-chan!
+Dialogue: 0,0:20:29.64,0:20:32.35,main,Rin,0,0,0,,I never thought you'd get me \Nsomething like this, Senpai...
+Dialogue: 0,0:20:34.30,0:20:37.88,main,Eiji,0,0,0,,I tried picking something \Nout... seriously...
+Dialogue: 0,0:20:39.29,0:20:41.38,main,Rin,0,0,0,,Thank you!
+Dialogue: 0,0:20:41.38,0:20:43.63,main,Rin,0,0,0,,I'll always cherish it!
+Dialogue: 0,0:20:44.25,0:20:49.14,main,Rin,0,0,0,,I'm honestly surprised you went \Nwith such a serious present.
+Dialogue: 0,0:20:49.60,0:20:51.14,main,Eiji,0,0,0,,Do you have to be surprised?
+Dialogue: 0,0:20:51.78,0:20:54.84,main,Eiji,0,0,0,,Then again, if you're that happy,
+Dialogue: 0,0:20:54.84,0:20:57.39,main,Eiji,0,0,0,,maybe the earnest approach isn't so bad.
+Dialogue: 0,0:20:59.36,0:21:03.66,main,Spoiled Rin,0,0,0,,Next, I want a present full of love too.
+Dialogue: 0,0:21:05.04,0:21:06.06,main,Eiji,0,0,0,,Spoiled-chan...
+Dialogue: 0,0:21:07.32,0:21:08.88,main,Eiji,0,0,0,,I don't think I can do that.
+Dialogue: 0,0:21:09.48,0:21:12.41,main,Eiji,0,0,0,,I've got my heart set \Non one girl, right now.
+Dialogue: 0,0:21:14.35,0:21:15.68,main - italics,Rin,0,0,0,,I was rejected...?
+Dialogue: 0,0:21:18.36,0:21:20.92,main - italics,Rin,0,0,0,,For some reason this is \Na bigger shock than I thought.
+Dialogue: 0,0:21:21.14,0:21:24.78,main,Eiji,0,0,0,,I'm not gonna make eyes \Nat you or Imp-chan anymore!
+Dialogue: 0,0:21:25.19,0:21:28.24,main,Rin,0,0,0,,No, no, no, don't do that!
+Dialogue: 0,0:21:29.18,0:21:33.79,main,Rin,0,0,0,,I can't deal with that! There's just no way!
+Dialogue: 0,0:21:34.01,0:21:35.93,main,Eiji,0,0,0,,You really feel that strongly...?
+Dialogue: 0,0:23:05.90,0:23:09.40,sign_7050_55_Episode_1_______,sign,0,0,0,,{\c&HF3E2E0&\fnTimes New Roman\b1\fs22\pos(348,137)}Documentary: Much Ado About Nothing{\c&H2C08BD&} X
+Dialogue: 0,0:23:05.90,0:23:09.41,main,Tsuu,0,0,0,,Documentary: Much Ado About Nothing X!
+Dialogue: 0,0:23:09.60,0:23:12.68,main,Tsuu,0,0,0,,The drama circle found \Nitself desperate for time,
+Dialogue: 0,0:23:12.68,0:23:14.92,main,Tsuu,0,0,0,,preparing for an upcoming performance...
+Dialogue: 0,0:23:15.55,0:23:20.16,main,Tsuu,0,0,0,,The production of certain props \Nfor the show are behind schedule!
+Dialogue: 0,0:23:20.56,0:23:21.64,main,Eiji,0,0,0,,Did you catch that?!
+Dialogue: 0,0:23:21.64,0:23:23.92,main,Tsuu,0,0,0,,Yes, it's his fault!
+Dialogue: 0,0:23:23.92,0:23:28.63,main,Eiji,0,0,0,,I'm making soapboxes, which \Nthe actors will be standing on.
+Dialogue: 0,0:23:29.61,0:23:33.31,main,Eiji,0,0,0,,I can't afford them getting hurt, \Nso I have to do a good job.
+Dialogue: 0,0:23:33.31,0:23:34.44,main,Tsuu,0,0,0,,This man...
+Dialogue: 0,0:23:42.26,0:23:44.40,main,Eiji,0,0,0,,Just take a look at him.
+Dialogue: 0,0:23:46.34,0:23:47.93,main,Eiji,0,0,0,,See what I mean about doing a good job?
+Dialogue: 0,0:23:48.36,0:23:49.70,main,Eiji,0,0,0,,Considering the weight.
+Dialogue: 0,0:23:49.70,0:23:51.70,main,,0,0,0,,

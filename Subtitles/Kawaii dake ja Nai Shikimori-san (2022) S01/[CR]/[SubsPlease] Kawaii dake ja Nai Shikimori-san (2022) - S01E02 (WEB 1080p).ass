@@ -1,0 +1,472 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,20,0
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.73,0:00:07.84,Main,Girl Classmate A,0,0,0,,Wanna go watch the boys play soccer?
+Dialogue: 0,0:00:07.84,0:00:09.11,Main,Girl Classmate F,0,0,0,,Hmm, should we?
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\move(254,32,274,32)\shad0\bord0\fnComic Sans MS\c&HD2D16B&}Boys
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\shad0\bord0\fnComic Sans MS\c&H7D68BA&\move(455.334,37.333,475.334,37.333)}Girls
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\shad0\bord0\fnComic Sans MS\c&HD9EADD&\fs14\move(199.333,99.333,219.333,99.333)}Baseball
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\shad0\bord0\fnComic Sans MS\c&HD9EADD&\fs14\move(308.666,99.333,328.666,99.333)}Soccer
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\shad0\bord0\fnComic Sans MS\c&H9EB89C&\fs14\move(469.333,99.333,489.333,99.333)}Volleyball
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\shad0\bord0\fnComic Sans MS\c&H9EB89C&\fs14\move(576.666,90,596.666,90)}Basketball
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\an7\shad0\bord0\fnComic Sans MS\c&HD9EADD&\fs20\move(9.333,6,29.333,6)}Ball Sports Tournament\N Assignments
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\frz-2\3c&HB7FDFF&\move(176.666,164,196.666,164)}Chiba
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\frz4\3c&HB7FDFF&\move(230.666,172.667,250.666,172.667)}Nishida
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\move(188,200.667,208,200.667)}Kobayashi
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\frz8\move(238,223.334,258,223.334)}Ueda
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\frz-15\move(181.334,238.668,201.334,238.668)}Saitou
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\frz-5\move(189.334,279.334,209.334,279.334)}Funazawa
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\move(240.001,300.667,260.001,300.667)}Fusube
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\frz-10\move(176.668,324.666,196.668,324.666)}Yamana
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\move(235.335,336.666,255.335,336.666)}Saitou
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\move(288.668,161.332,308.668,161.332)}Inuzuka
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\move(336.001,165.999,356.001,165.999)}Nakajo
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\frz-2\move(286.668,198.665,306.668,198.665)}Niwano
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\frz2\move(338.002,196.665,338.002,196.665)}Izumi
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\frz8\move(291.336,232.665,311.336,232.665)}Tanaka
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\frz-8\move(336.003,235.998,356.003,235.998)}Saeki
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\move(292.003,272.664,312.003,272.664)}Hisano
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\frz4\move(340.669,275.331,360.669,275.331)}Minami
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\frz-20\move(324.002,317.997,344.002,317.997)}Numakoshi
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\move(408.002,157.996,428.002,157.996)}Shikimori
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\move(452.002,157.329,472.002,157.329)}Takeda
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\move(495.335,157.329,515.335,157.329)}Taneda
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\move(408.002,189.329,428.002,189.329)}Koyama
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\move(452.669,189.329,472.669,189.329)}Nakahashi
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\move(496.002,188.662,516.002,188.662)}Nekozaki
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\move(408.669,220.662,428.669,220.662)}Nagumo
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\move(454.002,221.995,474.002,221.995)}Oohara
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HB7FDFF&\move(496.002,221.995,516.002,221.995)}Tsunozaki
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HA3F2EB&\move(552,155.329,572,155.329)}Kurisu
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HA3F2EB&\move(594.669,155.329,614.669,155.329)}Morita
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HA3F2EB&\move(552.669,184.662,572.669,184.662)}Hashioka
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HA3F2EB&\move(595.336,183.995,615.336,183.995)}Hachimitsu
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HA3F2EB&\move(554.003,213.328,574.003,213.328)}Emoto
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HA3F2EB&\move(596.003,212.661,616.003,212.661)}Tokuda
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HA3F2EB&\move(553.336,243.328,573.336,243.328)}Hiraana
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\frz-5\shad0\c&H1E343D&\3c&HA3F2EB&\move(594.003,244.661,614.003,244.661)}Satou
+Dialogue: 0,0:00:09.11,0:00:13.49,Main,Text,0,0,0,,{\fnArial\fs10\shad0\c&H1E343D&\3c&HA3F2EB&\move(554.669,275.328,574.669,275.328)}Hikida
+Dialogue: 0,0:00:09.59,0:00:13.49,Main,Inuzuka,0,0,0,,Oh, the girls are doing \Nvolleyball and basketball, huh?
+Dialogue: 0,0:00:13.49,0:00:16.00,Main,Inuzuka,0,0,0,,Looks like you and I are up for soccer.
+Dialogue: 0,0:00:16.00,0:00:17.70,Main,Izumi,0,0,0,,Yeah, looks like it.
+Dialogue: 0,0:00:19.04,0:00:20.95,Italics,Izumi,0,0,0,,Today is our ball sports tournament.
+Dialogue: 0,0:00:22.00,0:00:24.34,Main,Inuzuka,0,0,0,,If we're gonna do this, \Nwe wanna win, right?
+Dialogue: 0,0:00:24.34,0:00:25.08,Main,Izumi,0,0,0,,Yeah!
+Dialogue: 0,0:00:25.44,0:00:28.79,Main,Izumi,0,0,0,,And I hope no one gets hurt this time.
+Dialogue: 0,0:00:29.25,0:00:32.17,Main,Inuzuka,0,0,0,,You'd better be especially careful.
+Dialogue: 0,0:00:32.60,0:00:35.10,Main,Izumi,0,0,0,,I appreciate the concern.
+Dialogue: 0,0:00:35.10,0:00:36.89,Main,Shikimori,0,0,0,,Izumi-san!
+Dialogue: 0,0:00:43.44,0:00:47.42,Main,Shikimori,0,0,0,,The girls' volleyball game starts 11:35.
+Dialogue: 0,0:00:47.42,0:00:49.89,Main,Shikimori,0,0,0,,What time is the boys' soccer game?
+Dialogue: 0,0:00:50.20,0:00:51.40,Main,Izumi,0,0,0,,I haven't checked yet.
+Dialogue: 0,0:00:54.32,0:00:56.75,Italics,Izumi,0,0,0,,Her hair looks so cute today!
+Dialogue: 0,0:00:56.75,0:00:59.29,Main,Inuzuka,0,0,0,,Isn't playing gonna be hard \Nwith your hair like that?
+Dialogue: 0,0:00:59.29,0:01:01.68,Main,Shikimori,0,0,0,,W-Well, a little...
+Dialogue: 0,0:01:03.57,0:01:05.26,Main,Nekozaki,0,0,0,,We match. It's nice, right?
+Dialogue: 0,0:01:05.64,0:01:06.67,Main,Inuzuka,0,0,0,,How do you figure?
+Dialogue: 0,0:01:06.90,0:01:09.12,Main,Nekozaki,0,0,0,,It makes us feel connected,
+Dialogue: 0,0:01:09.12,0:01:11.89,Main,Nekozaki,0,0,0,,it motivates us, and it gets our spirits up!
+Dialogue: 0,0:01:12.80,0:01:15.05,Main,Nekozaki,0,0,0,,Hachimitsu, you look so good!
+Dialogue: 0,0:01:16.62,0:01:17.95,Main,Hachimitsu,0,0,0,,Take it off.
+Dialogue: 0,0:01:18.91,0:01:20.09,Main,Hachimitsu,0,0,0,,Excuse me.
+Dialogue: 0,0:01:20.09,0:01:21.49,Main,Inuzuka,0,0,0,,I'm gonna hit the can.
+Dialogue: 0,0:01:24.07,0:01:24.86,Main,Shikimori,0,0,0,,Oh!
+Dialogue: 0,0:01:25.92,0:01:28.45,Main,Shikimori,0,0,0,,The times are posted right here.
+Dialogue: 0,0:01:28.45,0:01:29.81,Main,Izumi,0,0,0,,Oh, you're right.
+Dialogue: 0,0:01:30.62,0:01:35.41,Italics,Izumi,0,0,0,,It's pretty clear that I won't be of \Nmuch use in this ball sports tournament.
+Dialogue: 0,0:01:36.45,0:01:37.57,Italics,Izumi,0,0,0,,In which case...
+Dialogue: 0,0:01:38.17,0:01:38.75,Main,Izumi,0,0,0,,Here!
+Dialogue: 0,0:01:38.75,0:01:39.57,Main,Shikimori,0,0,0,,Eep!
+Dialogue: 0,0:01:41.22,0:01:45.40,Italics,Izumi,0,0,0,,I'll focus on supporting Shikimori-san \Nto make myself look good!
+Dialogue: 0,0:01:47.18,0:01:49.21,Italics,Izumi,0,0,0,,Wait a minute...
+Dialogue: 0,0:01:49.92,0:01:53.96,Italics,Izumi,0,0,0,,Does supporting someone make {\i0}you{\i1} look good?
+Dialogue: 0,0:01:56.75,0:01:58.22,Italics,Izumi,0,0,0,,Well, whatever!
+Dialogue: 0,0:01:59.06,0:02:01.22,Main,Izumi,0,0,0,,Uh... Oh, here we are.
+Dialogue: 0,0:02:01.22,0:02:05.35,Main,Text,0,0,0,,{\fnArial\fs20\an8\b1\shad0\bord0\c&HDA43ED&\move(74,32.667,74,5.667,1,1270)}Girls
+Dialogue: 0,0:02:01.22,0:02:05.35,Main,Text,0,0,0,,{\fnArial\fs20\an1\b1\shad0\bord0\c&H161820&\move(278.666,86.667,278.666,58.667,1,1270)}Basketball
+Dialogue: 0,0:02:01.22,0:02:05.35,Main,Text,0,0,0,,{\fnArial\fs20\an1\b1\shad0\bord0\c&H161820&\move(299.333,296.001,299.666,269.334,1,1270)}Soccer
+Dialogue: 0,0:02:01.22,0:02:05.35,Main,Text,0,0,0,,{\fnArial\fs20\an1\b1\shad0\bord0\c&H161820&\move(232,358.668,232,335.668,1,1270)}Basketball
+Dialogue: 0,0:02:01.22,0:02:05.35,Main,Text,0,0,0,,{\fnArial\fs20\an1\b1\shad0\bord0\c&H161820&\move(275.333,150.667,275.333,125.667,1,1270)}Volleyball
+Dialogue: 0,0:02:01.22,0:02:05.35,Main,Text,0,0,0,,{\fnArial\fs20\an8\b1\shad0\bord0\c&HFA764F&\move(72.667,244,72.667,218,1,1270)}Boys
+Dialogue: 0,0:02:05.35,0:02:07.53,Italics,Izumi,0,0,0,,They're at the same time!
+Dialogue: 0,0:02:08.63,0:02:12.15,Main,Shikimori,0,0,0,,Looks like we won't be able \Nto cheer each other on today.
+Dialogue: 0,0:02:12.58,0:02:16.48,Main,Shikimori,0,0,0,,Our opponent in the first match \Nis the favorite to win, too.
+Dialogue: 0,0:02:16.48,0:02:17.49,Main,Izumi,0,0,0,,Really?
+Dialogue: 0,0:02:17.49,0:02:22.87,Main,Text,0,0,0,,{\fnArial\shad0\bord3\an8\3c&H4178C6&\c&HD4F6FE&\pos(97.333,69.333)}Volleyball
+Dialogue: 0,0:02:17.49,0:02:22.87,Main,Text,0,0,0,,{\fnArial\shad0\bord3\an8\3c&H4178C6&\c&HD4F6FE&\pos(448,70)}Volleyball Ace
+Dialogue: 0,0:02:17.49,0:02:22.87,Main,Text,0,0,0,,{\fnArial\shad0\bord3\an8\3c&H4178C6&\c&HD4F6FE&\pos(430,190)}One Volleyball Club Member
+Dialogue: 0,0:02:17.49,0:02:22.87,Main,Text,0,0,0,,{\fnArial\shad0\an8\fs16\3c&H36816D&\c&HB3F9FC&\pos(270.666,233.333)}Basketball
+Dialogue: 0,0:02:17.97,0:02:20.03,Main,Shikimori,0,0,0,,Neko is in the volleyball club,
+Dialogue: 0,0:02:20.03,0:02:22.87,Main,Shikimori,0,0,0,,and she says they've got\Nthe ace on their team.
+Dialogue: 0,0:02:23.37,0:02:27.30,Main,Shikimori,0,0,0,,It won't be easy for our class to win.
+Dialogue: 0,0:02:27.30,0:02:28.12,Main,Izumi,0,0,0,,Shikimori-san!
+Dialogue: 0,0:02:28.35,0:02:29.33,Main,Shikimori,0,0,0,,Huh?!
+Dialogue: 0,0:02:29.81,0:02:33.52,Main,Izumi,0,0,0,,Even if we're apart, I'll be \Ncheering you on the whole time!
+Dialogue: 0,0:02:36.21,0:02:38.36,Main,Izumi,0,0,0,,I'll send you my good vibes now!
+Dialogue: 0,0:02:38.68,0:02:43.22,Main,Izumi,0,0,0,,You can do it! Don't get hurt! Hnngh!
+Dialogue: 0,0:02:45.15,0:02:46.22,Main,Shikimori,0,0,0,,I'll...
+Dialogue: 0,0:02:47.77,0:02:49.34,Main,Shikimori,0,0,0,,I'll do my best.
+Dialogue: 0,0:02:51.43,0:02:53.85,Main,Title,0,0,0,,{\fad(1780,1)\an8\fs30\fnComic Sans MS\shad0\c&H907F7D&\3c&HEEEDEB&}Shikimori's {\c&H696767&}Not {\c&H989595&}Just {\c&H92767E&}a {\c&H928B8B&}Cutie
+Dialogue: 0,0:02:56.60,0:02:56.90,Main,Title,0,0,0,,{\an8\fnComic Sans MS\fs30\bord0\shad0\b1\c&HA2A225&}Shikimori's
+Dialogue: 0,0:02:56.90,0:02:57.15,Main,Title,0,0,0,,{\an8\fnComic Sans MS\fs30\bord0\shad0\b1\bord2\c&H8D52E0&\3c&H7A4BB6&}N{\c&HEAD6F8&}o{\c&HAE85E4&}t
+Dialogue: 0,0:02:57.15,0:02:57.40,Main,Title,0,0,0,,{\an8\fnComic Sans MS\fs30\bord0\shad0\b1\c&H2EB82A&\i1}Just
+Dialogue: 0,0:02:57.40,0:02:57.69,Main,Title,0,0,0,,{\an8\fnComic Sans MS\fs30\bord0\shad0\b1\c&H942896&}a
+Dialogue: 0,0:02:57.69,0:02:58.06,Main,Title,0,0,0,,{\an8\fnComic Sans MS\fs30\bord0\shad0\b1\c&H8A00EA&}Cutie
+Dialogue: 0,0:02:58.06,0:02:59.27,Main,Title,0,0,0,,{\an8\fs20\fnComic Sans MS\shad0\c&H9A9497&\frz-5\3c&HEEEDEB&\pos(78.667,112)}Shikimori's
+Dialogue: 0,0:02:58.06,0:02:59.27,Main,Title,0,0,0,,{\an8\fs20\fnComic Sans MS\shad0\3c&HEEEDEB&\c&HA3948C&\frz5\pos(199.333,106.667)}Not
+Dialogue: 0,0:02:58.06,0:02:59.27,Main,Title,0,0,0,,{\an8\fs20\fnComic Sans MS\shad0\3c&HEEEDEB&\c&H9D8C90&\pos(318.666,115.334)}Just
+Dialogue: 0,0:02:58.06,0:02:59.27,Main,Title,0,0,0,,{\an8\fs20\fnComic Sans MS\shad0\3c&HEEEDEB&\c&H8A6D65&\frz5\pos(437.999,113.334)}a
+Dialogue: 0,0:02:58.06,0:02:59.27,Main,Title,0,0,0,,{\an8\fs20\fnComic Sans MS\shad0\3c&HEEEDEB&\c&H8A6D65&\frz-2\pos(569.999,112.667)}Cutie
+Dialogue: 1,0:02:59.27,0:03:01.99,Main,Title,0,0,0,,{\fad(1,50)\fnGeorgia\an8\fs48\pos(314.667,226.667)\shad0\blur2\c&H631FE1&\3c&HFFFFFF&)\clip(293.333,228.667,304,241.333)}Shikimori's\N{\fs34}N{\c&H631FE1&}o{\c&H030100&}t Just a {\c&H631FE1&}Cutie
+Dialogue: 1,0:02:59.27,0:03:01.99,Main,Title,0,0,0,,{\fad(1,50)\fnGeorgia\an8\fs48\pos(314.667,226.667)\shad0\blur2\c&H631FE1&\3c&HFFFFFF&)\clip(254.667,230.667,268,241.333)}Shikimori's\N{\fs34}N{\c&H631FE1&}o{\c&H030100&}t Just a {\c&H631FE1&}Cutie
+Dialogue: 1,0:02:59.27,0:03:01.99,Main,Title,0,0,0,,{\fad(1,50)\fnGeorgia\an8\fs48\pos(314.667,226.667)\shad0\blur2\c&H631FE1&\3c&HFFFFFF&)\clip(382,230.667,393.333,243.333)}Shikimori's\N{\fs34}N{\c&H631FE1&}o{\c&H030100&}t Just a {\c&H631FE1&}Cutie
+Dialogue: 1,0:02:59.27,0:03:01.99,Main,Title,0,0,0,,{\fad(1,50)\fnGeorgia\an8\fs48\pos(314.667,226.667)\shad0\blur2\c&H631FE1&\3c&HFFFFFF&\clip(392,230.667,403.333,247.333)}Shikimori's\N{\fs34}N{\c&H631FE1&}o{\c&H030100&}t Just a {\c&H631FE1&}Cutie
+Dialogue: 0,0:02:59.27,0:03:01.99,Main,Title,0,0,0,,{\fad(1,50)\fnGeorgia\an8\fs48\pos(314.667,226.667)\shad0\blur2\c&H030100&\3c&HFFFFFF&}Shikimori's\N{\fs34}N{\c&H631FE1&}o{\c&H030100&}t Just a {\c&H631FE1&}Cutie
+Dialogue: 0,0:03:29.76,0:03:30.31,Main,Text,0,0,0,,{\fnArial\fs14\shad0\frz27\pos(256,311.333)\c&HCBB5AF&\3c&HFBFBF6&}Amusement Park
+Dialogue: 0,0:03:31.12,0:03:31.72,Main,Text,0,0,0,,{\fnComic Sans MS\fs16\frz-17\c&HC4B4AA&\shad0\b1\3c&HFCF5ED&\pos(355.333,123.334)}Shikimori-san might like it??
+Dialogue: 0,0:03:31.12,0:03:31.72,Main,Text,0,0,0,,{\fnComic Sans MS\fs16\frz-17\pos(375.333,50.667)\c&HC4B4AA&\shad0\b1\3c&HFCF5ED&}Get a reservation!!!
+Dialogue: 0,0:03:31.12,0:03:31.72,Main,Text,0,0,0,,{\fnComic Sans MS\fs16\frz-3\c&HC7B8C1&\shad0\b1\3c&HE7DFFE&\pos(147.333,302.666)}Get gifts for the family
+Dialogue: 0,0:03:31.12,0:03:31.72,Main,Text,0,0,0,,{\fnComic Sans MS\fs16\frz-9\c&HC4B4AA&\shad0\b1\3c&HF0FAE7&\pos(599.333,290.667)}Eat this!!
+Dialogue: 0,0:03:32.47,0:03:33.06,Main,Text,0,0,0,,{\an7\frz20\bord0\shad0\fnArial\fs14\c&HB8B8B8&\pos(193.334,61.333)}Inuzuka-kun
+Dialogue: 0,0:03:32.47,0:03:33.06,Main,Text,0,0,0,,{\fnComic Sans MS\fs16\frz-9\c&HC4B4AA&\shad0\b1\3c&HF0FAE7&\pos(618,312.667)}Eat this!!
+Dialogue: 0,0:03:32.47,0:03:33.06,Main,Text,0,0,0,,{\an7\frz21\bord3\shad0\fnArial\fs11\c&HFFFFFF&\3c&H7CCEF6&\pos(170,106)}Keep warm and go to bed early!!
+Dialogue: 0,0:03:32.47,0:03:33.06,Main,Text,0,0,0,,{\an7\frz20\bord3\shad0\fnArial\fs11\c&HFFFFFF&\3c&HD9E77D&\pos(343,100)}Inuzuka-kun!!
+Dialogue: 0,0:03:32.47,0:03:33.06,Main,Text,0,0,0,,{\an7\frz20\bord0\shad1\fnArial\fs14\c&HD9E77D&\pos(337,145)\4c&HA6C48C&}Please Help{\c&HFFFFFF&}
+Dialogue: 0,0:03:32.47,0:03:33.06,Main,Text,0,0,0,,{\an7\frz20\bord3\shad0\fnArial\fs11\fscx90\c&HFFFFFF&\3c&HD9E77D&\pos(311,273)}I'm going to an amusement park with \NShikimori-san next week. Suggestions...?
+Dialogue: 0,0:04:19.98,0:04:21.74,Main,Title,0,0,0,,{\fad(520,1)\an1\fnTimes New Roman\bord1.5\b1\fs28\shad0\3c&H1B191E&\pos(54,310)}#02  {\fs24\fscy110}Wind and Clouds, Ball Sports Tournament!
+Dialogue: 0,0:04:20.38,0:04:22.47,Main,Students,0,0,0,,{\an8}You've got this!
+Dialogue: 0,0:04:21.74,0:04:23.20,Main,Students,0,0,0,,{\an8}Focus!
+Dialogue: 0,0:04:23.20,0:04:24.08,Main,Students,0,0,0,,{\an8}You can do it!
+Dialogue: 0,0:04:24.08,0:04:25.32,Main,Girl Classmate 1 (Other Team),0,0,0,,Good luck!
+Dialogue: 0,0:04:25.32,0:04:26.56,Main,Students,0,0,0,,Get 'em!
+Dialogue: 0,0:04:26.56,0:04:27.32,Main,Students,0,0,0,,Go for it!
+Dialogue: 0,0:04:28.33,0:04:29.33,Main,Students,0,0,0,,You can do it!
+Dialogue: 0,0:04:44.34,0:04:45.97,Main,Izumi,0,0,0,,Ow...
+Dialogue: 0,0:04:47.95,0:04:49.29,Main,Shikimori,0,0,0,,Izumi-san...
+Dialogue: 0,0:04:49.29,0:04:51.64,Main,Neko,0,0,0,,Man, is he okay?
+Dialogue: 0,0:04:51.64,0:04:54.14,Main,Neko,0,0,0,,His bad luck's rearing\N its head from the get-go.
+Dialogue: 0,0:04:54.63,0:05:00.65,Main,Shikimori,0,0,0,,Izumi-san sent me good vibes \Nso I wouldn't get hurt...
+Dialogue: 0,0:05:04.53,0:05:09.04,Main,Shikimori,0,0,0,,You can do it! Don't get hurt! Hnngh!
+Dialogue: 0,0:05:09.72,0:05:10.87,Main,Nekozaki,0,0,0,,Say what?
+Dialogue: 0,0:05:26.54,0:05:27.63,Main,Izumi,0,0,0,,All right!
+Dialogue: 0,0:05:31.35,0:05:33.11,Main,Izumi,0,0,0,,Ack! Yeowch!
+Dialogue: 0,0:05:41.15,0:05:43.54,Main,Nekozaki,0,0,0,,Maybe it worked. Coulda been way worse.
+Dialogue: 0,0:05:45.94,0:05:47.84,Main,BoyA,0,0,0,,Get back! Get back!
+Dialogue: 0,0:05:48.15,0:05:49.24,Main,Izumi,0,0,0,,Ouch...
+Dialogue: 0,0:05:49.75,0:05:50.99,Main,Shikimori,0,0,0,,Izumi-san!
+Dialogue: 0,0:05:54.08,0:05:55.12,Main,Izumi,0,0,0,,Shikimori-san?
+Dialogue: 0,0:05:55.65,0:05:57.64,Main,Shikimori,0,0,0,,The ball's coming at you!
+Dialogue: 0,0:05:58.29,0:05:59.09,Main,Shikimori,0,0,0,,It's coming!
+Dialogue: 0,0:05:59.09,0:06:00.00,Main,Nekozaki,0,0,0,,Pay attention!
+Dialogue: 0,0:06:01.46,0:06:02.66,Main,Izumi,0,0,0,,Was that a "good luck"?
+Dialogue: 0,0:06:08.89,0:06:10.14,Main,Inuzuka,0,0,0,,Izumi!
+Dialogue: 0,0:06:10.14,0:06:11.89,Main,Nekozaki,0,0,0,,That had to hurt...
+Dialogue: 0,0:06:12.98,0:06:13.98,Main,Nekozaki,0,0,0,,Micchon?
+Dialogue: 0,0:06:15.02,0:06:16.77,Main,Nekozaki,0,0,0,,The volleyball game's gonna start!
+Dialogue: 0,0:06:16.77,0:06:18.80,Main,Boys,0,0,0,,{\an8}Are you okay?
+Dialogue: 0,0:06:17.12,0:06:18.80,Main,Shikimori,0,0,0,,Sorry! You go on ahead!
+Dialogue: 0,0:06:18.80,0:06:19.69,Main,Boys,0,0,0,,{\an8}Oh, man...
+Dialogue: 0,0:06:19.69,0:06:20.71,Main,Boys,0,0,0,,{\an8}You okay?
+Dialogue: 0,0:06:22.17,0:06:25.11,Main,Nekozaki,0,0,0,,Jeez, she's so overprotective.
+Dialogue: 0,0:06:25.69,0:06:27.69,Main,Text,0,0,0,,{\fnArial\b1\fay-.23\pos(307.333,132.667)\c&H5A5B66&\3c&HEBEFEF&\4c&HEBEFEF&}Nurse's Office
+Dialogue: 0,0:06:30.58,0:06:33.20,Main,Shikimori,0,0,0,,Are you all right, Izumi-san?
+Dialogue: 0,0:06:33.60,0:06:35.73,Main,Shikimori,0,0,0,,You don't feel ill, do you?
+Dialogue: 0,0:06:35.73,0:06:37.58,Main,Shikimori,0,0,0,,Do you want some water?
+Dialogue: 0,0:06:37.86,0:06:39.76,Main,Izumi,0,0,0,,Nah, I'm okay.
+Dialogue: 0,0:06:40.36,0:06:43.34,Main,Izumi,0,0,0,,What about you? Will you make \Nit to your volleyball game?
+Dialogue: 0,0:06:43.60,0:06:45.32,Main,Shikimori,0,0,0,,I still have some time.
+Dialogue: 0,0:06:45.82,0:06:50.97,Main,Shikimori,0,0,0,,Still, I can't believe the ball hit you \Nright smack in the face like that...
+Dialogue: 0,0:06:51.26,0:06:54.47,Main,Izumi,0,0,0,,Don't remind me. I looked so dumb.
+Dialogue: 0,0:06:54.47,0:06:58.16,Main,Shikimori,0,0,0,,It wasn't bad luck this time. \NIt was just clumsiness.
+Dialogue: 0,0:06:58.16,0:06:59.60,Main,Izumi,0,0,0,,Do you have to be so frank?!
+Dialogue: 0,0:07:01.28,0:07:05.36,Italics,Izumi,0,0,0,,I made her worry again. I'm pathetic.
+Dialogue: 0,0:07:06.83,0:07:08.25,Main,Shikimori,0,0,0,,Honestly...
+Dialogue: 0,0:07:12.03,0:07:15.14,Main,Shikimori,0,0,0,,You have such pretty hair, Izumi-san.
+Dialogue: 0,0:07:15.14,0:07:16.49,Main,Izumi,0,0,0,,R-Really?!
+Dialogue: 0,0:07:18.00,0:07:22.50,Main,Shikimori,0,0,0,,This scar... I didn't know \Nyou had such a big scar here.
+Dialogue: 0,0:07:23.33,0:07:24.50,Italics,Izumi,0,0,0,,That tickles...
+Dialogue: 0,0:07:25.42,0:07:28.88,Main,Izumi,0,0,0,,I suffered some pretty \Nbad injuries in the past.
+Dialogue: 0,0:07:30.51,0:07:33.39,Main,Izumi,0,0,0,,I have scars all over the place.
+Dialogue: 0,0:07:33.94,0:07:37.57,Main,Izumi,0,0,0,,I think this was from the time \Na truck ran into our house.
+Dialogue: 0,0:07:35.03,0:07:42.02,Main,Text,0,0,0,,{\b1\fnArial\c&H5D53E5&\\shad0\bord0\pos(270,46.667)}C {\fs20}R A {\fs20}S {\fs24}H
+Dialogue: 0,0:07:38.34,0:07:42.02,Main,Shikimori,0,0,0,,I swear, nothing you say\N will ever surprise me again!
+Dialogue: 0,0:07:43.78,0:07:45.03,Main,Shikimori,0,0,0,,I really...
+Dialogue: 0,0:07:46.22,0:07:48.23,Main,Shikimori,0,0,0,,do worry about you a lot.
+Dialogue: 0,0:07:50.81,0:07:54.95,Main,Shikimori,0,0,0,,So please stay by my side \Nas much as possible, okay?
+Dialogue: 0,0:07:56.98,0:07:59.70,Main,Izumi,0,0,0,,R-Really, I'm fine...
+Dialogue: 0,0:08:03.07,0:08:06.15,Main,Shikimori,0,0,0,,Well, I should head back.
+Dialogue: 0,0:08:11.77,0:08:12.72,Main,Izumi,0,0,0,,I can...
+Dialogue: 0,0:08:15.89,0:08:19.47,Main,Izumi,0,0,0,,I can protect you, too, Shikimori-san.
+Dialogue: 0,0:08:23.86,0:08:26.06,Main,Shikimori,0,0,0,,I don't think I'll head back after all.
+Dialogue: 0,0:08:26.06,0:08:26.73,Main,Izumi,0,0,0,,Huh?!
+Dialogue: 0,0:08:27.04,0:08:29.03,Main,Izumi,0,0,0,,But the game will start without you!
+Dialogue: 0,0:08:29.74,0:08:30.73,Main,Shikimori,0,0,0,,Then...
+Dialogue: 0,0:08:33.36,0:08:35.74,Main,Shikimori,0,0,0,,Maybe I'll hide in here.
+Dialogue: 0,0:08:35.74,0:08:38.74,Main,Izumi,0,0,0,,Wha— Buh— Wai—
+Dialogue: 0,0:08:39.54,0:08:41.25,Main,Shikimori,0,0,0,,Gotcha.
+Dialogue: 0,0:08:43.06,0:08:44.75,Main,Shikimori,0,0,0,,I was just kidding!
+Dialogue: 0,0:08:46.75,0:08:48.49,Main,Izumi,0,0,0,,Don't tease me!
+Dialogue: 0,0:08:54.43,0:08:56.26,Main,Shikimori,0,0,0,,Well, I'll see you later.
+Dialogue: 0,0:09:10.89,0:09:12.83,Main,Shikimori,0,0,0,,I came on too strong...
+Dialogue: 0,0:09:16.07,0:09:16.96,Main,Students,0,0,0,,You can do it!
+Dialogue: 0,0:09:16.96,0:09:17.99,Main,Students,0,0,0,,Good luck!
+Dialogue: 0,0:09:17.99,0:09:19.28,Main,Students,0,0,0,,That's it!
+Dialogue: 0,0:09:27.96,0:09:29.70,Main,Students,0,0,0,,Nice shot!
+Dialogue: 0,0:09:29.70,0:09:31.42,Main,Nekozaki,0,0,0,,Good game!
+Dialogue: 0,0:09:32.18,0:09:33.42,Main,Nekozaki,0,0,0,,Goin' all out, huh?
+Dialogue: 0,0:09:33.65,0:09:36.43,Main,Hachimitsu,0,0,0,,I am... not...
+Dialogue: 0,0:09:37.22,0:09:39.94,Main,Nekozaki,0,0,0,,Uh, you're wheezing pretty hard, though.
+Dialogue: 0,0:09:41.10,0:09:43.91,Main,Nekozaki,0,0,0,,Well, we'll win the volleyball \Ngame! Cheer for us!
+Dialogue: 0,0:09:44.38,0:09:45.64,Main,Hachimitsu,0,0,0,,Sure.
+Dialogue: 0,0:09:46.18,0:09:48.05,Main,Younger Girl 1,0,0,0,,Oh, she's here!
+Dialogue: 0,0:09:52.27,0:09:54.63,Main,Younger Girl 1,0,0,0,,I'm rooting for you, Kamiya-senpai!
+Dialogue: 0,0:09:54.63,0:09:55.69,Main,Younger Girl 2,0,0,0,,Me, too!
+Dialogue: 0,0:09:56.01,0:09:57.40,Main,Younger Girl 1,0,0,0,,Please, take this!
+Dialogue: 0,0:09:57.40,0:09:58.28,Main,Younger Girl 2,0,0,0,,And this!
+Dialogue: 0,0:09:58.76,0:09:59.88,Main,Kamiya,0,0,0,,Thanks.
+Dialogue: 0,0:10:00.71,0:10:02.19,Main,Younger Girl 2,0,0,0,,Well, bye now!
+Dialogue: 0,0:10:02.19,0:10:03.42,Main,Younger Girl 3,0,0,0,,Bye!
+Dialogue: 0,0:10:07.68,0:10:10.33,Main,Nekozaki,0,0,0,,As popular as ever, huh, Kamiya?
+Dialogue: 0,0:10:10.70,0:10:13.84,Main,Kamiya,0,0,0,,Yeah, I guess they're expecting a lot of me.
+Dialogue: 0,0:10:14.22,0:10:17.47,Main,Nekozaki,0,0,0,,We're not gonna lose this match!
+Dialogue: 0,0:10:18.70,0:10:19.52,Main,Kamiya,0,0,0,,Right.
+Dialogue: 0,0:10:20.55,0:10:22.47,Main,Shikimori,0,0,0,,Neko!
+Dialogue: 0,0:10:22.47,0:10:25.04,Main,Nekozaki,0,0,0,,Micchon, you're finally here.
+Dialogue: 0,0:10:25.04,0:10:26.97,Main,Shikimori,0,0,0,,Sorry! Did it start yet?
+Dialogue: 0,0:10:26.97,0:10:28.48,Main,Nekozaki,0,0,0,,Just about to.
+Dialogue: 0,0:10:34.30,0:10:35.07,Main,Nekozaki,0,0,0,,Huh?
+Dialogue: 0,0:10:36.44,0:10:39.08,Main,Nekozaki,0,0,0,,Oh, that's the volleyball ace.
+Dialogue: 0,0:10:39.08,0:10:40.29,Main,Shikimori,0,0,0,,Ah...
+Dialogue: 0,0:10:48.00,0:10:49.37,Main,Younger Girl 2,0,0,0,,Kamiya-senpai!
+Dialogue: 0,0:10:49.37,0:10:50.12,Main,Younger Girl 1,0,0,0,,Go get 'em!
+Dialogue: 0,0:10:55.64,0:10:57.18,Main,Nekozaki,0,0,0,,I knew she was good.
+Dialogue: 0,0:10:55.64,0:10:57.39,Main,Younger Girl 1,0,0,0,,{\an8}That was amazing!
+Dialogue: 0,0:10:57.39,0:10:58.65,Main,Shikimori,0,0,0,,She's quite strong.
+Dialogue: 0,0:11:00.63,0:11:04.14,Main,Text,0,0,0,,{\fnArial\bord0\shad0\c&HFFFDF6&\an1\fay.11\move(100.667,106,100.667,36.667)}Team
+Dialogue: 0,0:11:00.63,0:11:04.14,Main,Text,0,0,0,,{\fnArial\bord0\shad0\c&HFFFDF6&\an1\fay.12\move(222,154,222,84)}1st Half
+Dialogue: 0,0:11:00.63,0:11:04.14,Main,Text,0,0,0,,{\fnArial\bord0\shad0\c&HFFFDF6&\an1\fay.13\move(325.334,167.334,325.334,97.334)}2nd Half
+Dialogue: 0,0:11:00.63,0:11:04.14,Main,Text,0,0,0,,{\fnArial\bord0\shad0\c&HFFFDF6&\an1\fay.12\fs20\move(423.334,176.667,423.334,106.667)}1st Half
+Dialogue: 0,0:11:00.63,0:11:04.14,Main,Text,0,0,0,,{\fnArial\bord0\shad0\c&HFFFDF6&\an1\fay.12\fs20\move(568.001,194,568.001,124)}2nd Half
+Dialogue: 0,0:11:00.63,0:11:04.14,Main,Text,0,0,0,,{\fnArial\bord0\shad0\c&HFFFDF6&\an1\fay.12\fs20\move(492.001,122,492.001,52)}Overtime
+Dialogue: 0,0:11:01.11,0:11:02.33,Main,Boy1,0,0,0,,Good game!
+Dialogue: 0,0:11:02.33,0:11:04.14,Main,Boy2,0,0,0,,Wanna catch the girls' volleyball game?
+Dialogue: 0,0:11:06.64,0:11:10.29,Main,Inuzuka,0,0,0,,It's over... Our summer is over...
+Dialogue: 0,0:11:06.64,0:11:13.17,Main,Text,0,0,0,,{\fnArial\fs16\b1\shad0\c&HFFF9FC&\3c&H6E646F&\pos(158.666,290)}Rejoined During Stoppage Time
+Dialogue: 0,0:11:10.29,0:11:13.73,Main,Izumi,0,0,0,,It hasn't even started yet. It's still spring.
+Dialogue: 0,0:11:13.73,0:11:15.65,Main,Mob,0,0,0,,What the heck happened?
+Dialogue: 0,0:11:16.28,0:11:18.90,Main,Inuzuka,0,0,0,,Anyway, you ended up getting \Nhurt after all, huh?
+Dialogue: 0,0:11:19.28,0:11:22.21,Main,Izumi,0,0,0,,Yeah, but thankfully it wasn't serious.
+Dialogue: 0,0:11:22.21,0:11:23.28,Main,Inuzuka,0,0,0,,True!
+Dialogue: 0,0:11:23.92,0:11:26.21,Main,Izumi,0,0,0,,I wonder if the girls are still playing.
+Dialogue: 0,0:11:26.21,0:11:27.45,Main,Inuzuka,0,0,0,,Wanna go?
+Dialogue: 0,0:11:27.45,0:11:28.29,Main,Izumi,0,0,0,,Yeah.
+Dialogue: 0,0:11:28.29,0:11:29.76,Main,Students,0,0,0,,Keep it up!
+Dialogue: 0,0:11:29.76,0:11:30.83,Main,Students,0,0,0,,You can do it!
+Dialogue: 0,0:11:30.83,0:11:32.54,Main,Students,0,0,0,,That's the way!
+Dialogue: 0,0:11:33.76,0:11:35.32,Main,Hachimitsu,0,0,0,,Let's see your spirit!
+Dialogue: 0,0:11:36.20,0:11:38.89,Main,Hachimitsu,0,0,0,,Shikimori! Nekozaki!
+Dialogue: 0,0:11:38.89,0:11:41.01,Main,Hachimitsu,0,0,0,,Let's see your spirit! Your spirit!
+Dialogue: 0,0:11:41.78,0:11:43.08,Main,Izumi,0,0,0,,Let's watch from above.
+Dialogue: 0,0:11:43.08,0:11:44.29,Main,Inuzuka,0,0,0,,Don't trip on the way up.
+Dialogue: 0,0:11:44.29,0:11:45.02,Main,Izumi,0,0,0,,Right.
+Dialogue: 0,0:11:45.59,0:11:46.51,Main,Students,0,0,0,,You got it! You got it!
+Dialogue: 0,0:11:46.51,0:11:47.93,Main,Students,0,0,0,,Get the next one!
+Dialogue: 0,0:11:47.93,0:11:49.62,Main,Students,0,0,0,,You can do it!
+Dialogue: 0,0:11:51.13,0:11:53.01,Main,Shikimori,0,0,0,,Neko! Are you okay?
+Dialogue: 0,0:11:53.01,0:11:55.90,Main,Nekozaki,0,0,0,,Damn, she's taking this seriously.
+Dialogue: 0,0:11:55.90,0:11:58.15,Main,StudentA,0,0,0,,Man, they're on fire!
+Dialogue: 0,0:11:58.15,0:12:00.24,Main,StudentB,0,0,0,,And they're still on the first round!
+Dialogue: 0,0:12:00.24,0:12:02.65,Main,StudentC,0,0,0,,Go for it! Get 'em!
+Dialogue: 0,0:12:02.65,0:12:04.02,Main,Inuzuka,0,0,0,,Hachimitsu!
+Dialogue: 0,0:12:04.79,0:12:06.48,Main,Hachimitsu,0,0,0,,You came at the perfect time.
+Dialogue: 0,0:12:06.48,0:12:09.44,Main,Inuzuka,0,0,0,,Hey, you're still wearing that?
+Dialogue: 0,0:12:09.44,0:12:10.74,Main,Hachimitsu,0,0,0,,Shut it.
+Dialogue: 0,0:12:10.74,0:12:12.66,Main,Izumi,0,0,0,,Looks like an exciting game.
+Dialogue: 0,0:12:12.66,0:12:14.42,Main,Inuzuka,0,0,0,,It's still going on?
+Dialogue: 0,0:12:14.42,0:12:15.48,Main,Student,0,0,0,,There she goes!
+Dialogue: 0,0:12:19.03,0:12:21.88,Main,Student,0,0,0,,Damn, she's good! How many \Nspikes has she received now?
+Dialogue: 0,0:12:21.88,0:12:23.24,Main,Student,0,0,0,,Who is that?!
+Dialogue: 0,0:12:23.88,0:12:25.82,Main,Inuzuka,0,0,0,,Shikimori's kind of awesome.
+Dialogue: 0,0:12:25.82,0:12:26.81,Main,Hachimitsu,0,0,0,,Yep.
+Dialogue: 0,0:12:26.81,0:12:31.02,Main,Inuzuka,0,0,0,,Wait... our class is still losing?
+Dialogue: 0,0:12:35.59,0:12:36.86,Main,Izumi,0,0,0,,You can do it!
+Dialogue: 0,0:12:37.98,0:12:39.75,Main,Izumi,0,0,0,,Shikimori-san!
+Dialogue: 0,0:12:39.75,0:12:41.04,Main,Students,0,0,0,,One more point!
+Dialogue: 0,0:12:41.04,0:12:41.99,Main,Students,0,0,0,,You can get it!
+Dialogue: 0,0:12:42.23,0:12:44.74,Main,Nekozaki,0,0,0,,Looks like your bae came to cheer for you.
+Dialogue: 0,0:12:48.34,0:12:50.73,Main,Shikimori,0,0,0,,Well, I can't lose now.
+Dialogue: 0,0:13:03.22,0:13:05.18,Main,Izumi,0,0,0,,Who is that hot guy?
+Dialogue: 0,0:13:05.18,0:13:08.01,Main,Inuzuka,0,0,0,,Dude, chill. That's your girlfriend.
+Dialogue: 0,0:13:17.30,0:13:19.29,Main,Izumi,0,0,0,,Is that Kamiya-san?
+Dialogue: 0,0:13:19.29,0:13:20.61,Main,Inuzuka,0,0,0,,You know her?
+Dialogue: 0,0:13:20.61,0:13:22.44,Main,Izumi,0,0,0,,Yeah, sort of.
+Dialogue: 0,0:13:28.00,0:13:29.54,Main,Students,0,0,0,,{\an8}That was awesome!
+Dialogue: 0,0:13:28.53,0:13:29.54,Main,BoyA,0,0,0,,Nice one!
+Dialogue: 0,0:13:29.54,0:13:30.87,Main,GirlB,0,0,0,,You've got this!
+Dialogue: 0,0:13:40.92,0:13:43.27,Main,Inuzuka,0,0,0,,All right! They tied it up!
+Dialogue: 0,0:13:43.27,0:13:44.63,Main,Hachimitsu,0,0,0,,Keep it up!
+Dialogue: 0,0:14:03.15,0:14:05.20,Main,Girl Classmate C,0,0,0,,You can do it!
+Dialogue: 0,0:14:05.20,0:14:07.15,Main,Boy Classmate A,0,0,0,,Go, Shikimori!
+Dialogue: 0,0:14:08.53,0:14:09.91,Main,Nekozaki,0,0,0,,Micchon!
+Dialogue: 0,0:14:18.95,0:14:19.89,Main,Students,0,0,0,,Awesome!
+Dialogue: 0,0:14:19.89,0:14:22.50,Main,Students,0,0,0,,That was amazing!
+Dialogue: 0,0:14:24.28,0:14:25.51,Main,Izumi,0,0,0,,They won...
+Dialogue: 0,0:14:26.01,0:14:27.13,Main,Inuzuka,0,0,0,,For real?!
+Dialogue: 0,0:14:27.13,0:14:28.26,Main,Hachimitsu,0,0,0,,Not bad.
+Dialogue: 0,0:14:29.73,0:14:31.20,Main,Nekozaki,0,0,0,,Micchon!
+Dialogue: 0,0:14:36.90,0:14:38.94,Main,Shikimori,0,0,0,,Neko... We did it!
+Dialogue: 0,0:14:41.39,0:14:42.27,Main,Nekozaki,0,0,0,,Yeah!
+Dialogue: 0,0:14:46.85,0:14:48.00,Main,Shikimori,0,0,0,,What's wrong?
+Dialogue: 0,0:14:49.32,0:14:51.32,Main,Nekozaki,0,0,0,,Oh, nothing.
+Dialogue: 0,0:14:51.32,0:14:52.62,Main,Izumi,0,0,0,,Shikimori-san!
+Dialogue: 0,0:14:57.24,0:15:00.55,Main,Izumi,0,0,0,,You were amazing, Shikimori-san! \NI knew you could do it!
+Dialogue: 0,0:15:00.55,0:15:01.46,Main,Izumi,0,0,0,,Congratulations!
+Dialogue: 0,0:15:03.34,0:15:06.34,Main,Shikimori,0,0,0,,Th-Thank you...
+Dialogue: 0,0:15:06.62,0:15:07.86,Main,Hachimitsu,0,0,0,,Good game.
+Dialogue: 0,0:15:07.86,0:15:09.84,Main,Inuzuka,0,0,0,,I bet you can win the next one, too!
+Dialogue: 0,0:15:09.84,0:15:12.60,Main,Nekozaki,0,0,0,,Heck yeah! We gotta do this now!
+Dialogue: 0,0:15:12.60,0:15:14.53,Main,Izumi,0,0,0,,I'll be cheering you on with all I've got!
+Dialogue: 0,0:15:14.94,0:15:17.10,Main,Shikimori,0,0,0,,I-I'll do my best!
+Dialogue: 0,0:15:26.90,0:15:30.14,Main,Nekozaki,0,0,0,,Great tournament, everyone!
+Dialogue: 0,0:15:31.53,0:15:33.94,Main,Inuzuka,0,0,0,,Nekozaki, you were awesome!
+Dialogue: 0,0:15:33.94,0:15:35.24,Main,Hachimitsu,0,0,0,,I was impressed.
+Dialogue: 0,0:15:35.24,0:15:37.83,Main,Girl Classmate G,0,0,0,,Shikimori-san was amazing, too!
+Dialogue: 0,0:15:35.24,0:15:41.21,Main,Text,0,0,0,,{\an8\fnArial\fs16\b1\3c&H3B4C37&\4c&H3B4C37&\c&HC4D2C4&}Celebrate {\c&H9250BB&}♥ {\c&HC4D2C4&}2-4 \N{\fs28\c&H7BEADA&}Volleyball Victory{\c&H9250BB&}!! \N{\fs20\c&HC8B566&}Congratulations
+Dialogue: 0,0:15:37.83,0:15:39.47,Main,Girl Classmate B,0,0,0,,I think I cried a little!
+Dialogue: 0,0:15:39.47,0:15:41.21,Main,Nekozaki,0,0,0,,Let's party!
+Dialogue: 0,0:15:41.21,0:15:45.46,Main,Nekozaki,0,0,0,,Hey, why don't we do karaoke? I love singing!
+Dialogue: 0,0:15:45.46,0:15:48.46,Main,Izumi,0,0,0,,You really were amazing, Shikimori-san.
+Dialogue: 0,0:15:49.93,0:15:54.72,Main,Shikimori,0,0,0,,Oh, no... I only did so well \Nbecause you were cheering for me.
+Dialogue: 0,0:15:55.15,0:15:58.92,Main,Izumi,0,0,0,,Shikimori-san, I envy how athletic you are.
+Dialogue: 0,0:15:58.92,0:16:00.35,Main,Shikimori,0,0,0,,Really?
+Dialogue: 0,0:16:00.35,0:16:03.85,Main,Text,0,0,0,,{\fnArial\fs16\b1\shad0\an1\c&HFFF9FC&\bord1\3c&H5C6465&\pos(51.999,40.666)}Blocked a newspaper\N\h\h\h\h\h\h\h\h\hwithout looking
+Dialogue: 0,0:16:00.95,0:16:03.12,Main,Izumi,0,0,0,,You constantly radiate athleticism.
+Dialogue: 0,0:16:04.11,0:16:06.04,Main,Shikimori,0,0,0,,I don't really...
+Dialogue: 0,0:16:06.04,0:16:07.61,Main,Izumi,0,0,0,,You're so cute.
+Dialogue: 0,0:16:07.87,0:16:11.45,Main,Izumi,0,0,0,,Meanwhile, I got knocked out\N of the game first thing.
+Dialogue: 0,0:16:11.45,0:16:13.61,Main,Shikimori,0,0,0,,I know you did your best.
+Dialogue: 0,0:16:14.16,0:16:17.62,Main,Shikimori,0,0,0,,I think you look so cool when \Nyou're trying your hardest.
+Dialogue: 0,0:16:19.36,0:16:21.12,Main,Izumi,0,0,0,,Th-Thanks...
+Dialogue: 0,0:16:26.50,0:16:28.94,Main,Younger Student D,0,0,0,,Excuse me! Can I get a picture with you?
+Dialogue: 0,0:16:28.94,0:16:30.85,Main,Younger Student C,0,0,0,,Please tell me your name!
+Dialogue: 0,0:16:30.85,0:16:32.38,Main,Younger Student E,0,0,0,,Can I shake your hand?
+Dialogue: 0,0:16:35.93,0:16:37.81,Main,Younger Student C,0,0,0,,Who's he? Your boyfriend?
+Dialogue: 0,0:16:38.34,0:16:39.75,Main,Younger Student D,0,0,0,,He's kinda cute.
+Dialogue: 0,0:16:39.75,0:16:41.02,Main,Younger Student E,0,0,0,,He is!
+Dialogue: 0,0:16:41.02,0:16:42.08,Main,Girls,0,0,0,,So cute...
+Dialogue: 0,0:16:42.08,0:16:43.26,Main,Girls,0,0,0,,So cute...
+Dialogue: 0,0:16:43.26,0:16:44.89,Main,Girls,0,0,0,,So cute...
+Dialogue: 0,0:16:45.56,0:16:50.32,Italics,Izumi,0,0,0,,My girlfriend has become the school hero.
+Dialogue: 0,0:16:51.99,0:16:53.99,Main,Text,0,0,0,,{\fnArial\fs20\b1\shad0\c&HFBFEFD&\blur4\3c&H404142&\pos(316.666,273.333)}A Few Days Later
+Dialogue: 0,0:16:54.81,0:16:56.61,Main,Younger Student E,0,0,0,,You look so cool again today!
+Dialogue: 0,0:16:56.91,0:17:00.12,Main,Younger Student C,0,0,0,,Shikimori-senpai! Would you \Nplease eat lunch with me?
+Dialogue: 0,0:17:00.46,0:17:03.62,Main,Shikimori,0,0,0,,Uh, well...
+Dialogue: 0,0:17:03.62,0:17:06.09,Main,Younger Student B,0,0,0,,Do you make your own lunches?
+Dialogue: 0,0:17:06.09,0:17:07.25,Main,Shikimori,0,0,0,,Um...
+Dialogue: 0,0:17:07.25,0:17:09.50,Main,Younger Student D,0,0,0,,Is there anyone you eat with?
+Dialogue: 0,0:17:09.50,0:17:10.61,Main,Shikimori,0,0,0,,Well...
+Dialogue: 0,0:17:10.61,0:17:12.51,Main,Younger Student A,0,0,0,,C-Can I shake your hand?
+Dialogue: 0,0:17:12.51,0:17:13.55,Main,Younger Student C,0,0,0,,Me, too!
+Dialogue: 0,0:17:13.55,0:17:16.51,Main,Younger Student B,0,0,0,,No fair! I want to shake your hand, too!
+Dialogue: 0,0:17:16.96,0:17:22.37,Main,Inuzuka,0,0,0,,Shikimori's become a real celebrity \Nsince the ball sports tournament.
+Dialogue: 0,0:17:23.76,0:17:25.52,Main,Inuzuka,0,0,0,,And look at them.
+Dialogue: 0,0:17:26.34,0:17:29.15,Main,Hachimitsu,0,0,0,,Okay, get in line.
+Dialogue: 0,0:17:29.78,0:17:34.15,Main,Hachimitsu,0,0,0,,Each one of you will have \Nten seconds to shake her hand.
+Dialogue: 0,0:17:35.65,0:17:37.66,Main,Younger Girl 4,0,0,0,,I want an instant photo, please!
+Dialogue: 0,0:17:38.19,0:17:41.66,Main,Nekozaki,0,0,0,,An instant photo...? Y-You really need that?
+Dialogue: 0,0:17:41.66,0:17:43.71,Main,Inuzuka,0,0,0,,Nekozaki's in on it, too?
+Dialogue: 0,0:17:43.71,0:17:46.07,Main,Inuzuka,0,0,0,,It's been crazy since they won, huh?
+Dialogue: 0,0:17:46.52,0:17:50.13,Main,Inuzuka,0,0,0,,I bet this is nothing but a \Npain in the ass for you, though.
+Dialogue: 0,0:17:50.50,0:17:51.82,Main,Izumi,0,0,0,,What should I do?
+Dialogue: 0,0:17:52.30,0:17:55.01,Main,Izumi,0,0,0,,I can't even get near Shikimori-san.
+Dialogue: 0,0:17:55.01,0:17:56.24,Main,Younger Student E,0,0,0,,Here we go!
+Dialogue: 0,0:17:58.01,0:18:02.76,Main,Inuzuka,0,0,0,,Yeah, when she has to be so nice and \Npolite to each one of those fangirls...
+Dialogue: 0,0:18:03.63,0:18:05.77,Main,Izumi,0,0,0,,She's everyone's Shikimori-san now.
+Dialogue: 0,0:18:05.77,0:18:07.44,Main,Izumi,0,0,0,,I guess that's just how it is.
+Dialogue: 0,0:18:07.82,0:18:09.98,Main,Izumi,0,0,0,,We live in different worlds.
+Dialogue: 0,0:18:09.98,0:18:13.32,Main,Inuzuka,0,0,0,,Stop talking like an obsessive fan.
+Dialogue: 0,0:18:15.75,0:18:16.36,Main,Inuzuka,0,0,0,,Izumi!
+Dialogue: 0,0:18:16.36,0:18:17.24,Main,Inuzuka,0,0,0,,Get back!
+Dialogue: 0,0:18:23.87,0:18:25.25,Main,Izumi,0,0,0,,Inuzuka-kun!
+Dialogue: 0,0:18:27.35,0:18:29.14,Main,Izumi,0,0,0,,That sudden stroke of bad luck...
+Dialogue: 0,0:18:29.58,0:18:32.92,Main,Izumi,0,0,0,,I'm sorry, Inuzuka-kun! \NThis was probably my fault!
+Dialogue: 0,0:18:33.42,0:18:36.01,Main,Inuzuka,0,0,0,,Yeah, probably...
+Dialogue: 0,0:18:36.01,0:18:37.30,Main,Younger Student D,0,0,0,,{\an8}That was scary.
+Dialogue: 0,0:18:37.30,0:18:39.27,Main,Younger Student C,0,0,0,,{\an8}What happened? A ball flew in the window?
+Dialogue: 0,0:18:37.30,0:18:40.47,Main,Shikimori,0,0,0,,E-Excuse me... I need to get through!
+Dialogue: 0,0:18:39.27,0:18:40.47,Main,Younger Student E,0,0,0,,{\an8}Should we call the teacher?
+Dialogue: 0,0:18:40.47,0:18:42.85,Main,Shikimori,0,0,0,,Please, let me through!
+Dialogue: 0,0:18:45.67,0:18:46.95,Main,Izumi,0,0,0,,Are you okay?
+Dialogue: 0,0:18:46.95,0:18:49.27,Main,Inuzuka,0,0,0,,Th-Thanks...
+Dialogue: 0,0:18:50.84,0:18:51.90,Main,Younger Student E,0,0,0,,Senpai?
+Dialogue: 0,0:18:57.70,0:18:59.31,Main,Younger Student C,0,0,0,,There it is!
+Dialogue: 0,0:18:59.31,0:19:01.91,Main,Younger Student D,0,0,0,,She's gorgeous when she's angry!
+Dialogue: 0,0:19:01.91,0:19:04.86,Main,Inuzuka,0,0,0,,I can't tell if her eyes are saying "hands off"
+Dialogue: 0,0:19:04.86,0:19:08.04,Main,Inuzuka,0,0,0,,or "you should've protected him."
+Dialogue: 0,0:19:08.04,0:19:09.33,Main,Inuzuka,0,0,0,,I'm scared...
+Dialogue: 0,0:19:09.33,0:19:13.17,Main,Izumi,0,0,0,,I'm not sure what any of that \Nmeant, but are you okay?
+Dialogue: 0,0:19:19.61,0:19:21.97,Main,Izumi,0,0,0,,Today was kind of exhausting.
+Dialogue: 0,0:19:22.65,0:19:27.00,Main,Izumi,0,0,0,,I really am hopeless without Shikimori-san.
+Dialogue: 0,0:19:28.31,0:19:30.25,Italics,Izumi,0,0,0,,Like when that bucket fell from the sky...
+Dialogue: 0,0:19:30.25,0:19:34.36,Main,Text,0,0,0,,{\fad(750,1)\fnArial\fs18\an8\b1\shad0\c&HECFDFE&\blur2\3c&H404142&\move(380,34,380,63)}Ruthless\NVice Principal
+Dialogue: 0,0:19:31.30,0:19:34.36,Italics,Izumi,0,0,0,,And when I almost walked \Ninto the vice principal...
+Dialogue: 0,0:19:35.10,0:19:37.86,Flashback,Inuzuka,0,0,0,,You're on your own getting home.
+Dialogue: 0,0:19:38.65,0:19:42.36,Main,Izumi,0,0,0,,I've caused a lot of trouble \Nfor Inuzuka-kun, too.
+Dialogue: 0,0:19:43.74,0:19:47.79,Italics,Izumi,0,0,0,,But all that aside, \NShikimori-san's gotten so popular...
+Dialogue: 0,0:19:47.79,0:19:49.37,Italics,Izumi,0,0,0,,She really is amazing.
+Dialogue: 0,0:19:50.30,0:19:54.25,Italics,Izumi,0,0,0,,She gets more and more famous every \Ntime there's any kind of event.
+Dialogue: 0,0:19:59.89,0:20:01.01,Italics,Izumi,0,0,0,,But...
+Dialogue: 0,0:20:02.42,0:20:06.62,Italics,Izumi,0,0,0,,I wanted to keep her cool side all to myself.
+Dialogue: 0,0:20:08.93,0:20:11.31,Main,Izumi,0,0,0,,I close my eyes for one second, \Nand this is what happens!
+Dialogue: 0,0:20:13.99,0:20:14.98,Italics,Izumi,0,0,0,,Oh, no...
+Dialogue: 0,0:20:21.13,0:20:22.11,Main,Shikimori,0,0,0,,Hey.
+Dialogue: 0,0:20:23.89,0:20:26.12,Main,Shikimori,0,0,0,,Who said you could go home alone?
+Dialogue: 0,0:20:27.37,0:20:29.71,Main,Izumi,0,0,0,,Wh-Wh-What are you doing here?!
+Dialogue: 0,0:20:29.71,0:20:32.50,Main,Shikimori,0,0,0,,{\i1}You're{\i0} the one who left on your own.
+Dialogue: 0,0:20:36.13,0:20:37.16,Main,Izumi,0,0,0,,Well, I mean...
+Dialogue: 0,0:20:38.16,0:20:40.36,Main,Izumi,0,0,0,,You're basically a celebrity.
+Dialogue: 0,0:20:41.72,0:20:44.15,Main,Izumi,0,0,0,,I figured I shouldn't get in the way.
+Dialogue: 0,0:20:46.86,0:20:49.45,Main,Shikimori,0,0,0,,What are you saying?
+Dialogue: 0,0:20:50.81,0:20:56.75,Main,Shikimori,0,0,0,,You know you're the only one \NI want to walk home with.
+Dialogue: 0,0:21:00.84,0:21:04.65,Main,Shikimori,0,0,0,,You planned to walk home with \NInuzuka-kun anyway, didn't you?
+Dialogue: 0,0:21:04.65,0:21:05.53,Main,Izumi,0,0,0,,Huh?
+Dialogue: 0,0:21:05.53,0:21:08.38,Main,Shikimori,0,0,0,,Well, you've been with \Nhim all the time lately!
+Dialogue: 0,0:21:08.38,0:21:09.69,Main,Shikimori,0,0,0,,More than with me!
+Dialogue: 0,0:21:12.39,0:21:14.58,Main,Shikimori,0,0,0,,Why are you laughing?
+Dialogue: 0,0:21:14.58,0:21:16.64,Main,Izumi,0,0,0,,Sorry. It's not what you're thinking.
+Dialogue: 0,0:21:17.68,0:21:20.54,Main,Izumi,0,0,0,,I was going to wait for you at the entrance.
+Dialogue: 0,0:21:22.00,0:21:27.29,Main,Izumi,0,0,0,,Because I've been missing you, too.
+Dialogue: 0,0:21:36.44,0:21:41.32,Main,Shikimori,0,0,0,,I-If that's what this was about, \Nyou should have said so sooner.
+Dialogue: 0,0:21:42.43,0:21:43.54,Main,Izumi,0,0,0,,Sorry.
+Dialogue: 0,0:21:45.07,0:21:46.09,Main,Izumi,0,0,0,,Ready to go?
+Dialogue: 0,0:21:50.77,0:21:51.64,Main,Shikimori,0,0,0,,Yeah.
+Dialogue: 0,0:22:47.80,0:22:54.77,Main,Text,0,0,0,,{\fad(560,440)\fnArial\b1\fs30\frz7\shad0\3c&HDBE6E5&\c&H5126E8&\pos(498,297.999)}S{\fs28\c&H3DCEFE&}E{\fs26\c&H5126E8&}E {\fs26\c&H3DCEFE&}Y{\fs24\c&H5126E8&}O{\fs22\c&H3DCEFE&}U{\c&H5126E8&}~

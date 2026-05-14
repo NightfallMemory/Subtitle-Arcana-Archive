@@ -1,0 +1,483 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Main - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Subtitles,Arial,20,&H00FFFFFF,&H000000FF,&H00272727,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,55,0
+Style: Boxed text,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2,0,2,10,10,18,0
+Style: Lyrics,Trebuchet MS,24,&H001EC4CF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,20,20,18,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.11,0:00:10.23,Flashback,Yuriko,0,0,0,,Hey.
+Dialogue: 0,0:00:12.45,0:00:14.36,Flashback,Yuriko,0,0,0,,Are you a first-year?
+Dialogue: 0,0:00:14.36,0:00:16.26,Flashback,Kyosuke,0,0,0,,Who's asking?
+Dialogue: 0,0:00:17.00,0:00:19.40,Flashback,Yuriko,0,0,0,,This isn't a parking lot,
+Dialogue: 0,0:00:19.77,0:00:21.81,Flashback,Yuriko,0,0,0,,so maybe you should \Npark that somewhere else.
+Dialogue: 0,0:00:23.39,0:00:26.13,Flashback - Italics,Kyosuke,0,0,0,,Shouldn't she tell me not to \Nride a motorbike to school?
+Dialogue: 0,0:00:26.76,0:00:28.47,Flashback,Kyosuke,0,0,0,,What an odd upperclassman.
+Dialogue: 0,0:00:31.33,0:00:33.56,Main - Italics,Kyosuke,0,0,0,,Students weren't allowed to \Nride motorbikes to school.
+Dialogue: 0,0:00:34.57,0:00:36.10,Main - Italics,Kyosuke,0,0,0,,My buddy told me
+Dialogue: 0,0:00:36.10,0:00:39.17,Main - Italics,Kyosuke,0,0,0,,the lot behind the old club building \Nwas a great place to hide one.
+Dialogue: 0,0:00:49.56,0:00:51.84,Flashback,Male Teacher,0,0,0,,We found something behind \Nthe old club building.
+Dialogue: 0,0:00:52.75,0:00:56.16,Flashback,Male Teacher,0,0,0,,If anyone knows what \NI'm talking about, come forward.
+Dialogue: 0,0:00:57.23,0:01:00.95,Main - Italics,Kyosuke,0,0,0,,As luck would have it, I parked my bike\N somewhere else that day.
+Dialogue: 0,0:01:01.46,0:01:06.29,Main - Italics,Kyosuke,0,0,0,,By the end of class, the teachers\Nhad apparently found the hiding spot.
+Dialogue: 0,0:01:09.56,0:01:11.57,Flashback,Female Student A,0,0,0,,Don't speak to me again.
+Dialogue: 0,0:01:12.50,0:01:14.30,Flashback,Kyosuke,0,0,0,,Yeah, got it.
+Dialogue: 0,0:01:16.53,0:01:20.36,Main - Italics,Kyosuke,0,0,0,,I wasn't stupid or a troublemaker.
+Dialogue: 0,0:01:20.95,0:01:24.31,Main - Italics,Kyosuke,0,0,0,,The girls kind of liked me, \Nso I tried my luck.
+Dialogue: 0,0:01:25.21,0:01:26.95,Flashback - Italics,Kyosuke,0,0,0,,That stings...
+Dialogue: 0,0:01:27.64,0:01:30.31,Flashback,Yuriko,0,0,0,,Didn't go as well as the last \Ngirl you talked to, did it?
+Dialogue: 0,0:01:30.78,0:01:31.96,Flashback,Yuriko,0,0,0,,Got a minute?
+Dialogue: 0,0:01:31.96,0:01:34.82,Flashback,Yuriko,0,0,0,,These boxes for the student \Ncouncil aren't heavy,
+Dialogue: 0,0:01:34.82,0:01:37.40,Flashback,Yuriko,0,0,0,,but there are too many to carry at once.
+Dialogue: 0,0:01:39.65,0:01:41.83,Flashback,Kyosuke,0,0,0,,So you're on the student council?
+Dialogue: 0,0:01:41.83,0:01:43.12,Flashback,Yuriko,0,0,0,,You could say that.
+Dialogue: 0,0:01:43.12,0:01:45.54,Flashback,Yuriko,0,0,0,,But I mostly do grunt work.
+Dialogue: 0,0:01:45.54,0:01:47.83,Flashback,Kyosuke,0,0,0,,This is too much for one person to carry.
+Dialogue: 0,0:01:48.20,0:01:49.83,Flashback,Kyosuke,0,0,0,,How many trips have you made?
+Dialogue: 0,0:01:50.35,0:01:53.01,Flashback,Yuriko,0,0,0,,Everyone has to do their part.
+Dialogue: 0,0:01:54.34,0:01:55.96,Flashback,Yuriko,0,0,0,,Sengoku-kun!
+Dialogue: 0,0:01:57.71,0:01:58.84,Flashback,Takeru,0,0,0,,Koyanagi-san.
+Dialogue: 0,0:01:59.47,0:02:02.96,Flashback,Takeru,0,0,0,,It's about time. This is \Na time-sensitive matter.
+Dialogue: 0,0:02:02.96,0:02:05.87,Flashback,Takeru,0,0,0,,Any delay on your end delays everyone.
+Dialogue: 0,0:02:05.87,0:02:07.09,Flashback,Yuriko,0,0,0,,Oh my...
+Dialogue: 0,0:02:09.95,0:02:12.59,Flashback,Takeru,0,0,0,,Looks like they're all here. Good work.
+Dialogue: 0,0:02:13.11,0:02:16.61,Flashback,Takeru,0,0,0,,I said good work. You can go now.
+Dialogue: 0,0:02:19.20,0:02:20.61,Flashback,Takeru,0,0,0,,Is there something else?
+Dialogue: 0,0:02:20.61,0:02:23.21,Flashback,Kyosuke,0,0,0,,You made a girl lug all those boxes here
+Dialogue: 0,0:02:23.21,0:02:26.38,Flashback,Kyosuke,0,0,0,,and all you can say is "good work,"\N Mr. Student Council President?
+Dialogue: 0,0:02:26.38,0:02:28.41,Flashback,Kyosuke,0,0,0,,How about a thank you?
+Dialogue: 0,0:02:30.44,0:02:32.63,Flashback,Takeru,0,0,0,,What class are you from?
+Dialogue: 0,0:02:33.49,0:02:35.17,Flashback,Kyosuke,0,0,0,,Class 1-9.
+Dialogue: 0,0:02:35.17,0:02:36.38,Flashback,Kyosuke,0,0,0,,I'm Hori Kyosuke.
+Dialogue: 0,0:02:38.41,0:02:41.48,Flashback,Takeru,0,0,0,,I'm Sengoku Takeru, class 3-1.
+Dialogue: 0,0:02:42.81,0:02:46.04,Flashback,Takeru,0,0,0,,Wear your uniform properly, first-year.
+Dialogue: 0,0:02:47.69,0:02:49.10,Flashback,Takeru,0,0,0,,And also...
+Dialogue: 0,0:02:49.51,0:02:51.85,Flashback,Takeru,0,0,0,,Thank you, Koyanagi-san.
+Dialogue: 0,0:02:58.95,0:03:00.49,Flashback,Kyosuke,0,0,0,,Sorry for butting in like that.
+Dialogue: 0,0:03:00.49,0:03:01.79,Flashback,Yuriko,0,0,0,,What do you mean?
+Dialogue: 0,0:03:02.21,0:03:05.87,Flashback,Kyosuke,0,0,0,,I didn't think that it might make \Nthings awkward with the student council.
+Dialogue: 0,0:03:05.87,0:03:08.62,Flashback,Yuriko,0,0,0,,If it got awkward, I'd just quit.
+Dialogue: 0,0:03:08.62,0:03:11.17,Flashback - Italics,Kyosuke,0,0,0,,Huh, she's pretty easygoing.
+Dialogue: 0,0:03:11.95,0:03:16.19,Flashback,Kyosuke,0,0,0,,Um, Koyanagi-san...
+Dialogue: 0,0:03:18.12,0:03:19.92,Flashback,Yuriko,0,0,0,,Koyanagi Yuriko.
+Dialogue: 0,0:03:19.92,0:03:21.97,Flashback,Yuriko,0,0,0,,I should have introduced myself sooner.
+Dialogue: 0,0:03:24.30,0:03:25.41,Main - Italics,Kyosuke,0,0,0,,Yuriko...
+Dialogue: 0,0:03:26.50,0:03:28.98,Main - Italics,Kyosuke,0,0,0,,Koyanagi Yuriko...
+Dialogue: 0,0:03:31.98,0:03:36.00,Flashback - Top,Female Student B,0,0,0,,I went to a dog café and saw \Na dog that looked just like you!
+Dialogue: 0,0:03:35.59,0:03:37.94,Main - Italics,Kyosuke,0,0,0,,They say a person's name\Ncaptures who they are.
+Dialogue: 0,0:03:36.00,0:03:39.96,Flashback - Top,Male Student,0,0,0,,For real? Must've been one good-looking dog.
+Dialogue: 0,0:03:39.96,0:03:41.04,Main - Italics,Kyosuke,0,0,0,,And I thought...
+Dialogue: 0,0:03:42.69,0:03:45.49,Main - Italics,Kyosuke,0,0,0,,she looked just like the lily in hers\Nwhen she smiled.
+Dialogue: 0,0:03:48.68,0:03:51.50,Flashback,Kyosuke,0,0,0,,Koyanagi-san, what are you \Ngonna do after graduation?
+Dialogue: 0,0:03:53.33,0:03:55.56,Flashback,Yuriko,0,0,0,,I haven't really decided.
+Dialogue: 0,0:03:55.56,0:03:56.59,Flashback,Yuriko,0,0,0,,What about you, Hori-kun?
+Dialogue: 0,0:03:56.59,0:03:57.64,Flashback,Kyosuke,0,0,0,,Me?
+Dialogue: 0,0:03:57.96,0:04:00.01,Flashback,Kyosuke,0,0,0,,I mean, I don't really know.
+Dialogue: 0,0:04:00.49,0:04:02.01,Flashback,Yuriko,0,0,0,,That's how it goes.
+Dialogue: 0,0:04:04.21,0:04:05.75,Flashback,Kyosuke,0,0,0,,Say, Koyanagi-san...
+Dialogue: 0,0:04:06.59,0:04:08.26,Flashback,Kyosuke,0,0,0,,Once you graduate...
+Dialogue: 0,0:04:09.83,0:04:12.27,Flashback - Italics,Kyosuke,0,0,0,,Even after you graduate...
+Dialogue: 0,0:04:13.86,0:04:16.11,Flashback,Kyosuke,0,0,0,,Nah, forget I said that.
+Dialogue: 0,0:04:16.63,0:04:17.76,Flashback,Yuriko,0,0,0,,Oh?
+Dialogue: 0,0:04:18.98,0:04:22.62,Main - Italics,Kyosuke,0,0,0,,I feared crushing \Nthe flower I held in my hand.
+Dialogue: 0,0:04:26.03,0:04:28.28,Flashback,Female Student B,0,0,0,,What's Kyosuke to you?
+Dialogue: 0,0:04:30.16,0:04:35.75,Flashback,Female Student B,0,0,0,,He's head over heels for a third-year, \Nbut you're not even pretty.
+Dialogue: 0,0:04:37.50,0:04:38.50,Flashback,Yuriko,0,0,0,,Okay...
+Dialogue: 0,0:04:39.62,0:04:41.98,Flashback,Female Student B,0,0,0,,Are you even listening?!
+Dialogue: 0,0:04:42.46,0:04:46.47,Flashback,Female Student B,0,0,0,,Hurry up and graduate already\Nso you can get your ass away from him!
+Dialogue: 0,0:04:47.72,0:04:49.22,Flashback,Kyosuke,0,0,0,,Yuriko!
+Dialogue: 0,0:04:49.77,0:04:50.53,Flashback,Yuriko,0,0,0,,Oh.
+Dialogue: 0,0:04:50.53,0:04:51.55,Flashback,Female Student B,0,0,0,,Kyosuke!
+Dialogue: 0,0:04:51.55,0:04:53.97,Flashback,Kyosuke,0,0,0,,What are you doing to Yuriko?!
+Dialogue: 0,0:04:53.97,0:04:57.12,Flashback,Female Student B,0,0,0,,Stay out of it! This is between me and her!
+Dialogue: 0,0:04:57.12,0:04:57.86,Flashback,Kyosuke,0,0,0,,You...
+Dialogue: 0,0:04:57.86,0:04:59.11,Flashback,Yuriko,0,0,0,,Kyosuke, stop.
+Dialogue: 0,0:05:00.69,0:05:03.94,Flashback,Yuriko,0,0,0,,A man should never\Nraise a hand against a woman.
+Dialogue: 0,0:05:08.92,0:05:11.37,Flashback,Yuriko,0,0,0,,Oh, but that doesn't apply to me.
+Dialogue: 0,0:05:11.83,0:05:13.37,Flashback,Yuriko,0,0,0,,I'm a woman, after all.
+Dialogue: 0,0:05:14.90,0:05:18.50,Main - Italics,Kyosuke,0,0,0,,She was as gentle as a flower,\Nbut this lily...
+Dialogue: 0,0:05:19.94,0:05:21.30,Main - Italics,Kyosuke,0,0,0,,had thorns.
+Dialogue: 0,0:05:24.26,0:05:27.76,Main,Kyosuke,0,0,0,,That's when I knew she was the one.
+Dialogue: 0,0:05:27.76,0:05:29.76,Main,_Sign,0,0,0,,{\fad(230,230)\fnComic Sans MS\bord0\shad0\fs20\pos(435.555,106.444)\frz347\c&H638552&}Sting
+Dialogue: 0,0:05:28.67,0:05:29.76,Main,Miyamura,0,0,0,,I see.
+Dialogue: 0,0:05:29.76,0:05:34.37,Main,Kyosuke,0,0,0,,Listen, you should think of her slap \Nas a sign of affection.
+Dialogue: 0,0:05:34.37,0:05:35.89,Main,Miyamura,0,0,0,,I'll try.
+Dialogue: 0,0:05:36.20,0:05:38.40,Main,Kyosuke,0,0,0,,So, why'd she slap you?
+Dialogue: 0,0:05:38.84,0:05:41.07,Main,Miyamura,0,0,0,,Huh? I don't remember...
+Dialogue: 0,0:05:41.87,0:05:44.56,Main,Kyosuke,0,0,0,,Yeah, that happens sometimes.
+Dialogue: 0,0:05:44.56,0:05:49.14,Main,Kyosuke,0,0,0,,Well, Kyoko can be dangerous \Nonce she gets angry, so be careful.
+Dialogue: 0,0:05:49.14,0:05:50.35,Main,Miyamura,0,0,0,,I see...
+Dialogue: 0,0:05:51.21,0:05:52.22,Main,Miyamura,0,0,0,,Kyosuke-san!
+Dialogue: 0,0:05:52.22,0:05:54.87,Main,Kyosuke,0,0,0,,Huh? What is it, Miyamura-kun?
+Dialogue: 0,0:05:54.87,0:05:58.66,Main,Miyamura,0,0,0,,It suddenly started hurting a lot more!
+Dialogue: 0,0:05:57.37,0:06:01.38,Main,_Sign,0,0,0,,{\fad(230,1)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\frz15.52\3c&HE3DFD1&\pos(528,192.666)}Throb...
+Dialogue: 0,0:05:58.66,0:05:59.97,Main,Kyosuke,0,0,0,,Really?!
+Dialogue: 0,0:05:59.97,0:06:01.38,Main,Kyosuke,0,0,0,,So that happens to you, too?!
+Dialogue: 0,0:06:01.38,0:06:04.14,Main,Miyamura,0,0,0,,Ow... Ow... Ow, ow, ow!
+Dialogue: 0,0:06:04.80,0:06:08.93,Main,Miyamura,0,0,0,,What?! It hurts... Why?! Ouch!
+Dialogue: 0,0:06:05.12,0:06:07.09,Main - Top,Kyosuke,0,0,0,,Suck it up!
+Dialogue: 0,0:06:07.09,0:06:08.93,Main - Top,Kyosuke,0,0,0,,Don't give in, Miyamura-kun!
+Dialogue: 0,0:07:39.10,0:07:42.48,Main,_Sign,0,0,0,,{\fad(1270,1)\fnArial\b1\bord0\an8\fs16\shad1\c&HB4BCC0&\3c&H89929F&\4c&H39383E&\pos(475.959,128.307)}The Hori House
+Dialogue: 0,0:07:42.48,0:07:45.77,Main,Hori,0,0,0,,Kyosuke, I need to borrow a shirt.
+Dialogue: 0,0:07:45.77,0:07:46.98,Main,Hori,0,0,0,,A t-shirt will do.
+Dialogue: 0,0:07:46.98,0:07:49.61,Main,Kyosuke,0,0,0,,Why? Are you gonna use it as a rag?
+Dialogue: 0,0:07:49.61,0:07:55.37,Main,Hori,0,0,0,,No. All the shirts I use after \Na bath are in the laundry, so...
+Dialogue: 0,0:07:55.37,0:07:57.59,Main,Kyosuke,0,0,0,,I don't have any cute ones.
+Dialogue: 0,0:07:57.59,0:08:00.12,Main,Hori,0,0,0,,If you handed me a cute one,\N I wouldn't take it.
+Dialogue: 0,0:08:00.53,0:08:04.75,Main,Kyosuke,0,0,0,,As long as you don't mind one \Nthat's way too big for you...
+Dialogue: 0,0:08:04.75,0:08:06.24,Main,Hori,0,0,0,,Not like I have a choice.
+Dialogue: 0,0:08:06.59,0:08:08.23,Main,Sota,0,0,0,,Big Sis, look!
+Dialogue: 0,0:08:08.23,0:08:10.52,Main,Sota,0,0,0,,Mama bought this for me!
+Dialogue: 0,0:08:10.52,0:08:12.09,Main,Hori,0,0,0,,N-Nice.
+Dialogue: 0,0:08:12.09,0:08:15.48,Main,Sota,0,0,0,,It floats, really! It floats in water!
+Dialogue: 0,0:08:18.01,0:08:18.97,Main,_Sign,0,0,0,,{\fad(230,1)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\frz15.52\3c&HE5ECED&\pos(293.333,45.11)}Lift
+Dialogue: 0,0:08:18.97,0:08:20.86,Main,Sota,0,0,0,,Vengeful spirit!
+Dialogue: 0,0:08:18.97,0:08:24.23,Main,_Sign,0,0,0,,{\fad(230,230)\b1\fnComic Sans MS\bord2\shad3\fs20\c&HE0D389&\3c&H000000&\frz344.2\4c&HFFFFFF&\pos(426.667,242.444)}Squeeze
+Dialogue: 0,0:08:20.86,0:08:21.84,Main,Hori,0,0,0,,Vengeful spirit?!
+Dialogue: 0,0:08:21.84,0:08:24.23,Main,Hori,0,0,0,,Did you mean to say "vicious beast"?
+Dialogue: 0,0:08:24.58,0:08:26.09,Main,Kyosuke,0,0,0,,What's this, Kyoko?
+Dialogue: 0,0:08:26.09,0:08:28.59,Main,Kyosuke,0,0,0,,Have you developed...
+Dialogue: 0,0:08:29.19,0:08:30.61,Main,Kyosuke,0,0,0,,a brother composite?!
+Dialogue: 0,0:08:30.61,0:08:33.01,Main,Hori,0,0,0,,"Composite"? Do you mean a brother {\i1}complex{\i0}?
+Dialogue: 0,0:08:33.01,0:08:36.49,Main,Hori,0,0,0,,And no! I was just wondering\Nif Sota's clothes would fit me!
+Dialogue: 0,0:08:36.88,0:08:38.81,Main,Kyosuke,0,0,0,,Probably too small.
+Dialogue: 0,0:08:38.81,0:08:41.75,Main,Kyosuke,0,0,0,,You ate a ton of mochi \Nover New Year's, remember?
+Dialogue: 0,0:08:41.75,0:08:43.68,Main,Hori,0,0,0,,Wh-What?!
+Dialogue: 0,0:08:43.68,0:08:45.75,Main,Hori,0,0,0,,Are you saying I'm fat?!
+Dialogue: 0,0:08:45.75,0:08:48.35,Main,Kyosuke,0,0,0,,No, I wouldn't go that far—
+Dialogue: 0,0:08:48.35,0:08:49.82,Main,Hori,0,0,0,,Same difference, idiot!
+Dialogue: 0,0:08:49.82,0:08:51.00,Main,Yuriko,0,0,0,,Oh my.
+Dialogue: 0,0:08:51.46,0:08:54.05,Main,Hori,0,0,0,,It'll fit, and I'll prove it!
+Dialogue: 0,0:08:54.05,0:08:56.41,Main,Hori,0,0,0,,Sota, get me a t-shirt!
+Dialogue: 0,0:08:56.41,0:08:59.01,Main,Sota,0,0,0,,Huh? I don't want to.
+Dialogue: 0,0:08:59.01,0:09:01.54,Main,Hori,0,0,0,,Fine, then I'll go get it!
+Dialogue: 0,0:09:02.02,0:09:04.43,Main,_Sign,0,0,0,,{\fad(230,1)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HE6EFEF&\frz19.55\pos(263.111,41.555)}Rrring
+Dialogue: 0,0:09:02.51,0:09:04.43,Main,Kyosuke,0,0,0,,Can I call Miyamura-kun?
+Dialogue: 0,0:09:04.43,0:09:05.94,Main,Hori,0,0,0,,Do whatever you want!
+Dialogue: 0,0:09:07.21,0:09:09.65,Main,Yuriko,0,0,0,,It's an ordinary day,\Nbut things are still so fun.
+Dialogue: 0,0:09:10.07,0:09:12.51,Main,Kyosuke,0,0,0,,Hey, Miyamura-kun, are you free?
+Dialogue: 0,0:09:12.51,0:09:14.21,Main,Kyosuke,0,0,0,,We're doing HFW here.
+Dialogue: 0,0:09:14.21,0:09:15.21,Main,Kyosuke,0,0,0,,HFW.
+Dialogue: 0,0:09:15.21,0:09:16.15,Main,Yuriko,0,0,0,,HFW?
+Dialogue: 0,0:09:16.68,0:09:19.69,Main,Kyosuke,0,0,0,,What, Miyamura-kun?\NYou've never heard of HFW?
+Dialogue: 0,0:09:19.69,0:09:21.97,Main,Kyosuke,0,0,0,,Well, today's actually the first ever.
+Dialogue: 0,0:09:21.97,0:09:24.41,Main,Yuriko,0,0,0,,Ah, swapping "Hori" for "Paris" in PFW.
+Dialogue: 0,0:09:25.54,0:09:27.50,Main,Hori,0,0,0,,Well?! See?!
+Dialogue: 0,0:09:27.50,0:09:29.54,Main,Hori,0,0,0,,It fits just fine!
+Dialogue: 0,0:09:30.07,0:09:31.91,Main,Kyosuke,0,0,0,,A hoodie is cheating, don't you think?
+Dialogue: 0,0:09:31.91,0:09:34.16,Main,Kyosuke,0,0,0,,They're meant to be big.
+Dialogue: 0,0:09:35.57,0:09:40.18,Main,Kyosuke,0,0,0,,What's really surprising is how tight \Nclothes make your chest look bigger.
+Dialogue: 0,0:09:40.87,0:09:42.54,Main,Hori,0,0,0,,Shut up! You're the worst!
+Dialogue: 0,0:09:42.85,0:09:44.18,Main - Italics,Kyosuke,0,0,0,,But...
+Dialogue: 0,0:09:44.18,0:09:48.76,Main - Italics,_Both,0,0,0,,High schoolers normally can't wear \Nelementary schooler's clothes.
+Dialogue: 0,0:09:48.19,0:09:53.94,Main,_Sign,0,0,0,,{\fad(270,1)\fnArial\b1\shad0\fs20\c&H1D1F1E&\3c&HE9F0EE&\pos(318.375,261.897)}They leave things unsaid
+Dialogue: 0,0:09:52.48,0:09:53.94,Main,Yuriko,0,0,0,,Can you get that, Kyosuke?
+Dialogue: 0,0:09:53.94,0:09:56.19,Main,Hori,0,0,0,,He won't be able to argue with {\i1}this{\i0}!
+Dialogue: 0,0:09:56.95,0:09:59.57,Main,Hori,0,0,0,,See? It fits just fine!
+Dialogue: 0,0:09:59.57,0:10:01.88,Main,Miyamura,0,0,0,,Oh, it's Sota's shirt.
+Dialogue: 0,0:10:01.74,0:10:02.83,Main,_Sign,0,0,0,,{\fad(230,1)\b1\fnComic Sans MS\bord3\shad0\fs30\c&H32272E&\an4\3c&HD7EDF2&\i1}SNAP
+Dialogue: 0,0:10:02.83,0:10:04.83,Main,_Sign,0,0,0,,{\fad(230,1)\b1\fnComic Sans MS\bord3\shad0\fs30\c&H32272E&\3c&HD7EDF2&\frz19.71\pos(189.555,158.667)}Shock
+Dialogue: 0,0:10:04.83,0:10:07.41,Main,Hori,0,0,0,,Wh-Wh-What's he doing here?
+Dialogue: 0,0:10:07.41,0:10:09.04,Main,Kyosuke,0,0,0,,You told me to do whatever I wanted.
+Dialogue: 0,0:10:09.04,0:10:10.06,Main,Hori,0,0,0,,No, I didn't!
+Dialogue: 0,0:10:10.06,0:10:11.84,Main,Hori,0,0,0,,Ah, I'm so embarrassed!
+Dialogue: 0,0:10:11.84,0:10:13.88,Main,Miyamura,0,0,0,,Your belly button's showing.\NThat must be cold.
+Dialogue: 0,0:10:12.13,0:10:13.71,Main,_Sign,0,0,0,,{\fad(230,230)\b1\an1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HDEEAF6&\frz1.171\pos(442.666,48.666)}Comment
+Dialogue: 0,0:10:13.88,0:10:15.55,Main,_Sign,0,0,0,,{\fad(230,230)\b1\an1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HDEEAF6&\frz1.171\pos(148.444,108.222)}Comment
+Dialogue: 0,0:10:13.88,0:10:16.01,Main,Kyosuke,0,0,0,,Kyoko, he says your flap is hanging out.
+Dialogue: 0,0:10:16.01,0:10:18.22,Main,_Sign,0,0,0,,{\fad(230,230)\b1\an1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HDEEAF6&\frz1.171\pos(12.444,169.555)}Comment
+Dialogue: 0,0:10:16.01,0:10:18.22,Main,Sota,0,0,0,,Big Sis, what part of the cow is flap meat?
+Dialogue: 0,0:10:18.22,0:10:19.59,Main,Hori,0,0,0,,Shut up!
+Dialogue: 0,0:10:19.97,0:10:22.55,Main,Miyamura,0,0,0,,The Hori house is always so much fun.
+Dialogue: 0,0:10:22.55,0:10:24.94,Main,Hori,0,0,0,,I'm not having any fun.
+Dialogue: 0,0:10:25.37,0:10:28.10,Main,Hori,0,0,0,,I ate too much mochi and gained weight.
+Dialogue: 0,0:10:28.57,0:10:31.76,Main - Italics,Miyamura,0,0,0,,Girls really worry about their weight, huh?
+Dialogue: 0,0:10:32.33,0:10:34.36,Main,Miyamura,0,0,0,,So why were you having a fashion show?
+Dialogue: 0,0:10:35.27,0:10:36.82,Main,Hori,0,0,0,,Good question.
+Dialogue: 0,0:10:36.82,0:10:39.61,Main,Hori,0,0,0,,I was going to borrow \Na shirt from Kyosuke...
+Dialogue: 0,0:10:39.94,0:10:42.48,Main,Kyosuke,0,0,0,,Kyoko turned into a vicious beast.
+Dialogue: 0,0:10:43.37,0:10:46.34,Main,Kyosuke,0,0,0,,Or, wait, maybe it was a vengeful spirit.
+Dialogue: 0,0:10:43.66,0:10:52.63,Main,_Sign,0,0,0,,{\fad(230,1)\b1\fnComic Sans MS\bord2\shad0\fs16\c&H32272E&\3c&HDEEAF6&\frz1.171\pos(430.221,241.555)}Comment
+Dialogue: 0,0:10:45.91,0:10:52.63,Main,_Sign,0,0,0,,{\fad(230,1)\b1\fnComic Sans MS\bord2\shad0\fs16\c&H32272E&\3c&HDEEAF6&\frz1.171\pos(188.443,180.222)}Comment
+Dialogue: 0,0:10:46.34,0:10:48.16,Main,Miyamura,0,0,0,,But she was just trying to borrow a shirt.
+Dialogue: 0,0:10:48.16,0:10:51.21,Main,Sota,0,0,0,,Big Sis, is our house haunted?!
+Dialogue: 0,0:10:48.16,0:10:52.63,Main,_Sign,0,0,0,,{\fad(230,1)\b1\fnComic Sans MS\bord2\shad0\fs16\c&H32272E&\3c&HDEEAF6&\frz1.171\pos(36.443,269.999)}Comment
+Dialogue: 0,0:10:51.21,0:10:52.63,Main,Hori,0,0,0,,Shut up!
+Dialogue: 0,0:10:52.63,0:10:57.15,Main,Kyosuke,0,0,0,,You're the loudest of all\Nwhen you shout like that, Kyoko.
+Dialogue: 0,0:10:57.15,0:10:59.37,Main - Top,Hori,0,0,0,,You're the one making stupid comments!
+Dialogue: 0,0:10:57.76,0:11:00.62,Main,Yuriko,0,0,0,,Miyamura-kun, you're \Nstaying for dinner, right?
+Dialogue: 0,0:10:59.37,0:11:01.21,Main - Top,Kyosuke,0,0,0,,{bg}Oh, so it's my fault?
+Dialogue: 0,0:11:01.21,0:11:03.01,Main,Miyamura,0,0,0,,Oh, yes, thank you.
+Dialogue: 0,0:11:01.50,0:11:05.11,Main - Top,Kyosuke,0,0,0,,{bg}Why do you always try to blame me?
+Dialogue: 0,0:11:05.11,0:11:08.39,Main - Top,Kyosuke,0,0,0,,You'll end up a delinquent.
+Dialogue: 0,0:11:06.43,0:11:08.39,Main,Yuriko,0,0,0,,Let's eat before it gets cold.
+Dialogue: 0,0:11:08.39,0:11:09.52,Main,Sota,0,0,0,,Okay!
+Dialogue: 0,0:11:09.52,0:11:12.27,Main - Top,Hori,0,0,0,,You saying that at your age\Nwhen you're the root of all evil!
+Dialogue: 0,0:11:12.27,0:11:14.04,Main,Hori,0,0,0,,Your life needs a do-over!
+Dialogue: 0,0:11:14.04,0:11:16.94,Main,Kyosuke,0,0,0,,Even if I do it over, I'll still be your father!
+Dialogue: 0,0:11:16.94,0:11:19.34,Main,Kyosuke,0,0,0,,I'm never giving that up! You can rest easy!
+Dialogue: 0,0:11:19.34,0:11:20.53,Main,Hori,0,0,0,,No, I can't!
+Dialogue: 0,0:11:20.53,0:11:23.08,Main - Top,Hori,0,0,0,,That's what freaks me out!
+Dialogue: 0,0:11:21.70,0:11:24.33,Main,Miyamura,0,0,0,,The Hori house really is fun.
+Dialogue: 0,0:11:33.13,0:11:34.54,Main,Hori,0,0,0,,Sota!
+Dialogue: 0,0:11:35.63,0:11:37.30,Main,Hori,0,0,0,,You made a mess again!
+Dialogue: 0,0:11:37.30,0:11:40.03,Main,Sota,0,0,0,,I was just about to clean it up.
+Dialogue: 0,0:11:40.03,0:11:41.05,Main,Hori,0,0,0,,I've heard that before!
+Dialogue: 0,0:11:41.05,0:11:42.56,Main,Sota,0,0,0,,It's true!
+Dialogue: 0,0:11:42.56,0:11:44.26,Main,Hori,0,0,0,,You always leave your messes behind.
+Dialogue: 0,0:11:44.26,0:11:45.80,Main,Sota,0,0,0,,No, I don't!
+Dialogue: 0,0:11:45.80,0:11:48.31,Main,_Sign,0,0,0,,{\fad(230,1)\b1\fnComic Sans MS\bord2\shad0\c&H4445AC&\3c&HC2D0D7&\frz11.09\pos(567.999,44.222)}Grit
+Dialogue: 0,0:11:46.20,0:11:48.31,Main,Kyosuke,0,0,0,,Hey, hey, what are you so angry about?
+Dialogue: 0,0:11:48.76,0:11:51.33,Main,Hori,0,0,0,,Sota leaves his stuff all over the place.
+Dialogue: 0,0:11:51.33,0:11:55.69,Main,Sota,0,0,0,,No! I was about to clean up, \Nbut then she started yelling!
+Dialogue: 0,0:11:55.69,0:11:56.92,Main,Kyosuke,0,0,0,,You heard him.
+Dialogue: 0,0:11:56.92,0:12:00.69,Main,Hori,0,0,0,,Oh, so you're on his side, eh?
+Dialogue: 0,0:12:00.69,0:12:04.01,Main,Miyamura,0,0,0,,I-I made some tea. Maybe we could...
+Dialogue: 0,0:12:04.45,0:12:05.32,Main,Hori,0,0,0,,Listen!
+Dialogue: 0,0:12:05.32,0:12:05.93,Main,Sota,0,0,0,,Listen!
+Dialogue: 0,0:12:05.93,0:12:07.25,Main,Kyosuke,0,0,0,,Listen to this!
+Dialogue: 0,0:12:07.62,0:12:09.61,Main,Miyamura,0,0,0,,Um, okay... I'll hear you out.
+Dialogue: 0,0:12:09.61,0:12:11.33,Main,Miyamura,0,0,0,,Let's just sit down first.
+Dialogue: 0,0:12:15.33,0:12:17.08,Main,Miyamura,0,0,0,,Um...
+Dialogue: 0,0:12:17.08,0:12:20.82,Main,Miyamura,0,0,0,,Sota's been doing a good job \Nof cleaning up lately.
+Dialogue: 0,0:12:22.46,0:12:25.79,Main,Miyamura,0,0,0,,Maybe he just left his stuff out today.
+Dialogue: 0,0:12:25.79,0:12:28.21,Main,Sota,0,0,0,,You get too angry!
+Dialogue: 0,0:12:28.21,0:12:29.60,Main,Sota,0,0,0,,Way too angry!
+Dialogue: 0,0:12:29.97,0:12:32.60,Main,_Sign,0,0,0,,{\fad(230,1)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HDBF7F9&\pos(440.888,109.11)\frz12.48}Hmph...
+Dialogue: 1,0:12:31.45,0:12:32.60,Main,Kyosuke,0,0,0,,Poke, poke.
+Dialogue: 0,0:12:31.81,0:12:32.60,Main,_Sign,0,0,0,,{\fad(230,1)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HDBF7F9&\pos(532.444,191.777)\frz344}Poke
+Dialogue: 0,0:12:32.10,0:12:32.60,Main,_Sign,0,0,0,,{\fad(230,1)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HDBF7F9&\frz344\pos(485.333,319.777)}Poke
+Dialogue: 0,0:12:32.98,0:12:36.26,Main,Hori,0,0,0,,Kyoko, I'm on your side.
+Dialogue: 0,0:12:37.63,0:12:39.02,Main,Hori,0,0,0,,Kyosuke...
+Dialogue: 0,0:12:39.83,0:12:44.63,Main,Kyosuke,0,0,0,,I've always wondered why you \Njump the gun when you get angry.
+Dialogue: 0,0:12:44.63,0:12:48.00,Main,Kyosuke,0,0,0,,It's more than just being \Nshort-tempered. Are you okay?
+Dialogue: 0,0:12:48.35,0:12:49.87,Main,Miyamura,0,0,0,,Kyosuke-san!
+Dialogue: 0,0:12:50.87,0:12:52.39,Main,Miyamura,0,0,0,,Now she's run off!
+Dialogue: 0,0:12:52.39,0:12:54.84,Main,Miyamura,0,0,0,,I asked you not to upset her!
+Dialogue: 0,0:12:54.84,0:12:57.25,Main,Kyosuke,0,0,0,,I didn't mean it!
+Dialogue: 0,0:12:58.33,0:13:00.25,Main,Sota,0,0,0,,Big Sis!
+Dialogue: 0,0:13:00.25,0:13:03.49,Main,Kyosuke,0,0,0,,Kyoko, remember that I'm on your side!
+Dialogue: 0,0:13:03.49,0:13:05.26,Main,Kyosuke,0,0,0,,Come on out!
+Dialogue: 0,0:13:05.30,0:13:08.01,Main,_Sign,0,0,0,,{\fad(230,1)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HD6DEE2&\an8\pos(166.222,134.888)}Open...
+Dialogue: 0,0:13:06.45,0:13:08.01,Main,Miyamura,0,0,0,,Oh, there she is.
+Dialogue: 0,0:13:08.82,0:13:10.51,Main,Kyosuke,0,0,0,,Kyoko—
+Dialogue: 0,0:13:09.23,0:13:10.51,Main,Hori,0,0,0,,Don't touch me.
+Dialogue: 0,0:13:11.05,0:13:12.52,Main,Sota,0,0,0,,Big Sis—
+Dialogue: 0,0:13:11.47,0:13:12.52,Main,Hori,0,0,0,,Don't touch me.
+Dialogue: 0,0:13:13.40,0:13:14.89,Main,Miyamura,0,0,0,,Hori-san—
+Dialogue: 0,0:13:13.69,0:13:14.89,Main,Hori,0,0,0,,Don't touch me.
+Dialogue: 0,0:13:15.32,0:13:17.64,Main,Miyamura,0,0,0,,What's this about not touching her?
+Dialogue: 0,0:13:17.64,0:13:21.88,Main,Kyosuke,0,0,0,,Dunno. Maybe it's her way \Nof letting us know that she's angry.
+Dialogue: 0,0:13:19.40,0:13:22.40,Main,_Sign,0,0,0,,{\b1\fnComic Sans MS\bord3\shad0\fs48\c&H32272E&\3c&HCFD1DE&\an8\i1}SEETHE...
+Dialogue: 0,0:13:22.40,0:13:24.17,Main,Miyamura,0,0,0,,Whoa, he's cleaning up!
+Dialogue: 0,0:13:22.40,0:13:25.90,Main,_Sign,0,0,0,,{\fad(230,310)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HDBF7F9&\an8\pos(291.555,29.11)}Shuffle Shuffle
+Dialogue: 0,0:13:24.17,0:13:26.40,Main,Miyamura,0,0,0,,Sota's cleaning up, Hori-san!
+Dialogue: 0,0:13:31.41,0:13:34.04,Main,Kyosuke,0,0,0,,Sota can come through when—
+Dialogue: 0,0:13:32.84,0:13:34.04,Main,Hori,0,0,0,,Don't touch me.
+Dialogue: 0,0:13:33.79,0:13:34.66,Main,_Sign,0,0,0,,{\fad(230,1)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HDBF7F9&\pos(300.444,64.666)\i1}Slap!!
+Dialogue: 0,0:13:35.09,0:13:36.60,Main,Miyamura,0,0,0,,Hori-san!
+Dialogue: 0,0:13:35.50,0:13:36.60,Main,Hori,0,0,0,,Don't touch me.
+Dialogue: 0,0:13:36.71,0:13:37.67,Main,_Sign,0,0,0,,{\fad(230,1)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HEEF4F9&\i1\pos(144.888,74.444)}Slap!!
+Dialogue: 0,0:13:38.33,0:13:41.25,Main,Kyosuke,0,0,0,,What's going on, Miyamura-kun?!
+Dialogue: 0,0:13:41.25,0:13:42.37,Main,Miyamura,0,0,0,,It looks bleak.
+Dialogue: 0,0:13:42.37,0:13:45.30,Main,Miyamura,0,0,0,,We need to calm her down little by little.
+Dialogue: 0,0:13:48.21,0:13:50.36,Main,Miyamura,0,0,0,,Hori-san, want some pudding?
+Dialogue: 0,0:13:50.36,0:13:51.30,Main,Hori,0,0,0,,I've given it up.
+Dialogue: 0,0:13:51.30,0:13:53.26,Main,Kyosuke,0,0,0,,Kyoko-chan, should I rub your shoulders?
+Dialogue: 0,0:13:53.26,0:13:54.43,Main,Hori,0,0,0,,Don't touch me.
+Dialogue: 0,0:13:54.43,0:13:55.22,Main,Miyamura,0,0,0,,Kyoko—
+Dialogue: 0,0:13:55.22,0:13:56.48,Main,Hori,0,0,0,,Don't touch me.
+Dialogue: 0,0:13:56.48,0:13:57.98,Main,Kyosuke,0,0,0,,Really?
+Dialogue: 0,0:14:04.48,0:14:06.81,Main,Sota,0,0,0,,We're in outer space!
+Dialogue: 0,0:14:09.49,0:14:10.95,Main,Hori,0,0,0,,What are you talking about?
+Dialogue: 0,0:14:10.95,0:14:12.05,Main,Hori,0,0,0,,This is our house.
+Dialogue: 0,0:14:12.54,0:14:14.24,Main,Miyamura,0,0,0,,H-Hori-san...
+Dialogue: 0,0:14:14.49,0:14:19.55,Main,Sota,0,0,0,,This is outer space and we're in a spaceship!
+Dialogue: 0,0:14:15.91,0:14:17.37,Main,_Sign,0,0,0,,{\fad(230,230)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HE9EBE9&\pos(390.222,133.111)}SHOVE\NSHOVE
+Dialogue: 0,0:14:18.42,0:14:19.88,Main,_Sign,0,0,0,,{\fad(230,230)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HE9EBE9&\pos(390.222,133.111)}SHOVE\NSHOVE
+Dialogue: 0,0:14:19.55,0:14:22.48,Main,Hori,0,0,0,,I'm trying to study, okay?
+Dialogue: 0,0:14:19.55,0:14:22.48,Main,Sota,0,0,0,,If you go outside, you'll die!
+Dialogue: 0,0:14:21.17,0:14:22.63,Main,_Sign,0,0,0,,{\fad(230,230)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HE9EBE9&\pos(390.222,133.111)}SHOVE\NSHOVE
+Dialogue: 0,0:14:22.88,0:14:24.54,Main,Miyamura,0,0,0,,Space sounds like fun!
+Dialogue: 0,0:14:24.54,0:14:26.11,Main,Miyamura,0,0,0,,I wouldn't mind going!
+Dialogue: 0,0:14:26.11,0:14:27.25,Main,Hori,0,0,0,,Don't close your notebooks!
+Dialogue: 0,0:14:27.25,0:14:28.90,Main,Hori,0,0,0,,Don't put away your textbooks!
+Dialogue: 0,0:14:30.77,0:14:33.89,Main,Sota,0,0,0,,If you leave this area, \Nyou'll die 'cause there's no air.
+Dialogue: 0,0:14:33.89,0:14:38.29,Main,Hori,0,0,0,,Where did you even find this old carpet?
+Dialogue: 0,0:14:38.29,0:14:40.98,Main,Sota,0,0,0,,We're gonna build a villa on the moon!
+Dialogue: 0,0:14:40.98,0:14:42.15,Main,Miyamura,0,0,0,,Sounds good!
+Dialogue: 0,0:14:45.28,0:14:46.15,Main,_Sign,0,0,0,,{\b1\fnComic Sans MS\bord3\shad0\c&H32272E&\3c&HF4E8E5&\an8}Push
+Dialogue: 0,0:14:51.01,0:14:54.36,Main,Sota,0,0,0,,My big sister killed me!
+Dialogue: 0,0:14:54.98,0:14:56.91,Main,Hori,0,0,0,,You will now address me as captain.
+Dialogue: 0,0:14:57.40,0:14:59.66,Main - Italics,Miyamura,0,0,0,,A heartless, unfeeling captain.
+Dialogue: 0,0:15:00.04,0:15:03.18,Main,Hori,0,0,0,,We're circling Mars!
+Dialogue: 0,0:15:04.93,0:15:09.91,Main,Hori,0,0,0,,Now I'm friends with this Martian!
+Dialogue: 0,0:15:11.55,0:15:14.30,Main,Sota,0,0,0,,Aw, man...
+Dialogue: 0,0:15:14.30,0:15:16.41,Main - Italics,Miyamura,0,0,0,,She's just taken over the ship,
+Dialogue: 0,0:15:16.41,0:15:18.71,Main - Italics,Miyamura,0,0,0,,and she's already recruiting\N more crew members.
+Dialogue: 0,0:15:18.71,0:15:21.06,Main - Italics,Miyamura,0,0,0,,Just who is Hori-san?
+Dialogue: 0,0:15:21.06,0:15:22.84,Main,Sota,0,0,0,,Bis Sis!
+Dialogue: 0,0:15:23.56,0:15:24.52,Main,Sota,0,0,0,,Come on!
+Dialogue: 0,0:15:25.76,0:15:28.37,Main,Miyamura,0,0,0,,Hori-san, um...
+Dialogue: 0,0:15:28.37,0:15:31.38,Main,Miyamura,0,0,0,,Can Sota come back on the ship?
+Dialogue: 0,0:15:33.07,0:15:38.02,Main,Hori,0,0,0,,Then he'd grow into a weak man who thinks\Nhe can just get whatever he wants.
+Dialogue: 0,0:15:38.45,0:15:43.08,Main,Hori,0,0,0,,He was the one who decided that \Nwhoever leaves this area would die.
+Dialogue: 0,0:15:43.54,0:15:46.45,Main,Hori,0,0,0,,All I did was push him.
+Dialogue: 0,0:15:45.09,0:15:48.80,Main,_Sign,0,0,0,,{\fad(230,1820)\b1\fnComic Sans MS\bord2\shad0\fs20\c&H7533D4&\3c&HF1F9E4&\pos(476.444,237.999)}Squeeze
+Dialogue: 0,0:15:47.80,0:15:50.30,Main,_Sign,0,0,0,,{\fad(520,1)\fnTimes New Roman\b1\shad0\fs20\c&H1D1F1E&\3c&HE9F0EE&\pos(110.375,102.786)}Push him\N(to certain death)
+Dialogue: 0,0:15:51.80,0:15:54.85,Main,Hori,0,0,0,,What's that? A new vehicle?
+Dialogue: 0,0:15:54.85,0:15:59.31,Main,Sota,0,0,0,,Yeah. I managed to board an escape pod.
+Dialogue: 0,0:15:59.84,0:16:04.49,Main,Sota,0,0,0,,The sorrow of betrayal will \Nfuel my quest for revenge.
+Dialogue: 0,0:16:04.49,0:16:05.94,Main,Hori,0,0,0,,Do you even know what that means?
+Dialogue: 0,0:16:05.94,0:16:08.01,Main,Miyamura,0,0,0,,You can do it, Sota!
+Dialogue: 0,0:16:06.23,0:16:07.07,Main,_Sign,0,0,0,,{\fad(230,230)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HE9EBE9&\pos(211.555,124.222)}Scoot
+Dialogue: 0,0:16:07.36,0:16:08.19,Main,_Sign,0,0,0,,{\fad(230,230)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HE9EBE9&\pos(422.222,114.444)}Scoot
+Dialogue: 0,0:16:08.01,0:16:08.98,Main,Sota,0,0,0,,Yeah!
+Dialogue: 0,0:16:08.48,0:16:09.40,Main,_Sign,0,0,0,,{\fad(230,230)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HE9EBE9&\pos(208.889,130.444)}Scoot
+Dialogue: 0,0:16:09.97,0:16:12.64,Main,Hori,0,0,0,,There's a spy in our midst!
+Dialogue: 0,0:16:12.64,0:16:14.82,Main,Miyamura,0,0,0,,I'm cheering for him since \Nhe's part of our crew!
+Dialogue: 0,0:16:15.57,0:16:21.13,Main,Hori,0,0,0,,I'll have to be a captain \Nwho doesn't trust a single soul.
+Dialogue: 0,0:16:21.13,0:16:24.58,Main,Miyamura,0,0,0,,Man... this is a lot.
+Dialogue: 0,0:16:26.43,0:16:28.29,Main,Sota,0,0,0,,Take this!
+Dialogue: 0,0:16:28.96,0:16:31.92,Main,Sota,0,0,0,,Yes, I beat her!
+Dialogue: 0,0:16:32.39,0:16:33.97,Main,Sota,0,0,0,,I won, Big Bro—
+Dialogue: 0,0:16:39.25,0:16:41.21,Main,Miyamura,0,0,0,,Sota, run for it!
+Dialogue: 0,0:16:40.02,0:16:44.94,Main,_Sign,0,0,0,,{\fad(430,1)\b1\fnComic Sans MS\bord3\shad0\fs36\c&H32272E&\3c&HECF0ED&\an8\i1}RUMBLE
+Dialogue: 0,0:16:41.21,0:16:43.90,Main,Miyamura,0,0,0,,The captain is immortal!
+Dialogue: 0,0:16:49.44,0:16:51.48,Main,_Sign,0,0,0,,{\fad(230,1)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HD6E5EC&\an7\pos(86.222,189.111)}Glance...
+Dialogue: 0,0:16:52.32,0:16:54.20,Main,Miyamura,0,0,0,,Sota, are you doing kanji?
+Dialogue: 0,0:16:54.20,0:16:55.24,Main,Sota,0,0,0,,Yeah.
+Dialogue: 0,0:16:56.11,0:17:00.22,Main,Miyamura,0,0,0,,Aw, man, I wish that was my homework.
+Dialogue: 0,0:17:00.22,0:17:01.75,Main,Hori,0,0,0,,You're a third-year high schooler.
+Dialogue: 0,0:17:02.46,0:17:08.00,Main,Sota,0,0,0,,"Make a compound word \Nusing the word 'forest.'"
+Dialogue: 0,0:17:08.00,0:17:09.24,Main,Hori,0,0,0,,Forestland.
+Dialogue: 0,0:17:08.00,0:17:10.25,Main,_Sign,0,0,0,,{\fnArial\b1\shad0\fs20\c&H1D1F1E&\3c&HE9F0EE&\pos(513.93,45.008)}Quick answer
+Dialogue: 0,0:17:10.25,0:17:14.05,Main,Miyamura,0,0,0,,Hori-san, he needs to think about it himself.
+Dialogue: 0,0:17:14.05,0:17:15.22,Main,_Sign,0,0,0,,{\fad(230,230)\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HEAF9FC&\pos(174.222,86.888)}Oh!
+Dialogue: 0,0:17:15.48,0:17:17.01,Main,Kyosuke,0,0,0,,I'm home!
+Dialogue: 0,0:17:17.26,0:17:19.57,Main,Kyosuke,0,0,0,,Oh, Sota, you're doing homework?
+Dialogue: 0,0:17:19.57,0:17:22.01,Main,Kyosuke,0,0,0,,Ask me for whatever you need.
+Dialogue: 0,0:17:22.01,0:17:23.95,Main,Sota,0,0,0,,You smell like cigarettes!
+Dialogue: 0,0:17:23.95,0:17:25.52,Main,Kyosuke,0,0,0,,Not what I was expecting.
+Dialogue: 0,0:17:25.52,0:17:26.92,Main,Hori,0,0,0,,Kyosuke stinks.
+Dialogue: 0,0:17:26.92,0:17:28.03,Main,Kyosuke,0,0,0,,Because of the cigarettes!
+Dialogue: 0,0:17:28.03,0:17:29.93,Main,Kyosuke,0,0,0,,Don't make it sound like {\i1}I{\i0} stink.
+Dialogue: 0,0:17:29.93,0:17:30.88,Main,Sota,0,0,0,,Stinky.
+Dialogue: 0,0:17:31.51,0:17:32.78,Main - Italics,Miyamura,0,0,0,,Kicking a man while he's down...
+Dialogue: 0,0:17:32.78,0:17:37.28,Main,_Sign,0,0,0,,{\an8\c&H434955&\3c&HEAF0F1&\fnTimes New Roman\b1\shad0\bord4}Kanji Drills\N{\fnComic Sans MS}Hori Sota
+Dialogue: 0,0:17:34.53,0:17:37.28,Main,Miyamura,0,0,0,,The "So" in your name is hard to write, huh?
+Dialogue: 0,0:17:37.28,0:17:41.28,Main,Miyamura,0,0,0,,Still, it's really impressive that \Nyou're learning kanji in first grade.
+Dialogue: 0,0:17:42.12,0:17:43.41,Main,Hori,0,0,0,,He's supposed to, isn't he?
+Dialogue: 0,0:17:43.41,0:17:47.92,Main,Miyamura,0,0,0,,I couldn't write the kanji\Nfor my given name either.
+Dialogue: 0,0:17:48.12,0:17:52.34,Main,_Sign,0,0,0,,{\fad(1,900)\fnComic Sans MS\fs16\shad0\bord0\c&H60230D&\pos(424.889,221.111)}I can't do it!
+Dialogue: 0,0:17:48.12,0:17:52.34,Main,_Sign,0,0,0,,{\fad(1,900)\fnComic Sans MS\fs10\shad0\bord0\c&H6D7374&\an8\pos(283.556,312.667)\frz163.2}Miyamura Iz
+Dialogue: 0,0:17:49.25,0:17:52.34,Main,_Sign,0,0,0,,{\fad(520,900)\fnComic Sans MS\fs16\shad0\bord1\blur4\c&H60230D&\pos(180.445,130.444)\3c&HA96038&}Izmi
+Dialogue: 0,0:17:50.50,0:17:52.34,Main,_Sign,0,0,0,,{\fad(520,900)\fnComic Sans MS\fs16\shad0\bord1\blur4\c&H60230D&\3c&HA96038&\pos(170.667,193.555)}Izui
+Dialogue: 0,0:18:14.43,0:18:17.81,Flashback,Yuriko,0,0,0,,You're such a good helper, Sota.
+Dialogue: 0,0:18:17.81,0:18:19.34,Flashback,Yuriko,0,0,0,,I hope you'll help me again.
+Dialogue: 0,0:18:19.34,0:18:20.20,Flashback,Sota,0,0,0,,Sure!
+Dialogue: 0,0:18:39.33,0:18:42.59,Main,Hori,0,0,0,,Sota, let's finish your homework—
+Dialogue: 0,0:18:43.10,0:18:44.85,Main,Hori,0,0,0,,What are you doing?!
+Dialogue: 0,0:18:43.14,0:18:44.60,Main,_Sign,0,0,0,,{\fad(230,230)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HE9EBE9&\an8\pos(228.444,20.667)}Clack
+Dialogue: 0,0:18:45.94,0:18:48.52,Main,Hori,0,0,0,,I told you to let me do those!
+Dialogue: 0,0:18:48.52,0:18:50.43,Main,Sota,0,0,0,,Um, but...
+Dialogue: 0,0:18:50.43,0:18:51.98,Main,Hori,0,0,0,,No buts!
+Dialogue: 0,0:18:55.98,0:18:58.72,Main,Hori,0,0,0,,You could cut yourself on the knives.
+Dialogue: 0,0:19:03.95,0:19:05.99,Main,Sota,0,0,0,,You're a jerk!
+Dialogue: 0,0:19:05.99,0:19:07.26,Main,Miyamura,0,0,0,,What?
+Dialogue: 0,0:19:05.99,0:19:08.00,Main,_Sign,0,0,0,,{\fad(230,1)\an8\b1\fnArial\i1\c&HD0B066&\4c&HE8EEEC&}WAAAH
+Dialogue: 0,0:19:06.29,0:19:08.00,Main,_Sign,0,0,0,,{\fad(230,1)\b1\fnComic Sans MS\bord3\shad0\c&H32272E&\3c&HE9EBE9&\pos(151.999,133.111)\frz13.81}Shock
+Dialogue: 0,0:19:08.00,0:19:11.36,Main,Hori,0,0,0,,I told you it's dangerous \Nto do it on your own!
+Dialogue: 0,0:19:12.05,0:19:14.61,Main,Sota,0,0,0,,You always get angry right away!
+Dialogue: 0,0:19:14.61,0:19:16.62,Main,Sota,0,0,0,,Why don't you understand?!
+Dialogue: 0,0:19:18.95,0:19:20.12,Main,Miyamura,0,0,0,,What's wrong?
+Dialogue: 0,0:19:20.12,0:19:21.26,Main,Hori,0,0,0,,Like I said!
+Dialogue: 0,0:19:21.26,0:19:23.79,Main,Hori,0,0,0,,Sota was trying to...
+Dialogue: 0,0:19:23.79,0:19:24.62,Main,Miyamura,0,0,0,,Yeah.
+Dialogue: 0,0:19:24.62,0:19:26.26,Main,Hori,0,0,0,,And it's dangerous!
+Dialogue: 0,0:19:26.26,0:19:27.41,Main,Miyamura,0,0,0,,Yeah.
+Dialogue: 0,0:19:28.27,0:19:33.08,Flashback,Kyosuke,0,0,0,,Well, Kyoko can be dangerous \Nonce she gets angry, so be careful.
+Dialogue: 0,0:19:33.87,0:19:37.03,Main,Miyamura,0,0,0,,Hori-san, there's a better way to say that.
+Dialogue: 0,0:19:38.28,0:19:42.05,Main,Miyamura,0,0,0,,Sota was just trying to help.
+Dialogue: 0,0:19:42.05,0:19:43.78,Main,Miyamura,0,0,0,,He's in first grade now.
+Dialogue: 0,0:19:44.59,0:19:47.00,Main,Miyamura,0,0,0,,And you've washed them before, right?
+Dialogue: 0,0:19:47.00,0:19:48.00,Main,Sota,0,0,0,,Yeah.
+Dialogue: 0,0:19:49.67,0:19:53.34,Main,Miyamura,0,0,0,,But you understand what \Nyour sister is saying too, don't you?
+Dialogue: 0,0:19:53.34,0:19:54.30,Main,Sota,0,0,0,,Yeah.
+Dialogue: 0,0:19:55.46,0:19:57.81,Main,Miyamura,0,0,0,,He gets it, Hori-san—
+Dialogue: 0,0:19:57.81,0:19:59.05,Main,Miyamura,0,0,0,,Huh?!
+Dialogue: 0,0:19:59.05,0:20:00.84,Main,Miyamura,0,0,0,,Wh-What's wrong?!
+Dialogue: 0,0:20:00.84,0:20:02.80,Main,Hori,0,0,0,,I... I just...
+Dialogue: 0,0:20:03.46,0:20:05.07,Main,Hori,0,0,0,,I should have...
+Dialogue: 0,0:20:05.73,0:20:08.41,Main,Miyamura,0,0,0,,Um, but what you said wasn't wrong.
+Dialogue: 0,0:20:08.41,0:20:09.59,Main,Miyamura,0,0,0,,It's okay.
+Dialogue: 0,0:20:10.08,0:20:12.06,Main,Hori,0,0,0,,But you...
+Dialogue: 0,0:20:12.73,0:20:15.51,Main,Miyamura,0,0,0,,Did you think I was angry with you?
+Dialogue: 0,0:20:15.51,0:20:17.91,Main,Miyamura,0,0,0,,I'm not. Really, I'm not.
+Dialogue: 0,0:20:17.91,0:20:19.55,Main,Miyamura,0,0,0,,Sota was just...
+Dialogue: 0,0:20:19.55,0:20:22.07,Main,Miyamura,0,0,0,,And you weren't wrong!
+Dialogue: 0,0:20:24.45,0:20:26.20,Main,_Sign,0,0,0,,{\fnArial\b1\shad0\bord0\fs20\c&H1D1F1E&\3c&HE9F0EE&\pos(304.153,287.674)}Big Sis is upset because of me!
+Dialogue: 0,0:20:26.20,0:20:28.55,Main - Italics,Miyamura,0,0,0,,What's going on?!
+Dialogue: 0,0:20:26.24,0:20:27.45,Main,_Sign,0,0,0,,{\fad(230,230)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HE7EAF7&\pos(400.889,119.777)}Fuss
+Dialogue: 0,0:20:26.99,0:20:28.20,Main,_Sign,0,0,0,,{\fad(230,230)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HE7EAF7&\pos(277.333,155.333)}Fuss
+Dialogue: 0,0:20:28.24,0:20:29.45,Main,_Sign,0,0,0,,{\fad(230,230)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HE7EAF7&\pos(400,194.444)}Fuss
+Dialogue: 0,0:20:28.55,0:20:29.40,Main - Italics,Miyamura,0,0,0,,What is this?
+Dialogue: 0,0:20:28.99,0:20:30.25,Main,_Sign,0,0,0,,{\fad(230,230)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HE7EAF7&\pos(274.667,254.888)}Fuss
+Dialogue: 0,0:20:29.40,0:20:30.70,Main - Italics,Miyamura,0,0,0,,I don't know what to do!
+Dialogue: 0,0:20:30.25,0:20:30.70,Main,_Sign,0,0,0,,{\fad(230,1)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HE7EAF7&\pos(404.445,229.11)}Fuss
+Dialogue: 0,0:20:33.04,0:20:35.21,Main,Kyosuke,0,0,0,,Oh, you guys look like you're having fun.
+Dialogue: 0,0:20:35.21,0:20:36.56,Main,Miyamura,0,0,0,,Can you step in?
+Dialogue: 0,0:20:36.56,0:20:38.17,Main,Kyosuke,0,0,0,,What?
+Dialogue: 0,0:20:38.17,0:20:40.22,Main,Kyosuke,0,0,0,,Sounds like a pain, so I'll pass.
+Dialogue: 0,0:20:44.39,0:20:46.22,Main,Miyamura,0,0,0,,I'm sorry, Hori-san.
+Dialogue: 0,0:20:47.22,0:20:51.10,Main,Miyamura,0,0,0,,Sota's still just a kid, \Nand I'm an only child.
+Dialogue: 0,0:20:51.10,0:20:54.23,Main,Miyamura,0,0,0,,I don't really know much about discipline.
+Dialogue: 0,0:20:55.17,0:20:59.13,Main,Miyamura,0,0,0,,I know you're trying \Nto do what's best for him.
+Dialogue: 0,0:21:05.50,0:21:07.81,Main - Italics,Miyamura,0,0,0,,Maybe I was too harsh.
+Dialogue: 0,0:21:10.81,0:21:15.50,Main,Hori,0,0,0,,I don't like it when you're not on my side.
+Dialogue: 0,0:21:18.75,0:21:21.78,Main,Miyamura,0,0,0,,Huh? But I {\i1}am{\i0} on your side.
+Dialogue: 0,0:21:24.59,0:21:26.51,Main,Hori,0,0,0,,Then... it's fine.
+Dialogue: 0,0:21:27.41,0:21:32.52,Main,Miyamura,0,0,0,,But when I think you're doing \Nsomething wrong, I'll get angry.
+Dialogue: 0,0:21:32.52,0:21:35.52,Main,_Sign,0,0,0,,{\fad(230,1)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HD8F1EB&\move(112,72.666,301.333,45.11,1520,2006)}Smirk...
+Dialogue: 0,0:21:34.09,0:21:35.52,Main - Italics,Miyamura,0,0,0,,Is that a smile?
+Dialogue: 0,0:21:35.52,0:21:37.81,Main,Hori,0,0,0,,So, specifically, when you get angry...
+Dialogue: 0,0:21:37.81,0:21:40.47,Main,Hori,0,0,0,,are you gonna yell "stop it!" and smack me?
+Dialogue: 0,0:21:40.47,0:21:42.53,Main,Miyamura,0,0,0,,I'm not gonna smack you!
+Dialogue: 0,0:21:42.53,0:21:46.03,Main,_Sign,0,0,0,,{\fnArial\b1\shad0\fs20\c&H1D1F1E&\3c&HE9F0EE&\an7\pos(49.041,247.675)}Hori is back to normal
+Dialogue: 0,0:23:12.49,0:23:15.99,Main,_Sign,0,0,0,,{\fad(487,1)\c&HC2A774&\3c&HF4F9ED&\shad0\an7\fs16\pos(452.242,317.744)}Next time\Npage.13 Graduation
+Dialogue: 0,0:23:15.99,0:23:20.00,Main,_Sign,0,0,0,,{\fnComic Sans MS\bord2\shad0\fs14\c&H504B4E&\3c&HF2F7F8&\pos(525.334,228.222)}About my family
+Dialogue: 0,0:23:15.99,0:23:20.00,Main,_Sign,0,0,0,,{\fnArial\b1\an8\c&HACF9F7&\4c&HEFF5F4&}SMILE
+Dialogue: 0,0:23:16.49,0:23:20.00,Main,Sota,0,0,0,,My teacher liked what I wrote at school!
+Dialogue: 0,0:23:20.37,0:23:24.25,Main,Hori,0,0,0,,Hey, Mom, Sota wrote something \Nat school and the teacher liked it.
+Dialogue: 0,0:23:24.25,0:23:25.75,Main,_Sign,0,0,0,,{\fad(230,1)\b1\fnComic Sans MS\bord3\shad0\fs20\c&H32272E&\3c&HE9EBE9&\pos(358.222,59.333)}Oh my
+Dialogue: 0,0:23:24.25,0:23:25.75,Main,Yuriko,0,0,0,,Oh my!
+Dialogue: 0,0:23:25.75,0:23:28.33,Main,Kyosuke,0,0,0,,Hey, you wrote about your family.
+Dialogue: 0,0:23:28.33,0:23:30.31,Main,Miyamura,0,0,0,,That's great! Let me see it.
+Dialogue: 0,0:23:30.31,0:23:31.13,Main,Sota,0,0,0,,Sure!
+Dialogue: 0,0:23:32.22,0:23:34.01,Main,Sota,0,0,0,,It's called "My Big Brother."
+Dialogue: 0,0:23:34.01,0:23:40.02,Main,_Sign,0,0,0,,{\b1\fnComic Sans MS\bord1\shad0\an8\c&H32272E&\3c&HE9EBE9&\pos(256.889,15.333)}Stare
+Dialogue: 0,0:23:35.99,0:23:38.38,Main,Miyamura,0,0,0,,I'm so sorry...

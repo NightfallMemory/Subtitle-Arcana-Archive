@@ -1,0 +1,583 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: FlashbackItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,0
+Style: Signs_EpTitle,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,30,30,10,0
+Style: Signs_Chat,Arial,16,&H00535359,&H000000FF,&H00EFF0ED,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,300,30,10,0
+Style: Signs_Boxed,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,0,0,8,30,30,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.98,Signs,Sign,0,0,0,,{\fscx130\b0\fnImpact\c&H1C11F4&\3c&H1C11F4&\bord4\fs32}PACHINKO
+Dialogue: 1,0:00:00.00,0:00:02.98,Signs,Sign,0,0,0,,{\fscx130\b0\fnImpact\c&H1C11F4&\3c&H55FFFB&\bord2\fs32}PACHINKO
+Dialogue: 0,0:00:03.34,0:00:07.34,Default,Tokage,0,0,0,,They're asking for a fight, \Nthe way these pins are tuned.
+Dialogue: 0,0:00:07.34,0:00:10.99,Default,Tokage,0,0,0,,Eight spins per 1K is frigging brutal.
+Dialogue: 0,0:00:10.99,0:00:14.37,Default,Tokage,0,0,0,,And a 1,500-spin dry spell, \Non a fresh machine?!
+Dialogue: 0,0:00:14.37,0:00:16.50,Default,Tokage,0,0,0,,Where's my damn jackpot?!
+Dialogue: 0,0:00:16.50,0:00:19.18,Default,Tokage,0,0,0,,This thing deserves a good smack.
+Dialogue: 0,0:00:19.18,0:00:20.58,Default,Tokage,0,0,0,,Pisses me off.
+Dialogue: 0,0:00:21.18,0:00:22.26,DefaultItalics,Pachinko,0,0,0,,Big chance!
+Dialogue: 0,0:00:22.85,0:00:24.70,Default,Tokage,0,0,0,,92%! 92%! 92%!
+Dialogue: 0,0:00:24.37,0:00:25.58,Signs,Sign,0,0,0,,{\fad(196,1)\fs40\fnArial Black\c&H987BF0&\3c&HD6EAFC&\4c&H5D27B8&\bord2\shad2}Pull
+Dialogue: 0,0:00:24.70,0:00:25.58,DefaultItalics,Pachinko,0,0,0,,Pull!
+Dialogue: 0,0:00:25.58,0:00:27.33,Default,Tokage,0,0,0,,This has {\i1}gotta{\i0} be it...
+Dialogue: 0,0:00:27.33,0:00:29.50,Default,Tokage,0,0,0,,Okay, it's in the bag!
+Dialogue: 0,0:00:30.38,0:00:32.94,DefaultItalics,Raoh,0,0,0,,Is that all the strength you can muster?
+Dialogue: 0,0:00:32.94,0:00:33.92,Default,Tokage,0,0,0,,No way.
+Dialogue: 0,0:00:34.37,0:00:35.69,Default,Tokage,0,0,0,,Please save it.
+Dialogue: 0,0:00:35.69,0:00:37.42,DefaultItalics,Toki,0,0,0,,It's not over yet.
+Dialogue: 0,0:00:43.35,0:00:44.98,Default,Tokage,0,0,0,,It's a bust!
+Dialogue: 0,0:00:50.23,0:00:52.19,Signs,Sign,0,0,0,,{\fad(904,472)\fs30\fnArial Black\c&HEEFBFD&\3c&HEEFBFD&\bord4}Beef Bowl Free {\c&H9372DA&}Size Upgrade
+Dialogue: 1,0:00:50.23,0:00:52.19,Signs,Sign,0,0,0,,{\fad(904,472)\fs30\fnArial Black\c&H1216E9&\3c&H30157E&\bord2}Beef Bowl Free {\c&H9372DA&}Size Upgrade
+Dialogue: 0,0:00:52.53,0:00:54.82,Default,Chance,0,0,0,,Chance Akaishi here with \Nanother day of lucky spins!
+Dialogue: 0,0:00:55.09,0:00:56.90,Default,Chance,0,0,0,,Man, ya don't see this often, huh?
+Dialogue: 0,0:00:56.90,0:00:59.58,Default,Chance,0,0,0,,A parlor so empty, they don't \Neven use numbered tickets!
+Dialogue: 0,0:00:59.58,0:01:01.08,Default,Chance,0,0,0,,Let's dig up some chances!
+Dialogue: 0,0:01:01.50,0:01:03.00,Default,Chance,0,0,0,,Ah, m'bad.
+Dialogue: 0,0:01:04.67,0:01:06.43,Default,Chance,0,0,0,,Ah, my bad.
+Dialogue: 0,0:01:07.21,0:01:11.34,Signs,Sign,0,0,0,,{\fs25\fnArial Black\c&HEEFBFD&\3c&HEEFBFD&\bord4}Beef Bowl Free {\c&H9372DA&}Size Upgrade
+Dialogue: 1,0:01:07.21,0:01:11.34,Signs,Sign,0,0,0,,{\fs25\fnArial Black\c&H1216E9&\3c&H30157E&\bord2}Beef Bowl Free {\c&H9372DA&}Size Upgrade
+Dialogue: 0,0:01:07.48,0:01:09.07,Default,Tokage,0,0,0,,Why don't we trade?
+Dialogue: 0,0:01:09.07,0:01:10.52,Default,Tokage,0,0,0,,1,000 yen.
+Dialogue: 0,0:01:11.65,0:01:13.20,Default,Tokage,0,0,0,,Also, big guy...
+Dialogue: 0,0:01:13.20,0:01:14.67,Default,Tokage,0,0,0,,Do you make big money?
+Dialogue: 0,0:01:14.67,0:01:16.59,Default,Tokage,0,0,0,,Doing this NewTube stuff.
+Dialogue: 0,0:01:16.59,0:01:17.97,Default,Chance,0,0,0,,Well, I guess...
+Dialogue: 0,0:01:19.47,0:01:20.39,Default,Tokage,0,0,0,,Very nice.
+Dialogue: 0,0:02:51.79,0:02:54.02,Default,Live,0,0,0,,Good morning from the dead of night!
+Dialogue: 0,0:02:52.65,0:02:54.02,Signs_EpTitle,Sign,0,0,0,,{\3c&H443432&}A New Member Joins! DEAD or ALIVE
+Dialogue: 0,0:02:54.33,0:02:56.28,Default,Live,0,0,0,,Mayonaka Punch! Live here!
+Dialogue: 0,0:02:56.28,0:02:57.54,Default,Ichiko,0,0,0,,Ichiko!
+Dialogue: 0,0:02:57.54,0:02:58.38,Default,Fu,0,0,0,,I'm Fu.
+Dialogue: 0,0:02:58.38,0:03:00.28,Default,Live,0,0,0,,For today's video...
+Dialogue: 0,0:03:01.28,0:03:02.45,Signs,Sign,0,0,0,,{\fad(192,1)\fnTimes New Roman\bord2\c&H222536&\3c&HD8EDDD&}Real Wasabi
+Dialogue: 0,0:03:02.45,0:03:05.54,Default,Live,0,0,0,,If we eat nagashi somen \Nas a three-in-one act...
+Dialogue: 0,0:03:05.54,0:03:08.53,Default,Group,0,0,0,,...will we become better friends?!
+Dialogue: 0,0:03:08.53,0:03:09.21,Default,Masaki,0,0,0,,All right!
+Dialogue: 0,0:03:09.21,0:03:10.46,Default,Masaki,0,0,0,,I'm gonna go fast here!
+Dialogue: 0,0:03:13.57,0:03:14.84,Default,Live,0,0,0,,Bring it on!
+Dialogue: 0,0:03:14.84,0:03:16.59,Default,Live,0,0,0,,Hey, Ichiko! To your right!
+Dialogue: 0,0:03:16.59,0:03:17.37,Default,Ichiko,0,0,0,,Yes!
+Dialogue: 0,0:03:17.37,0:03:18.75,Default,Live,0,0,0,,Fu, that's my head!
+Dialogue: 0,0:03:18.75,0:03:19.71,Default,Fu,0,0,0,,S-Sorry!
+Dialogue: 0,0:03:19.71,0:03:20.67,Default,Fu,0,0,0,,Over here?
+Dialogue: 0,0:03:20.67,0:03:22.52,Default,Live,0,0,0,,That's my chin! No, my boobs!
+Dialogue: 0,0:03:22.52,0:03:23.32,Default,Live,0,0,0,,Up, up, up!
+Dialogue: 0,0:03:23.32,0:03:25.22,Default,Ichiko,0,0,0,,Live-sama, here's some grated ginger!
+Dialogue: 0,0:03:25.22,0:03:26.93,Default,Live,0,0,0,,Wait, that's spicy!
+Dialogue: 0,0:03:26.93,0:03:28.03,Default,Ichiko,0,0,0,,Fu, let's crank up the speed.
+Dialogue: 0,0:03:28.03,0:03:28.89,Default,Fu,0,0,0,,S-Sure!
+Dialogue: 0,0:03:32.36,0:03:33.65,Default,Live,0,0,0,,That's the stuff!
+Dialogue: 0,0:03:33.65,0:03:36.40,Default,Ichiko,0,0,0,,Live-sama, here's some grated wasabi!
+Dialogue: 0,0:03:33.65,0:03:36.40,Signs,Sign,0,0,0,,{\fnTimes New Roman\bord2\c&H222536&\3c&HD8EDDD&}Real Wasabi
+Dialogue: 0,0:03:38.05,0:03:40.21,Default,Fu,0,0,0,,Are you all right?!
+Dialogue: 0,0:03:40.53,0:03:42.15,Default,Live,0,0,0,,There, you're done.
+Dialogue: 0,0:03:43.23,0:03:45.29,Default,Ichiko,0,0,0,,Just when it got to the good part!
+Dialogue: 0,0:03:45.29,0:03:46.64,Default,Live,0,0,0,,You need to keep it down.
+Dialogue: 0,0:03:46.64,0:03:49.01,Default,Live,0,0,0,,Masaki's trying to think of ideas for videos.
+Dialogue: 0,0:03:49.01,0:03:50.20,Default,Masaki,0,0,0,,Did you say something?
+Dialogue: 0,0:03:50.20,0:03:54.81,Default,Live,0,0,0,,No, Ichiko was just rewatching the \Nvid we uploaded the other day.
+Dialogue: 0,0:03:54.81,0:03:56.84,Default,Ichiko,0,0,0,,It's super funny, Masaki!
+Dialogue: 0,0:03:56.84,0:04:01.48,Default,Masaki,0,0,0,,Well, I {\i1}did{\i0} come up with the idea, \Nshoot the video, and edit it.
+Dialogue: 0,0:04:01.48,0:04:03.17,Default,Masaki,0,0,0,,Of course it's funny.
+Dialogue: 0,0:04:03.17,0:04:06.49,Default,Ichiko,0,0,0,,Then how come no one's \Nwatching such a funny video?
+Dialogue: 0,0:04:06.49,0:04:07.48,Default,Live,0,0,0,,Crap!
+Dialogue: 0,0:04:07.48,0:04:10.02,Default,Live,0,0,0,,Ichiko! I'm hungry!
+Dialogue: 0,0:04:10.02,0:04:12.41,Default,Live,0,0,0,,Isn't it about time we had dinner?
+Dialogue: 0,0:04:12.41,0:04:13.73,Default,Ichiko,0,0,0,,Right away, Live-sama!
+Dialogue: 0,0:04:15.05,0:04:16.10,Default,Live,0,0,0,,Are you angry?
+Dialogue: 0,0:04:16.10,0:04:17.04,Default,Masaki,0,0,0,,I'm not angry.
+Dialogue: 0,0:04:17.04,0:04:18.26,Default,Live,0,0,0,,You're totally angry.
+Dialogue: 0,0:04:18.26,0:04:19.81,Default,Masaki,0,0,0,,I'm panicking!
+Dialogue: 0,0:04:19.81,0:04:22.57,Default,Masaki,0,0,0,,It's been three weeks \Nsince we started the channel!
+Dialogue: 0,0:04:22.57,0:04:23.59,Default,Masaki,0,0,0,,And look at this!
+Dialogue: 0,0:04:24.14,0:04:26.08,Default,Live,0,0,0,,Um... Look at what?
+Dialogue: 0,0:04:26.08,0:04:28.53,Default,Masaki,0,0,0,,We've put out so many videos!
+Dialogue: 0,0:04:28.53,0:04:30.61,Default,Masaki,0,0,0,,And forget a million subscribers—
+Dialogue: 0,0:04:30.61,0:04:33.12,Default,Masaki,0,0,0,,we don't even have 10,000 views in total!
+Dialogue: 0,0:04:33.12,0:04:35.50,Default,Live,0,0,0,,C'mon, we only just started.
+Dialogue: 0,0:04:35.50,0:04:37.17,Default,Masaki,0,0,0,,Still!
+Dialogue: 0,0:04:37.17,0:04:40.28,Default,Masaki,0,0,0,,Anyway, we can't do anything \Nif I don't come up with ideas.
+Dialogue: 0,0:04:40.28,0:04:41.51,Default,Masaki,0,0,0,,So let me think!
+Dialogue: 0,0:04:41.51,0:04:43.01,Signs,Sign,0,0,0,,{\fs16\c&H676A68&\pos(151,264.5)}Mayonaka Punch
+Dialogue: 0,0:04:41.51,0:04:43.01,Signs,Sign,0,0,0,,{\bord2\fs12\c&HF9FDFA&\3c&HDB64DF&\pos(225.5,314.5)}217 subscribers
+Dialogue: 0,0:04:45.22,0:04:49.26,Signs,Sign,0,0,0,,{\fad(732,1014)\fs14\fnArial Black\c&H2DE5FD&\bord2.5\pos(123,78)\3c&H462EBB&}Super Low-Cost??\N{\fnGeorgia\c&H9DF4F6&\3c&HF19EFE&}Cinderella
+Dialogue: 1,0:04:45.22,0:04:49.26,Signs,Sign,0,0,0,,{\fad(732,1014)\fs14\fnArial Black\c&H2DE5FD&\bord1\pos(123,78)}Super Low-Cost??\N{\fnGeorgia\c&H9DF4F6&\3c&H7F2BB5&}Cinderella
+Dialogue: 0,0:04:45.22,0:04:49.26,Signs,Sign,0,0,0,,{\fad(732,1014)\fs14\fnArial Black\c&H3828D0&\bord2\3c&HFFFFFF&\pos(330,79)}Outer {\c&H2A3027&}Loop? {\c&H3828D0&}Inner {\c&H2A3027&}Loop?!\NA {\c&H6919CB&}Disputed Verdict?!
+Dialogue: 0,0:04:45.22,0:04:49.26,Signs,Sign,0,0,0,,{\fad(732,1014)\fs14\fnTimes New Roman\c&H68205B&\bord2\3c&HFFFFFF&\pos(574.5,87)}Pitch Dark
+Dialogue: 0,0:04:45.59,0:04:49.26,Signs,Sign,0,0,0,,{\an7\fad(732,1014)\fs10\c&H686868&\bord2\3c&HFFFFFF&\pos(1.5,281)}rella | Cosplaying on a Shoestring Budget\N(Actually Just Covered in Ashes)
+Dialogue: 0,0:04:45.59,0:04:49.26,Signs,Sign,0,0,0,,{\an7\fad(732,1014)\fs10\c&H686868&\bord2\3c&HFFFFFF&\pos(213.5,281)}Shenanigans Galore! Yamanote Line Game\Nwith 3 Players!
+Dialogue: 0,0:04:45.59,0:04:49.26,Signs,Sign,0,0,0,,{\an7\fad(732,1014)\fs10\c&H686868&\bord2\3c&HFFFFFF&\pos(463,281)}We're Night Owls... And We Spent\N48 Hours with the Lights Off!!
+Dialogue: 0,0:04:48.26,0:04:52.27,Signs,Sign,0,0,0,,{\fad(1029,1)\fs18\fnTimes New Roman\an7\c&H636363&\3c&HEEEFEA&\bord2.5}Content Ideas\N{\c&H6949B2&\fs14}Have a clear topic\NEasy to understand (can tell from thumbnail)\NRelatable\NTake it seriously
+Dialogue: 0,0:04:48.90,0:04:52.04,DefaultItalics,Masaki,0,0,0,,Why can't I come up with ideas for content?
+Dialogue: 0,0:04:52.04,0:04:53.52,DefaultItalics,Masaki,0,0,0,,It used to be easier...
+Dialogue: 0,0:04:53.52,0:04:55.52,Signs_Chat,Sign,0,0,0,,{\pos(373.5,60)}\NWait, these are the girls from Chu-Chu Girls who blew up before.\NWhy'd you start a new channel??\N\N\N\N\NI liked it better when you were\Nthe Chu-Chu Girls\N\N\N\N\N\N\N\N\NEveryone's still cute, but you used\Nto play to Live's strengths better
+Dialogue: 0,0:05:00.04,0:05:01.78,Default,Masaki,0,0,0,,Something smells good.
+Dialogue: 0,0:05:01.78,0:05:04.11,Default,Ichiko,0,0,0,,Liver and chives! Liver and chives!
+Dialogue: 0,0:05:04.11,0:05:06.66,Default,Ichiko,0,0,0,,Okay, everyone, please take your seats!
+Dialogue: 0,0:05:06.66,0:05:08.80,Default,Live,0,0,0,,Awesome! Time for food!
+Dialogue: 0,0:05:08.80,0:05:10.61,Default,Live,0,0,0,,Masaki, why don't you take a break?
+Dialogue: 0,0:05:10.70,0:05:12.04,Signs,Sign,0,0,0,,{\fad(110,604)\fs28\fnArial Black\c&HFBF7C1&\move(116,64,99,0,27,1278)}Growl...
+Dialogue: 0,0:05:12.04,0:05:14.29,Default,Live,0,0,0,,All right, then, all together now!
+Dialogue: 0,0:05:14.29,0:05:16.04,Default,Group,0,0,0,,Thanks for the food!
+Dialogue: 0,0:05:16.04,0:05:17.95,Default,Masaki,0,0,0,,Thanks.
+Dialogue: 0,0:05:22.57,0:05:25.29,Default,Live,0,0,0,,Man, this is {\i1}good!{\i0}
+Dialogue: 0,0:05:25.29,0:05:27.01,Default,Masaki,0,0,0,,She can really pack it in.
+Dialogue: 0,0:05:27.42,0:05:32.01,DefaultItalics,Masaki,0,0,0,,I bet a video of her eating would do well.
+Dialogue: 0,0:05:32.68,0:05:36.52,Default,Masaki,0,0,0,,Hold on, so do vampires need to eat food, too?
+Dialogue: 0,0:05:36.52,0:05:37.31,Default,Live,0,0,0,,Huh?
+Dialogue: 0,0:05:37.31,0:05:39.48,Default,Live,0,0,0,,Nah, not at all.
+Dialogue: 0,0:05:39.48,0:05:41.27,Default,Masaki,0,0,0,,Then why do you eat every day?
+Dialogue: 0,0:05:41.27,0:05:44.36,Default,Ichiko,0,0,0,,Eating meals together is important!
+Dialogue: 0,0:05:44.86,0:05:46.03,Default,Masaki,0,0,0,,Sure, why not?
+Dialogue: 0,0:05:46.03,0:05:47.15,Default,Ichiko,0,0,0,,Hey, Masaki!
+Dialogue: 0,0:05:47.15,0:05:49.12,Default,Ichiko,0,0,0,,Have you thought up anything yet? Well?
+Dialogue: 0,0:05:49.12,0:05:51.14,Default,Masaki,0,0,0,,Not yet. Why?
+Dialogue: 0,0:05:52.38,0:05:55.69,Default,Ichiko,0,0,0,,I came up with an idea that's sure to be a hit.
+Dialogue: 0,0:05:55.69,0:05:57.20,Default,Ichiko,0,0,0,,Wanna know what it is?
+Dialogue: 0,0:05:57.20,0:05:57.87,Default,Masaki,0,0,0,,Sure.
+Dialogue: 0,0:05:57.87,0:05:59.26,Default,Ichiko,0,0,0,,Here it is!
+Dialogue: 0,0:05:59.26,0:06:02.96,Default,Ichiko,0,0,0,,Ichiko tries on a strawberry costume!
+Dialogue: 0,0:06:02.96,0:06:03.49,Default,Masaki,0,0,0,,Nope.
+Dialogue: 0,0:06:03.49,0:06:04.22,Default,Ichiko,0,0,0,,What?
+Dialogue: 0,0:06:04.22,0:06:05.54,Default,Ichiko,0,0,0,,How about a banana?
+Dialogue: 0,0:06:05.54,0:06:06.72,Default,Ichiko,0,0,0,,Ichiko tries on a banana—
+Dialogue: 0,0:06:06.72,0:06:07.62,Default,Masaki,0,0,0,,Double nope.
+Dialogue: 0,0:06:07.62,0:06:08.22,Default,Ichiko,0,0,0,,Then what about—
+Dialogue: 0,0:06:08.22,0:06:09.42,Default,Masaki,0,0,0,,Nope to everything.
+Dialogue: 0,0:06:10.49,0:06:12.17,Default,Ichiko,0,0,0,,Why not?!
+Dialogue: 0,0:06:12.17,0:06:13.23,Default,Masaki,0,0,0,,Listen here.
+Dialogue: 0,0:06:13.23,0:06:15.71,Default,Masaki,0,0,0,,Do you {\i1}know{\i0} how much those costumes cost?
+Dialogue: 0,0:06:15.71,0:06:18.92,Default,Masaki,0,0,0,,I'm trying to take all that into account here!
+Dialogue: 0,0:06:18.92,0:06:23.61,Default,Masaki,0,0,0,,Something low-budget that sounds a little \Nfamiliar, but with its own original twist!
+Dialogue: 0,0:06:23.61,0:06:25.60,Default,Masaki,0,0,0,,{\i1}That's{\i0} how you come up with content!
+Dialogue: 0,0:06:25.60,0:06:28.20,Default,Masaki,0,0,0,,It's not about suggesting \Nthings all willy-nilly!
+Dialogue: 0,0:06:28.20,0:06:29.74,Default,Masaki,0,0,0,,Take your banana and shove it!
+Dialogue: 0,0:06:31.45,0:06:34.01,Default,Ichiko,0,0,0,,I'll shove liver and chives down my throat!
+Dialogue: 0,0:06:34.01,0:06:35.19,Default,Fu,0,0,0,,There, there.
+Dialogue: 0,0:06:38.54,0:06:39.75,Default,Tokage,0,0,0,,How naïve of you.
+Dialogue: 0,0:06:40.75,0:06:44.25,Default,Tokage,0,0,0,,Originality comes after you squeeze,
+Dialogue: 0,0:06:44.25,0:06:45.73,Default,Tokage,0,0,0,,and squeeze,
+Dialogue: 0,0:06:45.73,0:06:47.47,Default,Tokage,0,0,0,,and keep on squeezing...
+Dialogue: 0,0:06:48.03,0:06:51.47,Default,Tokage,0,0,0,,until you're left with that one last drop!
+Dialogue: 0,0:06:51.47,0:06:52.30,Default,Masaki,0,0,0,,Who're you?!
+Dialogue: 0,0:06:52.30,0:06:54.33,Default,Tokage,0,0,0,,The name's Tokage.
+Dialogue: 0,0:06:54.33,0:06:58.18,Default,Tokage,0,0,0,,A wayward vampire out on the hunt for money!
+Dialogue: 0,0:06:58.18,0:06:59.87,Default,Masaki,0,0,0,,There are {\i1}more{\i0} vampires?!
+Dialogue: 0,0:06:59.87,0:07:00.98,Default,Ichiko,0,0,0,,Tokage.
+Dialogue: 0,0:07:00.98,0:07:03.01,Default,Ichiko,0,0,0,,Eating for free without paying your share...
+Dialogue: 0,0:07:03.01,0:07:04.69,Default,Ichiko,0,0,0,,I won't stand for it!
+Dialogue: 0,0:07:04.69,0:07:05.44,Default,Tokage,0,0,0,,Here.
+Dialogue: 0,0:07:05.74,0:07:08.26,Default,Tokage,0,0,0,,Life ain't as simple as you think.
+Dialogue: 0,0:07:08.26,0:07:10.53,Default,Tokage,0,0,0,,It's a little like gambling.
+Dialogue: 0,0:07:10.53,0:07:13.14,Default,Tokage,0,0,0,,The bigger the thrill, \Nthe deeper in you find yourself.
+Dialogue: 0,0:07:13.14,0:07:16.19,Default,Tokage,0,0,0,,As you grow more numb, you seek more thrills.
+Dialogue: 0,0:07:16.19,0:07:19.34,Default,Tokage,0,0,0,,And this coupon gives you a free upgrade,
+Dialogue: 0,0:07:19.34,0:07:21.76,Default,Tokage,0,0,0,,but the beef bowl itself doesn't come free.
+Dialogue: 0,0:07:21.76,0:07:23.58,Default,Tokage,0,0,0,,Nothing but an empty promise.
+Dialogue: 0,0:07:23.58,0:07:26.00,Default,Ichiko,0,0,0,,What's your point, already?
+Dialogue: 0,0:07:26.00,0:07:28.60,Default,Live,0,0,0,,Just admit that you're broke.
+Dialogue: 0,0:07:28.60,0:07:31.51,Default,Live,0,0,0,,Heck, you just want easy money \Nwithout working for it.
+Dialogue: 0,0:07:31.51,0:07:35.31,Default,Tokage,0,0,0,,Is that all you have to say \Nafter twenty years, Live?
+Dialogue: 0,0:07:35.31,0:07:39.60,Default,Tokage,0,0,0,,Don't patronize me just because \Nyou're a couple of centuries older.
+Dialogue: 0,0:07:39.60,0:07:40.82,Default,Masaki,0,0,0,,That's a big difference.
+Dialogue: 0,0:07:40.82,0:07:42.44,Default,Tokage,0,0,0,,Hey, you're Masaki, right?
+Dialogue: 0,0:07:42.44,0:07:43.15,Default,Masaki,0,0,0,,What?
+Dialogue: 0,0:07:43.15,0:07:45.77,Default,Tokage,0,0,0,,I saw your little channel.
+Dialogue: 0,0:07:45.77,0:07:48.73,Default,Tokage,0,0,0,,With its lame, stale, cookie-cutter videos.
+Dialogue: 0,0:07:48.73,0:07:50.22,Default,Tokage,0,0,0,,What a joke!
+Dialogue: 0,0:07:50.22,0:07:51.03,Default,Masaki,0,0,0,,Wh-What?!
+Dialogue: 0,0:07:53.05,0:07:55.80,Default,Tokage,0,0,0,,I want a 50/50 split of the profits.
+Dialogue: 0,0:07:55.80,0:07:57.18,Default,Tokage,0,0,0,,Let's work together!
+Dialogue: 0,0:07:57.18,0:07:57.91,Default,Masaki,0,0,0,,What?!
+Dialogue: 0,0:07:57.91,0:08:01.41,Signs,Sign,0,0,0,,{\alpha&H33&\an7\bord0\blur0.2\p1\fscx280\fscy200\pos(18.5,14.5)\c&HE2E6E1&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:07:57.91,0:08:01.41,Signs,Sign,0,0,0,,{\fs20\fnComic Sans MS\an7\c&H545852&\pos(30,23)}Idea Proposals\N1. Pachinko Crossing: New Horizons\N\h\h~The Dead Tree Comes to Life\N\h\h\h\hwith Pachinko Machines!!~\N2. Proverbs on Life\N\h\h~Tokage-sama's Gambling Wisdom~\N3. Everybody Eat Up\N\h\h~Don't Hesitate, Eat!\N\h\h\h\hEat, and You'll See!!!~
+Dialogue: 0,0:07:58.22,0:08:01.81,Default,Tokage,0,0,0,,If you're going to use vampires \Nhiding their powers for NewTube,
+Dialogue: 0,0:08:01.81,0:08:03.79,Default,Tokage,0,0,0,,you'll need outrageous content like this...
+Dialogue: 0,0:08:03.79,0:08:05.64,Default,Tokage,0,0,0,,Hey, what's the big idea?!
+Dialogue: 0,0:08:05.64,0:08:07.31,Default,Masaki,0,0,0,,Outrageous, my ass!
+Dialogue: 0,0:08:07.31,0:08:09.69,Default,Masaki,0,0,0,,All you did was give them weird names!
+Dialogue: 0,0:08:09.69,0:08:11.47,Default,Tokage,0,0,0,,Don't judge a book by its title!
+Dialogue: 0,0:08:11.47,0:08:14.69,Default,Tokage,0,0,0,,Would you discriminate against \Nrice balls based on looks?!
+Dialogue: 0,0:08:14.69,0:08:15.26,Default,Masaki,0,0,0,,What?
+Dialogue: 0,0:08:15.26,0:08:17.49,Default,Tokage,0,0,0,,It's what's inside that's important!
+Dialogue: 0,0:08:16.43,0:08:19.18,Signs,Sign,0,0,0,,{\fnArial Black\c&H333339&\pos(138,10)}Filling
+Dialogue: 0,0:08:16.43,0:08:19.18,Signs,Sign,0,0,0,,{\fnArial Black\c&H333339&\pos(546.5,10)}Filling
+Dialogue: 0,0:08:17.49,0:08:19.18,Default,Tokage,0,0,0,,The {\i1}filling{\i0} is what matters!
+Dialogue: 0,0:08:19.18,0:08:21.10,Default,Tokage,0,0,0,,You're just a brat in your twenties!
+Dialogue: 0,0:08:21.10,0:08:23.29,Default,Tokage,0,0,0,,I've lived two hundred years longer than you,
+Dialogue: 0,0:08:23.29,0:08:25.25,Default,Tokage,0,0,0,,so don't act like you know better!
+Dialogue: 0,0:08:25.25,0:08:29.18,Default,Masaki,0,0,0,,Two hundred years older, \Nand {\i1}this{\i0} is the best you can do?
+Dialogue: 0,0:08:29.69,0:08:32.16,Default,Tokage,0,0,0,,Go on, tell us, then!
+Dialogue: 0,0:08:32.16,0:08:34.45,Default,Tokage,0,0,0,,What amazing ideas do {\i1}you{\i0} have?!
+Dialogue: 0,0:08:35.57,0:08:37.95,Default,Masaki,0,0,0,,Y-You asked for it!
+Dialogue: 0,0:08:39.07,0:08:41.59,DefaultItalics,Masaki,0,0,0,,I said that, but I can't think up squat.
+Dialogue: 0,0:08:42.25,0:08:44.42,Default,Live,0,0,0,,Masaki, panicking will do you no good—
+Dialogue: 0,0:08:44.42,0:08:46.14,Default,Masaki,0,0,0,,I know that!
+Dialogue: 0,0:08:46.14,0:08:47.53,Default,Masaki,0,0,0,,I'm done for.
+Dialogue: 0,0:08:47.53,0:08:49.92,Default,Masaki,0,0,0,,The well's run dry.
+Dialogue: 0,0:08:49.92,0:08:50.71,Default,Live,0,0,0,,All right!
+Dialogue: 0,0:08:51.04,0:08:52.55,Default,Live,0,0,0,,Leave it to me!
+Dialogue: 0,0:08:52.55,0:08:54.55,Default,Live,0,0,0,,Let's go find some content!
+Dialogue: 0,0:08:55.05,0:08:56.39,Default,Live,0,0,0,,Content!
+Dialogue: 0,0:08:56.39,0:08:57.71,Default,Live,0,0,0,,Content!
+Dialogue: 0,0:08:57.71,0:08:59.14,Default,Live,0,0,0,,Content!
+Dialogue: 0,0:08:59.14,0:09:00.44,Default,Live,0,0,0,,Content!
+Dialogue: 0,0:09:00.44,0:09:02.05,Default,Live,0,0,0,,Content!
+Dialogue: 0,0:09:02.05,0:09:02.77,Default,Live,0,0,0,,Conte...
+Dialogue: 0,0:09:03.61,0:09:04.83,Default,Live,0,0,0,,This door...
+Dialogue: 0,0:09:08.89,0:09:10.70,Default,Live,0,0,0,,W-Wrong place!
+Dialogue: 0,0:09:10.70,0:09:12.08,Default,Live,0,0,0,,Let's move on, 'kay?
+Dialogue: 0,0:09:12.08,0:09:12.83,Default,Masaki,0,0,0,,Why?
+Dialogue: 0,0:09:12.83,0:09:15.70,Default,Live,0,0,0,,Don't even worry about it!
+Dialogue: 0,0:09:15.70,0:09:17.28,DefaultItalics,Masaki,0,0,0,,Could this be content?
+Dialogue: 0,0:09:18.16,0:09:20.38,Default,Live,0,0,0,,H-H-Hey, what are you doing?!
+Dialogue: 0,0:09:20.38,0:09:22.36,Default,Masaki,0,0,0,,Content! It's gotta be!
+Dialogue: 0,0:09:23.07,0:09:24.18,DefaultItalics,Masaki,0,0,0,,It's stuck.
+Dialogue: 0,0:09:24.66,0:09:26.41,Default,Masaki,0,0,0,,What stinks?!
+Dialogue: 0,0:09:29.26,0:09:30.36,Default,Masaki,0,0,0,,What's the big idea?!
+Dialogue: 0,0:09:30.36,0:09:31.50,Default,Tokage,0,0,0,,That's {\i1}my{\i0} line!
+Dialogue: 0,0:09:33.09,0:09:34.51,Default,Masaki,0,0,0,,Let us have a peek inside.
+Dialogue: 0,0:09:34.51,0:09:35.32,Default,Tokage,0,0,0,,Nuh-uh!
+Dialogue: 0,0:09:35.32,0:09:36.75,Default,Tokage,0,0,0,,You're invading my privacy!
+Dialogue: 0,0:09:36.75,0:09:38.54,Default,Masaki,0,0,0,,What, do you have something to hide?!
+Dialogue: 0,0:09:38.54,0:09:40.89,Default,Tokage,0,0,0,,O-O-Of course not!
+Dialogue: 0,0:09:41.76,0:09:43.18,Default,Masaki,0,0,0,,Help me, Live!
+Dialogue: 0,0:09:43.18,0:09:43.84,Default,Live,0,0,0,,No!
+Dialogue: 0,0:09:43.84,0:09:46.86,Default,Live,0,0,0,,I've tried so hard to pretend \Nthis room doesn't exist!
+Dialogue: 0,0:09:46.86,0:09:47.87,Default,Masaki,0,0,0,,You can't be serious!
+Dialogue: 0,0:09:47.87,0:09:49.52,Default,Live,0,0,0,,And I'd like to keep it that way!
+Dialogue: 0,0:09:52.07,0:09:52.77,Default,Masaki,0,0,0,,Live.
+Dialogue: 0,0:09:56.70,0:10:00.28,Default,Masaki,0,0,0,,You want to suck me dry, don't you?
+Dialogue: 0,0:10:01.91,0:10:03.29,Default,Masaki,0,0,0,,Pretty please!
+Dialogue: 0,0:10:07.51,0:10:09.75,Default,Masaki,0,0,0,,What in the world?
+Dialogue: 0,0:10:18.35,0:10:19.92,Default,Masaki,0,0,0,,Th-This...
+Dialogue: 0,0:10:19.92,0:10:21.24,Default,Tokage,0,0,0,,Don't look!
+Dialogue: 0,0:10:21.24,0:10:22.93,Default,Tokage,0,0,0,,I'm dying of shame!
+Dialogue: 0,0:10:22.93,0:10:24.10,Default,Masaki,0,0,0,,This is it!
+Dialogue: 0,0:10:24.77,0:10:27.10,Default,Masaki,0,0,0,,How long's this room been like this?
+Dialogue: 0,0:10:27.10,0:10:29.52,Default,Tokage,0,0,0,,Since this house was built, pretty much.
+Dialogue: 0,0:10:29.52,0:10:32.34,Default,Masaki,0,0,0,,This might be just what we need!
+Dialogue: 0,0:10:32.34,0:10:33.61,Default,Masaki,0,0,0,,Live! Help me out here!
+Dialogue: 0,0:10:34.78,0:10:36.11,Default,Live,0,0,0,,Okay.
+Dialogue: 0,0:10:37.11,0:10:38.36,Signs,Sign,0,0,0,,{\blur0.2\fnArial Black\c&H641ACE&\fax-0.48\frz339.2\pos(219,128)\clip(m 177 179 l 319 158 149 88 102 112)}Combustible Waste
+Dialogue: 0,0:10:38.36,0:10:38.86,Signs,Sign,0,0,0,,{\blur0.2\fnArial Black\c&H641ACE&\fax-0.48\frz339.2\pos(219,128)\clip(m 233 171 l 318 157 244 91)}Combustible Waste
+Dialogue: 0,0:10:41.72,0:10:43.69,DefaultTop,Masaki,0,0,0,,The title of our next video is...
+Dialogue: 0,0:10:43.69,0:10:45.68,DefaultTop,Masaki,0,0,0,,"Centuries of Household Trash?!"
+Dialogue: 0,0:10:45.49,0:10:48.12,Signs,Sign,0,0,0,,{\fad(1,473)\fnGeorgia\an7\c&HEBFEEF&\3c&HEBFEEF&\bord3\4c&H367325&\shad2\pos(36,103)\fs20}A Lady's\N{\fnArial Black\bord1.5}Way Filthy Room
+Dialogue: 1,0:10:45.49,0:10:48.12,Signs,Sign,0,0,0,,{\fad(1,473)\fnGeorgia\an7\c&H62CBF9&\3c&H206726&\bord1.5\pos(36,103)\fs20}A Lady's\N{\fnArial Black\3c&HEBFEEF&\c&H31ADA7&}Way {\c&H42C646&}Filthy {\c&H31ADA7&}Room
+Dialogue: 0,0:10:45.68,0:10:47.76,DefaultTop,Masaki,0,0,0,,"What's the Pawn Value \Nof a Lady's Filthy Room?!"
+Dialogue: 0,0:10:46.62,0:10:48.12,Signs,Sign,0,0,0,,{\fad(1,473)\an7\fnArial Black\c&HFCFAFA&\3c&HFCFAFA&\bord3.5\pos(125.5,211)}How Much is Centuries\Nof {\bord3\3c&H487330&\c&H487330&}Trash {\bord3.5\c&HFCFAFA&\3c&HFCFAFA&}Really Worth?
+Dialogue: 1,0:10:46.62,0:10:48.12,Signs,Sign,0,0,0,,{\fad(1,473)\an7\fnArial Black\c&HFCFAFA&\3c&H487330&\bord2\pos(125.5,211)}How Much is Centuries\Nof {\c&HF71DDC&\3c&HFCFAFA&}T{\c&HF5001D&}r{\c&HF71DDC&}a{\c&HF5001D&}s{\c&HF71DDC&}h {\c&HFCFAFA&\3c&H487330&}Really {\c&H85E8FB&}Worth?
+Dialogue: 0,0:10:47.76,0:10:48.42,Default,Ichiko,0,0,0,,Sensei!
+Dialogue: 0,0:10:48.42,0:10:50.04,Default,Ichiko,0,0,0,,Is there really a demand for that?
+Dialogue: 0,0:10:51.42,0:10:52.16,Default,Masaki,0,0,0,,Live!
+Dialogue: 0,0:10:52.16,0:10:55.04,Default,Live,0,0,0,,Cleaning videos have their die-hard fans!
+Dialogue: 0,0:10:55.04,0:10:58.41,Default,Live,0,0,0,,Throwing out piled-up trash is\N already plenty entertaining,
+Dialogue: 0,0:10:58.41,0:11:01.68,Default,Live,0,0,0,,but Tokage's built up \Nso much over the years,
+Dialogue: 0,0:11:01.68,0:11:03.93,Default,Live,0,0,0,,we might end up stumbling \Nacross some real treasure!
+Dialogue: 0,0:11:04.20,0:11:06.02,Default,Masaki,0,0,0,,In other words, we can do big numbers,
+Dialogue: 0,0:11:06.02,0:11:08.57,Default,Masaki,0,0,0,,roll in the dough, {\i1}and{\i0} get this room clean.
+Dialogue: 0,0:11:08.57,0:11:10.48,Default,Masaki,0,0,0,,It's a win-win-win situation!
+Dialogue: 0,0:11:10.48,0:11:12.65,Default,Masaki,0,0,0,,Now {\i1}that's{\i0} what I call content!
+Dialogue: 0,0:11:12.65,0:11:14.65,Default,Tokage,0,0,0,,W-Wait a minute.
+Dialogue: 0,0:11:14.65,0:11:16.90,Default,Tokage,0,0,0,,You're saying my garbage is worth money?
+Dialogue: 0,0:11:16.90,0:11:17.78,Default,Masaki,0,0,0,,That's right.
+Dialogue: 0,0:11:17.78,0:11:18.65,Default,Masaki,0,0,0,,Maybe.
+Dialogue: 0,0:11:18.65,0:11:19.53,Default,Masaki,0,0,0,,Definitely!
+Dialogue: 0,0:11:20.86,0:11:21.80,Default,Tokage,0,0,0,,Hell yeah!
+Dialogue: 0,0:11:21.80,0:11:23.49,Default,Tokage,0,0,0,,Let's get this show on the road!
+Dialogue: 0,0:11:28.26,0:11:31.62,Default,Ichiko,0,0,0,,Hey, everyone, you need to \Nseparate all of this trash!
+Dialogue: 0,0:11:31.62,0:11:33.94,Default,Tokage,0,0,0,,Huh? What now, Ichiko?
+Dialogue: 0,0:11:33.94,0:11:35.74,Default,Tokage,0,0,0,,We're sorting everything just fine!
+Dialogue: 0,0:11:35.74,0:11:36.72,Default,Ichiko,0,0,0,,Listen up!
+Dialogue: 0,0:11:36.72,0:11:39.74,Default,Ichiko,0,0,0,,You need to carefully separate trash \Nfor a greener Earth!
+Dialogue: 0,0:11:39.74,0:11:44.20,Default,Fu,0,0,0,,But there are plastic bottles in your bag \Nof combustible waste, Ichiko-chan.
+Dialogue: 0,0:11:46.36,0:11:47.73,Default,Ichiko,0,0,0,,What are you going on about?
+Dialogue: 0,0:11:47.73,0:11:49.53,Default,Ichiko,0,0,0,,Plastic bottles count as organic waste!
+Dialogue: 0,0:11:49.53,0:11:51.96,Default,Ichiko,0,0,0,,I saw it on TV, you know!
+Dialogue: 0,0:11:52.44,0:11:56.19,Default,Ichiko,0,0,0,,When you burn plastic bottles, \Nthe polypolyvinyl turns the flame green,
+Dialogue: 0,0:11:56.19,0:11:58.57,Default,Ichiko,0,0,0,,which makes it a green initiative!
+Dialogue: 0,0:11:58.57,0:12:01.19,Signs,Sign,0,0,0,,{\fad(523,1)\fnArial Black\frz6.08\3c&H71A421&\bord2\4c&HFFFFFF&\shad2\pos(334.5,94.5)}Waste Separation Chart
+Dialogue: 0,0:11:58.57,0:12:01.19,Signs,Sign,0,0,0,,{\fad(523,1)\bord2\fs12\frz6.08\3c&H5216CD&\pos(159.5,192.5)}Combustible
+Dialogue: 0,0:11:58.57,0:12:01.19,Signs,Sign,0,0,0,,{\fad(523,1)\fscx80\bord2\fs10\frz6.08\3c&HD11B3A&\pos(228.77,185.93)}Non-Combustible
+Dialogue: 0,0:11:58.57,0:12:01.19,Signs,Sign,0,0,0,,{\fad(523,1)\bord2\fs12\frz6.08\3c&HDD8A2D&\pos(379.54,168.36)}Recyclable
+Dialogue: 0,0:11:58.57,0:12:01.19,Signs,Sign,0,0,0,,{\fad(523,1)\bord2\fs12\frz6.08\3c&H890A81&\pos(535.81,153.29)}Hazardous
+Dialogue: 0,0:11:58.57,0:12:01.19,Signs,Sign,0,0,0,,{\fad(523,1)\bord2\fs10\frz6.08\3c&H9E75E0&\pos(169.31,260.29)}Organic waste\NWastepaper\NWood chips\Netc.
+Dialogue: 0,0:11:58.57,0:12:01.19,Signs,Sign,0,0,0,,{\fad(523,1)\bord2\fs10\frz6.08\3c&HE08090&\pos(233.58,226.22)}Ceramics\NMetal items
+Dialogue: 0,0:11:58.57,0:12:01.19,Signs,Sign,0,0,0,,{\fad(523,1)\bord2\fs10\frz6.08\3c&HDFBD88&\pos(298.85,219.65)}Bottles\NCans
+Dialogue: 0,0:11:58.57,0:12:01.19,Signs,Sign,0,0,0,,{\fad(523,1)\bord2\fs10\frz6.08\3c&HE0A154&\pos(355.12,214.58)}Plastic\Nbottles
+Dialogue: 0,0:11:58.57,0:12:01.19,Signs,Sign,0,0,0,,{\fad(523,1)\bord2\fs10\frz6.08\3c&HDFBD88&\pos(415.89,207.01)}Plastic\Ncontainers
+Dialogue: 0,0:11:58.57,0:12:01.19,Signs,Sign,0,0,0,,{\fad(523,1)\bord2\fs10\frz6.08\3c&HE0A154&\pos(474.16,201.94)}Used paper\NCardboard\NOld clothes
+Dialogue: 0,0:11:58.57,0:12:01.19,Signs,Sign,0,0,0,,{\fad(523,1)\bord2\fs10\frz6.08\3c&HC37DBA&\pos(530.93,195.87)}Batteries\NFluorescent\Nlamps\NSmall\Nappliances
+Dialogue: 0,0:11:59.08,0:12:01.19,Default,Fu,0,0,0,,Plastic bottles are recyclable waste.
+Dialogue: 0,0:12:03.45,0:12:05.04,Default,Ichiko,0,0,0,,Whoopsie!
+Dialogue: 0,0:12:05.04,0:12:06.83,Default,Ichiko,0,0,0,,I forgot I can't read kanji—
+Dialogue: 0,0:12:07.72,0:12:09.47,Default,Live,0,0,0,,Hey, how old is this?
+Dialogue: 0,0:12:09.47,0:12:10.74,Default,Tokage,0,0,0,,I forget.
+Dialogue: 0,0:12:10.74,0:12:12.49,Default,Tokage,0,0,0,,I think about eighty years?
+Dialogue: 0,0:12:12.49,0:12:13.53,Default,Live,0,0,0,,Wow!
+Dialogue: 0,0:12:13.53,0:12:15.23,Default,Live,0,0,0,,It might be worth a lot.
+Dialogue: 0,0:12:15.23,0:12:17.40,Default,Tokage,0,0,0,,Seriously? This thing?
+Dialogue: 0,0:12:18.01,0:12:19.84,Default,Tokage,0,0,0,,M-My money...
+Dialogue: 0,0:12:19.84,0:12:22.12,Default,Ichiko,0,0,0,,Tokage, what about this?
+Dialogue: 0,0:12:22.12,0:12:22.92,Default,Tokage,0,0,0,,Oh!
+Dialogue: 0,0:12:22.92,0:12:25.00,Default,Tokage,0,0,0,,That teacup used to belong \Nto Sen-what's-his-face—
+Dialogue: 0,0:12:25.00,0:12:26.22,Default,Fu,0,0,0,,Ack! A bug!
+Dialogue: 0,0:12:28.54,0:12:31.37,Default,Live,0,0,0,,I think this... and this are junk.
+Dialogue: 0,0:12:31.87,0:12:33.77,Default,Masaki,0,0,0,,So much for treasure.
+Dialogue: 0,0:12:34.17,0:12:37.56,Default,Masaki,0,0,0,,Wait, we've been at it for five hours, \Nand it's still {\i1}this{\i0} bad?
+Dialogue: 0,0:12:37.98,0:12:38.85,DefaultItalics,Masaki,0,0,0,,Damn it.
+Dialogue: 0,0:12:38.85,0:12:41.46,DefaultItalics,Masaki,0,0,0,,It really {\i0}is{\i1} just worthless trash!
+Dialogue: 0,0:12:41.46,0:12:43.87,DefaultItalics,Masaki,0,0,0,,If we can't pawn this off, \Nhow about a super-endurance—
+Dialogue: 0,0:12:43.87,0:12:44.95,Default,Tokage,0,0,0,,Hey, hey!
+Dialogue: 0,0:12:44.95,0:12:46.67,Default,Tokage,0,0,0,,Be careful what you throw out!
+Dialogue: 0,0:12:46.67,0:12:49.71,Default,Ichiko,0,0,0,,But it's all rotted away or broken!
+Dialogue: 0,0:12:49.71,0:12:51.25,Default,Tokage,0,0,0,,You don't know that yet!
+Dialogue: 0,0:12:51.25,0:12:54.06,Default,Tokage,0,0,0,,If it's worth anything, we need to \Nmake sure we get our money!
+Dialogue: 0,0:12:54.06,0:12:55.00,Default,Masaki,0,0,0,,Oh, sorry.
+Dialogue: 0,0:12:55.00,0:12:56.93,Default,Masaki,0,0,0,,Forget all that for now.
+Dialogue: 0,0:12:56.93,0:12:59.80,Default,Masaki,0,0,0,,I'm changing it to a\N super-endurance cleaning video.
+Dialogue: 0,0:13:00.13,0:13:01.29,Default,Tokage,0,0,0,,What?
+Dialogue: 0,0:13:02.26,0:13:03.30,Default,Tokage,0,0,0,,You...
+Dialogue: 0,0:13:03.71,0:13:05.68,Default,Tokage,0,0,0,,You... You...
+Dialogue: 0,0:13:05.68,0:13:07.09,Default,Tokage,0,0,0,,You've gotta be kidding me!
+Dialogue: 0,0:13:07.09,0:13:08.67,Default,Live,0,0,0,,Tokage! We're filming!
+Dialogue: 0,0:13:08.67,0:13:09.89,Default,Tokage,0,0,0,,Money! Money!
+Dialogue: 0,0:13:09.89,0:13:13.26,Default,Tokage,0,0,0,,I want some damn money!
+Dialogue: 0,0:13:13.26,0:13:14.29,Default,Live,0,0,0,,Oh, no!
+Dialogue: 0,0:13:14.29,0:13:15.29,Default,Live,0,0,0,,Ichiko! Fu!
+Dialogue: 0,0:13:15.29,0:13:16.50,Default,Live,0,0,0,,Open the windows!
+Dialogue: 0,0:13:24.82,0:13:27.90,Default,Live,0,0,0,,Cool it already!
+Dialogue: 0,0:13:28.86,0:13:30.91,Default,Tokage,0,0,0,,Money!
+Dialogue: 0,0:13:31.63,0:13:32.87,Default,Masaki,0,0,0,,Wow.
+Dialogue: 0,0:13:35.05,0:13:36.54,Default,Live,0,0,0,,You asked for it!
+Dialogue: 0,0:13:44.88,0:13:48.43,Default,Ichiko,0,0,0,,Tokage doesn't stand a chance \Nagainst Live-sama!
+Dialogue: 0,0:13:56.74,0:13:58.01,Default,Live,0,0,0,,All right!
+Dialogue: 0,0:14:01.64,0:14:02.59,Default,Masaki,0,0,0,,Ugh!
+Dialogue: 0,0:14:02.59,0:14:04.57,Default,Yuki,0,0,0,,I see you're shooting a video.
+Dialogue: 0,0:14:04.57,0:14:05.63,Default,Yuki,0,0,0,,Of our powers.
+Dialogue: 0,0:14:05.63,0:14:07.08,Default,Masaki,0,0,0,,Um...
+Dialogue: 0,0:14:08.10,0:14:09.66,Default,Masaki,0,0,0,,Shigeyuki-san, you see—
+Dialogue: 0,0:14:09.66,0:14:10.76,Default,Yuki,0,0,0,,It's Yuki!
+Dialogue: 0,0:14:10.76,0:14:12.46,Default,Yuki,0,0,0,,Don't you dare call me Shigeyuki, human!
+Dialogue: 0,0:14:13.20,0:14:13.92,Default,Ichiko,0,0,0,,Masaki!
+Dialogue: 0,0:14:13.92,0:14:16.30,Default,Ichiko,0,0,0,,Yuki-sama doesn't like being called Shigeyuki!
+Dialogue: 0,0:14:16.75,0:14:18.50,Default,Ichiko,0,0,0,,Her real name may be Shigeyuki, but...
+Dialogue: 0,0:14:18.50,0:14:19.25,Default,Yuki,0,0,0,,You, there!
+Dialogue: 0,0:14:19.25,0:14:20.33,Default,Yuki,0,0,0,,Shut your trap!
+Dialogue: 0,0:14:20.33,0:14:22.00,Default,Live,0,0,0,,Whoa, whoa. Let's calm down.
+Dialogue: 0,0:14:22.00,0:14:23.31,Default,Yuki,0,0,0,,I warned you, didn't I?
+Dialogue: 0,0:14:23.31,0:14:26.09,Default,Yuki,0,0,0,,That you'd be erased \Nif you made videos of our powers.
+Dialogue: 0,0:14:26.09,0:14:28.59,Default,Live,0,0,0,,I may have used my powers, \Nbut that was unavoidable!
+Dialogue: 0,0:14:28.59,0:14:30.09,Default,Yuki,0,0,0,,I won't take any excuses!
+Dialogue: 0,0:14:31.11,0:14:32.97,Default,Yuki,0,0,0,,Hand over the video data.
+Dialogue: 0,0:14:33.30,0:14:34.72,Default,Masaki,0,0,0,,I-I refuse.
+Dialogue: 0,0:14:34.99,0:14:36.79,Default,Yuki,0,0,0,,Hand it over.
+Dialogue: 0,0:14:36.79,0:14:39.10,Default,Yuki,0,0,0,,Or would you rather \NI destroyed the entire camera?
+Dialogue: 0,0:14:44.15,0:14:45.25,Default,Live,0,0,0,,Masaki...
+Dialogue: 0,0:14:45.25,0:14:46.46,Default,Tokage,0,0,0,,Hey, what's this?
+Dialogue: 0,0:14:46.46,0:14:47.36,Default,Tokage,0,0,0,,The hell's going on?
+Dialogue: 0,0:14:47.62,0:14:49.16,Default,Yuki,0,0,0,,See for yourself.
+Dialogue: 0,0:14:50.42,0:14:52.22,Default,Tokage,0,0,0,,My money!
+Dialogue: 0,0:14:52.22,0:14:53.14,Default,Yuki,0,0,0,,Fu.
+Dialogue: 0,0:14:53.14,0:14:55.57,Default,Yuki,0,0,0,,There's another camera in that \Nfilthy room, isn't there?
+Dialogue: 0,0:14:55.57,0:14:56.45,Default,Yuki,0,0,0,,Bring it here.
+Dialogue: 0,0:14:56.45,0:14:57.25,Default,Fu,0,0,0,,Yes!
+Dialogue: 0,0:15:05.35,0:15:07.01,Default,Yuki,0,0,0,,Hey, let go of it!
+Dialogue: 0,0:15:07.01,0:15:08.62,Default,Masaki,0,0,0,,No way!
+Dialogue: 0,0:15:08.62,0:15:12.01,Default,Masaki,0,0,0,,If I hand this over, everyone's hard \Nwork will have been for nothing!
+Dialogue: 0,0:15:12.27,0:15:13.48,Default,Live,0,0,0,,Masaki...
+Dialogue: 0,0:15:13.48,0:15:14.26,Default,Tokage,0,0,0,,Money...
+Dialogue: 0,0:15:15.21,0:15:17.38,Default,Yuki,0,0,0,,You really don't know when to quit.
+Dialogue: 0,0:15:17.38,0:15:20.77,Default,Yuki,0,0,0,,Oh, yes. I never did get a chance \Nto thank you for last time.
+Dialogue: 0,0:15:25.65,0:15:28.94,Default,Yuki,0,0,0,,I can still smell it to this day!
+Dialogue: 0,0:15:29.49,0:15:33.16,DefaultTop,Tokage,0,0,0,,I'll stop asking for free item coupons! \NI'm fine with just the upgrade coupons!
+Dialogue: 0,0:15:29.49,0:15:34.16,Default,Live,0,0,0,,Stop it! I promise we won't use our powers \Nwhen filming again, so please don't!
+Dialogue: 0,0:15:33.16,0:15:34.50,DefaultTop,Yuki,0,0,0,,Get off of me!
+Dialogue: 0,0:15:34.50,0:15:35.84,Default,Live,0,0,0,,I'm begging you, Yuki.
+Dialogue: 0,0:15:35.84,0:15:37.29,Default,Tokage,0,0,0,,Pretty please!
+Dialogue: 0,0:15:37.86,0:15:40.04,Default,Yuki,0,0,0,,Are you being serious?
+Dialogue: 0,0:15:43.21,0:15:44.42,Default,Yuki,0,0,0,,Fine.
+Dialogue: 0,0:15:48.99,0:15:50.62,Default,Yuki,0,0,0,,No means no!
+Dialogue: 0,0:15:50.62,0:15:53.07,Default,Yuki,0,0,0,,You won't escape your punishment!
+Dialogue: 0,0:15:53.07,0:15:54.67,Default,Yuki,0,0,0,,Guilty!
+Dialogue: 0,0:15:56.77,0:15:58.88,Default,Live,0,0,0,,Yuki, what's this?
+Dialogue: 0,0:15:58.88,0:16:03.19,Default,Yuki,0,0,0,,If you finish all of it, I won't tell \NMother about what happened today.
+Dialogue: 0,0:16:03.19,0:16:06.03,Default,Yuki,0,0,0,,But if you happen to leave any...
+Dialogue: 0,0:16:06.03,0:16:08.79,Default,Tokage,0,0,0,,What if we eat every last one, then?
+Dialogue: 0,0:16:09.48,0:16:11.09,Default,Yuki,0,0,0,,I just said I won't tell Mother—
+Dialogue: 0,0:16:11.09,0:16:11.96,Default,Tokage,0,0,0,,That's not enough.
+Dialogue: 0,0:16:11.96,0:16:12.45,Default,Yuki,0,0,0,,What?
+Dialogue: 0,0:16:12.45,0:16:14.58,Default,Tokage,0,0,0,,Not enough at all.
+Dialogue: 0,0:16:14.58,0:16:18.68,Default,Tokage,0,0,0,,You do realize we ended up \Nhaving to scrap all of our footage?
+Dialogue: 0,0:16:18.68,0:16:20.45,Default,Tokage,0,0,0,,Footage that would have made us money!
+Dialogue: 0,0:16:20.85,0:16:22.08,Default,Yuki,0,0,0,,And what's your point?
+Dialogue: 0,0:16:22.58,0:16:25.17,Default,Tokage,0,0,0,,If we eat all of this, \NI want a fat stack of cash!
+Dialogue: 0,0:16:25.17,0:16:26.82,Default,Yuki,0,0,0,,Absolutely not!
+Dialogue: 0,0:16:27.62,0:16:28.65,Default,Tokage,0,0,0,,Say, Yuki...
+Dialogue: 0,0:16:28.65,0:16:33.41,Default,Tokage,0,0,0,,We don't use our vampire powers \Nwhen we eat, do we?
+Dialogue: 0,0:16:33.41,0:16:34.34,Default,Yuki,0,0,0,,I suppose not.
+Dialogue: 0,0:16:34.34,0:16:37.60,Default,Tokage,0,0,0,,Which means it's okay \Nto take a video of it, right?
+Dialogue: 0,0:16:37.92,0:16:39.85,Default,Yuki,0,0,0,,Huh? I guess...
+Dialogue: 0,0:16:43.49,0:16:44.35,Default,Masaki,0,0,0,,I'm filming this?
+Dialogue: 0,0:16:44.35,0:16:46.30,Default,Tokage,0,0,0,,Everybody eat up.
+Dialogue: 0,0:16:46.30,0:16:48.73,Default,Tokage,0,0,0,,Don't hesitate, eat. Eat, and you'll see.
+Dialogue: 0,0:16:49.77,0:16:51.23,Signs,Sign,0,0,0,,{\fad(280,1)\alpha&H33&\an7\bord0\blur0.2\p1\pos(18.5,14.5)\c&HE2E6E1&\fscx207\fscy83}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:16:49.77,0:16:51.23,Signs,Sign,0,0,0,,{\fad(280,1)\fs20\fnComic Sans MS\an7\c&H545852&\pos(30,23)}3. Everybody Eat Up\N\h\h~Don't Hesitate, Eat!\N\h\h\h\hEat, and You'll See!!!~
+Dialogue: 0,0:16:51.23,0:16:52.17,Default,Live,0,0,0,,Masaki!
+Dialogue: 0,0:16:52.17,0:16:53.37,Default,Live,0,0,0,,We've gotta do it!
+Dialogue: 0,0:16:53.37,0:16:55.94,Default,Live,0,0,0,,Leave it to me when it comes \Nto food... To mukbang!
+Dialogue: 0,0:16:55.94,0:16:56.99,Default,Masaki,0,0,0,,Hold that thought!
+Dialogue: 0,0:16:56.99,0:16:59.96,Default,Masaki,0,0,0,,There's nothing compelling about a \Nvideo of you eating a pile of raw garlic!
+Dialogue: 0,0:16:59.96,0:17:01.34,Default,Tokage,0,0,0,,Whatever! Just film it!
+Dialogue: 0,0:17:01.34,0:17:05.24,Default,Tokage,0,0,0,,If it flops, I'll beg on my knees, \Nor stomach, or whatever you want!
+Dialogue: 0,0:17:05.24,0:17:07.55,Default,Yuki,0,0,0,,I don't care! Get to eating, already!
+Dialogue: 0,0:17:07.55,0:17:09.67,DefaultTop,Ichiko,0,0,0,,Live-sama!
+Dialogue: 0,0:17:08.33,0:17:11.18,Default,Live,0,0,0,,Mukbang is fun, mukbang is fun...
+Dialogue: 0,0:17:11.18,0:17:11.87,Default,Live,0,0,0,,Okay!
+Dialogue: 0,0:17:11.87,0:17:13.05,Default,Live,0,0,0,,Here we go, everyone!
+Dialogue: 0,0:17:13.05,0:17:14.51,Default,Tokage,0,0,0,,Roll camera!
+Dialogue: 0,0:17:17.68,0:17:20.03,Default,Live,0,0,0,,Good morning from the dead of night!
+Dialogue: 0,0:17:20.03,0:17:22.40,Default,Live,0,0,0,,Mayonaka Punch! Live here...
+Dialogue: 0,0:17:22.82,0:17:24.20,Default,Live,0,0,0,,F-For today's video...
+Dialogue: 0,0:17:24.20,0:17:28.30,Default,Tokage,0,0,0,,Today's segment is, "Everybody Eat Up! \NDon't Hesitate, Eat! Eat, and You'll See!"
+Dialogue: 0,0:17:28.30,0:17:32.38,Default,Tokage,0,0,0,,All right, everyone! Time to confront \Nthe food we all hate: garlic!
+Dialogue: 0,0:17:33.29,0:17:34.80,Default,Tokage,0,0,0,,Off we go!
+Dialogue: 0,0:17:41.76,0:17:44.20,Default,Ichiko,0,0,0,,We're in this together, Live-sama!
+Dialogue: 0,0:17:48.25,0:17:49.49,Default,Masaki,0,0,0,,H-Hey!
+Dialogue: 0,0:17:49.49,0:17:51.09,Default,Masaki,0,0,0,,Act like it's a {\i1}little{\i0} tasty!
+Dialogue: 0,0:17:51.09,0:17:52.53,Default,Yuki,0,0,0,,That's simply not possible.
+Dialogue: 0,0:17:52.53,0:17:53.82,Default,Yuki,0,0,0,,They're vampires.
+Dialogue: 0,0:17:54.26,0:17:55.88,Default,Masaki,0,0,0,,Then force a smile, at least!
+Dialogue: 0,0:18:07.71,0:18:09.70,Default,Tokage,0,0,0,,How're you holding up, Live-shi?
+Dialogue: 0,0:18:09.70,0:18:12.25,Default,Tokage,0,0,0,,Don't hesitate to dig into that garlic.
+Dialogue: 0,0:18:12.25,0:18:15.19,Default,Tokage,0,0,0,,How about you, Ichiko-shi?
+Dialogue: 0,0:18:15.19,0:18:17.66,Default,Tokage,0,0,0,,Doing good, Fu-shi?
+Dialogue: 0,0:18:22.53,0:18:24.59,Default,Fu,0,0,0,,Cuckoo! Cuckoo!
+Dialogue: 0,0:18:24.59,0:18:26.20,Default,Fu,0,0,0,,Bing-bong!
+Dialogue: 0,0:18:26.20,0:18:28.38,Default,Fu,0,0,0,,Good morning from Fu-chan—
+Dialogue: 0,0:18:31.29,0:18:34.40,Default,Fu,0,0,0,,Cuckoo! Cuckoo!
+Dialogue: 0,0:18:34.40,0:18:38.28,Default,Ichiko,0,0,0,,Y'know, I used to think hand lotion \Nwas the same thing as toothpaste.
+Dialogue: 0,0:18:38.28,0:18:42.12,Default,Ichiko,0,0,0,,Then I realized that was the fate of the \Nold lady in the Grimms' fairy tale,
+Dialogue: 0,0:18:42.12,0:18:43.93,Default,Ichiko,0,0,0,,to be born from a duck egg—
+Dialogue: 0,0:18:42.12,0:18:43.93,DefaultTop,Masaki,0,0,0,,Ichiko, you're out.
+Dialogue: 0,0:18:51.10,0:18:52.19,Default,Ichiko,0,0,0,,What a shocker.
+Dialogue: 0,0:18:52.19,0:18:52.97,Default,Ichiko,0,0,0,,Slash-and-burn?
+Dialogue: 0,0:18:52.97,0:18:54.78,Default,Ichiko,0,0,0,,I prefer chateaubriand, thanks.
+Dialogue: 0,0:18:54.78,0:18:56.11,Default,Masaki,0,0,0,,Make the peanut gallery pipe down!
+Dialogue: 0,0:18:59.61,0:19:03.72,Default,Live,0,0,0,,Garlic is yummy. Garlic is yummy. \NGarlic is yummy.
+Dialogue: 0,0:19:04.77,0:19:05.82,Default,Live,0,0,0,,Oh, look!
+Dialogue: 0,0:19:05.82,0:19:09.12,Default,Live,0,0,0,,I spy a cutie-pie with tasty-looking blood!
+Dialogue: 0,0:19:18.54,0:19:19.73,Default,Masaki,0,0,0,,That's enough.
+Dialogue: 0,0:19:19.73,0:19:20.59,Default,Masaki,0,0,0,,I'm stopping the camera.
+Dialogue: 0,0:19:20.59,0:19:22.01,Default,Tokage,0,0,0,,You can't be serious!
+Dialogue: 0,0:19:22.01,0:19:24.19,Default,Tokage,0,0,0,,If I quit here, I can't call myself a gambler!
+Dialogue: 0,0:19:24.19,0:19:25.73,Default,Masaki,0,0,0,,We're not gambling jack here!
+Dialogue: 0,0:19:25.73,0:19:27.72,Default,Masaki,0,0,0,,And this video stinks!
+Dialogue: 0,0:19:27.72,0:19:29.27,Default,Masaki,0,0,0,,It's just a miserable sight!
+Dialogue: 0,0:19:30.52,0:19:32.20,Default,Tokage,0,0,0,,Dead or alive.
+Dialogue: 0,0:19:32.20,0:19:34.82,Default,Tokage,0,0,0,,An extreme gamble with my life on the line!
+Dialogue: 0,0:19:34.82,0:19:37.00,Default,Tokage,0,0,0,,Just watch me!
+Dialogue: 0,0:19:38.35,0:19:39.63,Default,Masaki,0,0,0,,Tokage...
+Dialogue: 0,0:19:44.26,0:19:46.97,Default,Tokage,0,0,0,,Whammo!
+Dialogue: 0,0:19:47.47,0:19:51.40,DefaultItalics,Tokage,0,0,0,,I have not one scrap of garlic \Nleft on my entire plate!
+Dialogue: 0,0:19:57.80,0:20:00.10,Default,Yuki,0,0,0,,I swear, what a silly girl you are.
+Dialogue: 0,0:20:03.76,0:20:06.04,DefaultItalics,Masaki,0,0,0,,None of this makes any sense.
+Dialogue: 0,0:20:06.04,0:20:07.90,DefaultItalics,Masaki,0,0,0,,Total nonsense.
+Dialogue: 0,0:20:10.52,0:20:13.98,Signs,Sign,0,0,0,,{\fad(1,477)\fnArial Black\pos(316,68)\c&H21D7F2&\3c&H00004E&\bord2}Tokage {\alpha&HFF&\t(606,648,\alpha&H00&)}Cleans\N{\alpha&HFF&\t(1232,1273,\alpha&H00&)}Her {\alpha&HFF&\t(1857,1899,\alpha&H00&)}Plate
+Dialogue: 0,0:20:13.52,0:20:15.81,Signs,Sign,0,0,0,,{\blur2\fad(484,346)\an7\fnArial Black\pos(256.5,181)}It's very dangerous for normal people\Nto eat large amounts of raw garlic.
+Dialogue: 0,0:20:13.52,0:20:15.81,Signs,Sign,0,0,0,,{\blur2\fad(484,346)\an7\fnArial Black\pos(60,280.5)}Don't try this at home <3
+Dialogue: 1,0:20:13.52,0:20:15.81,Signs,Sign,0,0,0,,{\fad(484,346)\an7\fnArial Black\pos(256.5,181)}It's very dangerous for normal people\Nto eat large amounts of raw garlic.
+Dialogue: 1,0:20:13.52,0:20:15.81,Signs,Sign,0,0,0,,{\fad(484,346)\an7\fnArial Black\pos(60,280.5)}Don't try this at home <3
+Dialogue: 0,0:20:15.17,0:20:16.77,Default,Live,0,0,0,,There, you're done.
+Dialogue: 0,0:20:16.77,0:20:19.12,Default,Ichiko,0,0,0,,She didn't even turn into pure-white ash yet!
+Dialogue: 0,0:20:19.12,0:20:20.98,Default,Live,0,0,0,,You've been rewatching it for three days!
+Dialogue: 0,0:20:20.98,0:20:23.40,Default,Ichiko,0,0,0,,It's still funny every single time!
+Dialogue: 0,0:20:23.88,0:20:28.85,Default,Tokage,0,0,0,,Well, I {\i1}did{\i0} come up with the idea, \Nhad the video shot, and had it edited.
+Dialogue: 0,0:20:28.85,0:20:31.53,Default,Tokage,0,0,0,,Of course it's funny.
+Dialogue: 0,0:20:31.53,0:20:34.29,Default,Tokage,0,0,0,,My own genius scares me sometimes.
+Dialogue: 0,0:20:34.29,0:20:37.93,Default,Fu,0,0,0,,But it's purely by coincidence \Nthat that video...
+Dialogue: 0,0:20:37.93,0:20:39.46,Default,Tokage,0,0,0,,Just look at the numbers.
+Dialogue: 0,0:20:39.46,0:20:41.32,Default,Tokage,0,0,0,,Cold, hard hits.
+Dialogue: 0,0:20:41.80,0:20:44.30,Signs,Sign,0,0,0,,{\bord2\c&HC6A9AB&\fs12\3c&HFAFEFB&\pos(216,308)}Mayonaka Punch
+Dialogue: 0,0:20:41.80,0:20:44.30,Signs,Sign,0,0,0,,{\bord3\fs12\c&HFAFEFB&\3c&HDF5DE3&\pos(318,283)}12k views
+Dialogue: 0,0:20:41.80,0:20:44.30,Signs,Sign,0,0,0,,{\bord2\c&HC6A9AB&\fs12\3c&HFAFEFB&\pos(399.5,308)}1 week ago
+Dialogue: 0,0:20:41.80,0:20:44.30,Signs,Sign,0,0,0,,{\bord3\fs18\c&HFAFEFB&\3c&HE1309A&\pos(324,316.5)}Subscribe
+Dialogue: 0,0:20:41.80,0:20:44.47,Signs,Sign,0,0,0,,{\fad(1,186)\fs24\fnArial Black\c&H000000&\3c&H000000&\4c&H000000&\bord4\shad1.5\pos(423,90.5)\fax0.05}Endless {\c&H291EA8&\fs30\fax0}Garlic {\c&HC9065B&\fs24\fax-0.05}Hell
+Dialogue: 1,0:20:41.80,0:20:44.47,Signs,Sign,0,0,0,,{\fad(1,186)\fs24\fnArial Black\c&HC9065B&\3c&HFDFDFB&\bord2.5\pos(423,90.5)\fax0.05}Endless {\c&H291EA8&\fs30\fax0}Garlic {\c&HC9065B&\fs24\fax-0.05}Hell
+Dialogue: 0,0:20:41.80,0:20:44.47,Signs,Sign,0,0,0,,{\fad(1,186)\fnArial Black\c&H5D23CD&\3c&HFDFDFB&\bord2.5\pos(330,167)\fax0.1}D{\c&H6722C5&\fax0.09}o{\c&H7122BD&\fax0.08}i{\c&H7B22B5&\fax0.07}n{\c&H8521AD&\fax0.06}g {\c&H99209E&\fax0.04}t{\c&HA32096&\fax0.03}h{\c&HAD1F8E&\fax0.02}e {\c&HC11E7E&\fax0}I{\c&HB61F87&\fax-0.011}m{\c&HAB1F90&\fax-0.022}p{\c&HA02098&\fax-0.033}o{\c&H9520A1&\fax-0.044}s{\c&H8921AA&\fax-0.056}s{\c&H7E21B3&\fax-0.067}i{\c&H7322BB&\fax-0.078}b{\c&H6822C4&\fax-0.089}l{\fax-0.1\c&H5D23CD&}e
+Dialogue: 0,0:20:41.80,0:20:44.47,Signs,Sign,0,0,0,,{\fad(1,186)\bord2\c&H605F5F&\fs12\pos(333,243)\3c&HFAFEFB&}Everybody Eat Up ~Don't Hesitate, Eat! Eat, and You'll See!!!~
+Dialogue: 0,0:20:42.21,0:20:44.97,DefaultTop,Fu,0,0,0,,Wow, 12,000 views.
+Dialogue: 0,0:20:44.97,0:20:49.30,Default,Tokage,0,0,0,,Easy peasy, lemon squeezy for me!
+Dialogue: 0,0:20:49.74,0:20:51.06,Default,Live,0,0,0,,Oh, they're here.
+Dialogue: 0,0:20:51.33,0:20:52.32,Default,Mover,0,0,0,,Heya!
+Dialogue: 0,0:20:52.32,0:20:54.06,Default,Live,0,0,0,,Second floor, room in the back.
+Dialogue: 0,0:20:54.06,0:20:56.50,Default,Ichiko,0,0,0,,Um, what's all this, exactly?
+Dialogue: 0,0:20:56.50,0:20:58.76,Default,Live,0,0,0,,Huh? Didn't I mention it?
+Dialogue: 0,0:20:58.76,0:21:01.33,Default,Live,0,0,0,,Starting today, Masaki's moving in with us.
+Dialogue: 0,0:21:01.33,0:21:02.19,Default,Masaki,0,0,0,,I can't wait!
+Dialogue: 0,0:21:02.19,0:21:03.46,Default,Ichiko,0,0,0,,What?!
+Dialogue: 0,0:21:03.46,0:21:05.20,Default,Fu,0,0,0,,But why now?
+Dialogue: 0,0:21:05.62,0:21:08.29,Default,Masaki,0,0,0,,Now that we have momentum, \NI can't let this chance slip away!
+Dialogue: 0,0:21:08.29,0:21:10.20,Default,Masaki,0,0,0,,I'll live with you, shoot tons of videos,
+Dialogue: 0,0:21:10.20,0:21:13.88,Default,Masaki,0,0,0,,and ride this wave to turn our channel \Ninto a powerhouse in no time!
+Dialogue: 0,0:21:13.88,0:21:14.96,Default,Masaki,0,0,0,,That's the plan!
+Dialogue: 0,0:21:14.96,0:21:16.38,Default,Live,0,0,0,,There you have it.
+Dialogue: 0,0:21:16.38,0:21:17.84,Default,Group,0,0,0,,M-Makes sense.
+Dialogue: 0,0:21:17.84,0:21:19.79,Default,Live,0,0,0,,Okay, you're helping, too!
+Dialogue: 0,0:21:19.79,0:21:20.59,Default,Fu,0,0,0,,Y-Yes!
+Dialogue: 0,0:21:19.79,0:21:20.59,DefaultTop,Ichiko,0,0,0,,Sure!
+Dialogue: 0,0:21:21.61,0:21:23.66,Default,Tokage,0,0,0,,That's one hell of a dream you got there.
+Dialogue: 0,0:21:23.66,0:21:25.80,Default,Tokage,0,0,0,,Let me join your little group.
+Dialogue: 0,0:21:25.80,0:21:27.47,Default,Masaki,0,0,0,,I assumed you already had.
+Dialogue: 0,0:21:27.76,0:21:32.54,Default,Tokage,0,0,0,,With that settled, let's talk \Nprofit share for our last video!
+Dialogue: 0,0:21:32.54,0:21:34.85,Default,Tokage,0,0,0,,A 50/50 share, like we agreed on!
+Dialogue: 0,0:21:35.79,0:21:37.21,Default,Tokage,0,0,0,,Don't play dumb!
+Dialogue: 0,0:21:37.21,0:21:39.56,Default,Tokage,0,0,0,,Where's my slice of the pie?
+Dialogue: 0,0:21:39.56,0:21:42.25,Default,Masaki,0,0,0,,Um, that won't come into play for a while.
+Dialogue: 0,0:21:42.25,0:21:43.01,Default,Tokage,0,0,0,,What?!
+Dialogue: 0,0:21:43.01,0:21:44.62,Default,Tokage,0,0,0,,Chance Akaishi told me...
+Dialogue: 0,0:21:44.62,0:21:46.74,Default,Masaki,0,0,0,,MayoPan isn't even monetized yet!
+Dialogue: 0,0:21:46.74,0:21:48.96,Default,Tokage,0,0,0,,That's not what you promised!
+Dialogue: 0,0:21:48.96,0:21:50.93,Default,Masaki,0,0,0,,I didn't promise you squat!
+Dialogue: 0,0:21:50.93,0:21:52.36,Default,Tokage,0,0,0,,I'm leaving all of you!
+Dialogue: 0,0:21:52.36,0:21:55.00,Default,Tokage,0,0,0,,Hand over my money!
+Dialogue: 0,0:22:14.97,0:22:16.48,Signs,Sign,0,0,0,,{\fad(195,97)\fs16\fnComic Sans MS\an7\c&H141719&\pos(280.5,6.5)}Tokage\NSent you a sticker
+Dialogue: 0,0:22:14.97,0:22:16.48,Signs,Sign,0,0,0,,{\fad(195,97)\fs16\fnComic Sans MS\c&HFAC5F7&\3c&HC286C4&\bord1.5\blur1\pos(449,56)}Goodnight
+Dialogue: 0,0:23:26.00,0:23:29.29,DefaultTop,Tokage,0,0,0,,Pay me, pay me, pay me!
+Dialogue: 0,0:23:26.78,0:23:27.80,Default,Masaki,0,0,0,,Masaki here!
+Dialogue: 0,0:23:27.80,0:23:29.29,Default,Masaki,0,0,0,,MayoPan's got a new member!
+Dialogue: 0,0:23:29.29,0:23:29.78,Default,Tokage,0,0,0,,Who's that?
+Dialogue: 0,0:23:29.78,0:23:30.26,Default,Masaki,0,0,0,,You, duh.
+Dialogue: 0,0:23:30.26,0:23:32.22,Default,Tokage,0,0,0,,That's right! It's me, Tokage!
+Dialogue: 0,0:23:32.22,0:23:33.98,Default,Masaki,0,0,0,,Honestly, I don't know if this will work out!
+Dialogue: 0,0:23:33.98,0:23:35.39,Default,Tokage,0,0,0,,Seriously? Try harder!
+Dialogue: 0,0:23:35.39,0:23:37.93,Default,Group,0,0,0,,Next time: "The Star of the Next Video is Who?"
+Dialogue: 0,0:23:35.89,0:23:37.64,Signs_EpTitle,Sign,0,0,0,,{\3c&H2E3234&}The Star of the Next Video is Who?
+Dialogue: 0,0:23:37.89,0:23:39.52,Signs,Sign,0,0,0,,{\b0\fs28\fnImpact\c&HE1CC56&\bord2.5\pos(181,5)\3c&H7C5D3D&}The Star
+Dialogue: 1,0:23:37.89,0:23:39.52,Signs,Sign,0,0,0,,{\b0\fs28\fnImpact\c&HE1CC56&\3c&HFDFDFD&\bord1\pos(181,5)}The Star
+Dialogue: 0,0:23:37.93,0:23:39.52,Default,Fu,0,0,0,,What? It's me?

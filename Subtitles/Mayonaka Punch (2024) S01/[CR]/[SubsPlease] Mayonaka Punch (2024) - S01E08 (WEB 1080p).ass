@@ -1,0 +1,553 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: FlashbackItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,0
+Style: Signs_EpTitle,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,30,30,10,0
+Style: Signs_Chat,Arial,16,&H00535359,&H000000FF,&H00EFF0ED,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,300,30,10,0
+Style: Signs_Boxed,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,0,0,8,30,30,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.61,0:00:16.24,Default,Live,0,0,0,,We won't get another chance like this!
+Dialogue: 0,0:00:16.24,0:00:17.49,Default,Live,0,0,0,,So let's enjoy it!
+Dialogue: 0,0:00:17.49,0:00:18.82,Default,Ichiko,0,0,0,,Nervous?
+Dialogue: 0,0:00:18.82,0:00:21.00,Default,Ichiko,0,0,0,,Pft! In your dreams!
+Dialogue: 0,0:00:21.00,0:00:23.17,Default,Fu,0,0,0,,Finally, the Outside Kids...
+Dialogue: 0,0:00:23.17,0:00:25.25,Default,Fu,0,0,0,,I-I mean, I'll do my best!
+Dialogue: 0,0:00:25.89,0:00:28.72,Default,Tokage,0,0,0,,I'm walking on asphalt.
+Dialogue: 0,0:00:29.23,0:00:30.76,Default,Tokage,0,0,0,,What of it?!
+Dialogue: 0,0:00:31.76,0:00:32.76,Default,Masaki,0,0,0,,Okay.
+Dialogue: 0,0:00:32.76,0:00:34.63,Default,Masaki,0,0,0,,Let's go, MayoPan!
+Dialogue: 0,0:02:09.85,0:02:12.48,Signs_EpTitle,Sign,0,0,0,,{\3c&H242726&}Starring in TSUMA FES Extreme!
+Dialogue: 0,0:02:12.09,0:02:14.73,Default,Staff 1,0,0,0,,Making final batten height adjustments!
+Dialogue: 0,0:02:16.99,0:02:19.61,DefaultItalics,Masaki,0,0,0,,The road to one million subscribers...
+Dialogue: 0,0:02:19.94,0:02:23.72,DefaultItalics,Masaki,0,0,0,,Step three: collabing with famous streamers!
+Dialogue: 0,0:02:25.06,0:02:26.75,Default,Stage Director,0,0,0,,TSUMA-shi-san, how's it look?
+Dialogue: 0,0:02:26.75,0:02:28.76,Default,TSUMA-shi,0,0,0,,Extremely good!
+Dialogue: 0,0:02:28.41,0:02:32.50,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\c&HFFFFFF&\bord3\pos(134.5,14)\3c&HFFFFFF&}TSUMA-shi
+Dialogue: 1,0:02:28.41,0:02:32.50,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\c&H953AF3&\bord1.5\pos(134.5,14)}T{\c&HFFFFFF&}SUMA-shi
+Dialogue: 0,0:02:28.41,0:02:32.50,Signs,Sign,0,0,0,,{\fad(188,1)\bord2\fnArial Black\an7\c&HFDFCFF&\4c&H9C41E9&\shad2\pos(362.5,27)}Legendary streamer\Nknown as the {\c&H9C41E9&\bord2.5\3c&HFDFCFF&}Stream God
+Dialogue: 0,0:02:28.76,0:02:30.00,Narration,Narrator,0,0,0,,TSUMA-shi!
+Dialogue: 0,0:02:30.00,0:02:32.50,Narration,Narrator,0,0,0,,The legendary streamer known as the Stream God!
+Dialogue: 0,0:02:32.50,0:02:37.12,DefaultItalics,Masaki,0,0,0,,And we even get to collab \Nwith my hero, TSUMA-shi-san!
+Dialogue: 0,0:02:37.92,0:02:40.55,Signs,Sign,0,0,0,,{\bord2\fnArial Black\pos(320,105)\c&H80EDF6&\3c&H2A31D4&}MayoPan
+Dialogue: 0,0:02:39.86,0:02:41.05,Default,Masaki,0,0,0,,Okay, all eyes on me!
+Dialogue: 0,0:02:41.05,0:02:42.18,Default,Masaki,0,0,0,,Here's the rundown!
+Dialogue: 0,0:02:42.18,0:02:43.93,Signs,Sign,0,0,0,,{\fs18\c&H2C322F&\pos(220,180)}Mayonaka Punch
+Dialogue: 0,0:02:42.45,0:02:43.93,Default,Masaki,0,0,0,,The event is split up into two parts!
+Dialogue: 0,0:02:43.93,0:02:45.89,Default,Masaki,0,0,0,,Part one is the collab segments!
+Dialogue: 0,0:02:45.89,0:02:47.68,Default,Masaki,0,0,0,,Part two is our original performance!
+Dialogue: 0,0:02:48.01,0:02:50.66,Default,Masaki,0,0,0,,We'll get everyone's attention during \Nthe collab performances in part one,
+Dialogue: 0,0:02:50.66,0:02:53.58,Default,Masaki,0,0,0,,and then unveil a song as MayoPan for \Nour original performance in part two!
+Dialogue: 0,0:02:53.58,0:02:57.07,Default,Masaki,0,0,0,,Followed by a music video going up \Non our channel right after the event!
+Dialogue: 0,0:02:57.07,0:02:59.82,Default,Masaki,0,0,0,,A perfect plan to double our subscribers!
+Dialogue: 0,0:03:01.11,0:03:05.58,DefaultItalics,Staff 2,0,0,0,,All TSUMA FES participants, \Nplease gather in the main green room!
+Dialogue: 0,0:03:05.58,0:03:07.20,Default,Masaki,0,0,0,,Okay, let's go!
+Dialogue: 0,0:03:08.37,0:03:10.37,Signs,Sign,0,0,0,,{\fs18\fscx80\fax0.2\c&H2C322F&\frz-10.3\t(26,1986,\fscx88\fscy108)\move(170,233.5,155.5,240,26,1986)}Main Green Room
+Dialogue: 0,0:03:08.65,0:03:10.37,Default,Live,0,0,0,,We're MayoPan!
+Dialogue: 0,0:03:10.37,0:03:12.63,Default,Live,0,0,0,,Thanks for having us today!
+Dialogue: 0,0:03:12.63,0:03:14.29,Default,Group,0,0,0,,Thank you!
+Dialogue: 0,0:03:14.29,0:03:15.41,Default,Performer 1,0,0,0,,Isn't that Masakichi?
+Dialogue: 0,0:03:15.41,0:03:17.96,Default,Performer 2,0,0,0,,Oh, the former Hype-Sis member?
+Dialogue: 0,0:03:17.76,0:03:19.13,Signs,Sign,0,0,0,,{\fad(271,474)\fnArial Black\c&H8456E5&\3c&HDEE1EF&\bord2\frz29.21\fax-0.4\pos(423.5,171)}Hype-Sis
+Dialogue: 0,0:03:18.46,0:03:19.88,Default,TSUMA-shi,0,0,0,,MayoPan!
+Dialogue: 0,0:03:19.88,0:03:21.37,Default,TSUMA-shi,0,0,0,,Glad to have you here!
+Dialogue: 0,0:03:21.37,0:03:22.13,Default,TSUMA-shi,0,0,0,,Thanks for coming!
+Dialogue: 0,0:03:22.43,0:03:26.81,Default,Masaki,0,0,0,,U-Um, th-thank you kindly for\N giving us this opportunity today—
+Dialogue: 0,0:03:26.81,0:03:29.74,Default,TSUMA-shi,0,0,0,,There's nothing I love more \Nthan seeing fresh talent grow!
+Dialogue: 0,0:03:29.74,0:03:33.61,Default,TSUMA-shi,0,0,0,,Let's get along and have fun \Nmaking today's event a success!
+Dialogue: 0,0:03:34.12,0:03:35.71,Default,Masaki,0,0,0,,So precious...
+Dialogue: 0,0:03:35.71,0:03:37.14,Default,Masaki,0,0,0,,Ah, shoot.
+Dialogue: 0,0:03:37.14,0:03:38.32,Default,Masaki,0,0,0,,Gotta introduce ourselves.
+Dialogue: 0,0:03:39.31,0:03:41.04,Default,Masaki,0,0,0,,Y-You two are...
+Dialogue: 0,0:03:41.04,0:03:43.74,Default,Salami,0,0,0,,Taromaru and Salamin! \NWe'll be your emcees for tonight!
+Dialogue: 0,0:03:43.95,0:03:49.79,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\c&HFFFFFF&\bord3\3c&HFFFFFF&\pos(102,157)}F. Taromaru
+Dialogue: 0,0:03:43.95,0:03:49.79,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\c&H953AF3&\bord1.5\pos(102,157)}F{\c&HFFFFFF&}. Taromaru
+Dialogue: 0,0:03:43.95,0:03:49.79,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\an7\4c&H9C41E9&\shad2\c&H9C41E9&\bord2.5\3c&HFDFCFF&\pos(380,17)}[Muscle Channel\Nwith F. Taromaru]
+Dialogue: 0,0:03:43.95,0:03:49.79,Signs,Sign,0,0,0,,{\fad(188,1)\bord2\fnArial Black\an7\fs18\c&HFDFCFF&\4c&H9C41E9&\shad2\pos(380,71)}Muscle-building streamer\Npopular with thirty-somethings\Nfor his "No-Sweat Workouts."
+Dialogue: 0,0:03:44.21,0:03:45.74,Narration,Narrator,0,0,0,,F. Taromaru!
+Dialogue: 0,0:03:45.74,0:03:49.87,Narration,Narrator,0,0,0,,A muscle-building streamer popular with \Nthirty-somethings for his "No-Sweat Workouts"!
+Dialogue: 0,0:03:49.83,0:03:54.54,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\an7\4c&H9C41E9&\shad2\c&H9C41E9&\bord2.5\3c&HFDFCFF&\pos(23.333,13)}[Salami N. Cappuccino's Prattle Palace]
+Dialogue: 0,0:03:49.83,0:03:54.54,Signs,Sign,0,0,0,,{\fad(188,1)\bord2\fnArial Black\an7\fs16\c&HFDFCFF&\4c&H9C41E9&\shad2\pos(32,41)}Chats about the mundane with a unique sense for words.\NBeauty streamer popular with women in her age group.
+Dialogue: 0,0:03:49.83,0:03:54.54,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\c&HFFFFFF&\bord3\3c&HFFFFFF&\pos(227.5,224.5)}Salami N. Cappuccino
+Dialogue: 0,0:03:49.83,0:03:54.54,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\c&H953AF3&\bord1.5\pos(227.5,224.5)}Sa{\c&HFFFFFF&}lami N. Cappuccino
+Dialogue: 0,0:03:49.87,0:03:51.77,Narration,Narrator,0,0,0,,Salami N. Cappuccino!
+Dialogue: 0,0:03:51.77,0:03:54.54,Narration,Narrator,0,0,0,,A beauty streamer popular with \Nwomen in the same age group!
+Dialogue: 0,0:03:54.54,0:03:55.90,Default,Masaki,0,0,0,,Salamin!
+Dialogue: 0,0:03:55.90,0:03:57.95,Default,Masaki,0,0,0,,I watch you so much, \Nmy phone screen might crack!
+Dialogue: 0,0:03:57.95,0:04:00.20,Default,Salami,0,0,0,,That stare of yours is like a destroyer!
+Dialogue: 0,0:04:00.20,0:04:02.55,Default,Taromaru,0,0,0,,Let's see. First up, for the music collab...
+Dialogue: 0,0:04:02.55,0:04:03.80,Default,Fu,0,0,0,,That'd be me!
+Dialogue: 0,0:04:03.80,0:04:05.26,Default,Taromaru,0,0,0,,Oh, Fu-san!
+Dialogue: 0,0:04:05.26,0:04:06.72,Default,Taromaru,0,0,0,,You're raring to go!
+Dialogue: 0,0:04:06.72,0:04:08.68,Default,Fu,0,0,0,,Th-This collab is a dream come true for me!
+Dialogue: 0,0:04:08.68,0:04:09.77,Default,Taromaru,0,0,0,,Mm-hmm.
+Dialogue: 0,0:04:09.77,0:04:12.65,Default,Salami,0,0,0,,Well, about your collab partners...
+Dialogue: 0,0:04:13.44,0:04:14.66,Default,Fu,0,0,0,,Dang...
+Dialogue: 0,0:04:14.66,0:04:15.65,Default,Taromaru,0,0,0,,What?!
+Dialogue: 0,0:04:15.65,0:04:19.33,Default,Taromaru,0,0,0,,Outlaw and Sidebrah from the Outside Kids \Nare a no-show for the music collab?!
+Dialogue: 0,0:04:19.33,0:04:20.44,Default,TSUMA-shi,0,0,0,,So sorry!
+Dialogue: 0,0:04:20.44,0:04:22.32,Default,Fu,0,0,0,,N-No way...
+Dialogue: 0,0:04:22.32,0:04:23.48,Default,Fu,0,0,0,,Huh?
+Dialogue: 0,0:04:23.48,0:04:25.82,Default,Fu,0,0,0,,Then what about the parts \Nsung by the Outside Kids?
+Dialogue: 0,0:04:26.13,0:04:28.78,Default,Shura,0,0,0,,If they're not here, \Nwe'll have to split them between us.
+Dialogue: 0,0:04:31.79,0:04:39.71,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\c&HFFFFFF&\bord3\3c&HFFFFFF&\fs30\pos(212.167,117.833)}Shura
+Dialogue: 0,0:04:31.79,0:04:39.71,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\c&H953AF3&\bord1.5\fs30\pos(212.167,117.833)}Sh{\c&HFFFFFF&}ura
+Dialogue: 0,0:04:31.79,0:04:39.71,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\an7\bord2\fs16\c&HFDFCFF&\4c&H9C41E9&\shad2\pos(380,106.5)}Female singer renowned for the contrast\Nbetween her beautiful singing and\Nintense screams. Her {\c&H9C41E9&\3c&HFDFCFF&}most-watched{\c&HFDFCFF&\4c&H9C41E9&\3c&H000000&}\Nvideo boasts over {\c&H9C41E9&\3c&HFDFCFF&}40 million views!
+Dialogue: 0,0:04:31.97,0:04:33.08,Narration,Narrator,0,0,0,,Shura!
+Dialogue: 0,0:04:33.08,0:04:35.35,Narration,Narrator,0,0,0,,The female singer renowned for the contrast
+Dialogue: 0,0:04:35.35,0:04:37.46,Narration,Narrator,0,0,0,,between her beautiful singing \Nand intense screams!
+Dialogue: 0,0:04:37.46,0:04:39.71,Default,Shura,0,0,0,,It's just us two. Bring it on.
+Dialogue: 0,0:04:40.01,0:04:41.64,Default,Fu,0,0,0,,Nice to meet you—
+Dialogue: 0,0:04:41.64,0:04:42.66,Default,Group,0,0,0,,Whoo!
+Dialogue: 0,0:04:42.66,0:04:44.18,Default,Salami,0,0,0,,The game collab is with these whoopers!
+Dialogue: 0,0:04:44.18,0:04:45.23,Default,Group,0,0,0,,Whoo!
+Dialogue: 0,0:04:45.23,0:04:46.96,Default,Group,0,0,0,,Nice to meet you, Tokage-san!
+Dialogue: 0,0:04:46.93,0:04:51.85,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\c&HFFFFFF&\bord3\3c&HFFFFFF&\pos(253,123)}Juwa-chan
+Dialogue: 0,0:04:46.93,0:04:51.85,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\c&H953AF3&\bord1.5\pos(253,123)}Ju{\c&HFFFFFF&}wa-chan
+Dialogue: 0,0:04:46.93,0:04:51.85,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\an7\bord2\fs18\c&HFDFCFF&\4c&H9C41E9&\shad2\pos(326.5,197.5)}[Juwa Channel]\NSolo entertainer popular for ultra-wacky\Nslapstick variety segments. Ugly-cute\NJuwa-chan merch is hot amongst\N{\c&H9C41E9&\3c&HFDFCFF&}grade schoolers.
+Dialogue: 0,0:04:46.96,0:04:48.08,Narration,Narrator,0,0,0,,Juwa-chan!
+Dialogue: 0,0:04:48.08,0:04:52.03,Narration,Narrator,0,0,0,,A solo entertainer popular for his \Nultra-wacky slapstick variety segments!
+Dialogue: 0,0:04:52.03,0:04:53.68,Narration,Narrator,0,0,0,,Electric Eel Energy!
+Dialogue: 0,0:04:52.14,0:04:58.40,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\c&HFFFFFF&\bord3\3c&HFFFFFF&\pos(439,21)}Electric Eel Energy
+Dialogue: 0,0:04:52.14,0:04:58.40,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\c&H953AF3&\bord1.5\pos(439,21)}El{\c&HFFFFFF&}ectric Eel Energy
+Dialogue: 0,0:04:52.14,0:04:58.40,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\an7\bord2\fs18\c&HFDFCFF&\4c&H9C41E9&\shad2\pos(36,51)}Variety channel by a two-man unit. High-frequency,\Nhigh-quality videos {\c&H9C41E9&\3c&HFDFCFF&}guaranteed to split your sides.{\c&HFDFCFF&\4c&H9C41E9&\3c&H000000&}\NThe members are Daifuku Minister and Garden Eel.
+Dialogue: 0,0:04:53.68,0:04:56.06,Narration,Narrator,0,0,0,,A high-frequency, high-quality variety channel,
+Dialogue: 0,0:04:56.06,0:04:58.40,Narration,Narrator,0,0,0,,run by the duo of \NDaifuku Minister and Garden Eel!
+Dialogue: 0,0:04:58.40,0:05:02.50,Default,Tokage,0,0,0,,I try so hard to avoid people like them.
+Dialogue: 0,0:05:03.32,0:05:04.82,Signs,Sign,0,0,0,,{\fad(191,1)\fnTimes New Roman\c&H645545&\frz351.9\fax-0.4\pos(288.5,182)}Daifuku
+Dialogue: 0,0:05:03.41,0:05:04.82,Default,Daifuku Minister,0,0,0,,Care for some daifuku?
+Dialogue: 0,0:05:04.82,0:05:06.05,Default,Daifuku Minister,0,0,0,,Whoo!
+Dialogue: 0,0:05:06.05,0:05:07.63,Default,Garden Eel,0,0,0,,Busting out the daifuku already?!
+Dialogue: 0,0:05:07.63,0:05:09.86,Default,Group,0,0,0,,Tokage-san, let's have fun today!
+Dialogue: 0,0:05:09.86,0:05:10.86,Default,Group,0,0,0,,Whoo!
+Dialogue: 0,0:05:10.86,0:05:12.08,Default,Tokage,0,0,0,,Whoo...
+Dialogue: 0,0:05:12.38,0:05:14.84,Default,Salami,0,0,0,,And for the cooking collab...
+Dialogue: 0,0:05:14.84,0:05:16.99,Default,Cast Iron Ken,0,0,0,,Hey, there. I'm Cast Iron Ken.
+Dialogue: 0,0:05:16.71,0:05:23.21,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\an7\bord2\fs16\c&HFDFCFF&\4c&H9C41E9&\shad2\pos(448.5,60)}[Cast Iron Ken Channel]\N{\c&H9C41E9&\3c&HFDFCFF&}Culinary specialist{\c&HFDFCFF&\4c&H9C41E9&\3c&H000000&}\Nwho lives by the motto,\N"Everyday cooking should be\N{\c&H9C41E9&\3c&HFDFCFF&}tasty, fun, and easy!"
+Dialogue: 0,0:05:16.71,0:05:23.21,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\c&HFFFFFF&\bord3\3c&HFFFFFF&\pos(421,226.5)\fs26}Cast Iron Ken
+Dialogue: 0,0:05:16.71,0:05:23.21,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\c&H953AF3&\bord1.5\pos(421,226.5)\fs26}Cast {\c&HFFFFFF&}Iron Ken
+Dialogue: 0,0:05:16.99,0:05:18.52,Narration,Narrator,0,0,0,,Cast Iron Ken!
+Dialogue: 0,0:05:18.52,0:05:20.83,Narration,Narrator,0,0,0,,A culinary specialist who lives by the motto,
+Dialogue: 0,0:05:20.83,0:05:23.21,Narration,Narrator,0,0,0,,"Everyday cooking \Nshould be tasty, fun, and easy!"
+Dialogue: 0,0:05:23.21,0:05:25.05,Default,Ichiko,0,0,0,,I'm Ichiko from MayoPan!
+Dialogue: 0,0:05:25.05,0:05:29.14,Default,Ichiko,0,0,0,,Um, your stuffed bell peppers \Nreally blew my mind!
+Dialogue: 0,0:05:29.14,0:05:30.44,Default,Cast Iron Ken,0,0,0,,They don't fall apart, right?
+Dialogue: 0,0:05:30.44,0:05:34.19,Default,Cast Iron Ken,0,0,0,,You're amazing too, Ichiko-chan, \Nalways making such huge portions.
+Dialogue: 0,0:05:34.19,0:05:36.01,Default,Cast Iron Ken,0,0,0,,How long have you been cooking?
+Dialogue: 0,0:05:36.01,0:05:37.35,Default,Ichiko,0,0,0,,About a hundred years!
+Dialogue: 0,0:05:37.35,0:05:39.08,Default,Cast Iron Ken,0,0,0,,A hundred years?
+Dialogue: 0,0:05:39.08,0:05:39.93,Default,Masaki,0,0,0,,Huh?
+Dialogue: 0,0:05:39.93,0:05:43.20,Default,Masaki,0,0,0,,Live, where's your quiz collab \Npartner, Plumb Wrong Logic?
+Dialogue: 0,0:05:46.74,0:05:48.99,Default,Plumb Wrong Logic,0,0,0,,Let's see, Pochi-san's comment...
+Dialogue: 0,0:05:48.99,0:05:52.06,Default,Plumb Wrong Logic,0,0,0,,"The venue hall for today\N looks quite run-down."
+Dialogue: 0,0:05:52.06,0:05:55.29,Default,Plumb Wrong Logic,0,0,0,,"Plumb Wrong Logic-san, \Nare you worried about a leaky roof?"
+Dialogue: 0,0:05:55.29,0:05:58.44,Default,Plumb Wrong Logic,0,0,0,,Well, it's true that run-down pipes \Npresent a leaking risk,
+Dialogue: 0,0:05:58.44,0:05:59.56,Default,Plumb Wrong Logic,0,0,0,,but since it's not raining—
+Dialogue: 0,0:05:59.42,0:06:05.05,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\c&HFFFFFF&\bord3\3c&HFFFFFF&\pos(174,14.5)}Plumb Wrong Logic
+Dialogue: 0,0:05:59.42,0:06:05.05,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\c&H953AF3&\bord1.5\pos(174,14.5)}Plumb {\c&HFFFFFF&}Wrong Logic
+Dialogue: 0,0:05:59.42,0:06:05.05,Signs,Sign,0,0,0,,{\fad(188,1)\fnArial Black\an7\bord2\fs18\c&H9C41E9&\3c&HFDFCFF&\4c&H9C41E9&\shad2\pos(29,120)}Construction streamer{\c&HFDFCFF&\4c&H9C41E9&\3c&H000000&}\Nwho debates current affairs\Nwhile performing plumbing work
+Dialogue: 0,0:05:59.56,0:06:01.30,Narration,Narrator,0,0,0,,Plumb Wrong Logic!
+Dialogue: 0,0:06:01.30,0:06:05.05,Narration,Narrator,0,0,0,,A construction streamer who debates current \Naffairs while performing plumbing work!
+Dialogue: 0,0:06:05.33,0:06:07.28,Default,Plumb Wrong Logic,0,0,0,,You see, not a lot of people know this, but...
+Dialogue: 0,0:06:07.28,0:06:09.10,Default,Live,0,0,0,,Plumb Wrong Logic-san, nice to meet—
+Dialogue: 0,0:06:09.10,0:06:10.74,Default,Plumb Wrong Logic,0,0,0,,Oh, Live-san, my collab partner.
+Dialogue: 0,0:06:10.74,0:06:12.51,Default,Plumb Wrong Logic,0,0,0,,Nice to meet you.
+Dialogue: 0,0:06:12.51,0:06:15.31,Default,Plumb Wrong Logic,0,0,0,,PVC pipes are made of \Npolyvinyl chloride, are they not?
+Dialogue: 0,0:06:13.92,0:06:15.31,DefaultTop,Taromaru,0,0,0,,Everyone!
+Dialogue: 0,0:06:15.31,0:06:19.98,Default,Taromaru,0,0,0,,We've got bottles of Mastamin Z \Nfrom our sponsor, AZO Pharma!
+Dialogue: 0,0:06:19.98,0:06:22.94,Default,Salami,0,0,0,,Let's get pumped with heels for this show!
+Dialogue: 0,0:06:25.19,0:06:28.49,Default,Yuki,0,0,0,,Vampires pretending to be \Nhumans for an event...
+Dialogue: 0,0:06:28.49,0:06:30.80,Default,Yuki,0,0,0,,I swear, they're such a handful!
+Dialogue: 0,0:06:30.80,0:06:32.19,Default,Girl Mob 1,0,0,0,,What, seriously?!
+Dialogue: 0,0:06:32.19,0:06:33.33,Default,Girl Mob 1,0,0,0,,Hey, look at this!
+Dialogue: 0,0:06:33.33,0:06:35.26,Default,Girl Mob 1,0,0,0,,This online news article is wild!
+Dialogue: 0,0:06:35.26,0:06:37.57,Default,Girl Mob 2,0,0,0,,Wait, that's Plumb Wrong Logic!
+Dialogue: 0,0:06:37.57,0:06:41.83,Default,Pien,0,0,0,,Outlaw... Sidebrah...
+Dialogue: 0,0:06:46.73,0:06:49.84,Default,Announcer,0,0,0,,Three! Two! One!
+Dialogue: 0,0:06:57.25,0:06:58.83,Default,TSUMA-shi,0,0,0,,Yes, I do.
+Dialogue: 0,0:06:58.83,0:07:00.39,Default,Group,0,0,0,,Yes, I do!
+Dialogue: 0,0:07:00.39,0:07:02.20,Default,TSUMA-shi,0,0,0,,How do you do?
+Dialogue: 0,0:07:02.20,0:07:03.90,Default,Group,0,0,0,,How do you do!
+Dialogue: 0,0:07:03.90,0:07:05.77,Default,TSUMA-shi,0,0,0,,Hey, everyone! TSUMA-shi here!
+Dialogue: 0,0:07:07.66,0:07:11.08,Default,TSUMA-shi,0,0,0,,Welcome to my TSUMA FES!
+Dialogue: 0,0:07:14.41,0:07:17.87,Default,TSUMA-shi,0,0,0,,Without further ado, let's have \Nour participants take the stage!
+Dialogue: 0,0:07:17.87,0:07:20.79,Default,TSUMA-shi,0,0,0,,First, introducing our two emcees!
+Dialogue: 0,0:07:21.33,0:07:24.79,Default,TSUMA-shi,0,0,0,,F. Taromaru and Salami N. Cappuccino!
+Dialogue: 0,0:07:24.79,0:07:29.24,Default,Taromaru,0,0,0,,Sponsored by AZO Pharma's Mastamin Z!
+Dialogue: 0,0:07:29.24,0:07:32.01,Default,Salami,0,0,0,,Open it to be hit with the bubble fizz \Nof its strong carbonation!
+Dialogue: 0,0:07:32.01,0:07:34.08,Default,Group,0,0,0,,Strong carbonation!
+Dialogue: 0,0:07:33.97,0:07:38.03,DefaultTop,TSUMA-shi,0,0,0,,Next, the singer you all know and love, Shura!
+Dialogue: 0,0:07:34.08,0:07:35.20,DefaultItalics,Masaki,0,0,0,,It's starting!
+Dialogue: 0,0:07:35.20,0:07:36.71,DefaultItalics,Masaki,0,0,0,,I'm so nervous!
+Dialogue: 0,0:07:38.03,0:07:41.56,DefaultItalics,Masaki,0,0,0,,But now that it's underway, \Nwe just have to get through it!
+Dialogue: 0,0:07:38.03,0:07:41.56,DefaultTop,TSUMA-shi,0,0,0,,Let's keep 'em coming! \NKen, the culinary expert!
+Dialogue: 0,0:07:41.92,0:07:45.31,DefaultTop,TSUMA-shi,0,0,0,,The construction streamer, Plumb Wrong Logic!
+Dialogue: 0,0:07:41.95,0:07:45.31,Default,Masaki,0,0,0,,It's up to you now! Live! Ichiko! Fu! Tokage!
+Dialogue: 0,0:07:46.29,0:07:49.69,Default,TSUMA-shi,0,0,0,,And now, the new, up-and-coming channel!
+Dialogue: 0,0:07:49.69,0:07:52.99,Default,TSUMA-shi,0,0,0,,Mayonaka Punch!
+Dialogue: 0,0:07:53.49,0:07:55.99,Default,Live,0,0,0,,Good morning from the dead of night!
+Dialogue: 0,0:07:55.99,0:07:57.74,Default,Live,0,0,0,,Mayonaka Punch!
+Dialogue: 0,0:07:57.74,0:08:00.11,Default,Live,0,0,0,,Let's have a blast today!
+Dialogue: 0,0:08:01.87,0:08:04.96,DefaultItalics,Yuki,0,0,0,,I feel like a parent \Nwatching their kid's school play!
+Dialogue: 0,0:08:05.30,0:08:08.21,Default,TSUMA-shi,0,0,0,,Now that we've wrapped up the intros...
+Dialogue: 0,0:08:08.21,0:08:10.68,Default,TSUMA-shi,0,0,0,,TSUMA FES Extreme!
+Dialogue: 0,0:08:10.68,0:08:12.48,Default,TSUMA-shi,0,0,0,,Bomber!
+Dialogue: 0,0:08:12.48,0:08:15.88,Default,Group,0,0,0,,Bomber!
+Dialogue: 0,0:08:15.88,0:08:18.97,Default,Taromaru,0,0,0,,TSUMA FES Extreme is finally underway!
+Dialogue: 0,0:08:18.97,0:08:22.08,Default,Taromaru,0,0,0,,From here on out, \Nyour emcees will be me, Taromaru...
+Dialogue: 0,0:08:22.08,0:08:24.12,Default,Salami,0,0,0,,And me, Salamin!
+Dialogue: 0,0:08:24.12,0:08:26.77,Default,Taromaru,0,0,0,,Our first segment is... the music collab!
+Dialogue: 0,0:08:26.77,0:08:29.14,Default,Salami,0,0,0,,Sing along with mi sol la si do!
+Dialogue: 0,0:08:29.14,0:08:31.50,Default,Taromaru,0,0,0,,But unfortunately, well...
+Dialogue: 0,0:08:31.50,0:08:33.24,Default,Salami,0,0,0,,The Outside Kids are a no-show.
+Dialogue: 0,0:08:36.83,0:08:40.03,Default,Salami,0,0,0,,I did the same thing \Nfor a part-time job once.
+Dialogue: 0,0:08:40.03,0:08:42.25,Default,Salami,0,0,0,,But this and that are different stories.
+Dialogue: 0,0:08:42.29,0:08:46.96,Signs,Sign,0,0,0,,{\fad(440,893)\fs30\fnArial Black\pos(523.5,63.5)\bord4\3c&HFFFFFF&}Music Collab!!
+Dialogue: 1,0:08:42.29,0:08:46.96,Signs,Sign,0,0,0,,{\fad(440,893)\fs30\fnArial Black\c&H8829EC&\pos(523.5,63.5)\bord1.5\shad1}M{\c&HEED3D3&}us{\c&HEDF3D9&}ic {\c&H1FFFFE&}C{\c&H7FFF9D&}olla{\c&H1FFFFE&}b!!
+Dialogue: 0,0:08:42.29,0:08:46.96,Signs,Sign,0,0,0,,{\fad(440,893)\fnArial Black\pos(452.5,245.5)\bord2\shad1.5}~Let's Sing Those Timeless Hits~
+Dialogue: 0,0:08:43.15,0:08:46.48,Default,Salami,0,0,0,,Now then, here are Fu \Nand Shura in their first collab.
+Dialogue: 0,0:08:46.48,0:08:47.25,Default,Salami,0,0,0,,Take it away.
+Dialogue: 0,0:09:02.20,0:09:04.39,DefaultItalics,Fu,0,0,0,,S-Such intensity!
+Dialogue: 0,0:09:05.43,0:09:07.50,DefaultItalics,Fu,0,0,0,,Ah, I need to sing...
+Dialogue: 0,0:09:17.37,0:09:21.33,DefaultItalics,Fu,0,0,0,,Was the audience this big before?
+Dialogue: 0,0:09:21.33,0:09:22.06,DefaultItalics,Fu,0,0,0,,Huh?
+Dialogue: 0,0:09:22.06,0:09:24.25,DefaultItalics,Fu,0,0,0,,Huh? Where in the song are...
+Dialogue: 0,0:09:28.50,0:09:29.01,Default,Fu,0,0,0,,Huh?
+Dialogue: 0,0:09:29.01,0:09:29.58,Default,Taromaru,0,0,0,,Okay!
+Dialogue: 0,0:09:29.58,0:09:31.00,Default,Taromaru,0,0,0,,For our next collab...
+Dialogue: 0,0:09:32.88,0:09:38.59,Signs,Sign,0,0,0,,{\fad(440,893)\fs36\fnArial Black\bord4\3c&HFFFFFF&\pos(490.5,53)}Game Collab!!
+Dialogue: 1,0:09:32.88,0:09:38.59,Signs,Sign,0,0,0,,{\fad(440,893)\fs36\fnArial Black\c&H8829EC&\bord1.5\shad1\pos(490.5,53)}G{\c&HF5DBDD&}am{\c&HF0FFDD&}e {\c&HFDFA6A&}C{\c&HC5FFC2&}olla{\c&HFCFD5B&}b!!
+Dialogue: 0,0:09:32.88,0:09:38.59,Signs,Sign,0,0,0,,{\fad(440,893)\fnArial Black\bord2\shad1.5\pos(253.5,187.5)}~This Ball & Chain is Nothing!\NRed Light, Green Light~
+Dialogue: 0,0:09:33.45,0:09:36.64,Default,Taromaru,0,0,0,,A super-heavyweight game \Nof Red Light, Green Light!
+Dialogue: 0,0:09:36.64,0:09:38.89,Default,Salami,0,0,0,,No life comes without shackles!
+Dialogue: 0,0:09:39.35,0:09:42.04,Default,Masaki,0,0,0,,Ichiko, you're up soon, so go wait off stage!
+Dialogue: 0,0:09:42.04,0:09:42.89,Default,Ichiko,0,0,0,,Roger!
+Dialogue: 0,0:09:42.89,0:09:47.13,Default,Taromaru,0,0,0,,The winner will be the first person \Nwho touches TSUMA-shi!
+Dialogue: 0,0:09:45.29,0:09:47.13,DefaultTop,Garden Eel,0,0,0,,So heavy...
+Dialogue: 0,0:09:47.13,0:09:49.19,Default,Salami,0,0,0,,All for me, one for me!
+Dialogue: 0,0:09:49.19,0:09:50.94,Default,TSUMA-shi,0,0,0,,Okay, here we go!
+Dialogue: 0,0:09:51.33,0:09:55.82,DefaultTop,TSUMA-shi,0,0,0,,Green light!
+Dialogue: 0,0:09:53.49,0:09:55.58,Default,Taromaru,0,0,0,,None of the contestants are budging!
+Dialogue: 0,0:09:55.58,0:09:57.57,Default,Taromaru,0,0,0,,A 30-kg weight is no joke!
+Dialogue: 0,0:09:55.82,0:09:57.27,DefaultTop,Salami,0,0,0,,Tokage-san!
+Dialogue: 0,0:09:57.57,0:09:58.32,Default,TSUMA-shi,0,0,0,,Red light!
+Dialogue: 0,0:10:00.36,0:10:04.69,DefaultTop,TSUMA-shi,0,0,0,,Green light...
+Dialogue: 0,0:10:02.22,0:10:03.95,Default,Salami,0,0,0,,Are you okay?
+Dialogue: 0,0:10:03.95,0:10:05.39,Default,Tokage,0,0,0,,Those whooping frat boys are a bit much.
+Dialogue: 0,0:10:05.39,0:10:07.08,Default,Group,0,0,0,,Hold it right there!
+Dialogue: 0,0:10:07.08,0:10:09.58,Default,Taromaru,0,0,0,,C-C-C-Could those voices be...
+Dialogue: 0,0:10:09.58,0:10:13.23,Default,Taromaru,0,0,0,,The Outside Kids, Outlaw and Sidebrah!
+Dialogue: 0,0:10:14.21,0:10:15.84,Default,Fu,0,0,0,,What?!
+Dialogue: 0,0:10:17.69,0:10:21.09,Default,Taromaru,0,0,0,,A last-minute entry \Nafter ditching the music collab!
+Dialogue: 0,0:10:21.82,0:10:22.94,Default,TSUMA-shi,0,0,0,,Green light, red light!
+Dialogue: 0,0:10:22.94,0:10:23.77,Default,Group,0,0,0,,Stop!
+Dialogue: 0,0:10:23.77,0:10:25.31,Default,TSUMA-shi,0,0,0,,Huh? Do we have more people?
+Dialogue: 0,0:10:25.31,0:10:26.89,Default,TSUMA-shi,0,0,0,,Sure, why not?
+Dialogue: 0,0:10:26.89,0:10:30.50,DefaultTop,TSUMA-shi,0,0,0,,Green light...
+Dialogue: 0,0:10:27.35,0:10:28.45,Default,Taromaru,0,0,0,,The game goes on!
+Dialogue: 0,0:10:28.45,0:10:29.73,Default,Salami,0,0,0,,And they don't have chains!
+Dialogue: 0,0:10:30.50,0:10:34.86,DefaultTop,TSUMA-shi,0,0,0,,Red, red, red...
+Dialogue: 0,0:10:30.98,0:10:32.65,DefaultItalics,Outlaw,0,0,0,,The two of us have always...
+Dialogue: 0,0:10:32.65,0:10:34.86,DefaultItalics,Sidebrah,0,0,0,,...gone outside what's common sense!
+Dialogue: 0,0:10:34.86,0:10:36.36,Default,Tokage,0,0,0,,Oh, snap!
+Dialogue: 0,0:10:39.53,0:10:41.03,Default,TSUMA-shi,0,0,0,,Light!
+Dialogue: 0,0:10:41.54,0:10:43.28,Default,Tokage,0,0,0,,I'm first!
+Dialogue: 0,0:10:43.28,0:10:44.83,Default,Taromaru,0,0,0,,M-My word!
+Dialogue: 0,0:10:44.83,0:10:48.29,Default,Taromaru,0,0,0,,With speed that defies common sense, \NMayoPan's Tokage is first!
+Dialogue: 0,0:10:48.29,0:10:49.67,Default,Tokage,0,0,0,,Number one!
+Dialogue: 0,0:10:49.67,0:10:51.68,Default,Group,0,0,0,,Why did you use your powers?!
+Dialogue: 0,0:10:51.68,0:10:53.45,Default,Outlaw,0,0,0,,Defying common sense?!
+Dialogue: 0,0:10:53.45,0:10:55.05,Default,Sidebrah,0,0,0,,That's one hell of an understatement!
+Dialogue: 0,0:10:56.88,0:10:58.23,Default,Group,0,0,0,,Tokage!
+Dialogue: 0,0:10:59.37,0:11:00.26,Default,Group,0,0,0,,Love...
+Dialogue: 0,0:11:02.26,0:11:03.02,Default,Salami,0,0,0,,Dearie me.
+Dialogue: 0,0:11:03.02,0:11:06.39,Default,Taromaru,0,0,0,,The Outside Kids have suddenly made \Nconfessions of love to Tokage!
+Dialogue: 0,0:11:08.37,0:11:09.72,Default,Yuki,0,0,0,,So loud!
+Dialogue: 0,0:11:09.72,0:11:11.24,Default,Pien,0,0,0,,She'll pay.
+Dialogue: 0,0:11:11.64,0:11:12.40,Default,Yuki,0,0,0,,Huh?
+Dialogue: 0,0:11:13.71,0:11:16.40,Default,Taromaru,0,0,0,,Okay, let's move on to the next segment.
+Dialogue: 0,0:11:16.40,0:11:18.61,Signs,Sign,0,0,0,,{\bord2\fs20\fnTimes New Roman\pos(451.5,236.5)\c&H487586&\3c&HA0CFDB&}Judge
+Dialogue: 0,0:11:16.40,0:11:18.61,Default,TSUMA-shi,0,0,0,,I want to eat something yummy!
+Dialogue: 0,0:11:19.26,0:11:20.92,Default,Taromaru,0,0,0,,Cooking Collab:
+Dialogue: 0,0:11:19.40,0:11:23.66,Signs,Sign,0,0,0,,{\fad(440,1)\fs32\fnArial Black\bord4\3c&HFFFFFF&\pos(268.5,18)}Cooking Collab!!
+Dialogue: 1,0:11:19.40,0:11:23.66,Signs,Sign,0,0,0,,{\fad(440,1)\fs32\fnArial Black\c&H8829EC&\bord1.5\shad1\pos(268.5,18)}C{\c&HF8D1DE&}ooki{\c&HF5FDDE&}ng {\c&H8AFF8B&}C{\c&H4AF7F7&}olla{\c&H82FF7F&}b!!
+Dialogue: 0,0:11:19.40,0:11:23.66,Signs,Sign,0,0,0,,{\fad(440,1)\fnArial Black\bord2\shad1.5\pos(221.5,208)}~How Will This Combination Taste?~
+Dialogue: 0,0:11:20.92,0:11:23.66,Default,Taromaru,0,0,0,,How Will This Combination Taste?
+Dialogue: 0,0:11:23.96,0:11:25.92,Default,Salami,0,0,0,,Each chef will pick one card with a dish.
+Dialogue: 0,0:11:25.92,0:11:29.54,Default,Salami,0,0,0,,Combine the two culinary creations to \Ncomplete an outrageously good meal.
+Dialogue: 0,0:11:31.15,0:11:32.17,Default,Group,0,0,0,,This one!
+Dialogue: 0,0:11:32.17,0:11:34.67,Signs,Sign,0,0,0,,{\fad(647,1)\bord3\fs30\fnArial Black\c&H796462&\3c&HF5F6F1&}Mapo Tofu
+Dialogue: 0,0:11:32.97,0:11:34.08,Default,Ichiko,0,0,0,,This is...
+Dialogue: 0,0:11:34.67,0:11:35.61,Default,Group,0,0,0,,Okay!
+Dialogue: 0,0:11:35.61,0:11:37.42,Default,Group,0,0,0,,Let's get cooking!
+Dialogue: 0,0:11:37.80,0:11:41.71,Default,Taromaru,0,0,0,,Now, then, Ken's already \Nstarting to prep his ingredients.
+Dialogue: 0,0:11:41.71,0:11:43.43,Default,Taromaru,0,0,0,,How about Ichiko?
+Dialogue: 0,0:11:43.81,0:11:46.93,Default,Taromaru,0,0,0,,She's deep in thought \Nwhile staring at the ingredients.
+Dialogue: 0,0:11:50.81,0:11:53.49,Default,Taromaru,0,0,0,,Whoa! Where's Ichiko off to?!
+Dialogue: 0,0:11:53.49,0:11:56.82,DefaultItalics,Taromaru,0,0,0,,Is MayoPan's Ichiko running \Nfor her life off the stage?!
+Dialogue: 0,0:11:56.82,0:11:58.32,Default,Masaki,0,0,0,,What is she {\i1}doing?!{\i0}
+Dialogue: 0,0:12:00.43,0:12:01.15,Default,Masaki,0,0,0,,Ichiko!
+Dialogue: 0,0:12:03.78,0:12:06.70,Default,Masaki,0,0,0,,Where did you go?!
+Dialogue: 0,0:12:06.70,0:12:07.85,Default,Masaki,0,0,0,,For the love of...
+Dialogue: 0,0:12:07.85,0:12:09.45,Default,Ichiko,0,0,0,,I'm back!
+Dialogue: 0,0:12:09.45,0:12:12.21,Default,Ichiko,0,0,0,,I was missing some ingredients, \Nso I went to buy them!
+Dialogue: 0,0:12:12.21,0:12:14.17,Default,Masaki,0,0,0,,Hurry up and get back out there!
+Dialogue: 0,0:12:14.62,0:12:17.63,Default,Taromaru,0,0,0,,Cast Iron Ken's working that wok like a pro!
+Dialogue: 0,0:12:17.63,0:12:20.04,DefaultTop,Ichiko,0,0,0,,Sorry to keep you waiting!
+Dialogue: 0,0:12:18.78,0:12:21.13,Default,Taromaru,0,0,0,,Oh, Ichiko has returned!
+Dialogue: 0,0:12:21.13,0:12:23.01,Default,Taromaru,0,0,0,,Where have you been, Ichiko?
+Dialogue: 0,0:12:23.01,0:12:24.14,Default,Masaki,0,0,0,,Sheesh.
+Dialogue: 0,0:12:24.14,0:12:27.04,Default,Masaki,0,0,0,,I would have gone instead if she'd asked.
+Dialogue: 0,0:12:28.19,0:12:29.14,Default,Masaki,0,0,0,,I'm back.
+Dialogue: 0,0:12:29.14,0:12:32.18,Default,Live,0,0,0,,There you are, alien tacos!
+Dialogue: 0,0:12:33.14,0:12:34.08,Default,Live,0,0,0,,Amigo!
+Dialogue: 0,0:12:34.08,0:12:35.19,Default,Masaki,0,0,0,,Live?
+Dialogue: 0,0:12:36.28,0:12:39.32,Default,Live,0,0,0,,I'll take care of you lot!
+Dialogue: 0,0:12:39.87,0:12:40.80,Default,Masaki,0,0,0,,Huh?
+Dialogue: 0,0:12:42.58,0:12:44.78,Default,Live,0,0,0,,A tortilla punch?!
+Dialogue: 0,0:12:45.59,0:12:46.78,Default,Live,0,0,0,,Not-cho fast!
+Dialogue: 0,0:12:52.05,0:12:53.46,Default,Masaki,0,0,0,,Don't tell me...
+Dialogue: 0,0:12:53.46,0:12:54.46,Signs,Sign,0,0,0,,{\bord2.5\an7\fs18\c&HBA8883&\3c&HD7F1E8&\pos(30,10)}[Ingredients]\NMastamin\NMastamin concentrate\NHoney\NGarlic\NGarlic extract\NCitric acid
+Dialogue: 0,0:12:53.46,0:12:54.46,Signs,Sign,0,0,0,,{\bord2.5\an7\fs18\c&HBA8883&\3c&HD7F1E8&\pos(144,64)}Vitamin B2\NRoyal jelly\NGuarana extract\NCaffeine
+Dialogue: 0,0:12:55.34,0:12:56.28,Default,Taromaru,0,0,0,,Okay!
+Dialogue: 0,0:12:56.28,0:12:58.21,Default,Taromaru,0,0,0,,Both chefs have completed their dish!
+Dialogue: 0,0:12:58.82,0:13:01.35,Default,Taromaru,0,0,0,,First up, Cast Iron Ken!
+Dialogue: 0,0:13:02.11,0:13:04.13,Default,Taromaru,0,0,0,,It's fried rice!
+Dialogue: 0,0:13:04.13,0:13:05.84,Default,Taromaru,0,0,0,,Now that looks good!
+Dialogue: 0,0:13:05.84,0:13:08.84,Default,Taromaru,0,0,0,,Let's see what Ichiko's whipped up!
+Dialogue: 0,0:13:08.84,0:13:10.88,Default,Ichiko,0,0,0,,It might not have set yet, but...
+Dialogue: 0,0:13:10.88,0:13:12.53,Default,Taromaru,0,0,0,,A perfect complement, mapo tofu—
+Dialogue: 0,0:13:12.53,0:13:14.93,Default,Taromaru,0,0,0,,A-Almond tofu?!
+Dialogue: 0,0:13:14.93,0:13:15.98,Default,Salami,0,0,0,,Almond tofu?!
+Dialogue: 0,0:13:16.27,0:13:16.94,Signs,Sign,0,0,0,,{\fad(192,1)\fnTimes New Roman\pos(285.5,200)\c&H50B747&\3c&H50B747&\bord4\frz10.93\fax-0.35}Milk
+Dialogue: 1,0:13:16.27,0:13:16.94,Signs,Sign,0,0,0,,{\fad(192,1)\fnTimes New Roman\pos(285.5,200)\c&H50B747&\3c&HFEFFF9&\bord2.5\frz10.93\fax-0.35}Milk
+Dialogue: 0,0:13:17.02,0:13:23.19,Signs,Sign,0,0,0,,{\fad(192,1)\fnTimes New Roman\c&H50B747&\3c&H50B747&\bord2.4\fax-0.32\fs14.4\pos(224.5,49.5)\frz12.07}Milk
+Dialogue: 1,0:13:17.02,0:13:23.19,Signs,Sign,0,0,0,,{\fad(192,1)\fnTimes New Roman\c&H50B747&\3c&HFEFFF9&\bord1.5\fax-0.32\fs14.4\pos(224.5,49.5)\frz12.07}Milk
+Dialogue: 0,0:13:17.45,0:13:19.31,Default,Ichiko,0,0,0,,There wasn't any milk!
+Dialogue: 0,0:13:19.31,0:13:22.07,Default,Taromaru,0,0,0,,Sorry, but your dish was mapo tofu!
+Dialogue: 0,0:13:22.07,0:13:23.19,Default,Ichiko,0,0,0,,What?!
+Dialogue: 0,0:13:26.45,0:13:30.29,Default,Fu,0,0,0,,I bombed the song, \Nand Tokage-san stole my faves.
+Dialogue: 0,0:13:30.29,0:13:32.66,Default,Tokage,0,0,0,,I've been instilled with fear and trauma.
+Dialogue: 0,0:13:32.66,0:13:35.42,Default,Ichiko,0,0,0,,I misread the kanji and made the wrong dish.
+Dialogue: 0,0:13:35.42,0:13:37.90,Default,Tokage,0,0,0,,You're fine! The crowd loved it!
+Dialogue: 0,0:13:37.90,0:13:38.98,Default,Ichiko,0,0,0,,Mapo... Mapo...
+Dialogue: 0,0:13:38.98,0:13:40.58,DefaultItalics,Staff 2,0,0,0,,Live-san from MayoPan!
+Dialogue: 0,0:13:40.58,0:13:43.84,DefaultItalics,Staff 2,0,0,0,,It's time for your performance, \Nso please come right away!
+Dialogue: 0,0:13:43.84,0:13:45.67,Default,Masaki,0,0,0,,No choice now.
+Dialogue: 0,0:13:45.67,0:13:47.47,Default,Masaki,0,0,0,,Live, let's go!
+Dialogue: 0,0:13:48.30,0:13:50.92,Default,Taromaru,0,0,0,,Time for the quiz collab!
+Dialogue: 0,0:13:48.30,0:13:51.18,Signs,Sign,0,0,0,,{\fad(1,476)\fs8\bord1\pos(248,154.5)}Yukichi Survivor\NReia
+Dialogue: 0,0:13:48.30,0:13:51.18,Signs,Sign,0,0,0,,{\fad(1,476)\fs8\bord1\pos(322.5,163)}Plumb Wrong Logic
+Dialogue: 0,0:13:48.30,0:13:51.18,Signs,Sign,0,0,0,,{\fad(1,476)\fs8\bord1\pos(395.5,163)}Live
+Dialogue: 0,0:13:50.72,0:13:56.35,Signs,Sign,0,0,0,,{\fad(440,893)\fs36\fnArial Black\bord4\3c&HFFFFFF&\pos(475.5,51)}Quiz Collab!!
+Dialogue: 1,0:13:50.72,0:13:56.35,Signs,Sign,0,0,0,,{\fad(440,893)\fs36\fnArial Black\c&H8829EC&\bord1.5\shad1\pos(475.5,51)}Q{\c&HF6CFD8&}ui{\c&HEEF5D6&}z {\c&H5544ED&}C{\c&H8BBBF0&}olla{\c&H949BF6&}b!!
+Dialogue: 0,0:13:50.72,0:13:56.35,Signs,Sign,0,0,0,,{\fad(440,893)\fnArial Black\bord2\shad1.5\pos(348.5,202)}~Lightning Fast! 100-Question Quiz in 10 Minutes~
+Dialogue: 0,0:13:50.92,0:13:53.85,Default,Salami,0,0,0,,A hundred questions in ten minutes \Nto make the emcees cry!
+Dialogue: 0,0:13:53.85,0:13:56.35,Default,Salami,0,0,0,,Six seconds per question? No way!
+Dialogue: 0,0:13:56.35,0:14:00.85,Default,Taromaru,0,0,0,,Plumb Wrong Logic-san, \Nhow are you feeling about this quiz?
+Dialogue: 0,0:14:00.85,0:14:02.34,Default,Taromaru,0,0,0,,Plumb Wrong Logic-san?
+Dialogue: 0,0:14:02.34,0:14:04.86,Default,Taromaru,0,0,0,,Oh, looks like he's clammed up from nerves.
+Dialogue: 0,0:14:04.86,0:14:06.88,DefaultTop,Masaki,0,0,0,,Put away those wings.
+Dialogue: 0,0:14:04.86,0:14:07.61,Default,Taromaru,0,0,0,,Why don't we just say he's all fired up?
+Dialogue: 0,0:14:07.42,0:14:09.61,DefaultTop,Masaki,0,0,0,,Don't fly. Promise me you won't fly.
+Dialogue: 0,0:14:10.27,0:14:13.52,Default,Taromaru,0,0,0,,Okay, it's just about time we get started...
+Dialogue: 0,0:14:13.52,0:14:15.25,Default,Masaki,0,0,0,,All right, then go on!
+Dialogue: 0,0:14:15.54,0:14:18.91,Default,Taromaru,0,0,0,,Oh, here's Live-san from MayoPan!
+Dialogue: 0,0:14:19.73,0:14:20.64,Default,Live,0,0,0,,Hi-yah!
+Dialogue: 0,0:14:20.64,0:14:21.84,Default,Group,0,0,0,,That moron!
+Dialogue: 0,0:14:21.84,0:14:23.17,Default,Group,0,0,0,,She's flying?!
+Dialogue: 0,0:14:25.03,0:14:29.58,Default,Taromaru,0,0,0,,M-MayoPan's Live, with an explosive entrance!
+Dialogue: 0,0:14:29.58,0:14:32.14,Default,Taromaru,0,0,0,,Time to start our lightning-fast quiz!
+Dialogue: 0,0:14:32.14,0:14:33.31,DefaultItalics,Masaki,0,0,0,,Don't fly, don't fly, don't fly!
+Dialogue: 0,0:14:33.31,0:14:34.61,DefaultItalics,Masaki,0,0,0,,Don't you fly again!
+Dialogue: 0,0:14:34.61,0:14:37.58,DefaultItalics,Masaki,0,0,0,,If you get kicked out, there goes \Nour last chance to make a comeback!
+Dialogue: 0,0:14:37.58,0:14:39.10,DefaultItalics,Masaki,0,0,0,,What do I do?!
+Dialogue: 0,0:14:39.10,0:14:41.35,Default,Taromaru,0,0,0,,Okay, question number one!
+Dialogue: 0,0:14:41.35,0:14:45.68,Default,Taromaru,0,0,0,,Known as the "abalone of the fields," \Nwhat's TSUMA-shi's favorite vegetable?
+Dialogue: 0,0:14:45.68,0:14:47.28,Default,Taromaru,0,0,0,,Go ahead, Plumb Wrong Logic-san.
+Dialogue: 0,0:14:47.28,0:14:49.11,Default,Plumb Wrong Logic,0,0,0,,I sincerely apologize for my actions!
+Dialogue: 0,0:14:49.39,0:14:50.41,Default,Taromaru,0,0,0,,Too bad.
+Dialogue: 0,0:14:50.41,0:14:53.61,Default,Taromaru,0,0,0,,TSUMA-shi's favorite vegetable is \Nzha cai, not an apology!
+Dialogue: 0,0:14:53.61,0:14:55.00,Default,Salami,0,0,0,,Taro-chan, look.
+Dialogue: 0,0:14:55.00,0:14:55.74,Default,Taromaru,0,0,0,,Hm?
+Dialogue: 0,0:14:55.74,0:14:58.87,Signs,Sign,0,0,0,,{\fad(780,1)\bord2\c&H998B99&\fs12\3c&HF8F8F8&\frz-12.31\pos(322.5,58)}Top > NewTuber Roundup > NewTuber Scandals
+Dialogue: 0,0:14:55.74,0:14:58.87,Signs,Sign,0,0,0,,{\fad(780,1)\fnTimes New Roman\bord1\c&H7438E4&\fs24\3c&H282828&\frz-12.31\pos(403.5,112)}Affair {\c&HFEF4FD&}Uncovered!!
+Dialogue: 0,0:14:55.74,0:14:58.87,Signs,Sign,0,0,0,,{\fad(780,1)\an7\bord2\c&HA49C9E&\fs12\3c&HF8F8F8&\frz-12.31\pos(160,218)}Plumb Wrong Logic, NewTuber With Over\N1.6 Million Subscribers, Found Cheating
+Dialogue: 0,0:14:56.60,0:14:58.87,Default,Taromaru,0,0,0,,An apology {\i1}was{\i0} the right answer!
+Dialogue: 0,0:14:58.87,0:15:01.53,Default,Plumb Wrong Logic,0,0,0,,I truly have nothing to say for myself!
+Dialogue: 0,0:15:00.83,0:15:02.58,DefaultTop,Crowd 1,0,0,0,,Get out!
+Dialogue: 0,0:15:02.58,0:15:04.38,Default,Crowd 2,0,0,0,,Don't ruin this event!
+Dialogue: 0,0:15:04.87,0:15:06.61,DefaultItalics,Masaki,0,0,0,,What a mess.
+Dialogue: 0,0:15:06.61,0:15:09.05,DefaultItalics,Masaki,0,0,0,,Live, just get through this somehow!
+Dialogue: 0,0:15:12.15,0:15:13.62,DefaultItalics,Masaki,0,0,0,,Not good!
+Dialogue: 0,0:15:13.62,0:15:15.40,DefaultItalics,Masaki,0,0,0,,She's gonna float up!
+Dialogue: 0,0:15:15.40,0:15:17.16,Default,Staff 3,0,0,0,,The Plumb-san news is real, huh?
+Dialogue: 0,0:15:17.16,0:15:20.02,Default,Staff 4,0,0,0,,What does this mean for the quiz collab?
+Dialogue: 0,0:15:21.31,0:15:22.27,DefaultItalics,Masaki,0,0,0,,That's it!
+Dialogue: 0,0:15:22.27,0:15:24.04,Default,Masaki,0,0,0,,Let me borrow that!
+Dialogue: 0,0:15:24.04,0:15:25.98,Default,Staff 3,0,0,0,,What? H-Hey!
+Dialogue: 0,0:15:26.42,0:15:27.36,Default,Masaki,0,0,0,,Here.
+Dialogue: 0,0:15:27.36,0:15:29.48,Default,Ichiko,0,0,0,,What's that?
+Dialogue: 0,0:15:29.48,0:15:31.48,Default,Masaki,0,0,0,,Hang this rope down from the ceiling!
+Dialogue: 0,0:15:31.48,0:15:33.39,Default,Ichiko,0,0,0,,Hang down? Ceiling?
+Dialogue: 0,0:15:33.39,0:15:34.90,Default,Masaki,0,0,0,,Don't talk back! Just do it!
+Dialogue: 0,0:15:34.90,0:15:36.45,Default,Tokage,0,0,0,,Okay, Ichiko, let's go.
+Dialogue: 0,0:15:36.45,0:15:37.24,Default,Ichiko,0,0,0,,Okay.
+Dialogue: 0,0:15:37.64,0:15:40.30,Default,Masaki,0,0,0,,Fu, you'll turn into a bat and get behind Live,
+Dialogue: 0,0:15:40.30,0:15:42.35,Default,Masaki,0,0,0,,hook the rope onto her,
+Dialogue: 0,0:15:42.35,0:15:44.75,Default,Masaki,0,0,0,,and then hold her down so she doesn't fly up.
+Dialogue: 0,0:15:44.75,0:15:45.20,Default,Fu,0,0,0,,What?!
+Dialogue: 0,0:15:45.20,0:15:47.40,Default,Masaki,0,0,0,,Pull her down from below \Nso she doesn't fly away,
+Dialogue: 0,0:15:47.40,0:15:50.01,Default,Masaki,0,0,0,,and even if she does, \Nwe can explain it away with the rope!
+Dialogue: 0,0:15:50.01,0:15:51.51,Default,Fu,0,0,0,,Th-That's absurd!
+Dialogue: 0,0:15:51.51,0:15:52.97,Default,Masaki,0,0,0,,Okay, bat time!
+Dialogue: 0,0:15:52.97,0:15:53.59,Default,Fu,0,0,0,,What?
+Dialogue: 0,0:15:55.68,0:16:01.06,Default,Plumb Wrong Logic,0,0,0,,I'm really, truly sorry for what I've done!
+Dialogue: 0,0:15:59.88,0:16:00.52,DefaultTop,Masaki,0,0,0,,Now!
+Dialogue: 0,0:16:09.80,0:16:10.62,Default,Masaki,0,0,0,,All right!
+Dialogue: 0,0:16:10.62,0:16:12.90,Default,Masaki,0,0,0,,Now we should be fine either way!
+Dialogue: 0,0:16:13.95,0:16:15.72,Default,Taromaru,0,0,0,,Ten minutes have passed!
+Dialogue: 0,0:16:15.72,0:16:17.02,Default,Taromaru,0,0,0,,Time's up!
+Dialogue: 0,0:16:17.02,0:16:19.45,Default,Salami,0,0,0,,We'll have to save the other ninety-nine \Nquestions for some other day!
+Dialogue: 0,0:16:19.45,0:16:20.45,Default,Masaki,0,0,0,,No way!
+Dialogue: 0,0:16:20.45,0:16:22.33,Default,Masaki,0,0,0,,Our comeback chance!
+Dialogue: 0,0:16:23.16,0:16:26.80,Default,Ichiko,0,0,0,,Milk {\i1}does{\i0} get rid of garlic odor, but...
+Dialogue: 0,0:16:26.80,0:16:28.48,Default,Ichiko,0,0,0,,we're talking almond tofu fried rice here!
+Dialogue: 0,0:16:28.48,0:16:30.65,Default,Masaki,0,0,0,,Anything's worth a shot at this point.
+Dialogue: 0,0:16:34.17,0:16:37.52,Default,Live,0,0,0,,The almond tofu and fried rice \Nare happily having an affair.
+Dialogue: 0,0:16:37.52,0:16:39.22,Default,Live,0,0,0,,That's the dream I had.
+Dialogue: 0,0:16:43.41,0:16:44.35,Default,Masaki,0,0,0,,Yes?
+Dialogue: 0,0:16:45.15,0:16:46.61,Default,TSUMA-shi,0,0,0,,Sorry to intrude.
+Dialogue: 0,0:16:46.61,0:16:47.56,Default,Masaki,0,0,0,,TSUMA-shi-san?!
+Dialogue: 0,0:16:47.98,0:16:50.58,Default,Masaki,0,0,0,,Um, I'm sorry for how Live acted earlier...
+Dialogue: 0,0:16:50.58,0:16:53.23,Default,TSUMA-shi,0,0,0,,No, I should be the one apologizing!
+Dialogue: 0,0:16:53.23,0:16:55.68,Default,TSUMA-shi,0,0,0,,So sorry about Plumb Wrong Logic!
+Dialogue: 0,0:16:55.68,0:16:57.68,Default,TSUMA-shi,0,0,0,,He ruined Live's first time on stage!
+Dialogue: 0,0:16:57.68,0:16:58.94,Default,Masaki,0,0,0,,TSUMA-shi-san! Don't—
+Dialogue: 0,0:16:58.94,0:16:59.66,Default,TSUMA-shi,0,0,0,,Non!
+Dialogue: 0,0:17:01.43,0:17:03.78,Default,TSUMA-shi,0,0,0,,I'll get the crowd fired up for part two!
+Dialogue: 0,0:17:03.78,0:17:05.96,Default,TSUMA-shi,0,0,0,,Let's make it an extremely great time together!
+Dialogue: 0,0:17:07.48,0:17:08.59,Default,Masaki,0,0,0,,Yes!
+Dialogue: 0,0:17:08.59,0:17:09.54,Default,TSUMA-shi,0,0,0,,See you!
+Dialogue: 0,0:17:14.52,0:17:15.87,Default,Live,0,0,0,,Masaki?
+Dialogue: 0,0:17:15.87,0:17:18.48,Default,Masaki,0,0,0,,TSUMA-shi-san's doing so much for us,
+Dialogue: 0,0:17:18.48,0:17:20.68,Default,Masaki,0,0,0,,but we haven't managed to do anything!
+Dialogue: 0,0:17:20.68,0:17:22.50,Default,Masaki,0,0,0,,We can't go back like this!
+Dialogue: 0,0:17:22.50,0:17:23.73,Default,Masaki,0,0,0,,Not on my watch!
+Dialogue: 0,0:17:24.24,0:17:28.18,Default,Masaki,0,0,0,,We'll make sure our song \Nas MayoPan is a success!
+Dialogue: 0,0:17:30.16,0:17:33.18,Default,Masaki,0,0,0,,Let's make it a stellar performance!
+Dialogue: 0,0:17:34.10,0:17:35.61,Default,Masaki,0,0,0,,Go, MayoPan!
+Dialogue: 0,0:17:36.00,0:17:37.36,Default,Group,0,0,0,,Yeah!
+Dialogue: 0,0:17:38.36,0:17:39.45,Default,Crowd 1,0,0,0,,Huh, what?
+Dialogue: 0,0:17:39.45,0:17:40.28,Default,Crowd 2,0,0,0,,A blackout?
+Dialogue: 0,0:17:40.28,0:17:41.99,Default,TSUMA-shi,0,0,0,,Sorry, everyone!
+Dialogue: 0,0:17:41.99,0:17:44.61,Default,TSUMA-shi,0,0,0,,Looks like we lost power!
+Dialogue: 0,0:17:44.61,0:17:48.53,Default,TSUMA-shi,0,0,0,,We're looking into what caused it, \Nso be patient for a little longer!
+Dialogue: 0,0:17:48.53,0:17:49.78,DefaultTop,Group,0,0,0,,Okay!
+Dialogue: 0,0:17:48.53,0:17:49.78,Default,Garden Eel,0,0,0,,Why'd the power go out?
+Dialogue: 0,0:17:49.78,0:17:52.21,Default,Daifuku Minister,0,0,0,,My house lost power once from a water leak.
+Dialogue: 0,0:17:52.21,0:17:53.37,Default,Daifuku Minister,0,0,0,,The pipes rusted away.
+Dialogue: 0,0:17:55.43,0:17:57.34,Default,Masaki,0,0,0,,We might be able to fix the blackout.
+Dialogue: 0,0:17:57.34,0:17:57.88,Default,Live,0,0,0,,What?
+Dialogue: 0,0:17:57.88,0:17:59.30,Default,Masaki,0,0,0,,I'll go take care of it!
+Dialogue: 0,0:17:59.30,0:18:00.70,Default,Live,0,0,0,,But how?
+Dialogue: 0,0:18:00.70,0:18:03.14,Default,TSUMA-shi,0,0,0,,Be careful in the dark \Nor you could hurt yourself!
+Dialogue: 0,0:18:09.42,0:18:11.83,Default,Masaki,0,0,0,,Don't you want to redeem your reputation?
+Dialogue: 0,0:18:12.36,0:18:14.19,Default,Group,0,0,0,,That's asking for a lot!
+Dialogue: 0,0:18:14.19,0:18:15.93,Default,Live,0,0,0,,It's fine, it's fine!
+Dialogue: 0,0:18:15.93,0:18:17.57,Default,Live,0,0,0,,The least we can do is try!
+Dialogue: 0,0:18:18.39,0:18:20.26,Default,Plumb Wrong Logic,0,0,0,,A short circuit?
+Dialogue: 0,0:18:20.26,0:18:21.14,Default,Masaki,0,0,0,,That's right!
+Dialogue: 0,0:18:21.14,0:18:24.65,Default,Masaki,0,0,0,,There might be a leak in this run-down venue!
+Dialogue: 0,0:18:25.33,0:18:28.96,Default,Masaki,0,0,0,,I'm gonna make the crowd \Nhear their song, no matter what!
+Dialogue: 0,0:18:30.08,0:18:31.77,Default,Masaki,0,0,0,,Look! There!
+Dialogue: 0,0:18:32.46,0:18:35.06,Default,Plumb Wrong Logic,0,0,0,,That's not related to the power outage.
+Dialogue: 0,0:18:35.06,0:18:35.89,Default,Masaki,0,0,0,,Why not?
+Dialogue: 0,0:18:35.89,0:18:38.72,Default,Plumb Wrong Logic,0,0,0,,There's no circuitry near that leak.
+Dialogue: 0,0:18:38.72,0:18:39.97,Default,Plumb Wrong Logic,0,0,0,,That's plumb wrong logic.
+Dialogue: 0,0:18:39.97,0:18:41.12,Default,Masaki,0,0,0,,Screw you!
+Dialogue: 0,0:18:41.12,0:18:42.48,Default,Masaki,0,0,0,,What now, then?!
+Dialogue: 0,0:18:42.48,0:18:44.58,Default,Yuki,0,0,0,,Yukirinko knows who did it!
+Dialogue: 0,0:18:44.58,0:18:45.10,Default,Masaki,0,0,0,,Huh?
+Dialogue: 0,0:18:46.46,0:18:49.42,Default,Yuki,0,0,0,,Mastamin Z!
+Dialogue: 0,0:18:49.42,0:18:50.10,Default,TSUMA-shi,0,0,0,,It's no use.
+Dialogue: 0,0:18:50.43,0:18:51.61,Default,TSUMA-shi,0,0,0,,Let's call it off.
+Dialogue: 0,0:18:51.61,0:18:52.59,Default,Group,0,0,0,,What?!
+Dialogue: 0,0:18:52.59,0:18:55.24,Default,TSUMA-shi,0,0,0,,We can't keep the audience\N waiting any longer.
+Dialogue: 0,0:18:55.24,0:18:56.48,Default,Live,0,0,0,,TSUMA-shi-san!
+Dialogue: 0,0:18:57.53,0:19:00.43,Default,Masaki,0,0,0,,Hey! There's no one here!
+Dialogue: 0,0:19:00.43,0:19:01.99,Default,Yuki,0,0,0,,Whazzis?
+Dialogue: 0,0:19:01.99,0:19:04.52,Default,Yuki,0,0,0,,Found a cute ribbon!
+Dialogue: 0,0:19:14.50,0:19:15.98,Default,Masaki,0,0,0,,Under there?
+Dialogue: 0,0:19:14.50,0:19:19.13,DefaultTop,Yuki,0,0,0,,Ribbon-san, are you trying \Nto rack up views, too?
+Dialogue: 0,0:19:19.13,0:19:21.51,Default,Pien,0,0,0,,Are Outlaw and Sidebrah coming?
+Dialogue: 0,0:19:22.50,0:19:23.76,Default,Live,0,0,0,,We'll sing!
+Dialogue: 0,0:19:23.76,0:19:25.25,Default,TSUMA-shi,0,0,0,,You can't be serious!
+Dialogue: 0,0:19:25.25,0:19:26.89,Default,TSUMA-shi,0,0,0,,There's no audio or lighting!
+Dialogue: 0,0:19:26.89,0:19:28.40,Default,Live,0,0,0,,It's fine!
+Dialogue: 0,0:19:28.40,0:19:30.90,Default,Live,0,0,0,,Our Masaki will figure it out!
+Dialogue: 0,0:19:30.90,0:19:34.94,Default,Live,0,0,0,,Besides, even without a mic, I'm pretty loud.
+Dialogue: 0,0:19:34.94,0:19:36.80,Default,Live,0,0,0,,We'll go ahead without mics!
+Dialogue: 0,0:19:36.80,0:19:42.01,Default,Tokage,0,0,0,,And if it doesn't work out, we'll beg on our \Nknees, or stomachs, or whatever you want.
+Dialogue: 0,0:19:42.01,0:19:44.53,Default,Tokage,0,0,0,,How 'bout it? Will you gamble on us?
+Dialogue: 0,0:19:44.53,0:19:46.95,Default,Outlaw,0,0,0,,You said it, Tokage-nee-san!
+Dialogue: 0,0:19:50.76,0:19:52.17,Default,TSUMA-shi,0,0,0,,Okay.
+Dialogue: 0,0:19:52.17,0:19:54.04,Default,TSUMA-shi,0,0,0,,Let's give it a shot, then!
+Dialogue: 0,0:19:54.59,0:19:56.73,Default,TSUMA-shi,0,0,0,,TSUMA FES Extreme...
+Dialogue: 0,0:19:56.73,0:19:58.78,Default,TSUMA-shi,0,0,0,,Bomber!
+Dialogue: 0,0:19:58.78,0:19:59.49,Default,Masaki,0,0,0,,Ow!
+Dialogue: 0,0:19:59.49,0:20:00.97,Default,Masaki,0,0,0,,That hurts, damn it!
+Dialogue: 0,0:20:00.97,0:20:03.15,Default,Pien,0,0,0,,Yes, this will mean it never happened.
+Dialogue: 0,0:20:03.15,0:20:05.97,Default,Pien,0,0,0,,Even if it was scripted, \Nthat confession is just too awful.
+Dialogue: 0,0:20:05.37,0:20:07.14,DefaultTop,Masaki,0,0,0,,Hey, wait! That cable!
+Dialogue: 0,0:20:05.97,0:20:08.31,Default,Pien,0,0,0,,I'll be the one to protect those two!
+Dialogue: 0,0:20:07.14,0:20:08.31,DefaultTop,Masaki,0,0,0,,Hand it over already!
+Dialogue: 0,0:20:08.31,0:20:12.11,Default,Taromaru,0,0,0,,Thank you all so, {\i1}so{\i0} much for your patience!
+Dialogue: 0,0:20:12.11,0:20:15.55,Default,Salami,0,0,0,,I know it's still dark, \Nbut we're starting the second half!
+Dialogue: 0,0:20:15.55,0:20:17.77,Default,Taromaru,0,0,0,,First up on stage will be...
+Dialogue: 0,0:20:17.77,0:20:19.86,Default,Group,0,0,0,,Mayonaka Punch!
+Dialogue: 0,0:20:28.99,0:20:30.76,Default,Masaki,0,0,0,,Let go already!
+Dialogue: 0,0:20:30.76,0:20:33.21,Default,Pien,0,0,0,,I won't let anyone get in the way of our love!
+Dialogue: 0,0:20:53.23,0:20:55.94,Default,Yuki,0,0,0,,Keep it up! Keep it up!
+Dialogue: 0,0:20:54.84,0:20:56.98,DefaultTop,Masaki,0,0,0,,Stop tripping and help me, you old fart!
+Dialogue: 0,0:20:57.25,0:21:00.23,Default,Pien,0,0,0,,I'll be the one to save the two of them!
+Dialogue: 0,0:21:15.09,0:21:20.76,Default,Masaki,0,0,0,,We've worked so hard preparing for today!
+Dialogue: 0,0:21:29.76,0:21:33.50,Default,Masaki,0,0,0,,We need people like {\i1}you{\i0}\N to hit the subscribe button,
+Dialogue: 0,0:21:33.50,0:21:37.27,Default,Masaki,0,0,0,,so we've spent countless hours\N coming up with ideas!
+Dialogue: 0,0:22:00.94,0:22:02.42,Default,Masaki,0,0,0,,I swear...
+Dialogue: 0,0:22:02.42,0:22:05.58,Default,Masaki,0,0,0,,I was the one who wanted to see it the most.
+Dialogue: 0,0:23:22.92,0:23:24.07,Default,Masaki,0,0,0,,Huh?
+Dialogue: 0,0:23:25.59,0:23:27.80,Default,Ichiko,0,0,0,,Today's event got us even closer \Nto one million subs!
+Dialogue: 0,0:23:27.80,0:23:29.63,Default,Tokage,0,0,0,,Now I can finally upsize my beef bowls!
+Dialogue: 0,0:23:29.63,0:23:31.38,Default,Ichiko,0,0,0,,That's right! You can even add an egg!
+Dialogue: 0,0:23:31.05,0:23:31.63,DefaultTop,Tokage,0,0,0,,An egg?!
+Dialogue: 0,0:23:31.38,0:23:32.41,Default,Ichiko,0,0,0,,With tonjiru on the side!
+Dialogue: 0,0:23:32.41,0:23:33.18,Default,Tokage,0,0,0,,Tonjiru!
+Dialogue: 0,0:23:33.18,0:23:36.18,Default,Group,0,0,0,,Next time: "Welcome. \NThis Is Your New Family Home Now!"
+Dialogue: 0,0:23:33.80,0:23:36.18,Signs_EpTitle,Sign,0,0,0,,{\3c&H2E2C40&}Welcome. This Is Your New Family Home Now!
+Dialogue: 0,0:23:36.18,0:23:38.43,Default,Ichiko,0,0,0,,Order up! One large, add an egg and tonjiru!
+Dialogue: 0,0:23:38.43,0:23:40.02,Default,Tokage,0,0,0,,The big dream I've waited for!

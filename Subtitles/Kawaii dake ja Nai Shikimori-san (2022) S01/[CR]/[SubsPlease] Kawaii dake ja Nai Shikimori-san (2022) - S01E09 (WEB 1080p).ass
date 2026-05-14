@@ -1,0 +1,447 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,20,0
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: sign_12392_180__The_seasonal_co,Arial,12,&H00F7F8F4,&H000000FF,&H005E5130,&H005E5130,-1,0,0,0,100,100,0,0,1,2,1,7,350,20,18,1
+Style: sign_12392_179_Izumi_san,Arial,12,&H00F7F8F4,&H000000FF,&H005E5130,&H005E5130,-1,0,0,0,100,100,0,0,1,2,1,7,20,20,18,1
+Style: sign_12392_181_Overprotective__,Arial,12,&H002F2114,&H000000FF,&H00F5F3E5,&H00F5F3E5,0,0,0,0,100,100,0,0,1,2,1,1,200,20,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.80,0:00:05.80,Main,,0,0,0,,{\an1\fnArial\frz10\fs14\b1\shad0\c&H5750E9&\3c&HF8FCF9&\move(120,25,120,122)}Sun\h\h\h\h\h\h\h\h\h{\c&H575B5C&}Mon\h\h\h\h\h\hTues\h\h\h\h\h\h\h\hWed\h\h\h\h\h\h\h\hThurs\h\h\h\h\h\h\h\h\h\h\hFri\h\h\h\h\h\h\h\h\h\h\h\h\h{\c&HFFB44B&}Sat
+Dialogue: 0,0:00:06.18,0:00:07.95,Main,Inuzuka,0,0,0,,Yo.
+Dialogue: 0,0:00:07.28,0:00:08.79,Main,Nekozaki,0,0,0,,Inu!
+Dialogue: 0,0:00:08.79,0:00:12.10,Main,Nekozaki,0,0,0,,Izumi's out sick today!
+Dialogue: 0,0:00:12.11,0:00:24.12,Main,Text,0,0,0,,{\fnTimes New Roman\fs12\shad0\an8\pos(278.667,14)\3c&H455D40&}Goals for the Week
+Dialogue: 0,0:00:12.11,0:00:24.12,Main,Text,0,0,0,,{\fnTimes New Roman\fs12\shad0\an8\3c&H455D40&\pos(455.334,12.667)}This Month's Events
+Dialogue: 0,0:00:12.36,0:00:15.51,Main,Inuzuka,0,0,0,,Jeez, not so loud. How do you \Nhave so much energy this early?
+Dialogue: 0,0:00:15.51,0:00:17.04,Main,Inuzuka,0,0,0,,Also, don't drop the "zuka."
+Dialogue: 0,0:00:17.04,0:00:21.09,Main,Nekozaki,0,0,0,,I don't wanna hear that from a guy who \Nrolls up his sleeves when it's this cold.
+Dialogue: 0,0:00:21.09,0:00:23.60,Main,Inuzuka,0,0,0,,Izumi messaged me this morning.
+Dialogue: 0,0:00:24.12,0:00:26.38,Main,Text,0,0,0,,{\an1\fnArial\frz-8\fs12\c&H46453A&\3c&HF1F1E6&\shad0\pos(261.334,48)}Sorry! Could you take notes for me?
+Dialogue: 0,0:00:24.12,0:00:26.38,Main,Text,0,0,0,,{\an3\fnArial\frz-8\fs12\c&H46453A&\3c&HD4F5C1&\shad0\pos(478.668,229.999)}Ok
+Dialogue: 0,0:00:24.12,0:00:26.38,Main,Text,0,0,0,,{\an1\fnArial\frz-8\fs12\c&H46453A&\3c&HF1F1E6&\shad0\pos(229.334,281.333)}Thanks
+Dialogue: 0,0:00:24.55,0:00:26.38,Main,Inuzuka,0,0,0,,He asked me to take notes for him.
+Dialogue: 0,0:00:26.38,0:00:28.86,Main,Nekozaki,0,0,0,,Oh, so you already knew?
+Dialogue: 0,0:00:28.86,0:00:30.63,Main,Nekozaki,0,0,0,,I feel so left out.
+Dialogue: 0,0:00:31.29,0:00:33.54,Main,Shikimori,0,0,0,,Oh... Notes, huh?
+Dialogue: 0,0:00:34.32,0:00:36.94,Main,Shikimori,0,0,0,,He didn't say anything to me.
+Dialogue: 0,0:00:38.19,0:00:42.90,Italics,Inuzuka,0,0,0,,For some reason, my friend's \Ngirlfriend sees me as a rival.
+Dialogue: 0,0:00:45.44,0:00:47.86,Main,Title,0,0,0,,{\fad(1780,1)\an8\fs30\fnComic Sans MS\shad0\c&H907F7D&\3c&HEEEDEB&}Shikimori's {\c&H696767&}Not {\c&H989595&}Just {\c&H92767E&}a {\c&H928B8B&}Cutie
+Dialogue: 0,0:00:50.61,0:00:50.90,Main,Title,0,0,0,,{\an8\fnComic Sans MS\fs30\bord0\shad0\b1\c&HA2A225&}Shikimori's
+Dialogue: 0,0:00:50.90,0:00:51.15,Main,Title,0,0,0,,{\an8\fnComic Sans MS\fs30\bord0\shad0\b1\bord2\c&H8D52E0&\3c&H7A4BB6&}N{\c&HEAD6F8&}o{\c&HAE85E4&}t
+Dialogue: 0,0:00:51.15,0:00:51.40,Main,Title,0,0,0,,{\an8\fnComic Sans MS\fs30\bord0\shad0\b1\c&H2EB82A&\i1}Just
+Dialogue: 0,0:00:51.40,0:00:51.69,Main,Title,0,0,0,,{\an8\fnComic Sans MS\fs30\bord0\shad0\b1\c&H942896&}a
+Dialogue: 0,0:00:51.69,0:00:52.07,Main,Title,0,0,0,,{\an8\fnComic Sans MS\fs30\bord0\shad0\b1\c&H8A00EA&}Cutie
+Dialogue: 0,0:00:52.07,0:00:53.28,Main,Title,0,0,0,,{\an8\fs20\fnComic Sans MS\shad0\c&H9A9497&\frz-5\3c&HEEEDEB&\pos(78.667,112)}Shikimori's
+Dialogue: 0,0:00:52.07,0:00:53.28,Main,Title,0,0,0,,{\an8\fs20\fnComic Sans MS\shad0\3c&HEEEDEB&\c&HA3948C&\frz5\pos(199.333,106.667)}Not
+Dialogue: 0,0:00:52.07,0:00:53.28,Main,Title,0,0,0,,{\an8\fs20\fnComic Sans MS\shad0\3c&HEEEDEB&\c&H9D8C90&\pos(318.666,115.334)}Just
+Dialogue: 0,0:00:52.07,0:00:53.28,Main,Title,0,0,0,,{\an8\fs20\fnComic Sans MS\shad0\3c&HEEEDEB&\c&H8A6D65&\frz5\pos(437.999,113.334)}a
+Dialogue: 0,0:00:52.07,0:00:53.28,Main,Title,0,0,0,,{\an8\fs20\fnComic Sans MS\shad0\3c&HEEEDEB&\c&H8A6D65&\frz-2\pos(569.999,112.667)}Cutie
+Dialogue: 1,0:00:53.28,0:00:55.99,Main,Title,0,0,0,,{\fad(1,50)\fnGeorgia\an8\fs48\pos(314.667,226.667)\shad0\blur2\c&H611DDF&\3c&HFFFFFF&)\clip(293.333,228.667,304,241.333)}Shikimori's\N{\fs34}N{\c&H631FE1&}o{\c&H030100&}t Just a {\c&H631FE1&}Cutie
+Dialogue: 1,0:00:53.28,0:00:55.99,Main,Title,0,0,0,,{\fad(1,50)\fnGeorgia\an8\fs48\pos(314.667,226.667)\shad0\blur2\c&H631FE1&\3c&HFFFFFF&)\clip(254.667,230.667,268,241.333)}Shikimori's\N{\fs34}N{\c&H631FE1&}o{\c&H030100&}t Just a {\c&H631FE1&}Cutie
+Dialogue: 1,0:00:53.28,0:00:55.99,Main,Title,0,0,0,,{\fad(1,50)\fnGeorgia\an8\fs48\pos(314.667,226.667)\shad0\blur2\c&H631FE1&\3c&HFFFFFF&)\clip(382,230.667,393.333,243.333)}Shikimori's\N{\fs34}N{\c&H631FE1&}o{\c&H030100&}t Just a {\c&H631FE1&}Cutie
+Dialogue: 1,0:00:53.28,0:00:55.99,Main,Title,0,0,0,,{\fad(1,50)\fnGeorgia\an8\fs48\pos(314.667,226.667)\shad0\blur2\c&H631FE1&\3c&HFFFFFF&\clip(392,230.667,403.333,247.333)}Shikimori's\N{\fs34}N{\c&H631FE1&}o{\c&H030100&}t Just a {\c&H631FE1&}Cutie
+Dialogue: 0,0:00:53.28,0:00:55.99,Main,Title,0,0,0,,{\fad(1,50)\fnGeorgia\an8\fs48\pos(314.667,226.667)\shad0\blur2\c&H030100&\3c&HFFFFFF&}Shikimori's\N{\fs34}N{\c&H631FE1&}o{\c&H030100&}t Just a {\c&H631FE1&}Cutie
+Dialogue: 0,0:01:23.77,0:01:24.31,Main,Text,0,0,0,,{\fnArial\fs14\shad0\frz27\pos(256,311.333)\c&HCBB5AF&\3c&HFBFBF6&}Amusement Park
+Dialogue: 0,0:01:25.10,0:01:25.73,Main,Text,0,0,0,,{\fnComic Sans MS\fs16\frz-17\c&HC4B4AA&\shad0\b1\3c&HFCF5ED&\pos(355.333,123.334)}Shikimori-san might like it??
+Dialogue: 0,0:01:25.10,0:01:25.73,Main,Text,0,0,0,,{\fnComic Sans MS\fs16\frz-17\pos(375.333,50.667)\c&HC4B4AA&\shad0\b1\3c&HFCF5ED&}Get a reservation!!!
+Dialogue: 0,0:01:25.10,0:01:25.73,Main,Text,0,0,0,,{\fnComic Sans MS\fs16\frz-3\c&HC7B8C1&\shad0\b1\3c&HE7DFFE&\pos(147.333,302.666)}Get gifts for the family
+Dialogue: 0,0:01:25.10,0:01:25.73,Main,Text,0,0,0,,{\fnComic Sans MS\fs16\frz-9\c&HC4B4AA&\shad0\b1\3c&HF0FAE7&\pos(599.333,290.667)}Eat this!!
+Dialogue: 0,0:01:26.48,0:01:27.06,Main,Text,0,0,0,,{\an7\frz20\bord0\shad0\fnArial\fs14\c&HB8B8B8&\pos(193.334,61.333)}Inuzuka-kun
+Dialogue: 0,0:01:26.48,0:01:27.06,Main,Text,0,0,0,,{\fnComic Sans MS\fs16\frz-9\c&HC4B4AA&\shad0\b1\3c&HF0FAE7&\pos(618,312.667)}Eat this!!
+Dialogue: 0,0:01:26.48,0:01:27.06,Main,Text,0,0,0,,{\an7\frz21\bord3\shad0\fnArial\fs11\c&HFFFFFF&\3c&H7CCEF6&\pos(170,106)}Keep warm and go to bed early!!
+Dialogue: 0,0:01:26.48,0:01:27.06,Main,Text,0,0,0,,{\an7\frz20\bord3\shad0\fnArial\fs11\c&HFFFFFF&\3c&HD9E77D&\pos(343,100)}Inuzuka-kun!!
+Dialogue: 0,0:01:26.48,0:01:27.06,Main,Text,0,0,0,,{\an7\frz20\bord0\shad1\fnArial\fs14\c&HD9E77D&\pos(337,145)\4c&HA6C48C&}Please Help{\c&HFFFFFF&}
+Dialogue: 0,0:01:26.48,0:01:27.06,Main,Text,0,0,0,,{\an7\frz20\bord3\shad0\fnArial\fs11\fscx90\c&HFFFFFF&\3c&HD9E77D&\pos(311,273)}I'm going to an amusement park with \NShikimori-san next week. Suggestions...?
+Dialogue: 0,0:02:14.02,0:02:17.99,Main,Title,0,0,0,,{\fad(500,1)\an1\fnTimes New Roman\bord1.5\b1\fs28\shad0\3c&H1B191E&\pos(54,310)}#09  {\fs24\fscy110}Innocence and Clumsiness
+Dialogue: 0,0:02:15.91,0:02:17.99,Main,Inuzuka,0,0,0,,Why does this happen?
+Dialogue: 0,0:02:18.34,0:02:23.25,Main,Inuzuka,0,0,0,,Does she think everyone who's ever \Nin Izumi's vicinity is her rival?
+Dialogue: 0,0:02:23.25,0:02:25.99,Main,Inuzuka,0,0,0,,I guess it's true. Love really is blind.
+Dialogue: 0,0:02:26.26,0:02:29.36,Main,Hachimitsu,0,0,0,,Well, Neko and I hang around Izumi, too,
+Dialogue: 0,0:02:29.36,0:02:31.44,Main,Hachimitsu,0,0,0,,and she's never glared at us.
+Dialogue: 0,0:02:31.44,0:02:34.12,Main,Inuzuka,0,0,0,,What?! Does she just hate me, then?!
+Dialogue: 0,0:02:34.30,0:02:35.99,Main,Inuzuka,0,0,0,,Tell me, Nekozaki!
+Dialogue: 0,0:02:35.99,0:02:36.91,Main,Nekozaki,0,0,0,,Not so close!
+Dialogue: 0,0:02:36.91,0:02:40.61,Main,Nekozaki,0,0,0,,Look, she doesn't hate you, okay? You're fine.
+Dialogue: 0,0:02:40.61,0:02:43.13,Main,Nekozaki,0,0,0,,Just today, Micchon was saying...
+Dialogue: 0,0:02:44.67,0:02:47.27,Flashback,Shikimori,0,0,0,,Inuzuka-kun is so nice.
+Dialogue: 0,0:02:47.27,0:02:50.47,Flashback,Shikimori,0,0,0,,He's always right there with \NIzumi-san, helping him out.
+Dialogue: 0,0:02:50.47,0:02:52.15,Flashback,Nekozaki,0,0,0,,Yeah, like in PE!
+Dialogue: 0,0:02:52.52,0:02:56.01,Flashback,Shikimori,0,0,0,,And he's always got his arm around \Nhis shoulder. It looks like such fun.
+Dialogue: 0,0:02:56.01,0:02:59.12,Flashback,Shikimori,0,0,0,,And they eat lunch together every day...
+Dialogue: 0,0:02:59.61,0:03:02.61,Flashback,Shikimori,0,0,0,,Every day... together...
+Dialogue: 0,0:03:03.87,0:03:04.89,Flashback,Nekozaki,0,0,0,,Micchon?
+Dialogue: 0,0:03:05.45,0:03:08.92,Flashback,Shikimori,0,0,0,,And Inuzuka-kun is the one he \Nasks to take notes for him.
+Dialogue: 0,0:03:09.61,0:03:14.50,Flashback,Shikimori,0,0,0,,I'd take better notes for him \Nthan I take for myself!
+Dialogue: 0,0:03:14.50,0:03:16.09,Main,Inuzuka,0,0,0,,Wow, she's a pain!
+Dialogue: 0,0:03:16.61,0:03:21.67,Main,Inuzuka,0,0,0,,So that's how it is, huh? \NHe only asked me to take notes for him.
+Dialogue: 0,0:03:21.67,0:03:24.79,Main,Inuzuka,0,0,0,,I mean, I don't think I'm doing \Nanything wrong, though.
+Dialogue: 0,0:03:25.93,0:03:29.80,Main,Hachimitsu,0,0,0,,Sheesh. That Izumi ought \Nto be ashamed of himself.
+Dialogue: 0,0:03:32.74,0:03:35.09,Main,Shikimori,0,0,0,,Hey, Inuzuka-kun...
+Dialogue: 0,0:03:35.65,0:03:38.83,Main,Shikimori,0,0,0,,Do you mind if I go to\N Izumi-san's house with you today?
+Dialogue: 0,0:03:38.83,0:03:39.59,Main,Inuzuka,0,0,0,,Erk!
+Dialogue: 0,0:03:39.81,0:03:40.76,Main,Inuzuka,0,0,0,,Fine with me.
+Dialogue: 0,0:03:41.24,0:03:43.14,Main,Shikimori,0,0,0,,You said something before that, didn't you?
+Dialogue: 0,0:03:43.84,0:03:45.32,Main,Nekozaki,0,0,0,,Bye-bye!
+Dialogue: 0,0:03:43.84,0:03:45.32,Main,Hachimitsu,0,0,0,,Adieu.
+Dialogue: 0,0:03:47.44,0:03:50.20,Main,Hachimitsu,0,0,0,,Should we have let those two go together?
+Dialogue: 0,0:03:50.20,0:03:51.27,Main,Nekozaki,0,0,0,,Hachimitsu!
+Dialogue: 0,0:03:51.27,0:03:52.08,Main,Hachimitsu,0,0,0,,What?
+Dialogue: 0,0:03:52.32,0:03:57.12,Main,Nekozaki,0,0,0,,I can't go since I have practice, \Nbut I can't turn a blind eye to this!
+Dialogue: 0,0:03:57.12,0:03:58.22,Main,Nekozaki,0,0,0,,Follow them!
+Dialogue: 0,0:03:59.03,0:04:00.97,Main,Hachimitsu,0,0,0,,I'm on it.
+Dialogue: 0,0:04:07.28,0:04:08.82,Main,Inuzuka,0,0,0,,Hey, Shikimori.
+Dialogue: 0,0:04:09.59,0:04:12.72,Main,Inuzuka,0,0,0,,Do you... like...
+Dialogue: 0,0:04:13.12,0:04:15.97,Flashback_Italics,Nekozaki,0,0,0,,Look, she doesn't hate you, okay? You're fine.
+Dialogue: 0,0:04:17.30,0:04:18.99,Main,Inuzuka,0,0,0,,Nah, never mind.
+Dialogue: 0,0:04:20.33,0:04:21.23,Main,Shikimori,0,0,0,,Okay.
+Dialogue: 0,0:04:22.09,0:04:25.49,Main,Shikimori,0,0,0,,Oh, there's somewhere I'd like\N to swing by. Is that okay?
+Dialogue: 0,0:04:25.49,0:04:27.12,Main,Inuzuka,0,0,0,,Sure, I guess.
+Dialogue: 0,0:04:27.74,0:04:31.50,Main,Text,0,0,0,,{\fnArial\fs12\c&H523F3B&\3c&HF4F1F4&\shad0\b1\pos(349.333,86)}As the Dry Season Comes, You Need Quick Results!!
+Dialogue: 0,0:04:29.67,0:04:31.49,Main,Shikimori,0,0,0,,Which one should I get?
+Dialogue: 0,0:04:31.50,0:04:32.62,Main,Text,0,0,0,,{\an8\fnArial\b1\fs18\pos(246.666,78.666)\shad0\c&H30281E&\3c&H70CDCB&}Black {\c&H345EB1&}HARD\N{\fs26\c&H30281E&\3c&HECF5E4&}Throat Drops\N{\fs18\c&HEA57A0&\3c&H30281E&}Ultra {\c&H87AB5A&}Propolis Blend\N{\c&H70CDCB&}Contains 1,000mg
+Dialogue: 0,0:04:31.98,0:04:33.75,Main,Shikimori,0,0,0,,This one... or this one?
+Dialogue: 0,0:04:32.62,0:04:33.75,Main,Text,0,0,0,,{\an8\fnTimes New Roman\b1\fs20\shad0\c&H1168D9&\3c&H8DF3F9&\pos(359.999,93.333)}Yuzu and Honey Throat Drops \N{\fs18\3c&HFFFFFC&\c&H6968D3&}Contains 19% Yuzu Juice
+Dialogue: 0,0:04:34.19,0:04:36.70,Main,Shikimori,0,0,0,,Which one would Izumi-san like?
+Dialogue: 0,0:04:38.18,0:04:40.56,Italics,Inuzuka,0,0,0,,Is it worth agonizing over that much?
+Dialogue: 0,0:04:40.56,0:04:42.30,Main,Shikimori,0,0,0,,Which do you think he'd like?
+Dialogue: 0,0:04:42.30,0:04:43.76,Main,Inuzuka,0,0,0,,Uh, the one on the right.
+Dialogue: 0,0:04:43.76,0:04:44.63,Main,Shikimori,0,0,0,,So thoughtless!
+Dialogue: 0,0:04:46.22,0:04:47.50,Main,Shikimori,0,0,0,,Then...
+Dialogue: 0,0:04:47.94,0:04:50.13,Main,Shikimori,0,0,0,,If it's between this one and this one...
+Dialogue: 0,0:04:50.38,0:04:51.84,Main,Shikimori,0,0,0,,Which would you pick, Nii-san?
+Dialogue: 0,0:04:51.84,0:04:55.72,Main,Inuzuka,0,0,0,,Huh? Those aren't even throat drops.
+Dialogue: 0,0:04:55.72,0:04:57.98,Main,Inuzuka,0,0,0,,Hey, that one has \Ngrape-flavored ones in it!
+Dialogue: 0,0:04:57.98,0:04:59.27,Main,Inuzuka,0,0,0,,Totally the left!
+Dialogue: 0,0:05:00.11,0:05:01.02,Main,Inuzuka,0,0,0,,Wait...
+Dialogue: 0,0:05:01.87,0:05:03.89,Main,Inuzuka,0,0,0,,Did you just call me "Nii-san"?
+Dialogue: 0,0:05:04.69,0:05:06.17,Main,Shikimori,0,0,0,,I-I-I...
+Dialogue: 0,0:05:06.65,0:05:09.21,Main,Shikimori,0,0,0,,I did not! Off to the checkout line!
+Dialogue: 0,0:05:09.21,0:05:12.15,Main,Inuzuka,0,0,0,,Isn't that like calling your teacher "Mom"?
+Dialogue: 0,0:05:13.96,0:05:14.67,Main,Shikimori,0,0,0,,Here.
+Dialogue: 0,0:05:14.94,0:05:17.49,Main,Inuzuka,0,0,0,,Huh? What're you talking about?
+Dialogue: 0,0:05:17.49,0:05:18.51,Main,Shikimori,0,0,0,,It's for you.
+Dialogue: 0,0:05:18.51,0:05:21.06,Main,Inuzuka,0,0,0,,Huh? You didn't get that for Izumi?
+Dialogue: 0,0:05:21.06,0:05:24.89,Main,Shikimori,0,0,0,,The throat drops are for him.\N These are for you.
+Dialogue: 0,0:05:24.89,0:05:25.68,Main,Inuzuka,0,0,0,,Why?
+Dialogue: 0,0:05:26.50,0:05:28.92,Main,Shikimori,0,0,0,,You like grape, right?
+Dialogue: 0,0:05:30.17,0:05:34.07,Main,Inuzuka,0,0,0,,What the heck are you planning?
+Dialogue: 0,0:05:35.54,0:05:37.05,Main,Shikimori,0,0,0,,Fine. You can't have them.
+Dialogue: 0,0:05:37.05,0:05:40.89,Main,Inuzuka,0,0,0,,I'm sorry! You're super cool! I love grape!
+Dialogue: 0,0:05:41.33,0:05:42.68,Main,Hachimitsu,0,0,0,,I see.
+Dialogue: 0,0:05:43.47,0:05:45.46,Main,Hachimitsu,0,0,0,,All the mysteries have been solved.
+Dialogue: 0,0:05:45.46,0:05:46.63,Main,Inuzuka,0,0,0,,The heck are you doing?!
+Dialogue: 0,0:05:46.63,0:05:47.81,Main,Shikimori,0,0,0,,Hachimitsu?
+Dialogue: 0,0:05:48.22,0:05:49.57,Main,Hachimitsu,0,0,0,,Hup.
+Dialogue: 0,0:05:50.67,0:05:53.21,Main,Hachimitsu,0,0,0,,The truth is, I was secretly following you.
+Dialogue: 0,0:05:53.21,0:05:54.09,Main,Inuzuka,0,0,0,,Why, though?
+Dialogue: 0,0:05:54.09,0:05:56.08,Main,Shikimori,0,0,0,,What "mysteries" are you talking about?
+Dialogue: 0,0:05:56.40,0:05:58.21,Main,Hachimitsu,0,0,0,,I'm glad you asked.
+Dialogue: 0,0:05:58.21,0:05:59.45,Main,Inuzuka,0,0,0,,Don't ignore me!
+Dialogue: 0,0:06:04.43,0:06:08.74,Main,Hachimitsu,0,0,0,,I have figured out Shikimori's heart.
+Dialogue: 0,0:06:08.74,0:06:10.67,Main,Inuzuka,0,0,0,,H-Her heart?
+Dialogue: 0,0:06:08.74,0:06:10.67,Main,Shikimori,0,0,0,,M-My heart?
+Dialogue: 0,0:06:17.71,0:06:19.26,Main,Hachimitsu,0,0,0,,Shikimori-san.
+Dialogue: 0,0:06:19.26,0:06:22.36,Main,Hachimitsu,0,0,0,,You have an older brother, correct?
+Dialogue: 0,0:06:23.75,0:06:25.61,Main,Shikimori,0,0,0,,Y-Yes.
+Dialogue: 0,0:06:25.87,0:06:30.88,Main,Hachimitsu,0,0,0,,And you always talk to your friends about him.
+Dialogue: 0,0:06:27.61,0:06:37.04,Main,Text,0,0,0,,{\fnArial\fs16\b1\shad0\c&HFFF9FC&\blur2\3c&H404142&\pos(191.333,51.333)}Friend
+Dialogue: 0,0:06:31.29,0:06:34.68,Main,Hachimitsu,0,0,0,,You say you have trouble \Nbeing open with him
+Dialogue: 0,0:06:34.68,0:06:37.04,Main,Hachimitsu,0,0,0,,and end up treating him a bit coldly.
+Dialogue: 0,0:06:38.23,0:06:39.69,Main,Inuzuka,0,0,0,,What's she talking about?!
+Dialogue: 0,0:06:44.22,0:06:48.19,Main,Hachimitsu,0,0,0,,I'm saying that you unconsciously \Nconflate Inu with your brother
+Dialogue: 0,0:06:48.19,0:06:50.00,Main,Hachimitsu,0,0,0,,and you just want his attention!
+Dialogue: 0,0:06:53.25,0:06:57.75,Main,Inuzuka,0,0,0,,Wait, so all those times she's \Ntreated me like a rival...
+Dialogue: 0,0:06:57.75,0:06:59.86,Main,Hachimitsu,0,0,0,,She was just going into youngest-child mode
+Dialogue: 0,0:06:59.86,0:07:03.26,Main,Hachimitsu,0,0,0,,and letting her possessiveness \Nshow on the surface.
+Dialogue: 0,0:07:03.26,0:07:05.85,Main,Inuzuka,0,0,0,,Nah, that can't be it.
+Dialogue: 0,0:07:05.85,0:07:08.39,Main,Inuzuka,0,0,0,,Hey, Shikimori, you tell her.
+Dialogue: 0,0:07:08.73,0:07:14.68,Main,Shiki,0,0,0,,Y-Yeah! I definitely don't think he \Nkinda talks and acts like my brother!
+Dialogue: 0,0:07:14.68,0:07:16.15,Main,Hachimitsu,0,0,0,,So you do, then.
+Dialogue: 0,0:07:16.68,0:07:20.67,Italics,Inuzuka,0,0,0,,Oh... So she doesn't actually hate me.
+Dialogue: 0,0:07:22.76,0:07:24.05,Italics,Inuzuka,0,0,0,,Although...
+Dialogue: 0,0:07:24.47,0:07:28.69,Italics,Inuzuka,0,0,0,,I can't say it really felt like she\Njust wanted my attention.
+Dialogue: 0,0:07:29.29,0:07:30.64,Main,Hachimitsu,0,0,0,,Oh, Inu...
+Dialogue: 0,0:07:30.64,0:07:31.98,Main,Inuzuka,0,0,0,,Don't drop the "zuka."
+Dialogue: 0,0:07:31.98,0:07:33.92,Main,Hachimitsu,0,0,0,,You've got some good stuff there.
+Dialogue: 0,0:07:34.23,0:07:35.43,Main,Hachimitsu,0,0,0,,Give me one.
+Dialogue: 0,0:07:35.85,0:07:36.80,Italics,Inuzuka,0,0,0,,But still...
+Dialogue: 0,0:07:37.98,0:07:40.25,Italics,Inuzuka,0,0,0,,I don't feel that bad about it.
+Dialogue: 0,0:07:40.86,0:07:42.05,Main,Inuzuka,0,0,0,,No way!
+Dialogue: 0,0:07:42.29,0:07:46.14,Main,Inuzuka,0,0,0,,This was a gift from a cute little \Nattention-seeking baby.
+Dialogue: 0,0:07:46.14,0:07:47.68,Main,Hachimitsu,0,0,0,,Oho.
+Dialogue: 0,0:07:47.68,0:07:49.96,Main,Hachimitsu,0,0,0,,Well, I can't fault you for that.
+Dialogue: 0,0:07:52.14,0:07:55.31,Main,Shikimori,0,0,0,,What did you just call me?
+Dialogue: 0,0:07:56.82,0:07:59.34,Main,Inuzuka,0,0,0,,I'm sorry! I went too far!
+Dialogue: 0,0:07:59.34,0:08:02.17,Main,Hachimitsu,0,0,0,,M-My back... gave out...
+Dialogue: 0,0:08:07.31,0:08:09.96,Main,Izumi,0,0,0,,I hope Inuzuka-kun gets here soon.
+Dialogue: 0,0:08:11.78,0:08:14.19,Main,Nekozaki,0,0,0,,My club has the day off today!
+Dialogue: 0,0:08:14.51,0:08:16.66,Main,Nekozaki,0,0,0,,It's just you and me, Micchon!
+Dialogue: 0,0:08:16.66,0:08:18.38,Main,Shikimori,0,0,0,,This doesn't happen often, huh?
+Dialogue: 0,0:08:18.38,0:08:22.30,Main,Nekozaki,0,0,0,,Izumi and Hachimitsu are both sick,\N and I guess Inu's at work.
+Dialogue: 0,0:08:22.60,0:08:25.45,Main,Shikimori,0,0,0,,It has gotten awfully cold lately.
+Dialogue: 0,0:08:25.45,0:08:28.82,Main,Nekozaki,0,0,0,,And our athletic festival's coming up. \NI hope it'll be okay...
+Dialogue: 0,0:08:29.02,0:08:33.26,Main,Shikimori,0,0,0,,Oh, it looks like Izumi-san will be \Nback at school next week.
+Dialogue: 0,0:08:33.26,0:08:36.45,Main,Nekozaki,0,0,0,,Yeah? Good for you, Micchon.
+Dialogue: 0,0:08:36.82,0:08:41.58,sign_12392_179_Izumi_san,Text,0,0,0,,Izumi-san
+Dialogue: 0,0:08:36.82,0:08:41.58,sign_12392_180__The_seasonal_co,Text,0,0,0,,{\b0\3c&HD2F4C5&\4c&HD2F4C5&\c&H2F2114&}The seasonal cold this year is terrible. \NPlease use a humidifier in your room so you don't dry out. \NYou might want to hang your wet towels up to dry, too. \NOh, and they say gargling helps to prevent dryness!\N\N\N Have you taken your medicine? \NMake sure you take your cold medicine, okay? \NAnd keep warm, and wear a mask so you won't hurt your throat!\N\N\N And eat foods that are soft, warm, full of moisture,\N and easy to digest, like rice porridge.
+Dialogue: 0,0:08:36.82,0:08:41.58,sign_12392_181_Overprotective__,Text,0,0,0,,Overprotective!!
+Dialogue: 0,0:08:37.08,0:08:39.23,Main,Nekozaki,0,0,0,,Now you won't be lonely \Ngoing to and from school,
+Dialogue: 0,0:08:39.23,0:08:41.57,Main,Nekozaki,0,0,0,,and you won't stay glued\Nto your phone all day.
+Dialogue: 0,0:08:41.57,0:08:43.32,Main,Shikimori,0,0,0,,I'm not glued to it!
+Dialogue: 0,0:08:43.32,0:08:44.38,Main,Nekozaki,0,0,0,,Oh, yeah?
+Dialogue: 0,0:08:46.72,0:08:48.52,Main,Nekozaki,0,0,0,,Hey, isn't that Kamiya?
+Dialogue: 0,0:08:48.84,0:08:50.38,Main,Shikimori,0,0,0,,Kamiya-san...
+Dialogue: 0,0:08:51.07,0:08:52.74,Main,Shikimori,0,0,0,,She's so slim.
+Dialogue: 0,0:08:52.74,0:08:55.83,Main,Shikimori,0,0,0,,She really does stand out, \Neven from a distance. Right, Neko?
+Dialogue: 0,0:08:58.61,0:08:59.97,Main,Shikimori,0,0,0,,Huh?! Neko?!
+Dialogue: 0,0:09:00.31,0:09:02.55,Main,Nekozaki,0,0,0,,Hey, Kamiya! All by your lonesome?
+Dialogue: 0,0:09:02.55,0:09:03.68,Main,Shikimori,0,0,0,,When did she...
+Dialogue: 0,0:09:04.16,0:09:07.50,Main,Kamiya,0,0,0,,You never hold back at all, do you, Nekozaki?
+Dialogue: 0,0:09:07.50,0:09:09.72,Main,Nekozaki,0,0,0,,Oh, you remember her, right?
+Dialogue: 0,0:09:09.72,0:09:11.79,Main,Nekozaki,0,0,0,,From the Couple Numbers game.
+Dialogue: 0,0:09:11.79,0:09:12.70,Main,Kamiya,0,0,0,,Yes.
+Dialogue: 0,0:09:13.06,0:09:15.15,Main,Kamiya,0,0,0,,Shikimori-san, right?
+Dialogue: 0,0:09:15.15,0:09:15.94,Main,Nekozaki,0,0,0,,Yep!
+Dialogue: 0,0:09:16.30,0:09:18.94,Main,Shikimori,0,0,0,,It's good to see you again, Kamiya-san.
+Dialogue: 0,0:09:19.21,0:09:22.75,Main,Nekozaki,0,0,0,,Hey, wanna hang out with us?
+Dialogue: 0,0:09:22.75,0:09:23.80,Main,Nekozaki,0,0,0,,Just kidding!
+Dialogue: 0,0:09:24.53,0:09:25.78,Main,Kamiya,0,0,0,,Hmm...
+Dialogue: 0,0:09:26.96,0:09:27.80,Main,Kamiya,0,0,0,,Sure.
+Dialogue: 0,0:09:28.46,0:09:30.83,Main,Nekozaki,0,0,0,,Yeah, I didn't figure you'd...
+Dialogue: 0,0:09:32.38,0:09:33.33,Main,Nekozaki,0,0,0,,You will?!
+Dialogue: 0,0:09:33.33,0:09:34.38,Main,Kamiya,0,0,0,,For a change.
+Dialogue: 0,0:09:37.93,0:09:39.79,Main,Nekozaki,0,0,0,,Wh-Where shall we go?
+Dialogue: 0,0:09:52.88,0:09:55.93,Main,Nekozaki,0,0,0,,Kamiya, is there anywhere you wanna hit?
+Dialogue: 0,0:09:55.93,0:09:58.02,Main,Kamiya,0,0,0,,Hmm, let me think...
+Dialogue: 0,0:10:02.81,0:10:04.78,Main,Kamiya,0,0,0,,Isn't this cute?
+Dialogue: 0,0:10:06.81,0:10:08.62,Main,Nekozaki,0,0,0,,That's cute?
+Dialogue: 0,0:10:10.83,0:10:12.55,Main,Nekozaki,0,0,0,,I don't get what sets her off!
+Dialogue: 0,0:10:19.27,0:10:21.46,Main,Nekozaki,0,0,0,,They just keep playing \Nwith those puppies...
+Dialogue: 0,0:10:21.80,0:10:23.56,Main,Text,0,0,0,,{\an8\fay.5\pos(242,84.667)\c&H82D6FA&\3c&HA262D9&\4c&HA262D9&\b1}The Latest\N{\fs14\c&HEEF3F9&}Newest Version ♥
+Dialogue: 0,0:10:21.80,0:10:23.56,Main,Text,0,0,0,,{\an8\fay.5\fnTimes New Roman\c&H7D93B5&\3c&HEEF3F9&\shad0\pos(478.667,142.667)}Filters
+Dialogue: 0,0:10:21.80,0:10:23.56,Main,Text,0,0,0,,{\an8\fay.3\fnArial\fs18\c&H1D5DD0&\3c&H58DBF1&\shad0\pos(463.333,289.334)}Burst Mode
+Dialogue: 0,0:10:22.08,0:10:23.55,Main,Nekozaki,0,0,0,,Let's take sticker photos!
+Dialogue: 0,0:10:23.87,0:10:25.79,Main,Nekozaki,0,0,0,,Make a cool face!
+Dialogue: 0,0:10:28.30,0:10:31.04,Main,Nekozaki,0,0,0,,Let's see how they came out.
+Dialogue: 0,0:10:31.92,0:10:33.89,Main,Nekozaki,0,0,0,,What is this, a CD jacket?!
+Dialogue: 0,0:10:34.71,0:10:37.33,Main,Nekozaki,0,0,0,,I'm going to the restroom! \NYou two have fun!
+Dialogue: 0,0:10:42.91,0:10:46.05,Main,Kamiya,0,0,0,,Shikimori-san, do you mind if I try that?
+Dialogue: 0,0:10:46.05,0:10:47.83,Main,Shikimori,0,0,0,,Looks fun!
+Dialogue: 0,0:10:50.09,0:10:52.26,Main,Kamiya,0,0,0,,How do you do this?
+Dialogue: 0,0:10:52.26,0:10:54.10,Main,Shikimori,0,0,0,,You've never played it before?
+Dialogue: 0,0:10:54.10,0:10:54.78,Main,Kamiya,0,0,0,,No.
+Dialogue: 0,0:10:56.32,0:11:00.97,Main,Shikimori,0,0,0,,See that moving part? \NYou try to match its timing.
+Dialogue: 0,0:11:01.33,0:11:04.03,Main,Shikimori,0,0,0,,When it's where you want it, press 1, and...
+Dialogue: 0,0:11:08.79,0:11:11.85,Main,Kamiya,0,0,0,,I missed. This is too hard.
+Dialogue: 0,0:11:11.85,0:11:13.24,Main,Shikimori,0,0,0,,I'll try, too.
+Dialogue: 0,0:11:17.74,0:11:19.24,Main,Text,0,0,0,,{\fnArial\b1\fs18\c&H6812D5&\3c&HE7EEFA&\4c&HC84433&\pos(175.333,64.666)}Grab
+Dialogue: 0,0:11:17.74,0:11:19.24,Main,Text,0,0,0,,{\fnArial\b1\fs18\c&H6812D5&\3c&HE7EEFA&\4c&HC84433&\pos(470,64.666)}Drop
+Dialogue: 0,0:11:25.30,0:11:26.01,Main,Shikimori,0,0,0,,Here.
+Dialogue: 0,0:11:27.03,0:11:30.06,Main,Kamiya,0,0,0,,No, you won those yourself.
+Dialogue: 0,0:11:30.06,0:11:31.62,Main,Shikimori,0,0,0,,It's okay.
+Dialogue: 0,0:11:32.06,0:11:35.48,Main,Shikimori,0,0,0,,I got them so I could give them to you.
+Dialogue: 0,0:11:40.05,0:11:43.21,Main,Kamiya,0,0,0,,Are you like this with everyone?
+Dialogue: 0,0:11:43.67,0:11:45.19,Main,Shikimori,0,0,0,,What do you mean?
+Dialogue: 0,0:11:45.86,0:11:47.77,Main,Kamiya,0,0,0,,Nothing. Never mind.
+Dialogue: 0,0:11:48.72,0:11:52.15,Main,Kamiya,0,0,0,,Now, I'll win something you want.
+Dialogue: 0,0:11:52.88,0:11:54.87,Main,Shikimori,0,0,0,,You don't have to do that.
+Dialogue: 0,0:11:54.87,0:11:55.99,Main,Kamiya,0,0,0,,It's fine.
+Dialogue: 0,0:11:56.80,0:11:59.24,Main,Kamiya,0,0,0,,I don't like just having things \Ndone for me all the time.
+Dialogue: 0,0:12:00.85,0:12:02.42,Main,Shikimori,0,0,0,,Th-Then...
+Dialogue: 0,0:12:03.30,0:12:06.06,Main,Nekozaki,0,0,0,,I wonder where they went.
+Dialogue: 0,0:12:06.06,0:12:07.16,Main,Shikimori,0,0,0,,I got it!
+Dialogue: 0,0:12:09.34,0:12:12.62,Main,Shikimori,0,0,0,,There. Now we're even, right, Kamiya-san?
+Dialogue: 0,0:12:12.89,0:12:15.52,Main,Kamiya,0,0,0,,I can't believe you got it\N from that position...
+Dialogue: 0,0:12:15.83,0:12:17.01,Main,Kamiya,0,0,0,,You're good.
+Dialogue: 0,0:12:17.36,0:12:19.62,Italics,Nekozaki,0,0,0,,They're best buds all of a sudden!
+Dialogue: 0,0:12:20.09,0:12:22.51,Main,Shikimori,0,0,0,,I bet we could get that one, too.
+Dialogue: 0,0:12:22.51,0:12:25.13,Main,Kamiya,0,0,0,,Yeah, if we catch the string \Nand scoot it to the side.
+Dialogue: 0,0:12:27.14,0:12:30.39,Main,Text,0,0,0,,{\fnArial\b1\fs18\c&H63707F&\3c&HE7F6FE&\shad0\pos(116.666,100.666)}Girls' Volleyball
+Dialogue: 0,0:12:27.64,0:12:30.40,Flashback,Nekozaki,0,0,0,,Kamiya! Wanna go somewhere on the way home?
+Dialogue: 0,0:12:31.49,0:12:34.89,Flashback,Kamiya,0,0,0,,Sorry, Nekozaki. I'm in a hurry today.
+Dialogue: 0,0:12:35.12,0:12:37.75,Flashback,Nekozaki,0,0,0,,Oh, okay. See ya later, then!
+Dialogue: 0,0:12:37.75,0:12:38.74,Flashback,Kamiya,0,0,0,,Later.
+Dialogue: 0,0:12:39.93,0:12:41.94,Flashback,Girl1 E9,0,0,0,,Hey, Nekozaki...
+Dialogue: 0,0:12:42.41,0:12:46.10,Flashback,Girl1 E9,0,0,0,,Maybe you shouldn't bother \Ninviting Kamiya anymore.
+Dialogue: 0,0:12:46.10,0:12:47.65,Flashback,Nekozaki,0,0,0,,Huh? Why not?
+Dialogue: 0,0:12:47.65,0:12:51.45,Flashback,Girl1 E9,0,0,0,,Well, she's kind of a loner, you know?
+Dialogue: 0,0:12:51.45,0:12:54.27,Flashback,Girl1 E9,0,0,0,,She doesn't seem to like hanging out much.
+Dialogue: 0,0:12:55.55,0:12:58.17,Flashback,Girl2 E9,0,0,0,,And it's rude of us to make \Nher say no every time.
+Dialogue: 0,0:12:58.17,0:12:59.37,Flashback,Girl1 E9,0,0,0,,Yeah.
+Dialogue: 0,0:13:01.82,0:13:03.86,Flashback_Italics,Nekozaki,0,0,0,,Is that really how she feels?
+Dialogue: 0,0:13:07.66,0:13:10.41,Main,Nekozaki,0,0,0,,I've never seen Kamiya smile so much...
+Dialogue: 0,0:13:13.76,0:13:16.27,Main,Nekozaki,0,0,0,,I'm back!
+Dialogue: 0,0:13:16.27,0:13:19.97,Main,Nekozaki,0,0,0,,Looks like you're having fun! \NWhat do you wanna do next?
+Dialogue: 0,0:13:21.82,0:13:24.45,Main,Nekozaki,0,0,0,,What the heck?! Don't you think \Nyou won too much stuff?!
+Dialogue: 0,0:13:24.45,0:13:27.65,Main,Kamiya,0,0,0,,Oh, that just... h-happened.
+Dialogue: 0,0:13:32.62,0:13:36.54,Main,Nekozaki,0,0,0,,Look! A basketball court!
+Dialogue: 0,0:13:36.96,0:13:38.69,Main,Nekozaki,0,0,0,,Let's play a little.
+Dialogue: 0,0:13:38.69,0:13:40.29,Main,Gal1,0,0,0,,Hey, hey, hey!
+Dialogue: 0,0:13:40.64,0:13:43.98,Main,Gal1,0,0,0,,We're about to use this court,\N just so you know.
+Dialogue: 0,0:13:43.98,0:13:46.30,Main,Gal2,0,0,0,,Why don't you, like, scram?
+Dialogue: 0,0:13:46.30,0:13:47.37,Main,Kamiya,0,0,0,,Oh...
+Dialogue: 0,0:13:47.94,0:13:50.65,Main,Kamiya,0,0,0,,I didn't know the court \Nrequired a reservation.
+Dialogue: 0,0:13:53.78,0:13:55.69,Main,Gal1,0,0,0,,Y-Yeah, that's right!
+Dialogue: 0,0:13:56.08,0:13:58.71,Main,Gal1,0,0,0,,This courts is reservation only!
+Dialogue: 0,0:13:58.71,0:14:01.60,Main,Gal2,0,0,0,,And you should, like, obey the rules!
+Dialogue: 0,0:14:01.60,0:14:03.44,Main,Nekozaki,0,0,0,,They're gals with morals...
+Dialogue: 0,0:14:04.06,0:14:05.79,Main,Shikimori,0,0,0,,Sorry about that.
+Dialogue: 0,0:14:05.79,0:14:07.40,Main,Shiki,0,0,0,,Let's try somewhere else.
+Dialogue: 0,0:14:07.40,0:14:08.78,Main,Nekozaki,0,0,0,,Like where?
+Dialogue: 0,0:14:08.78,0:14:10.15,Main,Gal1,0,0,0,,Hold it!
+Dialogue: 0,0:14:10.90,0:14:15.21,Main,Gal1,0,0,0,,We'd be willing to duke it out \Nfor the right to use this court.
+Dialogue: 0,0:14:15.21,0:14:18.21,Main,Gal2,0,0,0,,Frankly, playing one-on-one is, like, boring.
+Dialogue: 0,0:14:18.21,0:14:21.09,Main,Gal2,0,0,0,,We just wanna play basketball with you.
+Dialogue: 0,0:14:21.32,0:14:22.64,Main,Shikimori,0,0,0,,Um...
+Dialogue: 0,0:14:22.64,0:14:26.21,Main,Gal1,0,0,0,,Or are you scared you'll lose?
+Dialogue: 0,0:14:30.49,0:14:33.54,Main,Shikimori,0,0,0,,Very well. Shall we, then?
+Dialogue: 0,0:14:33.54,0:14:36.02,Main,Kamiya,0,0,0,,They seem good. Think we can win?
+Dialogue: 0,0:14:36.02,0:14:37.96,Main,Nekozaki,0,0,0,,You're just letting them egg you on!
+Dialogue: 0,0:14:38.37,0:14:41.54,Main,Nekozaki,0,0,0,,Well, if that's what we're doing,\N I'll be the ref.
+Dialogue: 0,0:14:41.54,0:14:43.69,Main,Gal1,0,0,0,,You're totally into this, huh?
+Dialogue: 0,0:14:43.69,0:14:45.70,Main,Gal2,0,0,0,,I, like, {\i1}love{\i0} girls like you!
+Dialogue: 0,0:14:46.01,0:14:51.07,Main,Gal1,0,0,0,,Just so you know, we played in the \Nregional tournament in middle school.
+Dialogue: 0,0:14:51.07,0:14:53.44,Main,Gal2,0,0,0,,We're, like, not gonna lose.
+Dialogue: 0,0:15:01.59,0:15:02.35,Main,Shikimori,0,0,0,,Here!
+Dialogue: 0,0:15:06.78,0:15:08.13,Main,Shikimori,0,0,0,,Nice shot!
+Dialogue: 0,0:15:08.13,0:15:09.17,Main,Nekozaki,0,0,0,,Way to go!
+Dialogue: 0,0:15:09.17,0:15:10.84,Main,Gal1,0,0,0,,They're fast!
+Dialogue: 0,0:15:17.75,0:15:18.59,Main,Kamiya,0,0,0,,Here!
+Dialogue: 0,0:15:24.24,0:15:26.27,Main,Gal2,0,0,0,,We're just, like, getting started!
+Dialogue: 0,0:15:51.40,0:15:53.31,Main,Gal1,0,0,0,,We totally lost.
+Dialogue: 0,0:15:53.31,0:15:55.14,Main,Gal2,0,0,0,,Like, who {\i1}are{\i0} they?
+Dialogue: 0,0:15:56.28,0:15:58.17,Main,Kamiya,0,0,0,,They really were good.
+Dialogue: 0,0:15:58.17,0:15:59.91,Main,Shikimori,0,0,0,,Talk about tenacious.
+Dialogue: 0,0:15:59.91,0:16:03.11,Main,Gal1,0,0,0,,Your teamwork got the better of us!
+Dialogue: 0,0:16:03.11,0:16:05.14,Main,Gal2,0,0,0,,You're, like, such good friends!
+Dialogue: 0,0:16:06.93,0:16:07.99,Main,Shikimori,0,0,0,,Friends...
+Dialogue: 0,0:16:09.36,0:16:12.45,Main,Nekozaki,0,0,0,,Your teamwork was really good, too!
+Dialogue: 0,0:16:12.45,0:16:15.28,Main,Gal2,0,0,0,,You know we gotta, like, take a pic now!
+Dialogue: 0,0:16:15.56,0:16:18.57,Main,Gal1,0,0,0,,You guys better get in on this, too!
+Dialogue: 0,0:16:18.57,0:16:20.31,Main,Kamiya,0,0,0,,They're overwhelming...
+Dialogue: 0,0:16:24.64,0:16:27.18,Main,Nekozaki,0,0,0,,Man, that was fun!
+Dialogue: 0,0:16:29.07,0:16:31.84,Main,Nekozaki,0,0,0,,Well, see you at school tomorrow.
+Dialogue: 0,0:16:31.84,0:16:33.69,Main,Shikimori,0,0,0,,Yeah, see you tomorrow.
+Dialogue: 0,0:16:34.16,0:16:36.42,Main,Shikimori,0,0,0,,You too, Kamiya-san. See you.
+Dialogue: 0,0:16:36.83,0:16:37.64,Main,Kamiya,0,0,0,,Yeah.
+Dialogue: 0,0:16:38.45,0:16:41.08,Main,Kamiya,0,0,0,,Um, if it's okay with you...
+Dialogue: 0,0:16:41.41,0:16:44.25,Main,Kamiya,0,0,0,,It'll be as friends next time, okay?
+Dialogue: 0,0:16:49.02,0:16:53.46,Main,Nekozaki,0,0,0,,Huh? But after all you just did \Ntogether, you're already—
+Dialogue: 0,0:16:53.46,0:16:55.20,Main,Kamiya,0,0,0,,Just be quiet for a minute.
+Dialogue: 0,0:16:55.99,0:16:57.33,Main,Shikimori,0,0,0,,Kamiya-san...
+Dialogue: 0,0:16:59.31,0:17:00.61,Main,Shikimori,0,0,0,,I'd love that.
+Dialogue: 0,0:17:08.19,0:17:10.86,Main,Nekozaki,0,0,0,,Kamiya, you've changed.
+Dialogue: 0,0:17:10.86,0:17:11.76,Main,Kamiya,0,0,0,,Have I?
+Dialogue: 0,0:17:11.76,0:17:12.47,Main,Nekozaki,0,0,0,,Yeah!
+Dialogue: 0,0:17:12.47,0:17:15.07,Main,Nekozaki,0,0,0,,I mean, you looked like \Nyou were having a blast!
+Dialogue: 0,0:17:15.07,0:17:18.10,Main,Nekozaki,0,0,0,,I've never seen you smile so much before.
+Dialogue: 0,0:17:20.08,0:17:21.72,Main,Kamiya,0,0,0,,That didn't seem like me?
+Dialogue: 0,0:17:22.12,0:17:25.84,Main,Nekozaki,0,0,0,,Well, I was surprised, but I was super happy!
+Dialogue: 0,0:17:25.84,0:17:29.48,Main,Nekozaki,0,0,0,,I've always wanted to hang out \Nand have fun with you.
+Dialogue: 0,0:17:31.84,0:17:36.11,Main,Nekozaki,0,0,0,,I learned tons of new stuff about you today.
+Dialogue: 0,0:17:38.98,0:17:40.36,Main,Kamiya,0,0,0,,Nekozaki...
+Dialogue: 0,0:17:40.36,0:17:41.21,Main,Nekozaki,0,0,0,,Yeah?
+Dialogue: 0,0:17:42.08,0:17:44.24,Main,Kamiya,0,0,0,,Sorry about how I was before.
+Dialogue: 0,0:17:44.43,0:17:45.14,Main,Nekozaki,0,0,0,,Huh?
+Dialogue: 0,0:17:45.56,0:17:48.34,Main,Nekozaki,0,0,0,,Wh-What brought this on?
+Dialogue: 0,0:17:48.76,0:17:49.51,Main,Kamiya,0,0,0,,I mean...
+Dialogue: 0,0:17:50.41,0:17:52.96,Main,Kamiya,0,0,0,,You invited me out all the time,
+Dialogue: 0,0:17:52.96,0:17:54.86,Main,Kamiya,0,0,0,,but I always said no, remember?
+Dialogue: 0,0:17:55.26,0:17:59.34,Main,Nekozaki,0,0,0,,Huh? Oh, don't worry about that!
+Dialogue: 0,0:17:59.34,0:18:02.47,Main,Nekozaki,0,0,0,,I was the one being kinda pushy about it.
+Dialogue: 0,0:18:02.47,0:18:05.27,Main,Nekozaki,0,0,0,,Sorry if I made you feel bad.
+Dialogue: 0,0:18:06.22,0:18:08.17,Main,Kamiya,0,0,0,,You're very kind, Nekozaki.
+Dialogue: 0,0:18:08.17,0:18:11.51,Main,Nekozaki,0,0,0,,Huh? I'm just doing what I wanna do.
+Dialogue: 0,0:18:11.77,0:18:14.51,Main,Nekozaki,0,0,0,,Actually, I'd say you're the nice one.
+Dialogue: 0,0:18:14.97,0:18:16.89,Main,Nekozaki,0,0,0,,Too nice, even.
+Dialogue: 0,0:18:20.02,0:18:21.28,Main,Kamiya,0,0,0,,No, no...
+Dialogue: 0,0:18:21.58,0:18:23.10,Main,Kamiya,0,0,0,,No, no, no.
+Dialogue: 0,0:18:29.11,0:18:32.50,Main,Kamiya,0,0,0,,Anyway, what do you want to do, Nekozaki?
+Dialogue: 0,0:18:32.50,0:18:33.80,Main,Nekozaki,0,0,0,,Remember what I said?
+Dialogue: 0,0:18:34.24,0:18:37.81,Main,Nekozaki,0,0,0,,I just want to know more about you.
+Dialogue: 0,0:18:38.09,0:18:39.48,Main,Nekozaki,0,0,0,,We're friends, after all!
+Dialogue: 0,0:18:41.89,0:18:44.70,Main,Kamiya,0,0,0,,You're right. You can ask me anything.
+Dialogue: 0,0:18:44.70,0:18:46.49,Main,Nekozaki,0,0,0,,Did you say "anything"?!
+Dialogue: 0,0:18:46.49,0:18:48.67,Main,Kamiya,0,0,0,,Well, anything I can actually answer...
+Dialogue: 0,0:18:48.67,0:18:52.19,Main,Nekozaki,0,0,0,,Uh, let me think... um...
+Dialogue: 0,0:18:52.76,0:18:55.37,Main,Nekozaki,0,0,0,,Oh! What's your favorite sweet snack?!
+Dialogue: 0,0:18:55.37,0:18:56.89,Main,Kamiya,0,0,0,,That's it?
+Dialogue: 0,0:18:57.34,0:18:59.28,Main,Kamiya,0,0,0,,Sorry, but I don't really have one.
+Dialogue: 0,0:18:59.28,0:19:00.59,Main,Nekozaki,0,0,0,,You're kidding!
+Dialogue: 0,0:19:00.59,0:19:03.71,Main,Kamiya,0,0,0,,I don't know what's good or whatever...
+Dialogue: 0,0:19:04.19,0:19:06.31,Main,Kamiya,0,0,0,,Actually, my taste buds are kinda weird.
+Dialogue: 0,0:19:06.31,0:19:07.01,Main,Nekozaki,0,0,0,,Huh?
+Dialogue: 0,0:19:07.01,0:19:10.20,Main,Kamiya,0,0,0,,It feels rude, so I never told \Nanyone about it before.
+Dialogue: 0,0:19:10.20,0:19:11.45,Main,Nekozaki,0,0,0,,Wow...
+Dialogue: 0,0:19:12.59,0:19:15.20,Main,Kamiya,0,0,0,,Yours is chocolate, right?
+Dialogue: 0,0:19:16.36,0:19:18.19,Main,Nekozaki,0,0,0,,I can't believe you knew!
+Dialogue: 0,0:19:18.19,0:19:19.21,Main,Kamiya,0,0,0,,I'm glad.
+Dialogue: 0,0:19:19.67,0:19:20.78,Main,Kamiya,0,0,0,,Any other questions?
+Dialogue: 0,0:19:20.78,0:19:25.41,Main,Nekozaki,0,0,0,,Uh, hang on a second... \NNothing's coming to me.
+Dialogue: 0,0:19:25.41,0:19:27.68,Main,Kamiya,0,0,0,,You can take your time thinking about it.
+Dialogue: 0,0:19:27.68,0:19:28.87,Main,Nekozaki,0,0,0,,Okay.
+Dialogue: 0,0:19:35.16,0:19:37.88,Main,Nekozaki,0,0,0,,Hey, do you know Izumi well?
+Dialogue: 0,0:19:37.88,0:19:40.73,Main,Nekozaki,0,0,0,,You guys were together during \Nthe cultural festival.
+Dialogue: 0,0:19:40.73,0:19:41.52,Main,Kamiya,0,0,0,,Yeah.
+Dialogue: 0,0:19:45.90,0:19:50.77,Main,Nekozaki,0,0,0,,Oh! Did you know Izumi and \NMicchon are going out?
+Dialogue: 0,0:19:50.77,0:19:51.84,Main,Kamiya,0,0,0,,Are they?
+Dialogue: 0,0:19:52.65,0:19:54.77,Main,Nekozaki,0,0,0,,I guess you're not interested... in...
+Dialogue: 0,0:19:59.34,0:20:01.01,Flashback,Student1 E9,0,0,0,,You know...
+Dialogue: 0,0:20:01.01,0:20:03.35,Flashback,Student1 E9,0,0,0,,I never know what Kamiya-san is thinking.
+Dialogue: 0,0:20:03.35,0:20:05.15,Flashback,Student2 E9,0,0,0,,She's so cool and good-looking!
+Dialogue: 0,0:20:05.15,0:20:06.97,Flashback,Student3 E9,0,0,0,,She's not interested in other people.
+Dialogue: 0,0:20:06.97,0:20:08.96,Flashback,Student4 E9,0,0,0,,I wish I had a body like hers.
+Dialogue: 0,0:20:08.96,0:20:11.01,Flashback,Student5 E9,0,0,0,,I bet she wants for nothing.
+Dialogue: 0,0:20:11.01,0:20:13.16,Flashback,Student6 E9,0,0,0,,She's gorgeous, and everyone admires her.
+Dialogue: 0,0:20:13.16,0:20:14.48,Flashback,Student7 E9,0,0,0,,She's perfect!
+Dialogue: 0,0:20:14.48,0:20:15.77,Flashback,Student8 E9,0,0,0,,She's a loner.
+Dialogue: 0,0:20:15.77,0:20:17.80,Flashback,Student9 E9,0,0,0,,She's so cold. She never hangs out.
+Dialogue: 0,0:20:22.17,0:20:23.81,Main,Nekozaki,0,0,0,,Hey, Kamiya...
+Dialogue: 0,0:20:24.27,0:20:27.24,Main,Nekozaki,0,0,0,,You know how you never\N used to smile like this?
+Dialogue: 0,0:20:27.97,0:20:30.25,Main,Nekozaki,0,0,0,,You always seemed like you were hurting.
+Dialogue: 0,0:20:31.65,0:20:35.28,Main,Nekozaki,0,0,0,,Who was it that changed you?
+Dialogue: 0,0:20:39.75,0:20:42.45,Main,Kamiya,0,0,0,,Sorry. I can't say.
+Dialogue: 0,0:20:46.32,0:20:47.92,Main,Nekozaki,0,0,0,,I see.
+Dialogue: 0,0:20:49.29,0:20:51.76,Main,Kamiya,0,0,0,,I can't say, but...
+Dialogue: 0,0:20:52.79,0:20:57.46,Main,Kamiya,0,0,0,,There is someone who told me that \NI should treasure what I feel.
+Dialogue: 0,0:20:58.81,0:21:00.21,Main,Kamiya,0,0,0,,I understand that now.
+Dialogue: 0,0:21:01.20,0:21:05.20,Main,Kamiya,0,0,0,,It doesn't matter if I'm hurt or tired.
+Dialogue: 0,0:21:06.91,0:21:07.96,Main,Kamiya,0,0,0,,I hope...
+Dialogue: 0,0:21:08.65,0:21:10.56,Main,Kamiya,0,0,0,,I can tell you someday.
+Dialogue: 0,0:21:16.98,0:21:19.10,Main,Nekozaki,0,0,0,,Sure. I'll be waiting!
+Dialogue: 0,0:21:20.85,0:21:23.84,Main,Nekozaki,0,0,0,,Oh, man! Here comes the train! Run!
+Dialogue: 0,0:21:23.84,0:21:24.47,Main,Kamiya,0,0,0,,Yeah.
+Dialogue: 0,0:21:28.23,0:21:31.07,Italics,Nekozaki,0,0,0,,Kamiya, you can take your time.
+Dialogue: 0,0:21:31.64,0:21:35.32,Italics,Nekozaki,0,0,0,,Keep discovering more of your own feelings.
+Dialogue: 0,0:21:36.22,0:21:40.51,Italics,Nekozaki,0,0,0,,And one day, when you find a way to deal \Nwith them other than stifling them...
+Dialogue: 0,0:21:41.66,0:21:42.65,Italics,Nekozaki,0,0,0,,I hope...
+Dialogue: 0,0:21:43.60,0:21:47.04,Italics,Nekozaki,0,0,0,,I hope you'll smile from \Nthe bottom of your heart.
+Dialogue: 0,0:21:49.48,0:21:50.66,Italics,Nekozaki,0,0,0,,Just kidding!
+Dialogue: 0,0:22:47.76,0:22:54.72,Main,Text,0,0,0,,{\fad(560,440)\fnArial\b1\fs30\frz7\shad0\3c&HDBE6E5&\c&H5126E8&\pos(498,297.999)}S{\fs28\c&H3DCEFE&}E{\fs26\c&H5126E8&}E {\fs26\c&H3DCEFE&}Y{\fs24\c&H5126E8&}O{\fs22\c&H3DCEFE&}U{\c&H5126E8&}~

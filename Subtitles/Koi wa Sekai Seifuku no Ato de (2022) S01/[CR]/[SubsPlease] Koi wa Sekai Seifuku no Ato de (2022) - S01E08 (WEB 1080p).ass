@@ -1,0 +1,512 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,20,0
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: sign_3317_26_The_cuteness,Arial,10,&H00030000,&H000000FF,&H00FDFFFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_5517_46_Allow_me_to_expl,Times New Roman,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,20,1
+Style: sign_5871_55_Missing,Trebuchet MS,24,&H00000000,&H000000FF,&H003723A7,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_8302_60_Episode_1__I_Lov,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00C419C8,&H006CEBF1,0,0,0,0,100,100,0,0,1,2,2,7,30,30,20,1
+Style: sign_9447_74_1_Week_Earlier,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,30,30,20,1
+Style: sign_9769_111_Reaper_Princess_,Trebuchet MS,12,&H004B3374,&H000000FF,&H00A48CCD,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,30,30,20,1
+Style: sign_10322_110_Bluuush,Trebuchet MS,29,&H006631D4,&H000000FF,&H00EAEEF6,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,7,30,30,20,1
+Style: sign_10159_85_Refreshing__Goes,Arial,20,&H00F9FFFA,&H000000FF,&H007C8C81,&H0042C7F2,-1,0,0,0,100,100,0,0,1,1,2,4,30,20,20,1
+Style: sign_24298_247_squee,Trebuchet MS,24,&H006F39DC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_1062_13_Indifference,Verdana,15,&H009AFF9E,&H000000FF,&H00FEFFEB,&H00000000,-1,-1,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_2154_30_Crash,Verdana,35,&H004E3EDA,&H000000FF,&H00A292DF,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,9,30,30,20,1
+Style: sign_4795_38_Infirmary,Arial,28,&H009E8E75,&H000000FF,&H00F8FCF9,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_5895_51_Intense,Trebuchet MS,28,&H009730F5,&H000000FF,&H0078308F,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,30,30,20,1
+Style: sign_6455_60_Oda_Style_Karate,Trebuchet MS,13,&H002A3442,&H000000FF,&H32698695,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,30,30,20,1
+Style: sign_8615_89_Gasp__,Comic Sans MS,40,&H00261917,&H000000FF,&H00FFBB76,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,30,30,20,1
+Style: sign_8657_90_knock_knock,Trebuchet MS,19,&H00A4D1E1,&H000000FF,&H32FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_11330_126_Fair_and_Equal,Times New Roman,25,&H64655138,&H000000FF,&H64836D53,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+Style: sign_16865_197_Tremble,Verdana,20,&H00F5F1E4,&H000000FF,&H004D3926,&H00000000,0,0,0,0,100,100,0,0,1,1,0,7,30,30,20,1
+Style: sign_17499_210_Desperation,Times New Roman,25,&H00462097,&H000000FF,&H00F4F5EB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,30,30,20,1
+Style: sign_18270_222_Gusco,Verdana,23,&H009966C2,&H000000FF,&H00383062,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_18860_230_Tremble,Trebuchet MS,28,&H00F5FBF3,&H000000FF,&H00161911,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_20105_251_Relief,Trebuchet MS,25,&H009BFFB3,&H000000FF,&HC866DE6E,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,30,30,20,1
+Style: sign_20172_253_Disappointment__,Trebuchet MS,14,&H00F9F1B8,&H000000FF,&HC8AE9571,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,7,30,30,20,1
+Style: sign_21757_273_Twitch,Verdana,25,&H006EF6FE,&H000000FF,&H32616249,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,7,30,30,20,1
+Style: sign_22864_288_Hee_hee_hee___,Trebuchet MS,35,&H00D54AE5,&H000000FF,&H00EA9CFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,30,30,20,1
+Style: sign_22930_289_Scoop___Red___Bl,Verdana,20,&H0058C1CB,&H000000FF,&H003947C1,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,30,30,20,1
+Style: sign_22930_290_Announce_Their_R,Verdana,20,&H00BB6DDD,&H000000FF,&H00DF5CAF,&H00FFFEFD,-1,0,0,0,100,100,0,0,1,2,2,7,30,30,20,1
+Style: sign_23666_300_Gelato_5_New_Emp,Verdana,15,&H0050ADCE,&H000000FF,&H00041E45,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,30,30,20,1
+Style: sign_24581_314_bap_bap,Verdana,35,&H00D23FEB,&H000000FF,&H00E59FEF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,30,30,20,1
+Style: sign_30349_385_Grin_Grin,Verdana,25,&H004A71EA,&H000000FF,&H002844A3,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+Style: sign_30614_390_Squeeze,Trebuchet MS,25,&H00A88DEC,&H000000FF,&H007A4BD4,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,9,30,30,20,1
+Style: sign_681_15_I_know_everythin,Verdana,25,&H001F1A14,&H000000FF,&H00C1BAB0,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+Style: sign_3569_23_Rattled,Arial,13,&H00E1B699,&H000000FF,&H00F8FCF9,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,30,30,20,1
+Style: sign_3709_26_Terror,Arial,38,&H00111313,&H000000FF,&H00F6F9FB,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,30,30,20,1
+Style: sign_4187_39_Beast_Princess__,Trebuchet MS,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_5193_55_No_attention,Trebuchet MS,13,&H00070B08,&H000000FF,&H00FCFFFC,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_6215_68_If_you_don_t_wan,Trebuchet MS,13,&H0014786C,&H000000FF,&H3294FFFD,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_9570_120_Record,Arial,25,&H00FFFFFF,&H000000FF,&H6415131C,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+Style: sign_22324_272_How_exactly_do_I,Trebuchet MS,10,&H00424A46,&H000000FF,&H00F1FBF8,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,30,30,20,1
+Style: sign_23165_282_Gekko,Verdana,15,&H00F7E9DF,&H000000FF,&H004D3C34,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_23413_289_Walking_on_air,Trebuchet MS,25,&H00E49DF4,&H000000FF,&H00CA6FBC,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,30,30,20,1
+Style: sign_25455_314_Math_II,Times New Roman,25,&H002B282C,&H000000FF,&H00F7FAF8,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+Style: sign_25620_315_Year_2__Term_2__,Arial,25,&H002B2F2C,&H000000FF,&H00FAFDFA,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,30,30,20,1
+Style: sign_26225_327_Thwap,Trebuchet MS,25,&H0063F696,&H000000FF,&H00E3FFFC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,30,30,20,1
+Style: sign_26488_332_Shame,Verdana,25,&H00F7C191,&H000000FF,&H002844A3,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_29752_387_Missing,Trebuchet MS,15,&H00BC60EB,&H000000FF,&H002844A3,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.75,0:00:02.68,top,Misaki,0,0,0,,I got basically no sleep last night!
+Dialogue: 0,0:00:01.61,0:00:02.68,main,Fudo,0,0,0,,Good morning.
+Dialogue: 0,0:00:02.68,0:00:03.44,top,Haru,0,0,0,,Really?
+Dialogue: 0,0:00:03.44,0:00:05.43,main,Haru,0,0,0,,G-Good morning, Senpai!
+Dialogue: 0,0:00:05.43,0:00:06.73,main,Misaki,0,0,0,,Morning.
+Dialogue: 0,0:00:06.73,0:00:08.30,main,Misaki,0,0,0,,Oh, Fudo.
+Dialogue: 0,0:00:08.30,0:00:10.61,main,Misaki,0,0,0,,Here, it's addressed to you.
+Dialogue: 0,0:00:10.61,0:00:13.52,main,Misaki,0,0,0,,You can tell, right? I've got \Nmajor bags under my eyes.
+Dialogue: 0,0:00:13.52,0:00:14.36,main,Haru,0,0,0,,I can see them!
+Dialogue: 0,0:00:14.36,0:00:16.45,main,Haru,0,0,0,,It's so important to get \Nproper sleep at night.
+Dialogue: 0,0:00:19.71,0:00:20.97,main,Haru,0,0,0,,Senpai?
+Dialogue: 0,0:00:20.97,0:00:22.54,main,Misaki,0,0,0,,What's up? You look like you've seen a ghost.
+Dialogue: 0,0:00:22.54,0:00:24.62,main,Fudo,0,0,0,,N-N-Nothing!
+Dialogue: 0,0:00:28.38,0:00:34.01,sign_681_15_I_know_everythin,Sign,0,0,0,,{\fsp6}I {\fnArial\c&HF3F4EB&\3c&H0C0C07&}k{\fnCourier New\3c&H6E6656&}n{\fnTimes New Roman\3c&H221C1E&}o{\fnArial\3c&H6B6A57&}w {\fnComic Sans MS\c&H18140B&}e{\fnGeorgia\c&HF1EBE3&}v{\fnImpact\3c&H23201C&}e{\fnVerdana\c&H1F1A14&\3c&HC1BAB0&}r{\fnArial\c&HF3F4EB&\3c&H0C0C07&}y{\fnCourier New\3c&H6E6656&}t{\fnTimes New Roman\3c&H221C1E&}h{\fnArial\3c&H6B6A57&}i{\fnComic Sans MS\c&H18140B&}n{\fnGeorgia\c&HF1EBE3&}g
+Dialogue: 0,0:00:30.06,0:00:32.77,italics,Fudo,0,0,0,,Desumi-san, we've got a problem.
+Dialogue: 0,0:02:04.08,0:02:07.98,sign_8302_60_Episode_1__I_Lov,sign,0,0,0,,{\an7\fscx88\fad(836,1)\pos(117,53)}Episode 8     {\fscx100\fsp5.9}Everybody Has a Secret or Two
+Dialogue: 0,0:02:07.51,0:02:09.23,main,Friend A,0,0,0,,You're so awesome, Desumi.
+Dialogue: 0,0:02:09.23,0:02:11.61,main,Friend A,0,0,0,,You always make your own lunches?
+Dialogue: 0,0:02:11.61,0:02:13.74,main,Desumi,0,0,0,,It's not so hard once you get used to it.
+Dialogue: 0,0:02:13.74,0:02:15.43,main,Friend A,0,0,0,,Really?
+Dialogue: 0,0:02:23.49,0:02:27.07,main,Anna,0,0,0,,Sorry, Desucchi. Mouth slipped.
+Dialogue: 0,0:02:27.57,0:02:29.15,main,Friend B,0,0,0,,Are you all right, Desumi?
+Dialogue: 0,0:02:28.85,0:02:30.23,sign_3569_23_Rattled,Sign,0,0,0,,{\move(360,30,360,15)\fad(257,289)}Rattled...
+Dialogue: 0,0:02:29.51,0:02:32.52,main,Desumi,0,0,0,,W-Well... I'm pretty used to it by now...
+Dialogue: 0,0:02:32.52,0:02:34.12,main,Friend A,0,0,0,,That makes it even worse!
+Dialogue: 0,0:02:34.67,0:02:39.68,sign_3709_26_Terror,Sign,0,0,0,,Terror
+Dialogue: 0,0:02:35.17,0:02:38.09,main,Anna,0,0,0,,What? You got a problem?
+Dialogue: 0,0:02:38.09,0:02:39.68,main,Friend A,0,0,0,,No...
+Dialogue: 0,0:02:40.84,0:02:44.01,main,Kiki,0,0,0,,You bet we got a problem.
+Dialogue: 0,0:02:44.23,0:02:45.91,main,Kiki,0,0,0,,You're always pickin' on Reaper—
+Dialogue: 0,0:02:45.91,0:02:48.95,main,Kiki,0,0,0,,on Desumi Magahara.
+Dialogue: 0,0:02:48.95,0:02:51.73,main,Kiki,0,0,0,,Sounds like someone needs a little \Nhelp learning right from wrong.
+Dialogue: 0,0:02:51.73,0:02:53.07,main,Friend A,0,0,0,,Student council president!
+Dialogue: 0,0:02:53.07,0:02:54.61,main,Friend B,0,0,0,,Discipline officer!
+Dialogue: 0,0:02:54.61,0:03:05.12,sign_4187_39_Beast_Princess__,sign,0,0,0,,{\pos(148,75)}Beast Princess, A.K.A.\N{\fs18}Kiki Majima
+Dialogue: 0,0:02:54.61,0:03:05.12,sign_4187_39_Beast_Princess__,sign,0,0,0,,{\pos(530,160)}Steel Princess, A.K.A.\N{\fs18}Kyoko Kuroyuri
+Dialogue: 0,0:02:54.61,0:03:05.12,sign_4187_39_Beast_Princess__,sign,0,0,0,,{\an2\pos(90,255)}Reaper Princess, A.K.A.\N{\fs18}Desumi Magahara
+Dialogue: 0,0:02:55.50,0:02:56.99,italics,Narrator,0,0,0,,Allow me to explain!
+Dialogue: 0,0:02:56.99,0:02:58.67,italics,Narrator,0,0,0,,On Gekko's orders,
+Dialogue: 0,0:02:58.67,0:03:02.35,italics,Narrator,0,0,0,,the Princess Series, \Nincluding Reaper Princess,
+Dialogue: 0,0:03:02.35,0:03:05.12,italics,Narrator,0,0,0,,all attend the same school!
+Dialogue: 0,0:03:05.42,0:03:08.31,main,Kiki,0,0,0,,And why don't you ever stand up for yourself?
+Dialogue: 0,0:03:08.31,0:03:10.43,main,Kiki,0,0,0,,Give as good as you get once in a while.
+Dialogue: 0,0:03:10.43,0:03:13.93,main,Desumi,0,0,0,,Well, it's just a rice ball. No big deal.
+Dialogue: 0,0:03:13.93,0:03:15.81,main,Kyoko,0,0,0,,Really? It's not?
+Dialogue: 0,0:03:16.31,0:03:19.38,main,Kiki,0,0,0,,Knock it off! You're gonna \Nmake everything worse!
+Dialogue: 0,0:03:20.23,0:03:22.84,main,Kiki,0,0,0,,Well, anyway...
+Dialogue: 0,0:03:22.84,0:03:24.60,main,Kiki,0,0,0,,Hojo of Class 2-B.
+Dialogue: 0,0:03:24.60,0:03:28.26,main,Kiki,0,0,0,,Your skirt length, nails, earrings, \Nand just about everything else
+Dialogue: 0,0:03:28.26,0:03:29.35,main,Kiki,0,0,0,,are in violation of school rules!
+Dialogue: 0,0:03:29.35,0:03:30.84,main,Kiki,0,0,0,,Come to the guidance office later!
+Dialogue: 0,0:03:30.84,0:03:32.81,main,Anna,0,0,0,,Meh, sounds dumb.
+Dialogue: 0,0:03:32.81,0:03:35.24,main,Anna,0,0,0,,You guys must be starved \Nfor romantic attention.
+Dialogue: 0,0:03:35.82,0:03:36.95,main,Kiki,0,0,0,,Am not!
+Dialogue: 0,0:03:36.59,0:03:38.07,sign_5193_55_No_attention,Sign,0,0,0,,{\pos(70,310)}No attention
+Dialogue: 0,0:03:38.67,0:03:40.69,main,Anna,0,0,0,,When it comes to rice \Nballs or anything else...
+Dialogue: 0,0:03:40.69,0:03:45.41,main,Anna,0,0,0,,I get what I want, no matter what it takes.
+Dialogue: 0,0:03:47.24,0:03:51.43,main,Anna,0,0,0,,And right now, what I want most is...
+Dialogue: 0,0:03:52.36,0:03:53.87,main,Anna,0,0,0,,What do you think?
+Dialogue: 0,0:03:54.81,0:03:56.37,main,Desumi,0,0,0,,Well...
+Dialogue: 0,0:03:57.38,0:03:58.59,main,Anna,0,0,0,,It's a secret.
+Dialogue: 0,0:03:58.59,0:04:01.66,main,Anna,0,0,0,,You don't get to know, Desucchi.
+Dialogue: 0,0:04:03.93,0:04:05.34,main,Kiki,0,0,0,,What's her problem?
+Dialogue: 0,0:04:05.34,0:04:07.15,main,Kiki,0,0,0,,What kind of loser keeps secrets, anyway?
+Dialogue: 0,0:04:07.15,0:04:10.79,main,Desumi,0,0,0,,Now, now. Everybody has a secret or two.
+Dialogue: 0,0:04:10.79,0:04:11.82,main,Kiki,0,0,0,,What?!
+Dialogue: 0,0:04:11.82,0:04:15.40,main,Kiki,0,0,0,,It's that happy-go-lucky attitude \Nthat makes you a target, y'know!
+Dialogue: 0,0:04:19.19,0:04:23.70,sign_6215_68_If_you_don_t_wan,Sign,0,0,0,,{\frz6.08\move(300,100,300,85,319,4510)\t(319,4510,\fs14)\fad(277,271)}If you don't want me to make this picture public,\Ncome to Central Park tomorrow at 8 PM
+Dialogue: 0,0:04:26.17,0:04:27.55,main,Anna,0,0,0,,Hey!
+Dialogue: 0,0:04:31.46,0:04:34.15,main,Anna,0,0,0,,You really came, huh? Hilarious.
+Dialogue: 0,0:04:35.37,0:04:38.41,main,Fudo,0,0,0,,A-Are you the one who sent me this?
+Dialogue: 0,0:04:40.28,0:04:41.90,main,Anna,0,0,0,,Correct.
+Dialogue: 0,0:04:41.90,0:04:44.30,main,Anna,0,0,0,,I'm the one who took that picture.
+Dialogue: 0,0:04:44.77,0:04:48.26,main,Anna,0,0,0,,Red Gelato... Fudo Aikawa.
+Dialogue: 0,0:04:48.53,0:04:51.19,main,Fudo,0,0,0,,Why in the world are you doing this?
+Dialogue: 0,0:04:51.19,0:04:53.49,main,Fudo,0,0,0,,Who exactly are you?
+Dialogue: 0,0:04:54.47,0:04:56.62,main,Anna,0,0,0,,You really think I'm gonna give up my name?
+Dialogue: 0,0:04:56.62,0:05:01.78,main,Anna,0,0,0,,You've probably guessed by now, but I can \Nsend out that picture anytime I want.
+Dialogue: 0,0:05:02.36,0:05:05.53,main,Anna,0,0,0,,That'd be a problem for you, right?
+Dialogue: 0,0:05:06.05,0:05:07.99,main,Fudo,0,0,0,,Yes, it would be.
+Dialogue: 0,0:05:09.32,0:05:12.21,main,Anna,0,0,0,,So you're just gonna have \Nto do whatever I say.
+Dialogue: 0,0:05:12.52,0:05:16.62,main,Anna,0,0,0,,Whether you play along or not will decide \Nif the picture stays private or—
+Dialogue: 0,0:05:16.85,0:05:18.33,main,Fudo,0,0,0,,P-Please!
+Dialogue: 0,0:05:18.33,0:05:19.13,main,Anna,0,0,0,,Uh?
+Dialogue: 0,0:05:19.13,0:05:24.03,main,Fudo,0,0,0,,Promise that when you publish the picture, \Nyou'll put a censorship bar over her eyes!
+Dialogue: 0,0:05:24.03,0:05:24.57,main,Anna,0,0,0,,What?
+Dialogue: 0,0:05:24.57,0:05:25.76,main,Fudo,0,0,0,,I'm begging you!
+Dialogue: 0,0:05:26.04,0:05:27.45,main,Anna,0,0,0,,{\i1}That's{\i0} the problem?
+Dialogue: 0,0:05:27.45,0:05:28.84,main,Anna,0,0,0,,You're okay with it going public otherwise?
+Dialogue: 0,0:05:28.84,0:05:30.14,main,Fudo,0,0,0,,Absolutely!
+Dialogue: 0,0:05:30.14,0:05:32.74,main,Anna,0,0,0,,That doesn't make sense.
+Dialogue: 0,0:05:32.74,0:05:33.97,main,Anna,0,0,0,,Your reputation—
+Dialogue: 0,0:05:33.97,0:05:35.85,main,Fudo,0,0,0,,I don't care about my reputation!
+Dialogue: 0,0:05:36.49,0:05:40.67,main,Fudo,0,0,0,,But... I really don't want \Nto make any trouble for her.
+Dialogue: 0,0:05:42.14,0:05:43.48,main,Fudo,0,0,0,,And...
+Dialogue: 0,0:05:43.48,0:05:45.89,main,Fudo,0,0,0,,If the picture were to go out uncensored,
+Dialogue: 0,0:05:45.89,0:05:50.24,main,Fudo,0,0,0,,she would quickly go viral \Nas an angel on earth!
+Dialogue: 0,0:05:50.24,0:05:53.95,main,Fudo,0,0,0,,Plus, agents would be falling all \Nover themselves to recruit her!
+Dialogue: 0,0:05:53.95,0:05:56.35,main,Fudo,0,0,0,,Idol! Model! Actress!
+Dialogue: 0,0:05:56.35,0:05:57.94,main,Fudo,0,0,0,,She'll get all kinds of offers,
+Dialogue: 0,0:05:57.94,0:06:01.50,main,Fudo,0,0,0,,and before I know it, she'll have \Nascended far beyond my reach!
+Dialogue: 0,0:06:01.50,0:06:03.35,main,Fudo,0,0,0,,It's too terrifying to conceive!
+Dialogue: 0,0:06:03.35,0:06:05.88,main,Anna,0,0,0,,You're a creepy little man.
+Dialogue: 0,0:06:06.83,0:06:07.99,main,Anna,0,0,0,,Well, fine.
+Dialogue: 0,0:06:07.99,0:06:11.14,main,Anna,0,0,0,,One way or another, you don't \Nwant me leaking it, right?
+Dialogue: 0,0:06:12.20,0:06:15.87,main,Anna,0,0,0,,Which means you've gotta \Ndo whatever I tell you.
+Dialogue: 0,0:06:15.87,0:06:17.05,main,Anna,0,0,0,,Got it?
+Dialogue: 0,0:06:17.05,0:06:18.89,main,Fudo,0,0,0,,Y-Yes...
+Dialogue: 0,0:06:18.91,0:06:21.18,main,Anna,0,0,0,,Then you'd better break up with her—
+Dialogue: 0,0:06:21.18,0:06:21.65,main,Fudo,0,0,0,,I will not!
+Dialogue: 0,0:06:21.65,0:06:22.54,main,Anna,0,0,0,,Hey!
+Dialogue: 0,0:06:21.65,0:06:31.16,sign_3709_26_Terror,Sign,0,0,0,,{\an8\fs30\bord2}Squeeze
+Dialogue: 0,0:06:22.54,0:06:25.16,main,Anna,0,0,0,,Since when do you get a \Nchoice in the whole thing?!
+Dialogue: 0,0:06:25.16,0:06:27.65,main,Anna,0,0,0,,Don't you get what's going on here?
+Dialogue: 0,0:06:27.65,0:06:31.16,main,Fudo,0,0,0,,B-But I'd really appreciate \Nit if you wouldn't go there!
+Dialogue: 0,0:06:31.16,0:06:32.70,main,Fudo,0,0,0,,Would you accept an alternative?
+Dialogue: 0,0:06:32.70,0:06:33.80,main,Anna,0,0,0,,Alternative?
+Dialogue: 0,0:06:34.26,0:06:36.12,main,Anna,0,0,0,,Well...
+Dialogue: 0,0:06:37.88,0:06:39.00,main,Anna,0,0,0,,Okay.
+Dialogue: 0,0:06:39.14,0:06:40.58,sign_9570_120_Record,Sign,0,0,0,,{\pos(320,20)}Record
+Dialogue: 0,0:06:40.56,0:06:42.13,sign_9570_120_Record,Sign,0,0,0,,{\pos(320,20)}Recording
+Dialogue: 0,0:06:42.84,0:06:45.72,main,Anna,0,0,0,,Then, tell me you love me!
+Dialogue: 0,0:06:45.72,0:06:46.63,main,Fudo,0,0,0,,I will not!
+Dialogue: 0,0:06:46.63,0:06:49.13,main,Anna,0,0,0,,Have a little tact, jerk!
+Dialogue: 0,0:06:49.48,0:06:52.24,main,Anna,0,0,0,,Fine. I'm gonna call the tabloids.
+Dialogue: 0,0:06:52.24,0:06:53.31,main,Fudo,0,0,0,,Wait!
+Dialogue: 0,0:06:53.31,0:06:55.39,main,Fudo,0,0,0,,What exactly are you after here?
+Dialogue: 0,0:06:56.05,0:06:59.64,main,Fudo,0,0,0,,Are you trying to come between us?
+Dialogue: 0,0:07:01.31,0:07:02.57,main,Anna,0,0,0,,Oh, shut up.
+Dialogue: 0,0:07:04.65,0:07:08.04,main,Anna,0,0,0,,Listen up... here's your last chance.
+Dialogue: 0,0:07:09.39,0:07:13.28,main,Anna,0,0,0,,K-Kiss my hand!
+Dialogue: 0,0:07:16.12,0:07:18.59,main,Anna,0,0,0,,I'll get a picture of you groveling,
+Dialogue: 0,0:07:18.59,0:07:22.46,main,Anna,0,0,0,,and make our master-slave relationship clear.
+Dialogue: 0,0:07:22.87,0:07:24.98,main,Fudo,0,0,0,,Is this the kind of thing \Nyou called me out for?
+Dialogue: 0,0:07:24.98,0:07:27.11,main,Anna,0,0,0,,Just do it already!
+Dialogue: 0,0:07:28.25,0:07:30.15,main,Fudo,0,0,0,,Master-slave relationship?
+Dialogue: 0,0:07:54.37,0:07:55.26,main,Anna,0,0,0,,I...
+Dialogue: 0,0:07:55.26,0:07:57.24,main,Anna,0,0,0,,I can't do it!
+Dialogue: 0,0:07:59.87,0:08:01.38,main,Anna,0,0,0,,It's freaking humiliating!
+Dialogue: 0,0:08:01.38,0:08:02.37,main,Fudo,0,0,0,,Huh?
+Dialogue: 0,0:08:02.37,0:08:04.95,main,Anna,0,0,0,,Fine, I'll let you off with a warning!
+Dialogue: 0,0:08:04.95,0:08:07.30,main,Anna,0,0,0,,But tomorrow, I'm gonna think of way \Nmore disgusting things for you to do!
+Dialogue: 0,0:08:07.30,0:08:08.25,main,Anna,0,0,0,,You'd better be ready!
+Dialogue: 0,0:08:08.25,0:08:10.50,main,Anna,0,0,0,,And if you don't come, \Nthat picture goes everywhere!
+Dialogue: 0,0:08:10.50,0:08:12.91,main,Anna,0,0,0,,You big, stupid jerk!
+Dialogue: 0,0:08:13.67,0:08:14.62,main,Fudo,0,0,0,,Huh?
+Dialogue: 0,0:08:20.90,0:08:23.27,main,Fudo,0,0,0,,And that's what happened, Desumi-san.
+Dialogue: 0,0:08:24.73,0:08:27.02,main,Desumi,0,0,0,,Who in the world is she?
+Dialogue: 0,0:08:27.02,0:08:30.47,main,Fudo,0,0,0,,Well, she didn't give her name, \Nso I don't know who she is...
+Dialogue: 0,0:08:30.47,0:08:32.24,main,Fudo,0,0,0,,But I'm set to meet her again tonight.
+Dialogue: 0,0:08:33.99,0:08:35.88,main,Desumi,0,0,0,,I'll just have to silence her permanently.
+Dialogue: 0,0:08:35.88,0:08:37.91,main,Fudo,0,0,0,,Please don't go right to those thoughts!
+Dialogue: 0,0:08:39.41,0:08:42.25,main,Desumi,0,0,0,,What exactly did she try to get you to do?
+Dialogue: 0,0:08:42.25,0:08:43.88,main,Fudo,0,0,0,,Oh, well...
+Dialogue: 0,0:08:44.41,0:08:46.29,main,Fudo,0,0,0,,She wanted me to kiss her hand—
+Dialogue: 0,0:08:47.32,0:08:49.09,main,Fudo,0,0,0,,But I didn't!
+Dialogue: 0,0:08:49.09,0:08:51.62,main,Desumi,0,0,0,,Y-You really didn't?
+Dialogue: 0,0:08:51.62,0:08:52.92,main,Fudo,0,0,0,,I didn't.
+Dialogue: 0,0:08:52.92,0:08:55.52,main,Desumi,0,0,0,,I'm sorry. Are you okay?
+Dialogue: 0,0:08:55.52,0:08:56.93,main,Fudo,0,0,0,,I'm fine.
+Dialogue: 0,0:08:58.09,0:08:59.82,main,Desumi,0,0,0,,A-Anything else?
+Dialogue: 0,0:08:59.82,0:09:01.93,main,Fudo,0,0,0,,She wanted me to say I love her.
+Dialogue: 0,0:09:01.93,0:09:04.18,main,Fudo,0,0,0,,She even asked me to break up with you.
+Dialogue: 0,0:09:07.89,0:09:11.88,main,Fudo,0,0,0,,I haven't the foggiest \Nidea what she's thinking.
+Dialogue: 0,0:09:14.89,0:09:15.89,main,Fudo,0,0,0,,Desumi-san?
+Dialogue: 0,0:09:16.53,0:09:17.91,main,Desumi,0,0,0,,Fudo...
+Dialogue: 0,0:09:18.73,0:09:20.66,main,Desumi,0,0,0,,I think she's...
+Dialogue: 0,0:09:21.49,0:09:23.37,main,Desumi,0,0,0,,in love.
+Dialogue: 0,0:09:23.81,0:09:26.00,main,Fudo,0,0,0,,In love? With whom?
+Dialogue: 0,0:09:32.07,0:09:33.07,italics,Fudo,0,0,0,,You're not saying...
+Dialogue: 0,0:09:33.49,0:09:36.41,italics,Fudo,0,0,0,,She's in love with me?!
+Dialogue: 0,0:09:51.40,0:09:53.23,main,Fudo,0,0,0,,It's all right, Desumi-san.
+Dialogue: 0,0:09:53.23,0:09:54.99,main,Fudo,0,0,0,,There's nothing to worry about.
+Dialogue: 0,0:09:55.99,0:09:57.28,italics,Fudo,0,0,0,,I feel bad for the girl,
+Dialogue: 0,0:09:57.63,0:09:59.82,italics,Fudo,0,0,0,,but I need to make things clear to her.
+Dialogue: 0,0:10:11.29,0:10:15.30,main,Anna,0,0,0,,Good boy. You actually came!
+Dialogue: 0,0:10:17.25,0:10:20.30,main,Fudo,0,0,0,,I'm sorry, girl whose name I don't know!
+Dialogue: 0,0:10:21.93,0:10:25.81,main,Fudo,0,0,0,,I thought it over, and realized how you feel.
+Dialogue: 0,0:10:28.69,0:10:31.23,main,Fudo,0,0,0,,I truly appreciate the \Nfeelings you have for me.
+Dialogue: 0,0:10:31.23,0:10:31.80,main,Anna,0,0,0,,What?
+Dialogue: 0,0:10:31.80,0:10:34.34,main,Fudo,0,0,0,,I acted truly shameful yesterday.
+Dialogue: 0,0:10:34.34,0:10:35.87,top,Anna,0,0,0,,Wait—
+Dialogue: 0,0:10:35.60,0:10:38.24,main,Fudo,0,0,0,,But I cannot return your feelings—
+Dialogue: 0,0:10:35.87,0:10:36.70,top,Anna,0,0,0,,Stop—
+Dialogue: 0,0:10:36.70,0:10:37.64,top,Anna,0,0,0,,Stop—
+Dialogue: 0,0:10:37.64,0:10:38.24,top,Anna,0,0,0,,S...
+Dialogue: 0,0:10:38.24,0:10:40.18,main,Anna,0,0,0,,Stop!
+Dialogue: 0,0:10:40.74,0:10:42.99,main,Anna,0,0,0,,What in the world are you talking about?!
+Dialogue: 0,0:10:42.99,0:10:44.91,main,Fudo,0,0,0,,But you're in love, aren't you?
+Dialogue: 0,0:10:44.91,0:10:45.49,main,Anna,0,0,0,,What?!
+Dialogue: 0,0:10:45.80,0:10:47.25,main,Fudo,0,0,0,,With me?
+Dialogue: 0,0:10:47.25,0:10:50.75,main,Anna,0,0,0,,Heck no! I'm in love with {\i1}Desucchi{\i0}!
+Dialogue: 0,0:10:52.05,0:10:54.50,main,Anna,0,0,0,,Crap! I said it out loud!
+Dialogue: 0,0:10:55.63,0:10:57.22,flashback,Mob A,0,0,0,,Wow, she's so tacky.
+Dialogue: 0,0:10:57.22,0:10:58.57,flashback,Mob B,0,0,0,,Bet she's easy.
+Dialogue: 0,0:10:58.57,0:10:59.85,flashback,Mob C,0,0,0,,She's kinda scary.
+Dialogue: 0,0:10:59.85,0:11:01.64,flashback,Mob D,0,0,0,,She'd blow her top over nothing.
+Dialogue: 0,0:11:01.64,0:11:03.51,flashback,Mob D,0,0,0,,Better stay away.
+Dialogue: 0,0:11:08.52,0:11:10.98,flashback,Desumi,0,0,0,,Oh, wow! I love your nails!
+Dialogue: 0,0:11:11.81,0:11:13.95,flashback,Desumi,0,0,0,,Oh, sorry to ambush you.
+Dialogue: 0,0:11:13.95,0:11:18.49,flashback,Desumi,0,0,0,,But I always want to do mine that way,\N and it never turns out right!
+Dialogue: 0,0:11:19.14,0:11:22.11,flashback,Anna,0,0,0,,Oh... yeah?
+Dialogue: 0,0:11:22.91,0:11:24.67,flashback,Desumi,0,0,0,,I'm Desumi Magahara.
+Dialogue: 0,0:11:24.67,0:11:25.87,flashback,Desumi,0,0,0,,Nice to meet you!
+Dialogue: 0,0:11:30.87,0:11:37.57,main,Anna,0,0,0,,Desucchi was so honest and innocent. \NI've had a huge crush on her ever since.
+Dialogue: 0,0:11:42.13,0:11:44.29,italics,Anna,0,0,0,,No reaction, huh?
+Dialogue: 0,0:11:45.42,0:11:49.79,main,Anna,0,0,0,,Sorry to besmirch your pure little \NDesucchi with my unworthy feelings!
+Dialogue: 0,0:11:49.79,0:11:51.64,main,Fudo,0,0,0,,Nothing to be sorry for!
+Dialogue: 0,0:11:51.95,0:11:54.44,main,Fudo,0,0,0,,I was just thinking, you have\N incredibly good taste!
+Dialogue: 0,0:11:55.11,0:11:59.06,main,Fudo,0,0,0,,I'm so glad to meet someone else \Nwho sees how amazing she is!
+Dialogue: 0,0:12:00.01,0:12:01.19,main,Fudo,0,0,0,,I know!
+Dialogue: 0,0:12:01.19,0:12:04.26,main,Fudo,0,0,0,,Want to stay up all night and \Ntalk about how great she is?!
+Dialogue: 0,0:12:07.73,0:12:08.99,main,Fudo,0,0,0,,Well?
+Dialogue: 0,0:12:12.34,0:12:13.95,main,Anna,0,0,0,,You're so weird.
+Dialogue: 0,0:12:15.33,0:12:18.75,main,Anna,0,0,0,,Talking sounds fun, but I'll pass for now.
+Dialogue: 0,0:12:19.18,0:12:21.88,main,Anna,0,0,0,,We're still kinda like rivals, you know?
+Dialogue: 0,0:12:24.20,0:12:26.47,main,Anna,0,0,0,,Hey, Red Gelato...
+Dialogue: 0,0:12:26.47,0:12:28.01,main,Anna,0,0,0,,No, Fudocchi.
+Dialogue: 0,0:12:28.38,0:12:29.85,main,Fudo,0,0,0,,"Fudocchi"?
+Dialogue: 0,0:12:29.85,0:12:32.56,main,Anna,0,0,0,,Sorry about all the trouble I made.
+Dialogue: 0,0:12:32.97,0:12:36.91,main,Anna,0,0,0,,I'm probably gonna keep \Nmaking trouble, just FYI.
+Dialogue: 0,0:12:36.91,0:12:38.52,main,Fudo,0,0,0,,R-Right...
+Dialogue: 0,0:12:39.18,0:12:42.46,main,Anna,0,0,0,,I'm kind of self-centered, \NI'm a little perverse...
+Dialogue: 0,0:12:42.46,0:12:43.58,main,Anna,0,0,0,,And...
+Dialogue: 0,0:12:44.29,0:12:46.10,main,Anna,0,0,0,,I just never know when to quit.
+Dialogue: 0,0:12:49.28,0:12:53.65,main,Anna,0,0,0,,Besides, Desucchi and \NI have a secret connection.
+Dialogue: 0,0:12:55.32,0:12:59.81,main,Anna,0,0,0,,My own little secret that \Neven Desucchi doesn't know.
+Dialogue: 0,0:13:00.73,0:13:04.03,main,Anna,0,0,0,,Better keep your guard up, \Nor I'll steal her from you!
+Dialogue: 0,0:13:04.03,0:13:05.57,main,Anna,0,0,0,,See ya!
+Dialogue: 0,0:13:06.90,0:13:08.11,main,Fudo,0,0,0,,A secret?
+Dialogue: 0,0:13:11.94,0:13:15.44,main,Beast,0,0,0,,A meeting this early in \Nthe morning? I've got the worst luck.
+Dialogue: 0,0:13:15.44,0:13:18.62,main,Steel,0,0,0,,The early bird gets the worm, Beast-san.
+Dialogue: 0,0:13:18.62,0:13:21.69,main,Beast,0,0,0,,Don't lecture me when {\i1}I'm{\i0} the \None who had to wake {\i1}you{\i0} up.
+Dialogue: 0,0:13:21.69,0:13:22.71,main,Beast,0,0,0,,Sheesh...
+Dialogue: 0,0:13:24.65,0:13:26.27,main,Beast,0,0,0,,Hey, Heat.
+Dialogue: 0,0:13:36.51,0:13:39.71,main,Beast,0,0,0,,What's up with her? Learn some\N basic manners already.
+Dialogue: 0,0:13:39.99,0:13:41.82,main,Desumi,0,0,0,,Don't say that, Beast.
+Dialogue: 0,0:13:41.82,0:13:45.69,main,Beast,0,0,0,,No one's ever seen her face or \Nheard her real voice, right?
+Dialogue: 0,0:13:45.69,0:13:47.47,main,Beast,0,0,0,,I don't trust her.
+Dialogue: 0,0:13:47.86,0:13:49.26,main,Desumi,0,0,0,,I think it's just fine.
+Dialogue: 0,0:13:49.26,0:13:52.18,main,Desumi,0,0,0,,Everybody has a secret or two.
+Dialogue: 0,0:13:52.18,0:13:55.62,main,Beast,0,0,0,,Oh? Does that mean you're \Nhiding something, Reaper?
+Dialogue: 0,0:13:55.62,0:13:57.81,main,Desumi,0,0,0,,What? O-Of course not!
+Dialogue: 0,0:14:02.76,0:14:07.11,flashback italics,Anna,0,0,0,,My own little secret that \Neven Desucchi doesn't know.
+Dialogue: 0,0:14:10.07,0:14:13.45,main,Anna,0,0,0,,Desucchi is as adorable as ever!
+Dialogue: 0,0:14:15.01,0:14:19.00,sign_4187_39_Beast_Princess__,sign,0,0,0,,{\an2\pos(140,230)\fs17\fad(1011,1)}Gekko Princess Series\N{\fs15}Heat Princess\N{\fs25}Anna Hojo
+Dialogue: 0,0:14:19.73,0:14:21.98,main,Desumi,0,0,0,,Love After World Domination!
+Dialogue: 0,0:14:32.39,0:14:33.88,main,Desumi,0,0,0,,I'm so nervous!
+Dialogue: 0,0:14:33.88,0:14:35.48,main,Fudo,0,0,0,,It's all right, Desumi-san.
+Dialogue: 0,0:14:35.48,0:14:36.97,main,Fudo,0,0,0,,Believe in us!
+Dialogue: 0,0:14:39.10,0:14:43.40,italics,App,0,0,0,,Your compatibility rating is 98%!
+Dialogue: 0,0:14:43.40,0:14:45.11,main,Desumi,0,0,0,,Isn't that great, Fudo—
+Dialogue: 0,0:14:45.73,0:14:47.86,main,Desumi,0,0,0,,Why do you look so unhappy?
+Dialogue: 0,0:14:48.74,0:14:51.11,main,Fudo,0,0,0,,It wasn't 100%...
+Dialogue: 0,0:14:51.11,0:14:53.49,main,Desumi,0,0,0,,You're so hard on yourself.
+Dialogue: 0,0:14:53.82,0:14:55.95,main,Haru,0,0,0,,Excuse me, could I drop in?
+Dialogue: 0,0:14:55.95,0:14:57.34,main,Desumi,0,0,0,,What is it, Haru?
+Dialogue: 0,0:14:58.96,0:15:00.43,main,Haru,0,0,0,,Desumi-san.
+Dialogue: 0,0:15:00.43,0:15:04.12,main,Haru,0,0,0,,Does Gekko have any attack plans tomorrow?
+Dialogue: 0,0:15:04.12,0:15:05.83,main,Desumi,0,0,0,,This is off the record, okay?
+Dialogue: 0,0:15:05.83,0:15:09.38,main,Desumi,0,0,0,,Bosslar-sama won't be in tomorrow, \Nso all attacks are off!
+Dialogue: 0,0:15:09.83,0:15:11.24,main,Haru,0,0,0,,Awesome!
+Dialogue: 0,0:15:11.87,0:15:13.21,main,Haru,0,0,0,,So, Fudo-senpai,
+Dialogue: 0,0:15:13.21,0:15:15.26,main,Haru,0,0,0,,can you help me study tomorrow?
+Dialogue: 0,0:15:15.67,0:15:18.90,main,Haru,0,0,0,,Finals are coming up, \Nand I haven't done any test prep!
+Dialogue: 0,0:15:18.90,0:15:20.77,main,Fudo,0,0,0,,Sure, that's fine.
+Dialogue: 0,0:15:21.09,0:15:24.02,main,Desumi,0,0,0,,Wait, Fudo, are you a really good student?
+Dialogue: 0,0:15:24.02,0:15:28.04,main,Haru,0,0,0,,Despite how he looks, Senpai is \Nalways in the top ten for his year!
+Dialogue: 0,0:15:28.04,0:15:29.10,main,Haru,0,0,0,,{\i1}Despite{\i0} how he looks!
+Dialogue: 0,0:15:29.10,0:15:31.09,main,Desumi,0,0,0,,That's awesome!
+Dialogue: 0,0:15:31.09,0:15:32.03,italics,Fudo,0,0,0,,How exactly do I look?
+Dialogue: 0,0:15:31.09,0:15:32.03,sign_22324_272_How_exactly_do_I,sign,0,0,0,,{\frz21.37\move(248,35,250,20)\fad(173,1)}How exactly\Ndo I look?
+Dialogue: 0,0:15:32.51,0:15:33.42,main,Fudo,0,0,0,,Very well!
+Dialogue: 0,0:15:33.42,0:15:35.73,main,Fudo,0,0,0,,We'll have a study hangout tomorrow.
+Dialogue: 0,0:15:35.73,0:15:37.16,main,Haru,0,0,0,,Thank you!
+Dialogue: 0,0:15:45.88,0:15:49.05,main,Haru,0,0,0,,Are you bad at school too, Desumi-san?
+Dialogue: 0,0:15:49.05,0:15:50.80,main,Desumi,0,0,0,,Y-Yes...
+Dialogue: 0,0:15:51.02,0:15:53.34,main,Haru,0,0,0,,Then let's make it a threesome!
+Dialogue: 0,0:15:53.34,0:15:58.13,main,Haru,0,0,0,,But if we do that, we won't \Nbe able to do it at HQ...
+Dialogue: 0,0:15:58.13,0:15:59.89,main,Desumi,0,0,0,,Let's do it at my place, then!
+Dialogue: 0,0:16:02.86,0:16:03.51,main,Haru,0,0,0,,What?
+Dialogue: 0,0:16:06.15,0:16:09.78,sign_23165_282_Gekko,Sign,0,0,0,,{\pos(390,20)}Gekko
+Dialogue: 0,0:16:06.29,0:16:09.78,sign_9447_74_1_Week_Earlier,Sign,0,0,0,,{\pos(530,155)\fad(509,1)}The\NNext\NDay
+Dialogue: 0,0:16:07.17,0:16:09.78,main,Haru,0,0,0,,Desumi-san... is this...
+Dialogue: 0,0:16:10.04,0:16:11.69,main,Desumi,0,0,0,,The Gekko women's dormitory!
+Dialogue: 0,0:16:11.69,0:16:13.02,main,Haru,0,0,0,,That's what I thought!
+Dialogue: 0,0:16:13.02,0:16:15.86,main,Haru,0,0,0,,Come on, this is way too dangerous!
+Dialogue: 0,0:16:15.86,0:16:16.49,main,Haru,0,0,0,,Right, Senpai?
+Dialogue: 0,0:16:16.49,0:16:21.91,sign_23413_289_Walking_on_air,Sign,0,0,0,,{\pos(30,100)}Walking on air
+Dialogue: 0,0:16:16.49,0:16:21.91,italicstop,Fudo,0,0,0,,Desumi-san's room. Desumi-san's room. \NDesumi-san's room. Desumi-san's room...
+Dialogue: 0,0:16:18.18,0:16:20.84,italics,Haru,0,0,0,,Never mind. He's already walking on air.
+Dialogue: 0,0:16:22.28,0:16:23.97,main,Desumi,0,0,0,,Don't worry, Haru.
+Dialogue: 0,0:16:24.54,0:16:26.70,main,Desumi,0,0,0,,Just put this on, and you'll be fine!
+Dialogue: 0,0:16:26.70,0:16:29.46,main,Haru,0,0,0,,You really think it'll be that easy?
+Dialogue: 0,0:16:31.84,0:16:33.61,main,Desumi,0,0,0,,You have it on backwards!
+Dialogue: 0,0:16:34.11,0:16:35.64,main,Haru,0,0,0,,I'm so scared...
+Dialogue: 0,0:16:36.69,0:16:37.79,main,Receptionist,0,0,0,,What's the password?
+Dialogue: 0,0:16:37.79,0:16:38.72,main,Desumi,0,0,0,,Briar rose!
+Dialogue: 0,0:16:38.72,0:16:39.91,main,Receptionist,0,0,0,,You may pass!
+Dialogue: 0,0:16:46.67,0:16:47.37,main,Female Combatant,0,0,0,,Kii!
+Dialogue: 0,0:16:47.37,0:16:49.23,main,Haru,0,0,0,,K-Kii!
+Dialogue: 0,0:16:49.67,0:16:51.27,main,Desumi,0,0,0,,Okay, we're here!
+Dialogue: 0,0:16:51.27,0:16:53.37,italics,Haru,0,0,0,,Shouldn't your security be \Na little tighter than this?
+Dialogue: 0,0:17:00.21,0:17:02.27,main,Haru,0,0,0,,Desumi-san, your room is so cute!
+Dialogue: 0,0:17:03.51,0:17:04.66,main,Fudo,0,0,0,,At last...
+Dialogue: 0,0:17:05.50,0:17:07.94,main,Fudo,0,0,0,,At last, I have reached the promised land!
+Dialogue: 0,0:17:09.38,0:17:13.95,main,Fudo,0,0,0,,The holy ground I previously \Nonly saw in video calls!
+Dialogue: 0,0:17:14.92,0:17:17.62,main,Fudo,0,0,0,,It smells like Desumi-san!
+Dialogue: 0,0:17:18.03,0:17:19.76,main,Fudo,0,0,0,,Never mind the studying, let's—
+Dialogue: 0,0:17:28.41,0:17:29.77,main,Fudo,0,0,0,,Sorry, I lost control there.
+Dialogue: 0,0:17:30.33,0:17:31.68,main,Fudo,0,0,0,,Let's begin studying.
+Dialogue: 0,0:17:36.60,0:17:39.53,main,Both,0,0,0,,Fudo-sensei, thank you for the lesson!
+Dialogue: 0,0:17:39.53,0:17:40.83,main,Fudo,0,0,0,,Thank you both for coming!
+Dialogue: 0,0:17:41.68,0:17:43.29,sign_25455_314_Math_II,sign,0,0,0,,{\pos(460,20)}Math II
+Dialogue: 0,0:17:48.54,0:17:51.03,sign_25620_315_Year_2__Term_2__,sign,0,0,0,,Year 2  Term 2  Midterm  Answer Sheet\N{\b0\fnComic Sans MS\c&H858583&} 2-A Desumi Magahara
+Dialogue: 0,0:17:49.33,0:17:51.03,main,Haru,0,0,0,,All perfect scores!
+Dialogue: 0,0:17:51.03,0:17:53.19,main,Haru,0,0,0,,Hang on! You're awesome at school!
+Dialogue: 0,0:17:53.19,0:17:55.17,main,Fudo,0,0,0,,What's going on here, Desumi-san?
+Dialogue: 0,0:17:58.66,0:18:01.95,main,Haru,0,0,0,,Did you just want to study with us?
+Dialogue: 0,0:18:01.95,0:18:03.70,main,Desumi,0,0,0,,Y-Yes...
+Dialogue: 0,0:18:03.70,0:18:04.81,italics,Fudo,0,0,0,,Oh so cute!
+Dialogue: 0,0:18:03.70,0:18:04.81,sign_3317_26_The_cuteness,sign,0,0,0,,{\pos(85,255)}Oh so cute
+Dialogue: 0,0:18:04.81,0:18:07.56,main,Haru,0,0,0,,So I'm the only hopeless one here?
+Dialogue: 0,0:18:07.89,0:18:09.90,main,Fudo,0,0,0,,As charming as this is, rules are rules.
+Dialogue: 0,0:18:09.90,0:18:13.11,main,Desumi,0,0,0,,Very well. Go on and do it!
+Dialogue: 0,0:18:13.57,0:18:14.30,italics,Fudo,0,0,0,,Thwap.
+Dialogue: 0,0:18:13.80,0:18:15.07,sign_26225_327_Thwap,sign,0,0,0,,{\pos(260,20)}Thwap
+Dialogue: 0,0:18:15.73,0:18:17.79,main,Desumi,0,0,0,,I got a strike for lying.
+Dialogue: 0,0:18:17.79,0:18:19.11,italics,Haru,0,0,0,,So cute!
+Dialogue: 0,0:18:21.61,0:18:24.70,main,Desumi,0,0,0,,I'm sorry for lying to you about \Nbeing bad at school, Haru.
+Dialogue: 0,0:18:24.74,0:18:28.18,sign_26488_332_Shame,sign,0,0,0,,{\move(250,280,300,210)\fad(447,449)}Shame...
+Dialogue: 0,0:18:25.24,0:18:27.54,main,Desumi,0,0,0,,I'm actually very good at school!
+Dialogue: 0,0:18:27.54,0:18:30.08,main,Haru,0,0,0,,That apology wasn't great.
+Dialogue: 0,0:18:30.63,0:18:32.96,main,Desumi,0,0,0,,Then let's try again!
+Dialogue: 0,0:18:37.01,0:18:38.81,main,Desumi,0,0,0,,We'll both teach you!
+Dialogue: 0,0:18:38.81,0:18:40.89,main,Haru,0,0,0,,Yeah! I'm gonna learn so much!
+Dialogue: 0,0:18:47.07,0:18:49.21,main,Fudo,0,0,0,,That's not the way, now.
+Dialogue: 0,0:18:49.21,0:18:51.56,main,Fudo,0,0,0,,That's not going to get you to the answer.
+Dialogue: 0,0:18:52.97,0:18:56.98,main,Fudo,0,0,0,,Imagine that the value of \NX is the bicep brachii.
+Dialogue: 0,0:18:58.14,0:19:00.26,main,Fudo,0,0,0,,What does that make Y?
+Dialogue: 0,0:19:02.21,0:19:03.95,main,Haru,0,0,0,,I don't know.
+Dialogue: 0,0:19:03.95,0:19:06.60,main,Fudo,0,0,0,,The forearm flexors, of course!
+Dialogue: 0,0:19:07.27,0:19:11.13,main,Fudo,0,0,0,,Now solve the next problem, \Nsupposing that X is your deltoid.
+Dialogue: 0,0:19:11.13,0:19:12.75,main,Haru,0,0,0,,I can't solve it—
+Dialogue: 0,0:19:12.75,0:19:16.17,main,Fudo,0,0,0,,Bear in mind its connection \Nto the pectoralis major!
+Dialogue: 0,0:19:16.17,0:19:18.92,main,Fudo,0,0,0,,If you can't sort it out, drawing out\N the anatomy might help.
+Dialogue: 0,0:19:18.92,0:19:20.68,main,Haru,0,0,0,,Drawing the anatomy?!
+Dialogue: 0,0:19:22.89,0:19:24.46,main,Fudo,0,0,0,,Yes! That should do it!
+Dialogue: 0,0:19:24.46,0:19:25.57,italics,Haru,0,0,0,,Crap!
+Dialogue: 0,0:19:25.57,0:19:27.84,italics,Haru,0,0,0,,I read so much BL, I actually did it!
+Dialogue: 0,0:19:27.84,0:19:32.03,main,Fudo,0,0,0,,The connection between math \Nand muscles is inseparable.
+Dialogue: 0,0:19:32.03,0:19:34.17,main,Fudo,0,0,0,,Everything makes more sense when you liken
+Dialogue: 0,0:19:34.17,0:19:37.26,main,Fudo,0,0,0,,the beauty of solving equations \Nto well-strengthened muscles.
+Dialogue: 0,0:19:34.59,0:19:36.59,top,Haru,0,0,0,,Help me, Desumi-san!
+Dialogue: 0,0:19:37.28,0:19:40.13,main,Fudo,0,0,0,,Just as muscles connect in a \Nbeautiful way, the numbers—
+Dialogue: 0,0:19:40.13,0:19:42.78,main,Desumi,0,0,0,,Hey, come on. You're just confusing her.
+Dialogue: 0,0:19:43.06,0:19:44.46,main,Desumi,0,0,0,,Let me teach her.
+Dialogue: 0,0:19:46.49,0:19:48.23,main,Desumi,0,0,0,,Don't overthink it!
+Dialogue: 0,0:19:48.23,0:19:50.55,main,Desumi,0,0,0,,All you need for math problems is spirit!
+Dialogue: 0,0:19:50.55,0:19:53.75,main,Desumi,0,0,0,,Just fill in that formula, wham!
+Dialogue: 0,0:19:58.74,0:20:00.41,main,Haru,0,0,0,,Which formula, exactly?
+Dialogue: 0,0:20:00.41,0:20:02.82,main,Desumi,0,0,0,,You know, the wobbly one!
+Dialogue: 0,0:20:02.82,0:20:05.17,main,Desumi,0,0,0,,With the smooth lines in it.
+Dialogue: 0,0:20:05.17,0:20:10.70,main,Desumi,0,0,0,,Then give it a wha-chock and the \Nanswer will come out like {\i1}yeah{\i0}!
+Dialogue: 0,0:20:07.48,0:20:09.09,italicstop,Haru,0,0,0,,Ah.
+Dialogue: 0,0:20:09.09,0:20:11.49,top,Fudo,0,0,0,,Liken it to the parallel curves \Nof the trapezius and the deltoids!
+Dialogue: 0,0:20:10.14,0:20:12.85,italics,Haru,0,0,0,,They're awful teachers.
+Dialogue: 0,0:20:10.70,0:20:12.33,top,Desumi,0,0,0,,Just wham those numbers \Ndown in front of you,
+Dialogue: 0,0:20:11.49,0:20:14.18,main,Fudo,0,0,0,,Understanding muscles will deepen \Nyour understanding of math!
+Dialogue: 0,0:20:12.33,0:20:14.18,top,Desumi,0,0,0,,and don't be afraid to smack that \Nformula in there right after!
+Dialogue: 0,0:20:14.18,0:20:16.47,top,Desumi,0,0,0,,Timing is important there.
+Dialogue: 0,0:20:14.18,0:20:17.28,main,Fudo,0,0,0,,Similarly, understanding muscles \Nmeans understanding math!
+Dialogue: 0,0:20:16.47,0:20:18.31,top,Desumi,0,0,0,,Sometimes they get you on your heels,
+Dialogue: 0,0:20:17.28,0:20:18.31,main,Fudo,0,0,0,,There's nothing else to it!
+Dialogue: 0,0:20:18.31,0:20:20.77,top,Desumi,0,0,0,,but just make sure to stay flexible \Nand they'll tap out eventually,
+Dialogue: 0,0:20:18.31,0:20:22.89,main,Fudo,0,0,0,,Additionally, likening unequal equations \Nto the biceps femoris is quite famous—
+Dialogue: 0,0:20:20.42,0:20:21.61,main,Haru,0,0,0,,Um...
+Dialogue: 0,0:20:20.77,0:20:22.36,top,Desumi,0,0,0,,so pay close attention to—
+Dialogue: 0,0:20:21.63,0:20:23.69,main,Haru,0,0,0,,I should probably go.
+Dialogue: 0,0:20:24.05,0:20:26.07,main,Desumi,0,0,0,,You've got it down already?
+Dialogue: 0,0:20:26.30,0:20:28.17,main,Desumi,0,0,0,,Haru's such a quick learner!
+Dialogue: 0,0:20:28.17,0:20:30.66,main,Fudo,0,0,0,,We must be great teachers!
+Dialogue: 0,0:20:33.10,0:20:35.20,main,Haru,0,0,0,,I really envy you two.
+Dialogue: 0,0:20:35.20,0:20:37.59,main,Haru,0,0,0,,You'll have your choice of university.
+Dialogue: 0,0:20:39.00,0:20:40.46,main,Desumi,0,0,0,,University?
+Dialogue: 0,0:20:40.68,0:20:44.49,main,Haru,0,0,0,,I've gotta work hard to \Nget into my first choice!
+Dialogue: 0,0:20:40.88,0:20:41.84,sign_29752_387_Missing,,0,0,0,,{\fad(193,225)\move(170,145,160,120)\frz27.47}Hmph
+Dialogue: 0,0:20:44.49,0:20:46.47,main,Fudo,0,0,0,,Happy to help anytime. Just ask.
+Dialogue: 0,0:20:48.47,0:20:50.49,main,Haru,0,0,0,,Thanks for everything.
+Dialogue: 0,0:20:51.41,0:20:52.73,main,Haru,0,0,0,,I'll be going now.
+Dialogue: 0,0:20:53.09,0:20:54.75,main,Desumi,0,0,0,,Sure thing. See you again!
+Dialogue: 0,0:21:09.74,0:21:12.06,italics,Fudo,0,0,0,,Alone with Desumi-san in her room...
+Dialogue: 0,0:21:12.50,0:21:15.03,italics,Fudo,0,0,0,,I suddenly feel so nervous.
+Dialogue: 0,0:21:18.25,0:21:19.44,main,Fudo,0,0,0,,What's wrong?
+Dialogue: 0,0:21:19.44,0:21:21.30,main,Fudo,0,0,0,,You look strangely serious.
+Dialogue: 0,0:21:21.30,0:21:22.87,main,Desumi,0,0,0,,Sorry.
+Dialogue: 0,0:21:22.87,0:21:25.09,main,Desumi,0,0,0,,I was just thinking about what Haru said.
+Dialogue: 0,0:21:28.62,0:21:32.61,main,Desumi,0,0,0,,Fudo, are you moving on to \Nuniversity after high school?
+Dialogue: 0,0:21:32.61,0:21:33.46,main,Fudo,0,0,0,,Yes.
+Dialogue: 0,0:21:34.18,0:21:37.37,main,Fudo,0,0,0,,I want to study education.
+Dialogue: 0,0:21:38.65,0:21:43.30,main,Fudo,0,0,0,,And someday, I want to become an elementary \Nschool teacher and teach children.
+Dialogue: 0,0:21:44.05,0:21:47.31,main,Fudo,0,0,0,,I want to be a hero-slash-teacher.
+Dialogue: 0,0:21:51.46,0:21:54.45,main,Fudo,0,0,0,,Desumi-san, do you have \Na goal for the future?
+Dialogue: 0,0:21:56.35,0:21:57.59,main,Desumi,0,0,0,,I...
+Dialogue: 0,0:21:58.82,0:22:02.07,main,Desumi,0,0,0,,I want to go to the same university you do.
+Dialogue: 0,0:22:02.55,0:22:06.67,main,Desumi,0,0,0,,I want a front-row seat to you \Nmaking your dream come true.
+Dialogue: 0,0:22:08.01,0:22:11.01,main,Desumi,0,0,0,,That's a goal I just came up with.
+Dialogue: 0,0:22:11.35,0:22:13.01,main,Fudo,0,0,0,,Desumi-san...
+Dialogue: 0,0:22:15.67,0:22:19.15,main,Desumi,0,0,0,,But I think my father would \Nprobably be really against it.
+Dialogue: 0,0:22:20.22,0:22:24.65,main,Desumi,0,0,0,,I think he expects me to go full-time \Nwith Gekko after I graduate high school.
+Dialogue: 0,0:22:27.38,0:22:31.01,main,Fudo,0,0,0,,Hey, if it comes to that, \NI'll convince your father!
+Dialogue: 0,0:22:32.14,0:22:33.94,main,Desumi,0,0,0,,I can always count on you!
+Dialogue: 0,0:22:36.75,0:22:40.05,main,Desumi,0,0,0,,I hope we can go together, Fudo.
+Dialogue: 0,0:22:40.38,0:22:42.21,main,Fudo,0,0,0,,I know we will.
+Dialogue: 0,0:22:42.21,0:22:44.51,main,Fudo,0,0,0,,Even someone like me can become a hero.
+Dialogue: 0,0:22:45.32,0:22:47.66,main,Fudo,0,0,0,,There's no goal that can't be reached.
+Dialogue: 0,0:22:48.58,0:22:49.41,main,Desumi,0,0,0,,Yeah.
+Dialogue: 0,0:22:56.65,0:22:58.97,main,Desumi,0,0,0,,Oh, I bet that's Haru.
+Dialogue: 0,0:22:58.97,0:23:01.34,main,Desumi,0,0,0,,Maybe she forgot something!
+Dialogue: 0,0:23:07.75,0:23:09.32,italics,Desumi's father,0,0,0,,Desumi-sensei!
+Dialogue: 0,0:23:09.32,0:23:10.35,italics,Desumi's father,0,0,0,,It's your daddy!
+Dialogue: 0,0:23:10.35,0:23:12.94,italics,Desumi's father,0,0,0,,Came to see ya in person for once!
+Dialogue: 0,0:23:12.94,0:23:15.14,italics,Desumi's father,0,0,0,,I brought torimon, too!
+Dialogue: 0,0:23:15.14,0:23:17.41,main,Fudo,0,0,0,,This is... not good.
+Dialogue: 0,0:23:17.41,0:23:19.06,italics,Desumi's father,0,0,0,,Open up already!
+Dialogue: 0,0:23:20.81,0:23:21.75,main,Fudo,0,0,0,,Desumi-san!
+Dialogue: 0,0:23:22.51,0:23:23.25,main,Hellko,0,0,0,,Hey.
+Dialogue: 0,0:23:23.59,0:23:24.88,main,Fudo,0,0,0,,Desumi-san!
+Dialogue: 0,0:23:25.41,0:23:26.88,main,Hellko,0,0,0,,Are you listening?
+Dialogue: 0,0:23:26.88,0:23:28.86,main,Fudo,0,0,0,,Desumi-san!
+Dialogue: 0,0:23:28.86,0:23:29.83,main,Hellko,0,0,0,,Shut up!
+Dialogue: 0,0:23:32.69,0:23:37.14,top,Hellko,0,0,0,,Next episode is, "My Big Sister Has Changed."
+Dialogue: 0,0:23:33.03,0:23:40.25,sign_8302_60_Episode_1__I_Lov,sign,0,0,0,,{\an1\pos(40,300)\fad(1005,1)\fsp.4}Episode 9    {\fsp5.9}My Big Sister Has Changed
+Dialogue: 0,0:23:37.14,0:23:38.60,top,Hellko,0,0,0,,Get it now?
+Dialogue: 0,0:23:38.60,0:23:39.30,top,Fudo,0,0,0,,Yes.

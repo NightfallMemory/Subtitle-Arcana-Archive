@@ -1,0 +1,468 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Internal,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Top Internal,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Sign,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,20,1
+Style: EpTitle,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0,0,20,1
+Style: Show Title,Trebuchet MS,24,&H000ADFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0,0,20,1
+Style: Flashback Internal,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.02,0:00:02.23,EpTitle,Text,0,0,0,,{\fad(700,000)\fs30\blur2\bord3\c&HFFFFFF&\pos(149.143,40.714)}Six years ago
+Dialogue: 0,0:00:02.54,0:00:05.34,Internal,Krai (M),0,0,0,,The Explorers' Association, \Nor the Association for short,
+Dialogue: 0,0:00:05.34,0:00:07.69,Internal,Krai (M),0,0,0,,is the treasure hunters' headquarters.
+Dialogue: 0,0:00:09.47,0:00:10.94,Flashback,Krai,0,0,0,,Maybe we shouldn't do this.
+Dialogue: 0,0:00:10.94,0:00:13.78,Flashback,Liz,0,0,0,,But we haven't even gone in!
+Dialogue: 0,0:00:13.78,0:00:17.25,Flashback,Liz,0,0,0,,Besides, you're the one who said \Nwe should aim for the capital!
+Dialogue: 0,0:00:17.25,0:00:17.88,Flashback,All,0,0,0,,Yeah.
+Dialogue: 0,0:00:17.88,0:00:19.78,Flashback,Krai,0,0,0,,I keep telling you.
+Dialogue: 0,0:00:19.78,0:00:21.72,Flashback,Krai,0,0,0,,While you guys might be fine,
+Dialogue: 0,0:00:21.72,0:00:23.86,Flashback,Krai,0,0,0,,I'm just going to drag you all down.
+Dialogue: 0,0:00:23.86,0:00:25.58,Flashback,Krai,0,0,0,,I should just go home.
+Dialogue: 0,0:00:25.58,0:00:28.73,Flashback,Luke,0,0,0,,Jeez. You're overthinking it.
+Dialogue: 0,0:00:28.73,0:00:30.09,Flashback,Luke,0,0,0,,I'll open it.
+Dialogue: 0,0:00:30.09,0:00:31.88,Flashback,Liz,0,0,0,,Luke, no fair!
+Dialogue: 0,0:00:33.68,0:00:34.74,Flashback,Luke,0,0,0,,Hey!
+Dialogue: 0,0:00:35.00,0:00:38.01,Flashback,Luke,0,0,0,,Which one of you here is the best swordsman?
+Dialogue: 0,0:00:38.21,0:00:40.28,Flashback,Luke,0,0,0,,My name is Luke Sykol.
+Dialogue: 0,0:00:40.28,0:00:44.02,Flashback,Luke,0,0,0,,I am the greatest swordsman in the world!
+Dialogue: 0,0:00:44.27,0:00:45.77,Flashback,Liz,0,0,0,,Luke, I told you.
+Dialogue: 0,0:00:45.77,0:00:47.87,Flashback,Liz,0,0,0,,It's not fair that you're stealing the show!
+Dialogue: 0,0:00:47.87,0:00:49.36,Flashback,Luke,0,0,0,,Early bird gets the worm.
+Dialogue: 0,0:00:50.19,0:00:54.02,Flashback,Liz,0,0,0,,I'm Liz Smart, the greatest thief in the world.
+Dialogue: 0,0:00:54.02,0:00:54.58,Flashback,Krai,0,0,0,,Wai—
+Dialogue: 0,0:00:54.58,0:00:58.53,Flashback,Liz,0,0,0,,We're here today to register \Nas treasure hunters.
+Dialogue: 0,0:00:58.53,0:01:00.77,Flashback,Liz,0,0,0,,You better be grateful!
+Dialogue: 0,0:01:02.78,0:01:05.36,Flashback,Luke,0,0,0,,The truly strong need not rely on a weapon!
+Dialogue: 0,0:01:05.84,0:01:08.25,Flashback,Luke,0,0,0,,Those are the words of our leader, Krai!
+Dialogue: 0,0:01:08.25,0:01:10.38,Flashback,Luke,0,0,0,,Which means that because\NI fight with a mere wooden sword,
+Dialogue: 0,0:01:10.38,0:01:11.50,Flashback,Luke,0,0,0,,I'm the strongest in the world!
+Dialogue: 0,0:01:11.50,0:01:14.16,Flashback,Tattor,0,0,0,,Uh, huh... That's great for you.
+Dialogue: 0,0:01:13.47,0:01:16.31,Flashback Internal,Krai(M),0,0,0,,{\an8}I feel like I'm about to puke, \Nso please stop mentioning me.
+Dialogue: 0,0:01:16.88,0:01:20.84,Flashback,Krai,0,0,0,,Excuse me, but do you get \Nother crazy newbies like us?
+Dialogue: 0,0:01:20.84,0:01:22.71,Flashback,Kaina,0,0,0,,Once in a blue moon...
+Dialogue: 0,0:01:22.71,0:01:26.31,Flashback,Kaina,0,0,0,,Well, please register your \Nparty's name and crest.
+Dialogue: 0,0:01:27.17,0:01:28.74,Flashback,Krai,0,0,0,,Our party's name?
+Dialogue: 0,0:01:28.74,0:01:31.43,Flashback,Krai,0,0,0,,Now that you mention it, \Nwe've never thought about it.
+Dialogue: 0,0:01:31.43,0:01:37.09,Flashback,Kaina,0,0,0,,Your party's name and crest will come \Nto represent the core values of your party.
+Dialogue: 0,0:01:37.09,0:01:40.69,Flashback,Kaina,0,0,0,,So don't just pick something \Nrandom. Take your time.
+Dialogue: 0,0:01:43.80,0:01:45.20,Flashback Internal,Krai(M),0,0,0,,I got it.
+Dialogue: 0,0:01:45.20,0:01:48.58,Flashback Internal,Krai(M),0,0,0,,I'll show you what you get \Nfor making me the leader.
+Dialogue: 0,0:01:48.58,0:01:51.72,Flashback Internal,Krai(M),0,0,0,,With a name like this, nobody \Nwould ever think we're strong.
+Dialogue: 0,0:01:51.95,0:01:52.99,Flashback,Krai,0,0,0,,Done.
+Dialogue: 0,0:01:53.59,0:01:56.72,Flashback,Krai,0,0,0,,Our party's name is "Grieving Souls."
+Dialogue: 0,0:01:56.72,0:01:59.48,Flashback,Krai,0,0,0,,For our crest, we'll go \Nwith this skullish thing.
+Dialogue: 0,0:02:00.18,0:02:02.73,Flashback,Lucia,0,0,0,,Talk about bad taste.
+Dialogue: 0,0:02:02.73,0:02:05.43,Flashback,Luke,0,0,0,,Aren't we a party of heroes?
+Dialogue: 0,0:02:05.43,0:02:06.90,Flashback,Sitri,0,0,0,,With a name like that,
+Dialogue: 0,0:02:06.90,0:02:09.91,Flashback,Sitri,0,0,0,,we run the risk of people thinking \Nwe're an antisocial party...
+Dialogue: 0,0:02:09.91,0:02:12.36,Flashback,Liz,0,0,0,,I want something cuter!
+Dialogue: 0,0:02:11.86,0:02:12.36,Flashback,Ansam,0,0,0,,Agreed.
+Dialogue: 0,0:02:15.02,0:02:18.24,Flashback,Krai,0,0,0,,If we don't use this name, \NI just can't get motivated.
+Dialogue: 0,0:02:18.24,0:02:19.89,Flashback,Krai,0,0,0,,Looks like I failed as your leader.
+Dialogue: 0,0:02:20.50,0:02:24.49,Flashback,Krai,0,0,0,,Guess I have no choice but to \Nleave the party and cheer you—
+Dialogue: 0,0:02:24.49,0:02:26.33,Flashback,Lucia,0,0,0,,You've got great taste, actually!
+Dialogue: 0,0:02:26.33,0:02:28.19,Flashback,Luke,0,0,0,,On second thought, it's really cool!
+Dialogue: 0,0:02:28.19,0:02:30.12,Flashback,Sitri,0,0,0,,As long as we do good deeds, it's fine!
+Dialogue: 0,0:02:30.12,0:02:31.59,Flashback,Liz,0,0,0,,Krai, you're the best!
+Dialogue: 0,0:02:31.59,0:02:32.38,Flashback,Ansam,0,0,0,,Agreed.
+Dialogue: 0,0:02:33.14,0:02:36.01,Flashback,Kaina,0,0,0,,Is this your party name, then?
+Dialogue: 0,0:02:36.01,0:02:37.24,Flashback,Krai,0,0,0,,Uh, yes.
+Dialogue: 0,0:02:37.88,0:02:38.87,Flashback,Krai,0,0,0,,This, please.
+Dialogue: 0,0:02:39.90,0:02:44.63,Internal,Krai(M),0,0,0,,That's how our party, \NGrieving Souls, was born.
+Dialogue: 0,0:02:45.10,0:02:49.53,Internal,Narrator,0,0,0,,We are now in the golden age \Nof the treasure hunters!
+Dialogue: 0,0:02:49.53,0:02:52.68,Internal,Narrator,0,0,0,,Amid the sparkling talent on \Ndisplay in the capital of Zebrudia,
+Dialogue: 0,0:02:52.68,0:02:55.41,Internal,Narrator,0,0,0,,there was one man who stood \Nout amongst all others!
+Dialogue: 0,0:02:55.77,0:02:57.91,Internal,Narrator,0,0,0,,His name is Krai Andrey.
+Dialogue: 0,0:02:57.91,0:03:00.53,Internal,Narrator,0,0,0,,This is an epic tale \Nfull of glory and agony
+Dialogue: 0,0:03:00.53,0:03:02.57,Internal,Narrator,0,0,0,,of how he became renowned \Nfor being the leader
+Dialogue: 0,0:03:02.57,0:03:05.40,Internal,Narrator,0,0,0,,of the strongest party he founded \Nwith his childhood friends,
+Dialogue: 0,0:03:05.40,0:03:08.66,Internal,Narrator,0,0,0,,and also the master of the strongest clan!
+Dialogue: 0,0:03:35.68,0:03:37.85,Default,Liz,0,0,0,,So what does "Grieving Souls" even mean?
+Dialogue: 0,0:03:37.85,0:03:39.99,Default,Sitri,0,0,0,,You didn't know?
+Dialogue: 0,0:03:39.99,0:03:41.48,Default,Sitri,0,0,0,,Something like lamenting spirits.
+Dialogue: 0,0:03:41.48,0:03:42.19,Default,Ansam,0,0,0,,Right.
+Dialogue: 0,0:03:42.49,0:03:45.49,EpTitle,title,0,0,0,,{\c&H00BAFF&\pos(320.52,100.623)}Episode 02
+Dialogue: 0,0:03:42.49,0:03:45.49,EpTitle,title,0,0,0,,{\fs30\bord3\pos(322.143,238.714)\c&HD1D1D1&}I Want to Leave It to Tino and Take It Easy
+Dialogue: 0,0:03:42.85,0:03:44.97,Default,Krai,0,0,0,,"I Want to Leave It to Tino\Nand Take It Easy."
+Dialogue: 0,0:03:57.21,0:04:04.03,Show Title,Title,0,0,0,,{\fad(200,700)\pos(324,269)\fscx95\fscy76}Let This Grieving Soul Retire
+Dialogue: 0,0:04:15.48,0:04:18.49,Default,Greg,0,0,0,,I-I could only half believe\Nit yesterday, but...
+Dialogue: 0,0:04:18.49,0:04:22.49,Default,Greg,0,0,0,,Are you really the clan master of Steps?
+Dialogue: 0,0:04:22.49,0:04:25.41,Default,Krai,0,0,0,,If I may humbly say so, Great Greg.
+Dialogue: 0,0:04:25.41,0:04:29.71,Default,Greg,0,0,0,,So you're Thousand Tricks?
+Dialogue: 0,0:04:29.71,0:04:30.94,Default,Gilbert,0,0,0,,Thousand Tricks?
+Dialogue: 0,0:04:30.94,0:04:32.24,Default,Rhuda,0,0,0,,The level 8?!
+Dialogue: 0,0:04:32.53,0:04:35.94,Default,Tino,0,0,0,,Now that you understand how great\Nour Master is, hurry up and get on your knees.
+Dialogue: 0,0:04:35.94,0:04:38.88,Default,Krai,0,0,0,,Tino, let's not be threatening, okay?
+Dialogue: 0,0:04:38.88,0:04:43.01,Internal,Krai(M),0,0,0,,Thousand Tricks was the \Nsecond name given to me
+Dialogue: 0,0:04:43.01,0:04:44.51,Internal,Krai(M),0,0,0,,as the leader of the Grievers.
+Dialogue: 0,0:04:44.51,0:04:46.93,Internal,Krai(M),0,0,0,,Hunters who achieve a \Ncertain prestige and status
+Dialogue: 0,0:04:46.93,0:04:50.75,Internal,Krai(M),0,0,0,,are given special names by the Association\Nand become revered almost like celebrities.
+Dialogue: 0,0:04:51.10,0:04:55.02,Internal,Krai(M),0,0,0,,For a hunter, there is no higher praise.
+Dialogue: 0,0:04:55.77,0:04:57.56,Default,Gilbert,0,0,0,,Wait, hold up!
+Dialogue: 0,0:04:57.56,0:05:00.93,Default,Gilbert,0,0,0,,There is no way you're Thousand \NTricks, the strongest in the capital!
+Dialogue: 0,0:05:00.93,0:05:02.18,Default,Gilbert,0,0,0,,Get out of here!
+Dialogue: 0,0:05:02.18,0:05:04.02,Default,Gilbert,0,0,0,,You look like you never train!
+Dialogue: 0,0:05:04.02,0:05:07.50,Default,Tino,0,0,0,,It's sad that you can't recognize \NMaster's strength.
+Dialogue: 0,0:05:07.50,0:05:09.37,Default,Tino,0,0,0,,You're wasting 90% of your life.
+Dialogue: 0,0:05:09.37,0:05:11.27,Default,Krai,0,0,0,,Tino, let's be quiet now, okay?
+Dialogue: 0,0:05:11.53,0:05:14.53,Default,Tino,0,0,0,,Master, there's no way I can work with him.
+Dialogue: 0,0:05:14.80,0:05:17.30,Default,Tino,0,0,0,,Guys who are all talk are the worst!
+Dialogue: 0,0:05:17.54,0:05:20.59,Internal,Krai(M),0,0,0,,You just perfectly described me.
+Dialogue: 0,0:05:20.59,0:05:24.32,Internal,Krai(M),0,0,0,,Who said I'm the strongest \Nin the capital, anyway?
+Dialogue: 0,0:05:26.32,0:05:28.76,Flashback Internal,Both,0,0,0,,{\an8}The strongest in the capital!
+Dialogue: 0,0:05:27.30,0:05:29.07,Internal,Krai(M),0,0,0,,I have a rough idea...
+Dialogue: 0,0:05:30.33,0:05:35.04,Default,Krai,0,0,0,,I figure you heard the rough \Ndetails, so what do you think?
+Dialogue: 0,0:05:35.04,0:05:37.93,Default,Krai,0,0,0,,Will the three of you help \NTino out with this job?
+Dialogue: 0,0:05:37.93,0:05:39.45,Default,Gilbert,0,0,0,,What a joke.
+Dialogue: 0,0:05:39.45,0:05:41.72,Default,Gilbert,0,0,0,,Why should I listen to you?
+Dialogue: 0,0:05:41.72,0:05:43.56,Default,Gilbert,0,0,0,,Level 8, my ass!
+Dialogue: 0,0:05:43.56,0:05:45.67,Default,Greg,0,0,0,,You idiot! Do you know\Nwho you're picking a fight with?
+Dialogue: 0,0:05:45.67,0:05:46.69,Default,Gilbert,0,0,0,,Who are you calling an idiot?
+Dialogue: 0,0:05:47.04,0:05:52.75,Default,Gilbert,0,0,0,,How can {\i1}this{\i0} be the leader of the strongest \Nparty that everybody always talks about?!
+Dialogue: 0,0:05:52.75,0:05:54.45,Default,Gilbert,0,0,0,,I won't accept it!
+Dialogue: 0,0:05:54.45,0:05:56.20,Default,Greg,0,0,0,,He's level 8!
+Dialogue: 0,0:05:56.20,0:05:58.17,Default,Gilbert,0,0,0,,And I'm level 4!
+Dialogue: 0,0:05:59.84,0:06:02.83,Default,Krai,0,0,0,,Fine. We'll give up on young Gilbert, then.
+Dialogue: 0,0:06:04.10,0:06:06.36,Default,Krai,0,0,0,,You'll help out, right, Great Greg?
+Dialogue: 0,0:06:06.36,0:06:07.84,Default,Greg,0,0,0,,Y-Yes.
+Dialogue: 0,0:06:07.84,0:06:09.60,Default,Greg,0,0,0,,I don't mind, but...
+Dialogue: 0,0:06:09.60,0:06:10.94,Default,Krai,0,0,0,,What about you, Rhuda?
+Dialogue: 0,0:06:10.94,0:06:14.48,Default,Krai,0,0,0,,I figured this would be perfect, since you \Nwanted to go to the White Wolf's Den.
+Dialogue: 0,0:06:14.48,0:06:17.85,Default,Rhuda,0,0,0,,Well, this isn't really \Nsomething I wanted, but...
+Dialogue: 0,0:06:17.85,0:06:21.38,Default,Gilbert,0,0,0,,Wait, what do you mean,\N give up on me?
+Dialogue: 0,0:06:21.38,0:06:22.97,Default,Gilbert,0,0,0,,I won't help out, then!
+Dialogue: 0,0:06:22.97,0:06:25.78,Default,Krai,0,0,0,,Yeah, it's unfortunate, but what can we do?
+Dialogue: 0,0:06:25.78,0:06:30.60,Default,Krai,0,0,0,,Tino, if you need more help, \Njust take someone else from the clan.
+Dialogue: 0,0:06:30.60,0:06:33.71,Default,Tino,0,0,0,,Master, please come with us...
+Dialogue: 0,0:06:33.71,0:06:35.02,Default,Krai,0,0,0,,I. Don't. Want. To.
+Dialogue: 0,0:06:35.43,0:06:36.52,Default,Krai,0,0,0,,Right, then.
+Dialogue: 0,0:06:36.52,0:06:38.51,Default,Krai,0,0,0,,Great Greg and Rhuda, I'm counting on you.
+Dialogue: 0,0:06:39.82,0:06:41.26,Default,Gilbert,0,0,0,,I challenge you!
+Dialogue: 0,0:06:41.26,0:06:43.40,Default,Gilbert,0,0,0,,Thousand Tricks, I challenge you!
+Dialogue: 0,0:06:43.40,0:06:45.74,Default,Gilbert,0,0,0,,If I lose, I'll go along.
+Dialogue: 0,0:06:46.89,0:06:48.39,Default,Gilbert,0,0,0,,What do you say?!
+Dialogue: 0,0:06:48.79,0:06:51.93,Default,Gilbert,0,0,0,,I'm not going to listen to\Nanyone weaker than me!
+Dialogue: 0,0:06:51.93,0:06:55.19,Default,Krai,0,0,0,,Then you won't be fighting me,
+Dialogue: 0,0:06:55.19,0:06:57.26,Default,Krai,0,0,0,,but the party leader, Tino.
+Dialogue: 0,0:06:57.26,0:06:58.50,Default,Tino,0,0,0,,Please leave it to me.
+Dialogue: 0,0:06:58.50,0:07:01.81,Default,Tino,0,0,0,,You were atrociously rude \Ntoward Master.
+Dialogue: 0,0:07:01.81,0:07:05.15,Default,Tino,0,0,0,,I, Tino Shade, will rain divine\N punishment down upon you!
+Dialogue: 0,0:07:05.90,0:07:07.66,Default,Tino,0,0,0,,Master, look!
+Dialogue: 0,0:07:07.66,0:07:10.39,Default,Tino,0,0,0,,This is the flexibility I learned \Ndirectly from my teacher!
+Dialogue: 0,0:07:10.39,0:07:13.11,Default,Tino,0,0,0,,I can assume any position I need.
+Dialogue: 0,0:07:14.62,0:07:15.76,Default,Krai,0,0,0,,Yeah, sure.
+Dialogue: 0,0:07:15.76,0:07:18.05,Default,Krai,0,0,0,,I have no idea what you're talking \Nabout, but that's great.
+Dialogue: 0,0:07:18.05,0:07:20.24,Default,Gilbert,0,0,0,,I was careless during the ring incident,
+Dialogue: 0,0:07:20.24,0:07:22.04,Default,Gilbert,0,0,0,,but I'm going all in today!
+Dialogue: 0,0:07:22.04,0:07:26.88,Default,Gilbert,0,0,0,,Thousand Tricks, once I \Nbeat her, you're next.
+Dialogue: 0,0:07:26.88,0:07:30.04,Internal,Krai(M),0,0,0,,Yeah, no. Why do I have to fight?
+Dialogue: 0,0:07:30.04,0:07:33.16,Default,Krai,0,0,0,,Oh, by the way, she's also level 4.
+Dialogue: 0,0:07:33.16,0:07:34.31,Default,Gilbert,0,0,0,,What?!
+Dialogue: 0,0:07:34.63,0:07:36.56,Default,Tino,0,0,0,,Just warning you.
+Dialogue: 0,0:07:36.56,0:07:39.57,Default,Tino,0,0,0,,Compared to Master, I'm garbage.
+Dialogue: 0,0:07:39.57,0:07:42.47,Default,Tino,0,0,0,,But there's no way that \NI could lose this fight.
+Dialogue: 0,0:07:43.56,0:07:46.10,Default,Tino,0,0,0,,I'll hold back so I don't kill you.
+Dialogue: 0,0:07:47.06,0:07:49.32,Default,Rhuda,0,0,0,,Is she really going to be okay?
+Dialogue: 0,0:07:49.32,0:07:51.42,Default,Greg,0,0,0,,In a face-to-face battle,
+Dialogue: 0,0:07:51.42,0:07:53.41,Default,Greg,0,0,0,,a thief won't last a second.
+Dialogue: 0,0:07:53.41,0:07:55.14,Internal,Krai(M),0,0,0,,He's not wrong...
+Dialogue: 0,0:07:55.46,0:07:57.31,Internal,Krai(M),0,0,0,,While they're the same level,
+Dialogue: 0,0:07:57.31,0:07:59.72,Internal,Krai(M),0,0,0,,since Tino gained them solo,
+Dialogue: 0,0:07:59.99,0:08:02.12,Internal,Krai(M),0,0,0,,she's probably better than him.
+Dialogue: 0,0:08:02.12,0:08:04.35,Internal,Krai(M),0,0,0,,And she's had plenty of \Nexperience fighting humans.
+Dialogue: 0,0:08:04.35,0:08:08.21,Internal,Krai(M),0,0,0,,The only problem is that relic, \Nthe Purgatorial Sword.
+Dialogue: 0,0:08:08.53,0:08:10.35,Internal,Krai(M),0,0,0,,Depending on its abilities,
+Dialogue: 0,0:08:10.35,0:08:12.73,Internal,Krai(M),0,0,0,,it could easily tip the scales in his favor.
+Dialogue: 0,0:08:15.10,0:08:16.87,Default,Gilbert,0,0,0,,Don't underestimate me.
+Dialogue: 0,0:08:16.87,0:08:19.60,Default,Gilbert,0,0,0,,I don't need a weapon \Nagainst an unarmed female!
+Dialogue: 0,0:08:19.89,0:08:21.23,Internal,Krai(M),0,0,0,,Is he stupid?
+Dialogue: 0,0:08:21.23,0:08:23.11,Internal,Krai(M),0,0,0,,A swordsman throwing away his sword?
+Dialogue: 0,0:08:23.73,0:08:26.49,Internal,Krai(M),0,0,0,,Well, I guess now it comes \Ndown to their own ability.
+Dialogue: 0,0:08:27.62,0:08:30.35,Default,Tino,0,0,0,,Once I win, I'll go get \Nice cream with Master.
+Dialogue: 0,0:08:30.35,0:08:32.08,Default,Krai,0,0,0,,I didn't promise that.
+Dialogue: 0,0:08:32.08,0:08:34.37,Default,Tino,0,0,0,,I want to go get ice cream!
+Dialogue: 0,0:08:34.64,0:08:36.89,Default,Tino,0,0,0,,Ice cream with Master!
+Dialogue: 0,0:08:37.92,0:08:39.41,Default,Krai,0,0,0,,Fine.
+Dialogue: 0,0:08:39.41,0:08:41.08,Default,Krai,0,0,0,,Once the job is done.
+Dialogue: 0,0:08:41.63,0:08:43.41,Default,Tino,0,0,0,,Yay!
+Dialogue: 0,0:09:00.15,0:09:02.25,Default,Tino,0,0,0,,Master, did you see that?
+Dialogue: 0,0:09:03.16,0:09:04.45,Default,Tino,0,0,0,,Divine punishment!
+Dialogue: 0,0:09:04.45,0:09:05.64,Default,Gilbert,0,0,0,,Not so fast!
+Dialogue: 0,0:09:06.03,0:09:09.06,Default,Gilbert,0,0,0,,It's not over yet!
+Dialogue: 0,0:09:11.67,0:09:13.77,Default,Tino,0,0,0,,I think you know,
+Dialogue: 0,0:09:13.77,0:09:15.11,Default,Tino,0,0,0,,but I was holding back.
+Dialogue: 0,0:09:15.11,0:09:16.63,Default,Tino,0,0,0,,If you don't want more pain,
+Dialogue: 0,0:09:16.63,0:09:19.15,Default,Tino,0,0,0,,never talk back to Master again.
+Dialogue: 0,0:09:20.13,0:09:24.79,Default,Tino,0,0,0,,You will worship him as a god and \Npray to him three times a day.
+Dialogue: 0,0:09:25.37,0:09:28.42,Default,Tino,0,0,0,,You will regularly bring me tributes.
+Dialogue: 0,0:09:28.42,0:09:30.41,Default,Tino,0,0,0,,I'll pass them on to Master.
+Dialogue: 0,0:09:31.67,0:09:33.13,Default,Gilbert,0,0,0,,Do you...
+Dialogue: 0,0:09:33.13,0:09:35.37,Default,Gilbert,0,0,0,,ever shut up?!
+Dialogue: 0,0:09:39.52,0:09:41.46,Default,Tino,0,0,0,,Did you see that, Master?!
+Dialogue: 0,0:09:41.46,0:09:45.10,Default,Tino,0,0,0,,You've helped me grow so much.
+Dialogue: 0,0:09:45.10,0:09:47.52,Internal,Krai(M),0,0,0,,Yeah, I've done \Nabsolutely nothing, though.
+Dialogue: 0,0:09:47.84,0:09:50.42,Default,Greg,0,0,0,,So {\i1}this{\i0} is how strong the Steps are...
+Dialogue: 0,0:09:50.42,0:09:52.37,Default,Rhuda,0,0,0,,Even without weapons...
+Dialogue: 0,0:09:52.37,0:09:56.14,Default,Tino,0,0,0,,Master, how did you like \Nmy variety of moves?
+Dialogue: 0,0:09:57.03,0:09:58.47,Internal,Gilbert(M),0,0,0,,I...
+Dialogue: 0,0:09:59.90,0:10:01.16,Internal,Gilbert(M),0,0,0,,can still go—
+Dialogue: 0,0:10:04.17,0:10:07.28,Internal,Gilbert(M),0,0,0,,I was born to become a hunter.
+Dialogue: 0,0:10:07.55,0:10:12.16,Internal,Gilbert(M),0,0,0,,I took up the sword as a kid and \Nquickly surpassed even the adults.
+Dialogue: 0,0:10:15.01,0:10:18.13,Internal,Gilbert(M),0,0,0,,I grew up and came to the capital.
+Dialogue: 0,0:10:18.67,0:10:23.70,Internal,Gilbert(M),0,0,0,,There, I formed a party with some others \Nand cleared multiple treasure vaults.
+Dialogue: 0,0:10:24.48,0:10:27.77,Internal,Gilbert(M),0,0,0,,I was proud of how far \NI had come so quickly.
+Dialogue: 0,0:10:28.36,0:10:30.30,Internal,Gilbert(M),0,0,0,,Nobody can defeat me.
+Dialogue: 0,0:10:30.30,0:10:32.15,Internal,Gilbert(M),0,0,0,,I am the strongest.
+Dialogue: 0,0:10:32.15,0:10:33.41,Internal,Gilbert(M),0,0,0,,I am...
+Dialogue: 0,0:10:34.59,0:10:35.28,Default,Tino,0,0,0,,Hey.
+Dialogue: 0,0:10:36.28,0:10:39.53,Default,Tino,0,0,0,,If you want to keep going, \Nyou should use that sword.
+Dialogue: 0,0:10:39.53,0:10:41.42,Default,Gilbert,0,0,0,,As if...
+Dialogue: 0,0:10:42.00,0:10:43.91,Default,Tino,0,0,0,,What foolish pride.
+Dialogue: 0,0:10:44.23,0:10:46.58,Default,Tino,0,0,0,,It's all for nothing if you die.
+Dialogue: 0,0:10:50.14,0:10:51.84,Internal,Gilbert(M),0,0,0,,She's right.
+Dialogue: 0,0:10:51.84,0:10:54.03,Internal,Gilbert(M),0,0,0,,In a real fight, I would have \Nbeen long dead.
+Dialogue: 0,0:10:54.51,0:10:57.56,Internal,Gilbert(M),0,0,0,,Being forced to see \Nhow much weaker I am...
+Dialogue: 0,0:10:57.56,0:10:58.31,Internal,Gilbert(M),0,0,0,,is...
+Dialogue: 0,0:10:58.31,0:11:01.74,Default,Krai,0,0,0,,So, hey. You left your party because the difference\N in power between you
+Dialogue: 0,0:11:01.74,0:11:03.44,Default,Krai,0,0,0,,and the others was too great, right?
+Dialogue: 0,0:11:03.44,0:11:06.20,Default,Gilbert,0,0,0,,How... did you know?
+Dialogue: 0,0:11:06.55,0:11:09.00,Default,Krai,0,0,0,,The same thing happened in my party.
+Dialogue: 0,0:11:09.00,0:11:12.31,Default,Krai,0,0,0,,Well, in our case, nobody was abandoned.
+Dialogue: 0,0:11:12.57,0:11:15.17,Internal,Krai(M),0,0,0,,Wouldn't let me be abandoned, I should say.
+Dialogue: 0,0:11:17.06,0:11:21.95,Internal,Gilbert(M),0,0,0,,Grieving Souls is a group of elites who \Nstand out even here in the capital.
+Dialogue: 0,0:11:21.95,0:11:26.21,Internal,Gilbert(M),0,0,0,,So that means he's been showing \Nmercy to people like that?
+Dialogue: 0,0:11:26.73,0:11:29.70,Internal,Gilbert(M),0,0,0,,The level 8, Thousand Tricks.
+Dialogue: 0,0:11:29.93,0:11:32.31,Internal,Gilbert(M),0,0,0,,Nobody knows his true nature.
+Dialogue: 0,0:11:32.31,0:11:34.45,Internal,Gilbert(M),0,0,0,,The man is like a phantom.
+Dialogue: 0,0:11:41.10,0:11:42.18,Default,Krai,0,0,0,,Aha.
+Dialogue: 0,0:11:42.18,0:11:45.40,Default,Krai,0,0,0,,Elemental damage and improved attack range.
+Dialogue: 0,0:11:46.01,0:11:48.26,Default,Krai,0,0,0,,It's a simple but good sword.
+Dialogue: 0,0:11:48.26,0:11:49.84,Default,Krai,0,0,0,,You should treat it well.
+Dialogue: 0,0:11:50.46,0:11:52.40,Default,Gilbert,0,0,0,,Th-This can't be happening.
+Dialogue: 0,0:11:52.40,0:11:54.55,Default,Gilbert,0,0,0,,He handled the Purgatorial \NSword with such ease.
+Dialogue: 0,0:11:54.99,0:11:57.66,Default,Gilbert,0,0,0,,Even I haven't managed this kind of flame...
+Dialogue: 0,0:11:58.47,0:12:00.48,Default,Gilbert,0,0,0,,And he didn't even hold the hilt...
+Dialogue: 0,0:12:01.54,0:12:02.98,Default,Gilbert,0,0,0,,This can't be!
+Dialogue: 0,0:12:03.48,0:12:05.16,Default,Gilbert,0,0,0,,This cannot be.
+Dialogue: 0,0:12:06.78,0:12:08.65,Default,Gilbert,0,0,0,,You... monster.
+Dialogue: 0,0:12:09.47,0:12:12.92,Internal,Krai(M),0,0,0,,Mana material is said to be the \Ncore substance of this world,
+Dialogue: 0,0:12:12.92,0:12:17.25,Internal,Krai(M),0,0,0,,and while it is everywhere, it \Ncannot be seen with the naked eye.
+Dialogue: 0,0:12:17.64,0:12:19.36,Internal,Krai(M),0,0,0,,And treasure vaults
+Dialogue: 0,0:12:19.36,0:12:23.75,Internal,Krai(M),0,0,0,,are a phenomenon where ley lines and \Nother forces condense mana material,
+Dialogue: 0,0:12:23.75,0:12:27.03,Internal,Krai(M),0,0,0,,thereby manifesting limited \Nalternate worlds based
+Dialogue: 0,0:12:27.03,0:12:29.94,Internal,Krai(M),0,0,0,,on memories extracted from \Nthe core of the world.
+Dialogue: 0,0:12:30.56,0:12:34.13,Internal,Krai(M),0,0,0,,Even though the rules governing this \Nare studied across many lands,
+Dialogue: 0,0:12:34.51,0:12:37.27,Internal,Krai(M),0,0,0,,they are still not entirely understood.
+Dialogue: 0,0:12:37.76,0:12:41.26,Internal,Krai(M),0,0,0,,The White Wolf's Den is one \Nof these treasure vaults.
+Dialogue: 0,0:12:41.26,0:12:46.79,Internal,Krai(M),0,0,0,,The site was originally inhabited by wolf \Nmonsters called Silver Moons,
+Dialogue: 0,0:12:46.79,0:12:51.28,Internal,Krai(M),0,0,0,,but they were eradicated due to \Nuncontrolled hunting of their fur.
+Dialogue: 0,0:12:51.28,0:12:55.54,Internal,Krai(M),0,0,0,,Soon after, the treasure vault appeared there \N as well as a blood-soaked wolf phantom.
+Dialogue: 0,0:12:55.54,0:12:56.83,Default,Krai,0,0,0,,Yeah, nope.
+Dialogue: 0,0:12:56.83,0:12:57.80,Default,Krai,0,0,0,,That's too scary.
+Dialogue: 0,0:12:58.39,0:13:03.17,Default,Krai,0,0,0,,A treasure vault that's a vengeful \Nreflection of history is too much.
+Dialogue: 0,0:13:04.51,0:13:06.92,Default,Eva,0,0,0,,You're the one who made them go there.
+Dialogue: 0,0:13:06.92,0:13:09.96,Default,Krai,0,0,0,,The vault is only level 3,\Nand there's four of them.
+Dialogue: 0,0:13:09.96,0:13:11.19,Default,Krai,0,0,0,,They'll be fine.
+Dialogue: 0,0:13:11.19,0:13:13.06,Default,Krai,0,0,0,,And Tino's quite level-headed, too.
+Dialogue: 0,0:13:13.59,0:13:17.62,Default,Krai,0,0,0,,But thanks for giving me that \Ninformation on young Gilbert.
+Dialogue: 0,0:13:17.62,0:13:21.72,Default,Krai,0,0,0,,He was quite shocked when I "guessed" \Nthe reason for why he'd left his party.
+Dialogue: 0,0:13:22.24,0:13:24.72,Default,Eva,0,0,0,,I'm glad I could be of assistance.
+Dialogue: 0,0:13:24.72,0:13:25.73,Default,Eva,0,0,0,,Speaking of,
+Dialogue: 0,0:13:25.73,0:13:29.19,Default,Eva,0,0,0,,I heard you made quite a spectacle \Nwith a relic in the training hall?
+Dialogue: 0,0:13:29.43,0:13:32.03,Default,Krai,0,0,0,,Yeah, it was a straightforward one.
+Dialogue: 0,0:13:32.03,0:13:34.19,Default,Krai,0,0,0,,Those I can control immediately.
+Dialogue: 0,0:13:34.63,0:13:39.46,Default,Krai,0,0,0,,Even young Gilbert can use it a little \Nbit without knowing anything.
+Dialogue: 0,0:13:43.57,0:13:45.22,Default,Krai,0,0,0,,Relics are so great.
+Dialogue: 0,0:13:45.51,0:13:49.93,Default,Krai,0,0,0,,The infinite variety of shapes and \Nuses makes them so fun to collect.
+Dialogue: 0,0:13:50.48,0:13:53.98,Internal,Krai(M),0,0,0,,Even I can perform miracle-like \Nthings with them.
+Dialogue: 0,0:13:54.55,0:13:56.97,Default,Krai,0,0,0,,That Purgatorial Sword is \Nreally something, too.
+Dialogue: 0,0:13:56.97,0:13:58.59,Default,Krai,0,0,0,,I wonder if he'd sell it to me?
+Dialogue: 0,0:13:58.59,0:14:02.23,Default,Krai,0,0,0,,I might find even more effects if I \Ncould play around with it some more.
+Dialogue: 0,0:14:02.57,0:14:05.10,Default,Eva,0,0,0,,I'm against wasteful spending.
+Dialogue: 0,0:14:05.10,0:14:07.79,Default,Eva,0,0,0,,You have many relics like it already.
+Dialogue: 0,0:14:07.79,0:14:09.18,Default,Krai,0,0,0,,Th-That's not true!
+Dialogue: 0,0:14:09.18,0:14:10.47,Default,Krai,0,0,0,,They're totally different.
+Dialogue: 0,0:14:10.47,0:14:12.75,Default,Krai,0,0,0,,Each relic has its own personality,
+Dialogue: 0,0:14:13.01,0:14:16.03,Default,Krai,0,0,0,,and though they may look similar, \Nthey all tick a bit differently.
+Dialogue: 0,0:14:16.94,0:14:18.93,Default,Krai,0,0,0,,R-Rings are nice, right?
+Dialogue: 0,0:14:18.93,0:14:20.38,Default,Krai,0,0,0,,There are Shooting Rings,
+Dialogue: 0,0:14:20.38,0:14:23.00,Default,Krai,0,0,0,,Safety Rings for protection,
+Dialogue: 0,0:14:23.00,0:14:26.29,Default,Krai,0,0,0,,and the Owl's Eye for seeing in the dark.
+Dialogue: 0,0:14:28.19,0:14:33.27,Default,Eva,0,0,0,,Krai, even though the Grievers \Nhave a considerable income,
+Dialogue: 0,0:14:33.27,0:14:35.53,Default,Eva,0,0,0,,you're going to have to \Nrein it in a little.
+Dialogue: 0,0:14:35.53,0:14:38.28,Default,Eva,0,0,0,,I heard you've even taken loans from Sitri.
+Dialogue: 0,0:14:38.48,0:14:44.10,Internal,Krai(M),0,0,0,,The Grievers' profits are split evenly amongst\Nits members, regardless of contribution.
+Dialogue: 0,0:14:44.10,0:14:45.96,Internal,Krai(M),0,0,0,,Therefore, although I do nothing,
+Dialogue: 0,0:14:45.96,0:14:47.64,Internal,Krai(M),0,0,0,,I also get loads of money.
+Dialogue: 0,0:14:48.71,0:14:53.04,Default,Krai,0,0,0,,Oh, I forgot to get my relics charged.
+Dialogue: 0,0:14:54.09,0:14:56.03,Default,Krai,0,0,0,,Sorry to ask out of the blue.
+Dialogue: 0,0:14:56.03,0:14:58.68,Default,Ina,0,0,0,,I'm not about to go out on a hunt,
+Dialogue: 0,0:14:58.68,0:15:00.62,Default,Ina,0,0,0,,so I don't mind doing this one.
+Dialogue: 0,0:15:00.62,0:15:01.62,Default,Dattar,0,0,0,,Right.
+Dialogue: 0,0:15:01.62,0:15:04.62,Default,Dattar,0,0,0,,You're always taking care of us, too.
+Dialogue: 0,0:15:05.25,0:15:06.83,Default,Krai,0,0,0,,Thanks so much.
+Dialogue: 0,0:15:06.83,0:15:10.79,Internal,Krai(M),0,0,0,,Well, Eva and Ark are the \Nones who are taking care...
+Dialogue: 0,0:15:10.79,0:15:13.61,Default,Dattar,0,0,0,,That reminds me, Master, \Nhave you heard?
+Dialogue: 0,0:15:13.61,0:15:16.30,Default,Dattar,0,0,0,,They say a wayward phantom \Nappeared on a road up north.
+Dialogue: 0,0:15:16.30,0:15:19.06,Default,Dattar,0,0,0,,Destroyed an entire guarded caravan.
+Dialogue: 0,0:15:19.06,0:15:22.18,Default,Krai,0,0,0,,Really? That's unsettling.
+Dialogue: 0,0:15:22.18,0:15:24.78,Default,Datter,0,0,0,,There were three level 3 guards.
+Dialogue: 0,0:15:24.78,0:15:27.89,Default,Datter,0,0,0,,Since they still got defeated, it \Nmust have been one strong phantom.
+Dialogue: 0,0:15:28.23,0:15:31.95,Default,Datter,0,0,0,,The Knights of the Third Order are now \Nrecruiting for an extermination party.
+Dialogue: 0,0:15:31.95,0:15:32.96,Default,Krai,0,0,0,,Hmm.
+Dialogue: 0,0:15:32.96,0:15:37.48,Default,Datter,0,0,0,,Witnesses say the phantom had a wolf's form.
+Dialogue: 0,0:15:37.48,0:15:39.95,Default,Datter,0,0,0,,The place isn't far from \Nthe White Wolf's Den,
+Dialogue: 0,0:15:39.95,0:15:41.81,Default,Datter,0,0,0,,so I guess it came from there.
+Dialogue: 0,0:15:41.81,0:15:43.17,Default,Krai,0,0,0,,The White Wolf's Den?
+Dialogue: 0,0:15:43.17,0:15:46.70,Default,Ina,0,0,0,,Maybe there was a mass spawning of phantoms.
+Dialogue: 0,0:15:46.70,0:15:51.51,Default,Ina,0,0,0,,The treasure vault must be crawling \Nwith wolves right about now.
+Dialogue: 0,0:15:52.97,0:15:54.98,Default,Ina,0,0,0,,Here you go, all charged.
+Dialogue: 0,0:15:54.98,0:15:57.37,Internal,Krai(M),0,0,0,,Hold on. This is all just speculation.
+Dialogue: 0,0:15:57.37,0:15:59.49,Internal,Krai(M),0,0,0,,I'm sure the White Wolf's\NDen has nothing to do with it.
+Dialogue: 0,0:15:59.49,0:16:01.12,Internal,Krai(M),0,0,0,,And Tino's really strong.
+Dialogue: 0,0:16:01.12,0:16:02.68,Internal,Krai(M),0,0,0,,Young Gilbert went along, too.
+Dialogue: 0,0:16:02.68,0:16:05.12,Internal,Krai(M),0,0,0,,Great Greg also has some experience.
+Dialogue: 0,0:16:05.12,0:16:07.80,Default,Dattar,0,0,0,,But... Speaking of the White Wolf's Den,
+Dialogue: 0,0:16:07.80,0:16:11.15,Default,Dattar,0,0,0,,there've been reports of its\Nphantoms becoming stronger lately.
+Dialogue: 0,0:16:11.15,0:16:14.61,Default,Dattar,0,0,0,,I think they were even talking \Nabout changing its level.
+Dialogue: 0,0:16:14.61,0:16:16.10,Internal,Krai(M),0,0,0,,That's news to me!
+Dialogue: 0,0:16:16.35,0:16:19.36,Default,Ina,0,0,0,,Anyway, that's a dangerous area right now.
+Dialogue: 0,0:16:19.36,0:16:25.60,Default,Ina,0,0,0,,That Rudolph Davout's party went \Nmissing some days back, too.
+Dialogue: 0,0:16:25.60,0:16:29.39,Default,Dattar,0,0,0,,Oh, you mean that \Nfamous level 5 lancer?
+Dialogue: 0,0:16:29.65,0:16:30.88,Internal,Krai(M),0,0,0,,Level 5?
+Dialogue: 0,0:16:33.56,0:16:38.64,Internal,Krai(M),0,0,0,,The ones in need of rescue are Rudolph \NDavout and five other level 5 hunters.
+Dialogue: 0,0:16:38.64,0:16:40.84,Internal,Krai(M),0,0,0,,I didn't read any of this...
+Dialogue: 0,0:16:40.84,0:16:42.41,Default,Dattar,0,0,0,,Is something wrong, Master?
+Dialogue: 0,0:16:43.14,0:16:45.45,Default,Krai,0,0,0,,Oh, uh... The thing is,
+Dialogue: 0,0:16:45.45,0:16:48.86,Default,Krai,0,0,0,,I just sent Tino off to \Nthe White Wolf's Den.
+Dialogue: 0,0:16:49.24,0:16:54.15,Default,Ina,0,0,0,,Y-You sent Tino, a {\i1}level 4{\i0}, into a treasure vault \Nwhere a {\i1}level 5{\i0} party went missing?
+Dialogue: 0,0:16:54.15,0:16:57.66,Default,Dattar,0,0,0,,Y-You're as tough as always, huh, Master?
+Dialogue: 0,0:16:57.66,0:17:01.00,Default,Krai,0,0,0,,It'll be good practice \Nfor her, so no worries.
+Dialogue: 0,0:17:01.00,0:17:03.57,Default,Krai,0,0,0,,I also sent three independent \Nhunters with her.
+Dialogue: 0,0:17:04.22,0:17:06.98,Default,Dattar,0,0,0,,Th-This is already a difficult mission,
+Dialogue: 0,0:17:06.98,0:17:08.92,Default,Dattar,0,0,0,,and you sent her with some ad-hoc party?
+Dialogue: 0,0:17:08.92,0:17:13.67,Default,Ina,0,0,0,,So these must be the Thousand Trials... \NThat's what made the Grievers the top party.
+Dialogue: 0,0:17:14.24,0:17:16.65,Default,Krai,0,0,0,,I-I remembered some urgent business.
+Dialogue: 0,0:17:16.65,0:17:17.97,Default,Krai,0,0,0,,Thanks for the charge!
+Dialogue: 0,0:17:17.97,0:17:19.43,Default,Krai,0,0,0,,Later.
+Dialogue: 0,0:17:20.92,0:17:22.93,Internal,Krai(M),0,0,0,,It's fine. It's fine.
+Dialogue: 0,0:17:23.57,0:17:26.04,Internal,Krai(M),0,0,0,,Young Gilbert is quite capable.
+Dialogue: 0,0:17:26.04,0:17:28.13,Internal,Krai(M),0,0,0,,As long as he has the Purgatorial Sword...
+Dialogue: 0,0:17:31.39,0:17:34.24,Internal,Krai(M),0,0,0,,He did charge it after that, right?
+Dialogue: 0,0:17:36.26,0:17:38.74,Default,Greg,0,0,0,,What's this strange feeling?
+Dialogue: 0,0:17:39.19,0:17:42.20,Default,Greg,0,0,0,,We haven't even gotten to \Nthe treasure vault yet.
+Dialogue: 0,0:17:43.94,0:17:45.46,Default,Tino,0,0,0,,This is why I wrote a will.
+Dialogue: 0,0:17:47.28,0:17:49.19,Flashback,Tino,0,0,0,,Since Master delegated this to me,
+Dialogue: 0,0:17:49.19,0:17:50.91,Flashback,Tino,0,0,0,,it won't be an easy mission.
+Dialogue: 0,0:17:51.31,0:17:53.31,Flashback,Tino,0,0,0,,I've got no intention of dying,
+Dialogue: 0,0:17:53.31,0:17:54.59,Flashback,Tino,0,0,0,,but I want to be prepared.
+Dialogue: 0,0:17:54.59,0:17:59.00,Default,Rhuda,0,0,0,,So Krai knew that there was something \Ngoing on at the White Wolf's Den,
+Dialogue: 0,0:17:59.00,0:18:00.09,Default,Rhuda,0,0,0,,and that's why he sent us here?
+Dialogue: 0,0:18:00.09,0:18:01.26,Default,Tino,0,0,0,,That's right.
+Dialogue: 0,0:18:01.26,0:18:04.23,Default,Tino,0,0,0,,And this party's composition \Nisn't random, either.
+Dialogue: 0,0:18:04.23,0:18:06.60,Default,Tino,0,0,0,,It's all according to Master's plan.
+Dialogue: 0,0:18:06.60,0:18:08.94,Default,Greg,0,0,0,,I really don't think that's true.
+Dialogue: 0,0:18:08.94,0:18:12.05,Default,Greg,0,0,0,,We all met for the first time yesterday.
+Dialogue: 0,0:18:12.05,0:18:12.86,Default,Gilbert,0,0,0,,That's right.
+Dialogue: 0,0:18:13.19,0:18:18.07,Default,Gilbert,0,0,0,,I only agreed to come along with you \Nbecause I happened to be free...
+Dialogue: 0,0:18:18.87,0:18:25.88,Default,Gilbert,0,0,0,,Wait, Thousand Tricks even knew the \Nreason I had quit my other party.
+Dialogue: 0,0:18:25.88,0:18:28.53,Default,Tino,0,0,0,,Master has extensive knowledge
+Dialogue: 0,0:18:28.53,0:18:31.63,Default,Tino,0,0,0,,about the hunters in the capital \Nand all the treasure vaults.
+Dialogue: 0,0:18:31.63,0:18:33.93,Default,Tino,0,0,0,,Even if he's never met you,
+Dialogue: 0,0:18:33.93,0:18:37.34,Default,Tino,0,0,0,,it's child's play for him to \Nread your actions and thoughts.
+Dialogue: 0,0:18:37.34,0:18:38.48,Default,Rhuda,0,0,0,,That's impossible.
+Dialogue: 0,0:18:38.48,0:18:41.14,Default,Greg,0,0,0,,No, we're talking about Thousand Tricks.
+Dialogue: 0,0:18:41.45,0:18:44.65,Default,Greg,0,0,0,,The pub incident was also all calculated.
+Dialogue: 0,0:18:44.89,0:18:47.38,Default,Greg,0,0,0,,Every single thing has been premeditated.
+Dialogue: 0,0:18:48.23,0:18:50.66,Default,Greg,0,0,0,,Even us coming here.
+Dialogue: 0,0:18:50.66,0:18:52.11,Default,Tino,0,0,0,,Don't worry.
+Dialogue: 0,0:18:52.11,0:18:55.88,Default,Tino,0,0,0,,Master is aware of all these conditions.
+Dialogue: 0,0:18:56.39,0:18:59.38,Default,Tino,0,0,0,,No matter what happens, it's all \Naccording to his calculations.
+Dialogue: 0,0:18:59.71,0:19:02.91,Default,Tino,0,0,0,,He would never arbitrarily send \Nus on an impossible mission.
+Dialogue: 0,0:19:03.25,0:19:05.76,Default,Krai,0,0,0,,I assigned that job to her \Ncompletely arbitrarily.
+Dialogue: 0,0:19:05.76,0:19:07.03,Default,Krai,0,0,0,,I'm gonna puke.
+Dialogue: 0,0:19:08.54,0:19:11.40,Internal,Krai(M),0,0,0,,I really hope they'll come \Nback if it gets too hard,
+Dialogue: 0,0:19:11.40,0:19:14.05,Internal,Krai(M),0,0,0,,but I know Tino is under the \Nbad influence of our members,
+Dialogue: 0,0:19:14.05,0:19:16.43,Internal,Krai(M),0,0,0,,so she won't give up that easily.
+Dialogue: 0,0:19:16.91,0:19:21.59,Internal,Krai(M),0,0,0,,Even if I wanted to call for backup, \Nnobody would move out at this hour.
+Dialogue: 0,0:19:22.67,0:19:23.92,Default,Krai,0,0,0,,I have to get going.
+Dialogue: 0,0:19:24.64,0:19:25.80,Internal,Krai(M),0,0,0,,That's it!
+Dialogue: 0,0:19:25.80,0:19:29.18,Internal,Krai(M),0,0,0,,If I hurry, I can stop them before \Nthey reach the treasure vault!
+Dialogue: 0,0:19:29.18,0:19:31.32,Internal,Krai(M),0,0,0,,I'll tell them there's been a \Nmistake and get them to stop.
+Dialogue: 0,0:19:31.32,0:19:34.56,Internal,Krai(M),0,0,0,,I'll just get Ark or someone \Nelse to do the mission later.
+Dialogue: 0,0:19:34.56,0:19:36.29,Internal,Krai(M),0,0,0,,Right, I got this!
+Dialogue: 0,0:19:53.56,0:19:55.00,Default,Rhuda,0,0,0,,A phantom!
+Dialogue: 0,0:19:55.91,0:19:58.68,Default,Greg,0,0,0,,But it's got a sword and armor!
+Dialogue: 0,0:19:58.68,0:20:01.29,Default,Gilbert,0,0,0,,This was supposed to be a regular wolf!
+Dialogue: 0,0:20:02.25,0:20:03.53,Default,Tino,0,0,0,,Master...
+Dialogue: 0,0:20:03.53,0:20:07.94,Default,Tino,0,0,0,,He always goes beyond my expectations.
+Dialogue: 0,0:20:15.07,0:20:17.26,Default,Krai,0,0,0,,I need relics! Relics! Relics!
+Dialogue: 0,0:20:17.26,0:20:19.56,Default,Krai,0,0,0,,As many Shooting and \NSafety Rings as I can carry!
+Dialogue: 0,0:20:19.56,0:20:23.56,Default,Krai,0,0,0,,I need the Owl's Eye, \Nand this and that and, and...
+Dialogue: 0,0:20:23.56,0:20:24.32,Default,Krai,0,0,0,,Huh?
+Dialogue: 0,0:20:31.60,0:20:34.18,Default,Eva,0,0,0,,What are you doing with all that?
+Dialogue: 0,0:20:35.08,0:20:36.30,Default,Krai,0,0,0,,Eva...
+Dialogue: 0,0:20:36.30,0:20:37.42,Default,Krai,0,0,0,,N-Nothing.
+Dialogue: 0,0:20:37.42,0:20:39.93,Default,Krai,0,0,0,,I was just thinking of \Ngoing on a little walk.
+Dialogue: 0,0:20:41.12,0:20:44.86,Default,Eva,0,0,0,,Even if it's a fully calculated trial, \Nyou're still worried about them.
+Dialogue: 0,0:20:45.64,0:20:47.71,Default,Krai,0,0,0,,Wh-Whatever do you mean?
+Dialogue: 0,0:20:47.71,0:20:49.10,Default,Eva,0,0,0,,Don't tell me that's...
+Dialogue: 0,0:20:49.41,0:20:50.57,Default,Eva,0,0,0,,Sitri's Slime!
+Dialogue: 0,0:20:50.57,0:20:52.60,Default,Krai,0,0,0,,Y-You wound me.
+Dialogue: 0,0:20:52.60,0:20:57.65,Default,Krai,0,0,0,,As if {\i1}I {\i0}would {\i1}ever{\i0} be in possession of \Nsomething that violates imperial law.
+Dialogue: 0,0:20:58.75,0:21:02.34,Internal,Krai(M),0,0,0,,All the relics that I could use \Nfor offense are out of mana.
+Dialogue: 0,0:21:02.68,0:21:06.01,Internal,Krai(M),0,0,0,,I need to at least take it as a last resort.
+Dialogue: 0,0:21:06.01,0:21:08.61,Default,Krai,0,0,0,,I'm off, then. On that walk.
+Dialogue: 0,0:21:08.83,0:21:12.16,Default,Eva,0,0,0,,Are you sure you don't need \Nto take anyone with you?
+Dialogue: 0,0:21:12.16,0:21:13.39,Default,Krai,0,0,0,,It's fine.
+Dialogue: 0,0:21:14.89,0:21:19.13,Internal,Krai(M),0,0,0,,Even if I did, this relic\Nonly works on one person.
+Dialogue: 0,0:21:30.21,0:21:32.40,Default,Eva,0,0,0,,I believe that's the relic...
+Dialogue: 0,0:21:32.40,0:21:34.54,Default,Eva,0,0,0,,from the human missile incident.
+Dialogue: 0,0:21:34.88,0:21:36.38,Internal,Eva,0,0,0,,Zero safeties,
+Dialogue: 0,0:21:36.38,0:21:37.90,Internal,Eva,0,0,0,,no brakes,
+Dialogue: 0,0:21:37.90,0:21:39.41,Internal,Eva,0,0,0,,it can't hover or steer...
+Dialogue: 0,0:21:39.41,0:21:40.55,Internal,Eva,0,0,0,,It's plain defective.
+Dialogue: 0,0:21:42.69,0:21:44.15,Sign,Text,0,0,0,,{\fad(571,1)\fs30\bord2}Night Hiker
+Dialogue: 0,0:21:42.70,0:21:45.11,Default,Voice,0,0,0,,Night Hiker!
+Dialogue: 0,0:21:44.15,0:21:44.90,Sign,Text,0,0,0,,{\fad(1,222)\t(27,736,\fscx96.46\fscy96.46)\fs20\bord1.5\frz352.9\fax0.1\fsp-1\fry25\move(224.5,26,212.39,23.81,27,736)}Night Hiker
+Dialogue: 0,0:21:45.11,0:21:46.52,Default,Eva,0,0,0,,I wonder if he'll be okay.
+Dialogue: 0,0:21:46.52,0:21:48.65,Internal,Narrator,0,0,0,,A truly dangerous Spartan trial!
+Dialogue: 0,0:21:48.98,0:21:52.50,Internal,Narrator,0,0,0,,Tino's ad-hoc party goes \Nto meet their destiny.
+Dialogue: 0,0:21:52.50,0:21:55.39,Internal,Narrator,0,0,0,,Krai Andrey, we're counting on you!
+Dialogue: 0,0:21:55.39,0:21:57.17,Internal,Narrator,0,0,0,,Will he reach them unscathed?!
+Dialogue: 0,0:21:57.17,0:21:59.92,Internal,Narrator,0,0,0,,Please tune in next time to find out!
+Dialogue: 0,0:23:29.72,0:23:44.73,Sign,txt,0,0,0,,{\c&HFFFFFF&\pos(450.286,337.714)}By: Eva Renfied & Tino Shade
+Dialogue: 0,0:23:29.73,0:23:31.22,Top,Eva,0,0,0,,He was gone in the blink of an eye.
+Dialogue: 0,0:23:31.22,0:23:32.78,Top,Eva,0,0,0,,What speed! Truly Mach!
+Dialogue: 0,0:23:32.78,0:23:33.59,Top,Eva,0,0,0,,Hurry up, Master!
+Dialogue: 0,0:23:33.59,0:23:35.76,Top,Eva,0,0,0,,Team Tino is in deep trouble \Nover at the White Wolf's Den!
+Dialogue: 0,0:23:35.76,0:23:37.45,Top,Tino,0,0,0,,Our wall spaghetti party is \Ngetting completely swarmed
+Dialogue: 0,0:23:37.45,0:23:39.09,Top,Tino,0,0,0,,by the phantoms that just keep pouring out!
+Dialogue: 0,0:23:39.09,0:23:41.18,Top,Tino,0,0,0,,These Thousand Trials are so tough!
+Dialogue: 0,0:23:41.18,0:23:42.10,Top,Eva,0,0,0,,It does look very bad.
+Dialogue: 0,0:23:42.10,0:23:43.87,Top,Eva,0,0,0,,Next time on {\i1}Let This Grieving Soul{\i0}...
+Dialogue: 0,0:23:43.87,0:23:44.73,Top,Tino,0,0,0,,{\i1}...Retire{\i0}!
+Dialogue: 0,0:23:44.73,0:23:50.02,EpTitle,Title,0,0,0,,{\c&H00BAFF&\pos(320.52,100.623)}Episode 03
+Dialogue: 0,0:23:44.73,0:23:50.02,EpTitle,Title,0,0,0,,{\fs30\bord3\pos(322.143,238.714)\c&HD1D1D1&}I Want to Fly Straight Through the Sky
+Dialogue: 0,0:23:46.84,0:23:48.79,Default,Krai,0,0,0,,"I Want to Fly Straight Through the Sky."

@@ -1,0 +1,334 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: FlashbackItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,30,0
+Style: Signs_EpTitle,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,90,100,0,0,1,1,0,9,30,30,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:36.55,0:00:39.51,FlashbackTop,SCREENCAP,0,0,0,,{\fs30\fnTimes New Roman\c&H3D675C&\frz349.4\fax0.18\pos(389.5,61.5)}Yokoya
+Dialogue: 0,0:00:57.53,0:01:00.33,Default,HITOYOSHI,0,0,0,,Yes, coming!
+Dialogue: 0,0:01:02.62,0:01:05.54,Default,HITOYOSHI,0,0,0,,Right, uh...
+Dialogue: 0,0:01:06.08,0:01:07.75,Default,HITOYOSHI,0,0,0,,Could I ask who's...
+Dialogue: 0,0:01:10.25,0:01:13.51,DefaultItalics,YUKI,0,0,0,,Forgive me for the imposition,
+Dialogue: 0,0:01:13.51,0:01:18.18,DefaultItalics,YUKI,0,0,0,,but would you be willing \Nto employ me as your servant?
+Dialogue: 0,0:01:19.05,0:01:22.35,DefaultItalics,HITOYOSHI {M},0,0,0,,Out of the blue one day, \Na maid showed up to work.
+Dialogue: 0,0:02:57.19,0:03:00.95,Signs_EpTitle,CAPTION,0,0,0,,{\fad(273,474)\pos(604.5,285.5)\blur1}Episode {\c&H1227CD&}1{\c&H000000&}: My Fateful Encounter with {\c&H1227CD&}You{\c&H000000&}.
+Dialogue: 0,0:03:01.45,0:03:04.95,Default,HITOYOSHI,0,0,0,,I'm sorry. My parents aren't around \Ncurrently, so the place is a mess.
+Dialogue: 0,0:03:04.95,0:03:05.87,Default,YUKI,0,0,0,,It's fine.
+Dialogue: 0,0:03:06.58,0:03:08.66,Default,HITOYOSHI,0,0,0,,Oh, would you like something to drink?
+Dialogue: 0,0:03:08.66,0:03:09.66,Default,YUKI,0,0,0,,Please don't trouble yourself.
+Dialogue: 0,0:03:15.54,0:03:17.76,DefaultItalics,HITOYOSHI,0,0,0,,I let her in without thinking, but...
+Dialogue: 0,0:03:17.76,0:03:18.96,Signs,SCREENCAP,0,0,0,,{\fscx95\fad(484,1)\fs16\bord2\fnTimes New Roman\c&HCBCFC6&\3c&H126240&\pos(347.5,192)}Gyokuro Tea
+Dialogue: 0,0:03:20.92,0:03:23.76,DefaultItalics,HITOYOSHI,0,0,0,,Did she really come here to work?
+Dialogue: 0,0:03:23.76,0:03:27.60,DefaultItalics,HITOYOSHI,0,0,0,,She's not trying to scam me \Nor sell something shady, right?
+Dialogue: 0,0:03:28.22,0:03:31.06,DefaultItalics,HITOYOSHI,0,0,0,,Maybe I'll just ask some token questions \Nand have her go home.
+Dialogue: 0,0:03:31.06,0:03:33.02,Signs,SCREENCAP,0,0,0,,{\fscx95\fs16\bord2\fnTimes New Roman\c&HCBCFC6&\3c&H126240&\pos(324,219)}Gyokuro Tea
+Dialogue: 0,0:03:31.69,0:03:32.60,Default,HITOYOSHI,0,0,0,,Um...
+Dialogue: 0,0:03:33.02,0:03:38.15,Default,HITOYOSHI,0,0,0,,Since you're a servant, you must have \Npreviously worked somewhere, right?
+Dialogue: 0,0:03:38.15,0:03:39.74,Default,HITOYOSHI,0,0,0,,What kind of work did you mainly do?
+Dialogue: 0,0:03:40.78,0:03:42.32,Default,YUKI,0,0,0,,Well, let's see.
+Dialogue: 0,0:03:42.86,0:03:44.87,Default,YUKI,0,0,0,,I mainly performed assassinations and such,
+Dialogue: 0,0:03:44.87,0:03:48.54,Default,YUKI,0,0,0,,though only to kill disloyal men \Nwho wronged my master.
+Dialogue: 0,0:03:48.54,0:03:53.25,Default,YUKI,0,0,0,,My master was the one \Nwho referred me to this place.
+Dialogue: 0,0:03:54.79,0:03:57.88,Default,HITOYOSHI,0,0,0,,Um, that was a joke, right?
+Dialogue: 0,0:03:59.84,0:04:01.63,Default,YUKI,0,0,0,,A joke?
+Dialogue: 0,0:04:01.63,0:04:02.80,DefaultItalics,HITOYOSHI,0,0,0,,She needs to leave!
+Dialogue: 0,0:04:02.80,0:04:05.80,DefaultItalics,HITOYOSHI,0,0,0,,I just have to get her out of here \Nwithout upsetting her!
+Dialogue: 0,0:04:07.18,0:04:11.98,Default,HITOYOSHI,0,0,0,,Um... What did you mean when you said \Nyour master referred you?
+Dialogue: 0,0:04:11.98,0:04:14.52,Default,HITOYOSHI,0,0,0,,Do they have some kind of \Nconnection with our family?
+Dialogue: 0,0:04:16.69,0:04:21.07,Default,YUKI,0,0,0,,You are the grandson of a woman \Nwho used to freeload off of
+Dialogue: 0,0:04:21.07,0:04:23.99,Default,YUKI,0,0,0,,my master's legitimate child's \Nwife's cousin's second son.
+Dialogue: 0,0:04:23.99,0:04:25.28,Default,HITOYOSHI,0,0,0,,That's practically a stranger!
+Dialogue: 0,0:04:25.28,0:04:28.33,DefaultItalics,HITOYOSHI,0,0,0,,Oh! Oh, no! I cut her off \Nand played the straight man!
+Dialogue: 0,0:04:28.33,0:04:29.91,DefaultItalics,HITOYOSHI,0,0,0,,Eek, she kinda looks mad!
+Dialogue: 0,0:04:29.91,0:04:31.25,DefaultItalics,HITOYOSHI,0,0,0,,I have to change the subject!
+Dialogue: 0,0:04:31.54,0:04:35.46,Default,HITOYOSHI,0,0,0,,S-So, assassination, huh? \NI understand there are all kinds of methods.
+Dialogue: 0,0:04:35.46,0:04:37.88,Default,HITOYOSHI,0,0,0,,Which do you specialize in?
+Dialogue: 0,0:04:59.06,0:05:00.23,Default,YUKI,0,0,0,,What do you think?
+Dialogue: 0,0:05:00.23,0:05:01.40,Default,HITOYOSHI,0,0,0,,Prideful much?
+Dialogue: 0,0:05:03.36,0:05:07.53,Default,YUKI,0,0,0,,I don't often throw them in practice, \Nbut I thought doing it this way
+Dialogue: 0,0:05:07.53,0:05:11.08,Default,YUKI,0,0,0,,would make it easier to demonstrate my skills.
+Dialogue: 0,0:05:12.45,0:05:17.21,Default,HITOYOSHI,0,0,0,,U-Um... I don't have anyone \NI need a-assassinated.
+Dialogue: 0,0:05:17.50,0:05:21.46,Default,HITOYOSHI,0,0,0,,And I'm not familiar with this \Nmaster of yours who referred you.
+Dialogue: 0,0:05:22.09,0:05:24.30,Default,HITOYOSHI,0,0,0,,I don't really understand \Nwhy you're here, but...
+Dialogue: 0,0:05:25.26,0:05:27.13,Default,HITOYOSHI,0,0,0,,I'm afraid... I can't...
+Dialogue: 0,0:05:28.18,0:05:29.64,Default,HITOYOSHI,0,0,0,,hire you.
+Dialogue: 0,0:05:35.85,0:05:37.56,Default,YUKI,0,0,0,,I see.
+Dialogue: 0,0:05:38.81,0:05:41.90,Default,YUKI,0,0,0,,My apologies for troubling you.
+Dialogue: 0,0:05:42.61,0:05:44.61,Default,YUKI,0,0,0,,Now then, if you will excuse me.
+Dialogue: 0,0:06:00.04,0:06:01.50,Default,HITOYOSHI,0,0,0,,Did I dream all that?
+Dialogue: 0,0:06:04.30,0:06:05.05,Default,HITOYOSHI,0,0,0,,Hm?
+Dialogue: 0,0:06:17.02,0:06:18.89,FlashbackItalics,HITOYOSHI {flashback},0,0,0,,That's practically a stranger!
+Dialogue: 0,0:06:22.23,0:06:25.28,DefaultItalics,YUKI {M},0,0,0,,What was I getting so excited for?
+Dialogue: 0,0:06:25.78,0:06:27.86,DefaultItalics,YUKI {M},0,0,0,,Where should I go now....
+Dialogue: 0,0:06:50.51,0:06:51.93,Default,HITOYOSHI,0,0,0,,Hey!
+Dialogue: 0,0:06:52.39,0:06:56.10,Default,HITOYOSHI,0,0,0,,Ms. Servant! You forgot this!
+Dialogue: 0,0:07:09.90,0:07:11.57,Default,DRIVER,0,0,0,,Watch where you're going!
+Dialogue: 0,0:07:15.74,0:07:17.83,Default,HITOYOSHI,0,0,0,,Ms... Servant?
+Dialogue: 0,0:07:18.62,0:07:20.83,Default,YUKI,0,0,0,,A-Are... you all right?
+Dialogue: 0,0:07:21.29,0:07:23.38,Default,HITOYOSHI,0,0,0,,Th-Thank you.
+Dialogue: 0,0:07:24.00,0:07:26.34,Default,YUKI,0,0,0,,M-My apologies.
+Dialogue: 0,0:07:26.34,0:07:30.72,Default,YUKI,0,0,0,,I've never saved someone's \Nlife like this before, and...
+Dialogue: 0,0:07:30.72,0:07:33.34,Default,YUKI,0,0,0,,M-My heart won't stop pounding.
+Dialogue: 0,0:07:36.68,0:07:38.93,Default,HITOYOSHI,0,0,0,,Here... You left this behind.
+Dialogue: 0,0:07:43.60,0:07:45.40,Default,YUKI,0,0,0,,Thank you.
+Dialogue: 0,0:07:57.83,0:07:58.99,Default,HITOYOSHI,0,0,0,,Ms. Servant!
+Dialogue: 0,0:08:01.62,0:08:04.54,Default,HITOYOSHI,0,0,0,,I've actually been looking for someone \Nto help with the cleaning.
+Dialogue: 0,0:08:04.54,0:08:06.00,Default,HITOYOSHI,0,0,0,,Can I ask for your assistance?
+Dialogue: 0,0:08:07.54,0:08:09.30,Signs,SCREENCAP,0,0,0,,{\fs30\fnTimes New Roman\c&H3D675C&\frz349.4\fax0.18\pos(389.5,61.5)}Yokoya
+Dialogue: 0,0:08:14.18,0:08:15.30,Default,YUKI,0,0,0,,The knife,
+Dialogue: 0,0:08:15.30,0:08:18.47,Default,YUKI,0,0,0,,said to be the very first tool \Never employed by mankind.
+Dialogue: 0,0:08:18.47,0:08:20.27,Default,YUKI,0,0,0,,Simple enough for anyone to use,
+Dialogue: 0,0:08:20.27,0:08:24.40,Default,YUKI,0,0,0,,and yet, in the hands of a practiced wielder, \Nit can reliably end a target's life.
+Dialogue: 0,0:08:23.31,0:08:25.02,DefaultTop,HITOYOSHI,0,0,0,,W-Wait, wait, stop!
+Dialogue: 0,0:08:25.02,0:08:28.40,Default,HITOYOSHI,0,0,0,,I-I know I said something \Nalong the lines of needing help,
+Dialogue: 0,0:08:28.40,0:08:29.82,Default,HITOYOSHI,0,0,0,,but what I want you to do is clean!
+Dialogue: 0,0:08:29.82,0:08:31.15,Default,HITOYOSHI,0,0,0,,You know, cleaning!
+Dialogue: 0,0:08:31.15,0:08:33.36,Default,YUKI,0,0,0,,Clean... Cleaning...
+Dialogue: 0,0:08:34.24,0:08:36.70,Default,YUKI,0,0,0,,Yes. I know all about "cleaning."
+Dialogue: 0,0:08:36.70,0:08:38.70,Default,HITOYOSHI,0,0,0,,Not in the assassination sense!
+Dialogue: 0,0:08:38.70,0:08:40.54,Default,YUKI,0,0,0,,What other kind of "cleaning" would it be?
+Dialogue: 0,0:08:40.54,0:08:43.16,Default,HITOYOSHI,0,0,0,,Oh, come on. Look at this mess of a room!
+Dialogue: 0,0:08:43.16,0:08:45.25,Default,HITOYOSHI,0,0,0,,And yes, I'm the one who made said mess, but!
+Dialogue: 0,0:08:46.21,0:08:47.08,Default,YUKI,0,0,0,,I see.
+Dialogue: 0,0:08:47.50,0:08:49.42,Default,YUKI,0,0,0,,One of these must be a body bag—
+Dialogue: 0,0:08:49.42,0:08:51.21,Default,HITOYOSHI,0,0,0,,Let's move away from that for one second!
+Dialogue: 0,0:08:51.21,0:08:54.63,Default,HITOYOSHI,0,0,0,,I mean, like, you know... Taking out \Nthe trash, vacuuming, doing laundry...
+Dialogue: 0,0:08:54.97,0:08:57.01,Default,HITOYOSHI,0,0,0,,What I need is a housekeeper!
+Dialogue: 0,0:08:57.01,0:08:58.60,Default,YUKI,0,0,0,,A housekeeper...
+Dialogue: 0,0:09:01.47,0:09:03.77,DefaultItalics,HITOYOSHI {M},0,0,0,,She did save my life, after all,
+Dialogue: 0,0:09:04.27,0:09:07.23,DefaultItalics,HITOYOSHI {M},0,0,0,,and she doesn't seem like a bad person.
+Dialogue: 0,0:09:08.31,0:09:13.94,Default,YUKI,0,0,0,,If I could do this housework, \Nyou would hire me?
+Dialogue: 0,0:09:18.87,0:09:20.58,Signs,SCREENCAP,0,0,0,,{\fs30\fnTimes New Roman\c&H3D675C&\frz349.4\fax0.18\pos(389.5,61.5)}Yokoya
+Dialogue: 0,0:09:22.79,0:09:24.33,DefaultItalics,HITOYOSHI {M},0,0,0,,What just happened?
+Dialogue: 0,0:09:25.04,0:09:27.62,DefaultItalics,HITOYOSHI {M},0,0,0,,I only just gave her the equipment!
+Dialogue: 0,0:09:27.62,0:09:29.63,DefaultItalics,HITOYOSHI {M},0,0,0,,How can she be so clumsy?!
+Dialogue: 0,0:09:30.92,0:09:33.88,Default,YUKI,0,0,0,,M-M-My apologies.
+Dialogue: 0,0:09:33.88,0:09:35.97,Default,YUKI,0,0,0,,I-I will clean this up right away—
+Dialogue: 0,0:09:37.93,0:09:40.39,Default,HITOYOSHI,0,0,0,,Ms. Servant...
+Dialogue: 0,0:09:42.56,0:09:44.18,Default,YUKI,0,0,0,,I'm sorry to have worried you.
+Dialogue: 0,0:09:44.18,0:09:46.44,Default,YUKI,0,0,0,,I cannot be embarrassing myself any—
+Dialogue: 0,0:09:46.44,0:09:48.81,DefaultItalics,HITOYOSHI,0,0,0,,Oh, man.
+Dialogue: 0,0:09:49.15,0:09:50.77,Default,HITOYOSHI,0,0,0,,Ms. Servant, are you...
+Dialogue: 0,0:09:51.15,0:09:52.73,Default,HITOYOSHI,0,0,0,,somewhat—no, extremely...
+Dialogue: 0,0:09:53.11,0:09:54.44,Default,HITOYOSHI,0,0,0,,clumsy?
+Dialogue: 0,0:09:57.53,0:09:59.66,Default,YUKI,0,0,0,,I am truly sorry.
+Dialogue: 0,0:10:00.12,0:10:02.28,Default,YUKI,0,0,0,,After a string of blunders like these,
+Dialogue: 0,0:10:02.28,0:10:03.91,Default,YUKI,0,0,0,,I'm sure you no longer wish to hire me.
+Dialogue: 0,0:10:08.71,0:10:12.13,Default,HITOYOSHI,0,0,0,,Well, I was the one who asked you to do \Nsomething you weren't used to, and...
+Dialogue: 0,0:10:16.38,0:10:18.97,Default,HITOYOSHI,0,0,0,,It's never too late to start learning, right?
+Dialogue: 0,0:10:18.97,0:10:20.18,Default,HITOYOSHI,0,0,0,,I'll help, too.
+Dialogue: 0,0:10:20.72,0:10:23.35,Default,HITOYOSHI,0,0,0,,No, let's clean up together.
+Dialogue: 0,0:10:23.35,0:10:24.81,Default,HITOYOSHI,0,0,0,,Will you help me?
+Dialogue: 0,0:10:32.15,0:10:34.44,Default,HITOYOSHI,0,0,0,,Whoa!
+Dialogue: 0,0:10:34.44,0:10:37.90,Default,HITOYOSHI,0,0,0,,The living room looks so tidy! \NWe're off to a great start!
+Dialogue: 0,0:10:38.36,0:10:41.37,Default,HITOYOSHI,0,0,0,,I just couldn't motivate myself \Nto do it on my own.
+Dialogue: 0,0:10:41.37,0:10:44.28,Default,HITOYOSHI,0,0,0,,You really helped me out. Thanks!
+Dialogue: 0,0:10:46.54,0:10:48.96,Default,HITOYOSHI,0,0,0,,Oh, man! I didn't realize how late it was!
+Dialogue: 0,0:10:48.96,0:10:51.79,Default,HITOYOSHI,0,0,0,,I had so much going on \Nthat I forgot to eat lunch.
+Dialogue: 0,0:10:51.79,0:10:52.29,Default,HITOYOSHI,0,0,0,,Oh!
+Dialogue: 0,0:10:52.29,0:10:54.55,Default,HITOYOSHI,0,0,0,,By any chance, would you happen \Nto be able to cook...
+Dialogue: 0,0:10:55.55,0:10:57.51,Default,HITOYOSHI,0,0,0,,Ah... Yeah, sorry.
+Dialogue: 0,0:10:57.84,0:11:01.18,Default,HITOYOSHI,0,0,0,,No worries! I have the ultimate menu \Nalready in mind for tonight!
+Dialogue: 0,0:11:01.18,0:11:02.72,Default,HITOYOSHI,0,0,0,,So feel free to use the bath first!
+Dialogue: 0,0:11:11.56,0:11:14.02,Flashback,HITOYOSHI,0,0,0,,You really helped me out. Thanks!
+Dialogue: 0,0:11:20.86,0:11:22.74,DefaultItalics,HITOYOSHI,0,0,0,,My name is Hitoyoshi Yokoya!
+Dialogue: 0,0:11:22.74,0:11:25.08,DefaultItalics,HITOYOSHI,0,0,0,,I'm your average sophomore in high school.
+Dialogue: 0,0:11:25.45,0:11:29.04,DefaultItalics,HITOYOSHI,0,0,0,,I'm fully enjoying a summer vacation \Nwithout my parents around,
+Dialogue: 0,0:11:29.04,0:11:32.00,DefaultItalics,HITOYOSHI,0,0,0,,and right now I'm feeling \Nmore nervous than ever!
+Dialogue: 0,0:11:32.67,0:11:36.30,DefaultItalics,HITOYOSHI,0,0,0,,After all, a maid suddenly showed up \Nclaiming to be an assassin...
+Dialogue: 0,0:11:36.96,0:11:38.09,DefaultItalics,HITOYOSHI,0,0,0,,No, not because of that!
+Dialogue: 0,0:11:43.05,0:11:44.85,DefaultItalics,HITOYOSHI,0,0,0,,Wh-What should I do?!
+Dialogue: 0,0:11:44.85,0:11:48.89,DefaultItalics,HITOYOSHI,0,0,0,,Knowing that lady, she's probably going to \Ncarelessly come out wearing only a towel—
+Dialogue: 0,0:11:48.22,0:11:49.06,DefaultTop,YUKI,0,0,0,,Um...
+Dialogue: 0,0:11:48.89,0:11:49.52,Default,HITOYOSHI,0,0,0,,Y-Yes?!
+Dialogue: 0,0:11:49.52,0:11:51.44,Default,YUKI,0,0,0,,Thank you for allowing me to bathe first.
+Dialogue: 0,0:11:51.44,0:11:53.27,Default,HITOYOSHI,0,0,0,,My lost youth!
+Dialogue: 0,0:11:55.23,0:11:57.86,Default,HITOYOSHI,0,0,0,,Um, you don't have to force yourself, okay?
+Dialogue: 0,0:11:58.15,0:12:01.57,Default,YUKI,0,0,0,,That's quite all right. Knifework is the \None thing I'm better at than anyone else.
+Dialogue: 0,0:12:13.08,0:12:15.38,Default,YUKI,0,0,0,,I have finished shredding the cabbage!
+Dialogue: 0,0:12:15.38,0:12:16.79,Default,HITOYOSHI,0,0,0,,Th-Thank you.
+Dialogue: 0,0:12:17.42,0:12:22.17,Default,HITOYOSHI,0,0,0,,All that's left is to prepare the instant \Nmiso soup and place the tonkatsu side dish!
+Dialogue: 0,0:12:22.17,0:12:23.43,Default,YUKI,0,0,0,,Tonkatsu...
+Dialogue: 0,0:12:23.43,0:12:25.84,Default,HITOYOSHI,0,0,0,,Huh? Do you not know what tonkatsu is?
+Dialogue: 0,0:12:26.22,0:12:29.97,Default,YUKI,0,0,0,,I may have eaten something \Nresembling it in the past.
+Dialogue: 0,0:12:29.97,0:12:33.94,Default,YUKI,0,0,0,,However, I have little interest in food, \Nand I tend not to remember much about it.
+Dialogue: 0,0:12:34.27,0:12:39.19,Default,YUKI,0,0,0,,I've always thought of food as something \Ningested solely to sustain oneself,
+Dialogue: 0,0:12:39.61,0:12:42.28,Default,YUKI,0,0,0,,and so I've never cared \Nabout its taste or form.
+Dialogue: 0,0:12:42.28,0:12:43.90,Default,HITOYOSHI,0,0,0,,Are you serious?! What a waste!
+Dialogue: 0,0:12:44.45,0:12:48.62,Default,HITOYOSHI,0,0,0,,But... Your world is about to change \Nonce you try this tonkatsu!
+Dialogue: 0,0:12:48.62,0:12:49.87,Default,HITOYOSHI,0,0,0,,Ta-da!
+Dialogue: 0,0:12:49.87,0:12:51.66,Default,HITOYOSHI,0,0,0,,Established 60 years ago,
+Dialogue: 0,0:12:49.87,0:12:54.58,Signs,SCREENCAP,0,0,0,,{\fs20\bord2\fnArial Black\c&H6690B8&\3c&HC9D8D8&\move(375,45,407,45,29,4700)}Katsuda Side Dish Store
+Dialogue: 0,0:12:51.66,0:12:54.58,Default,HITOYOSHI,0,0,0,,the Katsuda Side Dish Store is the pride \Nof our town's shopping district!
+Dialogue: 0,0:12:54.58,0:12:59.75,Signs,SCREENCAP,0,0,0,,{\fs16\fnComic Sans MS\c&H87A9AC&\3c&H95DEE0&\bord2.5\frz23.3\fax-0.35\move(207.5,232.5,245.17,232.91,22,5152)}Pumpkin Croquette
+Dialogue: 0,0:12:54.58,0:12:59.75,Signs,SCREENCAP,0,0,0,,{\fs16\fnComic Sans MS\c&H95C1C8&\3c&H95DEE0&\bord2.5\frz23.3\fax-0.35\move(229.33,293.2,267,293.61,22,5152)}130 {\c&H87A9AC&}yen
+Dialogue: 0,0:12:54.58,0:12:59.75,Signs,SCREENCAP,0,0,0,,{\fs16\fnComic Sans MS\c&H87A9AC&\3c&H95DEE0&\bord2.5\frz23.3\fax-0.35\move(412.5,143,450.17,143.41,22,5152)}Minced Meat Croquette
+Dialogue: 0,0:12:54.58,0:12:59.75,Signs,SCREENCAP,0,0,0,,{\fs16\fnComic Sans MS\c&H95C1C8&\3c&H95DEE0&\bord2.5\frz23.3\fax-0.35\move(436.83,191.2,474.5,191.61,22,5152)}130 yen
+Dialogue: 0,0:12:54.58,0:12:59.75,Signs,SCREENCAP,0,0,0,,{\fs16\fnComic Sans MS\c&H87A9AC&\3c&H95DEE0&\bord2.5\frz23.3\fax-0.35\move(591.5,63,629.17,63.41,22,5152)}Croquette
+Dialogue: 0,0:12:54.58,0:12:59.75,Signs,SCREENCAP,0,0,0,,{\fs16\fnComic Sans MS\c&H95C1C8&\3c&H95DEE0&\bord2.5\frz23.3\fax-0.35\move(603.33,107.7,641,108.11,22,5152)}110 yen
+Dialogue: 0,0:12:54.92,0:12:57.79,DefaultTop,HITOYOSHI,0,0,0,,Early in the morning, Mr. and \NMrs. Katsuda carefully prepare
+Dialogue: 0,0:12:57.79,0:12:59.75,DefaultTop,HITOYOSHI,0,0,0,,side dishes that are \Nnot only cheap but delicious!
+Dialogue: 0,0:12:59.75,0:13:03.72,Signs,SCREENCAP,0,0,0,,{\fs30\fnArial Black\bord2.5\c&H6B6D96&\3c&HC7C7CE&}Katsuda Side Dish Store
+Dialogue: 0,0:13:00.09,0:13:03.72,Default,HITOYOSHI,0,0,0,,It's rumored that even famous celebrities \Nsecretly turn up for a taste!
+Dialogue: 0,0:13:04.01,0:13:07.01,Default,HITOYOSHI,0,0,0,,And now, without further ado... \NPlease enjoy Katsuda's tonkatsu!
+Dialogue: 0,0:13:08.14,0:13:10.85,Default,HITOYOSHI,0,0,0,,You're kidding me! \NThat was the dullest reaction yet!
+Dialogue: 0,0:13:11.39,0:13:14.02,Default,YUKI,0,0,0,,Um... Please go ahead and eat.
+Dialogue: 0,0:13:17.15,0:13:18.19,Default,HITOYOSHI,0,0,0,,No worries!
+Dialogue: 0,0:13:19.32,0:13:20.27,Default,HITOYOSHI,0,0,0,,If we do this...
+Dialogue: 0,0:13:20.77,0:13:24.11,Default,HITOYOSHI,0,0,0,,and do that... See!
+Dialogue: 0,0:13:24.49,0:13:26.16,Default,HITOYOSHI,0,0,0,,Dinner for two is served!
+Dialogue: 0,0:13:26.16,0:13:27.49,Default,HITOYOSHI,0,0,0,,For me and you, Ms. Serv—
+Dialogue: 0,0:13:27.95,0:13:28.99,Default,HITOYOSHI,0,0,0,,Come to think of it...
+Dialogue: 0,0:13:28.99,0:13:30.95,Default,HITOYOSHI,0,0,0,,What {\i1}is{\i0} your name, Ms. Servant?
+Dialogue: 0,0:13:31.62,0:13:34.79,Default,YUKI,0,0,0,,A name... I don't have a name.
+Dialogue: 0,0:13:35.71,0:13:40.17,Default,YUKI,0,0,0,,Until now, I've had my employer \Ncall me whatever they wish to call me.
+Dialogue: 0,0:13:40.67,0:13:44.97,Default,YUKI,0,0,0,,So you, too, may call me \Nwhatever you wish, Master Yokoya.
+Dialogue: 0,0:13:44.97,0:13:47.84,Default,HITOYOSHI,0,0,0,,Oh, really? Hm...
+Dialogue: 0,0:13:47.84,0:13:51.18,Default,HITOYOSHI,0,0,0,,Well, if that's okay, I guess I'll stick \Nwith Ms. Servant for now?
+Dialogue: 0,0:13:51.18,0:13:53.93,Default,HITOYOSHI,0,0,0,,Apparently I suck at coming up with names.
+Dialogue: 0,0:13:55.98,0:13:57.31,DefaultItalics,YUKI,0,0,0,,That's strange.
+Dialogue: 0,0:13:57.98,0:14:02.11,DefaultItalics,YUKI,0,0,0,,I never cared about what name \NI was called until now...
+Dialogue: 0,0:14:03.28,0:14:04.07,Default,HITOYOSHI,0,0,0,,Now, then!
+Dialogue: 0,0:14:04.57,0:14:06.07,Default,HITOYOSHI,0,0,0,,Let's eat!
+Dialogue: 0,0:14:06.07,0:14:07.32,Default,YUKI,0,0,0,,Let us eat.
+Dialogue: 0,0:14:08.95,0:14:11.49,Default,HITOYOSHI,0,0,0,,Yep! Delish! I might just be a genius!
+Dialogue: 0,0:14:20.63,0:14:22.42,Default,HITOYOSHI,0,0,0,,Wh-What do you think?
+Dialogue: 0,0:14:24.13,0:14:25.13,DefaultItalics,YUKI,0,0,0,,As usual,
+Dialogue: 0,0:14:25.59,0:14:29.05,DefaultItalics,YUKI,0,0,0,,I can't distinguish whether \Nit tastes good or bad.
+Dialogue: 0,0:14:29.80,0:14:31.01,DefaultItalics,YUKI,0,0,0,,However...
+Dialogue: 0,0:14:38.02,0:14:39.48,DefaultItalics,YUKI,0,0,0,,I feel... warmth.
+Dialogue: 0,0:14:40.27,0:14:41.06,Default,HITOYOSHI,0,0,0,,How is it? Good?
+Dialogue: 0,0:14:41.73,0:14:44.65,Default,YUKI,0,0,0,,Yes. It is most delicious.
+Dialogue: 0,0:14:45.03,0:14:46.44,Default,HITOYOSHI,0,0,0,,I'm glad to hear that!
+Dialogue: 0,0:14:47.07,0:14:48.36,DefaultItalics,YUKI,0,0,0,,I feel warmth...
+Dialogue: 0,0:14:49.49,0:14:51.45,DefaultItalics,YUKI,0,0,0,,From the bath, the meal...
+Dialogue: 0,0:14:52.20,0:14:53.83,DefaultItalics,YUKI,0,0,0,,and this person, as well.
+Dialogue: 0,0:14:53.83,0:14:57.58,Default,HITOYOSHI,0,0,0,,Oh! Is it okay if your room is the end room \Non the second floor, Ms. Servant?
+Dialogue: 0,0:14:57.58,0:14:58.62,Default,YUKI,0,0,0,,Oh...
+Dialogue: 0,0:14:58.62,0:15:02.42,Default,HITOYOSHI,0,0,0,,I put on fresh bed sheets and pillow covers,
+Dialogue: 0,0:15:02.42,0:15:04.96,Default,HITOYOSHI,0,0,0,,but if anything's wrong, just tell me, okay?
+Dialogue: 0,0:15:04.96,0:15:07.13,Default,YUKI,0,0,0,,You prepared a room for me...?
+Dialogue: 0,0:15:07.13,0:15:08.17,Default,HITOYOSHI,0,0,0,,Yep!
+Dialogue: 0,0:15:09.97,0:15:10.80,DefaultItalics,YUKI,0,0,0,,A name...
+Dialogue: 0,0:15:11.34,0:15:12.80,Flashback,YUKI,0,0,0,,I don't have a name.
+Dialogue: 0,0:15:12.80,0:15:14.43,Flashback,MENTOR,0,0,0,,You pass.
+Dialogue: 0,0:15:14.43,0:15:19.06,Flashback,MENTOR,0,0,0,,You have skin that's white as snow, \Nand a heart that's just as cold.
+Dialogue: 0,0:15:19.06,0:15:20.39,Flashback,MENTOR,0,0,0,,Starting today, your name is...
+Dialogue: 0,0:15:20.39,0:15:21.98,Flashback,YUKI {flashback},0,0,0,,I don't have a name.
+Dialogue: 0,0:15:23.11,0:15:26.65,DefaultItalics,YUKI {M},0,0,0,,I see. So that's why.
+Dialogue: 0,0:15:26.65,0:15:30.24,DefaultItalics,YUKI {M},0,0,0,,I don't want him to call me \Nsomething that means "cold."
+Dialogue: 0,0:15:30.65,0:15:34.58,Default,HITOYOSHI,0,0,0,,Hm... Oh? You're eating \Nthat tonkatsu on its own.
+Dialogue: 0,0:15:35.66,0:15:37.16,Default,YUKI,0,0,0,,Was I not supposed to?
+Dialogue: 0,0:15:37.16,0:15:39.33,Default,HITOYOSHI,0,0,0,,You need tonkatsu sauce for tonkatsu.
+Dialogue: 0,0:15:39.33,0:15:42.46,Default,HITOYOSHI,0,0,0,,This one's a Katsuda Side Dish Store original!
+Dialogue: 0,0:15:42.46,0:15:43.92,Default,YUKI,0,0,0,,Tonkatsu sauce...
+Dialogue: 0,0:15:43.92,0:15:45.38,Signs,SCREENCAP,0,0,0,,{\bord2\fnTimes New Roman\c&H2F3836&\3c&HDFB7A6&\frz26.48\pos(239,178.5)}Katsuda's Sauce
+Dialogue: 0,0:15:58.14,0:16:00.85,Default,YUKI,0,0,0,,Oh!
+Dialogue: 0,0:16:01.85,0:16:03.35,Default,HITOYOSHI,0,0,0,,Was it delicious?
+Dialogue: 0,0:16:03.35,0:16:05.27,Default,YUKI,0,0,0,,Ye...sh...
+Dialogue: 0,0:16:06.32,0:16:09.78,Signs,SCREENCAP,0,0,0,,{\bord2\fnTimes New Roman\c&H4B5158&\3c&HF0F5F5&\frz18.15\fax-0.3\pos(374.5,63.5)}Katsuda's Sauce
+Dialogue: 0,0:16:06.69,0:16:09.78,Default,YUKI,0,0,0,,Tonkatsu... sauce...
+Dialogue: 0,0:16:23.96,0:16:26.63,Default,HITOYOSHI,0,0,0,,It's been a while since I had that dream.
+Dialogue: 0,0:16:32.59,0:16:34.47,Default,HITOYOSHI,0,0,0,,I think I've got some cup ramen left.
+Dialogue: 0,0:16:39.64,0:16:42.35,DefaultItalics,HITOYOSHI {M},0,0,0,,What?! There's someone in the kitchen?!
+Dialogue: 0,0:16:43.35,0:16:45.44,FlashbackItalics,YUKI {flashback},0,0,0,,I mainly performed assassinations...
+Dialogue: 0,0:16:45.44,0:16:47.06,DefaultItalics,HITOYOSHI {M},0,0,0,,No way...
+Dialogue: 0,0:16:47.52,0:16:49.44,DefaultItalics,HITOYOSHI {M},0,0,0,,I-It can't be, right?
+Dialogue: 0,0:17:05.21,0:17:06.38,Default,YUKI,0,0,0,,Oh! Um!
+Dialogue: 0,0:17:06.38,0:17:08.71,Default,YUKI,0,0,0,,I-I was just... My apologies!
+Dialogue: 0,0:17:08.71,0:17:11.92,Default,HITOYOSHI,0,0,0,,No, it's fine. \NThat's several loads off my mind.
+Dialogue: 0,0:17:13.97,0:17:16.30,Default,HITOYOSHI,0,0,0,,Were you hungry, Ms. Servant?
+Dialogue: 0,0:17:16.30,0:17:18.18,Default,HITOYOSHI,0,0,0,,I got hungry, too, so...
+Dialogue: 0,0:17:18.18,0:17:20.18,Default,YUKI,0,0,0,,Well, I...
+Dialogue: 0,0:17:20.18,0:17:23.64,Default,YUKI,0,0,0,,When I thought of how any day—\Ntomorrow included—could be my last,
+Dialogue: 0,0:17:23.64,0:17:28.19,Default,YUKI,0,0,0,,I was thinking I wouldn't want to die without \Ntasting this sauce one last time, so...
+Dialogue: 0,0:17:28.48,0:17:30.82,Default,HITOYOSHI,0,0,0,,Then I have a great idea!
+Dialogue: 0,0:17:33.44,0:17:36.03,Default,HITOYOSHI,0,0,0,,Pseudo sauce fondue!
+Dialogue: 0,0:17:36.45,0:17:39.16,Default,HITOYOSHI,0,0,0,,The ingredients aren't anything \Nto write home about, but...
+Dialogue: 0,0:17:39.16,0:17:40.24,Default,HITOYOSHI,0,0,0,,Eat up, eat up!
+Dialogue: 0,0:17:45.91,0:17:48.50,Default,YUKI,0,0,0,,Tonkatsu... sauce...
+Dialogue: 0,0:17:48.50,0:17:51.92,Default,HITOYOSHI,0,0,0,,Do you just like the taste of the sauce itself?
+Dialogue: 0,0:17:53.76,0:17:54.84,Default,YUKI,0,0,0,,Um...
+Dialogue: 0,0:17:54.84,0:17:58.51,Default,YUKI,0,0,0,,Did you have some kind of \Nscary dream, Master Yokoya?
+Dialogue: 0,0:17:58.51,0:17:59.55,Default,HITOYOSHI,0,0,0,,Huh? Why do you ask?
+Dialogue: 0,0:17:59.89,0:18:02.77,Default,YUKI,0,0,0,,When I left my bed to go lick the s-sauce,
+Dialogue: 0,0:18:02.77,0:18:07.65,Default,YUKI,0,0,0,,I heard groaning coming from your room.
+Dialogue: 0,0:18:08.10,0:18:11.23,Default,YUKI,0,0,0,,I considered the very real possibility \Nof an assassination attempt
+Dialogue: 0,0:18:11.23,0:18:13.86,Default,YUKI,0,0,0,,and excused myself into your room.
+Dialogue: 0,0:18:13.86,0:18:15.32,Default,HITOYOSHI,0,0,0,,What possibility, exactly?!
+Dialogue: 0,0:18:16.20,0:18:18.28,Default,HITOYOSHI,0,0,0,,So... did you see me?
+Dialogue: 0,0:18:23.83,0:18:27.12,Default,HITOYOSHI,0,0,0,,Th-That's so embarrassing! Did I say anything?
+Dialogue: 0,0:18:27.12,0:18:29.67,Default,YUKI,0,0,0,,Yes. You said "Mom" numerous times.
+Dialogue: 0,0:18:32.13,0:18:33.46,Default,YUKI,0,0,0,,I also...
+Dialogue: 0,0:18:34.71,0:18:36.55,Default,YUKI,0,0,0,,had a dream.
+Dialogue: 0,0:18:37.34,0:18:40.09,Default,YUKI,0,0,0,,The tonkatsu sauce started to talk to me.
+Dialogue: 0,0:18:38.26,0:18:41.22,Signs,SCREENCAP,0,0,0,,{\fs14\bord2\fnTimes New Roman\c&H606D84&\3c&HFAFAF9&\pos(347.5,88.5)\frz356.2\fax0.05}Katsuda's Sauce
+Dialogue: 0,0:18:40.09,0:18:41.22,Default,HITOYOSHI,0,0,0,,Talk?
+Dialogue: 0,0:18:41.22,0:18:45.43,Signs,SCREENCAP,0,0,0,,{\fs30\bord2.5\fnTimes New Roman\c&H5D6A86&\3c&HFAFAF9&}Katsuda's Sauce
+Dialogue: 0,0:18:41.22,0:18:45.43,Default,YUKI,0,0,0,,It said, "I'm this big, so no matter how \Nmuch you lick me, I won't run out."
+Dialogue: 0,0:18:45.85,0:18:48.14,Default,YUKI,0,0,0,,"You can have as much as you like."
+Dialogue: 0,0:18:48.14,0:18:52.27,Default,YUKI,0,0,0,,But when I went in for a lick, I woke up.
+Dialogue: 0,0:18:52.27,0:18:54.86,Default,HITOYOSHI,0,0,0,,Oh, man... It's the super sad kind.
+Dialogue: 0,0:18:55.36,0:18:56.19,Default,YUKI,0,0,0,,Still...
+Dialogue: 0,0:18:59.61,0:19:01.41,Default,YUKI,0,0,0,,It was a first for me.
+Dialogue: 0,0:19:01.99,0:19:07.58,Default,YUKI,0,0,0,,Up until now, my only dreams have \Nbeen about killing or being killed.
+Dialogue: 0,0:19:07.58,0:19:13.46,Default,YUKI,0,0,0,,And I never felt anything in particular \Nfrom my dreams, or from waking up.
+Dialogue: 0,0:19:14.21,0:19:18.92,Default,YUKI,0,0,0,,It was the first time I ever felt \Nlike I wanted to keep dreaming.
+Dialogue: 0,0:19:19.88,0:19:20.93,Default,YUKI,0,0,0,,That's why...
+Dialogue: 0,0:19:21.43,0:19:28.60,Default,YUKI,0,0,0,,I felt a little sorry that you had \Nto have a nightmare on a day like this.
+Dialogue: 0,0:19:29.23,0:19:34.61,Default,YUKI,0,0,0,,And above that, that I didn't know \Nof any ways to make you feel better.
+Dialogue: 0,0:19:35.32,0:19:38.49,Default,YUKI,0,0,0,,That is what made me feel \Nso sad and unfulfilled.
+Dialogue: 0,0:19:39.11,0:19:41.24,Default,HITOYOSHI,0,0,0,,Sorry to make you worry.
+Dialogue: 0,0:19:41.24,0:19:43.07,Default,HITOYOSHI,0,0,0,,I have that dream every once in a while.
+Dialogue: 0,0:19:43.53,0:19:45.91,Flashback,YOUNG HITOYOSHI,0,0,0,,Mom... Where are you going?
+Dialogue: 0,0:19:45.91,0:19:47.04,Flashback,YOUNG HITOYOSHI,0,0,0,,Mom...
+Dialogue: 0,0:19:48.62,0:19:53.75,Default,HITOYOSHI,0,0,0,,I always had nightmares as a child, \Nand whenever I would wake up crying,
+Dialogue: 0,0:19:53.75,0:19:57.09,Default,HITOYOSHI,0,0,0,,I could never get back to sleep without \Nresting my head on my mom's lap.
+Dialogue: 0,0:19:58.80,0:20:00.09,Default,YUKI,0,0,0,,Resting on a lap...
+Dialogue: 0,0:20:03.14,0:20:03.80,Default,YUKI,0,0,0,,Then...
+Dialogue: 0,0:20:06.60,0:20:08.97,Default,YUKI,0,0,0,,Please rest on my lap.
+Dialogue: 0,0:20:13.81,0:20:14.61,Default,HITOYOSHI,0,0,0,,What?
+Dialogue: 0,0:20:14.61,0:20:15.94,Default,HITOYOSHI,0,0,0,,No! No, no, no, no!
+Dialogue: 0,0:20:15.94,0:20:17.40,Default,HITOYOSHI,0,0,0,,That was back when I was a kid!
+Dialogue: 0,0:20:17.40,0:20:20.15,Default,HITOYOSHI,0,0,0,,Right now, I'm an ordinary boy who \Nunderstands public order and morals!
+Dialogue: 0,0:20:20.15,0:20:23.61,Default,HITOYOSHI,0,0,0,,And besides, an adolescent boy \Nshouldn't be... Huh?
+Dialogue: 0,0:20:24.45,0:20:26.70,DefaultItalics,YUKI {M},0,0,0,,As I thought, I'm not...
+Dialogue: 0,0:20:27.08,0:20:31.08,FlashbackItalics,MENTOR,0,0,0,,You were born only to kill.
+Dialogue: 0,0:20:31.08,0:20:34.25,DefaultItalics,YUKI {M},0,0,0,,I'm... I'm not...
+Dialogue: 0,0:20:35.38,0:20:38.38,DefaultItalics,YUKI {M},0,0,0,,Oh... I feel so cold...
+Dialogue: 0,0:20:48.51,0:20:49.43,DefaultItalics,HITOYOSHI {M},0,0,0,,So soft!
+Dialogue: 0,0:20:49.43,0:20:50.64,Default,HITOYOSHI,0,0,0,,It's so warm!
+Dialogue: 0,0:20:51.23,0:20:53.94,Default,YUKI,0,0,0,,Yes... For me, too.
+Dialogue: 0,0:20:56.65,0:20:58.86,Default,YUKI,0,0,0,,Um... Master Yokoya?
+Dialogue: 0,0:20:58.86,0:21:02.70,Default,HITOYOSHI,0,0,0,,Uh, um... You can just\Ncall me Hitoyoshi, so...
+Dialogue: 0,0:21:02.70,0:21:04.86,Default,YUKI,0,0,0,,U-Understood.
+Dialogue: 0,0:21:04.86,0:21:06.45,Default,HITOYOSHI,0,0,0,,Then I think... I'll be...
+Dialogue: 0,0:21:09.12,0:21:12.87,Default,YUKI,0,0,0,,Do you think you can sleep\Nnow, Master Hitoyoshi?
+Dialogue: 0,0:21:16.21,0:21:18.96,Signs,SCREENCAP,0,0,0,,{\fs30\fnTimes New Roman\c&H21261C&\frz349.4\fax0.18\pos(389.5,61.5)}Yokoya
+Dialogue: 0,0:21:16.83,0:21:18.96,Default,HITOYOSHI,0,0,0,,Yeah... Thank you.
+Dialogue: 0,0:21:22.59,0:21:28.39,DefaultItalics,HITOYOSHI {M},0,0,0,,This is a story about how a \Nlonely maid found a family.

@@ -1,0 +1,433 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: sign_generic,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.10,0:00:06.10,Default,Yoshino,0,0,0,,Wait, it's already noon?
+Dialogue: 0,0:00:06.10,0:00:08.97,Default,Yoshino,0,0,0,,At least my fever's down...
+Dialogue: 0,0:00:08.97,0:00:10.85,Default,Kirishima,0,0,0,,Really? That's a relief.
+Dialogue: 0,0:00:12.10,0:00:13.61,Default,Yoshino,0,0,0,,W-Why?!
+Dialogue: 0,0:00:14.09,0:00:17.77,Default,Kirishima,0,0,0,,Oh, sorry, I've been here all night.
+Dialogue: 0,0:00:17.77,0:00:20.36,Default,Kirishima,0,0,0,,Your fever was running really high.
+Dialogue: 0,0:00:21.41,0:00:23.56,italics,Yoshino,0,0,0,,N-Now that you mention it..
+Dialogue: 0,0:00:24.04,0:00:26.12,flashback,Kirishima,0,0,0,,Sorry, it won't take long.
+Dialogue: 0,0:00:26.95,0:00:29.63,flashback,Kirishima,0,0,0,,You really do hate the hospital, don't you?
+Dialogue: 0,0:00:30.52,0:00:33.93,Default,Yoshino,0,0,0,,What a revolting development. \NI'll never get over it.
+Dialogue: 0,0:00:33.93,0:00:36.56,Default,Yoshino,0,0,0,,Sorry for the trouble I caused you.
+Dialogue: 0,0:00:36.89,0:00:38.90,Default,Yoshino,0,0,0,,Why am I sleeping over here, anyway?
+Dialogue: 0,0:00:39.26,0:00:42.15,Default,Yoshino,0,0,0,,Was I tossing and turning?
+Dialogue: 0,0:00:42.15,0:00:47.40,Default,Kirishima,0,0,0,,I moved you. This is the spot in the \Nroom that's got the best visibility.
+Dialogue: 0,0:00:48.06,0:00:52.15,Default,Kirishima,0,0,0,,If someone comes in, it's gonna be either from the \Nsliding screen over there or the one next to me,
+Dialogue: 0,0:00:52.15,0:00:57.04,Default,Kirishima,0,0,0,,or maybe the roof, as a long shot, but from \Nthis position, I can protect you regardless.
+Dialogue: 0,0:00:57.04,0:00:59.53,Default,Yoshino,0,0,0,,Who exactly is coming in?
+Dialogue: 0,0:01:00.03,0:01:03.14,Default,Kirishima,0,0,0,,People who want to kill me.
+Dialogue: 0,0:01:03.14,0:01:04.21,Default,Yoshino,0,0,0,,What the hell?
+Dialogue: 0,0:01:04.21,0:01:06.72,Default,Kirishima,0,0,0,,Well, I love you, Yoshino.
+Dialogue: 0,0:01:06.72,0:01:10.05,Default,Kirishima,0,0,0,,So the best way to hurt me \Nwould probably be to kill you.
+Dialogue: 0,0:01:10.05,0:01:12.54,Default,Yoshino,0,0,0,,I don't really get what you mean...
+Dialogue: 0,0:01:12.54,0:01:15.30,Default,Yoshino,0,0,0,,But did you seriously nurse me all \Nnight long, without sleeping?
+Dialogue: 0,0:01:15.30,0:01:17.90,Default,Kirishima,0,0,0,,It's not a big deal.
+Dialogue: 0,0:01:17.90,0:01:20.39,Default,Kirishima,0,0,0,,I can't sleep around \Nother people anyway.
+Dialogue: 0,0:01:20.39,0:01:23.58,Default,Kirishima,0,0,0,,There's no shortage of people \Nwho have beef with me.
+Dialogue: 0,0:01:23.58,0:01:26.23,Default,Kirishima,0,0,0,,Well, I'm gonna head back to my room.
+Dialogue: 0,0:01:26.91,0:01:29.83,Default,Kirishima,0,0,0,,I let the school know you'd \Nbe taking today off too.
+Dialogue: 0,0:01:29.83,0:01:31.81,Default,Yoshino,0,0,0,,Okay, got it. Thanks.
+Dialogue: 0,0:01:33.31,0:01:34.97,Default,Yoshino,0,0,0,,Wait, hang on a sec.
+Dialogue: 0,0:01:35.82,0:01:41.12,Default,Yoshino,0,0,0,,I'm gonna jump in the bath and then \Nmake some udon. Do you want some?
+Dialogue: 0,0:01:41.70,0:01:44.82,Default,Yoshino,0,0,0,,You probably haven't been eating \Nwell because of me, have you?
+Dialogue: 0,0:01:45.14,0:01:47.64,Default,Kirishima,0,0,0,,Thanks, but I'm good.
+Dialogue: 0,0:01:47.64,0:01:50.58,Default,Kirishima,0,0,0,,Besides, I was thinking \Nabout getting some sleep.
+Dialogue: 0,0:01:50.58,0:01:52.84,Default,Yoshino,0,0,0,,You can just sleep in here, then.
+Dialogue: 0,0:01:54.05,0:01:57.20,Default,Kirishima,0,0,0,,Remember what I said? I have \Ntrouble sleeping around people.
+Dialogue: 0,0:01:57.20,0:02:01.48,Default,Yoshino,0,0,0,,It's fine. If anyone comes \Nin, I'll kill them for you.
+Dialogue: 0,0:02:03.17,0:02:08.22,Default,Kirishima,0,0,0,,Okay, but what if your love for me \Ndrives you to strangle me in my sleep?
+Dialogue: 0,0:02:08.66,0:02:12.49,Default,Yoshino,0,0,0,,I don't feel even a speck of love for you,\N so I'm not gonna kill you just yet.
+Dialogue: 0,0:02:14.99,0:02:18.30,Default,Kirishima,0,0,0,,I see! I guess I'm not worth killing yet.
+Dialogue: 0,0:02:18.30,0:02:20.48,Default,Kirishima,0,0,0,,You never fail to impress, \NYoshino. I love it.
+Dialogue: 0,0:02:20.75,0:02:22.49,Default,Yoshino,0,0,0,,It's settled, then.
+Dialogue: 0,0:02:22.49,0:02:24.74,Default,Yoshino,0,0,0,,Since you're here, you may \Nas well hit the bath, too.
+Dialogue: 0,0:02:24.74,0:02:26.19,Default,Kirishima,0,0,0,,Hang on.
+Dialogue: 0,0:02:26.19,0:02:29.10,Default,Kirishima,0,0,0,,That's... I'm not sure.
+Dialogue: 0,0:02:29.10,0:02:30.49,Default,Yoshino,0,0,0,,Sure about what?
+Dialogue: 0,0:02:30.49,0:02:33.59,Default,Kirishima,0,0,0,,I mean, I think it'd be good. Great, even.
+Dialogue: 0,0:02:33.59,0:02:34.75,Default,Kirishima,0,0,0,,But... How do I put this?
+Dialogue: 0,0:02:35.13,0:02:40.17,Default,Kirishima,0,0,0,,It feels a bit like when you drop by \Na relative's house for the Bon holiday
+Dialogue: 0,0:02:40.17,0:02:42.01,Default,Kirishima,0,0,0,,and end up spending the night?
+Dialogue: 0,0:02:42.32,0:02:45.38,Default,Yoshino,0,0,0,,What's that supposed to mean? \NAre you gonna bathe or not?
+Dialogue: 0,0:02:45.38,0:02:47.03,Default,Kirishima,0,0,0,,Uh... I will.
+Dialogue: 0,0:02:47.39,0:02:50.98,Default,Yoshino,0,0,0,,Make sure to get some protein, too. \NYou're still growing.
+Dialogue: 0,0:02:51.87,0:02:55.78,Default,Yoshino,0,0,0,,There's plenty more, too. \NThey sent a bunch from Osaka.
+Dialogue: 0,0:02:55.78,0:02:57.55,Default,Kirishima,0,0,0,,Thanks for the food.
+Dialogue: 0,0:04:27.99,0:04:32.37,sign_generic,Eptitle sign,0,0,0,,{\fnTimes New Roman\bord1\b1\c&HE5EEE4&\fs15\3c&H313131&\move(79,228,79,265)}Princess
+Dialogue: 0,0:04:27.99,0:04:32.37,sign_generic,Eptitle sign,0,0,0,,{\bord1\fnTimes New Roman\b1\fs15\c&H0A00B8&\3c&HBCBCBF&\frz61.76\move(220,278,220,319)}Tsubaki
+Dialogue: 1,0:04:28.71,0:04:31.88,Default,Yoshino,0,0,0,,I finally made it back to school...
+Dialogue: 0,0:04:32.37,0:04:37.00,sign_generic,Book cover sign,0,0,0,,{\b1\fnTimes New Roman\fs15\c&H484C49&\3c&HDFE2DF&\frx352\fry40\frz7.784\move(290,229,294,230)}Math II+B: {\b0\fs12}\NCalculations \N<Solutions Guide>
+Dialogue: 0,0:04:32.64,0:04:33.99,Default,Yoshino,0,0,0,,What do I do?
+Dialogue: 0,0:04:33.99,0:04:37.00,Default,Yoshino,0,0,0,,I am seriously screwed for finals.
+Dialogue: 0,0:04:37.00,0:04:39.70,Default,Kirishima,0,0,0,,It'll be fine. You've got two more days.
+Dialogue: 0,0:04:39.70,0:04:44.30,Default,Yoshino,0,0,0,,Two days ain't gonna be enough! \NPlus, I've got math on day one.
+Dialogue: 0,0:04:44.30,0:04:45.78,Default,Kirishima,0,0,0,,I can tutor you, then.
+Dialogue: 0,0:04:45.78,0:04:49.00,Default,Yoshino,0,0,0,,What? No. You've got your \Nown studying to do.
+Dialogue: 0,0:04:49.23,0:04:52.03,Default,Kirishima,0,0,0,,I never spend too much \Ntime studying for exams.
+Dialogue: 0,0:04:52.03,0:04:55.01,Default,Kirishima,0,0,0,,I just do the work and then \Nreview my notes and the text.
+Dialogue: 0,0:04:55.49,0:04:58.02,Default,Yoshino,0,0,0,,How do you study the rest of the time, then?
+Dialogue: 0,0:04:58.02,0:05:00.80,Default,Kirishima,0,0,0,,I tend to read all the \Ntextbooks during class.
+Dialogue: 0,0:05:00.80,0:05:03.03,Default,Kirishima,0,0,0,,Then, once I solve the mock \Nquestions, that's a wrap.
+Dialogue: 0,0:05:03.29,0:05:06.00,Default,Yoshino,0,0,0,,I shoulda known better than to ask...
+Dialogue: 0,0:05:06.76,0:05:11.27,Default,Yoshino,0,0,0,,Can I even get into college if I'm \Ntripping over basic math?
+Dialogue: 0,0:05:11.27,0:05:12.97,Default,Kirishima,0,0,0,,It'll work out.
+Dialogue: 0,0:05:12.97,0:05:18.80,Default,Kirishima,0,0,0,,Even if it doesn't, if you ever need some\N math done, I can handle it for you.
+Dialogue: 0,0:05:19.11,0:05:22.64,Default,Yoshino,0,0,0,,You're saying that like it's \Na given we get married.
+Dialogue: 0,0:05:22.64,0:05:25.13,Default,Yoshino,0,0,0,,Oh, speaking of college.
+Dialogue: 0,0:05:25.13,0:05:29.30,Default,Yoshino,0,0,0,,Once the last day of exams is over,\N I'm heading to Yokohama.
+Dialogue: 0,0:05:29.30,0:05:30.55,Default,Kirishima,0,0,0,,Yokohama?
+Dialogue: 0,0:05:30.82,0:05:34.55,Default,Yoshino,0,0,0,,My cousin's moving from Kyoto to Yokohama.
+Dialogue: 0,0:05:36.62,0:05:38.14,Default,Kirishima,0,0,0,,Well, are you ready?
+Dialogue: 0,0:05:38.14,0:05:40.06,Default,Yoshino,0,0,0,,You didn't need to come with.
+Dialogue: 0,0:05:40.31,0:05:42.47,Default,Kirishima,0,0,0,,It'd be dangerous to leave \Ntwo girls on their own.
+Dialogue: 0,0:05:42.47,0:05:44.81,Default,Kirishima,0,0,0,,Besides, I know my way around here.
+Dialogue: 0,0:05:44.81,0:05:47.26,Default,Yoshino,0,0,0,,I guess that makes sense. You come here often?
+Dialogue: 0,0:05:47.26,0:05:49.47,Default,Kirishima,0,0,0,,Not on my own, no.
+Dialogue: 0,0:05:49.47,0:05:53.09,Default,Yoshino,0,0,0,,Well, in terms of going all the \Nway to Yokohama from Tokyo...
+Dialogue: 0,0:05:53.09,0:05:55.16,Default,Yoshino,0,0,0,,In most cases, it'd be \Nfor a date, wouldn't it?
+Dialogue: 0,0:05:56.04,0:05:58.51,Default,Yoshino,0,0,0,,Not much of a liar, are you?
+Dialogue: 0,0:05:58.84,0:06:03.47,Default,Kirishima,0,0,0,,I just thought that trying to make excuses \Nat this point would make you even angrier.
+Dialogue: 0,0:06:03.47,0:06:05.51,Default,Yoshino,0,0,0,,Hey, you're learning!
+Dialogue: 0,0:06:07.88,0:06:09.60,Default,Yoshino,0,0,0,,It's 1PM.
+Dialogue: 0,0:06:09.60,0:06:14.34,Default,Yoshino,0,0,0,,My cousin might be a bit late, \Nshe's busy with the move.
+Dialogue: 0,0:06:14.34,0:06:15.97,Default,Kirishima,0,0,0,,She's a year older than you, right?
+Dialogue: 0,0:06:15.97,0:06:17.78,Default,Kirishima,0,0,0,,So she'll be in college \Nwhen fall comes around.
+Dialogue: 0,0:06:17.78,0:06:22.78,Default,Yoshino,0,0,0,,Yeah. How much \Ndo you know about her anyway?
+Dialogue: 0,0:06:23.53,0:06:25.29,Default,Kirishima,0,0,0,,A fair amount.
+Dialogue: 0,0:06:25.29,0:06:26.55,Default,Yoshino,0,0,0,,What's fair?
+Dialogue: 0,0:06:26.55,0:06:30.25,Default,Kirishima,0,0,0,,Your father and her mother \Nwere half-siblings.
+Dialogue: 0,0:06:30.25,0:06:32.65,Default,Yoshino,0,0,0,,Sure as hell sounds like \Nyou did your homework!
+Dialogue: 1,0:06:32.65,0:06:38.41,Default,Yoshino,0,0,0,,Technically, she's the daughter of the \Ndaughter of one of Grandpa's mistresses...
+Dialogue: 0,0:06:32.70,0:06:38.41,sign_generic,Sign(clockwise from upper left),0,0,0,,{\fnComic Sans MS\b1\c&H1C1C1D&\3c&HFBFFFD&\fade(400,1)\pos(346,39)}Mistress
+Dialogue: 0,0:06:32.70,0:06:38.41,sign_generic,Sign(clockwise from upper left),0,0,0,,{\fnComic Sans MS\b1\c&H1C1C1D&\3c&HFBFFFD&\fade(400,1)\pos(440,36)}Renji
+Dialogue: 0,0:06:32.70,0:06:38.41,sign_generic,Sign(clockwise from upper left),0,0,0,,{\fnComic Sans MS\b1\c&H1C1C1D&\3c&HFBFFFD&\fade(400,1)\pos(546,37)}Wife
+Dialogue: 0,0:06:32.70,0:06:38.41,sign_generic,Sign(clockwise from upper left),0,0,0,,{\fnComic Sans MS\b1\c&H1C1C1D&\3c&HFBFFFD&\fade(400,1)\pos(499,176)}Yoshino's \NFather
+Dialogue: 0,0:06:32.70,0:06:38.41,sign_generic,Sign(clockwise from upper left),0,0,0,,{\fnComic Sans MS\b1\c&H1C1C1D&\3c&HFBFFFD&\fade(400,1)\pos(393,176)}Cousin's\N Mother
+Dialogue: 0,0:06:32.70,0:06:38.41,sign_generic,Sign(clockwise from upper left),0,0,0,,{\fnComic Sans MS\b1\c&H7FE09A&\3c&H48995E&\fade(400,1)\pos(473,301)\bord1}Half-Siblings
+Dialogue: 0,0:06:38.61,0:06:40.94,Default,Kirishima,0,0,0,,Sounds like a complicated family.
+Dialogue: 0,0:06:40.94,0:06:43.35,Default,Yoshino,0,0,0,,That's the yakuza for you.
+Dialogue: 0,0:06:43.35,0:06:48.66,Default,Yoshino,0,0,0,,The thing is, this mistress suddenly \Nturned back up when my aunt was ten,
+Dialogue: 0,0:06:48.66,0:06:51.92,Default,Yoshino,0,0,0,,so there's a bit of ambiguity as to \Nwhether or not there's a blood relation.
+Dialogue: 0,0:06:52.17,0:06:53.78,flashback,Mistress,0,0,0,,Say hello to your daughter.
+Dialogue: 0,0:06:54.65,0:06:57.35,Default,Yoshino,0,0,0,,But Grandpa didn't ask any questions
+Dialogue: 0,0:06:57.35,0:07:03.43,Default,Yoshino,0,0,0,,and went on to raise her, which \Nmakes her my aunt either way.
+Dialogue: 0,0:07:03.78,0:07:06.26,Default,Kirishima,0,0,0,,Your cousin's been attending \Nan international school
+Dialogue: 0,0:07:06.26,0:07:09.05,Default,Kirishima,0,0,0,,since she was young and has \Nstudied overseas by herself.
+Dialogue: 0,0:07:09.05,0:07:12.19,Default,Kirishima,0,0,0,,And when she starts college this fall, \Nshe'll be doing international studies...
+Dialogue: 0,0:07:12.19,0:07:14.85,Default,Kirishima,0,0,0,,Sounds like a pretty typical rich girl.
+Dialogue: 0,0:07:14.85,0:07:19.00,Default,Yoshino,0,0,0,,Ugh, now that I think about it,\N she's exactly your type!
+Dialogue: 0,0:07:19.00,0:07:20.20,Default,Kirishima,0,0,0,,What do you mean?
+Dialogue: 0,0:07:21.36,0:07:22.96,Default,Tsubaki,0,0,0,,Yoshino-chan!
+Dialogue: 0,0:07:23.33,0:07:26.86,Default,Yoshino,0,0,0,,It's been so long! How've you been? \NDid you lose some weight?
+Dialogue: 0,0:07:26.86,0:07:29.67,Default,Tsubaki,0,0,0,,Does it look that way? I don't think I did.
+Dialogue: 0,0:07:29.67,0:07:31.89,Default,Tsubaki,0,0,0,,Lucky for me, I've been fine!
+Dialogue: 0,0:07:31.89,0:07:33.72,Default,Tsubaki,0,0,0,,I have to say, Yoshino-chan...
+Dialogue: 0,0:07:33.72,0:07:38.92,Default,Tsubaki,0,0,0,,You still look just like Renji-san!\NIt's a relief that you're adorable as ever.
+Dialogue: 0,0:07:38.92,0:07:41.58,Default,Yoshino,0,0,0,,I still have no idea what you mean by that.
+Dialogue: 0,0:07:41.58,0:07:43.98,Default,Tsubaki,0,0,0,,Is this gentleman the one I've heard about?
+Dialogue: 0,0:07:43.98,0:07:47.35,Default,Kirishima,0,0,0,,Hello, it's nice to meet you. \NI'm Miyama Kirishima.
+Dialogue: 0,0:07:47.35,0:07:50.21,Default,Tsubaki,0,0,0,,It's a pleasure. I'm Akashigata Tsubaki.
+Dialogue: 0,0:07:50.21,0:07:52.10,Default,Yoshino,0,0,0,,See what I mean?
+Dialogue: 0,0:07:52.74,0:08:13.26,sign_generic,Sign,0,0,0,,{\bord1\b1\fs23\c&HF38775&\3c&HE1E1E2&\move(203,54,276,54)}Exactly his type
+Dialogue: 0,0:07:52.96,0:07:56.20,Default,Yoshino,0,0,0,,She's a thoroughbred princess \Nwith the fashion sense to match!
+Dialogue: 0,0:07:56.20,0:07:59.27,Default,Yoshino,0,0,0,,Pale skin, dark eyes, with \Na long, black hime cut!
+Dialogue: 0,0:07:59.27,0:08:02.88,Default,Yoshino,0,0,0,,There aren't a lot of girls who \Ncan pull off this look!
+Dialogue: 0,0:08:02.88,0:08:07.37,Default,Yoshino,0,0,0,,No matter how you slice it, she's one of them \N"girls that other girls hate" that you love!
+Dialogue: 0,0:08:07.37,0:08:10.32,Default,Tsubaki,0,0,0,,That's rich, coming from you, Yoshino-chan.
+Dialogue: 0,0:08:11.08,0:08:13.26,Default,Kirishima,0,0,0,,Come on Yoshino, even you \Nshouldn't be that rude.
+Dialogue: 0,0:08:13.26,0:08:18.08,Default,Kirishima,0,0,0,,She really is pretty, though.\NI can see how she's your cousin.
+Dialogue: 0,0:08:18.08,0:08:20.76,Default,Kirishima,0,0,0,,It's an honor to meet such a beauty.
+Dialogue: 0,0:08:20.76,0:08:24.21,Default,Yoshino,0,0,0,,See? Just like I told you. \NA real smooth talker.
+Dialogue: 0,0:08:24.96,0:08:29.93,Default,Tsubaki,0,0,0,,I'd heard Yoshino-chan's boyfriend was a \Nlooker, and it seems the rumors are true.
+Dialogue: 0,0:08:29.93,0:08:31.33,Default,Kirishima,0,0,0,,Thank you.
+Dialogue: 0,0:08:31.33,0:08:33.14,Default,Yoshino,0,0,0,,Hey, he's {\i1}not{\i0} my boyfriend!
+Dialogue: 0,0:08:33.63,0:08:36.92,Default,Tsubaki,0,0,0,,By the way, Yoshino-chan, how'd \Nyour end-of-term tests go?
+Dialogue: 0,0:08:37.23,0:08:39.28,Default,Yoshino,0,0,0,,You really wanna ask, huh?
+Dialogue: 0,0:08:39.28,0:08:40.57,Default,Tsubaki,0,0,0,,Oh, that makes it pretty obvious.
+Dialogue: 0,0:08:40.57,0:08:44.57,Default,Kirishima,0,0,0,,You don't need to worry. \NWe stayed up late studying.
+Dialogue: 0,0:08:44.57,0:08:48.82,Default,Yoshino,0,0,0,,Nah, I'm still worried. My math \Nanswers were a total mess.
+Dialogue: 0,0:08:48.82,0:08:52.12,Default,Yoshino,0,0,0,,Forget college, what am I gonna \Ndo if I can't even graduate?
+Dialogue: 0,0:08:52.12,0:08:55.83,Default,Tsubaki,0,0,0,,Maybe we could open a flower \Nshop if it comes to that.
+Dialogue: 0,0:08:55.83,0:08:58.35,Default,Yoshino,0,0,0,,What kinda half-assed comfort is that?
+Dialogue: 0,0:08:58.35,0:09:02.10,Default,Kirishima,0,0,0,,Actually, you're from Kyoto, \Nright Tsubaki-san?
+Dialogue: 0,0:09:02.10,0:09:02.95,Default,Tsubaki,0,0,0,,Right.
+Dialogue: 0,0:09:02.95,0:09:05.80,Default,Kirishima,0,0,0,,I get to hear Yoshino's accent occasionally,
+Dialogue: 0,0:09:05.80,0:09:08.11,Default,Kirishima,0,0,0,,but not in a conversation with \Nsomeone else who has one.
+Dialogue: 0,0:09:08.51,0:09:11.79,Default,Yoshino,0,0,0,,Well, Kyoto and Osaka accents \Nhave their differences,
+Dialogue: 0,0:09:11.79,0:09:13.77,Default,Yoshino,0,0,0,,but they probably sound similar to you.
+Dialogue: 0,0:09:13.77,0:09:18.12,Default,Tsubaki,0,0,0,,True enough. Both my grandmother \Nand mother are from Kyoto.
+Dialogue: 0,0:09:18.48,0:09:20.62,Default,Yoshino,0,0,0,,I'm shocked you actually decided to move.
+Dialogue: 0,0:09:20.62,0:09:23.62,Default,Yoshino,0,0,0,,I had you pegged for living in \NKyoto until the day you died.
+Dialogue: 0,0:09:24.68,0:09:28.56,Default,Yoshino,0,0,0,,It's a stereotype for Kyoto \Ngirls to love Kyoto so much
+Dialogue: 0,0:09:28.56,0:09:31.14,Default,Yoshino,0,0,0,,that they refuse to marry out \Nof the city, ending up alone,
+Dialogue: 0,0:09:31.14,0:09:34.64,Default,Yoshino,0,0,0,,and Tsubaki is a real model Kyotoite.
+Dialogue: 0,0:09:35.99,0:09:40.49,Default,Tsubaki,0,0,0,,Since we're out here, Yoshino-chan, \Nwe had better check the stores.
+Dialogue: 0,0:09:41.55,0:09:45.67,Default,Yoshino,0,0,0,,I don't really want anything, though...
+Dialogue: 0,0:09:45.67,0:09:46.64,Default,Yoshino,0,0,0,,How 'bout you?
+Dialogue: 0,0:09:47.66,0:09:51.74,Default,Tsubaki,0,0,0,,I could go for a new tote \Nbag to take to school.
+Dialogue: 0,0:09:53.40,0:09:55.15,Default,Tsubaki,0,0,0,,Oh, Yoshino, what about these san—
+Dialogue: 0,0:09:54.01,0:09:55.78,top,Kirishima,0,0,0,,Yoshino, how about these sandals?
+Dialogue: 0,0:09:56.65,0:10:00.65,Default,Kirishima,0,0,0,,You mentioned you wanted new ones, \Nright? I bet they'd look great on you.
+Dialogue: 0,0:10:00.97,0:10:04.16,Default,Yoshino,0,0,0,,Hey, look at that! They're so cute.
+Dialogue: 0,0:10:05.01,0:10:06.72,Default,Yoshino,0,0,0,,Turn this way real quick.
+Dialogue: 0,0:10:07.40,0:10:12.93,Default,Yoshino,0,0,0,,Y'know, I'm pretty sure they'd give me a ten \Ncentimeter lift, so I'd be this tall with 'em on.
+Dialogue: 0,0:10:12.93,0:10:14.61,Default,Kirishima,0,0,0,,I don't mind.
+Dialogue: 0,0:10:14.61,0:10:16.68,Default,Yoshino,0,0,0,,Well, {\i1}I{\i0} do!
+Dialogue: 0,0:10:16.93,0:10:20.18,Default,Kirishima,0,0,0,,Doesn't whether or not they \Nlook good on you matter more?
+Dialogue: 0,0:10:20.18,0:10:21.80,sign_generic,Sign,0,0,0,,{\b1\fnGeorgia\shad2\bord1\4c&H24221D&\c&H9BBEC9&\3c&H503B3F&\frx22\fry336\pos(391,324)\frz13.21}Chinatown
+Dialogue: 0,0:10:22.07,0:10:23.81,Default,Yoshino,0,0,0,,I ate too much...
+Dialogue: 0,0:10:23.81,0:10:25.43,Default,Kirishima,0,0,0,,Are you okay, Yoshino?
+Dialogue: 1,0:10:25.43,0:10:29.40,Default,Yoshino,0,0,0,,The last time I got carried away and ate\N dim sum, it really did me in.
+Dialogue: 0,0:10:25.56,0:10:29.35,sign_generic,Sign,0,0,0,,{\b1\bord0\fnComic Sans MS\pos(90,313)\c&H3BBCD1&}Meat Buns
+Dialogue: 0,0:10:27.06,0:10:29.35,sign_generic,Sign,0,0,0,,{\b1\bord0\fnComic Sans MS\c&H4C5DC6&\pos(287,164)}Shark Fin Ramen
+Dialogue: 0,0:10:28.81,0:10:29.35,sign_generic,Sign,0,0,0,,{\b1\bord0\fnComic Sans MS\c&H3BBCD1&\pos(527,283)}Dim Sum
+Dialogue: 0,0:10:29.40,0:10:32.00,Default,Tsubaki,0,0,0,,You always do this, Yoshino-chan.
+Dialogue: 0,0:10:32.00,0:10:35.05,Default,Tsubaki,0,0,0,,I remember last time, it was \Nat the Chinatown in Kobe.
+Dialogue: 0,0:10:36.57,0:10:42.76,Default,Tsubaki,0,0,0,,You're every bit as beautiful as Renji-san.\NI bet you'd be cuter with a little fluff!
+Dialogue: 0,0:10:42.76,0:10:45.35,Default,Yoshino,0,0,0,,Yeah, yeah. Renji-san, Renji-san.
+Dialogue: 0,0:10:45.35,0:10:48.09,Default,Kirishima,0,0,0,,I take it by Renji-san you mean Boss Somei?
+Dialogue: 0,0:10:48.28,0:10:52.85,Default,Yoshino,0,0,0,,Tsubaki thinks the old coot's \Nperfect for some reason.
+Dialogue: 0,0:10:52.84,0:11:11.10,sign_generic,Sign,0,0,0,,{\b1\bord1\fs23\frz18.94\c&HE5F0E5&\3c&H3A20B8&\move(145,124,145,299)}Bwahahahaha
+Dialogue: 0,0:10:52.84,0:11:11.10,sign_generic,Sign,0,0,0,,{\b1\fs18\fnGeorgia\bord1.3\blur1\c&H23241E&\frz14.62\pos(380,141)}I love\N everything\N about him
+Dialogue: 0,0:10:52.85,0:10:55.80,Default,Tsubaki,0,0,0,,Incorrect! While he does \Nhave his imperfections,
+Dialogue: 0,0:10:55.80,0:11:00.36,Default,Tsubaki,0,0,0,,those are what makes him so uniquely \Ncharming, which is wonderful!
+Dialogue: 0,0:11:00.36,0:11:05.70,Default,Tsubaki,0,0,0,,Not only that but his looks, his face, \Nand his build are all essentially flawless!
+Dialogue: 0,0:11:05.70,0:11:09.34,Default,Tsubaki,0,0,0,,Renji-san is a masterpiece \Ncrafted by the gods!
+Dialogue: 0,0:11:09.34,0:11:11.09,Default,Yoshino,0,0,0,,Is somethin' wrong with your brain?
+Dialogue: 0,0:11:11.48,0:11:14.46,Default,Kirishima,0,0,0,,Boss Somei is definitely handsome, though.
+Dialogue: 0,0:11:14.46,0:11:17.26,Default,Kirishima,0,0,0,,And Yoshino takes after \Nhim by being so pretty.
+Dialogue: 0,0:11:17.26,0:11:18.34,Default,Tsubaki,0,0,0,,Doesn't she?
+Dialogue: 0,0:11:18.34,0:11:21.11,Default,Kirishima,0,0,0,,I hate to disagree with you, Tsubaki-san,
+Dialogue: 0,0:11:21.11,0:11:24.08,Default,Kirishima,0,0,0,,but Yoshino is the perfect \None as far as I'm concerned.
+Dialogue: 0,0:11:24.96,0:11:27.11,Default,Yoshino,0,0,0,,Why are you getting competitive?
+Dialogue: 0,0:11:28.96,0:11:33.31,Default,Tsubaki,0,0,0,,You know, Yoshino, you have to be careful \Nwith smooth talkers. They tend to cheat.
+Dialogue: 0,0:11:33.31,0:11:36.89,Default,Yoshino,0,0,0,,Yeah, he's got a whole roster\Nof chicks on the side.
+Dialogue: 0,0:11:36.89,0:11:39.50,Default,Yoshino,0,0,0,,Besides, you're one to talk!
+Dialogue: 0,0:11:39.76,0:11:43.52,Default,Tsubaki,0,0,0,,Oh, no. I've been so busy lately that I \Ndon't have enough time for that many.
+Dialogue: 0,0:11:43.52,0:11:45.75,Default,Yoshino,0,0,0,,Liar. How many have you \Ngot lined up right now?
+Dialogue: 0,0:11:45.75,0:11:46.74,Default,Tsubaki,0,0,0,,Three...
+Dialogue: 0,0:11:46.74,0:11:47.53,Default,Yoshino,0,0,0,,Timing?
+Dialogue: 0,0:11:47.53,0:11:50.62,Default,Tsubaki,0,0,0,,I'm flexible on who's the main boy, so I \Ndon't count whoever that is, though.
+Dialogue: 0,0:11:50.62,0:11:52.02,Default,Yoshino,0,0,0,,That's way too flexible!
+Dialogue: 0,0:11:52.50,0:11:57.45,Default,Yoshino,0,0,0,,She's like you. She's got no restraint \Nwhen it comes to this stuff.
+Dialogue: 0,0:11:57.45,0:12:01.93,Default,Kirishima,0,0,0,,I can see how most guys would be hard \Npressed to say no to such a beauty.
+Dialogue: 0,0:12:02.32,0:12:03.78,Default,Tsubaki,0,0,0,,Why, thank you.
+Dialogue: 0,0:12:04.05,0:12:07.39,Default,Tsubaki,0,0,0,,How far have you two gotten? Any sex yet?
+Dialogue: 0,0:12:07.39,0:12:08.79,Default,Yoshino,0,0,0,,What the hell is wrong you?!
+Dialogue: 0,0:12:09.06,0:12:12.37,Default,Kirishima,0,0,0,,No, I imagine if we had \Nany premarital intimacy,
+Dialogue: 0,0:12:12.37,0:12:16.55,Default,Kirishima,0,0,0,,I'd be killed twice over by \Nboth her and her family.
+Dialogue: 0,0:12:16.55,0:12:19.01,Default,Kirishima,0,0,0,,Besides, delayed satisfaction \Nis always sweeter,
+Dialogue: 0,0:12:19.01,0:12:21.40,Default,Kirishima,0,0,0,,so I'm pretty pleased \Nwith the way things are.
+Dialogue: 0,0:12:21.40,0:12:23.30,Default,Yoshino,0,0,0,,Is that how you see this situation?!
+Dialogue: 0,0:12:23.63,0:12:28.02,Default,Tsubaki,0,0,0,,Really? I'd always thought that,\Nin the name of sisterhood,
+Dialogue: 0,0:12:28.02,0:12:31.92,Default,Tsubaki,0,0,0,,that I'd want to make love to \Nthe first man to have Yoshino.
+Dialogue: 0,0:12:31.92,0:12:34.38,Default,Kirishima,0,0,0,,No objections from me, there.
+Dialogue: 0,0:12:34.38,0:12:36.93,Default,Yoshino,0,0,0,,How about you two screw each \Nother and leave me out of it?!
+Dialogue: 0,0:12:36.93,0:12:41.81,Default,Yoshino,0,0,0,,Dammit, just being around you is exhausting! \NIt's giving me crazy cravings for sweets!
+Dialogue: 0,0:12:41.81,0:12:45.08,Default,Tsubaki,0,0,0,,Oh, you just said you were full.
+Dialogue: 0,0:12:45.39,0:12:48.29,Default,Yoshino,0,0,0,,But get a load of that shaved ice...
+Dialogue: 0,0:12:48.29,0:12:50.21,Default,Tsubaki,0,0,0,,True, it does look good.
+Dialogue: 0,0:12:50.21,0:12:52.72,Default,Yoshino,0,0,0,,I'm not sure I can handle \Na full serving though...
+Dialogue: 0,0:12:52.72,0:12:53.63,top,Tsubaki,0,0,0,,Then—
+Dialogue: 0,0:12:52.72,0:12:54.59,Default,Kirishima,0,0,0,,Then why don't I order one?
+Dialogue: 0,0:12:54.91,0:12:58.09,Default,Kirishima,0,0,0,,If you can't finish it, I will.
+Dialogue: 0,0:12:58.09,0:13:00.22,Default,Yoshino,0,0,0,,For real? Seriously?
+Dialogue: 0,0:13:00.22,0:13:02.30,Default,Kirishima,0,0,0,,Yeah. I'll go order it now.
+Dialogue: 0,0:13:02.30,0:13:06.10,Default,Yoshino,0,0,0,,Nah, since I'm gonna be the one eating it,\N I wanna wash my hands, too.
+Dialogue: 0,0:13:07.19,0:13:09.96,Default,Tsubaki,0,0,0,,It's a relief to see \NYoshino-chan doing so well.
+Dialogue: 0,0:13:10.30,0:13:13.48,Default,Tsubaki,0,0,0,,So much has happened, I had been worried.
+Dialogue: 0,0:13:14.33,0:13:19.55,Default,Kirishima,0,0,0,,True enough. As tough as she is, she \Ndoes tend to take unnecessary risks.
+Dialogue: 0,0:13:19.55,0:13:22.48,Default,Kirishima,0,0,0,,I'll make sure to cover for her.
+Dialogue: 0,0:13:22.48,0:13:25.44,Default,Tsubaki,0,0,0,,I'm not worried about that part.
+Dialogue: 0,0:13:25.44,0:13:28.56,Default,Tsubaki,0,0,0,,You seem pretty considerate, \Nwhen you want to be.
+Dialogue: 0,0:13:28.56,0:13:31.39,Default,Tsubaki,0,0,0,,And more predictable than I thought.
+Dialogue: 0,0:13:31.39,0:13:33.49,Default,Kirishima,0,0,0,,Well, that's a first.
+Dialogue: 0,0:13:33.49,0:13:39.12,Default,Kirishima,0,0,0,,Yoshino always calls me \Nan unpredictable scumbag.
+Dialogue: 0,0:13:39.36,0:13:41.01,Default,Tsubaki,0,0,0,,She's right about that.
+Dialogue: 0,0:13:41.01,0:13:42.51,Default,Kirishima,0,0,0,,That's a little harsh.
+Dialogue: 0,0:13:42.82,0:13:46.88,Default,Tsubaki,0,0,0,,I'm sure I'd feel the same \Nway if she weren't around,
+Dialogue: 0,0:13:46.88,0:13:52.32,Default,Tsubaki,0,0,0,,but the way you treat us differently really \Npaints the whole picture, doesn't it?
+Dialogue: 0,0:13:52.32,0:13:53.93,Default,Kirishima,0,0,0,,What do you mean?
+Dialogue: 0,0:13:54.84,0:13:58.92,Default,Tsubaki,0,0,0,,You don't enjoy talking with me at all.
+Dialogue: 0,0:13:58.92,0:14:01.95,Default,Tsubaki,0,0,0,,You don't really want to \Ntalk in the first place,
+Dialogue: 0,0:14:01.95,0:14:08.16,Default,Tsubaki,0,0,0,,and have nothing to say, so you just \Nspout whatever I want to hear.
+Dialogue: 0,0:14:08.16,0:14:11.10,Default,Tsubaki,0,0,0,,Which is probably why most girls\N are on an emotional roller coaster
+Dialogue: 0,0:14:11.10,0:14:14.53,Default,Tsubaki,0,0,0,,from whatever nonsense you feel \Nlike saying in the moment.
+Dialogue: 0,0:14:14.79,0:14:17.42,Default,Kirishima,0,0,0,,That's the first time I've heard that, too.
+Dialogue: 0,0:14:17.42,0:14:21.70,Default,Tsubaki,0,0,0,,What really surprises me is the way \Nyou anticipate what Yoshino wants
+Dialogue: 0,0:14:21.70,0:14:23.79,Default,Tsubaki,0,0,0,,and capitalize on it before anyone else does.
+Dialogue: 0,0:14:24.02,0:14:28.35,Default,Tsubaki,0,0,0,,It's not just that, either. Whenever \NYoshino brings something up,
+Dialogue: 0,0:14:28.35,0:14:30.79,Default,Tsubaki,0,0,0,,you pay much closer attention.
+Dialogue: 0,0:14:31.68,0:14:36.50,Default,Tsubaki,0,0,0,,You want to be kind to her. And you \Nwant her affection, if you can get it.
+Dialogue: 0,0:14:36.50,0:14:38.87,Default,Tsubaki,0,0,0,,Though it seems like that's \Nnot the case, so far.
+Dialogue: 0,0:14:38.87,0:14:41.41,Default,Kirishima,0,0,0,,I wasn't sure about asking this, but...
+Dialogue: 0,0:14:41.41,0:14:42.58,Default,Tsubaki,0,0,0,,Let's hear it.
+Dialogue: 0,0:14:42.58,0:14:43.57,Default,Kirishima,0,0,0,,When Yoshino—
+Dialogue: 0,0:14:43.57,0:14:44.81,Default,Yoshino,0,0,0,,I bought it!
+Dialogue: 0,0:14:44.81,0:14:46.06,Default,Yoshino,0,0,0,,Get a load of the mangoes!
+Dialogue: 0,0:14:46.32,0:14:48.21,Default,Yoshino,0,0,0,,Huh? Did I interrupt something?
+Dialogue: 0,0:14:48.21,0:14:50.69,Default,Kirishima,0,0,0,,Nah, just a bit of idle chitchat.
+Dialogue: 0,0:14:50.69,0:14:52.48,Default,Tsubaki,0,0,0,,Oh, that looks yummy!
+Dialogue: 0,0:14:52.48,0:14:54.67,Default,Yoshino,0,0,0,,Right? You can have some, Tsubaki.
+Dialogue: 0,0:14:57.03,0:14:58.81,Default,Yoshino,0,0,0,,Huh? I wonder who's calling.
+Dialogue: 0,0:14:59.24,0:15:00.85,Default,Yoshino,0,0,0,,It's Inamori-san.
+Dialogue: 0,0:15:01.64,0:15:02.98,Default,Yoshino,0,0,0,,Hello?
+Dialogue: 0,0:15:02.98,0:15:04.47,Default,Yoshino,0,0,0,,Yeah? Yeah.
+Dialogue: 0,0:15:04.47,0:15:06.17,Default,Yoshino,0,0,0,,From the school?
+Dialogue: 0,0:15:08.40,0:15:11.71,Default,Yoshino,0,0,0,,No, I understand. Thank \Nyou for letting me know.
+Dialogue: 0,0:15:11.71,0:15:13.73,Default,Yoshino,0,0,0,,Right, I'll be back as soon as possible.
+Dialogue: 0,0:15:13.73,0:15:15.00,Default,Yoshino,0,0,0,,What's up?
+Dialogue: 0,0:15:15.00,0:15:17.23,Default,Yoshino,0,0,0,,The school called...
+Dialogue: 0,0:15:17.51,0:15:21.21,Default,Yoshino,0,0,0,,Apparently a few of the sheets from \Nmy math homework were missing.
+Dialogue: 0,0:15:21.21,0:15:23.47,Default,Yoshino,0,0,0,,I forgot that I had them \Nstuck in my textbook.
+Dialogue: 0,0:15:23.47,0:15:25.00,Default,Kirishima,0,0,0,,What did the teacher say?
+Dialogue: 0,0:15:25.00,0:15:26.84,Default,Yoshino,0,0,0,,They're willing to wait until 8PM.
+Dialogue: 0,0:15:26.84,0:15:28.11,Default,Kirishima,0,0,0,,We need to get back ASAP, then.
+Dialogue: 0,0:15:28.11,0:15:29.76,Default,Kirishima,0,0,0,,By taxi is probably fastest.
+Dialogue: 0,0:15:35.21,0:15:38.99,Default,Kirishima,0,0,0,,Yoshino, I'm gonna drop Tsubaki-san \Noff at her hotel before heading back.
+Dialogue: 0,0:15:38.99,0:15:41.79,Default,Yoshino,0,0,0,,Oh, okay. Take care of her for me.
+Dialogue: 0,0:15:41.79,0:15:42.83,Default,Kirishima,0,0,0,,Of course.
+Dialogue: 0,0:15:43.72,0:15:45.94,Default,Kirishima,0,0,0,,Alright, I guess we should get going.
+Dialogue: 0,0:15:45.94,0:15:46.83,Default,Tsubaki,0,0,0,,I guess so.
+Dialogue: 0,0:15:47.21,0:15:49.90,Default,Kirishima,0,0,0,,But how about a little date first?
+Dialogue: 0,0:15:49.90,0:15:51.59,Default,Tsubaki,0,0,0,,I was expecting that.
+Dialogue: 0,0:15:51.59,0:15:53.35,Default,Kirishima,0,0,0,,Where should we go?
+Dialogue: 0,0:15:54.13,0:15:55.97,Default,Tsubaki,0,0,0,,Let me think...
+Dialogue: 0,0:15:55.97,0:15:58.83,Default,Kirishima,0,0,0,,It's been a long time since \NI was on a Ferris wheel.
+Dialogue: 0,0:15:59.47,0:16:03.24,Default,Tsubaki,0,0,0,,Likewise. I'll have to make \Nsure Yoshino doesn't find out.
+Dialogue: 0,0:16:03.24,0:16:06.84,Default,Kirishima,0,0,0,,Tsubaki-san, you know about \Nthe Doseikai Group, right?
+Dialogue: 0,0:16:06.84,0:16:09.52,Default,Kirishima,0,0,0,,They're the country's largest \Ncivilian medical group.
+Dialogue: 0,0:16:09.52,0:16:10.38,Default,Tsubaki,0,0,0,,Right.
+Dialogue: 0,0:16:10.38,0:16:13.61,Default,Kirishima,0,0,0,,The man your mother has been \Nseeing for the past 15 years
+Dialogue: 0,0:16:13.61,0:16:16.50,Default,Kirishima,0,0,0,,is the director of a Kyoto \NDoseikai hospital, right?
+Dialogue: 0,0:16:16.50,0:16:19.59,Default,Tsubaki,0,0,0,,Oh, you know about Papa, too?
+Dialogue: 0,0:16:19.59,0:16:22.49,Default,Kirishima,0,0,0,,There's a lot of nasty \Nrumors about the Doseikai.
+Dialogue: 0,0:16:22.50,0:16:27.75,sign_generic,Headline sign,0,0,0,,{\an8\b1\3c&H141A20&\c&H85C8EA&}An Empire of Medicine: \N{\3c&H85B9D8&\c&H192429&}Doseikai money linked with—
+Dialogue: 0,0:16:22.75,0:16:27.76,Default,Kirishima,0,0,0,,From political donations to working with \Nthe mob, and maybe, most notably...
+Dialogue: 0,0:16:28.13,0:16:30.01,Default,Kirishima,0,0,0,,illegal organ transplants.
+Dialogue: 0,0:16:30.98,0:16:32.00,Default,Tsubaki,0,0,0,,And?
+Dialogue: 0,0:16:32.51,0:16:37.53,Default,Kirishima,0,0,0,,I'll be blunt: Where is \NYoshino's kidney right now?
+Dialogue: 0,0:16:39.00,0:16:42.44,Default,Kirishima,0,0,0,,Selling a kidney isn't the kind \Nof thing just anybody can do.
+Dialogue: 0,0:16:42.44,0:16:45.25,Default,Kirishima,0,0,0,,I had thought about selling my own organs,
+Dialogue: 0,0:16:45.25,0:16:47.64,Default,Kirishima,0,0,0,,but it's hard to do in Japan \Nwithout the right connections.
+Dialogue: 0,0:16:47.64,0:16:50.29,Default,Tsubaki,0,0,0,,Oh, what made you want to do that?
+Dialogue: 0,0:16:50.29,0:16:54.02,Default,Kirishima,0,0,0,,Well, I was the reason Yoshino sold one of \Nhers, so I figured I'd sell one of mine, too.
+Dialogue: 0,0:16:54.39,0:16:57.28,Default,Tsubaki,0,0,0,,If only you had asked me.
+Dialogue: 0,0:16:57.63,0:17:02.78,Default,Kirishima,0,0,0,,I'm pretty sure you're the only person \Nshe could've turned to about this.
+Dialogue: 0,0:17:03.24,0:17:07.09,Default,Kirishima,0,0,0,,But, despite all my searching, \NI couldn't find Yoshino's kidney...
+Dialogue: 0,0:17:07.09,0:17:12.51,Default,Kirishima,0,0,0,,Which made me realize maybe you hadn't \Nsold her kidney in the first place.
+Dialogue: 0,0:17:13.44,0:17:14.92,Default,Tsubaki,0,0,0,,Why, whatever do you mean?
+Dialogue: 0,0:17:15.25,0:17:18.22,Default,Kirishima,0,0,0,,That you didn't take it \Nout in the first place.
+Dialogue: 0,0:17:18.22,0:17:20.68,Default,Kirishima,0,0,0,,And you just handed her the four million yen.
+Dialogue: 0,0:17:21.06,0:17:24.65,Default,Kirishima,0,0,0,,I was able to get a good look \Nwhen she was sick in bed,
+Dialogue: 0,0:17:24.93,0:17:28.25,Default,Kirishima,0,0,0,,and she had a small scar above \Nher waist on the left side.
+Dialogue: 0,0:17:28.25,0:17:31.43,Default,Kirishima,0,0,0,,Not what you'd expect in terms of size \Nor location from that kind of procedure.
+Dialogue: 0,0:17:32.06,0:17:37.37,Default,Kirishima,0,0,0,,Which leaves me with two options for \Nconfirming whether or not it was taken out:
+Dialogue: 0,0:17:37.37,0:17:41.58,Default,Kirishima,0,0,0,,I either have Yoshino get an \NMRI or I ask you about it.
+Dialogue: 0,0:17:43.13,0:17:47.58,Default,Tsubaki,0,0,0,,I wonder if anyone's ever had this kind \Nof conversation on a Ferris wheel before.
+Dialogue: 0,0:17:47.82,0:17:50.91,Default,Tsubaki,0,0,0,,What's your big interest in Yoshino-chan?
+Dialogue: 0,0:17:51.86,0:17:55.85,Default,Kirishima,0,0,0,,Do you remember the first expensive \Nthing you ever bought, Tsubaki-san?
+Dialogue: 0,0:17:56.67,0:17:59.22,Default,Kirishima,0,0,0,,Mine was a ticket for the Shinkansen.
+Dialogue: 0,0:17:59.59,0:18:02.51,Default,Kirishima,0,0,0,,It was July 22nd of my third \Nyear of middle school,
+Dialogue: 0,0:18:02.51,0:18:08.36,Default,Kirishima,0,0,0,,I scraped together the little money I had to \Nget a seat on the 12PM to Shin-Osaka station.
+Dialogue: 0,0:18:08.93,0:18:11.68,Default,Kirishima,0,0,0,,Because I had heard there was going \Nto be a Kirigaya-gumi funeral,
+Dialogue: 0,0:18:11.68,0:18:14.62,Default,Kirishima,0,0,0,,and that Boss Somei's granddaughter \Nwould be attending.
+Dialogue: 0,0:18:15.01,0:18:17.60,Default,Tsubaki,0,0,0,,Does she know about that?
+Dialogue: 0,0:18:17.60,0:18:18.68,Default,Kirishima,0,0,0,,No.
+Dialogue: 0,0:18:19.17,0:18:23.88,Default,Kirishima,0,0,0,,And when you ask why I'm so interested in \Nher, I can only say it's because I'm in love.
+Dialogue: 0,0:18:24.74,0:18:28.32,Default,Tsubaki,0,0,0,,I don't remember the first \Nexpensive thing I bought,
+Dialogue: 0,0:18:28.32,0:18:30.88,Default,Tsubaki,0,0,0,,but I can tell you about \Nsomething I got recently.
+Dialogue: 0,0:18:31.47,0:18:35.89,Default,Tsubaki,0,0,0,,One and a half liters\N of blood for four million yen.
+Dialogue: 0,0:18:38.38,0:18:42.36,Default,Tsubaki,0,0,0,,I drained her of as much blood as I safely \Ncould without touching her kidneys.
+Dialogue: 0,0:18:42.36,0:18:47.15,Default,Tsubaki,0,0,0,,And she doesn't know this, \Nbut I held onto the blood.
+Dialogue: 0,0:18:47.15,0:18:48.39,Default,Tsubaki,0,0,0,,Would you want it?
+Dialogue: 0,0:18:48.39,0:18:51.39,Default,Kirishima,0,0,0,,Oh, of course. You can name your price.
+Dialogue: 0,0:18:52.74,0:18:53.69,Default,Tsubaki,0,0,0,,Too bad!
+Dialogue: 0,0:18:54.16,0:18:59.61,Default,Tsubaki,0,0,0,,This is no good. Not only did I trick her, \Nnow I'm blabbing about it, too.
+Dialogue: 0,0:18:59.61,0:19:03.42,Default,Tsubaki,0,0,0,,Plus, I can't have you go telling her.
+Dialogue: 0,0:19:03.63,0:19:05.55,Default,Kirishima,0,0,0,,Why take the blood?
+Dialogue: 0,0:19:05.55,0:19:10.70,Default,Kirishima,0,0,0,,That's a pretty serious amount. \NThere could've been side effects.
+Dialogue: 0,0:19:10.70,0:19:13.91,Default,Kirishima,0,0,0,,And what would you have \Ndone if she had died?
+Dialogue: 0,0:19:14.26,0:19:17.16,Default,Tsubaki,0,0,0,,I tried to talk her out of it, but...
+Dialogue: 0,0:19:17.75,0:19:21.43,flashback,Yoshino,0,0,0,,I'd rather die than let \Nhim make a fool outta me.
+Dialogue: 0,0:19:21.43,0:19:23.92,Default,Tsubaki,0,0,0,,She insisted.
+Dialogue: 0,0:19:23.92,0:19:27.96,Default,Tsubaki,0,0,0,,It wouldn't exactly be worth the trouble \Nunless she gambled her life, no?
+Dialogue: 0,0:19:28.42,0:19:32.56,Default,Kirishima,0,0,0,,I appreciate you humoring me.
+Dialogue: 0,0:19:33.77,0:19:38.04,Default,Kirishima,0,0,0,,You're actually as charming as Yoshino is.
+Dialogue: 0,0:19:38.04,0:19:39.96,Default,Kirishima,0,0,0,,I guess it's because you're cousins?
+Dialogue: 0,0:19:40.23,0:19:44.18,Default,Tsubaki,0,0,0,,You really are a smooth-talking lowlife.
+Dialogue: 0,0:19:44.18,0:19:49.58,Default,Tsubaki,0,0,0,,Well, Yoshino-chan seems to be doing \Nwell, so I'll leave it at that.
+Dialogue: 0,0:19:49.85,0:19:54.12,Default,Tsubaki,0,0,0,,But if you end up being a \Ntotally worthless scumbag,
+Dialogue: 0,0:19:54.12,0:19:56.09,Default,Tsubaki,0,0,0,,you should watch out.
+Dialogue: 0,0:19:57.29,0:20:00.26,Default,Tsubaki,0,0,0,,Even if it takes plastic surgery,
+Dialogue: 0,0:20:00.26,0:20:05.09,Default,Tsubaki,0,0,0,,I'll make sure you spend your whole \Nlife looking for her and never find her.
+Dialogue: 0,0:20:06.40,0:20:08.51,Default,Kirishima,0,0,0,,I'll keep that in mind.
+Dialogue: 0,0:20:08.51,0:20:12.86,Default,Kirishima,0,0,0,,But what's the criteria for being \Na worthless scumbag, exactly?
+Dialogue: 0,0:20:13.14,0:20:15.83,Default,Tsubaki,0,0,0,,Why, it's completely at my discretion.
+Dialogue: 0,0:20:17.62,0:20:20.10,Default,Yoshino,0,0,0,,Man, I'm glad I made it in time!
+Dialogue: 0,0:20:20.10,0:20:23.47,Default,Kirishima,0,0,0,,You won't have to worry about \Nyour assignments, at least.
+Dialogue: 0,0:20:23.47,0:20:24.98,Default,Yoshino,0,0,0,,The exams are still freaking me out,
+Dialogue: 0,0:20:24.98,0:20:29.22,Default,Yoshino,0,0,0,,but the idea of not getting credit for the \Nassignments had me in a real death spiral.
+Dialogue: 0,0:20:29.22,0:20:31.37,Default,Yoshino,0,0,0,,Feelin' a bit better now!
+Dialogue: 0,0:20:31.37,0:20:35.20,Default,Yoshino,0,0,0,,Were you able to ask Tsubaki \Nabout what you wanted to know?
+Dialogue: 0,0:20:36.93,0:20:38.93,Default,Kirishima,0,0,0,,What are you talking about?
+Dialogue: 0,0:20:38.93,0:20:43.62,Default,Yoshino,0,0,0,,You don't have to pretend. \NI knew you'd dig around.
+Dialogue: 0,0:20:45.25,0:20:46.88,Default,Kirishima,0,0,0,,I guess so...
+Dialogue: 0,0:20:47.29,0:20:50.42,Default,Yoshino,0,0,0,,What? I'm not gonna ask \Nwhat you talked about.
+Dialogue: 0,0:20:50.42,0:20:51.55,Default,Yoshino,0,0,0,,I don't really care.
+Dialogue: 0,0:20:51.55,0:20:53.43,Default,Kirishima,0,0,0,,You don't?
+Dialogue: 0,0:20:53.43,0:20:57.94,Default,Yoshino,0,0,0,,I might not trust you, but \NI definitely trust her.
+Dialogue: 0,0:20:58.26,0:21:03.95,Default,Yoshino,0,0,0,,Besides, if the two of you started to work \Ntogether against me, I wouldn't mind.
+Dialogue: 0,0:21:04.32,0:21:07.80,Default,Yoshino,0,0,0,,I'm the one who chose to trust her.
+Dialogue: 0,0:21:07.80,0:21:12.70,Default,Yoshino,0,0,0,,So if she got the drop on \Nme, then that's on me.
+Dialogue: 0,0:21:13.79,0:21:17.02,Default,Kirishima,0,0,0,,You two really are alike.
+Dialogue: 0,0:21:17.56,0:21:20.84,Default,Yoshino,0,0,0,,We are? I don't think anyone's \Never said that before.
+Dialogue: 0,0:21:22.34,0:21:25.34,Default,Kirishima,0,0,0,,Speak of the devil, it's from her.
+Dialogue: 0,0:21:25.72,0:21:28.73,Default,Yoshino,0,0,0,,You and her traded contact info?!
+Dialogue: 0,0:21:28.73,0:21:31.38,Default,Kirishima,0,0,0,,Yep. To hang out some other time.
+Dialogue: 0,0:21:31.38,0:21:34.57,Default,Yoshino,0,0,0,,Well, you really hit it off...
+Dialogue: 0,0:21:34.57,0:21:37.74,Default,Kirishima,0,0,0,,She settled on an apartment.
+Dialogue: 0,0:21:37.74,0:21:42.05,Default,Yoshino,0,0,0,,Really? Tell her to send the address, \Nand I'll get her a housewarming present.
+Dialogue: 0,0:21:43.53,0:21:46.74,sign_generic,Sign,0,0,0,,{\an7\fs15\frx10\fry2\frz4.825\fade(150,1)\move(145,98,145,-17)}Here's the picture of Yoshino-chan\N I promised you.
+Dialogue: 0,0:21:48.38,0:21:51.04,Default,Yoshino,0,0,0,,What the hell?! Delete it! Delete it, fast!
+Dialogue: 0,0:21:51.04,0:21:52.14,Default,Kirishima,0,0,0,,So cute...
+Dialogue: 0,0:21:53.40,0:21:57.00,Default,Yoshino,0,0,0,,You're gonna blackmail me by threatening \Nto post it online, ain't you?!
+Dialogue: 0,0:21:57.23,0:21:59.88,Default,Kirishima,0,0,0,,Not on my life! That'd be such a waste!
+Dialogue: 0,0:21:59.88,0:22:01.68,Default,Kirishima,0,0,0,,Please, just let me keep it! It's fine!
+Dialogue: 0,0:22:01.68,0:22:02.62,Default,Yoshino,0,0,0,,Hell no!
+Dialogue: 0,0:22:03.35,0:22:07.28,Default,Tsubaki,0,0,0,,Renji-san in his teens... amazing!
+Dialogue: 0,0:22:07.28,0:22:09.59,Default,Tsubaki,0,0,0,,Much obliged, Kirishima-san.

@@ -1,0 +1,446 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: FlashbackItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,0
+Style: Signs_EpTitle,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,90,100,0,0,1,1,0,9,30,30,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.44,0:00:04.27,Signs,SCREENCAP,0,0,0,,{\bord2\fnTimes New Roman\c&H473625&\3c&H82787C&}Hikage Dojo
+Dialogue: 0,0:00:33.77,0:00:35.65,Default,TATSU,0,0,0,,Pull yourself together!
+Dialogue: 0,0:00:35.65,0:00:36.93,Default,TATSU,0,0,0,,What is your name?!
+Dialogue: 0,0:00:37.30,0:00:39.29,Default,NAKA,0,0,0,,N-Naka Hikage.
+Dialogue: 0,0:00:39.29,0:00:42.64,Default,TATSU,0,0,0,,That's right. And what is your brother's name?!
+Dialogue: 0,0:00:43.17,0:00:47.98,Default,NAKA,0,0,0,,My brother's name is... Tatsu... Hikage...
+Dialogue: 0,0:00:48.43,0:00:49.57,Default,TATSU,0,0,0,,Correct.
+Dialogue: 0,0:00:49.57,0:00:53.12,Default,TATSU,0,0,0,,As inheritors of the 300-year-old \NHikage style of martial arts,
+Dialogue: 0,0:00:53.12,0:00:58.70,Default,TATSU,0,0,0,,we siblings must continue to maintain \Na strong sense of self-discipline!
+Dialogue: 0,0:00:58.70,0:01:02.68,Default,NAKA,0,0,0,,Yes. I shall do my best, Dear Brother.
+Dialogue: 0,0:01:02.68,0:01:04.08,Default,TATSU,0,0,0,,As long as you understand.
+Dialogue: 0,0:01:06.53,0:01:10.17,DefaultItalics,NAKA {M},0,0,0,,I've let down my dear brother once again.
+Dialogue: 0,0:01:14.57,0:01:19.58,DefaultItalics,TATSU {M},0,0,0,,Oh, man... I'm so glad that mishap \Ndidn't scar my Naka's adorable face!
+Dialogue: 0,0:01:20.71,0:01:25.73,DefaultItalics,ANNOUNCEMENT,0,0,0,,We will now commence the Ogiso Private \NHigh School Katsuda Grand Triple Festival!
+Dialogue: 0,0:01:21.81,0:01:23.81,Signs,SCREENCAP,0,0,0,,{\bord2\fad(522,477)\fnArial Black\c&HE96D79&\3c&HFFFFFF&}Katsuda Festival
+Dialogue: 0,0:01:23.77,0:01:25.73,Signs,SCREENCAP,0,0,0,,{\fad(522,1)\bord2\fs14\fnTimes New Roman\3c&H4B4746&\pos(558,85.5)}Ogiso Private High School
+Dialogue: 0,0:01:25.73,0:01:29.31,DefaultItalicsTop,ANNOUNCEMENT,0,0,0,,The theme for this year's inter-class \Ncompetition will be "cops and robbers"!
+Dialogue: 0,0:01:26.27,0:01:30.23,Signs_EpTitle,CAPTION,0,0,0,,{\fad(273,474)\pos(604.5,285.5)\blur1}Episode {\c&H2937BC&}9{\c&H000000&}: {\c&H2937BC&}You{\c&H000000&} and the Cultural Stage.
+Dialogue: 0,0:01:29.31,0:01:31.27,DefaultItalicsTop,ANNOUNCEMENT,0,0,0,,It starts at 2 PM!
+Dialogue: 0,0:01:31.27,0:01:35.24,DefaultItalics,ANNOUNCEMENT,0,0,0,,Which class will seize a glorious victory?!
+Dialogue: 0,0:01:35.24,0:01:37.49,Signs,SCREENCAP,0,0,0,,{\bord4\fnArial Black\c&HA34748&\3c&HE2F3F7&\frz351.4\pos(157,215.5)}Mascot {\c&HD5D9F7&\3c&H7725C8&\bord3}Café\N{\c&H212F32&\3c&HE2F3F7&\\fnComic Sans MS\fs16}Class 1-A
+Dialogue: 0,0:01:35.24,0:01:37.49,Signs,SCREENCAP,0,0,0,,{\fs36\bord4\fnArial Black\c&H5ADBEF&\3c&H16156E&\fax0.04\frz1.999\pos(488.5,72)}Crepes
+Dialogue: 0,0:01:35.63,0:01:37.49,Default,NISHIKI,0,0,0,,Are you sure this is all right?
+Dialogue: 0,0:01:37.49,0:01:39.66,Signs,SCREENCAP,0,0,0,,{\fnTimes New Roman\bord2\c&H393430&\3c&HEBE3E0\fay-0.115\pos(305,29.5)}Student Council Office
+Dialogue: 0,0:01:37.95,0:01:39.66,Default,NISHIKI,0,0,0,,This year, you'll be the only cop,
+Dialogue: 0,0:01:40.09,0:01:44.04,Default,NISHIKI,0,0,0,,and all the other students will be robbers, \Naccording to these special rules.
+Dialogue: 0,0:01:44.04,0:01:46.46,Default,NISHIKI,0,0,0,,Isn't that too much of a handicap?
+Dialogue: 0,0:01:46.46,0:01:48.62,Default,TATSU,0,0,0,,Not a problem. The real issue...
+Dialogue: 0,0:01:48.62,0:01:51.09,Signs,SCREENCAP,0,0,0,,{\fs16\c&H323532&\frz16.06\fax0.15\pos(492.5,176.5)}Enrollment Application Form
+Dialogue: 0,0:01:48.62,0:01:51.09,Signs,SCREENCAP,0,0,0,,{\fs14\c&H323532&\frz16.06\fax0.15\pos(475.5,228.5)}Applicant
+Dialogue: 0,0:01:48.62,0:01:51.09,Signs,SCREENCAP,0,0,0,,{\fnComic Sans MS\fs16\c&H737373&\fax0.15\frz17.65\pos(514.5,287)}Yuki Yokoya
+Dialogue: 0,0:01:48.62,0:01:51.09,Signs,SCREENCAP,0,0,0,,{\fs12\c&H323532&\fax0.15\frz17.15\pos(616.5,206.5)}Female
+Dialogue: 0,0:01:49.26,0:01:51.09,Default,TATSU,0,0,0,,is this "Yuki Yokoya."
+Dialogue: 0,0:01:51.62,0:01:55.02,Default,NISHIKI,0,0,0,,She transferred in as \NHitoyoshi Yokoya's cousin,
+Dialogue: 0,0:01:55.02,0:01:57.84,Default,NISHIKI,0,0,0,,but much of her background remains an enigma.
+Dialogue: 0,0:01:57.84,0:02:01.47,DefaultItalics,TATSU {M},0,0,0,,1-A... The same class as my dear Naka.
+Dialogue: 0,0:02:01.47,0:02:05.18,Default,NISHIKI,0,0,0,,She'll be participating in today's competition,\Nas well. We'll need to keep an eye on her.
+Dialogue: 0,0:02:05.18,0:02:10.35,Default,TATSU,0,0,0,,Indeed. There is a possibility that she could \Nbe one of Hikage's enemies out for revenge.
+Dialogue: 0,0:02:10.35,0:02:11.28,Default,TATSU,0,0,0,,In which case...
+Dialogue: 0,0:02:11.81,0:02:14.69,Default,TATSU,0,0,0,,I will investigate her myself \Nduring my patrol.
+Dialogue: 0,0:02:18.47,0:02:21.29,Default,NISHIKI,0,0,0,,For Tatsu to personally take action...
+Dialogue: 0,0:02:21.29,0:02:25.37,Default,NISHIKI,0,0,0,,As we suspected, this Yuki Yokoya \Nmay be no mere student.
+Dialogue: 0,0:02:25.37,0:02:28.66,Default,NISHIKI,0,0,0,,By the way, what is Naka's class \Ndoing for the event?
+Dialogue: 0,0:02:28.66,0:02:30.60,Default,MIZUCHI,0,0,0,,Um, I believe it was...
+Dialogue: 0,0:02:31.08,0:02:33.54,Default,STORE CLERK1,0,0,0,,Welcome to the Mascot Café!
+Dialogue: 0,0:02:34.05,0:02:37.38,Default,STORE CLERK2,0,0,0,,Dear customers, feel free to select \Nwhichever headwear you like.
+Dialogue: 0,0:02:38.42,0:02:41.30,Default,NAKA,0,0,0,,You see, I don't think...
+Dialogue: 0,0:02:41.30,0:02:44.47,Default,NAKA,0,0,0,,my brother likes me very much.
+Dialogue: 0,0:02:44.47,0:02:47.35,Default,HITOYOSHI,0,0,0,,Your brother? Do you mean President Hikage?
+Dialogue: 0,0:02:47.35,0:02:52.98,Default,NAKA,0,0,0,,Yes. My brother is very results-oriented—\Na real perfectionist.
+Dialogue: 0,0:02:52.98,0:02:56.02,Default,NAKA,0,0,0,,But as his younger sister, \Nall I am is small and weak.
+Dialogue: 0,0:02:56.02,0:02:58.60,Default,HITOYOSHI,0,0,0,,Is that why you want to win?
+Dialogue: 0,0:02:58.60,0:03:02.99,Default,NAKA,0,0,0,,Yes! Winning may be difficult, but if I can \Nshow him that I can accomplish things, too,
+Dialogue: 0,0:03:02.99,0:03:06.58,Default,NAKA,0,0,0,,I was thinking he might finally see me \Nas worthy... if only a little.
+Dialogue: 0,0:03:07.34,0:03:08.45,Default,NAKA,0,0,0,,And also...
+Dialogue: 0,0:03:10.03,0:03:12.75,Default,NAKA,0,0,0,,N-Never mind!
+Dialogue: 0,0:03:12.75,0:03:16.92,DefaultItalics,HITOYOSHI {M},0,0,0,,It seems like Hikage has a hard time \Ntalking in front of Ms. Yuki...
+Dialogue: 0,0:03:17.32,0:03:20.97,Default,HITOYOSHI,0,0,0,,Don't worry. Thanks to you, we were able to \Nget the info we needed about the competition.
+Dialogue: 0,0:03:21.28,0:03:24.76,Default,NAKA,0,0,0,,Right! Winning at cops and robbers \Nis all about athletic ability.
+Dialogue: 0,0:03:24.76,0:03:27.56,Default,NAKA,0,0,0,,And each class has to choose \Nthree participants.
+Dialogue: 0,0:03:27.56,0:03:28.97,Signs,SCREENCAP,0,0,0,,{\an7\bord2\fnTimes New Roman\c&H1C2A37&\3c&HEFF6F0&}Katsuda's Sauce
+Dialogue: 0,0:03:28.97,0:03:30.94,Default,YUKI,0,0,0,,Mr. Katsuda's Sauce?!
+Dialogue: 0,0:03:30.94,0:03:45.37,Signs,SCREENCAP,0,0,0,,{\bord2\fnTimes New Roman\c&H1C2A37&\3c&HEFF6F0&}Katsuda's Sauce
+Dialogue: 0,0:03:31.93,0:03:33.52,Default,TAIGA,0,0,0,,Yo. I'm Katsuda-Man.
+Dialogue: 0,0:03:33.52,0:03:35.00,Default,HITOYOSHI,0,0,0,,Hey, is that you, Taiga?!
+Dialogue: 0,0:03:35.00,0:03:36.52,Default,HITOYOSHI,0,0,0,,You're gonna compete like that?!
+Dialogue: 0,0:03:36.99,0:03:38.43,Default,TAIGA,0,0,0,,Why, of course I am!
+Dialogue: 0,0:03:38.43,0:03:40.59,Default,TAIGA,0,0,0,,Katsuda-Man is invincible!
+Dialogue: 0,0:03:40.59,0:03:42.26,Default,NAKA,0,0,0,,Kurokawa...
+Dialogue: 0,0:03:42.26,0:03:45.87,Default,TAIGA,0,0,0,,Just you watch! The golden trio of Yuki, \NHikage, and I will blow your socks off!
+Dialogue: 0,0:03:45.87,0:03:48.51,Default,TAIGA,0,0,0,,We'll beat the crap out of \Nthat president and then some!
+Dialogue: 0,0:03:48.51,0:03:53.33,Default,HITOYOSHI,0,0,0,,Come to think of it, I don't remember \Never actually seeing Hikage in gym class.
+Dialogue: 0,0:03:54.07,0:03:57.80,Default,NAKA,0,0,0,,That's because... I don't want to \Nstand out too much...
+Dialogue: 0,0:03:57.80,0:04:04.93,Signs,SCREENCAP,0,0,0,,{\an7\bord2\fnTimes New Roman\c&H1C2A37&\3c&HEFF6F0&\pos(33.5,90.5)}Katsuda's Sauce
+Dialogue: 0,0:03:59.14,0:04:02.98,Default,NAKA,0,0,0,,Oh, I'm not as fast as my brother, \Nbut I'm really good at running, so...
+Dialogue: 0,0:04:02.98,0:04:04.93,Default,NAKA,0,0,0,,I'll do my best to be useful!
+Dialogue: 0,0:04:06.12,0:04:07.89,Default,YUKI,0,0,0,,Do not worry.
+Dialogue: 0,0:04:07.89,0:04:13.08,Default,YUKI,0,0,0,,When our prospects of winning seemed dark, \Nyou parted the clouds with a ray of hope.
+Dialogue: 0,0:04:13.08,0:04:15.22,Default,YUKI,0,0,0,,I will give it my all, as well.
+Dialogue: 0,0:04:15.22,0:04:19.36,Default,YUKI,0,0,0,,Let us combine forces and beat the crap out \Nof the student council president together.
+Dialogue: 0,0:04:19.78,0:04:21.13,Default,NAKA,0,0,0,,Yuki...
+Dialogue: 0,0:04:21.57,0:04:23.01,Default,NAKA,0,0,0,,Y-You're right.
+Dialogue: 0,0:04:23.01,0:04:26.74,Default,NAKA,0,0,0,,I'll never beat the crap out of my brother \Nif I give up before I try!
+Dialogue: 0,0:04:26.74,0:04:29.20,Default,YUKI,0,0,0,,Yes! That's the spirit!
+Dialogue: 0,0:04:29.50,0:04:32.16,Default,STORE CLERK2,0,0,0,,Welcome! The menu is right over...
+Dialogue: 0,0:04:34.21,0:04:38.46,Signs,SCREENCAP,0,0,0,,{\fnTimes New Roman\an9\c&H200B77&\3c&HFFFFFF&\bord2\fs30}Pissed
+Dialogue: 0,0:04:34.66,0:04:38.46,DefaultItalics,TATSU {M},0,0,0,,How dare you beguile my dear Naka, \Nhave her use such crude language,
+Dialogue: 0,0:04:38.93,0:04:42.92,DefaultItalics,TATSU {M},0,0,0,,and scheme to drive a wedge \Nbetween us siblings!
+Dialogue: 0,0:04:43.62,0:04:47.39,DefaultItalics,TATSU {M},0,0,0,,Yuki Yokoya... I won't forget this affront!
+Dialogue: 0,0:04:47.39,0:04:49.39,Signs,SCREENCAP,0,0,0,,{\bord2\fnArial Black\c&HEBA7AE&\3c&HFBFBF4&\pos(320,20)}Katsuda Festival
+Dialogue: 0,0:04:49.39,0:04:52.75,Default,HITOYOSHI,0,0,0,,Taiga, are you seriously going to play \Ncops and robbers as Katsuda-Man?
+Dialogue: 0,0:04:52.75,0:04:53.39,Default,TAIGA,0,0,0,,Yep.
+Dialogue: 0,0:04:53.39,0:04:56.33,Default,TAIGA,0,0,0,,The Katsuda Festival is all about \NKatsuda's Sauce reigning supreme!
+Dialogue: 0,0:04:56.33,0:05:00.82,Default,TAIGA,0,0,0,,I'll stand out on TV and become \Nthe No. 1 local mascot!
+Dialogue: 0,0:04:58.27,0:05:00.82,Signs,SCREENCAP,0,0,0,,{\fad(361,1)\an9\bord2\fnTimes New Roman\c&H1C2A37&\3c&HEFF6F0&}Katsuda's Sauce
+Dialogue: 0,0:05:01.17,0:05:02.86,DefaultItalics,HITOYOSHI {M},0,0,0,,What a stupid idea...
+Dialogue: 0,0:05:02.86,0:05:06.09,Default,HITOYOSHI,0,0,0,,Oh... That's right. There'll be people \Nfrom the TV station here.
+Dialogue: 0,0:05:06.09,0:05:08.28,Default,HITOYOSHI,0,0,0,,I wonder if Ms. Yuki will be okay \Nwith being filmed...
+Dialogue: 0,0:05:08.78,0:05:10.33,Default,HITOYOSHI,0,0,0,,Ms. Yuki, um...
+Dialogue: 0,0:05:10.33,0:05:13.00,Default,RIKO,0,0,0,,Ooh! I spy Big Brother and Ms. Yuki!
+Dialogue: 0,0:05:13.00,0:05:14.96,Default,RIKO,0,0,0,,I was looking everywhere for you guys!
+Dialogue: 0,0:05:15.38,0:05:17.86,Default,RIKO,0,0,0,,Kobachin told me you've been slacking off.
+Dialogue: 0,0:05:17.86,0:05:18.92,Default,RIKO,0,0,0,,How delinquent of you!
+Dialogue: 0,0:05:19.32,0:05:23.84,Default,HITOYOSHI,0,0,0,,We were in charge of the café all morning, \Nso we're off duty for the afternoon.
+Dialogue: 0,0:05:23.84,0:05:25.34,Default,HITOYOSHI,0,0,0,,Ms. Yuki has the competition, too.
+Dialogue: 0,0:05:25.34,0:05:28.30,Default,RIKO,0,0,0,,So I can't catch Ms. Yuki & Co. \Nat the café anymore?
+Dialogue: 0,0:05:28.30,0:05:29.09,Default,RIKO,0,0,0,,Harrumph!
+Dialogue: 0,0:05:28.30,0:05:30.01,Signs,SCREENCAP,0,0,0,,{\fad(695,1)\fs20\fnArial Black\c&H5609CD&\3c&H2E046E&\bord1.5\pos(155.5,117.5)}Harrumph
+Dialogue: 0,0:05:29.09,0:05:30.48,Default,TAIGA,0,0,0,,Sorry, Riko!
+Dialogue: 0,0:05:31.69,0:05:33.79,Default,TAIGA,0,0,0,,You'll have to make do with Kobachi this year.
+Dialogue: 0,0:05:33.79,0:05:35.10,Default,KOBACHI,0,0,0,,Don't lift me up!
+Dialogue: 0,0:05:35.10,0:05:39.28,Default,RIKO,0,0,0,,Oh, I see. Kobachin's just \Nlonely from being left out.
+Dialogue: 0,0:05:39.28,0:05:41.18,Default,KOBACHI,0,0,0,,Stop patting my head, Taiga!
+Dialogue: 0,0:05:41.18,0:05:43.14,Default,KOBACHI,0,0,0,,That's it! I'm going back to work!
+Dialogue: 0,0:05:43.14,0:05:44.51,Default,HITOYOSHI,0,0,0,,Sorry, Kobachi.
+Dialogue: 0,0:05:44.51,0:05:47.74,Default,NAKA,0,0,0,,You guys really are close.
+Dialogue: 0,0:05:47.74,0:05:48.49,Default,YUKI,0,0,0,,Yes.
+Dialogue: 0,0:05:50.73,0:05:52.01,Default,NAKA,0,0,0,,Um...
+Dialogue: 0,0:05:52.01,0:05:56.16,Default,NAKA,0,0,0,,D-Do you have friends, Yuki?
+Dialogue: 0,0:05:56.61,0:05:58.00,Default,YUKI,0,0,0,,Friends...
+Dialogue: 0,0:05:58.00,0:06:03.99,Default,NAKA,0,0,0,,Oh, um, I-I didn't mean to make it sound \Nlike you don't have any!
+Dialogue: 0,0:06:06.04,0:06:10.93,Default,NAKA,0,0,0,,Um, you see, the one who doesn't \Nhave friends here... is me. So...
+Dialogue: 0,0:06:11.79,0:06:14.88,Default,NAKA,0,0,0,,If you don't mind...
+Dialogue: 0,0:06:17.23,0:06:24.40,Default,NAKA,0,0,0,,would you... be friends... with me?
+Dialogue: 0,0:06:25.18,0:06:27.36,Default,YUKI,0,0,0,,Certainly. Let us...
+Dialogue: 0,0:06:27.92,0:06:29.20,Default,YUKI,0,0,0,,be friends.
+Dialogue: 0,0:06:32.04,0:06:35.78,Default,HITOYOSHI,0,0,0,,Ms. Yuki! Riko said she wants to go take \Na look at the cultural festival with us.
+Dialogue: 0,0:06:32.44,0:06:34.20,DefaultItalicsTop,NAKA,0,0,0,,Friends...
+Dialogue: 0,0:06:35.78,0:06:38.37,Default,YUKI,0,0,0,,Understood. I will join you.
+Dialogue: 0,0:06:38.72,0:06:41.36,Default,HITOYOSHI,0,0,0,,How about you, Hikage? \NDo you want to come, too?
+Dialogue: 0,0:06:41.36,0:06:45.09,Default,NAKA,0,0,0,,Um, I still have things I need to check, so...
+Dialogue: 0,0:06:49.15,0:06:51.02,Default,HITOYOSHI,0,0,0,,She looked pretty excited about something.
+Dialogue: 0,0:06:51.02,0:06:52.51,Default,HITOYOSHI,0,0,0,,What were you guys talking about?
+Dialogue: 0,0:06:55.65,0:06:57.18,Default,YUKI,0,0,0,,Master Hitoyoshi...
+Dialogue: 0,0:06:58.12,0:07:02.15,Default,YUKI,0,0,0,,What does it mean to be friends with someone?
+Dialogue: 0,0:07:02.68,0:07:03.37,Default,HITOYOSHI,0,0,0,,Huh?
+Dialogue: 0,0:07:05.70,0:07:08.07,DefaultItalics,NAKA{M},0,0,0,,Friends with Yuki...
+Dialogue: 0,0:07:08.07,0:07:09.58,DefaultItalics,NAKA{M},0,0,0,,Friends...
+Dialogue: 0,0:07:10.11,0:07:15.16,DefaultItalics,NAKA{M},0,0,0,,If Yuki finds out about the real me, \Nwe can still be friends, right?
+Dialogue: 0,0:07:15.90,0:07:17.25,DefaultItalics,NAKA{M},0,0,0,,To make sure of that...
+Dialogue: 0,0:07:17.25,0:07:21.29,DefaultItalics,NAKA{M},0,0,0,,I need to win this competition \Nand show Yuki how useful I can be!
+Dialogue: 0,0:07:22.82,0:07:25.25,DefaultItalics,NAKA{M},0,0,0,,The meeting room of the Katsuda \NFestival Executive Committee...
+Dialogue: 0,0:07:25.82,0:07:27.72,DefaultItalics,NAKA{M},0,0,0,,I'm a little far away, but...
+Dialogue: 0,0:07:28.12,0:07:30.82,DefaultItalics,NAKA{M},0,0,0,,If I concentrate, I should be able \Nto hear them at this distance.
+Dialogue: 0,0:07:32.04,0:07:34.30,DefaultItalics,NAKA{M},0,0,0,,Competition... rules?
+Dialogue: 0,0:07:39.10,0:07:40.65,DefaultItalics,NAKA{M},0,0,0,,Oh, no...
+Dialogue: 0,0:07:43.09,0:07:45.44,Default,EMCEE,0,0,0,,It won't be long before today's main event,
+Dialogue: 0,0:07:45.44,0:07:49.25,Default,EMCEE,0,0,0,,the inter-class cops and robbers \Ncompetition, kicks off for real!
+Dialogue: 0,0:07:49.25,0:07:51.90,Default,EMCEE,0,0,0,,Introducing our very special guest: Nazca!
+Dialogue: 0,0:07:51.90,0:07:56.06,Default,NAZCA,0,0,0,,Hello, Katsuda citizens! \NAre you all enjoying the taste of the sauce?
+Dialogue: 0,0:07:56.06,0:07:57.58,Default,NAZCA,0,0,0,,This is Nazca!
+Dialogue: 0,0:08:01.91,0:08:03.80,Default,EMCEE,0,0,0,,The rules are simple!
+Dialogue: 0,0:08:03.80,0:08:07.30,Default,EMCEE,0,0,0,,If President Hikage captures all the \Nrobbers and throws them into prison,
+Dialogue: 0,0:08:07.30,0:08:08.40,Default,EMCEE,0,0,0,,the cops win!
+Dialogue: 0,0:08:08.40,0:08:10.76,Default,EMCEE,0,0,0,,But if even one robber gets away, \Nthe robbers win!
+Dialogue: 0,0:08:11.02,0:08:13.32,Default,EMCEE,0,0,0,,By the way, a robber can escape from prison
+Dialogue: 0,0:08:13.32,0:08:16.58,Default,EMCEE,0,0,0,,if they're touched by a free robber \Nfrom the same class!
+Dialogue: 0,0:08:16.58,0:08:19.60,Default,NAZCA,0,0,0,,Oh, my. Doesn't this put the robbers \Nat quite the advantage?
+Dialogue: 0,0:08:19.60,0:08:20.35,Default,EMCEE,0,0,0,,That's right!
+Dialogue: 0,0:08:20.35,0:08:23.85,Default,EMCEE,0,0,0,,There's also an additional rule which \NNazca will be announcing. Take it away!
+Dialogue: 0,0:08:23.85,0:08:25.09,Default,NAZCA,0,0,0,,Okay.
+Dialogue: 0,0:08:25.09,0:08:27.54,Default,NAZCA,0,0,0,,As a new rule...
+Dialogue: 0,0:08:28.45,0:08:33.09,Default,NAZCA,0,0,0,,all contestants will be asked to wear \Nwhatever they wore for their class store
+Dialogue: 0,0:08:33.09,0:08:35.32,Default,NAZCA,0,0,0,,while participating.
+Dialogue: 0,0:08:35.81,0:08:39.93,Default,NAKA,0,0,0,,I'm so sorry... If I'd managed to \Nget hold of this information sooner,
+Dialogue: 0,0:08:39.93,0:08:42.16,Default,NAKA,0,0,0,,we might have been able to work around it.
+Dialogue: 0,0:08:42.16,0:08:44.54,Default,NAKA,0,0,0,,I'll be fine, but the two of you...
+Dialogue: 0,0:08:44.87,0:08:48.09,Default,TAIGA,0,0,0,,Uh, I was already planning on \Nparticipating like this, remember?
+Dialogue: 0,0:08:50.60,0:08:52.87,Flashback,HITOYOSHI,0,0,0,,A friend is...
+Dialogue: 0,0:08:54.59,0:08:57.70,Default,YUKI,0,0,0,,Ms. Hikage. You have nothing to apologize for.
+Dialogue: 0,0:08:58.53,0:09:03.29,Default,YUKI,0,0,0,,A friend is someone who lends a hand \Nwhen their friend is in trouble.
+Dialogue: 0,0:09:03.29,0:09:06.40,Default,YUKI,0,0,0,,Let us work together to defeat your brother.
+Dialogue: 0,0:09:06.90,0:09:08.27,Default,NAKA,0,0,0,,Yuki...
+Dialogue: 0,0:09:09.05,0:09:10.15,Default,YUKI,0,0,0,,Besides...
+Dialogue: 0,0:09:10.76,0:09:13.09,Default,HITOYOSHI,0,0,0,,It'll be harder to move in, \Nbut it lets you hide your face.
+Dialogue: 0,0:09:13.09,0:09:15.78,Default,HITOYOSHI,0,0,0,,We wouldn't want another assassin \Nlike Grace catching sight of you.
+Dialogue: 0,0:09:15.78,0:09:20.74,Default,YUKI,0,0,0,,Master Hitoyoshi mentioned that it would be \Nundesirable for my face to appear on TV.
+Dialogue: 0,0:09:20.74,0:09:23.20,Signs,SCREENCAP,0,0,0,,{\an9\bord2\fnTimes New Roman\c&H1C2A37&\3c&HEFF6F0&}Katsuda's Sauce
+Dialogue: 0,0:09:20.99,0:09:23.20,Default,TAIGA,0,0,0,,Katsuda-Man is here!
+Dialogue: 0,0:09:21.03,0:09:22.54,Signs,SCREENCAP,0,0,0,,{\bord1.5\fs20\fnComic Sans MS\c&H270DB3&\pos(551,82)}Katsuda-Man is here!
+Dialogue: 0,0:09:23.20,0:09:26.70,Default,YUKI,0,0,0,,This mascot onesie actually works in my favor.
+Dialogue: 0,0:09:26.70,0:09:29.84,Default,EMCEE,0,0,0,,Now, is everyone ready?!
+Dialogue: 0,0:09:29.84,0:09:32.05,Default,EMCEE,0,0,0,,The time limit is 15 minutes!
+Dialogue: 0,0:09:32.05,0:09:36.26,Default,EMCEE,0,0,0,,Which class will make Student \NCouncil President Hikage eat dirt?!
+Dialogue: 0,0:09:41.50,0:09:44.98,DefaultItalics,TATSU{M},0,0,0,,My little sister is too cute!
+Dialogue: 0,0:09:44.98,0:09:46.28,DefaultItalics,NAKA{M},0,0,0,,Hoppity hop.
+Dialogue: 0,0:09:49.57,0:09:50.86,DefaultItalics,TATSU{M},0,0,0,,Smiley smile.
+Dialogue: 0,0:09:56.02,0:09:57.65,Default,YUKI,0,0,0,,Is something the matter?
+Dialogue: 0,0:09:57.65,0:10:02.33,Default,NAKA,0,0,0,,I'm sorry... If I look at my brother \Nright now, I might freeze in place...
+Dialogue: 0,0:10:02.72,0:10:04.32,DefaultItalics,TATSU{M},0,0,0,,Did she just reject me?
+Dialogue: 0,0:10:04.32,0:10:06.56,DefaultItalics,TATSU{M},0,0,0,,Why is she hiding behind another?
+Dialogue: 0,0:10:06.56,0:10:07.79,DefaultItalics,TATSU{M},0,0,0,,My dear Naka!
+Dialogue: 0,0:10:08.87,0:10:11.50,DefaultItalics,TATSU{M},0,0,0,,That's... Yuki Yokoya!
+Dialogue: 0,0:10:11.50,0:10:13.82,DefaultItalics,TATSU{M},0,0,0,,I see. Yuki Yokoya...
+Dialogue: 0,0:10:13.82,0:10:15.63,DefaultItalics,TATSU{M},0,0,0,,You are the root of all evil!
+Dialogue: 0,0:10:15.63,0:10:17.97,DefaultItalics,TATSU{M},0,0,0,,I will not let your sins go unpunished!
+Dialogue: 0,0:10:17.97,0:10:21.13,Default,EMCEE,0,0,0,,The president sure is fired up this year!
+Dialogue: 0,0:10:21.13,0:10:22.57,Default,NAZCA,0,0,0,,Indeed.
+Dialogue: 0,0:10:22.57,0:10:24.68,DefaultItalics,HITOYOSHI{M},0,0,0,,The president may be at a disadvantage, but...
+Dialogue: 0,0:10:24.68,0:10:26.33,DefaultItalics,HITOYOSHI{M},0,0,0,,I can't shake this feeling of anxiety.
+Dialogue: 0,0:10:26.33,0:10:28.39,Default,RIKO,0,0,0,,Ms. Yuki! Go get 'em!
+Dialogue: 0,0:10:28.82,0:10:32.81,Default,EMCEE,0,0,0,,All right, robbers, please disperse!
+Dialogue: 0,0:10:33.86,0:10:36.19,Default,NISHIKI,0,0,0,,Why does Tatsu look so angry?
+Dialogue: 0,0:10:36.19,0:10:37.19,Default,MIZUCHI,0,0,0,,Who knows?
+Dialogue: 0,0:10:37.47,0:10:39.07,Default,EMCEE,0,0,0,,Uh, excuse me, Enome siblings.
+Dialogue: 0,0:10:39.07,0:10:41.41,Default,EMCEE,0,0,0,,You know you're heading toward the cop, right?
+Dialogue: 0,0:10:42.82,0:10:46.04,Default,NISHIKI,0,0,0,,It's not against the rules \Nto deliberately get caught, is it?
+Dialogue: 0,0:10:46.71,0:10:50.40,Default,NISHIKI,0,0,0,,Sorry, but as members of the student council, \Nwe can't be getting ourselves injured.
+Dialogue: 0,0:10:50.40,0:10:53.86,Default,NISHIKI,0,0,0,,We'll be supporting the president \Nfrom inside the prison.
+Dialogue: 0,0:10:54.46,0:10:56.17,Default,NISHIKI,0,0,0,,So hurry up and begin!
+Dialogue: 0,0:10:56.49,0:10:58.97,Default,EMCEE,0,0,0,,Huh? Oh, okay...
+Dialogue: 0,0:10:59.25,0:11:03.39,Default,EMCEE,0,0,0,,W-Well, then, let's begin the match.
+Dialogue: 0,0:11:04.85,0:11:05.72,Default,MALE STUDENT1,0,0,0,,Man, he's fast!
+Dialogue: 0,0:11:11.85,0:11:14.36,Default,EMCEE,0,0,0,,Oh, this is unexpected!
+Dialogue: 0,0:11:14.36,0:11:17.28,Default,EMCEE,0,0,0,,It's a superhuman power play!
+Dialogue: 0,0:11:17.55,0:11:19.93,Default,RIKO,0,0,0,,What am I looking at? A human bulldozer?!
+Dialogue: 0,0:11:19.93,0:11:21.36,Default,HITOYOSHI,0,0,0,,Don't ask me!
+Dialogue: 0,0:11:21.36,0:11:23.32,Default,EMCEE,0,0,0,,There's nothing that can stop him now!
+Dialogue: 0,0:11:23.32,0:11:25.54,Default,EMCEE,0,0,0,,The robbers are losing \Ntheir will to fight, as well!
+Dialogue: 0,0:11:26.83,0:11:29.00,Default,EMCEE,0,0,0,,My goodness, what do we have here?
+Dialogue: 0,0:11:29.41,0:11:32.83,Default,EMCEE,0,0,0,,We're just three minutes in, \Nand there are only three robbers left!
+Dialogue: 0,0:11:32.83,0:11:35.78,Default,EMCEE,0,0,0,,All three are from Class 1-A's Mascot Café!
+Dialogue: 0,0:11:35.78,0:11:39.03,Default,NAZCA,0,0,0,,Yes! Fight the good fight, Mr. Katsuda's Sauce!
+Dialogue: 0,0:11:40.38,0:11:43.30,Default,TAIGA,0,0,0,,Nazca is looking at me!
+Dialogue: 0,0:11:43.30,0:11:45.09,Default,TAIGA,0,0,0,,She's expecting great things from me!
+Dialogue: 0,0:11:45.09,0:11:47.89,Default,TAIGA,0,0,0,,That's right. Right now, I'm Katsuda-Man.
+Dialogue: 0,0:11:48.24,0:11:51.25,Default,TAIGA,0,0,0,,I'll be taking you down first!
+Dialogue: 0,0:11:51.25,0:11:52.43,Default,TAIGA,0,0,0,,Because I'm...
+Dialogue: 0,0:11:52.43,0:11:55.06,Default,TAIGA,0,0,0,,Katsuda-Man!
+Dialogue: 0,0:11:57.65,0:12:00.58,Default,TATSU,0,0,0,,You'll pay a heavy price \Nfor beguiling my dear Naka,
+Dialogue: 0,0:12:01.38,0:12:02.88,Default,TATSU,0,0,0,,Yuki Yokoya!
+Dialogue: 0,0:12:05.82,0:12:09.04,Default,NAKA,0,0,0,,Y-Yuki, I think we should split up here.
+Dialogue: 0,0:12:09.42,0:12:12.12,Default,YUKI,0,0,0,,No... I believe we are already too late.
+Dialogue: 0,0:12:19.07,0:12:19.92,Default,NAKA,0,0,0,,Yuki!
+Dialogue: 0,0:12:23.67,0:12:25.55,DefaultItalics,TATSU{M},0,0,0,,What's this intense aura I feel?!
+Dialogue: 0,0:12:26.25,0:12:27.16,DefaultItalics,TATSU{M},0,0,0,,In that case...
+Dialogue: 0,0:12:28.72,0:12:31.81,Default,TATSU,0,0,0,,I'll shut you down, here and now!
+Dialogue: 0,0:12:33.69,0:12:36.73,DefaultItalics,NAKA{M},0,0,0,,What should I do? I need to escape... But...
+Dialogue: 0,0:12:37.56,0:12:41.11,Flashback,YUKI {flashback},0,0,0,,Certainly. Let us... be friends.
+Dialogue: 0,0:12:45.71,0:12:47.53,DefaultItalics,TATSU{M},0,0,0,,This smoke... Could it be...
+Dialogue: 0,0:12:53.87,0:12:58.06,Default,EMCEE,0,0,0,,Wh-What the?! What just happened?!
+Dialogue: 0,0:12:58.06,0:12:59.84,Default,NAZCA,0,0,0,,It's an illusion!
+Dialogue: 0,0:12:59.84,0:13:03.13,Default,EMCEE,0,0,0,,One moment, a huge smokescreen appeared,
+Dialogue: 0,0:13:03.13,0:13:06.84,Default,EMCEE,0,0,0,,and the next, the bunny rabbit \Nwent flying into the air instead!
+Dialogue: 0,0:13:07.43,0:13:10.32,DefaultItalics,YUKI{M},0,0,0,,Did Ms. Hikage do that just now?
+Dialogue: 0,0:13:10.32,0:13:12.36,Flashback,HITOYOSHI,0,0,0,,A friend is...
+Dialogue: 0,0:13:12.36,0:13:15.27,Flashback,HITOYOSHI,0,0,0,,someone you can fool around \Nand do stupid stuff with, maybe?
+Dialogue: 0,0:13:15.73,0:13:16.84,Flashback,YUKI,0,0,0,,Stupid stuff...
+Dialogue: 0,0:13:16.84,0:13:19.40,Flashback,HITOYOSHI,0,0,0,,Well, that's just an example.
+Dialogue: 0,0:13:19.40,0:13:21.57,Flashback,HITOYOSHI,0,0,0,,I think there are all \Ndifferent kinds of friendships.
+Dialogue: 0,0:13:21.57,0:13:25.39,Flashback,HITOYOSHI,0,0,0,,They often called my friends and me \N"the three stooges" back then, you see.
+Dialogue: 0,0:13:25.39,0:13:28.78,Flashback,YUKI,0,0,0,,Can you not be friends if you haven't \Nbeen acquainted for a long time already?
+Dialogue: 0,0:13:29.14,0:13:31.64,Flashback,HITOYOSHI,0,0,0,,I don't think that's the case, but...
+Dialogue: 0,0:13:32.81,0:13:36.52,Flashback,HITOYOSHI,0,0,0,,You see, I went through some \Nrough patches in the past,
+Dialogue: 0,0:13:36.52,0:13:39.00,Flashback,HITOYOSHI,0,0,0,,and those two were the only ones \Nwho didn't give up on me.
+Dialogue: 0,0:13:39.00,0:13:42.05,Flashback,HITOYOSHI,0,0,0,,They really changed my life. \NI can't thank them enough.
+Dialogue: 0,0:13:42.05,0:13:48.09,Flashback,HITOYOSHI,0,0,0,,I'm hoping that if they need my help one day, \NI'll be able to do the same for them.
+Dialogue: 0,0:13:48.09,0:13:50.89,Flashback,HITOYOSHI,0,0,0,,That's what friendship means to me.
+Dialogue: 0,0:13:54.88,0:13:58.44,Flashback,NAKA,0,0,0,,Would you... be friends... with me?!
+Dialogue: 0,0:13:59.10,0:14:01.84,DefaultItalics,YUKI{M},0,0,0,,What friendship means to me...
+Dialogue: 0,0:14:02.94,0:14:04.15,DefaultItalics,TATSU{M},0,0,0,,My dear Naka!
+Dialogue: 0,0:14:06.30,0:14:08.54,Default,NISHIKI,0,0,0,,Don't push yourself too much, Naka.
+Dialogue: 0,0:14:08.54,0:14:10.51,Default,NISHIKI,0,0,0,,It's just a cultural festival, you know?
+Dialogue: 0,0:14:10.51,0:14:11.45,Default,NAKA,0,0,0,,No...
+Dialogue: 0,0:14:16.18,0:14:19.04,Default,NAKA,0,0,0,,This is important to me.
+Dialogue: 0,0:14:24.46,0:14:27.34,Default,EMCEE,0,0,0,,And with that bunny toss, \Nwe're at the ten-minute mark!
+Dialogue: 0,0:14:27.34,0:14:29.95,Default,EMCEE,0,0,0,,The president has completely frozen!
+Dialogue: 0,0:14:29.95,0:14:32.30,Default,EMCEE,0,0,0,,What in the world has happened?!
+Dialogue: 0,0:14:32.30,0:14:36.98,Default,RIKO,0,0,0,,Is this one of those standoffs between strong \Nwarriors where whoever moves first loses?!
+Dialogue: 0,0:14:36.98,0:14:39.82,DefaultTop,TATSU {background},0,0,0,,I can't... believe I did that... \Nto my dear Naka...
+Dialogue: 0,0:14:38.05,0:14:42.32,DefaultItalics,HITOYOSHI{M},0,0,0,,He looks like he's in shock to me.
+Dialogue: 0,0:14:39.82,0:14:42.54,DefaultTop,TATSU {background},0,0,0,,with my own hands...
+Dialogue: 0,0:14:42.32,0:14:46.48,DefaultItalics,HITOYOSHI{M},0,0,0,,And more worryingly, \NMs. Yuki looks distracted somehow.
+Dialogue: 0,0:14:46.93,0:14:48.70,Default,TATSU {background},0,0,0,,My dear Naka...
+Dialogue: 0,0:14:49.04,0:14:51.73,DefaultItalics,YUKI{M},0,0,0,,Winning the competition is my top priority.
+Dialogue: 0,0:14:51.73,0:14:54.02,DefaultItalics,YUKI{M},0,0,0,,To do that, I just have to evade him \Nfor two more minutes.
+Dialogue: 0,0:14:54.02,0:14:55.16,DefaultItalics,YUKI{M},0,0,0,,The problem is...
+Dialogue: 0,0:14:55.16,0:14:57.62,DefaultItalics,YUKI{M},0,0,0,,doing so in such a way \Nthat I don't appear on camera.
+Dialogue: 0,0:14:58.38,0:14:59.83,DefaultItalics,YUKI{M},0,0,0,,And, more pressingly...
+Dialogue: 0,0:14:59.83,0:15:03.50,Signs,SCREENCAP,0,0,0,,{\fs20\bord2\fnArial Black\c&H2E3646&\3c&H449CC2&\move(190,2.5,190,91.5,27,3655)}Takoyaki
+Dialogue: 0,0:14:59.83,0:15:03.50,Signs,SCREENCAP,0,0,0,,{\fs20\bord2\fnArial Black\c&H2E3646&\3c&H449CC2&\move(454.5,2.5,454.5,91.5,27,3655)}Takoyaki
+Dialogue: 0,0:15:00.12,0:15:03.50,DefaultItalics,YUKI{M},0,0,0,,bringing myself to evade a man to whom \Nthe scent of Katsuda's Sauce clings.
+Dialogue: 0,0:15:04.03,0:15:06.76,DefaultItalics,YUKI{M},0,0,0,,Did he do this on purpose to make \Nit harder for me to escape?
+Dialogue: 0,0:15:07.95,0:15:09.34,DefaultItalics,YUKI{M},0,0,0,,I can't let my guard down!
+Dialogue: 0,0:15:09.70,0:15:13.54,Default,NISHIKI,0,0,0,,That girl sure is giving Tatsu \Na run for his money, though.
+Dialogue: 0,0:15:13.54,0:15:16.27,Default,NAKA,0,0,0,,Yes! Yuki is amazing!
+Dialogue: 0,0:15:16.27,0:15:20.39,Default,NAKA,0,0,0,,Y-Yuki... Please do your best!
+Dialogue: 0,0:15:25.00,0:15:27.69,Default,EMCEE,0,0,0,,The silence has been broken!
+Dialogue: 0,0:15:27.95,0:15:30.70,Default,EMCEE,0,0,0,,The president and the mysterious wolf \Nare equally matched!
+Dialogue: 0,0:15:30.70,0:15:32.28,Default,EMCEE,0,0,0,,Just who is this person?!
+Dialogue: 0,0:15:32.58,0:15:34.91,DefaultItalics,TATSU{M},0,0,0,,This woman isn't giving an inch!
+Dialogue: 0,0:15:34.91,0:15:37.89,DefaultItalics,YUKI{M},0,0,0,,Takoyaki... Okonomiyaki... Yakisoba...
+Dialogue: 0,0:15:37.89,0:15:39.12,DefaultItalics,YUKI{M},0,0,0,,I'm hungry.
+Dialogue: 0,0:15:39.12,0:15:43.42,Default,TATSU,0,0,0,,I don't know what you're plotting \Nto do with Naka, but...
+Dialogue: 0,0:15:43.42,0:15:49.54,Default,TATSU,0,0,0,,The blood ties between us Hikage siblings \Nare not so easily broken by the likes of you!
+Dialogue: 0,0:15:50.67,0:15:52.38,DefaultItalics,YUKI{M},0,0,0,,I wonder what's for dinner tonight...
+Dialogue: 0,0:15:53.05,0:15:54.84,Default,TATSU,0,0,0,,But what I understand least is...
+Dialogue: 0,0:16:01.27,0:16:05.23,Default,TATSU,0,0,0,,how you can casually hang around my \Nsister as though you're already friends!
+Dialogue: 0,0:16:05.62,0:16:08.44,Default,TATSU,0,0,0,,To be her friend is to be \Nsomeone very special to her.
+Dialogue: 0,0:16:08.74,0:16:11.40,Default,TATSU,0,0,0,,And just what do you know about Naka?
+Dialogue: 0,0:16:11.40,0:16:15.95,Default,TATSU,0,0,0,,Nothing! You don't know anything \Nabout my sister's pain and suffering!
+Dialogue: 0,0:16:15.95,0:16:19.74,Default,TATSU,0,0,0,,It's only a matter of time until \Nyou plunge her into deep despair!
+Dialogue: 0,0:16:21.98,0:16:23.58,Default,YUKI,0,0,0,,Someone...
+Dialogue: 0,0:16:23.88,0:16:28.13,Flashback,YUKI {flashback},0,0,0,,What does it mean to be friends with someone?
+Dialogue: 0,0:16:28.83,0:16:30.38,Default,YUKI,0,0,0,,special...
+Dialogue: 0,0:16:30.38,0:16:33.17,Default,TATSU,0,0,0,,I'll separate you before that happens!
+Dialogue: 0,0:16:38.60,0:16:41.17,Default,NISHIKI,0,0,0,,Huh? She threw Tatsu?!
+Dialogue: 0,0:16:41.17,0:16:42.31,Default,MIZUCHI,0,0,0,,Holy crap...
+Dialogue: 0,0:16:42.31,0:16:46.02,Default,EMCEE,0,0,0,,The president's been tossed on the ground \Nlike a sack of potatoes!
+Dialogue: 0,0:16:46.02,0:16:48.11,Default,EMCEE,0,0,0,,Just who could this mysterious wolf be?!
+Dialogue: 0,0:16:48.11,0:16:49.40,Default,TATSU,0,0,0,,Why, you...
+Dialogue: 0,0:16:49.40,0:16:51.44,Default,TATSU,0,0,0,,You're just going to run away?!
+Dialogue: 0,0:16:52.39,0:16:53.61,Default,TATSU,0,0,0,,You craven coward!
+Dialogue: 0,0:16:53.90,0:16:58.32,Default,EMCEE,0,0,0,,Twenty seconds left! \NIs the wolf going for a prison break?
+Dialogue: 0,0:16:58.61,0:16:59.33,Default,HITOYOSHI,0,0,0,,Ms. Yuki...!
+Dialogue: 0,0:17:05.63,0:17:06.67,Default,YUKI,0,0,0,,Ms. Naka.
+Dialogue: 0,0:17:07.64,0:17:12.88,Default,YUKI,0,0,0,,I answered you earlier without truly \Nunderstanding what friendship is.
+Dialogue: 0,0:17:12.88,0:17:16.18,Default,YUKI,0,0,0,,But now, I understand a little better.
+Dialogue: 0,0:17:16.48,0:17:19.64,Default,YUKI,0,0,0,,Because I have someone special to me, as well.
+Dialogue: 0,0:17:20.10,0:17:25.50,Default,YUKI,0,0,0,,If I can become someone like that to you, \Nthen that is what I want to be.
+Dialogue: 0,0:17:26.26,0:17:28.94,Default,YUKI,0,0,0,,So, allow me to now ask you:
+Dialogue: 0,0:17:28.94,0:17:31.78,Default,YUKI,0,0,0,,will you be my friend?
+Dialogue: 0,0:17:42.45,0:17:45.30,Default,EMCEE,0,0,0,,The match is over!
+Dialogue: 0,0:17:45.30,0:17:48.91,Default,EMCEE,0,0,0,,What an intense match, \Nall the way to the final whistle!
+Dialogue: 0,0:17:50.26,0:17:52.77,Default,RIKO,0,0,0,,Huh? So what just happened?
+Dialogue: 0,0:17:52.77,0:17:54.80,Default,HITOYOSHI,0,0,0,,Our class won, right?
+Dialogue: 0,0:17:54.80,0:17:57.26,Default,HITOYOSHI,0,0,0,,She touched Hikage to save her.
+Dialogue: 0,0:17:57.80,0:17:59.55,Default,HITOYOSHI,0,0,0,,Ms. Yuki probably knew that...
+Dialogue: 0,0:17:59.55,0:18:02.76,Default,RIKO,0,0,0,,But aren't they both in prison now?
+Dialogue: 0,0:18:02.76,0:18:07.21,Default,RIKO,0,0,0,,Ms. Yuki was in prison when \Nthe whistle blew, wasn't she?
+Dialogue: 0,0:18:07.21,0:18:08.68,Default,RIKO,0,0,0,,Could it be that...
+Dialogue: 0,0:18:08.68,0:18:11.94,Default,RIKO,0,0,0,,Ms. Yuki didn't really understand the rules?
+Dialogue: 0,0:18:11.94,0:18:14.17,Default,EMCEE,0,0,0,,The winner is President Hikage!
+Dialogue: 0,0:18:11.94,0:18:18.24,Signs,SCREENCAP,0,0,0,,{\fad(1,310)\bord2\fnArial Black\c&H5475B3&\3c&HF1F4DC&\frz1.53\fax-0.05\move(373,157,373,196.5,25,5990)}Katsuda Festival
+Dialogue: 0,0:18:14.17,0:18:18.66,Default,EMCEE,0,0,0,,The student council, class 2-E, \Nhas won their second year in a row!
+Dialogue: 0,0:18:24.91,0:18:28.34,Default,EMCEE,0,0,0,,And now, let's move on \Nto the competitors' interview!
+Dialogue: 0,0:18:28.34,0:18:30.06,Default,NAZCA,0,0,0,,Have fun!
+Dialogue: 0,0:18:30.06,0:18:31.12,Default,TV CREW,0,0,0,,That's our cue, guys!
+Dialogue: 0,0:18:31.12,0:18:31.63,Default,TV CREW,0,0,0,,Right!
+Dialogue: 0,0:18:31.63,0:18:32.98,Default,HITOYOSHI,0,0,0,,N-Not good!
+Dialogue: 0,0:18:32.98,0:18:37.01,Default,HITOYOSHI,0,0,0,,If Ms. Yuki gets interviewed in her \Ncurrent state, she'll be eaten alive!
+Dialogue: 0,0:18:37.01,0:18:39.26,Default,EMCEE,0,0,0,,President! Mysterious Wolf!
+Dialogue: 0,0:18:39.26,0:18:40.97,Default,EMCEE,0,0,0,,Your thoughts on the competition, please!
+Dialogue: 0,0:18:41.30,0:18:42.43,DefaultItalics,NAKA,0,0,0,,The camera...
+Dialogue: 0,0:18:42.43,0:18:46.06,Flashback,YUKI {flashback},0,0,0,,Master Hitoyoshi mentioned that it would be \Nundesirable for my face to appear on TV.
+Dialogue: 0,0:18:46.06,0:18:48.23,Signs,SCREENCAP,0,0,0,,{\an7\bord2\fnTimes New Roman\c&H1C2A37&\3c&HEFF6F0&}Katsuda's Sauce
+Dialogue: 0,0:18:48.23,0:18:50.35,DefaultItalics,NAKA {M},0,0,0,,I-I have to help Yuki!
+Dialogue: 0,0:18:54.52,0:18:56.48,Default,EMCEE,0,0,0,,That pink smokescreen again!
+Dialogue: 0,0:18:56.48,0:18:59.56,Default,TATSU,0,0,0,,Why, you! What did you make my sister...
+Dialogue: 0,0:19:00.22,0:19:02.54,Default,TAIGA,0,0,0,,Eek! A muscular gorilla?!
+Dialogue: 0,0:19:02.54,0:19:05.66,Default,TATSU,0,0,0,,Damn it! Where did that woman go?!
+Dialogue: 0,0:19:05.66,0:19:06.90,Default,RIKO,0,0,0,,Where's Ms. Yuki?
+Dialogue: 0,0:19:06.90,0:19:08.81,Default,RIKO,0,0,0,,I can't see anything with all this smoke.
+Dialogue: 0,0:19:08.81,0:19:09.92,Default,HITOYOSHI,0,0,0,,Just what is going on?
+Dialogue: 0,0:19:09.92,0:19:11.03,Default,NAKA,0,0,0,,Yokoya!
+Dialogue: 0,0:19:11.50,0:19:14.96,Signs,SCREENCAP,0,0,0,,{\bord2\fnTimes New Roman\c&H1C2A37&\3c&HEFF6F0&}Katsuda's Sauce
+Dialogue: 0,0:19:12.04,0:19:14.02,Default,NAKA,0,0,0,,Yuki is Katsuda-Man.
+Dialogue: 0,0:19:14.02,0:19:14.96,Default,HITOYOSHI,0,0,0,,What?!
+Dialogue: 0,0:19:15.34,0:19:17.86,Default,NAKA,0,0,0,,For now, let's get her away from here.
+Dialogue: 0,0:19:17.86,0:19:19.81,Default,HITOYOSHI,0,0,0,,Okay! Riko, give us a hand!
+Dialogue: 0,0:19:19.81,0:19:20.90,Default,RIKO,0,0,0,,Roger dodger!
+Dialogue: 0,0:19:23.35,0:19:25.12,Default,CROWD{Background},0,0,0,,What? What's going on?
+Dialogue: 0,0:19:26.73,0:19:29.85,Default,NAKA,0,0,0,,I'm sorry. It's my fault we lost.
+Dialogue: 0,0:19:29.85,0:19:33.38,Default,YUKI,0,0,0,,No, it was all due to my own misunderstanding.
+Dialogue: 0,0:19:36.22,0:19:38.00,Default,YUKI,0,0,0,,At the time...
+Dialogue: 0,0:19:38.50,0:19:41.12,Default,YUKI,0,0,0,,all I could think of was saving you.
+Dialogue: 0,0:19:42.45,0:19:45.33,Default,YUKI,0,0,0,,I wanted to be liked by you, too.
+Dialogue: 0,0:19:45.72,0:19:50.18,Default,YUKI,0,0,0,,Let us share the responsibility, \Njust as we share our friendship.
+Dialogue: 0,0:19:51.42,0:19:52.77,Default,NAKA,0,0,0,,Okay!
+Dialogue: 0,0:19:52.77,0:19:53.62,Default,TATSU,0,0,0,,Naka!
+Dialogue: 0,0:19:54.46,0:19:55.80,Default,NAKA,0,0,0,,Dear Brother...
+Dialogue: 0,0:19:55.80,0:19:59.17,Default,TATSU,0,0,0,,You must be exhausted. Let's head home.
+Dialogue: 0,0:19:59.17,0:20:00.83,Default,NAKA,0,0,0,,Y-Yes, sir!
+Dialogue: 0,0:20:02.01,0:20:05.64,DefaultItalics,TATSU{M},0,0,0,,This vixen... Given half a chance, she's \Nalready ingratiating herself to my sister again!
+Dialogue: 0,0:20:06.08,0:20:07.85,DefaultItalics,TATSU{M},0,0,0,,I can't take her lightly!
+Dialogue: 0,0:20:08.18,0:20:09.24,Default,TATSU,0,0,0,,I'll let this slide for now.
+Dialogue: 0,0:20:09.70,0:20:15.13,Default,TATSU,0,0,0,,But in future, Yuki Yokoya, I'll show no mercy \Nto those like you who lead others astray!
+Dialogue: 0,0:20:16.63,0:20:18.47,Default,NAKA,0,0,0,,If you'll excuse us!
+Dialogue: 0,0:20:19.08,0:20:20.14,Default,YUKI,0,0,0,,Ms. Naka.
+Dialogue: 0,0:20:21.38,0:20:23.82,Default,YUKI,0,0,0,,I'll see you again at school.
+Dialogue: 0,0:20:27.85,0:20:30.17,Default,NAKA,0,0,0,,Yes... See you at school!
+Dialogue: 0,0:20:45.22,0:20:46.11,DefaultTop,HITOYOSHI,0,0,0,,Ms. Yuki!
+Dialogue: 0,0:20:47.48,0:20:48.89,DefaultTop,YUKI,0,0,0,,Master Hitoyoshi.
+Dialogue: 0,0:20:48.89,0:20:50.22,DefaultTop,HITOYOSHI,0,0,0,,You're not going to the show?
+Dialogue: 0,0:20:50.66,0:20:52.93,DefaultTop,YUKI,0,0,0,,I am content to watch from here.
+Dialogue: 0,0:20:55.21,0:20:59.12,Default,HITOYOSHI,0,0,0,,Ms. Yuki... Um, are you okay?
+Dialogue: 0,0:20:59.12,0:21:00.12,Default,YUKI,0,0,0,,Huh?
+Dialogue: 0,0:21:00.12,0:21:04.61,DefaultTop,HITOYOSHI,0,0,0,,I thought you might be feeling down, \Nlosing the cops and robbers game and all.
+Dialogue: 0,0:21:08.49,0:21:13.97,DefaultTop,YUKI,0,0,0,,Though I should be feeling disappointment, \NI'm left feeling something else.
+Dialogue: 0,0:21:13.97,0:21:15.00,Default,YUKI,0,0,0,,For some time now—
+Dialogue: 0,0:21:15.48,0:21:19.96,Default,YUKI,0,0,0,,ever since I learned of the Katsuda Festival—\NI've felt this fluttery feeling,
+Dialogue: 0,0:21:19.96,0:21:21.61,Default,YUKI,0,0,0,,like I can't settle down.
+Dialogue: 0,0:21:21.61,0:21:25.43,Default,YUKI,0,0,0,,It's something a little different from what \NI feel when I'm with you, Master Hitoyoshi.
+Dialogue: 0,0:21:25.86,0:21:30.42,DefaultTop,YUKI,0,0,0,,And when the match was over, \Nthe first thing I felt was...
+Dialogue: 0,0:21:32.99,0:21:35.76,Default,HITOYOSHI,0,0,0,,You don't want the festival to end, right?
+Dialogue: 0,0:21:39.52,0:21:43.47,DefaultTop,HITOYOSHI,0,0,0,,From where I'm standing, you looked \Nlike you were having a whole lot of fun.
+Dialogue: 0,0:21:43.47,0:21:46.28,DefaultTop,HITOYOSHI,0,0,0,,You got so excited that you \Neven misunderstood the rules.
+Dialogue: 0,0:21:47.78,0:21:49.28,Default,YUKI,0,0,0,,I see.
+Dialogue: 0,0:21:50.15,0:21:56.18,Default,YUKI,0,0,0,,So this whole time... I was having fun.
+Dialogue: 0,0:21:57.86,0:22:01.42,DefaultTop,YUKI,0,0,0,,It's going to end, isn't it... \NThe cultural festival...
+Dialogue: 0,0:22:01.76,0:22:04.76,Default,HITOYOSHI,0,0,0,,It was our first cultural festival, after all.
+Dialogue: 0,0:22:05.09,0:22:08.49,Default,HITOYOSHI,0,0,0,,We lost this year, \Nbut there's always next year.
+Dialogue: 0,0:22:08.49,0:22:09.39,Default,YUKI,0,0,0,,Next year?
+Dialogue: 0,0:22:09.39,0:22:11.81,Default,HITOYOSHI,0,0,0,,We should really come up \Nwith a thorough plan next time,
+Dialogue: 0,0:22:11.81,0:22:13.93,Default,HITOYOSHI,0,0,0,,and win against the \Npresident's class once and for all!
+Dialogue: 0,0:22:14.77,0:22:18.39,Default,YUKI,0,0,0,,I've never thought as far ahead \Nas next year before.
+Dialogue: 0,0:22:19.05,0:22:21.86,DefaultItalics,YUKI {M},0,0,0,,I'd always lived as though \NI could be killed at any moment.
+Dialogue: 0,0:22:22.40,0:22:26.94,DefaultItalics,YUKI {M},0,0,0,,But here, my former reality \Nfeels as distant as a dream.
+Dialogue: 0,0:22:27.98,0:22:33.53,Default,YUKI {M},0,0,0,,In this world, there is a tomorrow, \Nand a future with infinite possibilities.
+Dialogue: 0,0:22:33.97,0:22:36.79,Default,YUKI {M},0,0,0,,I can think about things like tonight's dinner
+Dialogue: 0,0:22:37.08,0:22:41.83,Default,YUKI {M},0,0,0,,and make arrangements to see others again.
+Dialogue: 0,0:22:42.67,0:22:45.21,Default,HITOYOSHI,0,0,0,,Come to think of it, I'm hungry.
+Dialogue: 0,0:22:45.21,0:22:48.94,Default,HITOYOSHI,0,0,0,,I want to eat tonkatsu for dinner, \Nbut how about you, Ms. Yuki?
+Dialogue: 0,0:22:51.29,0:22:52.74,Default,YUKI,0,0,0,,Yes...
+Dialogue: 0,0:22:54.51,0:22:56.58,Default,YUKI,0,0,0,,I feel the same way.

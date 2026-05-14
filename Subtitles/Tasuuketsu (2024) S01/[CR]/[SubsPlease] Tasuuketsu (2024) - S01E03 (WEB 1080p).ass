@@ -1,0 +1,418 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default-Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics-Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Emperor,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Show Title,Trebuchet MS,40,&H00343533,&H0000FFFF,&HFFFFFFFF,&H00EFE8D1,0,0,0,0,100,100,1,0,1,0,0,8,20,20,70,0
+Style: Next Ep Title,Trebuchet MS,20,&H14FFFFFF,&H008B3081,&H28000000,&H20000000,-1,0,0,0,95,100,0,0,1,0,0,3,20,50,10,0
+Style: White-Standard,Arial,25,&H00FFFFFF,&H0000FFFF,&H30000000,&H79000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,70,0
+Style: Black-Standard,Arial,19,&H00000000,&H0000FFFF,&H00FFFFFF,&H9A000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: shopping,Arial,19,&H0FFFFFFF,&H0000FFFF,&H00887CBF,&H9A000000,-1,0,0,0,100,100,0,0,1,3,0,8,20,20,20,0
+Style: Comp small -an9,Arial,21,&H24FFFFFF,&H0000FFFF,&H70FFFFFF,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,9,20,20,20,0
+Style: Comp big-an8,Arial,24,&H00FFFFFF,&H0000FFFF,&H70FFFFFF,&H7F404040,0,0,0,0,100,100,0,0,1,1,0,8,20,20,20,0
+Style: Comp big-an8 - closeup blue,Arial,24,&H00FAE5D4,&H0000FFFF,&H70FAE5D4,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,8,20,20,20,0
+Style: Phone,Verdana,24,&H00C66A18,&H0000FFFF,&H70FFFFFF,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,8,20,20,20,0
+Style: Board,Arial,24,&H002B2D28,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,7,20,20,20,0
+Style: georgia,Trebuchet MS,20,&H002B2D28,&H0000FFFF,&H00CAD1D5,&H7F404040,-1,0,0,0,100,100,0,0,1,4,0,8,20,20,20,0
+Style: Label,Verdana,24,&H00FFFFFF,&H0000FFFF,&H000C0F0C,&H7F404040,-1,0,0,0,100,100,0,0,3,4,0,2,20,20,20,0
+Style: Label-small,Verdana,15,&H00FFFFFF,&H0000FFFF,&H000C0F0C,&H7F404040,-1,0,0,0,100,100,0,0,3,4,0,2,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.53,0:00:04.34,Default,Saneatsu,0,0,0,,Saaya!
+Dialogue: 0,0:00:04.34,0:00:06.28,Default,Saaya,0,0,0,,Oh, Saneatsu.
+Dialogue: 0,0:00:06.28,0:00:08.25,Default,Saneatsu,0,0,0,,I met with Sudo Senpai.
+Dialogue: 0,0:00:08.25,0:00:08.90,Default,Saaya,0,0,0,,What?!
+Dialogue: 0,0:00:14.70,0:00:17.40,Default,,0,0,0,,{\fad(250,0)\fs20\b1\c&H7000CE&\3c&HF5CCFB&\bord2\pos(320,110)}Tasuketsu: Fate of the Majority
+Dialogue: 0,0:00:17.40,0:00:20.08,Default,,0,0,0,,{\fad(250,0)\fs20\b1\c&H7000CE&\3c&HF5CCFB&\bord2\pos(320,110)}Tasuketsu: Fate of the Majority
+Dialogue: 0,0:00:20.08,0:00:24.74,Default,,0,0,0,,{\fad(250,0)\fs20\b1\c&H7000CE&\3c&HF5CCFB&\bord2\pos(320,110)}Tasuketsu: Fate of the Majority
+Dialogue: 0,0:01:40.17,0:01:41.90,Default,Shinozaki,0,0,0,,You want to change our plans?
+Dialogue: 0,0:01:41.90,0:01:42.67,Default,Saaya,0,0,0,,Yes.
+Dialogue: 0,0:01:43.00,0:01:46.54,Default,Saaya,0,0,0,,Saneatsu didn't have enough time \Nto search for postboxes, so...
+Dialogue: 0,0:01:47.25,0:01:50.08,Default,Saaya,0,0,0,,He wants to search this \Narea again in the afternoon.
+Dialogue: 0,0:01:50.08,0:01:50.63,Default,Kazuhiko,0,0,0,,Sup!
+Dialogue: 0,0:01:50.63,0:01:51.51,Default,Omi,0,0,0,,Sato-kun!
+Dialogue: 0,0:01:51.51,0:01:53.30,Default,Kazuhiko,0,0,0,,I'm like Saneatsu!
+Dialogue: 0,0:01:53.30,0:01:54.93,Default,Kazuhiko,0,0,0,,You can call me Kazuhiko!
+Dialogue: 0,0:01:55.70,0:01:57.48,Default,Kazuhiko,0,0,0,,Come on, give it a go.
+Dialogue: 0,0:01:57.48,0:01:58.48,Default-Top,Omi,0,0,0,,Wah!
+Dialogue: 0,0:01:57.48,0:01:58.48,Default,Eren,0,0,0,,So childish.
+Dialogue: 0,0:01:58.48,0:01:59.54,Default,Kazuhiko,0,0,0,,Not quite!
+Dialogue: 0,0:01:59.54,0:02:00.63,Default,Saneatsu,0,0,0,,Senpai.
+Dialogue: 0,0:02:01.20,0:02:04.44,Default,Saneatsu,0,0,0,,Senpai, you opened my \Nenvelope of Rights, didn't you?
+Dialogue: 0,0:02:04.44,0:02:05.44,Default,Eren,0,0,0,,Wha—
+Dialogue: 0,0:02:05.44,0:02:09.12,Default,Saneatsu,0,0,0,,I'm not mad or anything. \NI just wanted to ask for the truth.
+Dialogue: 0,0:02:09.12,0:02:12.19,Default,Eren,0,0,0,,Y-Yeah, so what? It made no sense!
+Dialogue: 0,0:02:12.19,0:02:14.70,White-Standard,Sign,0,0,0,,{\pos(128,295)}C\NO\NM\NP\NL\NI\NA\NN\NC\NE
+Dialogue: 1,0:02:12.19,0:02:14.70,Default,Eren,0,0,0,,It said something about "compliance", \Nwhatever that means.
+Dialogue: 0,0:02:15.43,0:02:17.91,Italics,Saneatsu,0,0,0,,So there's no risk involving normal Rights...
+Dialogue: 0,0:02:18.39,0:02:20.29,Default,Eren,0,0,0,,S-Sorry.
+Dialogue: 0,0:02:21.09,0:02:22.75,Default,Saneatsu,0,0,0,,Never mind that, Senpai.
+Dialogue: 0,0:02:22.75,0:02:25.09,Default,Saneatsu,0,0,0,,Could you try telling me \Nto "raise my right arm"?
+Dialogue: 0,0:02:26.22,0:02:27.84,Default,Eren,0,0,0,,Raise your right arm.
+Dialogue: 0,0:02:29.46,0:02:31.80,Default,Saneatsu,0,0,0,,Senpai, now try the left side.
+Dialogue: 0,0:02:31.80,0:02:34.01,Default,Eren,0,0,0,,Why? What's this for?
+Dialogue: 0,0:02:34.01,0:02:37.26,Italics,Saneatsu,0,0,0,,Don't do it. Don't do it. \NDon't do it. Don't do it. Don't do it!
+Dialogue: 0,0:02:37.57,0:02:39.22,Default,Eren,0,0,0,,Raise your left arm.
+Dialogue: 0,0:02:40.78,0:02:43.78,Italics,Saneatsu,0,0,0,,I stopped it! Just like I thought.
+Dialogue: 0,0:02:43.78,0:02:48.02,Italics,Saneatsu,0,0,0,,Prime Rights have absolute force \Nwhile Rights don't.
+Dialogue: 0,0:02:48.50,0:02:50.94,Italics,Saneatsu,0,0,0,,With enough willpower, \NRights can be negated!
+Dialogue: 0,0:02:51.27,0:02:53.57,Default,Eren,0,0,0,,Hey! What was all that about?
+Dialogue: 0,0:02:53.57,0:02:58.20,Default,Saneatsu,0,0,0,,Um, so it looks like you've gained \Nthe Right of Compliance.
+Dialogue: 0,0:02:58.60,0:03:03.13,Default,Saneatsu,0,0,0,,Think of it like magic powers \Nto make others obey your command.
+Dialogue: 0,0:03:03.13,0:03:05.54,Default,Eren,0,0,0,,That's... awesome!
+Dialogue: 0,0:03:05.54,0:03:06.83,Italics,Saneatsu,0,0,0,,I don't like that look!
+Dialogue: 0,0:03:06.83,0:03:09.50,Default,Eren,0,0,0,,Thanks for teaching me this stuff.
+Dialogue: 0,0:03:09.50,0:03:14.34,Default,Eren,0,0,0,,You know, Sensei said you weren't too smart, \Nbut I think you catch on quick.
+Dialogue: 0,0:03:14.34,0:03:15.49,Default,Saneatsu,0,0,0,,Sure...
+Dialogue: 0,0:03:16.22,0:03:18.64,Default,Saaya,0,0,0,,All right, let's start our afternoon search!
+Dialogue: 0,0:03:18.64,0:03:20.39,Default,Saaya,0,0,0,,We'll meet back up at 5:00pm!
+Dialogue: 0,0:03:20.39,0:03:24.18,Default,Saneatsu,0,0,0,,According to the map, \Nit should be around here...
+Dialogue: 0,0:03:28.08,0:03:29.48,Default,Saneatsu,0,0,0,,Like I thought!
+Dialogue: 0,0:03:30.87,0:03:34.69,Default,Omi,0,0,0,,Fujishiro-san, ya said \Nsomething about a favor...
+Dialogue: 0,0:03:35.03,0:03:36.03,Default,Saaya,0,0,0,,You see...
+Dialogue: 0,0:03:38.52,0:03:40.16,Default,Saneatsu,0,0,0,,Sorry I'm late!
+Dialogue: 0,0:03:40.16,0:03:42.49,Default,Kazuhiko,0,0,0,,Jeez, Sorry-atsu!
+Dialogue: 0,0:03:42.49,0:03:44.62,Default,Shinozaki,0,0,0,,Narita, have you seen Fujishiro?
+Dialogue: 0,0:03:44.62,0:03:46.79,Default,Saneatsu,0,0,0,,No... Is something the matter?
+Dialogue: 0,0:03:46.79,0:03:50.75,Default,Eren,0,0,0,,She hasn't come back yet. \NIt's already past five.
+Dialogue: 0,0:03:50.75,0:03:56.09,Default,Saneatsu,0,0,0,,Let's wait. If we leave here now, \Nshe may never be able to find us.
+Dialogue: 0,0:03:56.41,0:03:57.68,Default,Shinozaki,0,0,0,,You're right...
+Dialogue: 0,0:03:57.68,0:03:58.92,Default,Eren,0,0,0,,I second that.
+Dialogue: 0,0:03:58.92,0:03:59.93,Default,Omi,0,0,0,,Mm-yup.
+Dialogue: 0,0:04:00.44,0:04:02.73,Default,Kazuhiko,0,0,0,,So what? Should we search this area again?
+Dialogue: 0,0:04:02.73,0:04:10.69,Default,Saneatsu,0,0,0,,Or... Maybe we should think of what to do \Nif Saaya doesn't come back, don't you think?
+Dialogue: 0,0:04:10.69,0:04:13.32,Italics,Omi,0,0,0,,Fujishiro-san's favor... This is it!
+Dialogue: 0,0:04:13.94,0:04:19.45,Default,Omi,0,0,0,,Yeah, he's right. We gotta decide \Nat what point to move on.
+Dialogue: 0,0:04:19.45,0:04:24.21,Italics,Saneatsu,0,0,0,,Perfect, he got my sign. \NHe's following my lead.
+Dialogue: 0,0:04:24.60,0:04:25.84,Default,Saneatsu,0,0,0,,That's true...
+Dialogue: 0,0:04:25.84,0:04:29.71,Default,Saneatsu,0,0,0,,We can't wait forever, and we need \Nto make the call sooner or later.
+Dialogue: 0,0:04:29.71,0:04:32.13,Default,Eren,0,0,0,,Then we could wait till midnight...
+Dialogue: 0,0:04:32.44,0:04:34.77,Default,Omi,0,0,0,,Or! A bit later?
+Dialogue: 0,0:04:35.57,0:04:39.53,Default,Saneatsu,0,0,0,,Then let's wait here until 5:00am. \NHow's that sound?
+Dialogue: 0,0:04:39.53,0:04:40.84,Default,Omi,0,0,0,,Mm-yup.
+Dialogue: 0,0:04:41.16,0:04:44.35,Default,Shinozaki,0,0,0,,Good. So the time limit \Nis 5:00am tomorrow morning.
+Dialogue: 0,0:04:45.55,0:04:48.21,Flashback,Saneatsu,0,0,0,,What?! You've found the postbox for today?
+Dialogue: 0,0:04:48.21,0:04:50.56,Flashback,Sudo,0,0,0,,That's right. The questions \Nhave been submitted, too.
+Dialogue: 0,0:04:50.56,0:04:52.42,Flashback,Saneatsu,0,0,0,,Wh-What sort of questions?
+Dialogue: 0,0:04:52.42,0:04:54.77,Flashback,Sudo,0,0,0,,I included a few questions \Nto test the waters.
+Dialogue: 0,0:04:54.77,0:04:59.65,Comp big-an8,Sign,0,0,0,,{\pos(320,31)}"Wooden structures or non-wooden structures?"
+Dialogue: 0,0:04:55.22,0:04:58.95,Flashback,Sudo,0,0,0,,The third ensures \Nthat we're in the minority.
+Dialogue: 0,0:04:56.03,0:04:59.65,Comp big-an8,Sign,0,0,0,,{\pos(320,126)}"Dyed rainbow hair or light-green hair?"
+Dialogue: 0,0:04:58.03,0:04:59.65,Comp big-an8,Sign,0,0,0,,{\pos(320,211)}"Age 40 under or over?"
+Dialogue: 0,0:04:59.98,0:05:02.39,Flashback,Sudo,0,0,0,,So there's no need to search \Nfor postboxes today.
+Dialogue: 0,0:05:02.39,0:05:04.70,Flashback,Sudo,0,0,0,,Focus on identifying the infiltrator.
+Dialogue: 0,0:05:06.27,0:05:09.10,Default,Shinozaki,0,0,0,,It's about time. There's a question coming.
+Dialogue: 0,0:05:10.13,0:05:13.71,Emperor,Emperor,0,0,0,,It's time. We will now begin \Ntallying the majority.
+Dialogue: 0,0:05:14.09,0:05:15.17,Default,Omi,0,0,0,,I reject.
+Dialogue: 0,0:05:16.13,0:05:18.46,Comp small -an9,Sign,0,0,0,,{\pos(610,14)}Prime Rights: 12 left\NRights: 45 left
+Dialogue: 0,0:05:16.13,0:05:18.46,Comp big-an8,Sign,0,0,0,,{\pos(320,91)}40 years of age
+Dialogue: 0,0:05:16.13,0:05:18.46,Comp big-an8,Sign,0,0,0,,{\pos(320,174)}Under or Over
+Dialogue: 0,0:05:16.13,0:05:18.46,Comp small -an9,Sign,0,0,0,,{\an1\pos(30,327)}1,081,990 people left
+Dialogue: 0,0:05:18.46,0:05:20.90,Italics,Saneatsu,0,0,0,,Sudo Senpai was right!
+Dialogue: 0,0:05:20.90,0:05:22.96,Italics,Saneatsu,0,0,0,,This means questions can only target people,
+Dialogue: 0,0:05:22.96,0:05:26.35,Italics,Saneatsu,0,0,0,,and questions that leave room \Nfor other responses become null.
+Dialogue: 0,0:05:26.35,0:05:29.18,Comp big-an8,Sign,0,0,0,,{\fad(1,360)\fs30\pos(322,242)}Nakano Ward
+Dialogue: 0,0:05:26.35,0:05:31.14,Comp big-an8,Sign,0,0,0,,{\pos(320,70)}Today's Area
+Dialogue: 0,0:05:26.66,0:05:28.68,Emperor,Emperor,0,0,0,,We've passed midnight.
+Dialogue: 0,0:05:29.18,0:05:31.14,Comp big-an8,Sign,0,0,0,,{\fad(360,1)\fs30\pos(322,242)}Itabashi Ward
+Dialogue: 0,0:05:32.13,0:05:33.80,Default,Kazuhiko,0,0,0,,We made it!
+Dialogue: 0,0:05:34.61,0:05:39.07,Default,Saneatsu,0,0,0,,Hey, guys. What do you say we choose \Nour routes for tomorrow ahead of time?
+Dialogue: 0,0:05:39.55,0:05:41.66,Default,Saneatsu,0,0,0,,We'll be waiting for Saaya \Nuntil the last minute.
+Dialogue: 0,0:05:41.66,0:05:44.57,Default,Saneatsu,0,0,0,,Might as well come up with a plan \Nto make things smoother tomorrow.
+Dialogue: 0,0:05:44.84,0:05:47.08,Default,Omi,0,0,0,,Mm-yup. I'm on board.
+Dialogue: 0,0:05:47.08,0:05:49.05,Default,Eren,0,0,0,,Sensei, could you take the lead?
+Dialogue: 0,0:05:49.05,0:05:50.58,Default,Shinozaki,0,0,0,,S-Sure...
+Dialogue: 0,0:05:50.90,0:05:54.11,Default,Saneatsu,0,0,0,,We'll search north of Narimasu Station \Nalong the Tobu Tojo Line in the morning.
+Dialogue: 0,0:05:54.11,0:05:57.07,Default,Saneatsu,0,0,0,,Then go to Ukimafunado Station along \Nthe Saikyo Line in the afternoon.
+Dialogue: 0,0:05:57.07,0:06:00.55,Default,Saneatsu,0,0,0,,And pass through Tokiwadai to head to \NCity Hall in the evening to spend the night.
+Dialogue: 0,0:06:00.99,0:06:03.94,Default,Saneatsu,0,0,0,,That way, we can do \Na widespread search efficiently
+Dialogue: 0,0:06:03.94,0:06:06.23,Default,Saneatsu,0,0,0,,and end the day in the inner city.
+Dialogue: 0,0:06:06.23,0:06:08.51,Default,Shinozaki,0,0,0,,Great. Let's go with that route tomorrow.
+Dialogue: 0,0:06:09.68,0:06:11.31,Default,Kazuhiko,0,0,0,,Let me practice in my mind...
+Dialogue: 0,0:06:11.31,0:06:12.59,Default,Saneatsu,0,0,0,,Great, I'll be right back.
+Dialogue: 0,0:06:12.59,0:06:13.31,Default,Kazuhiko,0,0,0,,Huh?
+Dialogue: 0,0:06:13.31,0:06:14.31,Default,Saneatsu,0,0,0,,I'm just going to the bathroom!
+Dialogue: 0,0:06:14.31,0:06:16.08,Default,Kazuhiko,0,0,0,,Okay, "Dump-atsu".
+Dialogue: 0,0:06:24.93,0:06:27.80,Default,Saneatsu,0,0,0,,N.S. here, calling F.S. on standby.
+Dialogue: 0,0:06:27.80,0:06:30.33,Default,Saneatsu,0,0,0,,Route incoming. Follow along with map...
+Dialogue: 0,0:06:31.01,0:06:33.79,Flashback,Saneatsu,0,0,0,,I'll contact you through the radio \Nstation that's still functional.
+Dialogue: 0,0:06:34.24,0:06:38.00,Flashback,Saneatsu,0,0,0,,Set the frequency to this and wait \Nfor my call with the radio turned on.
+Dialogue: 0,0:06:40.11,0:06:42.91,Default,Eren,0,0,0,,Why didn't you come back, Saaya?
+Dialogue: 0,0:06:42.91,0:06:45.51,Default,Eren,0,0,0,,Just when I thought we were getting close!
+Dialogue: 0,0:06:46.23,0:06:49.64,Default,Shinozaki,0,0,0,,I doubt she can search \Nfor postboxes in that state...
+Dialogue: 0,0:06:49.64,0:06:50.90,Default,Shinozaki,0,0,0,,Kunashiri, you stay here and—
+Dialogue: 0,0:06:50.90,0:06:52.97,Default,Eren,0,0,0,,Oh my {\i1}God!{\i0} Leave me alone!
+Dialogue: 0,0:06:53.43,0:06:57.06,Default,Shinozaki,0,0,0,,So here's how we'll split up. \NI'll search north.
+Dialogue: 0,0:06:57.37,0:06:58.69,Default,Shinozaki,0,0,0,,Jin, you look on the west side.
+Dialogue: 0,0:06:58.69,0:07:00.07,Default,Shinozaki,0,0,0,,Narita, you head south.
+Dialogue: 0,0:07:00.07,0:07:01.57,Default,Shinozaki,0,0,0,,Sato, you go east.
+Dialogue: 0,0:07:09.09,0:07:11.24,Default,Omi,0,0,0,,Don't see one anywhere...
+Dialogue: 0,0:07:18.54,0:07:21.21,Default,Shinozaki,0,0,0,,I finally found you, traitor!
+Dialogue: 0,0:07:21.21,0:07:23.80,Default,Omi,0,0,0,,Huh? S-Sensei?
+Dialogue: 0,0:07:24.15,0:07:26.69,Default,Omi,0,0,0,,What? Traitor?
+Dialogue: 0,0:07:26.69,0:07:27.51,Default,Shinozaki,0,0,0,,Souma!
+Dialogue: 0,0:07:29.52,0:07:30.74,Default,Souma,0,0,0,,Don't cause a scene.
+Dialogue: 0,0:07:31.38,0:07:33.18,Default,Shinozaki,0,0,0,,I've been looking for you...
+Dialogue: 0,0:07:33.53,0:07:35.65,Default,Shinozaki,0,0,0,,Owner of the Rejection Right.
+Dialogue: 0,0:07:36.48,0:07:39.34,Default,Shinozaki,0,0,0,,Earlier this year, a source told me I could \Nfind the owner of the Rejection Right
+Dialogue: 0,0:07:39.34,0:07:41.41,Default,Shinozaki,0,0,0,,at Suginami Daini High School...
+Dialogue: 0,0:07:41.41,0:07:44.07,Default,Shinozaki,0,0,0,,I did everything in my power \Nto gather information from them
+Dialogue: 0,0:07:44.58,0:07:47.70,Default,Shinozaki,0,0,0,,and transfer to the school.
+Dialogue: 0,0:07:48.20,0:07:52.61,Default,Shinozaki,0,0,0,,Sudo's outburst was based on his assumption \Nthat you were the Emperor.
+Dialogue: 0,0:07:52.61,0:07:54.54,Default,Shinozaki,0,0,0,,Only one thing could warrant that...
+Dialogue: 0,0:07:54.54,0:08:00.04,Default,Shinozaki,0,0,0,,You're the owner of a Prime Right! \NThe Rejection Right to be exact!
+Dialogue: 0,0:08:00.76,0:08:04.76,Default,Shinozaki,0,0,0,,Everyday, while your team \Nwas helpless before Tasuketsu...
+Dialogue: 0,0:08:04.76,0:08:09.26,Default,Shinozaki,0,0,0,,You were exercising your Rejection Right \Nto exempt yourself, weren't you?
+Dialogue: 0,0:08:09.81,0:08:12.86,Default,Shinozaki,0,0,0,,If that's not betraying your friends, what is?
+Dialogue: 0,0:08:13.51,0:08:17.51,Default,Shinozaki,0,0,0,,This man is Souma, owner of a Prime Right \Nwith the Production Attribute.
+Dialogue: 0,0:08:17.51,0:08:21.64,Default,Shinozaki,0,0,0,,Do as he says, and you \Nand your friends will be safe.
+Dialogue: 0,0:08:21.64,0:08:24.92,Default,Shinozaki,0,0,0,,If you refuse, we have no choice \Nbut to use Souma's Prime Right.
+Dialogue: 0,0:08:25.98,0:08:29.24,Default,Shinozaki,0,0,0,,You know what to do \Nif you care about your friends.
+Dialogue: 0,0:08:29.56,0:08:30.79,Default,Shinozaki,0,0,0,,Right, traitor?
+Dialogue: 0,0:08:30.79,0:08:34.95,Default,Saneatsu,0,0,0,,No, you're the traitor, Shinozaki Sensei!
+Dialogue: 0,0:08:34.95,0:08:36.95,Default,,0,0,0,,{\fs20\b1\c&H7000CE&\3c&HF5CCFB&\bord2\pos(490,240)}Tasuketsu: Fate of the Majority\N
+Dialogue: 0,0:08:39.36,0:08:42.98,Default,Shinozaki,0,0,0,,Narita? You were listening?
+Dialogue: 0,0:08:43.63,0:08:46.21,Default,Saneatsu,0,0,0,,Yes, from the very beginning.
+Dialogue: 0,0:08:48.41,0:08:52.29,Default,Saneatsu,0,0,0,,Yesterday, Sudo Senpai told me \Nabout an infiltrator in our group...
+Dialogue: 0,0:08:52.29,0:08:53.98,Default,Saneatsu,0,0,0,,which brings us here.
+Dialogue: 0,0:08:53.98,0:08:55.60,Default,Shinozaki,0,0,0,,What do you mean?
+Dialogue: 0,0:08:56.10,0:08:59.21,Default,Saneatsu,0,0,0,,Senpai also suspected Omi was the Emperor.
+Dialogue: 0,0:09:00.23,0:09:05.29,Default,Saneatsu,0,0,0,,Omi... you've been wearing those \Nearphones since we met back up.
+Dialogue: 0,0:09:05.29,0:09:09.85,Default,Saneatsu,0,0,0,,And you've had that band-aid on \Nyour right cheek since we first met.
+Dialogue: 0,0:09:10.61,0:09:12.60,Default,Saneatsu,0,0,0,,Senpai's theory is this:
+Dialogue: 0,0:09:12.60,0:09:18.09,Default,Saneatsu,0,0,0,,Omi Jin exchanged the hearing \Nin his right ear for a Prime Right.
+Dialogue: 0,0:09:18.87,0:09:23.25,Default,Saneatsu,0,0,0,,And you, Sensei... \NCould you take your glasses off?
+Dialogue: 0,0:09:25.07,0:09:26.80,Default,Saneatsu,0,0,0,,You sacrificed your right eye
+Dialogue: 0,0:09:26.80,0:09:29.72,Default,Saneatsu,0,0,0,,in exchange for a Prime Right \Nrelated to vision, didn't you?
+Dialogue: 0,0:09:30.67,0:09:32.97,Default,Saneatsu,0,0,0,,That day we first came \Ntogether as a group...
+Dialogue: 0,0:09:32.97,0:09:36.97,Default,Saneatsu,0,0,0,,How did the President arrive \Nat school earlier than everyone else
+Dialogue: 0,0:09:36.97,0:09:39.33,Default,Saneatsu,0,0,0,,when the trains were stopped?
+Dialogue: 0,0:09:39.92,0:09:42.12,Default,Saneatsu,0,0,0,,You must have driven him there.
+Dialogue: 0,0:09:42.12,0:09:44.06,Default,Shinozaki,0,0,0,,That's ridiculous.
+Dialogue: 0,0:09:44.06,0:09:46.61,Default,Shinozaki,0,0,0,,Why on earth would I pick up Yagihashi
+Dialogue: 0,0:09:46.61,0:09:48.56,Default,Shinozaki,0,0,0,,when I don't even know \Nif he saw the original question?
+Dialogue: 0,0:09:48.95,0:09:52.15,Default,Shinozaki,0,0,0,,For starters, I saw the same \Nscreen you two saw.
+Dialogue: 0,0:09:52.50,0:09:54.87,Default,Saneatsu,0,0,0,,See, that's just an assumption.
+Dialogue: 0,0:09:54.87,0:09:58.37,Default,Saneatsu,0,0,0,,The test run never said the screens \Nwere displayed simultaneously worldwide.
+Dialogue: 0,0:09:59.61,0:10:01.73,Default,Saneatsu,0,0,0,,I heard from Saaya.
+Dialogue: 0,0:10:01.73,0:10:05.53,Default,Saneatsu,0,0,0,,Apparently, you told the President \Nto digitize the contact network.
+Dialogue: 0,0:10:05.98,0:10:10.13,Default,Saneatsu,0,0,0,,And you authorized using the computer \Nscience classroom outside school hours
+Dialogue: 0,0:10:10.13,0:10:11.34,Default,Saneatsu,0,0,0,,and even supervised it.
+Dialogue: 0,0:10:11.70,0:10:14.99,Default,Saneatsu,0,0,0,,In that case, it's entirely possible \Nthat the first question
+Dialogue: 0,0:10:14.99,0:10:17.04,Default,Saneatsu,0,0,0,,happened to pop up during your time there.
+Dialogue: 0,0:10:18.58,0:10:21.39,Default,Saneatsu,0,0,0,,Even after the President's death, \Nyou remained the assistant leader,
+Dialogue: 0,0:10:21.39,0:10:23.70,Default,Saneatsu,0,0,0,,as if there was no other choice.
+Dialogue: 0,0:10:23.70,0:10:26.74,Default,Saneatsu,0,0,0,,And next you were planning \Nwhat to do about Saaya,
+Dialogue: 0,0:10:26.74,0:10:30.36,Default,Saneatsu,0,0,0,,so I asked her to leave the group yesterday.
+Dialogue: 0,0:10:31.15,0:10:34.20,Default,Saneatsu,0,0,0,,So I could observe what you'd do in response.
+Dialogue: 0,0:10:34.74,0:10:40.31,Default,Shinozaki,0,0,0,,Isn't that a bit much, Narita? Sacrificing \NFujishiro just to expose my plans?
+Dialogue: 0,0:10:40.90,0:10:43.62,Default,Saneatsu,0,0,0,,She's actually not missing at all.
+Dialogue: 0,0:10:43.62,0:10:44.52,Default,Shinozaki,0,0,0,,Impossible!
+Dialogue: 0,0:10:44.52,0:10:46.91,Default,Saneatsu,0,0,0,,I've already contacted her \Nthrough radio transmission.
+Dialogue: 0,0:10:46.91,0:10:49.00,Default,Saneatsu,0,0,0,,We decided our route yesterday, remember?
+Dialogue: 0,0:10:49.46,0:10:52.51,Italics,Shinozaki,0,0,0,,Radio transmission? \NWhat's going on here?!
+Dialogue: 0,0:10:52.84,0:10:58.29,Default,Saneatsu,0,0,0,,Sensei, I heard you told Eren Senpai \Nthat I'm not smart, but you should know...
+Dialogue: 0,0:10:58.67,0:11:02.33,Default,Saneatsu,0,0,0,,I'm actually known for my brains \Nand athletic skill in my class.
+Dialogue: 0,0:11:02.33,0:11:06.02,Default,Saneatsu,0,0,0,,Although I'm Sorry-atsu \Nwhen it comes to computers.
+Dialogue: 0,0:11:06.53,0:11:08.15,Italics,Shinozaki,0,0,0,,Of all people...
+Dialogue: 0,0:11:08.52,0:11:10.96,Italics,Shinozaki,0,0,0,,I was ambushed by Narita?!
+Dialogue: 0,0:11:11.72,0:11:15.24,Default,Saneatsu,0,0,0,,If there's anything else you're hiding, \Nplease tell us now.
+Dialogue: 0,0:11:15.24,0:11:18.04,Default,Saneatsu,0,0,0,,And I hope you change \Nfrom the bottom of your heart.
+Dialogue: 0,0:11:18.47,0:11:21.37,Default,Saneatsu,0,0,0,,Traitor or not, you're still our teacher.
+Dialogue: 0,0:11:21.76,0:11:24.79,Default,Shinozaki,0,0,0,,Unfortunately, that's not an option...
+Dialogue: 0,0:11:26.65,0:11:28.54,Default,Shinozaki,0,0,0,,Prime Right of Visualization...
+Dialogue: 0,0:11:29.00,0:11:31.37,Default,Shinozaki,0,0,0,,With this, I can search for postboxes.
+Dialogue: 0,0:11:31.37,0:11:33.94,Default,Shinozaki,0,0,0,,Anyone that gets in the way will be \Neliminated with Souma's Prime Right.
+Dialogue: 0,0:11:33.94,0:11:36.84,Default,Shinozaki,0,0,0,,And with Jin's Prime Right, \Nwe can be exempt from Tasuketsu.
+Dialogue: 0,0:11:37.35,0:11:41.13,Italics,Omi,0,0,0,,He's wrong. The Rejection \NRight can't be used by others.
+Dialogue: 0,0:11:41.72,0:11:45.41,Default,Shinozaki,0,0,0,,After that, all I need is higher ground \Nto watch over the city.
+Dialogue: 0,0:11:46.41,0:11:47.48,Default,Shinozaki,0,0,0,,Listen to me!
+Dialogue: 0,0:11:47.48,0:11:50.83,Default,Shinozaki,0,0,0,,He's been exempting himself \Nfrom Tasuketsu all along!
+Dialogue: 0,0:11:51.29,0:11:52.57,Default,Shinozaki,0,0,0,,Which makes him just as much of a trait—
+Dialogue: 0,0:11:52.57,0:11:54.01,Default,Saneatsu,0,0,0,,What a bunch of crap!
+Dialogue: 0,0:11:54.57,0:11:57.78,Default,Saneatsu,0,0,0,,There's no doubt in my mind \Nthat Omi helped us!
+Dialogue: 0,0:11:58.16,0:12:01.37,Default,Saneatsu,0,0,0,,He's nothing like you \Nwho only looks after himself!
+Dialogue: 0,0:12:01.37,0:12:02.66,Default,Saneatsu,0,0,0,,You coward!
+Dialogue: 0,0:12:04.90,0:12:06.50,Default,Shinozaki,0,0,0,,I'll kill you.
+Dialogue: 0,0:12:06.96,0:12:08.94,Default,Shinozaki,0,0,0,,Souma! Get hi—
+Dialogue: 0,0:12:09.98,0:12:12.00,Default,Saneatsu,0,0,0,,Kazuhiko! Take Omi and run!
+Dialogue: 0,0:12:15.34,0:12:17.22,Default,Souma,0,0,0,,Prime Right of Materialization!
+Dialogue: 0,0:12:20.97,0:12:22.70,Default,Saneatsu,0,0,0,,No way!
+Dialogue: 0,0:12:23.27,0:12:26.31,Default,Souma,0,0,0,,All right, Yoshida-san No. 1: finish him.
+Dialogue: 0,0:12:26.31,0:12:27.72,Default,Saneatsu,0,0,0,,To hell with that!
+Dialogue: 0,0:12:32.65,0:12:33.82,Italics,Saneatsu,0,0,0,,Run! Hurry!
+Dialogue: 0,0:12:33.82,0:12:35.15,Italics,Saneatsu,0,0,0,,Faster, faster, faster!
+Dialogue: 0,0:13:07.40,0:13:10.88,Default,Saneatsu,0,0,0,,Omi... did he get away in time?
+Dialogue: 0,0:13:10.88,0:13:12.58,Default,Saneatsu,0,0,0,,Was I able to save him?
+Dialogue: 0,0:13:15.32,0:13:17.15,Default,Saneatsu,0,0,0,,I don't wanna die yet!
+Dialogue: 0,0:13:17.15,0:13:20.24,Default,Saneatsu,0,0,0,,Without defeating the Emperor... I can't die!
+Dialogue: 0,0:13:22.07,0:13:24.57,Default,Saneatsu,0,0,0,,Someone! Help me!
+Dialogue: 0,0:13:26.66,0:13:29.67,Flashback,Ryuta,0,0,0,,Well, if you ever need anything \Njust lemme know.
+Dialogue: 0,0:13:29.67,0:13:31.33,Flashback,Ryuta,0,0,0,,We're best friends, after all.
+Dialogue: 0,0:13:35.36,0:13:37.12,Default,Ryuta,0,0,0,,Good thing I wasn't late today!
+Dialogue: 0,0:13:37.91,0:13:40.39,Default,Saneatsu,0,0,0,,"Good thing" my ass! Tardy Monster!
+Dialogue: 0,0:13:48.44,0:13:50.14,Default,Eren,0,0,0,,What is that?
+Dialogue: 0,0:13:50.14,0:13:51.85,Default,Eren,0,0,0,,What the heck is this thing?!
+Dialogue: 0,0:13:54.90,0:13:56.65,Default,Eren,0,0,0,,S-Saaya?!
+Dialogue: 0,0:13:56.65,0:13:59.66,Default,Saaya,0,0,0,,Run, Eren Senpai! I'll hold them off!
+Dialogue: 0,0:13:59.66,0:14:01.53,Default,Eren,0,0,0,,No way!
+Dialogue: 0,0:14:03.39,0:14:04.41,Default,Saaya,0,0,0,,President?
+Dialogue: 0,0:14:04.41,0:14:05.63,Default,Yagihashi,0,0,0,,I'll explain later!
+Dialogue: 0,0:14:05.63,0:14:06.70,Default,Yagihashi,0,0,0,,Get in the shadows!
+Dialogue: 0,0:14:06.70,0:14:07.64,Default,Saaya,0,0,0,,B-But...
+Dialogue: 0,0:14:07.64,0:14:09.24,Default,Eren,0,0,0,,Don't be stupid! Let's go, Saaya!
+Dialogue: 0,0:14:11.43,0:14:13.12,Default,Yagihashi,0,0,0,,Sweet dreams. For eternity.
+Dialogue: 0,0:14:14.84,0:14:15.67,Default,Sudo,0,0,0,,Die.
+Dialogue: 0,0:14:32.94,0:14:35.81,Default,Yagihashi,0,0,0,,You two! Cover your heads and get down!
+Dialogue: 0,0:14:40.70,0:14:41.94,Default,Sudo,0,0,0,,This is the end.
+Dialogue: 0,0:14:46.63,0:14:47.99,Default,Eren,0,0,0,,What's that?
+Dialogue: 0,0:14:47.99,0:14:50.52,Default,Yagihashi,0,0,0,,A fireproof cloak.\N I like to keep one on me.
+Dialogue: 0,0:14:53.41,0:14:55.50,Default,Yagihashi,0,0,0,,Thanks for your help, Sudo-kun.
+Dialogue: 0,0:14:55.50,0:14:57.21,Default,Sudo,0,0,0,,No need to thank me.
+Dialogue: 0,0:14:57.21,0:15:01.98,Default,Yagihashi,0,0,0,,As you may have already noticed, \NI've heard everything from Sudo-kun.
+Dialogue: 0,0:15:02.85,0:15:04.87,Default,Saaya,0,0,0,,But how did you know where we were?
+Dialogue: 0,0:15:04.87,0:15:05.96,Default,Sudo,0,0,0,,The radio.
+Dialogue: 0,0:15:07.17,0:15:09.10,Default,Sudo,0,0,0,,Anyways, what is this thing?
+Dialogue: 0,0:15:09.96,0:15:13.15,Default,Saaya,0,0,0,,I'm assuming Saneatsu couldn't \Nget a confession out of Sensei
+Dialogue: 0,0:15:13.15,0:15:15.23,Default,Saaya,0,0,0,,and this was the result.
+Dialogue: 0,0:15:15.23,0:15:17.94,Default,Eren,0,0,0,,Sensei? Confess? What about?
+Dialogue: 0,0:15:17.94,0:15:20.72,Default,Yagihashi,0,0,0,,Don't worry, Fujishiro-san.
+Dialogue: 0,0:15:20.72,0:15:25.46,Default,Yagihashi,0,0,0,,We sent Narita-kun's best friend \NIchinose-kun his way.
+Dialogue: 0,0:15:25.87,0:15:27.62,Default,Yagihashi,0,0,0,,He also possesses a Prime Right.
+Dialogue: 0,0:15:27.62,0:15:30.16,Default,Saaya,0,0,0,,Saneatsu's best friend...
+Dialogue: 0,0:15:32.99,0:15:35.15,Default,Yagihashi,0,0,0,,No need to stay here any longer.
+Dialogue: 0,0:15:35.15,0:15:36.54,Default,Eren,0,0,0,,Hey, what about Sensei?
+Dialogue: 0,0:15:36.54,0:15:39.23,Default,Eren,0,0,0,,Confess to what? Am I the\N only one out of the loop?
+Dialogue: 0,0:15:39.75,0:15:42.36,Default,Saaya,0,0,0,,I'll explain on the way there, Senpai.
+Dialogue: 0,0:15:43.91,0:15:45.01,Default,Saneatsu,0,0,0,,Were we too late?!
+Dialogue: 0,0:15:45.01,0:15:47.77,Default,Ryuta,0,0,0,,Yagi-chan and Sudocchi \Nwere supposed to be here,
+Dialogue: 0,0:15:47.77,0:15:49.64,Default,Ryuta,0,0,0,,so they must've taken \Nthe girls and evacuated.
+Dialogue: 0,0:15:49.64,0:15:51.01,Italics,Saneatsu,0,0,0,,Yagi-chan...
+Dialogue: 0,0:15:54.47,0:15:56.49,Default,Rika,0,0,0,,Crud, someone saw me...
+Dialogue: 0,0:15:56.49,0:15:58.19,Default,Saneatsu,0,0,0,,A survivor!
+Dialogue: 0,0:16:00.11,0:16:02.31,Default,Saneatsu,0,0,0,,Um, h-hello...
+Dialogue: 0,0:16:02.31,0:16:06.47,Default,Saneatsu,0,0,0,,You're the first person I've met besides \Nmy teammates, so I'm not sure what to say...
+Dialogue: 0,0:16:06.47,0:16:10.20,Default,Ryuta,0,0,0,,'Scuse us! We're looking \Nfor someone. Do you mind?
+Dialogue: 0,0:16:10.20,0:16:11.36,Default,Saneatsu,0,0,0,,Hey, don't!
+Dialogue: 0,0:16:11.36,0:16:13.16,Default,Ryuta,0,0,0,,Who cares? We might as well.
+Dialogue: 0,0:16:13.98,0:16:18.84,Default,Saneatsu,0,0,0,,Um, so... Have you seen a girl \Nwith pigtails anywhere?
+Dialogue: 0,0:16:18.84,0:16:19.75,Default,Rika,0,0,0,,Nah.
+Dialogue: 0,0:16:19.75,0:16:24.70,Default,Saneatsu,0,0,0,,Then how about... A short boy \Nwith earphones wearing a hoodie?
+Dialogue: 0,0:16:28.11,0:16:29.39,Default,Rika,0,0,0,,Follow me.
+Dialogue: 0,0:16:34.97,0:16:38.85,shopping,Sign,0,0,0,,{\fad(900,900)\pos(330,0)\frz356\fax0.05\3c&H6E84E1&\3a&H38&\c&HEAFFFE&}Narimasu Market
+Dialogue: 0,0:16:41.87,0:16:43.08,Default,Saneatsu,0,0,0,,It's not Omi?
+Dialogue: 0,0:16:43.08,0:16:46.13,Default,Rika,0,0,0,,Here ya go. They're that kid's friends.
+Dialogue: 0,0:16:46.13,0:16:50.16,Default,Isshiki,0,0,0,,So, the owner of the Rejection \NRight is named Omi?
+Dialogue: 0,0:16:51.11,0:16:55.24,Default,Ryuta,0,0,0,,Just so you know, I have a Prime Right \Ncalled the Right of Fusion, so...
+Dialogue: 0,0:16:55.24,0:16:56.64,Default-Top,Saneatsu,0,0,0,,Y-You idiot!
+Dialogue: 0,0:16:55.24,0:16:59.33,Default,Ryuta,0,0,0,,Better watch what you say \Nif you don't wanna be taken out.
+Dialogue: 0,0:16:59.33,0:17:03.38,Default,Isshiki,0,0,0,,I'm Miwa Isshiki, \Nand this here is Rika Suzuki.
+Dialogue: 0,0:17:03.38,0:17:05.55,Default,Isshiki,0,0,0,,She and I are Prime Right owners, as well.
+Dialogue: 0,0:17:06.62,0:17:09.79,Default,Saneatsu,0,0,0,,Sorry, but we won't be introducing \Nourselves until we can trust you.
+Dialogue: 0,0:17:09.79,0:17:12.80,Default,Saneatsu,0,0,0,,How do you know about Omi \Nand the Right of Rejection?
+Dialogue: 0,0:17:13.17,0:17:16.19,Default,Isshiki,0,0,0,,After the Tasuketsu on "male or female",
+Dialogue: 0,0:17:16.19,0:17:21.27,Default,Isshiki,0,0,0,,Rika-chan and I met Omi-kun \Nin front of a blue postbox.
+Dialogue: 0,0:17:21.78,0:17:24.98,Default,Isshiki,0,0,0,,Although I suppose he and I didn't \Nexactly become acquaintances.
+Dialogue: 0,0:17:25.31,0:17:29.72,Default,Isshiki,0,0,0,,After Omi-kun submitted his question, \NRika-chan fell and got terribly hurt.
+Dialogue: 0,0:17:29.72,0:17:32.90,Default,Isshiki,0,0,0,,So I showed her the Prime Right \Nenvelope I had on hand.
+Dialogue: 0,0:17:32.90,0:17:35.79,Default,Rika,0,0,0,,Which I guess ended up saving my life.
+Dialogue: 0,0:17:35.79,0:17:39.59,Default,Rika,0,0,0,,But hey, you were the one \Nwho shocked me in the first place!
+Dialogue: 0,0:17:39.59,0:17:40.89,Italics,Saneatsu,0,0,0,,So that was the sacrifice...
+Dialogue: 0,0:17:41.21,0:17:42.84,Default,Ryuta,0,0,0,,Yeah, that reminds me.
+Dialogue: 0,0:17:42.84,0:17:48.84,Default,Ryuta,0,0,0,,They make you exchange a healthy \Nbody part in return for a Prime Right.
+Dialogue: 0,0:17:48.84,0:17:51.25,Default,Ryuta,0,0,0,,There are instructions \Nwhen you open the envelope.
+Dialogue: 0,0:17:51.25,0:17:54.22,Default,Ryuta,0,0,0,,A screen pops up out of nowhere. \NIsn't that cool?
+Dialogue: 0,0:17:54.22,0:17:56.87,Default,Isshiki,0,0,0,,Rika-chan's Prime Right \Nis the Right of Evasion.
+Dialogue: 0,0:17:56.87,0:18:00.91,Default,Isshiki,0,0,0,,She can completely avoid any physical \Ndangers that may threaten her.
+Dialogue: 0,0:18:00.91,0:18:03.95,Default,Isshiki,0,0,0,,Not too shabby, is it? \NAlthough it excludes Tasuketsu.
+Dialogue: 0,0:18:04.45,0:18:09.30,Default,Rika,0,0,0,,If it weren't for me, you'd have \Nbeen dead from that explosion.
+Dialogue: 0,0:18:09.30,0:18:11.53,Default,Rika,0,0,0,,It wouldn't hurt to show \Na bit more appreciation.
+Dialogue: 0,0:18:11.53,0:18:12.86,Default,Isshiki,0,0,0,,You know I do.
+Dialogue: 0,0:18:13.17,0:18:17.14,Default,Rika,0,0,0,,Sucks that my leg didn't make it, though.
+Dialogue: 0,0:18:18.08,0:18:22.53,Default,Isshiki,0,0,0,,Omi-kun's question was \Nabout reviving past victims.
+Dialogue: 0,0:18:22.53,0:18:23.87,Italics,Saneatsu,0,0,0,,So it really was Omi!
+Dialogue: 0,0:18:23.87,0:18:28.41,Default,Isshiki,0,0,0,,And... the second question \Nto kill them again was mine.
+Dialogue: 0,0:18:28.41,0:18:30.66,Default,Isshiki,0,0,0,,The Prime Right of Re-execution...
+Dialogue: 0,0:18:30.66,0:18:34.22,Default,Isshiki,0,0,0,,The ability to reenact certain\N information and Prime Rights,
+Dialogue: 0,0:18:34.54,0:18:36.92,Default,Isshiki,0,0,0,,excluding physical phenomena.
+Dialogue: 0,0:18:37.51,0:18:43.60,Default,Isshiki,0,0,0,,In case Omi-kun's question became nullified, \Nthe first question was for restoration.
+Dialogue: 0,0:18:43.60,0:18:48.98,Default,Isshiki,0,0,0,,The second question was to set re-execution \Nat 12:05am and enforcement at 12:10am.
+Dialogue: 0,0:18:49.11,0:18:50.86,Comp big-an8,Sign,0,0,0,,You are currently looking at this \Nscreen in Tokyo Prefecture
+Dialogue: 0,0:18:51.57,0:18:53.53,Default,Ryuta,0,0,0,,You bitch!
+Dialogue: 0,0:18:53.53,0:18:56.87,Default,Ryuta,0,0,0,,You mean to tell me Mom and Dad \Ndied because of you?! Screw you!
+Dialogue: 0,0:18:58.86,0:18:59.86,Default,Ryuta,0,0,0,,Just kidding!
+Dialogue: 0,0:18:59.86,0:19:00.91,Default,Saneatsu,0,0,0,,Huh?
+Dialogue: 0,0:19:01.51,0:19:05.90,Default,Ryuta,0,0,0,,I've already processed my feelings, \Nand besides, they'll always be in my heart.
+Dialogue: 0,0:19:06.31,0:19:10.14,Default,Ryuta,0,0,0,,Ha! Like they all say when someone \Ndies in the middle of the story!
+Dialogue: 0,0:19:10.14,0:19:11.33,Default,Ryuta,0,0,0,,"They'll be in my heart"?
+Dialogue: 0,0:19:11.33,0:19:14.74,Default,Ryuta,0,0,0,,More like "their cells are \Nliterally fused within my body"!
+Dialogue: 0,0:19:15.34,0:19:17.21,Default,Ryuta,0,0,0,,Which, by the way, \Njust between you and me...
+Dialogue: 0,0:19:17.21,0:19:18.92,Default,Ryuta,0,0,0,,Even if I'm part of the majority in Tasuketsu,
+Dialogue: 0,0:19:18.92,0:19:22.87,Default,Ryuta,0,0,0,,all I need to do to survive is fuse \Nmy cells with the minority group!
+Dialogue: 0,0:19:22.87,0:19:24.00,Default,Ryuta,0,0,0,,But that's a secret!
+Dialogue: 0,0:19:24.00,0:19:25.83,Default,Saneatsu,0,0,0,,Who are you talking to?
+Dialogue: 0,0:19:26.51,0:19:28.67,Default,Saneatsu,0,0,0,,I don't fully trust you.
+Dialogue: 0,0:19:28.67,0:19:32.12,Default,Saneatsu,0,0,0,,But if there's something in it for us, \Nwe'll talk. How's that sound?
+Dialogue: 0,0:19:32.12,0:19:34.99,Default,Isshiki,0,0,0,,I'll tell you everything I know,
+Dialogue: 0,0:19:34.99,0:19:38.09,Default,Isshiki,0,0,0,,but I have a favor to ask in return.
+Dialogue: 0,0:19:38.09,0:19:39.17,Default,Saneatsu,0,0,0,,A favor?
+Dialogue: 0,0:19:39.17,0:19:40.95,Default,Isshiki,0,0,0,,Kill Mido.
+Dialogue: 0,0:19:41.39,0:19:43.29,Default,Saneatsu,0,0,0,,K-Kill...
+Dialogue: 0,0:19:43.69,0:19:45.54,Default,Isshiki,0,0,0,,Mido and Ren Iruga.
+Dialogue: 0,0:19:45.54,0:19:49.22,Default,Isshiki,0,0,0,,Those two are dangerous, \Nbut especially Mido...
+Dialogue: 0,0:19:49.67,0:19:52.93,Default,Isshiki,0,0,0,,I don't know his location or motive \Nor even his first name.
+Dialogue: 0,0:19:52.93,0:19:57.17,Default,Isshiki,0,0,0,,But I know he's up to something. \NSomeone has to stop him.
+Dialogue: 0,0:19:58.40,0:20:00.66,Default,Saneatsu,0,0,0,,Kill... someone...
+Dialogue: 0,0:20:00.66,0:20:03.78,Default,Ryuta,0,0,0,,Sure, no prob! \NSo whatcha got in terms of info?
+Dialogue: 0,0:20:03.78,0:20:05.77,Default,Saneatsu,0,0,0,,Hey! Ryuta, come on!
+Dialogue: 0,0:20:05.77,0:20:08.32,Default,Ryuta,0,0,0,,Worst case scenario, \Nleave it to me. Don't worry.
+Dialogue: 0,0:20:08.32,0:20:09.33,Default,Saneatsu,0,0,0,,What?!
+Dialogue: 0,0:20:09.33,0:20:11.54,Default,Ryuta,0,0,0,,We haven't gathered any information so far.
+Dialogue: 0,0:20:11.99,0:20:14.31,Default,Ryuta,0,0,0,,I can take on some risk \Nif that's what it's worth.
+Dialogue: 0,0:20:14.31,0:20:15.44,Default,Saneatsu,0,0,0,,Ryuta...
+Dialogue: 0,0:20:15.44,0:20:20.40,Default,Isshiki,0,0,0,,Tasuketsu and Prime Rights go hand \Nin hand. That can't be overstated.
+Dialogue: 0,0:20:20.40,0:20:22.82,Default,Isshiki,0,0,0,,Of them, the strongest \NPrime Right is Obedience,
+Dialogue: 0,0:20:21.74,0:20:27.71,White-Standard,Sign,0,0,0,,{\an3\fad(200,1)\pos(603,39)\bord0}Right of Obedience
+Dialogue: 0,0:20:22.82,0:20:24.99,Default,Isshiki,0,0,0,,and next in line is the Rejection Right.
+Dialogue: 0,0:20:23.49,0:20:27.71,White-Standard,Sign,0,0,0,,{\an1\fad(200,1)\pos(32,39)\bord0}Right of Rejection
+Dialogue: 0,0:20:24.99,0:20:27.71,White-Standard,Sign,0,0,0,,{\fad(200,1)\bord0\pos(320,139)}Permission
+Dialogue: 0,0:20:24.99,0:20:27.71,Default,Isshiki,0,0,0,,Both are powers relating \Nto the ability of permission.
+Dialogue: 0,0:20:27.71,0:20:32.36,Default,Isshiki,0,0,0,,I only know a portion of Prime Rights \Nheld by some of the older owners.
+Dialogue: 0,0:20:32.36,0:20:35.17,Default,Saneatsu,0,0,0,,Older owners? What does that mean?
+Dialogue: 0,0:20:35.17,0:20:38.78,Default,Isshiki,0,0,0,,That's a question better suited for \Nyour classmate with the Rejection Right.
+Dialogue: 0,0:20:38.78,0:20:41.72,Default,Isshiki,0,0,0,,I don't want to share anything \Nthey'd rather not disclose.
+Dialogue: 0,0:20:43.12,0:20:48.10,Default,Isshiki,0,0,0,,Funny how Prime Rights work... \NIt's almost like a reflection of their owners.
+Dialogue: 0,0:20:50.10,0:20:53.18,Default,Rika,0,0,0,,They never even told us \Ntheir names, after all.
+Dialogue: 0,0:20:53.18,0:20:54.44,Default,Isshiki,0,0,0,,That's all right.
+Dialogue: 0,0:20:54.44,0:20:57.32,Default,Rika,0,0,0,,Well, I guess I'll go make my rounds.
+Dialogue: 0,0:20:57.72,0:21:00.46,Default,Rika,0,0,0,,Maybe I'd be better off in a wheelchair...
+Dialogue: 0,0:21:02.20,0:21:04.70,Italics,Isshiki,0,0,0,,Finally, there's some hope...
+Dialogue: 0,0:21:06.07,0:21:09.75,Default,Iruga,0,0,0,,I thought you might be alive! Hiya!
+Dialogue: 0,0:21:09.75,0:21:12.04,Default,Iruga,0,0,0,,Don't you move a muscle.
+Dialogue: 0,0:21:13.08,0:21:15.70,Default,Iruga,0,0,0,,Aw, man. I told you not to move.
+Dialogue: 0,0:21:15.70,0:21:17.32,Default,Iruga,0,0,0,,Too bad.
+Dialogue: 0,0:21:16.46,0:21:19.92,Next Ep Title,Sign,0,0,0,,{\fad(500,1)\pos(548,350)}Motion

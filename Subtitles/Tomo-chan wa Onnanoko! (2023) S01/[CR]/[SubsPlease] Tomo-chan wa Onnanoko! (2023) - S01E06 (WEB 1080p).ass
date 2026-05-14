@@ -1,0 +1,459 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: sign_3603_13_I_Want_to_Be_See,Trebuchet MS,25,&H005A5659,&H000000FF,&H00EBEBEB,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+Style: sign_3787_16_Aizawa,Times New Roman,20,&H005B3F46,&H000000FF,&H00ABB2BC,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_5232_39_Uenomizu_High_Sc,Times New Roman,40,&H006E6158,&H000000FF,&H00E2E4DF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,30,30,20,1
+Style: sign_13038_125_Angry_,Verdana,25,&H00000002,&H000000FF,&H41FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,20,1
+Style: sign_23856_267_Boys__Karate_Clu,Verdana,24,&H00233558,&H000000FF,&H004B6A9C,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,30,30,20,1
+Style: sign_5015_21_Tanabe_s_Image,Verdana,22,&H00FAFDF8,&H000000FF,&H00C5ECF4,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_22341_235_Aizawa_Dojo,Times New Roman,20,&H00555A72,&H000000FF,&H00AAC0E4,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,30,30,20,1
+Style: sign_4389_7_Carol_s_House_,Comic Sans MS,25,&H00545454,&H000000FF,&H00F3F4F6,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: sign_10511_94_5_Minutes_Later,Verdana,23,&H000E1528,&H000000FF,&H41FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_18613_221_70__Aizawa_Tomo,Arial,40,&H000D0C0E,&H000000FF,&H00F6F8FA,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+Style: sign_28579_336_FC_VASIMR_,Verdana,20,&H32FFFFFF,&H000000FF,&H00C5ECF4,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,30,30,20,1
+Style: sign_4624_13_B_O_R_N___I_N___,Verdana,11,&H000E1528,&H000000FF,&H41FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,20,1
+Style: sign_17055_186_Happy_Birthday__,Trebuchet MS,20,&H00B5D6F0,&H000000FF,&H00304281,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+Style: sign_21145_223_The_Day_of_the_B,Verdana,16,&H00000000,&H000000FF,&H00C5ECF4,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,1,2,30,30,20,1
+Style: sign_21892_232_VS__Third_Year_P,Verdana,40,&H00FCFCFC,&H000000FF,&H00030303,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.73,0:00:16.03,italics,OP,0,0,0,,When I throw a jab or a straight,\N it always lands
+Dialogue: 0,0:00:16.03,0:00:21.16,italics,OP,0,0,0,,But when I'm aiming for your heart,\N I miss every time
+Dialogue: 0,0:00:21.16,0:00:26.50,italics,OP,0,0,0,,Parallel, zigzagging, awkward, incoherent
+Dialogue: 0,0:00:26.50,0:00:31.01,italics,OP,0,0,0,,When you look my way and move closer to me
+Dialogue: 0,0:00:31.01,0:00:36.76,italics,OP,0,0,0,,I know it doesn't mean the same thing for you
+Dialogue: 0,0:00:36.76,0:00:41.81,italics,OP,0,0,0,,But I wish we could stay like this forever
+Dialogue: 0,0:00:41.81,0:00:47.94,italics,OP,0,0,0,,My changing feelings are driving me crazy
+Dialogue: 0,0:00:47.94,0:00:53.24,italics,OP,0,0,0,,The moment you turn to face me,\N take that! Telepathy
+Dialogue: 0,0:00:53.24,0:00:58.70,italics,OP,0,0,0,,If only we could feel the same thing
+Dialogue: 0,0:00:58.70,0:01:03.58,italics,OP,0,0,0,,I want to kick this pesky subtlety away
+Dialogue: 0,0:01:03.58,0:01:09.59,italics,OP,0,0,0,,I want to know everything, \NI want to know everything
+Dialogue: 0,0:01:09.59,0:01:12.13,italics,OP,0,0,0,,I can't fool you forever
+Dialogue: 0,0:01:12.13,0:01:14.76,italics,OP,0,0,0,,I can't keep this hidden
+Dialogue: 0,0:01:14.76,0:01:19.51,italics,OP,0,0,0,,I want to shout out my secret, AHHH
+Dialogue: 0,0:01:21.43,0:01:23.97,italics,OP,0,0,0,,Take that! Telepathy
+Dialogue: 0,0:01:23.97,0:01:26.44,italics,OP,0,0,0,,Te-te-te-telepathy
+Dialogue: 0,0:01:27.14,0:01:29.52,italics,OP,0,0,0,,Telepathy
+Dialogue: 0,0:01:31.07,0:01:35.03,sign_3603_13_I_Want_to_Be_See,Title,0,0,0,,{\fad(515,1)\frz5.64\fsp4\pos(320,130)}Birthday
+Dialogue: 0,0:01:31.07,0:01:35.03,sign_3603_13_I_Want_to_Be_See,Title,0,0,0,,{\fad(515,1)\frz5.64\fsp4\pos(325,192)\3c&H5A5659&\c&HEBEBEB&}Present
+Dialogue: 0,0:01:31.90,0:01:33.73,main,Tomo,0,0,0,,"Birthday Present."
+Dialogue: 0,0:01:35.74,0:01:37.53,main,Junichiro,0,0,0,,Here. For you.
+Dialogue: 0,0:01:37.70,0:01:38.70,main,Tomo,0,0,0,,Huh?
+Dialogue: 0,0:01:38.70,0:01:40.66,main,Junichiro,0,0,0,,You wanted these, right?
+Dialogue: 0,0:01:43.87,0:01:47.08,main,Tomo,0,0,0,,Thanks! But why?
+Dialogue: 0,0:01:47.08,0:01:49.50,main,Junichiro,0,0,0,,Today's your birthday, remember?
+Dialogue: 0,0:01:49.50,0:01:51.96,main,Tomo,0,0,0,,Oh, yeah! I guess it is!
+Dialogue: 0,0:01:55.55,0:01:58.80,main,Tomo,0,0,0,,I'm older than you now!
+Dialogue: 0,0:01:58.80,0:02:00.84,main,Tomo,0,0,0,,Show me some respect!
+Dialogue: 0,0:02:00.84,0:02:03.51,italics,Junichiro,0,0,0,,Every single year... This gets so old.
+Dialogue: 0,0:02:02.85,0:02:05.31,Default,Text,0,0,0,,{\an7\fscx100\fscy100\p1\pos(475,0)\bord0\shad0\c&HFAFFFE&\blur1}m 47 73 l 122 73 120 290 47 289
+Dialogue: 0,0:02:02.85,0:02:05.31,sign_4624_13_B_O_R_N___I_N___,Text,0,0,0,,{\pos(560,105)}B\NO\NR\NN\N \NI\NN\N \NO\NC\NT\NO\NB\NE\NR
+Dialogue: 0,0:02:05.52,0:02:07.31,main,Tomo,0,0,0,,Mornin', Misuzu!
+Dialogue: 0,0:02:07.85,0:02:08.77,main,Misuzu,0,0,0,,Good mor—
+Dialogue: 0,0:02:09.65,0:02:10.90,main,Misuzu,0,0,0,,What are those?
+Dialogue: 0,0:02:11.19,0:02:13.73,main,Tomo,0,0,0,,Jun just gave them to me!
+Dialogue: 0,0:02:13.73,0:02:16.36,main,Tomo,0,0,0,,My birthday present! Pretty cool, right?
+Dialogue: 0,0:02:16.36,0:02:20.20,main,Tomo,0,0,0,,So yeah, I went ahead and turned 16 first!
+Dialogue: 0,0:02:20.20,0:02:22.12,main,Misuzu,0,0,0,,Indeed. Happy birthday.
+Dialogue: 0,0:02:22.83,0:02:25.70,main,Tomo,0,0,0,,You're welcome to call me \N"Onee-san" if you want.
+Dialogue: 0,0:02:26.08,0:02:28.71,italics,Misuzu,0,0,0,,Every single year... This gets so old.
+Dialogue: 0,0:02:28.41,0:02:30.17,Default,Text,0,0,0,,{\an7\fscx100\fscy100\p1\bord0\shad0\c&HFAFFFE&\blur1\pos(-20,-21)}m 47 73 l 122 73 120 290 47 289
+Dialogue: 0,0:02:28.41,0:02:30.17,sign_4624_13_B_O_R_N___I_N___,Text,0,0,0,,{\pos(63,72)}B\NO\NR\NN\N \NI\NN\N \NF\NE\NB\NR\NU\NA\NR\NY
+Dialogue: 0,0:02:31.13,0:02:32.17,main,Misuzu,0,0,0,,Here.
+Dialogue: 0,0:02:32.42,0:02:33.50,main,Misuzu,0,0,0,,From me.
+Dialogue: 0,0:02:33.50,0:02:36.92,main,Tomo,0,0,0,,Wow, really? Thanks!
+Dialogue: 0,0:02:37.26,0:02:39.72,main,Tomo,0,0,0,,Oh, it's pretty heavy. What's in it?
+Dialogue: 0,0:02:40.80,0:02:42.22,main,Misuzu,0,0,0,,Reference books.
+Dialogue: 0,0:02:43.51,0:02:45.97,main,Tomo,0,0,0,,Th-Thanks...
+Dialogue: 0,0:02:45.97,0:02:48.43,main,Misuzu,0,0,0,,I'm so glad you like it.
+Dialogue: 0,0:03:04.16,0:03:07.49,main,Carol,0,0,0,,Happy birthday, dear—
+Dialogue: 0,0:03:04.91,0:03:05.87,main,Tomo,0,0,0,,Wait!
+Dialogue: 0,0:03:06.24,0:03:07.49,main,Tomo,0,0,0,,Wait, wait, wait!
+Dialogue: 0,0:03:08.54,0:03:11.42,main,Tomo,0,0,0,,Um... What is this?
+Dialogue: 0,0:03:11.42,0:03:12.54,main,Carol,0,0,0,,It's gold.
+Dialogue: 0,0:03:12.54,0:03:15.00,main,Carol,0,0,0,,I have a bigger one at home,
+Dialogue: 0,0:03:15.00,0:03:17.00,main,Carol,0,0,0,,but it was too heavy to carry to school.
+Dialogue: 0,0:03:17.30,0:03:20.67,main,Tomo,0,0,0,,I'm happy, but... this is \Ndefinitely too much.
+Dialogue: 0,0:03:21.93,0:03:24.89,main,Misuzu,0,0,0,,Would you be interested in putting \Nthat wealth of yours to use?
+Dialogue: 0,0:03:24.89,0:03:25.80,main,Carol,0,0,0,,Misuzu-chan!
+Dialogue: 0,0:03:25.80,0:03:26.35,main,Tomo,0,0,0,,No!
+Dialogue: 0,0:03:26.56,0:03:27.93,main,Tomo,0,0,0,,Don't team up with her!
+Dialogue: 0,0:03:29.68,0:03:33.73,main,Misuzu,0,0,0,,Tomo, want to come over \Nto my house this weekend?
+Dialogue: 0,0:03:33.73,0:03:35.73,main,Carol,0,0,0,,We're gonna give you a big transformation!
+Dialogue: 0,0:03:40.15,0:03:43.99,sign_13038_125_Angry_,Text,0,0,0,,{\pos(320,300)\bord1.5\shad1\fsp2\fad(859,1)}Saturday
+Dialogue: 0,0:03:41.15,0:03:43.99,top,Tomo,0,0,0,,What's all this about transforming me?
+Dialogue: 0,0:03:44.20,0:03:48.08,main,Tomo,0,0,0,,You're gonna dress me up like you \Ndid the day I went out with Jun?
+Dialogue: 0,0:03:48.54,0:03:50.66,main,Misuzu,0,0,0,,First, you're putting on this skirt.
+Dialogue: 0,0:03:50.66,0:03:51.62,main,Tomo,0,0,0,,A skirt?!
+Dialogue: 0,0:03:52.08,0:03:53.62,main,Carol,0,0,0,,Put this on, too.
+Dialogue: 0,0:03:53.62,0:03:54.42,main,Tomo,0,0,0,,A hairpiece?!
+Dialogue: 0,0:03:54.42,0:03:55.50,main,Carol,0,0,0,,A wig.
+Dialogue: 0,0:03:55.71,0:03:58.13,main,Tomo,0,0,0,,So... what does all this mean?
+Dialogue: 0,0:03:58.13,0:04:02.93,main,Misuzu,0,0,0,,It means we're using this opportunity \Nto make you as feminine as possible.
+Dialogue: 0,0:04:03.26,0:04:05.34,main,Tomo,0,0,0,,So I'm gonna dress like a girl?!
+Dialogue: 0,0:04:05.34,0:04:07.72,main,Carol,0,0,0,,You say that as if you're {\i1}not{\i0} a girl.
+Dialogue: 0,0:04:11.02,0:04:13.27,main,Tomo,0,0,0,,Well? Aren't you done yet?
+Dialogue: 0,0:04:13.27,0:04:15.15,main,Misuzu,0,0,0,,We're still on the basics.
+Dialogue: 0,0:04:17.44,0:04:20.53,main,Tomo,0,0,0,,It's kind of a weird feeling, though.
+Dialogue: 0,0:04:20.53,0:04:21.57,main,Misuzu,0,0,0,,What is?
+Dialogue: 0,0:04:21.99,0:04:24.74,main,Tomo,0,0,0,,Me wearing makeup, I mean.
+Dialogue: 0,0:04:25.74,0:04:28.03,main,Tomo,0,0,0,,If I did it right,
+Dialogue: 0,0:04:28.03,0:04:31.00,main,Tomo,0,0,0,,could I have a pretty face like this, too?
+Dialogue: 0,0:04:38.21,0:04:39.25,main,Misuzu,0,0,0,,Take over.
+Dialogue: 0,0:04:39.55,0:04:40.75,main,Carol,0,0,0,,'Kay!
+Dialogue: 0,0:04:41.13,0:04:41.96,main,Tomo,0,0,0,,Huh?
+Dialogue: 0,0:04:46.93,0:04:49.64,main,Tomo,0,0,0,,H-H-How do I look?
+Dialogue: 0,0:04:49.64,0:04:51.35,main,Carol,0,0,0,,You're pretty, Tomo-chan!
+Dialogue: 0,0:04:51.35,0:04:52.27,main,Misuzu,0,0,0,,Indeed.
+Dialogue: 0,0:04:52.56,0:04:54.48,main,Tomo,0,0,0,,R-Really?!
+Dialogue: 0,0:04:54.48,0:04:58.19,main,Misuzu,0,0,0,,Since we've done all this, \Ntry talking more like a girl, too.
+Dialogue: 0,0:04:58.19,0:05:01.94,main,Tomo,0,0,0,,More like a girl? But I don't know how to...
+Dialogue: 0,0:05:01.94,0:05:03.99,main,Misuzu,0,0,0,,Just start by speaking more politely.
+Dialogue: 0,0:05:05.11,0:05:09.45,main,Tomo,0,0,0,,H-Hello. My name is Aizawa Tomo.
+Dialogue: 0,0:05:09.95,0:05:11.91,main,Tomo,0,0,0,,It's a pleasure to meet you.
+Dialogue: 0,0:05:13.29,0:05:14.91,main,Tomo,0,0,0,,Am I doing this right?
+Dialogue: 0,0:05:14.91,0:05:17.37,main,Carol,0,0,0,,You're super cute!
+Dialogue: 0,0:05:17.37,0:05:19.92,main,Misuzu,0,0,0,,Indeed. Boys would probably like it.
+Dialogue: 0,0:05:19.92,0:05:20.79,main,Tomo,0,0,0,,Huh?!
+Dialogue: 0,0:05:21.21,0:05:23.88,main,Carol,0,0,0,,I don't think you could make \Nfriends with them, though.
+Dialogue: 0,0:05:23.88,0:05:25.72,main,Misuzu,0,0,0,,You'd just be a thorn in their sides.
+Dialogue: 0,0:05:26.38,0:05:27.97,main,Tomo,0,0,0,,What's that supposed to mean?
+Dialogue: 0,0:05:31.39,0:05:34.60,main,Misuzu,0,0,0,,I'm suddenly craving some ice cream.
+Dialogue: 0,0:05:34.60,0:05:35.98,main,Carol,0,0,0,,Me, too.
+Dialogue: 0,0:05:35.98,0:05:38.85,main,Tomo,0,0,0,,Oh, I'll go buy some, then.
+Dialogue: 0,0:05:38.85,0:05:41.07,main,Tomo,0,0,0,,You've both done a lot for me, after all.
+Dialogue: 0,0:05:41.07,0:05:42.15,main,Carol,0,0,0,,Really?
+Dialogue: 0,0:05:42.15,0:05:43.69,main,Misuzu,0,0,0,,Sorry to make you do this.
+Dialogue: 0,0:05:43.69,0:05:45.28,main,Tomo,0,0,0,,Don't worry about it!
+Dialogue: 0,0:05:45.78,0:05:48.16,main,Tomo,0,0,0,,Just... let me change fir—
+Dialogue: 0,0:05:49.11,0:05:50.16,main,Tomo,0,0,0,,Wha—
+Dialogue: 0,0:05:50.16,0:05:52.95,main,Tomo,0,0,0,,Hey! Are you seriously making \Nme go out dressed like this?!
+Dialogue: 0,0:05:52.95,0:05:54.37,main,Misuzu,0,0,0,,Absolutely.
+Dialogue: 0,0:05:54.37,0:05:58.46,main,Misuzu,0,0,0,,There's no point in dressing like that \Nif we're the only ones who see it.
+Dialogue: 0,0:05:58.46,0:05:59.50,main,Tomo,0,0,0,,Yeah, but...
+Dialogue: 0,0:05:59.50,0:06:00.79,main,Misuzu,0,0,0,,Off you go.
+Dialogue: 0,0:06:00.79,0:06:02.59,main,Misuzu,0,0,0,,I wish you luck.
+Dialogue: 0,0:06:02.80,0:06:04.17,main,Tomo,0,0,0,,Hey! Misuz—
+Dialogue: 0,0:06:08.38,0:06:10.76,italics,Tomo,0,0,0,,Damn those two!
+Dialogue: 0,0:06:14.64,0:06:18.39,italics,Tomo,0,0,0,,They're staring at me! \NI guess I really do look weird!
+Dialogue: 0,0:06:18.77,0:06:20.85,italics,Tomo,0,0,0,,Wait, Jun?!
+Dialogue: 0,0:06:23.44,0:06:27.44,italics,Tomo,0,0,0,,What do I do?! What excuse can \NI give for being dressed like this?!
+Dialogue: 0,0:06:29.15,0:06:30.53,italics,Tomo,0,0,0,,H-Huh?
+Dialogue: 0,0:06:30.82,0:06:34.58,italics,Tomo,0,0,0,,Not sure what that's about, but... \Nif he doesn't recognize me, I'm golden!
+Dialogue: 0,0:06:34.58,0:06:36.62,italics,Tomo,0,0,0,,I'll just buy my stuff and get outta here!
+Dialogue: 0,0:06:37.08,0:06:40.58,italics,Junichiro,0,0,0,,There's no way. There's no damn way.
+Dialogue: 0,0:06:40.92,0:06:43.50,italics,Tomo,0,0,0,,Okay! I gotta get away from here quick!
+Dialogue: 0,0:06:48.42,0:06:51.14,main,Junichiro,0,0,0,,Whoa, are you okay?
+Dialogue: 0,0:06:55.35,0:06:58.31,italics,Junichiro,0,0,0,,Her face looks just like Tomo's,
+Dialogue: 0,0:06:58.31,0:07:02.06,italics,Junichiro,0,0,0,,but she doesn't wear stuff like this. She doesn't wear makeup, either.
+Dialogue: 0,0:07:02.77,0:07:05.44,italics,Junichiro,0,0,0,,If this is Tomo, I don't... I mean...
+Dialogue: 0,0:07:05.44,0:07:06.53,italics,Junichiro,0,0,0,,I can't.
+Dialogue: 0,0:07:07.99,0:07:09.74,main,Junichiro,0,0,0,,Do you need a hand?
+Dialogue: 0,0:07:14.53,0:07:18.04,italics,Tomo,0,0,0,,Wh-What is this soft touch he's using?
+Dialogue: 0,0:07:20.33,0:07:21.37,main,Junichiro,0,0,0,,Whoa...
+Dialogue: 0,0:07:22.33,0:07:23.67,main,Junichiro,0,0,0,,Are you okay?
+Dialogue: 0,0:07:23.67,0:07:25.84,italics,Tomo,0,0,0,,Why is he treating me like this?
+Dialogue: 0,0:07:27.80,0:07:29.51,main,Junichiro,0,0,0,,Well, I'll be going now.
+Dialogue: 0,0:07:30.80,0:07:32.51,main,Tomo,0,0,0,,U-Um...
+Dialogue: 0,0:07:34.64,0:07:38.02,main,Tomo,0,0,0,,Would you mind if I walked \Nwith you... for a while?
+Dialogue: 0,0:07:39.35,0:07:41.44,italics,Tomo,0,0,0,,What the heck was I thinking?!
+Dialogue: 0,0:07:41.44,0:07:43.85,italics,Tomo,0,0,0,,What do I do now?!
+Dialogue: 0,0:07:44.06,0:07:46.65,italics,Junichiro,0,0,0,,Now that we're walking together,\N I'm sure of it.
+Dialogue: 0,0:07:46.65,0:07:48.82,italics,Junichiro,0,0,0,,This girl isn't Tomo.
+Dialogue: 0,0:07:49.11,0:07:51.78,italics,Junichiro,0,0,0,,Tomo's a little shorter than she is.
+Dialogue: 0,0:07:52.36,0:07:56.12,main,Tomo,0,0,0,,Um, please don't look at me so much.
+Dialogue: 0,0:07:56.12,0:07:57.74,main,Junichiro,0,0,0,,Oh, I'm sorry.
+Dialogue: 0,0:07:58.99,0:08:02.04,main,Tomo,0,0,0,,I really do look strange, don't I?
+Dialogue: 0,0:08:02.04,0:08:04.54,main,Tomo,0,0,0,,Even I realize that.
+Dialogue: 0,0:08:04.54,0:08:05.21,main,Junichiro,0,0,0,,Huh?
+Dialogue: 0,0:08:05.75,0:08:09.05,main,Junichiro,0,0,0,,No, I think you just look pretty.
+Dialogue: 0,0:08:10.17,0:08:13.26,italics,Tomo,0,0,0,,Today's the day I die, isn't it?!
+Dialogue: 0,0:08:14.05,0:08:15.09,main,Kids,0,0,0,,That's it!
+Dialogue: 0,0:08:15.09,0:08:16.47,main,Kids,0,0,0,,There you go!
+Dialogue: 0,0:08:17.39,0:08:18.76,main,Kids,0,0,0,,You got it!
+Dialogue: 0,0:08:21.98,0:08:23.02,main,Kids,0,0,0,,Way to go!
+Dialogue: 0,0:08:27.69,0:08:28.77,main,Kids,0,0,0,,Here I go!
+Dialogue: 0,0:08:28.94,0:08:31.24,italics,Tomo,0,0,0,,That kid's pretty good.
+Dialogue: 0,0:08:31.44,0:08:32.53,main,Kids,0,0,0,,Go, go!
+Dialogue: 0,0:08:32.99,0:08:34.61,italics,Tomo,0,0,0,,That's it! Go!
+Dialogue: 0,0:08:34.61,0:08:36.12,italics,Tomo,0,0,0,,Shoot!
+Dialogue: 0,0:08:36.12,0:08:38.37,main,Tomo,0,0,0,,Aw, so close!
+Dialogue: 0,0:08:38.37,0:08:39.24,main,Junichiro,0,0,0,,Huh?
+Dialogue: 0,0:08:39.24,0:08:40.04,main,Tomo,0,0,0,,Huh?
+Dialogue: 0,0:08:42.37,0:08:46.46,main,Tomo,0,0,0,,I'm sorry. I like watching sports and such.
+Dialogue: 0,0:08:46.46,0:08:47.67,main,Junichiro,0,0,0,,That's surprising.
+Dialogue: 0,0:08:47.67,0:08:50.50,main,Tomo,0,0,0,,I get all fired up when I watch them.
+Dialogue: 0,0:08:50.50,0:08:52.63,main,Tomo,0,0,0,,That's not very ladylike, is it?
+Dialogue: 0,0:08:52.63,0:08:55.80,main,Junichiro,0,0,0,,I don't know if it's ladylike or not,
+Dialogue: 0,0:08:56.30,0:08:58.60,main,Junichiro,0,0,0,,but I like people like that.
+Dialogue: 0,0:08:59.26,0:09:02.56,italics,Tomo,0,0,0,,What's with him today?! \NIs he trying to kill me?!
+Dialogue: 0,0:09:02.93,0:09:05.73,main,Junichiro,0,0,0,,Those two are pretty good, aren't they?
+Dialogue: 0,0:09:05.73,0:09:09.27,main,Tomo,0,0,0,,Huh? Oh... Yes, they do stand out.
+Dialogue: 0,0:09:09.90,0:09:11.44,main,Tomo,0,0,0,,They're clearly good friends.
+Dialogue: 0,0:09:11.44,0:09:13.24,main,Tomo,0,0,0,,Even though they're a boy and a girl...
+Dialogue: 0,0:09:14.07,0:09:17.70,main,Junichiro,0,0,0,,What do you think will happen \Nto them in the future?
+Dialogue: 0,0:09:17.70,0:09:20.37,main,Tomo,0,0,0,,Huh? Well, uh...
+Dialogue: 0,0:09:20.37,0:09:23.91,main,Tomo,0,0,0,,I-It'd be nice if they became \Nboyfriend and girlfriend.
+Dialogue: 0,0:09:24.62,0:09:27.21,main,Junichiro,0,0,0,,I figured you'd say that.
+Dialogue: 0,0:09:27.21,0:09:28.00,main,Tomo,0,0,0,,Huh?!
+Dialogue: 0,0:09:29.21,0:09:31.25,main,Junichiro,0,0,0,,I have someone like that, too.
+Dialogue: 0,0:09:31.25,0:09:34.72,main,Junichiro,0,0,0,,A girl who's... basically my best friend.
+Dialogue: 0,0:09:35.84,0:09:41.18,main,Junichiro,0,0,0,,But lately, things aren't the same \Nas they were when we were kids.
+Dialogue: 0,0:09:41.68,0:09:45.27,main,Tomo,0,0,0,,How would you like things to \Nturn out with her in the future?
+Dialogue: 0,0:09:45.27,0:09:48.19,main,Junichiro,0,0,0,,Well, I haven't really \Ngiven it much thought.
+Dialogue: 0,0:09:48.19,0:09:50.15,main,Tomo,0,0,0,,Well, you need to think about it!
+Dialogue: 0,0:09:51.82,0:09:54.32,main,Junichiro,0,0,0,,My goal for the time being is...
+Dialogue: 0,0:09:55.28,0:09:57.11,main,Junichiro,0,0,0,,to beat her, I guess.
+Dialogue: 0,0:09:57.11,0:09:57.82,main,Tomo,0,0,0,,Be—
+Dialogue: 0,0:09:58.49,0:10:01.74,italics,Tomo,0,0,0,,At this point... should I just tell him?
+Dialogue: 0,0:10:01.74,0:10:03.41,italics,Tomo,0,0,0,,I'll tell him I'm Tomo!
+Dialogue: 0,0:10:03.41,0:10:06.71,italics,Tomo,0,0,0,,Then maybe he'll see me \Nas a little bit more...
+Dialogue: 0,0:10:06.96,0:10:09.88,main,Junichiro,0,0,0,,Um, there's something I've been wondering...
+Dialogue: 0,0:10:09.88,0:10:10.58,main,Tomo,0,0,0,,Huh?!
+Dialogue: 0,0:10:11.25,0:10:14.63,main,Junichiro,0,0,0,,You bought ice cream at the \Nconvenience store. Is it okay out here?
+Dialogue: 0,0:10:19.76,0:10:21.26,main,Tomo,0,0,0,,Oh, crap!
+Dialogue: 0,0:10:21.51,0:10:24.97,main,Tomo,0,0,0,,Th-Thank you so much for all you've done today!
+Dialogue: 0,0:10:24.97,0:10:26.31,main,Junichiro,0,0,0,,Uh, hang on...
+Dialogue: 0,0:10:26.31,0:10:28.19,main,Tomo,0,0,0,,I'd better be going now!
+Dialogue: 0,0:10:31.44,0:10:34.15,main,Junichiro,0,0,0,,It couldn't be... right?
+Dialogue: 0,0:10:36.32,0:10:38.15,main,Tomo,0,0,0,,Sorry I took so long!
+Dialogue: 0,0:10:38.15,0:10:41.32,main,Tomo,0,0,0,,A lot happened on the... way...
+Dialogue: 0,0:10:41.32,0:10:43.78,sign_17055_186_Happy_Birthday__,Text,0,0,0,,{\clip(252,16,389,22)\pos(320,20)\3c&H304281&}Happy Birthday\N Tomo-chan
+Dialogue: 0,0:10:41.32,0:10:43.78,sign_17055_186_Happy_Birthday__,Text,0,0,0,,{\clip(252,22,389,28)\pos(320,20)\3c&H2C3D78&}Happy Birthday\N Tomo-chan
+Dialogue: 0,0:10:41.32,0:10:43.78,sign_17055_186_Happy_Birthday__,Text,0,0,0,,{\clip(252,28,389,34)\pos(320,20)\3c&H28386F&}Happy Birthday\N Tomo-chan
+Dialogue: 0,0:10:41.32,0:10:43.78,sign_17055_186_Happy_Birthday__,Text,0,0,0,,{\clip(252,34,389,40)\pos(320,20)\3c&H243366&}Happy Birthday\N Tomo-chan
+Dialogue: 0,0:10:41.32,0:10:43.78,sign_17055_186_Happy_Birthday__,Text,0,0,0,,{\clip(252,40,389,46)\pos(320,20)\3c&H212D5C&}Happy Birthday\N Tomo-chan
+Dialogue: 0,0:10:41.32,0:10:43.78,sign_17055_186_Happy_Birthday__,Text,0,0,0,,{\clip(252,46,389,52)\pos(320,20)\3c&H1D2853&}Happy Birthday\N Tomo-chan
+Dialogue: 0,0:10:41.32,0:10:43.78,sign_17055_186_Happy_Birthday__,Text,0,0,0,,{\clip(252,52,389,58)\pos(320,20)\3c&H19234A&}Happy Birthday\N Tomo-chan
+Dialogue: 0,0:10:41.32,0:10:43.78,sign_17055_186_Happy_Birthday__,Text,0,0,0,,{\clip(252,58,389,64)\pos(320,20)\3c&H151E41&}Happy Birthday\N Tomo-chan
+Dialogue: 0,0:10:45.74,0:10:48.33,main,Tomo,0,0,0,,This homemade cake is really good!
+Dialogue: 0,0:10:48.33,0:10:50.00,main,Tomo,0,0,0,,Thanks, both of you!
+Dialogue: 0,0:10:50.33,0:10:54.46,main,Misuzu,0,0,0,,Forget about that. Did you really see \NJunichiro at the convenience store?
+Dialogue: 0,0:10:54.46,0:10:55.42,main,Tomo,0,0,0,,Oh, yeah...
+Dialogue: 0,0:10:55.42,0:10:57.42,main,Tomo,0,0,0,,He said I looked pretty.
+Dialogue: 0,0:10:57.42,0:11:00.05,main,Carol,0,0,0,,Wow! That's great!
+Dialogue: 0,0:11:00.05,0:11:06.10,main,Tomo,0,0,0,,Well... If I'm being honest, \NI was super happy when he said it.
+Dialogue: 0,0:11:06.43,0:11:12.06,main,Tomo,0,0,0,,But I guess what I really want to \Nhear him say is something else.
+Dialogue: 0,0:11:12.35,0:11:14.82,main,Carol,0,0,0,,You mean you'd rather be \Ncalled cute than pretty?
+Dialogue: 0,0:11:14.82,0:11:17.28,main,Misuzu,0,0,0,,Let's try for that next time.
+Dialogue: 0,0:11:17.28,0:11:20.07,main,Tomo,0,0,0,,Uh, no, that's not what I meant...
+Dialogue: 0,0:11:24.99,0:11:26.29,main,Tomo,0,0,0,,What?
+Dialogue: 0,0:11:31.71,0:11:34.71,main,Tomo,0,0,0,,That hurt, damn it! \NWhat the hell are you doing?!
+Dialogue: 0,0:11:34.71,0:11:35.96,main,Junichiro,0,0,0,,Yeah, that's right.
+Dialogue: 0,0:11:37.42,0:11:39.67,main,Junichiro,0,0,0,,That punch could only come from Tomo!
+Dialogue: 0,0:11:40.22,0:11:44.05,main,Tomo,0,0,0,,Why are you happy?! \NA-Are you some kinda freak?!
+Dialogue: 0,0:11:46.01,0:11:50.02,sign_3603_13_I_Want_to_Be_See,Title,0,0,0,,{\fad(515,1)\fsp6\an1\pos(235,128)}Burn Up{\3c&H5A5659&\c&HEBEBEB&}!
+Dialogue: 0,0:11:46.01,0:11:50.02,sign_3603_13_I_Want_to_Be_See,Title,0,0,0,,{\fad(515,1)\an7\pos(235,223)\fscx65}The Ball Sports Tournament
+Dialogue: 0,0:11:46.56,0:11:49.22,main,Tomo,0,0,0,,"Burn Up! The Ball Sports Tournament."
+Dialogue: 0,0:11:56.27,0:11:59.07,main,Tomo,0,0,0,,Damn. I missed.
+Dialogue: 0,0:12:00.99,0:12:03.61,main,Tomo,0,0,0,,Hey! Why are you running away?
+Dialogue: 0,0:12:03.95,0:12:06.37,main,Carol,0,0,0,,Tomo-chan is kinda scary.
+Dialogue: 0,0:12:06.37,0:12:09.62,main,Misuzu,0,0,0,,Because the class-versus-class ball \Nsports tournament is coming up.
+Dialogue: 0,0:12:10.08,0:12:13.33,main,Misuzu,0,0,0,,She's always like that \Nbefore an athletic event.
+Dialogue: 0,0:12:13.92,0:12:16.79,main,Hanao,0,0,0,,Uh, so... For certain reasons...
+Dialogue: 0,0:12:17.21,0:12:23.63,main,Hanao,0,0,0,,Aizawa-san will be on the boys' dodgeball \Nteam at the ball sports tournament.
+Dialogue: 0,0:12:23.63,0:12:25.09,main,Boy Students,0,0,0,,All right!
+Dialogue: 0,0:12:25.26,0:12:28.44,main,Junichiro,0,0,0,,This is awesome, Tomo! We can play together!
+Dialogue: 0,0:12:28.81,0:12:31.89,italics,Tomo,0,0,0,,Why did this happen again?!
+Dialogue: 0,0:12:31.89,0:12:36.86,sign_21145_223_The_Day_of_the_B,Text,0,0,0,,{\fax0.71\frz322.2\move(220,325,303,90)}The Day of the Ball Sports Tournament
+Dialogue: 0,0:12:36.86,0:12:40.61,sign_21145_223_The_Day_of_the_B,Text,0,0,0,,{\c&HFFFFFF&\4c&H000000&\move(320,200,320,105)\an8\fs40\fsp6}First Round
+Dialogue: 0,0:12:40.78,0:12:44.53,main,Punk1,0,0,0,,I heard there's a girl on the team \Nwe're playing in the first round.
+Dialogue: 0,0:12:45.53,0:12:47.57,main,Leader,0,0,0,,For real? This'll be a cakewalk!
+Dialogue: 0,0:12:47.95,0:12:49.33,main,Junichiro,0,0,0,,We're ready!
+Dialogue: 0,0:12:49.33,0:12:50.29,main,Tomo,0,0,0,,Ready!
+Dialogue: 0,0:12:50.45,0:12:53.58,main,Leader,0,0,0,,Sure, we'll play around with ya.
+Dialogue: 0,0:12:53.79,0:12:55.92,main,Tomo,0,0,0,,And we'll be giving this all we've got.
+Dialogue: 0,0:12:56.38,0:12:58.46,main,Junichiro,0,0,0,,You'd better make sure you're prepared.
+Dialogue: 0,0:13:03.05,0:13:06.05,sign_21892_232_VS__Third_Year_P,Text,0,0,0,,{\fad(445,1)\fnGeorgia}VS. Third-Year Punk Team
+Dialogue: 0,0:13:04.13,0:13:06.05,sign_21892_232_VS__Third_Year_P,Text,0,0,0,,{\fad(190,1)\fnGeorgia\an2}Instant Victory
+Dialogue: 0,0:13:06.05,0:13:07.43,sign_21145_223_The_Day_of_the_B,Text,0,0,0,,{\c&HFFFFFF&\4c&H000000&\pos(320,230)\an8\fs40\fsp6\fad(1,500)}Second Round
+Dialogue: 0,0:13:09.30,0:13:11.43,main,Tomo,0,0,0,,Let's have a good, fair match!
+Dialogue: 0,0:13:11.43,0:13:12.27,main,Misaki,0,0,0,,Yeah.
+Dialogue: 0,0:13:12.43,0:13:15.77,main,Tomo,0,0,0,,I know I don't have to hold \Nback against you, Senpai!
+Dialogue: 0,0:13:15.77,0:13:17.60,main,Junichiro,0,0,0,,Let's make it a good game.
+Dialogue: 0,0:13:17.60,0:13:18.23,main,Misaki,0,0,0,,Wha...
+Dialogue: 0,0:13:18.73,0:13:21.94,main,Misaki,0,0,0,,Everyone, put your own \Nsafety above all else!
+Dialogue: 0,0:13:21.94,0:13:25.61,main,Misaki,0,0,0,,Let's finish this match with \Neveryone still standing!
+Dialogue: 0,0:13:26.16,0:13:27.57,main,Misaki's Classmate1,0,0,0,,What're you talking about?
+Dialogue: 0,0:13:27.57,0:13:29.45,main,Misaki's Classmate2,0,0,0,,It's just a dodgeball match.
+Dialogue: 0,0:13:33.75,0:13:36.37,main,Misaki's Classmates,0,0,0,,Misaki!
+Dialogue: 0,0:13:36.37,0:13:38.88,sign_21892_232_VS__Third_Year_P,Text,0,0,0,,{\fnGeorgia\fs30}VS. Misaki-senpai and His Classmates
+Dialogue: 0,0:13:36.37,0:13:38.88,sign_21892_232_VS__Third_Year_P,Text,0,0,0,,{\fnGeorgia\an2}Overwhelming Victory
+Dialogue: 0,0:13:42.76,0:13:44.97,main,Junichiro,0,0,0,,Well, the final round's next.
+Dialogue: 0,0:13:44.97,0:13:45.84,main,Tomo,0,0,0,,Yeah.
+Dialogue: 0,0:13:46.34,0:13:48.14,main,Tanabe,0,0,0,,Hey! We've got trouble!
+Dialogue: 0,0:13:48.14,0:13:50.30,main,Tanabe,0,0,0,,One of the guys on the other team \Nin the finals is like a gorilla!
+Dialogue: 0,0:13:50.72,0:13:54.60,main,Junichiro,0,0,0,,That third-year in the judo club, \NGoma Takeru-senpai, right?
+Dialogue: 0,0:13:55.18,0:13:58.10,main,Tomo,0,0,0,,The guy known as the strongest \Nkid in the school.
+Dialogue: 0,0:13:58.10,0:14:00.52,main,Tomo,0,0,0,,I'm not sure if even Jun and I can beat him.
+Dialogue: 0,0:14:01.02,0:14:04.36,main,Tomo,0,0,0,,I knew the day would come eventually \Nwhen we'd have to fight him...
+Dialogue: 0,0:14:04.36,0:14:07.61,main,Junichiro,0,0,0,,But I didn't think we'd have \Nto fight him this soon.
+Dialogue: 0,0:14:07.61,0:14:10.99,main,Tanabe,0,0,0,,Uh, no... You don't really \Nhave to fight him.
+Dialogue: 0,0:14:11.33,0:14:14.12,main,Junichiro,0,0,0,,What are you saying? He's the \Nstrongest kid in the school!
+Dialogue: 0,0:14:14.12,0:14:16.21,main,Tomo,0,0,0,,We've gotta fight him at least once!
+Dialogue: 0,0:14:16.21,0:14:18.62,main,Tanabe,0,0,0,,Sorry. I don't get you at all.
+Dialogue: 0,0:14:19.96,0:14:22.88,main,Carol,0,0,0,,Too bad we lost at volleyball.
+Dialogue: 0,0:14:22.88,0:14:26.26,main,Misuzu,0,0,0,,There was no way a team with \Nyou and me on it could win.
+Dialogue: 0,0:14:26.26,0:14:27.59,main,Carol,0,0,0,,True.
+Dialogue: 0,0:14:28.18,0:14:31.51,main,Misuzu,0,0,0,,It's just about time for Tomo \Nand Junichiro's final round.
+Dialogue: 0,0:14:33.01,0:14:34.81,main,Misuzu,0,0,0,,What are you snickering about?
+Dialogue: 0,0:14:35.18,0:14:39.27,main,Carol,0,0,0,,I was just thinking, you and I\N are together a lot lately.
+Dialogue: 0,0:14:39.81,0:14:42.31,main,Carol,0,0,0,,Hey, don't go.
+Dialogue: 0,0:14:43.73,0:14:46.19,sign_21145_223_The_Day_of_the_B,Text,0,0,0,,{\shad0\an8\fs39\fsp6\frx36\move(320,255,320,258)\fad(731,1)\t(1,2460,\fs40)}Final Round
+Dialogue: 0,0:14:49.86,0:14:52.57,main,Junichiro,0,0,0,,We'll be giving everything \Nwe've got to this final round.
+Dialogue: 0,0:14:52.57,0:14:53.49,main,Tomo,0,0,0,,Yep!
+Dialogue: 0,0:14:53.49,0:14:55.79,main,Goma,0,0,0,,So you're Aizawa Tomo?
+Dialogue: 0,0:14:55.79,0:14:57.83,main,Tomo,0,0,0,,Yeah, that's me.
+Dialogue: 0,0:14:57.83,0:15:01.25,main,Goma,0,0,0,,I heard you were the karate club's ace,
+Dialogue: 0,0:15:01.25,0:15:03.25,main,Goma,0,0,0,,but frankly, I'm disappointed.
+Dialogue: 0,0:15:03.25,0:15:06.63,main,Goma,0,0,0,,I didn't know you'd be such \Na fragile-looking little lady.
+Dialogue: 0,0:15:06.63,0:15:09.43,main,Tomo,0,0,0,,"A fragile-looking little lady," he says!
+Dialogue: 0,0:15:09.43,0:15:11.18,main,Tomo,0,0,0,,Did you hear that?! Well?!
+Dialogue: 0,0:15:11.18,0:15:13.89,main,Goma,0,0,0,,You do seem fairly strong...
+Dialogue: 0,0:15:14.18,0:15:18.39,main,Goma,0,0,0,,But to be honest, you interest \Nme more than Aizawa.
+Dialogue: 0,0:15:18.39,0:15:19.31,main,Junichiro,0,0,0,,Pardon?
+Dialogue: 0,0:15:19.89,0:15:23.86,main,Goma,0,0,0,,I hear you're pretty athletic, \Nbut you're not in any clubs.
+Dialogue: 0,0:15:23.86,0:15:28.28,main,Goma,0,0,0,,How about this? If I win this \Nmatch, you join the judo club.
+Dialogue: 0,0:15:28.57,0:15:32.32,main,Junichiro,0,0,0,,Fine. And if I win...
+Dialogue: 0,0:15:33.66,0:15:34.95,main,Junichiro,0,0,0,,What should I say?
+Dialogue: 0,0:15:34.95,0:15:38.04,main,Tomo,0,0,0,,Way to fall flat at the \Nfinish line! Don't ask me!
+Dialogue: 0,0:15:39.62,0:15:43.75,italics,Announcement,0,0,0,,The final round of boys' \Ndodgeball will now begin.
+Dialogue: 0,0:15:44.17,0:15:46.21,italics,Tanabe,0,0,0,,Misuzu-chan is cheering me on!
+Dialogue: 0,0:15:46.59,0:15:49.92,italics,Tanabe,0,0,0,,Watch me. I'll win this match for you!
+Dialogue: 0,0:15:53.39,0:15:55.60,main,Junichiro,0,0,0,,Tanabe!
+Dialogue: 0,0:15:56.81,0:15:59.14,main,Carol,0,0,0,,He was sending you some sort of sign.
+Dialogue: 0,0:15:59.14,0:16:01.44,main,Misuzu,0,0,0,,Was he? I wasn't watching.
+Dialogue: 0,0:16:01.64,0:16:03.98,main,Tomo,0,0,0,,He didn't waste any time!
+Dialogue: 0,0:16:03.98,0:16:06.15,main,Junichiro,0,0,0,,Hey, Tanabe! You okay?!
+Dialogue: 0,0:16:08.15,0:16:10.94,main,Goma,0,0,0,,Sports are great, aren't they?
+Dialogue: 0,0:16:10.94,0:16:15.62,main,Goma,0,0,0,,It doesn't matter if you hurt someone, \Nas long as you follow the rules.
+Dialogue: 0,0:16:15.62,0:16:18.79,main,Tomo,0,0,0,,Damn that violent bastard!
+Dialogue: 0,0:16:18.79,0:16:21.08,main,Junichiro,0,0,0,,What does he think sports are about?!
+Dialogue: 0,0:16:21.08,0:16:23.33,main,Carol,0,0,0,,I don't think he's one to talk.
+Dialogue: 0,0:16:23.33,0:16:24.79,main,Misuzu,0,0,0,,You can say that again.
+Dialogue: 0,0:16:27.46,0:16:28.67,main,Junichiro,0,0,0,,Noda!
+Dialogue: 0,0:16:29.13,0:16:30.84,main,Tomo,0,0,0,,Fukaya!
+Dialogue: 0,0:16:33.51,0:16:36.26,main,Tomo,0,0,0,,Why aren't you throwing the ball at {\i1}me{\i0}?!
+Dialogue: 0,0:16:40.85,0:16:42.56,main,Goma,0,0,0,,Don't be impatient.
+Dialogue: 0,0:16:43.52,0:16:47.27,main,Goma,0,0,0,,I took out the guys who aren't fit \Nto stand on this court first.
+Dialogue: 0,0:16:47.27,0:16:51.78,main,Goma,0,0,0,,And that means you're next, Aizawa!
+Dialogue: 0,0:16:56.32,0:16:57.37,main,Tomo,0,0,0,,Uh-oh!
+Dialogue: 0,0:16:58.58,0:16:59.99,main,Tomo,0,0,0,,Jun!
+Dialogue: 0,0:17:05.67,0:17:08.42,main,Tomo,0,0,0,,You idiot! What the hell were you doing?!
+Dialogue: 0,0:17:09.50,0:17:13.59,main,Junichiro,0,0,0,,Dunno. My body just moved on its own.
+Dialogue: 0,0:17:14.43,0:17:17.93,main,Tomo,0,0,0,,Stay with me, Jun!
+Dialogue: 0,0:17:18.55,0:17:20.93,main,Tomo,0,0,0,,How dare you do that to Jun?
+Dialogue: 0,0:17:22.98,0:17:25.85,main,Tomo,0,0,0,,I'm gonna make you pay for that!
+Dialogue: 0,0:17:25.85,0:17:29.73,main,Goma,0,0,0,,Oh? And how are you gonna make me pay?
+Dialogue: 0,0:17:32.61,0:17:35.74,main,Tanabe,0,0,0,,It's down to a one-on-one between \NAizawa-san and the gorilla.
+Dialogue: 0,0:17:36.20,0:17:38.32,main,Tanabe,0,0,0,,Is Aizawa-san gonna be okay?
+Dialogue: 0,0:17:38.32,0:17:41.41,main,Junichiro,0,0,0,,Don't worry. No one can beat her.
+Dialogue: 0,0:17:41.70,0:17:44.87,main,Tomo,0,0,0,,I'm putting my all into this throw!
+Dialogue: 0,0:17:45.21,0:17:46.87,main,Tomo,0,0,0,,Here I go!
+Dialogue: 0,0:17:47.50,0:17:52.84,main,Tomo,0,0,0,,Take this, damn it!
+Dialogue: 0,0:17:53.84,0:17:55.30,main,Goma,0,0,0,,Bring it on!
+Dialogue: 0,0:17:59.39,0:18:02.06,italics,Goma,0,0,0,,It dropped?! A between-the-legs pass?!
+Dialogue: 0,0:18:02.06,0:18:05.06,main,Tomo,0,0,0,,I'm not playing by myself here!
+Dialogue: 0,0:18:05.06,0:18:08.44,main,Tomo,0,0,0,,Go, Jun!
+Dialogue: 0,0:18:09.90,0:18:10.81,main,Goma/Junichiro,0,0,0,,Huh?
+Dialogue: 0,0:18:12.44,0:18:13.23,main,Tanabe,0,0,0,,Yah.
+Dialogue: 0,0:18:17.57,0:18:19.32,italics,Announcement,0,0,0,,That concludes the match.
+Dialogue: 0,0:18:19.74,0:18:23.79,italics,Announcement,0,0,0,,The boys' dodgeball winner is Class 1-A!
+Dialogue: 0,0:18:23.79,0:18:25.41,main,Hanao,0,0,0,,Congratulations.
+Dialogue: 0,0:18:26.58,0:18:31.21,italics,Announcement,0,0,0,,Everyone, give Class 1-A \Na round of applause!
+Dialogue: 0,0:18:40.89,0:18:43.39,main,Carol,0,0,0,,Tomo-chan, congrats on the win.
+Dialogue: 0,0:18:43.39,0:18:45.18,main,Tomo,0,0,0,,Yeah, thanks.
+Dialogue: 0,0:18:45.18,0:18:47.56,main,Misuzu,0,0,0,,What's wrong? You don't seem happy.
+Dialogue: 0,0:18:47.89,0:18:52.94,main,Tomo,0,0,0,,I had so much fun being \Non a team with him today.
+Dialogue: 0,0:18:53.36,0:18:56.03,main,Tomo,0,0,0,,It was like we went back to the old days.
+Dialogue: 0,0:18:56.40,0:19:01.49,main,Tomo,0,0,0,,It kinda made me wish things \Ncould stay like this forever.
+Dialogue: 0,0:19:02.49,0:19:07.04,main,Tomo,0,0,0,,I hope we can always have the kind of \Nrelationship where we can goof around together.
+Dialogue: 0,0:19:07.96,0:19:10.12,main,Tomo,0,0,0,,But I guess we can't, huh?
+Dialogue: 0,0:19:10.67,0:19:11.92,italics,Misuzu,0,0,0,,Sorry, Tomo.
+Dialogue: 0,0:19:12.21,0:19:16.21,italics,Misuzu,0,0,0,,In the end, I can only do \Nthings for my own gain.
+Dialogue: 0,0:19:20.68,0:19:22.64,main,Goma,0,0,0,,Hey. Hold up.
+Dialogue: 0,0:19:23.30,0:19:25.85,main,Goma,0,0,0,,You're not satisfied with \Nhow that ended, are you?
+Dialogue: 0,0:19:26.35,0:19:28.56,main,Goma,0,0,0,,Come with me for a minute.
+Dialogue: 0,0:19:33.77,0:19:37.36,main,Goma,0,0,0,,Wh-What's the idea?! Why...
+Dialogue: 0,0:19:37.36,0:19:42.32,main,Goma,0,0,0,,Why am I getting beat up by you, \Nwhen I do judo and you do karate?!
+Dialogue: 0,0:19:43.28,0:19:45.28,main,Junichiro,0,0,0,,You let your guard down too much.
+Dialogue: 0,0:19:58.13,0:19:59.97,italics,Goma,0,0,0,,I managed to pull off more wins than him.
+Dialogue: 0,0:19:59.97,0:20:03.26,main,Junichiro,0,0,0,,Damn it... I guess I still \Ncan't beat you after all.
+Dialogue: 0,0:20:03.68,0:20:06.51,main,Goma,0,0,0,,Is this really an outcome you \Nshould be depressed over?
+Dialogue: 0,0:20:06.51,0:20:07.18,main,Junichiro,0,0,0,,Huh?
+Dialogue: 0,0:20:07.18,0:20:11.14,main,Goma,0,0,0,,You didn't even use karate on me once.
+Dialogue: 0,0:20:11.64,0:20:14.90,main,Goma,0,0,0,,At this point, we might as well say I lost.
+Dialogue: 0,0:20:15.56,0:20:17.52,main,Junichiro,0,0,0,,That's not the problem.
+Dialogue: 0,0:20:18.69,0:20:20.07,main,Goma,0,0,0,,Hang on!
+Dialogue: 0,0:20:20.07,0:20:23.32,main,Goma,0,0,0,,I hear you almost never \Nenter any tournaments.
+Dialogue: 0,0:20:23.82,0:20:25.95,main,Goma,0,0,0,,Don't you feel like that's \Na waste of talent?
+Dialogue: 0,0:20:27.08,0:20:30.29,main,Goma,0,0,0,,What was your reason for getting so strong?
+Dialogue: 0,0:20:31.41,0:20:36.25,main,Junichiro,0,0,0,,I just wanted to catch up to the \Nbig back I saw in front of me.
+Dialogue: 0,0:20:37.09,0:20:39.13,main,Junichiro,0,0,0,,But the situation changed,
+Dialogue: 0,0:20:39.13,0:20:42.42,main,Junichiro,0,0,0,,and now I don't even know \Nhow to approach it.
+Dialogue: 0,0:20:43.13,0:20:45.05,main,Junichiro,0,0,0,,What do you think I should do?
+Dialogue: 0,0:20:45.55,0:20:47.51,main,Goma,0,0,0,,Uh... I don't know.
+Dialogue: 0,0:20:49.06,0:20:51.64,main,Toma,0,0,0,,I heard you fought with Goma-senpai.
+Dialogue: 0,0:20:51.64,0:20:53.64,main,Junichiro,0,0,0,,Yeah, and I lost.
+Dialogue: 0,0:20:54.27,0:20:55.40,main,Tomo,0,0,0,,I see.
+Dialogue: 0,0:20:56.48,0:21:00.15,main,Junichiro,0,0,0,,I lost, but I bet you could beat him.
+Dialogue: 0,0:21:00.15,0:21:03.70,main,Tomo,0,0,0,,You know, I've thought this for a while,
+Dialogue: 0,0:21:03.70,0:21:06.49,main,Tomo,0,0,0,,but you overestimate me way too much.
+Dialogue: 0,0:21:06.49,0:21:09.66,main,Junichiro,0,0,0,,Do I? I don't think I'm overestimating you.
+Dialogue: 0,0:21:10.49,0:21:15.83,main,Junichiro,0,0,0,,Then again, it wouldn't surprise \Nme if you started breathing fire.
+Dialogue: 0,0:21:15.83,0:21:18.42,main,Tomo,0,0,0,,Oh, you're finally counting \Nme as a monster, huh?
+Dialogue: 0,0:21:19.67,0:21:22.76,main,Tomo,0,0,0,,You're a guy, and I'm a girl.
+Dialogue: 0,0:21:23.30,0:21:26.93,main,Tomo,0,0,0,,You're obviously gonna be better than \Nme at any kind of physical contest.
+Dialogue: 0,0:21:28.51,0:21:32.67,italics,Junichiro,0,0,0,,During that match, I wasn't \Nexpecting that pass at all.
+Dialogue: 0,0:21:33.60,0:21:37.98,italics,Junichiro,0,0,0,,I just believed that you \Nwould win it in the end.
+Dialogue: 0,0:21:38.91,0:21:46.65,italics,Junichiro,0,0,0,,Maybe I'm still just a gamer kid who's only \Nstrong-willed because you're by my side.
+Dialogue: 0,0:21:47.22,0:21:49.04,italics,Junichiro,0,0,0,,It's not physical strength.
+Dialogue: 0,0:21:49.89,0:21:51.01,main,Tomo,0,0,0,,What's up?
+Dialogue: 0,0:21:51.01,0:21:53.15,main,Junichiro,0,0,0,,Oh, nothing.
+Dialogue: 0,0:22:01.13,0:22:02.18,italics,Junichiro,0,0,0,,I want...
+Dialogue: 0,0:22:03.77,0:22:05.90,italics,Junichiro,0,0,0,,to be like you.
+Dialogue: 0,0:22:10.80,0:22:14.56,italics,ED,0,0,0,,(This suspicious behavior is...)
+Dialogue: 0,0:22:14.56,0:22:18.85,italics,ED,0,0,0,,Hey, you know, I'm all mixed up
+Dialogue: 0,0:22:18.85,0:22:23.32,italics,ED,0,0,0,,It's too complicated, I'm freaking out
+Dialogue: 0,0:22:23.32,0:22:25.86,italics,ED,0,0,0,,I want to look cute to you
+Dialogue: 0,0:22:23.65,0:22:29.20,italics,ED,0,0,0,,(crazy, crazy, drive me crazy, and that's…)
+Dialogue: 0,0:22:25.86,0:22:28.49,italics,ED,0,0,0,,So I'm plotting, bargaining, \Nsly, and stubborn
+Dialogue: 0,0:22:29.20,0:22:32.99,italics,ED,0,0,0,,Dizzying love
+Dialogue: 0,0:22:34.16,0:22:38.58,italics,ED,0,0,0,,Just tell him to look at you
+Dialogue: 0,0:22:38.58,0:22:43.55,italics,ED,0,0,0,,And watch him stiffen up even more, \Nbecause you're both so awkward
+Dialogue: 0,0:22:43.55,0:22:47.42,italics,ED,0,0,0,,What? Even if we're alike in that way
+Dialogue: 0,0:22:47.42,0:22:52.01,italics,ED,0,0,0,,It doesn't make me happy, 'cause it\N means our love is going nowhere
+Dialogue: 0,0:22:52.01,0:23:00.90,italics,ED,0,0,0,,Cloudy heart, swirling emotions—\NI sense rain coming
+Dialogue: 0,0:23:00.90,0:23:09.99,italics,ED,0,0,0,,So I partly open my umbrella, \Nthen sneakily scoot closer to you
+Dialogue: 0,0:23:09.99,0:23:13.95,italics,ED,0,0,0,,Please notice the curl of my \Neyelashes as I keep blinking
+Dialogue: 0,0:23:13.95,0:23:18.87,italics,ED,0,0,0,,And don't say I'm acting weird
+Dialogue: 0,0:23:18.87,0:23:22.84,italics,ED,0,0,0,,All this plotting and bargaining \Nis my sly plan to look cute to you
+Dialogue: 0,0:23:22.84,0:23:27.88,italics,ED,0,0,0,,Try to solve the riddle of \Nthis soft, dizzying love
+Dialogue: 0,0:23:25.75,0:23:30.01,italics,ED,0,0,0,,(Buzzing, fidgeting)
+Dialogue: 0,0:23:30.26,0:23:34.43,italics,ED,0,0,0,,Listen, I might be a bit \Ntangled in my own web now
+Dialogue: 0,0:23:34.43,0:23:38.85,italics,ED,0,0,0,,But once you unravel the mystery, \Nyou'll see pure lo-love

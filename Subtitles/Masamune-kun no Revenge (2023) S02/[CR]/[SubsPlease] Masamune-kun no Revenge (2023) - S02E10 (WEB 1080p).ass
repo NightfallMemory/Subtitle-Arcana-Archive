@@ -1,0 +1,381 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Episode Title,Arial,20,&H006B47F3,&H000000FF,&H00EAF4FF,&H64000000,-1,0,0,0,100,100,0,0,1,2,1,3,20,40,60,0
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,18,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,18,1
+Style: Flight Board,Arial,16,&H006E5859,&H000000FF,&H0030312A,&H00000000,0,0,0,0,100,100,0,0,1,4,0,4,436,171,0,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: sign_22134_235_Shortcake,Arial,9,&H00405352,&H000000FF,&H00EDFEFD,&H00000000,0,0,0,0,115,115,0,25,1,2,0,8,189,409,291,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.70,0:00:04.19,Flashback,Neko,0,0,0,,I can't understand why you feel this way!
+Dialogue: 0,0:00:04.19,0:00:07.26,Flashback,Neko,0,0,0,,How can you say that you \Nlove Masamune-sama, then?
+Dialogue: 0,0:00:09.06,0:00:10.19,Flashback,Aki,0,0,0,,Did you know?
+Dialogue: 0,0:00:11.03,0:00:14.61,Flashback,Aki,0,0,0,,He used to be a bit weird and different, too.
+Dialogue: 0,0:00:15.12,0:00:19.83,Flashback,Aki,0,0,0,,Even if he dislikes me or denies me, \NI won't let Masamune go now.
+Dialogue: 0,0:00:20.59,0:00:21.79,Flashback,Aki,0,0,0,,Because...
+Dialogue: 0,0:00:22.43,0:00:23.75,Flashback,Aki,0,0,0,,that's just who I am.
+Dialogue: 0,0:00:25.13,0:00:29.46,Flashback,Aki,0,0,0,,So... I'm in the same boat as you. \NOur feelings only go one way.
+Dialogue: 0,0:00:34.09,0:00:37.25,Flashback,Aki,0,0,0,,I think my feelings might be \Nmore deeply rooted, though.
+Dialogue: 0,0:01:03.31,0:01:04.57,Main,Masamune,0,0,0,,Man, it's cold.
+Dialogue: 0,0:02:35.05,0:02:40.97,Episode Title,Sign,0,0,0,,{\fad(1450,950)\fsp4}#10 "{\c&H2A8AF6&}W{\c}h{\c&H2A8AF6&}i{\c}t{\c&H2A8AF6&}e{\c}o{\c&H2A8AF6&}u{\c}t"
+Dialogue: 0,0:02:42.43,0:02:43.45,Main,Aki,0,0,0,,Yoshino.
+Dialogue: 0,0:02:45.45,0:02:46.77,Main,Aki,0,0,0,,Sorry to keep you waiting.
+Dialogue: 0,0:02:47.09,0:02:49.33,Main,Aki,0,0,0,,It's cold, so let's get something to eat.
+Dialogue: 0,0:02:50.98,0:02:54.69,Main,Aki,0,0,0,,A café, a family restaurant, or a \Nsweets parlor? Where should we go?
+Dialogue: 0,0:02:56.82,0:02:57.97,Main,Yoshino,0,0,0,,Aki-sama...
+Dialogue: 0,0:02:57.97,0:02:59.63,Main,Yoshino,0,0,0,,Has something happened?
+Dialogue: 0,0:03:00.91,0:03:02.73,Main,Aki,0,0,0,,Not really.
+Dialogue: 0,0:03:02.73,0:03:04.07,Main,Yoshino,0,0,0,,You're lying.
+Dialogue: 0,0:03:10.75,0:03:13.69,Main,Aki,0,0,0,,I just had a little conversation.
+Dialogue: 0,0:03:13.69,0:03:16.34,Main,Aki,0,0,0,,I was told that Makabe doesn't \Nreally have feelings for me,
+Dialogue: 0,0:03:16.34,0:03:18.87,Main,Aki,0,0,0,,and that I should break up with him... \Nby Commando girl.
+Dialogue: 0,0:03:20.63,0:03:22.36,Main,Aki,0,0,0,,Stop that, Yoshino!
+Dialogue: 0,0:03:22.36,0:03:25.21,Main,Yoshino,0,0,0,,But Aki-sama, that's so cruel!
+Dialogue: 0,0:03:37.52,0:03:41.06,Main,Aki,0,0,0,,What she said wasn't exactly wrong, though.
+Dialogue: 0,0:03:41.58,0:03:44.45,Main,Aki,0,0,0,,It's true that he doesn't love me.
+Dialogue: 0,0:03:45.51,0:03:49.63,Main,Aki,0,0,0,,He only got close to me because he hates me.
+Dialogue: 0,0:03:50.29,0:03:51.46,Main,Yoshino,0,0,0,,No...
+Dialogue: 0,0:03:51.87,0:03:53.92,Main,Yoshino,0,0,0,,That's not true, Aki-sama!
+Dialogue: 0,0:03:54.45,0:03:55.74,Main,Aki,0,0,0,,Yoshino?
+Dialogue: 0,0:03:55.76,0:03:58.38,Main,Yoshino,0,0,0,,You've completely got the wrong idea.
+Dialogue: 0,0:03:58.97,0:04:04.98,Main,Yoshino,0,0,0,,It's all my fault. I did this.
+Dialogue: 0,0:04:06.17,0:04:07.46,Main,Yoshino,0,0,0,,I'm so sorry...
+Dialogue: 0,0:04:08.87,0:04:11.14,Main,Yoshino,0,0,0,,You two aren't at fault here.
+Dialogue: 0,0:04:20.41,0:04:21.49,Main,Yoshino,0,0,0,,I...
+Dialogue: 0,0:04:22.29,0:04:27.01,Main,Yoshino,0,0,0,,hated Pig's Foot so much, and I didn't \Nwant him to take you from me...
+Dialogue: 0,0:04:27.98,0:04:30.87,Main,Yoshino,0,0,0,,That's why I called him \N"Pig's Foot\N and chased him off.
+Dialogue: 0,0:04:31.98,0:04:36.42,Main,Yoshino,0,0,0,,Apparently, Pig's Foot transferred \Nto our school to get revenge.
+Dialogue: 0,0:04:36.93,0:04:39.97,Main,Yoshino,0,0,0,,But I didn't want him to do that.
+Dialogue: 0,0:04:40.42,0:04:45.59,Main,Yoshino,0,0,0,,That's why I pretended to help him, but I \Nwas going to try to help you two make up.
+Dialogue: 0,0:04:47.77,0:04:49.85,Main,Aki,0,0,0,,So you worked really hard.
+Dialogue: 0,0:04:55.23,0:04:57.57,Main,Yoshino,0,0,0,,Please don't say that he doesn't love you.
+Dialogue: 0,0:04:58.45,0:05:01.18,Main,Yoshino,0,0,0,,The feelings between you \Nand Pig's Foot are mutual.
+Dialogue: 0,0:05:01.61,0:05:03.53,Main,Yoshino,0,0,0,,Pig's Foot knows that, too.
+Dialogue: 0,0:05:04.43,0:05:07.17,Italics,Aki,0,0,0,,Oh, you're so...
+Dialogue: 0,0:05:08.25,0:05:11.35,Italics,Aki,0,0,0,,No. You two are so...
+Dialogue: 0,0:05:14.95,0:05:16.10,Main,Aki,0,0,0,,You'll get wet.
+Dialogue: 0,0:05:17.73,0:05:21.59,Main,Aki,0,0,0,,Say, there's something \NI want you to look into.
+Dialogue: 0,0:05:24.79,0:05:25.84,Main,Masamune,0,0,0,,Whoa.
+Dialogue: 0,0:05:25.84,0:05:27.76,Main,Masamune,0,0,0,,It really piled up.
+Dialogue: 0,0:05:28.01,0:05:29.60,Main,Chinatsu,0,0,0,,Wow, that's amazing!
+Dialogue: 0,0:05:29.60,0:05:32.22,Main,Chinatsu,0,0,0,,It's been forever since we got this much snow!
+Dialogue: 0,0:05:32.22,0:05:33.90,Main,Chinatsu,0,0,0,,Let's make a snowman!
+Dialogue: 0,0:05:33.90,0:05:35.02,Main,Masamune,0,0,0,,Nope, not happening.
+Dialogue: 0,0:05:35.42,0:05:36.95,Main,Chinatsu,0,0,0,,Huh? Why not?
+Dialogue: 0,0:05:37.42,0:05:40.09,Main,Masamune,0,0,0,,It's cold, it's too much trouble, and it's cold.
+Dialogue: 0,0:05:40.09,0:05:42.90,Main,Chinatsu,0,0,0,,Boo. Fine, then. I'll make one myself.
+Dialogue: 0,0:05:43.26,0:05:47.39,Main,Chinatsu,0,0,0,,You just stay and sulk in the warm \Nhouse, Grandpa Party Pooper.
+Dialogue: 0,0:05:47.39,0:05:48.49,Main,Masamune,0,0,0,,Grandpa?!
+Dialogue: 0,0:05:49.99,0:05:51.98,Main,Masamune,0,0,0,,Don't you dare underestimate my muscles!
+Dialogue: 0,0:05:51.98,0:05:54.24,Main Top,Masamune,0,0,0,,Hup, hup, hup, hup, hup, hup!
+Dialogue: 0,0:05:51.98,0:05:54.24,Main,Chinatsu,0,0,0,,Wow! That's the spirit, Onii-chan!
+Dialogue: 0,0:05:55.78,0:05:57.46,Main,Chinatsu,0,0,0,,Should we use buttons for its eyes?
+Dialogue: 0,0:05:57.78,0:06:00.18,Main,Masamune,0,0,0,,Wait, leave this to me.
+Dialogue: 0,0:06:03.10,0:06:04.67,Main,Masamune,0,0,0,,There, all done.
+Dialogue: 0,0:06:07.98,0:06:11.18,Main,Chinatsu,0,0,0,,Wait, wait, that's terrifying! \NWhy is it a Daruma doll?!
+Dialogue: 0,0:06:11.18,0:06:13.49,Main,Masamune,0,0,0,,Well, a snowman is technically \Ncalled "yukidaruma," right?
+Dialogue: 0,0:06:13.49,0:06:14.47,Main,Chinatsu,0,0,0,,Ah...
+Dialogue: 0,0:06:14.81,0:06:18.23,Main,Masamune,0,0,0,,It's good luck, too. This is one of my best.
+Dialogue: 0,0:06:18.70,0:06:22.86,Main,Chinatsu,0,0,0,,Huh... Who are you sending that to? \NYour girlfriend?
+Dialogue: 0,0:06:22.86,0:06:24.57,Main,Masamune,0,0,0,,Wh-Why does that matter?
+Dialogue: 0,0:06:24.89,0:06:29.06,Main,Chinatsu,0,0,0,,Hey, when are you going to let me \Nmeet this supposed girlfriend of yours?
+Dialogue: 0,0:06:29.06,0:06:29.95,Main,Masamune,0,0,0,,What?
+Dialogue: 0,0:06:29.95,0:06:32.86,Main,Chinatsu,0,0,0,,Mom said she wants to meet her, too.
+Dialogue: 0,0:06:32.86,0:06:35.66,Main,Chinatsu,0,0,0,,Oh! Why don't we invite her \Nover this weekend?
+Dialogue: 0,0:06:35.66,0:06:37.74,Main,Masamune,0,0,0,,Huh?! No way!
+Dialogue: 0,0:06:37.74,0:06:41.94,Main,Chinatsu,0,0,0,,Boo... I just want to be friends \Nwith your girlfriend.
+Dialogue: 0,0:06:42.50,0:06:45.21,Main,Masamune,0,0,0,,Well, eventually...
+Dialogue: 0,0:06:45.50,0:06:47.46,Main,Chinatsu,0,0,0,,Really?! You better!
+Dialogue: 0,0:06:47.46,0:06:49.31,Main,Masamune,0,0,0,,Oh, jeez. All right already.
+Dialogue: 0,0:06:53.10,0:06:55.39,Main,Tae,0,0,0,,White Day is next week.
+Dialogue: 0,0:06:55.39,0:06:59.00,Main,Tae,0,0,0,,Man, I can't wait to get all those return gifts.
+Dialogue: 0,0:06:59.00,0:07:00.57,Main,Girls,0,0,0,,Right?
+Dialogue: 0,0:07:01.35,0:07:04.04,Main,Man A,0,0,0,,Man, every single year! That pressure!
+Dialogue: 0,0:07:04.04,0:07:06.69,Main,Man B,0,0,0,,All because we accepted \Nchocolates on Valentine's Day...
+Dialogue: 0,0:07:06.69,0:07:07.82,Main,Man C,0,0,0,,Even if it was obligatory!
+Dialogue: 0,0:07:10.46,0:07:12.50,Flashback,Kojuurou,0,0,0,,Why did you do that?
+Dialogue: 0,0:07:13.87,0:07:16.29,Flashback,Neko,0,0,0,,If I said it was for \NMasamune-sama's happiness...
+Dialogue: 0,0:07:16.87,0:07:19.97,Flashback,Neko,0,0,0,,Would ya think I'm oversteppin' my bounds?
+Dialogue: 0,0:07:20.90,0:07:21.50,Flashback,Kojuurou,0,0,0,,Huh?
+Dialogue: 0,0:07:22.11,0:07:27.46,Flashback,Neko,0,0,0,,Is being hurt, pushing yourself too hard, \Nand lying to yourself really what love is?
+Dialogue: 0,0:07:28.70,0:07:31.47,Flashback,Neko,0,0,0,,No one can attain happiness from that.
+Dialogue: 0,0:07:32.46,0:07:34.89,Flashback,Neko,0,0,0,,That includes Aki-sama, of course.
+Dialogue: 0,0:07:35.25,0:07:36.77,Flashback,Kojuurou,0,0,0,,Fujinomiya-san...
+Dialogue: 0,0:07:37.39,0:07:39.90,Flashback,Kojuurou,0,0,0,,I don't really understand, but...
+Dialogue: 0,0:07:39.90,0:07:44.02,Flashback,Neko,0,0,0,,To them, I'm sure I'm a villain.
+Dialogue: 0,0:07:44.73,0:07:45.36,Flashback,Neko,0,0,0,,But...
+Dialogue: 0,0:07:46.35,0:07:49.66,Flashback,Neko,0,0,0,,That's fine. That's perfectly fine.
+Dialogue: 0,0:07:57.57,0:08:00.26,Italics,Yoshino,0,0,0,,I wonder why she wants to know about this...
+Dialogue: 0,0:08:20.65,0:08:23.93,Main,Masamune,0,0,0,,Man, I'm full.
+Dialogue: 0,0:08:23.93,0:08:25.96,Main,Aki,0,0,0,,I am, too. What a lovely meal.
+Dialogue: 0,0:08:25.96,0:08:27.13,Main,Masamune,0,0,0,,What, already?!
+Dialogue: 0,0:08:27.82,0:08:31.94,Main,Aki,0,0,0,,W-Well, I was too hungry \Nearlier, so I already ate...
+Dialogue: 0,0:08:32.29,0:08:33.49,Main,Masamune,0,0,0,,Oh, okay.
+Dialogue: 0,0:08:33.89,0:08:38.12,Main,Masamune,0,0,0,,Yeah, there's no way you'd be \Nsatisfied with just five breads.
+Dialogue: 0,0:08:38.12,0:08:40.20,Main,Aki,0,0,0,,Oh, shut up!
+Dialogue: 0,0:08:40.49,0:08:43.65,Main,Masamune,0,0,0,,Oh, right. Did you see that \Nphoto I sent this morning?
+Dialogue: 0,0:08:43.65,0:08:45.42,Main,Aki,0,0,0,,Oh, of the snowman?
+Dialogue: 0,0:08:45.76,0:08:47.45,Main,Masamune,0,0,0,,Didn't that look awesome?
+Dialogue: 0,0:08:47.90,0:08:51.30,Main,Aki,0,0,0,,Ah... I just thought you had a lot of \Ntime on your hands in the morning.
+Dialogue: 0,0:08:51.30,0:08:52.88,Main,Masamune,0,0,0,,D'oh! That's so mean!
+Dialogue: 0,0:08:54.03,0:08:57.73,Main,Aki,0,0,0,,I'm kidding. You must be \Nreally close to your little sister.
+Dialogue: 0,0:08:57.73,0:08:59.14,Main,Aki,0,0,0,,Thanks for sending me this.
+Dialogue: 0,0:09:01.19,0:09:04.60,Main,Masamune,0,0,0,,So, hey... If you have time sometime...
+Dialogue: 0,0:09:06.75,0:09:08.30,Main,Masamune,0,0,0,,N-No, never mind!
+Dialogue: 0,0:09:08.30,0:09:09.54,Main,Masamune,0,0,0,,Don't worry about it!
+Dialogue: 0,0:09:09.54,0:09:11.48,Main,Aki,0,0,0,,Oh, just spit it out already.
+Dialogue: 0,0:09:11.78,0:09:13.99,Main,Masamune,0,0,0,,I'll tell you some other time.
+Dialogue: 0,0:09:13.99,0:09:17.41,Main,Aki,0,0,0,,Fine, I'll wait. But I won't get my hopes up.
+Dialogue: 0,0:09:23.49,0:09:24.93,Main,Kojuurou,0,0,0,,Fujinomiya-san!
+Dialogue: 0,0:09:27.85,0:09:30.94,Main,Neko,0,0,0,,Kojuurou-sama, did you need something?
+Dialogue: 0,0:09:30.94,0:09:33.09,Main,Kojuurou,0,0,0,,U-Um...
+Dialogue: 0,0:09:33.09,0:09:35.09,Main,Kojuurou,0,0,0,,Why don't we walk home together?
+Dialogue: 0,0:09:48.15,0:09:51.69,Main,Neko,0,0,0,,It's actually quite nice walking \Nhome every once in a while.
+Dialogue: 0,0:09:52.03,0:09:55.65,Main,Kojuurou,0,0,0,,O-Oh, right. You usually \Nget a ride to and from school.
+Dialogue: 0,0:09:55.98,0:09:58.20,Main,Kojuurou,0,0,0,,Sorry to ask you to do this on short notice.
+Dialogue: 0,0:09:58.20,0:09:59.66,Main,Neko,0,0,0,,It's perfectly fine.
+Dialogue: 0,0:10:05.08,0:10:08.21,Main,Neko,0,0,0,,You can be much harsher \Nwith me if you'd like.
+Dialogue: 0,0:10:09.44,0:10:13.85,Main,Neko,0,0,0,,Considering what I did, it wouldn't be \Nunexpected for you to despise me.
+Dialogue: 0,0:10:13.85,0:10:15.26,Main,Kojuurou,0,0,0,,D-Despise you?!
+Dialogue: 0,0:10:15.73,0:10:18.47,Main,Kojuurou,0,0,0,,Don't say that! I'd never \Nfeel that way about you!
+Dialogue: 0,0:10:20.12,0:10:22.35,Main,Kojuurou,0,0,0,,Sure, I was a little surprised,
+Dialogue: 0,0:10:22.87,0:10:25.89,Main,Kojuurou,0,0,0,,but I was just worried about you.
+Dialogue: 0,0:10:27.81,0:10:31.36,Main,Neko,0,0,0,,I still don't regret what I said to Aki-sama...
+Dialogue: 0,0:10:31.95,0:10:35.69,Main,Neko,0,0,0,,But I'd be lying if I said \Nthat I didn't feel guilty.
+Dialogue: 0,0:10:35.69,0:10:38.86,Main,Neko,0,0,0,,It doesn't appear as though Aki-sama \Nand Masamune-sama have broken up,
+Dialogue: 0,0:10:38.86,0:10:40.82,Main,Neko,0,0,0,,and part of me is relieved by that.
+Dialogue: 0,0:10:43.28,0:10:46.11,Main,Neko,0,0,0,,I wonder what I really am.
+Dialogue: 0,0:10:47.22,0:10:49.74,Main,Kojuurou,0,0,0,,To me, Fujinomiya-san...
+Dialogue: 0,0:10:50.14,0:10:52.71,Main,Kojuurou,0,0,0,,You're a very straightforward \Nand kind person.
+Dialogue: 0,0:10:57.65,0:10:59.77,Main,Yoshino,0,0,0,,Aki-sama, it's Yoshino.
+Dialogue: 0,0:10:59.77,0:11:00.63,Main,Aki,0,0,0,,Come in.
+Dialogue: 0,0:11:00.92,0:11:03.30,Main,Yoshino,0,0,0,,I've finished looking into the \Nthing you asked me about.
+Dialogue: 0,0:11:03.30,0:11:05.85,Main,Aki,0,0,0,,Thanks. That must have been rough.
+Dialogue: 0,0:11:06.89,0:11:08.21,Main,Yoshino,0,0,0,,Um...
+Dialogue: 0,0:11:08.21,0:11:09.06,Main,Aki,0,0,0,,Yes?
+Dialogue: 0,0:11:09.70,0:11:12.77,Main,Yoshino,0,0,0,,How have things been with\NPig's Foo—I mean, Makabe?
+Dialogue: 0,0:11:12.77,0:11:16.27,Main,Aki,0,0,0,,What? Where did that come from?
+Dialogue: 0,0:11:16.27,0:11:18.30,Main,Yoshino,0,0,0,,I-I'm sorry.
+Dialogue: 0,0:11:18.30,0:11:22.30,Main,Aki,0,0,0,,It's all right. There's nothing \Nfor you to worry about.
+Dialogue: 0,0:11:22.73,0:11:23.99,Main,Yoshino,0,0,0,,Aki-sama...
+Dialogue: 0,0:11:23.99,0:11:30.43,Main,Aki,0,0,0,,Because you told me the truth, \NI don't have to doubt him anymore.
+Dialogue: 0,0:11:30.89,0:11:34.71,Main,Aki,0,0,0,,And thanks to that, I can now \Nface him with how I truly feel.
+Dialogue: 0,0:11:35.42,0:11:36.93,Main,Aki,0,0,0,,Thanks, Yoshino.
+Dialogue: 0,0:11:42.74,0:11:43.45,Sign_Basic,Sign,0,0,0,,{\fnArial\bord3\shad0\fs10\frz-1.8\pos(248,148)\3c&H433F40&}Adagaki Aki
+Dialogue: 0,0:11:44.62,0:11:45.86,Main,Masamune,0,0,0,,Adagaki-san?
+Dialogue: 0,0:11:47.89,0:11:48.78,Main,Masamune,0,0,0,,Hello?
+Dialogue: 0,0:11:48.78,0:11:51.14,Italics,Aki,0,0,0,,Hey, Makabe? Is now a good time?
+Dialogue: 0,0:11:51.14,0:11:52.68,Main,Masamune,0,0,0,,Sure. What's up?
+Dialogue: 0,0:11:52.68,0:11:55.41,Italics,Aki,0,0,0,,Do you want to go on a date this weekend?
+Dialogue: 0,0:11:56.21,0:11:59.11,Italics,Masamune,0,0,0,,A da— Adagaki-san is inviting me?!
+Dialogue: 0,0:11:59.75,0:12:03.51,Main,Masamune,0,0,0,,Sure. I was actually about \Nto ask you out on one, too.
+Dialogue: 0,0:12:04.01,0:12:05.89,Italics,Aki,0,0,0,,Really? Great.
+Dialogue: 0,0:12:06.29,0:12:08.34,Italics,Aki,0,0,0,,White Day is coming up, too.
+Dialogue: 0,0:12:08.34,0:12:11.04,Italics,Masamune,0,0,0,,Who?! Wha— White Day?!
+Dialogue: 0,0:12:11.53,0:12:13.85,Italics,Masamune,0,0,0,,Oh, shit. I had nothing planned.
+Dialogue: 0,0:12:14.54,0:12:18.10,Italics,Masamune,0,0,0,,Uh, wait. I'm... supposed to \Ngive her something back, right?
+Dialogue: 0,0:12:18.10,0:12:18.98,Italics,Masamune,0,0,0,,What do I give her?
+Dialogue: 0,0:12:18.98,0:12:20.85,Italics,Masamune,0,0,0,,Like, how much? \NWhat situation should this be?
+Dialogue: 0,0:12:20.85,0:12:23.51,Italics,Aki,0,0,0,,Also, Makabe... Are you listening?
+Dialogue: 0,0:12:23.51,0:12:26.44,Main,Masamune,0,0,0,,I-I'm listening. Of course I'm listening.
+Dialogue: 0,0:12:26.22,0:12:33.73,Sign_Basic,Sign,0,0,0,,{\fad(500,1)\an7\fs16\c&H7F8683&\3c&HFAFFFC&\shad0\pos(20,20)}White Day what to return to top choice\N White Day girlfriend date\N White Day recommended shops\N White Day recommended presents
+Dialogue: 0,0:12:26.44,0:12:27.78,Italics,Aki,0,0,0,,Okay, good.
+Dialogue: 0,0:12:28.33,0:12:32.10,Italics,Aki,0,0,0,,For this date, I'd like you \Nto let me plan everything.
+Dialogue: 0,0:12:32.10,0:12:33.73,Italics,Aki,0,0,0,,There's somewhere I'd like to take you.
+Dialogue: 0,0:12:34.09,0:12:37.41,Main,Masamune,0,0,0,,Ah... Yeah, sure. \NDid you want to go shopping?
+Dialogue: 0,0:12:37.41,0:12:37.98,Italics,Aki,0,0,0,,Well,
+Dialogue: 0,0:12:37.98,0:12:39.23,Main,Aki,0,0,0,,something like that.
+Dialogue: 0,0:12:39.69,0:12:41.99,Italics,Masamune,0,0,0,,Yeah? That seems pretty fun.
+Dialogue: 0,0:12:42.46,0:12:43.75,Main,Aki,0,0,0,,Perhaps.
+Dialogue: 0,0:12:44.25,0:12:46.16,Italics,Masamune,0,0,0,,Okay, sounds good.
+Dialogue: 0,0:12:46.16,0:12:48.46,Main,Aki,0,0,0,,Yes. Goodnight.
+Dialogue: 0,0:12:48.97,0:12:49.87,Italics,Masamune,0,0,0,,Goodnight.
+Dialogue: 0,0:12:57.93,0:12:59.42,Main,Chinatsu,0,0,0,,Let's see...
+Dialogue: 0,0:12:59.42,0:13:01.63,Main,Chinatsu,0,0,0,,Yeah, you should get her a ring.
+Dialogue: 0,0:13:01.63,0:13:04.41,Main,Masamune,0,0,0,,A ring?! For White Day?!
+Dialogue: 0,0:13:04.41,0:13:07.30,Main,Chinatsu,0,0,0,,Yeah! A ring would be great.
+Dialogue: 0,0:13:07.30,0:13:08.09,Main,Masamune,0,0,0,,Notion rejected!
+Dialogue: 0,0:13:08.09,0:13:11.13,Main,Chinatsu,0,0,0,,Aw, then how about \Nan electric facial device?
+Dialogue: 0,0:13:11.13,0:13:13.11,Main,Masamune,0,0,0,,You just want one for yourself.
+Dialogue: 0,0:13:14.47,0:13:17.31,Italics,Masamune,0,0,0,,Nope, she's no help at all.
+Dialogue: 0,0:13:18.10,0:13:21.92,Main,Kinue,0,0,0,,Well, since she gave you homemade \Nchocolates for Valentine's Day,
+Dialogue: 0,0:13:21.92,0:13:24.95,Main,Kinue,0,0,0,,why don't you go all-out and \Nmake something for her, as well?
+Dialogue: 0,0:13:25.89,0:13:26.79,Main,Masamune,0,0,0,,Huh...
+Dialogue: 0,0:13:27.41,0:13:31.87,Sign_Basic,Sign,0,0,0,,{\pos(226,232)\fs10\shad0\c&H769EA2&\3c&HBAE4E9&\frz354.5}Almond Powder
+Dialogue: 0,0:13:27.41,0:13:31.87,Sign_Basic,Sign,0,0,0,,{\c&H303E82&\3c&H76DDE1&\shad0\fs16\frx338\fry330\frz337\pos(344,182.666)}Cake Flour
+Dialogue: 0,0:13:27.80,0:13:31.87,Main,Masamune,0,0,0,,Thirty-five grams of egg whites, \Nthirty grams of granulated sugar,
+Dialogue: 0,0:13:32.14,0:13:34.63,Main,Masamune,0,0,0,,thirty-five grams of almond powder...
+Dialogue: 0,0:13:35.05,0:13:36.67,Main,Chinatsu,0,0,0,,What are you going to make?
+Dialogue: 0,0:13:36.67,0:13:39.33,Main,Masamune,0,0,0,,What else? Macarons, \Nsince girls like them so much.
+Dialogue: 0,0:13:39.33,0:13:41.05,Main,Chinatsu,0,0,0,,What? Really?
+Dialogue: 0,0:13:41.05,0:13:44.05,Main,Kinue,0,0,0,,Macarons are really hard to make. \NAre you sure about this?
+Dialogue: 0,0:13:44.05,0:13:44.89,Main,Chinatsu,0,0,0,,Yeah...
+Dialogue: 0,0:13:45.47,0:13:48.93,Main,Kinue,0,0,0,,Why not try something simpler, like cookies?
+Dialogue: 0,0:13:48.93,0:13:49.93,Main,Chinatsu,0,0,0,,Yeah, yeah...
+Dialogue: 0,0:13:50.94,0:13:53.56,Main,Masamune,0,0,0,,No, I'm going to make macarons.
+Dialogue: 0,0:13:53.56,0:13:55.39,Main,Masamune,0,0,0,,There's nothing that I can't do!
+Dialogue: 0,0:13:58.86,0:14:00.38,Main,Masamune,0,0,0,,Are macarons supposed to look like this?
+Dialogue: 0,0:14:00.75,0:14:03.11,Main,Chinatsu,0,0,0,,Nope. Not even close.
+Dialogue: 0,0:14:05.38,0:14:06.26,Main,Masamune,0,0,0,,How about this?
+Dialogue: 0,0:14:06.26,0:14:08.03,Main,Chinatsu,0,0,0,,Those are clearly just crackers.
+Dialogue: 0,0:14:11.05,0:14:12.49,Main,Masamune,0,0,0,,Well played, macarons...
+Dialogue: 0,0:14:12.85,0:14:14.87,Main,Masamune,0,0,0,,But I will not give up!
+Dialogue: 0,0:14:15.21,0:14:16.08,Main,Masamune,0,0,0,,Not ever!
+Dialogue: 0,0:14:16.08,0:14:19.83,Main,Masamune,0,0,0,,I'm going to... bake you up nice and round!
+Dialogue: 0,0:14:20.83,0:14:24.46,Main,Kojuurou,0,0,0,,So... you decided to just buy them.
+Dialogue: 0,0:14:24.46,0:14:28.01,Main,Masamune,0,0,0,,Yeah, I did. Do you know any good places?
+Dialogue: 0,0:14:28.34,0:14:32.51,Main,Kojuurou,0,0,0,,Well... What sweets does Adagaki-san like?
+Dialogue: 0,0:14:32.91,0:14:35.45,Main,Masamune,0,0,0,,Anything that tastes good.
+Dialogue: 0,0:14:37.04,0:14:40.44,Main,Masamune,0,0,0,,For better or for worse, \NAdagaki-san's got a sharp tongue.
+Dialogue: 0,0:14:40.77,0:14:43.63,Main,Masamune,0,0,0,,She won't be happy unless she gets the best.
+Dialogue: 0,0:14:43.63,0:14:47.65,Main,Kojuurou,0,0,0,,Hmm... Then I know the best place.
+Dialogue: 0,0:14:53.17,0:14:54.24,Main,Customers,0,0,0,,What?
+Dialogue: 0,0:14:54.24,0:14:55.54,Main,Customers,0,0,0,,So cute!
+Dialogue: 0,0:14:55.54,0:14:56.70,Main,Employee,0,0,0,,Thank you.
+Dialogue: 0,0:14:56.70,0:14:58.12,Main,Customer,0,0,0,,Thanks.
+Dialogue: 0,0:14:58.12,0:15:00.24,Main,Masamune,0,0,0,,Wow, this is crazy.
+Dialogue: 0,0:15:00.24,0:15:02.33,Main,Kojuurou,0,0,0,,I figured there'd be a lot of people.
+Dialogue: 0,0:15:02.82,0:15:05.00,Main,Masamune,0,0,0,,Why are there so many girls here?
+Dialogue: 0,0:15:05.00,0:15:08.96,Main,Kojuurou,0,0,0,,They're probably here for all the \Nlimited-edition White Day sweets.
+Dialogue: 0,0:15:08.96,0:15:12.72,Main,Kojuurou,0,0,0,,In some couples, the wife gives \Nthe return gift, not the husband.
+Dialogue: 0,0:15:13.01,0:15:16.72,Main,Masamune,0,0,0,,Wait, do you always shop at places like this?
+Dialogue: 0,0:15:16.72,0:15:20.69,Main,Kojuurou,0,0,0,,For a special treat every now \Nand then. I love depachikas.
+Dialogue: 0,0:15:23.15,0:15:25.11,sign_22134_235_Shortcake,Sign,0,0,0,,Shortcake
+Dialogue: 0,0:15:23.15,0:15:25.11,sign_22134_235_Shortcake,Sign,0,0,0,,{\fs14\frz18.83\pos(234,106)\q2}Éclair
+Dialogue: 0,0:15:23.15,0:15:25.11,sign_22134_235_Shortcake,Sign,0,0,0,,{\q2\fs8\frx356\fry26\frz29.89\pos(474.667,272.666)}Chocolate Millefeuille
+Dialogue: 0,0:15:23.15,0:15:25.11,sign_22134_235_Shortcake,Sign,0,0,0,,{\q2\fs8\frz20.82\pos(465.334,36.667)}Rare cheesecake
+Dialogue: 0,0:15:23.15,0:15:25.11,sign_22134_235_Shortcake,Sign,0,0,0,,{\q2\fs8\frz25.71\pos(525.333,129.334)}Mocha Roll
+Dialogue: 0,0:15:23.15,0:15:25.11,sign_22134_235_Shortcake,Sign,0,0,0,,{\q2\fs8\frz30.11\pos(594.667,195.333)\frx358\fry20}Millefeuille
+Dialogue: 0,0:15:23.57,0:15:25.11,Main,Kojuurou,0,0,0,,Wow!
+Dialogue: 0,0:15:25.11,0:15:27.40,Main,Kojuurou,0,0,0,,What a delicious-looking Mont Blanc!
+Dialogue: 0,0:15:27.40,0:15:29.66,Main,Kojuurou,0,0,0,,Oh, I guess this is pistachio cake.
+Dialogue: 0,0:15:29.66,0:15:31.70,Main,Masamune,0,0,0,,Yeah they do look really good.
+Dialogue: 0,0:15:31.70,0:15:33.66,sign_22134_235_Shortcake,Sign,0,0,0,,{\b1\fs24\q2\c&H6E88A0&\pos(312.667,60)\frz17.18}Pistachio Cake
+Dialogue: 0,0:15:32.17,0:15:33.13,Main,Masamune,0,0,0,,It's so expensive!
+Dialogue: 0,0:15:33.66,0:15:36.58,Main,Kojuurou,0,0,0,,That's standard for high-grade sweets.
+Dialogue: 0,0:15:36.58,0:15:37.87,Main,Masamune,0,0,0,,Seriously?
+Dialogue: 0,0:15:37.87,0:15:40.54,Main,Kojuurou,0,0,0,,Oh, since you're giving it to her \Nin return for Valentine's Day,
+Dialogue: 0,0:15:40.54,0:15:43.38,Main,Kojuurou,0,0,0,,you might want to get something that'll keep.
+Dialogue: 0,0:15:43.38,0:15:44.75,Main,Kojuurou,0,0,0,,Like cookies or chocolates.
+Dialogue: 0,0:15:45.66,0:15:49.14,Main,Masamune,0,0,0,,There are so many. Which one should I get?
+Dialogue: 0,0:15:50.22,0:15:53.18,Sign_Basic,Sign,0,0,0,,{\fnArial\b1\an7\move(380,38,380,394)\shad0\fs20\bord1.5\frx2\fry4\c&HA68F15&\3c&H8E7316&}White\NDay\NFair\NLimited\NTime\NShop
+Dialogue: 0,0:15:53.18,0:15:55.30,Main,Masamune,0,0,0,,Limited time?
+Dialogue: 0,0:15:55.30,0:15:57.64,Main,Kojuurou,0,0,0,,Apparently, this shop is only here right now.
+Dialogue: 0,0:16:03.56,0:16:04.80,Main Top,Customer,0,0,0,,So cute!
+Dialogue: 0,0:16:03.84,0:16:05.74,Main,Kojuurou,0,0,0,,Wow, they're so cute.
+Dialogue: 0,0:16:04.80,0:16:06.52,Main Top,Customer,0,0,0,,They're great.
+Dialogue: 0,0:16:05.74,0:16:06.52,Main,Masamune,0,0,0,,Yeah.
+Dialogue: 0,0:16:06.52,0:16:07.40,Main Top,Customer,0,0,0,,They are cute.
+Dialogue: 0,0:16:09.98,0:16:13.41,Main,Masamune,0,0,0,,It seems cheeky, sorta like Adagaki-san.
+Dialogue: 0,0:16:13.93,0:16:16.62,Main,Masamune,0,0,0,,Okay, I'll take it. May I get this, please?
+Dialogue: 0,0:16:21.81,0:16:24.45,Main,Masamune,0,0,0,,Thanks for everything today. \NYou really helped.
+Dialogue: 0,0:16:24.45,0:16:26.00,Main,Kojuurou,0,0,0,,It's no big deal.
+Dialogue: 0,0:16:26.46,0:16:29.17,Main,Kojuurou,0,0,0,,I hope Adagaki-san likes it.
+Dialogue: 0,0:16:29.73,0:16:30.51,Main,Masamune,0,0,0,,Yeah.
+Dialogue: 0,0:16:32.19,0:16:34.80,Main,Masamune,0,0,0,,I see you bought some, too. Are they for you?
+Dialogue: 0,0:16:34.80,0:16:35.89,Main,Kojuurou,0,0,0,,Huh?
+Dialogue: 0,0:16:35.89,0:16:39.64,Main,Kojuurou,0,0,0,,N-No. I thought I'd give them to Fujinomiya-san.
+Dialogue: 0,0:16:39.93,0:16:42.60,Main,Masamune,0,0,0,,Huh? Even though you gave \Nher a Valentine's Day gift?
+Dialogue: 0,0:16:43.02,0:16:47.31,Main,Kojuurou,0,0,0,,I did... But after looking at a few of these, \NI felt like giving her something.
+Dialogue: 0,0:16:47.71,0:16:49.59,Main,Masamune,0,0,0,,Well, I guess that's something you'd do.
+Dialogue: 0,0:16:50.65,0:16:54.84,Main,Masamune,0,0,0,,Oh, hey. Considering what time it is, \Nwhy don't we get something to eat?
+Dialogue: 0,0:16:54.84,0:16:57.08,Main,Kojuurou,0,0,0,,Good idea. How about ramen?
+Dialogue: 0,0:16:57.08,0:16:59.28,Main,Masamune,0,0,0,,Ramen at night?
+Dialogue: 0,0:17:00.15,0:17:02.52,Main,Masamune,0,0,0,,That's so many calories, but I'll go with you.
+Dialogue: 0,0:17:02.52,0:17:03.75,Main,Kojuurou,0,0,0,,Yay!
+Dialogue: 0,0:17:16.55,0:17:17.82,Main,Narino,0,0,0,,Are you going on a date?
+Dialogue: 0,0:17:18.25,0:17:20.56,Main,Aki,0,0,0,,I see you're as sharp as usual.
+Dialogue: 0,0:17:21.14,0:17:22.99,Main,Narino,0,0,0,,Enjoying your youth, I see.
+Dialogue: 0,0:17:26.31,0:17:28.62,Main,Aki,0,0,0,,Well, I'll see you later.
+Dialogue: 0,0:17:28.62,0:17:30.98,Main,Yoshino,0,0,0,,Yes. Have a wonderful time.
+Dialogue: 0,0:17:33.70,0:17:36.95,Main,Narino,0,0,0,,You should enjoy your youth \Nwhile you still can, too.
+Dialogue: 0,0:17:40.46,0:17:43.95,Main,Yoshino,0,0,0,,Whatever. I'm not even interested in that.
+Dialogue: 0,0:17:50.11,0:17:52.34,Main,Masamune,0,0,0,,This is the place, right?
+Dialogue: 0,0:17:54.23,0:17:55.61,Main,Suzuki,0,0,0,,Welcome.
+Dialogue: 0,0:17:56.07,0:17:59.26,Italics,Masamune,0,0,0,,This is obviously just a regular drugstore.
+Dialogue: 0,0:17:59.94,0:18:02.17,Italics,Masamune,0,0,0,,Why did we go to one in the next town?
+Dialogue: 0,0:18:02.86,0:18:04.47,Main,Suzuki,0,0,0,,Hello.
+Dialogue: 0,0:18:05.03,0:18:05.78,Main,Masamune,0,0,0,,Oh.
+Dialogue: 0,0:18:06.70,0:18:09.82,Main,Masamune,0,0,0,,Thank goodness. \NI thought I had the wrong place.
+Dialogue: 0,0:18:09.82,0:18:13.15,Main,Aki,0,0,0,,No, you didn't make a mistake. \NThis is the place.
+Dialogue: 0,0:18:13.49,0:18:15.68,Main,Masamune,0,0,0,,Did you need to buy something?
+Dialogue: 0,0:18:15.68,0:18:18.01,Main,Aki,0,0,0,,Yes. One sec.
+Dialogue: 0,0:18:19.61,0:18:20.70,Main,Aki,0,0,0,,Excuse me.
+Dialogue: 0,0:18:20.70,0:18:22.83,Main,Suzuki,0,0,0,,Yes? How can I help you?
+Dialogue: 0,0:18:22.83,0:18:26.29,Main,Aki,0,0,0,,It's been a while. Do you remember me?
+Dialogue: 0,0:18:26.95,0:18:27.50,Main,Suzuki,0,0,0,,Huh?
+Dialogue: 0,0:18:27.50,0:18:29.65,Main,Aki,0,0,0,,You went to Higashi Elementary.
+Dialogue: 0,0:18:29.65,0:18:33.46,Main,Aki,0,0,0,,When you were little, \Nyou would play near my mansion.
+Dialogue: 0,0:18:35.21,0:18:39.14,Main,Suzuki,0,0,0,,O-Oh! The Adagaki place?
+Dialogue: 0,0:18:39.65,0:18:41.93,Main,Aki,0,0,0,,Yes. I'm the only daughter of that family.
+Dialogue: 0,0:18:42.77,0:18:43.53,Main,Aki,0,0,0,,And...
+Dialogue: 0,0:18:44.14,0:18:46.10,Main,Aki,0,0,0,,you used to bully him.
+Dialogue: 0,0:18:53.02,0:18:54.93,Main,Suzuki,0,0,0,,U-Um...
+Dialogue: 0,0:18:54.93,0:18:56.23,Main,Aki,0,0,0,,You don't remember?
+Dialogue: 0,0:18:56.23,0:19:01.95,Main,Aki,0,0,0,,Makabe Masamune. Back then, \Nhis name was Hayase Masamune.
+Dialogue: 0,0:19:02.65,0:19:03.83,Main,Suzuki,0,0,0,,Hayase...
+Dialogue: 0,0:19:06.06,0:19:07.66,Main,Suzuki,0,0,0,,Tubbymune?!
+Dialogue: 0,0:19:08.05,0:19:10.87,Main,Suzuki,0,0,0,,Seriously? I didn't recognize you at all!
+Dialogue: 0,0:19:10.87,0:19:13.02,Main,Masamune,0,0,0,,Uh, yeah.
+Dialogue: 0,0:19:13.02,0:19:14.67,Main,Suzuki,0,0,0,,You're like a totally different guy!
+Dialogue: 0,0:19:14.98,0:19:18.18,Main,Aki,0,0,0,,Right? Because he lost an \Nincredible amount of weight.
+Dialogue: 0,0:19:18.18,0:19:20.69,Main,Suzuki,0,0,0,,Huh, I see.
+Dialogue: 0,0:19:22.98,0:19:25.81,Main,Female employee,0,0,0,,Hey, Suzuki-kun, are you \Ndone stocking the shelves?
+Dialogue: 0,0:19:26.09,0:19:28.18,Main,Suzuki,0,0,0,,S-Sorry!
+Dialogue: 0,0:19:28.18,0:19:31.65,Main,Aki,0,0,0,,Sorry to get in your way. \NAnyway, we'll be going now.
+Dialogue: 0,0:19:35.93,0:19:37.07,Main,Suzuki,0,0,0,,Hayase-kun!
+Dialogue: 0,0:19:38.86,0:19:40.90,Main,Suzuki,0,0,0,,Sorry about all that!
+Dialogue: 0,0:19:52.46,0:19:54.06,Main,Aki,0,0,0,,Have you calmed down?
+Dialogue: 0,0:19:58.83,0:20:01.38,Main,Masamune,0,0,0,,Were you planning this from the start?
+Dialogue: 0,0:20:01.70,0:20:04.65,Main,Aki,0,0,0,,Yes. How did you feel seeing him?
+Dialogue: 0,0:20:05.11,0:20:06.35,Main,Aki,0,0,0,,Were you scared?
+Dialogue: 0,0:20:10.82,0:20:16.29,Main,Masamune,0,0,0,,No. Surprisingly, I felt fine.\NActually, it didn't even matter.
+Dialogue: 0,0:20:17.29,0:20:20.74,Italics,Masamune,0,0,0,,I thought I'd freak out a little more.
+Dialogue: 0,0:20:21.25,0:20:25.34,Main,Aki,0,0,0,,I found out where some of the others \Nare now. Do you want to see them?
+Dialogue: 0,0:20:26.18,0:20:27.20,Main,Masamune,0,0,0,,Nah.
+Dialogue: 0,0:20:27.53,0:20:30.19,Main,Aki,0,0,0,,I see. I figured.
+Dialogue: 0,0:20:31.10,0:20:33.67,Main,Aki,0,0,0,,You're stronger now, Masamune.
+Dialogue: 0,0:20:36.94,0:20:41.09,Main,Aki,0,0,0,,You worked really hard, you lost weight, \Nand you were able to change.
+Dialogue: 0,0:20:43.17,0:20:46.94,Main,Aki,0,0,0,,You're okay now. \NHave more confidence in yourself.
+Dialogue: 0,0:20:53.34,0:20:56.75,Main,Aki,0,0,0,,Come on, stop that. Don't start \Ncrying after everything I just said.
+Dialogue: 0,0:20:57.49,0:20:58.65,Main,Masamune,0,0,0,,Sorry.
+Dialogue: 0,0:21:00.86,0:21:03.86,Main,Masamune,0,0,0,,Thank you, Aki-chan.
+Dialogue: 0,0:21:05.99,0:21:08.78,Main,Masamune,0,0,0,,Um, here.
+Dialogue: 0,0:21:09.19,0:21:12.63,Main,Masamune,0,0,0,,This isn't exactly to thank you \Nfor just now. It's for White Day.
+Dialogue: 0,0:21:13.51,0:21:16.58,Main,Aki,0,0,0,,Really? What's inside?
+Dialogue: 0,0:21:16.58,0:21:19.75,Main,Masamune,0,0,0,,White chocolate. Sorry it's so unoriginal.
+Dialogue: 0,0:21:20.16,0:21:22.71,Main,Aki,0,0,0,,The taste is more important than originality.
+Dialogue: 0,0:21:32.12,0:21:36.66,Italics,Masamune,0,0,0,,I want to touch her... I wonder if I can.
+Dialogue: 0,0:21:44.42,0:21:45.14,Main,Aki,0,0,0,,But...
+Dialogue: 0,0:21:46.29,0:21:47.43,Main,Aki,0,0,0,,I'm sorry.
+Dialogue: 0,0:21:48.26,0:21:50.15,Main,Aki,0,0,0,,I can't accept this.
+Dialogue: 0,0:21:53.09,0:21:53.90,Main,Masamune,0,0,0,,Huh?
+Dialogue: 0,0:21:55.33,0:22:00.79,Main,Aki,0,0,0,,I think it's okay for at least one person to \Npick up what you're trying to throw away.
+Dialogue: 0,0:22:02.72,0:22:03.96,Main,Aki,0,0,0,,So...
+Dialogue: 0,0:22:06.19,0:22:09.41,Main,Aki,0,0,0,,Goodbye, Makabe Masamune-kun.
