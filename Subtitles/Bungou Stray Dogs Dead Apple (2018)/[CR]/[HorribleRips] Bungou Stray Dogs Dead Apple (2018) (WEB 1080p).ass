@@ -1,0 +1,1092 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: kadokawapictures  [http://www.crunchyroll.com/user/kadokawapictures]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0010,0010,0008,1
+Style: Stray Dogs - Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0020,1
+Style: Stray Dogs - Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0020,1
+Style: Stray Dogs - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,1
+Style: Stray Dogs - Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0020,1
+Style: Stray Dogs Ep Title,Times New Roman,24,&H001919B7,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,1
+Style: Stray Dogs Next ep title,Times New Roman,20,&H00000000,&H000000FF,&H00FEFEFE,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0075,0010,0040,1
+Style: Typewriter Text Sign,Arial,18,&H00101010,&H000000FF,&H00F3F3F3,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0010,1
+Style: Tea on Rice,Arial,20,&H00FFFFFF,&H000000FF,&H00323232,&H001D1D1E,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: sign_496_1_No_other_days_in,Arial,16,&H001D1D27,&H000000FF,&H00E8E8E8,&H001D1D1E,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: sign_698_2_Many_organizatio,Arial,20,&H001D1D27,&H000000FF,&H00E8E8E8,&H001D1D1E,-1,0,0,0,100,100,0,0,1,2,2,2,0177,0177,0169,1
+Style: sign_826_3_The_Dragon_Head_,Arial,20,&H000000B1,&H000000FF,&H00E8E8E8,&H001D1D1E,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,1
+Style: sign_1069_4_The_night_before,Times New Roman,22,&H000506A8,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0130,1
+Style: sign_7957_58_The_day_world_an,Times New Roman,24,&H00C6C3FB,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0110,0110,0020,1
+Style: sign_8305_62_Nakajima_Atsushi,Times New Roman,20,&H00CC8018,&H000000FF,&H00000000,&H00FAE066,-1,0,0,0,100,100,0,0,1,3,1,5,0000,0176,0000,1
+Style: sign_8527_64_Dazai_Osamu__Spe,Trebuchet MS,20,&H00FFE4AE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0162,0000,0069,1
+Style: sign_9235_66_Izumi_Kyouka__Sp,Trebuchet MS,20,&H00FFAFD3,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0284,0069,1
+Style: sign_9459_68_Kunikida_Doppo__,Trebuchet MS,20,&H00D4FAB9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0187,0000,0073,1
+Style: sign_9758_70_Miyazawa_Kenji__,Trebuchet MS,20,&H00FFE4AE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0192,0070,1
+Style: sign_9875_73___26_years_old__,Trebuchet MS,20,&H00D4FAB9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0287,0019,1
+Style: sign_9875_72_Edogawa_Rampo___,Trebuchet MS,20,&H00D4FAB9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0331,0000,0279,1
+Style: sign_10082_75_Yosano_Akiko___S,Trebuchet MS,20,&H00FFE4AE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0199,0000,0015,1
+Style: sign_10203_77_Tanizaki_Junichi,Times New Roman,20,&H005A8B0D,&H000000FF,&H00000000,&H00BFFE31,-1,0,0,0,100,100,0,0,1,3,1,2,0000,0250,0021,1
+Style: sign_10319_79_Fukuzawa_Yukichi,Times New Roman,20,&H00CC8018,&H000000FF,&H00000000,&H00FAE066,-1,0,0,0,100,100,0,0,1,3,1,5,0178,0000,0000,1
+Style: sign_10872_81_Port_Mafia,Times New Roman,24,&H00E0D0C2,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0258,0258,0321,1
+Style: sign_10872_82_A_violent_organi,Times New Roman,12,&H00E0D0C2,&H000000FF,&H002A1E1B,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0059,0055,0082,1
+Style: sign_11206_84_Akutagawa_Ryunos,Times New Roman,20,&H00000084,&H000000FF,&H00000000,&H000A00DE,-1,0,0,0,100,100,0,0,1,3,1,8,0000,0330,0020,1
+Style: sign_11537_86_Nakahara_Chuuya_,Times New Roman,20,&H00000084,&H000000FF,&H00000000,&H000A00DE,-1,0,0,0,100,100,0,0,1,3,1,8,0286,0006,0040,1
+Style: sign_11656_88_Mori_Ougai___Spe,Trebuchet MS,20,&H00AFBEFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0274,0024,1
+Style: sign_11767_90_Sakaguchi_Ango__,Trebuchet MS,20,&H00FFE4AE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0117,0000,0020,1
+Style: sign_11953_92_Fyodor_D____Spec,Trebuchet MS,20,&H00585349,&H000000FF,&H00F9F9F9,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0242,0092,1
+Style: sign_12357_94_Bungo_Stray_Dogs,Times New Roman,24,&H000000AA,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0080,1
+Style: sign_12515_97_Six_years_later_,Times New Roman,20,&H00F37A25,&H000000FF,&H00080809,&H001D1D1E,0,0,0,0,100,100,0,0,1,2,0,2,0241,0237,0309,1
+Style: sign_16808_141_Play,Trebuchet MS,24,&H00CEF3DC,&H000000FF,&H001B1B1B,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0536,0052,0032,1
+Style: sign_16808_140_Dihua_Street__Ta,Trebuchet MS,24,&H00CEF3DC,&H000000FF,&H001B1B1B,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0440,0000,0032,1
+Style: sign_16808_140_Dihua_Street___T,Trebuchet MS,16,&H00CEF3DC,&H000000FF,&H006F665C,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,0025,0320,0060,1
+Style: sign_17735_153_Age__Approx__34_,Trebuchet MS,16,&H00D8BB92,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,1
+Style: sign_20697_187_Name__Shibusawa_,Trebuchet MS,22,&H005A5A5A,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0340,0000,0124,1
+Style: sign_105692_855_Rashoumon__,Trebuchet MS,24,&H000405E0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0242,0242,0020,1
+Style: sign_126091_1002_Report,Trebuchet MS,20,&H001F1F1F,&H000000FF,&H00ABABAB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0162,0410,0147,1
+Style: sign_8527_64_Dazai_Osamu_Spec,Times New Roman,20,&H00CC8018,&H000000FF,&H00000000,&H00FAE066,-1,0,0,0,100,100,0,0,1,3,1,5,0239,0000,0000,1
+Style: sign_9235_66_Izumi_Kyouka_Spe,Times New Roman,20,&H00B80C6F,&H000000FF,&H00000000,&H00F729E4,-1,0,0,0,100,100,0,0,1,3,1,8,0000,0248,0025,1
+Style: sign_9459_68_Kunikida_Doppo_S,Times New Roman,20,&H005A8B0D,&H000000FF,&H00000000,&H00BFFE31,-1,0,0,0,100,100,0,0,1,3,1,5,0241,0000,0000,1
+Style: sign_9758_70_Miyazawa_Kenji_S,Times New Roman,20,&H00CC8018,&H000000FF,&H00000000,&H00FAE066,-1,0,0,0,100,100,0,0,1,3,1,2,0012,0144,0030,1
+Style: sign_9875_72_Edogawa_Rampo_Sp,Times New Roman,20,&H005A8B0D,&H000000FF,&H00000000,&H00BFFE31,-1,0,0,0,100,100,0,0,1,3,1,8,0463,0011,0015,1
+Style: sign_9875_73__26_years_old__A,Times New Roman,12,&H005A8B0D,&H000000FF,&H00000000,&H00BFFE31,-1,0,0,0,100,100,0,0,1,3,1,1,0037,0313,0019,1
+Style: sign_10082_75_Yosano_Akiko_Spe,Times New Roman,20,&H00CC8018,&H000000FF,&H00000000,&H00FAE066,-1,0,0,0,100,100,0,0,1,3,1,2,0277,0000,0032,1
+Style: sign_11656_88_Mori_Ougai_Speci,Times New Roman,20,&H00000084,&H000000FF,&H00000000,&H000A00DE,-1,0,0,0,100,100,0,0,1,3,1,1,0055,0236,0020,1
+Style: sign_11767_90_Sakaguchi_Ango_S,Times New Roman,20,&H00DBBB9B,&H000000FF,&H00000000,&H00F0F0D6,-1,0,0,0,100,100,0,0,1,3,1,3,0054,0040,0080,1
+Style: sign_11953_92_Fyodor_D__Specia,Times New Roman,20,&H00665A57,&H000000FF,&H00FFFFFF,&H00BBB4B6,-1,0,0,0,100,100,0,0,1,3,1,5,0014,0234,0000,1
+Style: sign_8305_60_Nakajima_Atsushi,Times New Roman,20,&H00CC8018,&H000000FF,&H00000000,&H00FAE066,-1,0,0,0,100,100,0,0,1,3,1,5,0000,0182,0000,1
+Style: sign_8527_61_Dazai_Osamu_Spec,Times New Roman,20,&H00CC8018,&H000000FF,&H00000000,&H00FAE066,-1,0,0,0,100,100,0,0,1,3,1,5,0235,0000,0000,1
+Style: sign_11206_71_Akutagawa_Ryunos,Times New Roman,20,&H00000084,&H000000FF,&H00000000,&H000A00DE,-1,0,0,0,100,100,0,0,1,3,1,7,0040,0240,0020,1
+Style: sign_20697_166_Name__Shibusawa_,Trebuchet MS,14,&H00D8BB92,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0408,0044,0018,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:20.66,0:00:37.97,sign_496_1_No_other_days_in,Text,0000,0000,0000,,{\fad(2000,1)}No other days in Yokohama underground \Nsociety produced as many corpses as those 88 did.
+Dialogue: 0,0:00:29.09,0:00:37.97,sign_496_1_No_other_days_in,Text,0000,0000,0000,,{\an5\fad(2000,1)}Many organizations were \Ninvolved in that bloodbath.
+Dialogue: 0,0:00:34.43,0:00:37.97,sign_826_3_The_Dragon_Head_,Text,0000,0000,0000,,{\fad(2000,1)}The Dragon Head Conflict
+Dialogue: 0,0:00:44.56,0:00:48.52,sign_1069_4_The_night_before,Text,0000,0000,0000,,The night before its conclusion
+Dialogue: 0,0:01:01.69,0:01:03.40,Stray Dogs - Italics,Chuuka,0000,0000,0000,,This is sickening.
+Dialogue: 0,0:01:03.40,0:01:07.01,Stray Dogs - Italics,Chuuka,0000,0000,0000,,Corpses, no matter which way I look.
+Dialogue: 0,0:01:25.90,0:01:29.45,Stray Dogs - Default,Chuuka,0000,0000,0000,,You're lucky to be alive in this situation.
+Dialogue: 0,0:01:30.51,0:01:31.58,Stray Dogs - Default,Dasai,0000,0000,0000,,Odasaku.
+Dialogue: 0,0:01:31.58,0:01:32.78,Stray Dogs - Default,Chuuka,0000,0000,0000,,Dazai, where are you?
+Dialogue: 0,0:01:32.78,0:01:36.41,Stray Dogs - Italics,Dasai,0000,0000,0000,,I have a feeling I know what you're up to, \Nbut you need to run.
+Dialogue: 0,0:01:36.41,0:01:38.24,Stray Dogs - Italics,Dasai,0000,0000,0000,,It's not going to be safe there for long.
+Dialogue: 0,0:01:39.46,0:01:41.12,Stray Dogs - Italics,Bike,0000,0000,0000,,Piss off, scrub.
+Dialogue: 0,0:01:43.38,0:01:46.44,Stray Dogs - Italics,Dasai,0000,0000,0000,,Hi, Chuuya. You're in range of the enemy.
+Dialogue: 0,0:01:46.44,0:01:48.03,Stray Dogs - Italics,Dasai,0000,0000,0000,,Take some bullets and die, thanks.
+Dialogue: 0,0:01:48.03,0:01:49.38,Stray Dogs - Default,Chuuka,0000,0000,0000,,Shut up.
+Dialogue: 0,0:02:00.96,0:02:02.42,Stray Dogs - Default,Chuuka,0000,0000,0000,,Damn gifted.
+Dialogue: 0,0:02:11.27,0:02:12.93,Stray Dogs - Default,Chuuka,0000,0000,0000,,He thinks he's the shit.
+Dialogue: 0,0:02:26.79,0:02:30.19,Stray Dogs - Default,Dasai,0000,0000,0000,,It would have been more amusing if you'd \Nbeen struck by lightning and killed.
+Dialogue: 0,0:02:32.65,0:02:34.96,Stray Dogs - Default,Chuuka,0000,0000,0000,,Shut it, Dazai.
+Dialogue: 0,0:02:35.30,0:02:37.15,Stray Dogs - Default,Dasai,0000,0000,0000,,You're five minutes late.
+Dialogue: 0,0:02:40.95,0:02:43.88,Stray Dogs - Default,Dasai,0000,0000,0000,,Because of that, I got smacked \Nthree more times than I needed to.
+Dialogue: 0,0:02:43.88,0:02:47.14,Stray Dogs - Default,Chuuka,0000,0000,0000,,I might as well finish you off.
+Dialogue: 0,0:02:47.71,0:02:50.46,Stray Dogs - Default,Dasai,0000,0000,0000,,I'm not the one you need to kill.
+Dialogue: 0,0:02:54.98,0:02:57.04,Stray Dogs - Default,Chuuka,0000,0000,0000,,Look at all this trash.
+Dialogue: 0,0:02:57.04,0:02:59.08,Stray Dogs - Default,Dasai,0000,0000,0000,,Clean it up, please.
+Dialogue: 0,0:02:59.08,0:03:00.52,Stray Dogs - Default,Dasai,0000,0000,0000,,You're prepared for this, aren't you?
+Dialogue: 0,0:03:04.59,0:03:07.75,Stray Dogs - Default,Chuuka,0000,0000,0000,,Come to think of it,\N I have a debt to repay you.
+Dialogue: 0,0:03:17.63,0:03:18.99,Stray Dogs - Default,Shibs,0000,0000,0000,,It'll be mine.
+Dialogue: 0,0:03:20.04,0:03:21.80,Stray Dogs - Default,Shibs,0000,0000,0000,,It won't be mine. {n: i get that this is likely supposed to be a play on "loves me, loves me not", but it's very awkward in english. I'd suggest "It'll be mine/It won't be mine" but it really doesn't have the same cadence and I'm unsure of a better alternative}
+Dialogue: 0,0:03:22.54,0:03:23.93,Stray Dogs - Default,Shibs,0000,0000,0000,,It'll be mine.
+Dialogue: 0,0:03:24.78,0:03:26.40,Stray Dogs - Default,Shibs,0000,0000,0000,,It won't be mine.
+Dialogue: 0,0:03:27.33,0:03:28.76,Stray Dogs - Default,Shibs,0000,0000,0000,,It'll be mine.
+Dialogue: 0,0:03:29.62,0:03:31.29,Stray Dogs - Default,Shibs,0000,0000,0000,,It won't be mine.
+Dialogue: 0,0:03:32.03,0:03:33.33,Stray Dogs - Default,Shibs,0000,0000,0000,,It'll be mine.
+Dialogue: 0,0:03:34.24,0:03:35.85,Stray Dogs - Default,Shibs,0000,0000,0000,,It won't be mine.
+Dialogue: 0,0:03:36.50,0:03:37.96,Stray Dogs - Default,Shibs,0000,0000,0000,,It'll be mine.
+Dialogue: 0,0:03:38.81,0:03:40.44,Stray Dogs - Default,Shibs,0000,0000,0000,,It won't be mine.
+Dialogue: 0,0:03:41.17,0:03:42.57,Stray Dogs - Default,Shibs,0000,0000,0000,,It'll be mine.
+Dialogue: 0,0:03:43.39,0:03:45.13,Stray Dogs - Top,Shibs,0000,0000,0000,,It won't be mine.
+Dialogue: 0,0:03:44.21,0:03:47.53,Stray Dogs - Default,Dasai,0000,0000,0000,,Those jewels are all real.
+Dialogue: 0,0:03:47.89,0:03:50.60,Stray Dogs - Default,Dasai,0000,0000,0000,,He could have made a woman really happy.
+Dialogue: 0,0:03:52.37,0:03:54.12,Stray Dogs - Default,Shibs,0000,0000,0000,,It won't be mine. {E: I think he's saying the - not - one} {n: agree, i hear "-nai"}
+Dialogue: 0,0:03:58.11,0:04:02.54,Stray Dogs - Default,Shibs,0000,0000,0000,,It's not much fun seeing \Nthese readings come true.
+Dialogue: 0,0:04:03.21,0:04:08.05,Stray Dogs - Default,Shibs,0000,0000,0000,,Starting an organization hasn't \Nhelped me get what I want.
+Dialogue: 0,0:04:08.44,0:04:10.26,Stray Dogs - Default,Chuuka,0000,0000,0000,,Give me back my friends.
+Dialogue: 0,0:04:13.29,0:04:16.69,Stray Dogs - Default,Shibs,0000,0000,0000,,Welcome, boring guest.
+Dialogue: 0,0:04:17.05,0:04:22.43,Stray Dogs - Default,Shibs,0000,0000,0000,,I don't expect you to give me what I desire.
+Dialogue: 0,0:04:22.81,0:04:26.69,Stray Dogs - Default,Shibs,0000,0000,0000,,Die now, as they did.
+Dialogue: 0,0:04:27.96,0:04:31.42,Stray Dogs - Default,Shibs,0000,0000,0000,,All your friends killed themselves.
+Dialogue: 0,0:04:31.42,0:04:34.88,Stray Dogs - Default,Shibs,0000,0000,0000,,Boring people are boring, even in death.
+Dialogue: 0,0:04:35.61,0:04:38.08,Stray Dogs - Default,Chuuka,0000,0000,0000,,You...
+Dialogue: 0,0:04:42.94,0:04:44.27,Stray Dogs - Default,Chuuka,0000,0000,0000,,Don't stop me.
+Dialogue: 0,0:04:44.95,0:04:46.30,Stray Dogs - Default,Dasai,0000,0000,0000,,Oh, dear.
+Dialogue: 0,0:04:46.86,0:04:50.10,Stray Dogs - Default,Dasai,0000,0000,0000,,Corruption, huh? {n: his souped up power is "Corruption" in the bible}
+Dialogue: 0,0:05:06.61,0:05:08.52,Stray Dogs - Default,Fjord,0000,0000,0000,,This is too much fun.
+Dialogue: 0,0:05:31.85,0:05:34.22,sign_7957_58_The_day_world_an,Text,0000,0000,0000,,The day world and the night world
+Dialogue: 0,0:05:34.22,0:05:36.60,sign_7957_58_The_day_world_an,Text,0000,0000,0000,,{\c&HDFB88D&}An armed agency working in the twilight
+Dialogue: 0,0:05:36.73,0:05:39.02,sign_7957_58_The_day_world_an,Text,0000,0000,0000,,{\fad(732,1)\c&H927772&}Gifted Group:\NThe Armed Detective Agency
+Dialogue: 0,0:05:46.36,0:05:50.49,sign_8305_60_Nakajima_Atsushi,Text,0000,0000,0000,,{\fad(900,1)}Nakajima Atsushi \N{\fs12}Special Ability: \N{\fs20}Beast Beneath the Moonlight \N{\fs12}[18 years old. Armed Detective Agency employee.] \NTaken under the Agency's wing when he was found\Nstruggling after his time at an orphanage. \NProtagonist of the story.
+Dialogue: 0,0:05:55.62,0:06:00.33,sign_8527_61_Dazai_Osamu_Spec,Text,0000,0000,0000,,{\fad(1100,1)}Dazai Osamu\N{\fs12}Special Ability:\N{\fs20}No Longer Human\N{\fs12}[22 years old. Armed Detective Agency employee.]\N Atsushi's mentor, as he was the one to scout him. \NA suicide maniac and bandage-wasting machine.
+Dialogue: 0,0:06:25.15,0:06:28.82,sign_9235_66_Izumi_Kyouka_Spe,Text,0000,0000,0000,,{\fad(1000,1)}Izumi Kyouka\N{\fs12}Special Ability:\N{\fs20}Demon Snow\N{\fs12}[14 years old. Armed Detective Agency employee.]\N Former assassin for the Port Mafia.\NLikes rabbits and tofu.
+Dialogue: 0,0:06:34.49,0:06:38.46,sign_9459_68_Kunikida_Doppo_S,Text,0000,0000,0000,,{\fad(850,1)}Kunikida Doppo\N{\fs12}Special Ability:\N{\fs20}Doppo Poet\N{\fs12}[22 years old. Armed Detective Agency employee.]\NAn idealist who never accepts half-measures.\NMeticulous
+Dialogue: 0,0:06:46.96,0:06:49.17,sign_9758_70_Miyazawa_Kenji_S,Text,0000,0000,0000,,{\fad(947,1)}Miyazawa Kenji\N{\fs12}Special Ability:\N{\fs20}Be Not Defeated By The Rain\N{\fs12}[14 years old. Armed Detective Agency employee.]\NAn artless boy, born in the countryside.\N Loves cows, eats cows.
+Dialogue: 0,0:06:51.84,0:06:54.01,sign_9875_72_Edogawa_Rampo_Sp,Text,0000,0000,0000,,{\fad(500,1)}Edogawa Rampo\N{\fs12}Special Ability:\N{\fs20}Ultra Deduction
+Dialogue: 0,0:06:51.84,0:06:54.01,sign_9875_73__26_years_old__A,Text,0000,0000,0000,,{\fad(500,1)}[26 years old. Armed Detective Agency employee.]\NAn excellent detective with\Nultimate powers of deduction.\NMotto: "All's well that's well by me."
+Dialogue: 0,0:07:00.48,0:07:03.06,sign_10082_75_Yosano_Akiko_Spe,Text,0000,0000,0000,,{\fad(800,1)}Yosano Akiko\N{\fs12}Special Ability:\N{\fs20}Thou Shalt Not Die\N{\fs12}[25 years old. Armed Detective Agency doctor.]\NSkilled in healing all kinds of exterior wounds.\NPassionate about dissections.
+Dialogue: 0,0:07:05.52,0:07:08.53,sign_10203_77_Tanizaki_Junichi,Text,0000,0000,0000,,{\fad(900,1)}Tanizaki Junichirou\N{\fs12}Special Ability:\N{\fs20}Light Snow\N{\fs12}[18 years old. Armed Detective Agency employee.]\NA slightly timid Agency employee.\NCohabits with his sister. (?)
+Dialogue: 0,0:07:10.36,0:07:13.37,sign_10319_79_Fukuzawa_Yukichi,Text,0000,0000,0000,,{\fad(800,1)}Fukuzawa Yukichi\N{\fs12}Special Ability:\N{\fs20}All Men Are Created Equal\N{\fs12}[45 years old. Armed Detective Agency president.]\NThe founder of the Detective Agency,\Nformerly known as the Silver Wolf.\NAn extremely capable martial artist.
+Dialogue: 0,0:07:33.43,0:07:42.10,sign_10872_81_Port_Mafia,Text,0000,0000,0000,,Port Mafia
+Dialogue: 0,0:07:33.43,0:07:42.10,sign_10872_82_A_violent_organi,Text,0000,0000,0000,,{\fad(815,1)}A violent organization that represents the very darkness of Yokohama. \NRuns the city and controls both politics and economy. \NIs ruthless against anyone who opposes them in either mainstream or underground society.
+Dialogue: 0,0:07:47.36,0:07:51.74,sign_11206_71_Akutagawa_Ryunos,Text,0000,0000,0000,,{\fad(850,1)}Akutagawa Ryunosuke\N{\fs12}Special Ability:\N{\fs20}Rashoumon\N{\fs12}[20 years old. Port Mafia executive.]\NA battle-oriented gifted\Nwith the nickname Silent Rabid Dog.\NPreviously fought almost to the death\N with Nakajima Atsushi.
+Dialogue: 0,0:08:01.16,0:08:03.83,sign_11537_86_Nakahara_Chuuya_,Text,0000,0000,0000,,{\fad(900,1)}Nakahara Chuuya\N{\fs12}Special Ability:\N{\fs20}For The Tainted Sorrow\N{\fs12}[22 years old. Port Mafia executive.]\NA fancy hat, formerly called\N"Double Black" alongside Dazai.
+Dialogue: 0,0:08:06.13,0:08:08.59,sign_11656_88_Mori_Ougai_Speci,Text,0000,0000,0000,,{\fad(900,1)}Mori Ougai\N{\fs12}Special Ability:\N{\fs20}Vita Sexualis\N{\fs12}[40 years old. Port Mafia boss.]\NThe cold, calculating mastermind\N overseeing this band of cruel gifted.\NHas a lolita complex. {tl- lit. "Has a lolita complex"}
+Dialogue: 0,0:08:10.76,0:08:12.55,sign_11767_90_Sakaguchi_Ango_S,Text,0000,0000,0000,,{\fad(900,1)}Sakaguchi Ango\N{\fs12}Special Ability:{\fs12}\NDiscourse on Decadence\N{\fs12}[26 years old. Ministry of Internal Affairs,\NGifted Special Operations Division Assistant Counselor.]\NIn charge of maintaining national security \Nin light of matters to do with gifted activity.\N Perpetually sleep deprived.
+Dialogue: 0,0:08:18.51,0:08:20.60,sign_11953_92_Fyodor_D__Specia,Text,0000,0000,0000,,{\fad(1000,1)}Fyodor D.\N{\fs12}Special Ability:\N{\fs20}Crime and Punishment{\fs12}\N[Age unknown.]\NLeader of the underground organization\N"Rats in the House of the Dead".
+Dialogue: 0,0:08:35.36,0:08:38.70,sign_12357_94_Bungo_Stray_Dogs,Text,0000,0000,0000,,{\fad(1000,1)}Bungo Stray Dogs
+Dialogue: 0,0:08:41.95,0:08:46.67,sign_12515_97_Six_years_later_,Text,0000,0000,0000,,{\fad(500,1)}Six years later...
+Dialogue: 0,0:09:04.16,0:09:06.87,Stray Dogs - Default,At sushi,0000,0000,0000,,I never knew this place existed in Yokohama.
+Dialogue: 0,0:09:19.90,0:09:21.32,Stray Dogs - Default,Dasai,0000,0000,0000,,Nakajima Atsushi-kun.
+Dialogue: 0,0:09:21.64,0:09:22.65,Stray Dogs - Default,At sushi,0000,0000,0000,,Yes?
+Dialogue: 0,0:09:22.65,0:09:25.30,Stray Dogs - Default,Dasai,0000,0000,0000,,Do you know whose grave this is?
+Dialogue: 0,0:09:25.30,0:09:26.27,Stray Dogs - Default,At sushi,0000,0000,0000,,No.
+Dialogue: 0,0:09:26.66,0:09:30.08,Stray Dogs - Default,At sushi,0000,0000,0000,,But it's someone dear to you, right?
+Dialogue: 0,0:09:33.00,0:09:34.29,Stray Dogs - Default,Dasai,0000,0000,0000,,What makes you think that?
+Dialogue: 0,0:09:34.74,0:09:38.30,Stray Dogs - Default,At sushi,0000,0000,0000,,I've never seen you pay a visit to a grave.
+Dialogue: 0,0:09:38.91,0:09:41.59,Stray Dogs - Default,Dasai,0000,0000,0000,,Does it look like I'm \Nvisiting a grave to you?
+Dialogue: 0,0:09:42.77,0:09:44.10,Stray Dogs - Default,At sushi,0000,0000,0000,,It does. Why?
+Dialogue: 0,0:09:55.28,0:09:56.43,Stray Dogs - Flashback,Someone,0000,0000,0000,,Odasaku!
+Dialogue: 0,0:10:03.61,0:10:04.74,Stray Dogs - Flashback,Someone,0000,0000,0000,,Odasaku...
+Dialogue: 0,0:10:05.70,0:10:07.40,Stray Dogs - Flashback,Someone,0000,0000,0000,,What am I supposed to do?
+Dialogue: 0,0:10:09.25,0:10:11.62,Stray Dogs - Flashback,Someone,0000,0000,0000,,Be on the side that saves people.
+Dialogue: 0,0:10:13.77,0:10:17.65,Stray Dogs - Flashback,Someone,0000,0000,0000,,If it doesn't matter either way,\N be a good person.
+Dialogue: 0,0:10:18.25,0:10:21.30,Stray Dogs - Flashback,Someone,0000,0000,0000,,Save the weak, and protect the orphans.
+Dialogue: 0,0:10:22.28,0:10:25.94,Stray Dogs - Flashback,Someone,0000,0000,0000,,There's little difference between \Njustice and evil to you, is there?
+Dialogue: 0,0:10:26.14,0:10:29.93,Stray Dogs - Flashback,Someone,0000,0000,0000,,That's at least a little more beautiful.
+Dialogue: 0,0:10:31.46,0:10:32.70,Stray Dogs - Flashback,Dasai,0000,0000,0000,,How can you be so sure?
+Dialogue: 0,0:10:33.38,0:10:34.71,Stray Dogs - Flashback,Someone,0000,0000,0000,,I can.
+Dialogue: 0,0:10:35.47,0:10:37.28,Stray Dogs - Flashback,Someone,0000,0000,0000,,More than anyone.
+Dialogue: 0,0:10:37.83,0:10:42.46,Stray Dogs - Flashback,Someone,0000,0000,0000,,I'm your friend, after all.
+Dialogue: 0,0:10:47.86,0:10:51.43,Stray Dogs - Default,At sushi,0000,0000,0000,,Was it someone you were in love with?
+Dialogue: 0,0:10:52.19,0:10:55.27,Stray Dogs - Default,Dasai,0000,0000,0000,,If it was a woman I loved, \NI'd have died with her.
+Dialogue: 0,0:10:55.58,0:10:57.77,Stray Dogs - Default,At sushi,0000,0000,0000,,Oh, yeah, I guess you would have.
+Dialogue: 0,0:10:58.11,0:10:59.04,Stray Dogs - Default,Dasai,0000,0000,0000,,Did you say something?
+Dialogue: 0,0:10:59.04,0:10:59.90,Stray Dogs - Default,At sushi,0000,0000,0000,,Oh, no.
+Dialogue: 0,0:10:59.90,0:11:00.67,Stray Dogs - Default,At sushi,0000,0000,0000,,Nothing.
+Dialogue: 0,0:11:01.16,0:11:02.38,Stray Dogs - Default,Dasai,0000,0000,0000,,He was a friend.
+Dialogue: 0,0:11:03.02,0:11:08.12,Stray Dogs - Default,Dasai,0000,0000,0000,,The man who gave me a reason to quit \Nthe Port Mafia and join the Detective Agency.
+Dialogue: 0,0:11:09.52,0:11:12.98,Stray Dogs - Default,Dasai,0000,0000,0000,,Without him, I may have stayed in the Mafia,
+Dialogue: 0,0:11:13.65,0:11:15.98,Stray Dogs - Default,Dasai,0000,0000,0000,,murdering people.
+Dialogue: 0,0:11:17.49,0:11:18.62,Stray Dogs - Default,Dasai,0000,0000,0000,,I'm kidding.
+Dialogue: 0,0:11:19.57,0:11:23.99,Stray Dogs - Default,Dasai,0000,0000,0000,,I bet Kunikida-kun told you \Nto come find me, didn't he?
+Dialogue: 0,0:11:24.35,0:11:25.33,Stray Dogs - Default,At sushi,0000,0000,0000,,Yes.
+Dialogue: 0,0:11:25.33,0:11:27.63,Stray Dogs - Default,At sushi,0000,0000,0000,,He said there's an important meeting.
+Dialogue: 0,0:11:27.63,0:11:29.04,Stray Dogs - Default,Dasai,0000,0000,0000,,Pass.
+Dialogue: 0,0:11:30.23,0:11:33.64,Stray Dogs - Default,At sushi,0000,0000,0000,,I've been wanting to try \Na new suicide technique.
+Dialogue: 0,0:11:33.64,0:11:35.65,Stray Dogs - Default,Dasai,0000,0000,0000,,Again?
+Dialogue: 0,0:11:36.21,0:11:37.34,Stray Dogs - Default,Dasai,0000,0000,0000,,Jeez.
+Dialogue: 0,0:11:37.34,0:11:40.30,Stray Dogs - Default,Dasai,0000,0000,0000,,Kunikida-san's going to \Ngive me an earful again.
+Dialogue: 0,0:11:41.01,0:11:57.32,sign_16808_140_Dihua_Street___T,Text,0000,0000,0000,,Dihua Street, Taipei
+Dialogue: 0,0:11:41.01,0:11:57.32,sign_16808_141_Play,Text,0000,0000,0000,,Play
+Dialogue: 0,0:11:43.88,0:11:48.92,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,{\an8}This is footage from a security \Ncamera in Taipei, Taiwan.
+Dialogue: 0,0:11:48.92,0:11:53.90,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,{\an8}As you can see, the fog erupted in \Na matter of minutes, and vanished.
+Dialogue: 0,0:11:54.25,0:11:57.32,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,{\an8}But this isn't a weather anomaly.
+Dialogue: 0,0:11:59.45,0:12:03.20,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Suspicious bodies were \Ndiscovered after the fog.
+Dialogue: 0,0:12:05.44,0:12:06.99,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,This burnt corpse.
+Dialogue: 0,0:12:07.49,0:12:08.67,Stray Dogs - Default,At sushi,0000,0000,0000,,Terrible.
+Dialogue: 0,0:12:09.98,0:12:10.91,Stray Dogs - Default,Rambo,0000,0000,0000,,Kunikida...
+Dialogue: 0,0:12:10.91,0:12:11.80,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Yes?
+Dialogue: 0,0:12:13.32,0:12:15.58,Stray Dogs - Default,Rambo,0000,0000,0000,,This person's gifted.
+Dialogue: 0,0:12:15.58,0:12:17.62,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,You're correct, Rampo-san.
+Dialogue: 0,0:12:17.62,0:12:21.58,Stray Dogs - Default,Rambo,0000,0000,0000,,He was a well-known fire-wielding \Ngifted in his area.
+Dialogue: 0,0:12:19.67,0:12:21.97,sign_17735_153_Age__Approx__34_,Text,0000,0000,0000,,Age: Approx. 34\N Taipei - Dihua Street \NDeath by immolation {tl- is death by immolation redundant? Death by burning? Immolation?}
+Dialogue: 0,0:12:23.27,0:12:25.29,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,This is Singapore, a year ago.
+Dialogue: 0,0:12:25.60,0:12:27.30,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Sure enough, a dense fog emerged.
+Dialogue: 0,0:12:27.75,0:12:30.97,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Another suspicious corpse \Nwas discovered after it dissipated.
+Dialogue: 0,0:12:32.99,0:12:35.18,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,He was a card-wielding gifted.
+Dialogue: 0,0:12:35.18,0:12:37.20,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,A talented assassin.
+Dialogue: 0,0:12:38.96,0:12:41.19,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Detroit, half a year ago.
+Dialogue: 0,0:12:41.56,0:12:44.16,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Another body discovered after the fog.
+Dialogue: 0,0:12:46.22,0:12:50.32,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,As you can imagine, she was \Nan ice-wielding gifted.
+Dialogue: 0,0:12:51.00,0:12:54.58,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,In other words, after the strange fog,
+Dialogue: 0,0:12:54.58,0:12:59.80,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,these gifted people across the world \Ndied by their own abilities.
+Dialogue: 0,0:13:00.46,0:13:03.17,Stray Dogs - Default,Kenji,0000,0000,0000,,Is the fog somehow related?
+Dialogue: 0,0:13:04.47,0:13:09.56,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,There are 128 confirmed cases that are \Nthought to be of the same nature.
+Dialogue: 0,0:13:09.89,0:13:12.80,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,More than five hundred have died.
+Dialogue: 0,0:13:14.39,0:13:17.81,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,The Gifted Special Operations Division \Ncalls this series of events
+Dialogue: 0,0:13:17.81,0:13:21.07,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,the "Serial Gifted Suicide Incident".
+Dialogue: 0,0:13:21.88,0:13:23.50,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Speaking of suicide...
+Dialogue: 0,0:13:23.50,0:13:25.74,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Where's that fool Dazai, Atsushi?
+Dialogue: 0,0:13:27.45,0:13:31.36,Stray Dogs - Default,At sushi,0000,0000,0000,,He said he was going to pass, because he \Ncame up with a new suicide technique.
+Dialogue: 0,0:13:32.24,0:13:34.82,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,That bonehead!
+Dialogue: 0,0:13:35.90,0:13:36.99,Stray Dogs - Default,Rambo,0000,0000,0000,,I see.
+Dialogue: 0,0:13:44.64,0:13:47.36,Stray Dogs - Default,Kenji,0000,0000,0000,,What are you doing, Rampo-san?
+Dialogue: 0,0:13:47.36,0:13:48.90,Stray Dogs - Default,Rambo,0000,0000,0000,,It's a secret.
+Dialogue: 0,0:13:50.17,0:13:55.00,Stray Dogs - Default,Tanning sucky,0000,0000,0000,,So any gifted who touches \Nthat fog kills themselves?
+Dialogue: 0,0:13:55.00,0:13:57.51,Stray Dogs - Default,Naomi,0000,0000,0000,,I'll never let you do that.
+Dialogue: 0,0:13:57.51,0:14:01.38,Stray Dogs - Default,Naomi,0000,0000,0000,,I'm never going to let you kill \Nyourself and leave me behind.
+Dialogue: 0,0:13:59.89,0:14:03.64,Stray Dogs - Top,Yowza nope,0000,0000,0000,,So, what does this have to do with us?
+Dialogue: 0,0:14:01.65,0:14:03.94,Stray Dogs - Default,,0000,0000,0000,,{background - shinja - shinja}
+Dialogue: 0,0:14:04.26,0:14:09.02,Stray Dogs - Default,Yowza nope,0000,0000,0000,,There's more to this than just, \N"Let's be careful, because we're gifted, too," right?
+Dialogue: 0,0:14:09.38,0:14:11.47,Stray Dogs - Default,Yowza nope,0000,0000,0000,,The Special Operations Division has \Nrequested that we investigate.
+Dialogue: 0,0:14:12.20,0:14:15.29,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,We've received information that a man thought
+Dialogue: 0,0:14:15.29,0:14:18.25,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,to be involved in these serial \Nsuicides is in Yokohama.
+Dialogue: 0,0:14:18.25,0:14:20.46,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,We've been asked to capture him.
+Dialogue: 0,0:14:21.19,0:14:22.71,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,This is that man.
+Dialogue: 0,0:14:23.21,0:14:24.17,sign_20697_166_Name__Shibusawa_,Text,0000,0000,0000,,Name: Shibusawa\NTatsuhiko\NAge: 29\NSex: Unknown\NHeight: Unknown\NWeight: Unknown\NSpecial Abilities: Unknown\NNationality: Unknown
+Dialogue: 0,0:14:29.13,0:14:31.80,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Shibusawa Tatsuhiko. Twenty-nine.
+Dialogue: 0,0:14:32.22,0:14:35.89,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,All we know is that he has \Nsome kind of special ability,
+Dialogue: 0,0:14:35.89,0:14:38.06,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,and that he goes by the \Nstreet name "Collector".
+Dialogue: 0,0:14:38.68,0:14:39.87,Stray Dogs - Default,Kyocera,0000,0000,0000,,Is something wrong?
+Dialogue: 0,0:14:41.53,0:14:43.32,Stray Dogs - Default,At sushi,0000,0000,0000,,No, nothing.
+Dialogue: 0,0:14:45.08,0:14:47.24,Stray Dogs - Default,Fuguswatter,0000,0000,0000,,The Armed Detective Agency \Nwill accept this job.
+Dialogue: 0,0:14:47.86,0:14:50.86,Stray Dogs - Default,Fuguswatter,0000,0000,0000,,Gifted are the most direct \Nvictims of this case.
+Dialogue: 0,0:14:51.49,0:14:54.87,Stray Dogs - Default,Fuguswatter,0000,0000,0000,,This is also important to protect \Nthe lives of the Agency.
+Dialogue: 0,0:14:55.19,0:15:00.81,Stray Dogs - Default,Fuguswatter,0000,0000,0000,,More than anything, I get the sense that \Nthis is going to cause broader public harm.
+Dialogue: 0,0:15:02.07,0:15:07.13,Stray Dogs - Default,Fuguswatter,0000,0000,0000,,The Detective Agency will hereby commit all \Nof its resources to investigating this man.
+Dialogue: 0,0:15:14.78,0:15:18.15,Stray Dogs - Default,Tanning sucky,0000,0000,0000,,Kunikida-san, what do you think?
+Dialogue: 0,0:15:18.15,0:15:19.05,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,About what?
+Dialogue: 0,0:15:19.81,0:15:23.23,Stray Dogs - Default,Tanning sucky,0000,0000,0000,,Is serial suicide even a thing?
+Dialogue: 0,0:15:23.65,0:15:25.02,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,I can't say.
+Dialogue: 0,0:15:25.61,0:15:28.78,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Supposing they have the ability \Nto control people psychologically,
+Dialogue: 0,0:15:28.78,0:15:33.78,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,the international investigation agencies \Nwould have information on someone that powerful.
+Dialogue: 0,0:15:35.49,0:15:37.87,Stray Dogs - Default,Tanning sucky,0000,0000,0000,,I hope we can get some \Nmore detailed information
+Dialogue: 0,0:15:37.87,0:15:41.04,Stray Dogs - Default,Tanning sucky,0000,0000,0000,,out of the Special Operations \NDivision agent we're about to meet.
+Dialogue: 0,0:15:45.39,0:15:47.60,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Perfectly on schedule.
+Dialogue: 0,0:15:48.09,0:15:48.83,Stray Dogs - Default,Tanning sucky,0000,0000,0000,,Kunikida-san!
+Dialogue: 0,0:16:02.27,0:16:03.86,Stray Dogs - Default,Tanning sucky,0000,0000,0000,,It's the Special Operations Division agent.
+Dialogue: 0,0:16:04.38,0:16:05.37,Stray Dogs - Default,Tanning sucky,0000,0000,0000,,He's dead.
+Dialogue: 0,0:16:09.52,0:16:10.43,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:16:11.00,0:16:12.76,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Did the murderer leave this behind?
+Dialogue: 0,0:16:13.53,0:16:14.69,Stray Dogs - Default,Tanning sucky,0000,0000,0000,,An apple?
+Dialogue: 0,0:16:16.94,0:16:18.49,Stray Dogs - Default,Tanning sucky,0000,0000,0000,,Kunikida-san...
+Dialogue: 0,0:16:19.48,0:16:21.16,Stray Dogs - Default,Tanning sucky,0000,0000,0000,,Why an apple?
+Dialogue: 0,0:16:22.03,0:16:23.59,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,How should I know?
+Dialogue: 0,0:16:50.52,0:16:52.44,Stray Dogs - Default,Dasai,0000,0000,0000,,What shall we toast to today?
+Dialogue: 0,0:16:54.20,0:16:56.43,Stray Dogs - Flashback,Older sucker,0000,0000,0000,,Shouldn't we wait for Ango to arrive?
+Dialogue: 0,0:16:59.02,0:17:01.05,Stray Dogs - Flashback,Dasai,0000,0000,0000,,Let's chat, then.
+Dialogue: 0,0:17:02.20,0:17:04.55,Stray Dogs - Flashback,Dasai,0000,0000,0000,,I heard something interesting recently.
+Dialogue: 0,0:17:05.41,0:17:07.58,Stray Dogs - Flashback,Dasai,0000,0000,0000,,Have you heard of apple suicide?
+Dialogue: 0,0:17:08.00,0:17:09.54,Stray Dogs - Flashback,Older sucker,0000,0000,0000,,Apple suicide?
+Dialogue: 0,0:17:09.80,0:17:11.87,Stray Dogs - Flashback,Dasai,0000,0000,0000,,Yup, apple suicide.
+Dialogue: 0,0:17:12.22,0:17:15.11,Stray Dogs - Flashback,Older sucker,0000,0000,0000,,Oh, you mean Cinderella.
+Dialogue: 0,0:17:15.99,0:17:17.51,Stray Dogs - Flashback,Dasai,0000,0000,0000,,Cinderella...
+Dialogue: 0,0:17:19.66,0:17:23.81,Stray Dogs - Flashback,Dasai,0000,0000,0000,,I didn't expect you to say {\i1}that{\i0}.
+Dialogue: 0,0:17:25.02,0:17:27.84,Stray Dogs - Flashback,Dasai,0000,0000,0000,,I never get bored of \Ntalking to you, Odasaku.
+Dialogue: 0,0:17:28.48,0:17:32.74,Stray Dogs - Flashback,Dasai,0000,0000,0000,,Just for your information, it was \NSnow White who ate the poison apple.
+Dialogue: 0,0:17:32.74,0:17:34.80,Stray Dogs - Flashback,Dasai,0000,0000,0000,,And it wasn't suicide in her case.
+Dialogue: 0,0:17:34.80,0:17:35.65,Stray Dogs - Flashback,Older sucker,0000,0000,0000,,I see.
+Dialogue: 0,0:17:36.09,0:17:37.17,Stray Dogs - Flashback,Older sucker,0000,0000,0000,,I got it wrong.
+Dialogue: 0,0:17:37.67,0:17:39.38,Stray Dogs - Flashback,Dasai,0000,0000,0000,,No, hang on.
+Dialogue: 0,0:17:39.79,0:17:42.89,Stray Dogs - Flashback,Dasai,0000,0000,0000,,Maybe she {\i1}did{\i0} commit suicide.
+Dialogue: 0,0:17:43.45,0:17:47.32,Stray Dogs - Flashback,Dasai,0000,0000,0000,,Maybe she took a bite of the \Napple knowing it was poisoned.
+Dialogue: 0,0:17:47.32,0:17:48.12,Stray Dogs - Flashback,Older sucker,0000,0000,0000,,Why?
+Dialogue: 0,0:17:48.36,0:17:49.76,Stray Dogs - Flashback,Dasai,0000,0000,0000,,Despair.
+Dialogue: 0,0:17:50.24,0:17:53.21,Stray Dogs - Flashback,Dasai,0000,0000,0000,,Despair in having been given \Npoison by her mother.
+Dialogue: 0,0:17:53.81,0:17:54.72,Stray Dogs - Flashback,Dasai,0000,0000,0000,,No...
+Dialogue: 0,0:17:55.58,0:17:57.86,Stray Dogs - Flashback,Dasai,0000,0000,0000,,Maybe it was a more nebulous despair.
+Dialogue: 0,0:17:57.86,0:18:01.02,Stray Dogs - Flashback,Dasai,0000,0000,0000,,Despair intrinsic to this world.
+Dialogue: 0,0:18:01.66,0:18:03.70,Stray Dogs - Flashback,Dasai,0000,0000,0000,,That would be interesting, \Nif it were the case.
+Dialogue: 0,0:18:05.47,0:18:08.75,Stray Dogs - Flashback,Dasai,0000,0000,0000,,I met an interesting gifted recently.
+Dialogue: 0,0:18:10.58,0:18:13.35,Stray Dogs - Flashback,Dasai,0000,0000,0000,,He makes people commit apple suicide.
+Dialogue: 0,0:18:14.56,0:18:17.43,Stray Dogs - Flashback,Dasai,0000,0000,0000,,It might become popular \Nin Yokohama someday, too.
+Dialogue: 0,0:18:17.43,0:18:18.66,Stray Dogs - Flashback,Older sucker,0000,0000,0000,,Suicide, you mean?
+Dialogue: 0,0:18:19.28,0:18:20.24,Stray Dogs - Flashback,Dasai,0000,0000,0000,,Yeah.
+Dialogue: 0,0:18:21.13,0:18:22.59,Stray Dogs - Flashback,Dasai,0000,0000,0000,,Wouldn't it be beautiful?
+Dialogue: 0,0:18:26.84,0:18:28.69,Stray Dogs - Flashback,Older sucker,0000,0000,0000,,You're an interesting one.
+Dialogue: 0,0:18:29.02,0:18:30.91,Stray Dogs - Flashback,Older sucker,0000,0000,0000,,Your mind dances.
+Dialogue: 0,0:18:32.87,0:18:34.80,Stray Dogs - Flashback,Dasai,0000,0000,0000,,Nowhere as interesting as you.
+Dialogue: 0,0:18:37.95,0:18:39.61,Stray Dogs - Flashback,Older sucker,0000,0000,0000,,Ango's late.
+Dialogue: 0,0:18:40.54,0:18:42.05,Stray Dogs - Default,Dasai,0000,0000,0000,,Ango's not coming.
+Dialogue: 0,0:18:45.51,0:18:48.76,Stray Dogs - Default,Dasai,0000,0000,0000,,Odasaku, what you said is true.
+Dialogue: 0,0:18:49.99,0:18:52.50,Stray Dogs - Default,Dasai,0000,0000,0000,,Being on the side that saves people \Nis definitely more beautiful...
+Dialogue: 0,0:18:55.45,0:18:57.10,Stray Dogs - Default,Dasai,0000,0000,0000,,if the goal is to continue living.
+Dialogue: 0,0:19:03.35,0:19:05.58,Stray Dogs - Default,Dasai,0000,0000,0000,,I'm off, now, Odasaku.
+Dialogue: 0,0:19:16.47,0:19:17.54,Stray Dogs - Default,Uggo,0000,0000,0000,,Dazai-kun.
+Dialogue: 0,0:19:18.40,0:19:19.89,Stray Dogs - Default,Dasai,0000,0000,0000,,Oh, Ango.
+Dialogue: 0,0:19:19.89,0:19:20.73,Stray Dogs - Default,Dasai,0000,0000,0000,,You're here.
+Dialogue: 0,0:19:21.36,0:19:22.71,Stray Dogs - Default,Dasai,0000,0000,0000,,Did you come for a drink?
+Dialogue: 0,0:19:23.10,0:19:25.64,Stray Dogs - Default,Uggo,0000,0000,0000,,No, I'm in the middle of work.
+Dialogue: 0,0:19:26.13,0:19:27.23,Stray Dogs - Default,Dasai,0000,0000,0000,,Work?
+Dialogue: 0,0:19:29.15,0:19:34.17,Stray Dogs - Default,Uggo,0000,0000,0000,,You were the one who brought Shibusawa \NTatsuhiko here to Yokohama, aren't you?
+Dialogue: 0,0:19:36.40,0:19:40.81,Stray Dogs - Default,Uggo,0000,0000,0000,,Are you plotting to start \Na mass suicide here?
+Dialogue: 0,0:19:42.42,0:19:45.34,Stray Dogs - Default,Dasai,0000,0000,0000,,Do you think you can catch me?
+Dialogue: 0,0:19:49.79,0:19:51.28,Stray Dogs - Default,Person A,0000,0000,0000,,Get out, you good-for-nothing!
+Dialogue: 0,0:19:52.88,0:19:55.42,Stray Dogs - Default,Person A,0000,0000,0000,,No orphanage would welcome the likes of you!
+Dialogue: 0,0:19:57.42,0:20:00.75,Stray Dogs - Default,Person B,0000,0000,0000,,The world would be a better place
+Dialogue: 0,0:20:00.75,0:20:02.52,Stray Dogs - Default,Person B,0000,0000,0000,,if you'd just die in a ditch somewhere!
+Dialogue: 0,0:20:01.58,0:20:02.71,Stray Dogs - Top,At sushi,0000,0000,0000,,What the...?
+Dialogue: 0,0:20:02.52,0:20:04.04,Stray Dogs - Default,Person A,0000,0000,0000,,You don't belong anywhere in this world.
+Dialogue: 0,0:20:15.52,0:20:18.18,Stray Dogs - Default,At sushi,0000,0000,0000,,I was dreaming.
+Dialogue: 0,0:20:18.45,0:20:19.72,Stray Dogs - Default,Kyocera,0000,0000,0000,,Can I come in?
+Dialogue: 0,0:20:22.04,0:20:22.85,Stray Dogs - Default,At sushi,0000,0000,0000,,Yeah.
+Dialogue: 0,0:20:24.93,0:20:26.18,Stray Dogs - Default,Kyocera,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:20:27.53,0:20:28.31,Stray Dogs - Default,At sushi,0000,0000,0000,,Why?
+Dialogue: 0,0:20:28.85,0:20:30.77,Stray Dogs - Default,Kyocera,0000,0000,0000,,You sounded like you were \Nhaving a really bad dream.
+Dialogue: 0,0:20:31.08,0:20:31.83,Stray Dogs - Default,At sushi,0000,0000,0000,,Yeah.
+Dialogue: 0,0:20:32.29,0:20:34.02,Stray Dogs - Default,At sushi,0000,0000,0000,,I had a bit of a nightmare.
+Dialogue: 0,0:20:35.29,0:20:37.58,Stray Dogs - Default,Kyocera,0000,0000,0000,,Wait, Kyouka-chan?!
+Dialogue: 0,0:20:38.13,0:20:39.99,Stray Dogs - Default,At sushi,0000,0000,0000,,Was there fog in your dream?
+Dialogue: 0,0:20:47.04,0:20:48.29,Stray Dogs - Default,At sushi,0000,0000,0000,,Is this...?
+Dialogue: 0,0:20:52.18,0:20:53.79,Stray Dogs - Default,Kyocera,0000,0000,0000,,My phone's not working.
+Dialogue: 0,0:20:58.81,0:20:59.81,Stray Dogs - Default,At sushi,0000,0000,0000,,Mine, neither.
+Dialogue: 0,0:21:00.35,0:21:04.46,Stray Dogs - Default,At sushi,0000,0000,0000,,Could this be the fog that apparently \Nmakes gifted people kill themselves?
+Dialogue: 0,0:21:06.28,0:21:07.76,Stray Dogs - Default,Kyocera,0000,0000,0000,,Let's go to the Agency.
+Dialogue: 0,0:21:08.57,0:21:09.98,Stray Dogs - Default,At sushi,0000,0000,0000,,R-Right now?
+Dialogue: 0,0:21:11.13,0:21:13.41,Stray Dogs - Default,At sushi,0000,0000,0000,,Th-The fog might clear up eventually.
+Dialogue: 0,0:21:39.15,0:21:40.14,Stray Dogs - Default,At sushi,0000,0000,0000,,Um...
+Dialogue: 0,0:21:40.64,0:21:42.00,Stray Dogs - Default,At sushi,0000,0000,0000,,Kyouka-chan...
+Dialogue: 0,0:21:43.33,0:21:44.56,Stray Dogs - Default,At sushi,0000,0000,0000,,Kyouka-chan!
+Dialogue: 0,0:21:48.27,0:21:49.48,Stray Dogs - Default,At sushi,0000,0000,0000,,Where's the driver?
+Dialogue: 0,0:21:51.39,0:21:52.88,Stray Dogs - Default,At sushi,0000,0000,0000,,What's going on?
+Dialogue: 0,0:21:56.55,0:21:57.64,Stray Dogs - Default,At sushi,0000,0000,0000,,Kyouka-chan...
+Dialogue: 0,0:22:21.84,0:22:24.27,Stray Dogs - Italics,At sushi,0000,0000,0000,,Silence dominated.
+Dialogue: 0,0:22:25.51,0:22:30.28,Stray Dogs - Italics,At sushi,0000,0000,0000,,It was as if every person \Nhad vanished from the city.
+Dialogue: 0,0:22:34.79,0:22:36.56,Stray Dogs - Default,Person A,0000,0000,0000,,Get out, you good-for-nothing!
+Dialogue: 0,0:22:39.77,0:22:43.25,Stray Dogs - Default,Person A,0000,0000,0000,,You don't belong anywhere in this world.
+Dialogue: 0,0:22:44.55,0:22:45.65,Stray Dogs - Default,At sushi,0000,0000,0000,,Kyouka-chan...
+Dialogue: 0,0:22:46.58,0:22:48.54,Stray Dogs - Default,Kyocera,0000,0000,0000,,I feel fierce bloodlust.
+Dialogue: 0,0:22:49.62,0:22:50.86,Stray Dogs - Default,At sushi,0000,0000,0000,,Kyouka-chan!
+Dialogue: 0,0:23:02.58,0:23:04.86,Stray Dogs - Default,Kyocera,0000,0000,0000,,Is this another suicide \Nby special ability?
+Dialogue: 0,0:23:05.14,0:23:06.74,Stray Dogs - Default,At sushi,0000,0000,0000,,But I don't see a body.
+Dialogue: 0,0:23:22.11,0:23:23.57,Stray Dogs - Default,At sushi,0000,0000,0000,,Let's go, Kyouka-chan.
+Dialogue: 0,0:23:23.90,0:23:25.79,Stray Dogs - Default,At sushi,0000,0000,0000,,Beast Beneath the Moonlight!
+Dialogue: 0,0:23:25.79,0:23:28.01,Stray Dogs - Default,Kyocera,0000,0000,0000,,Demon Snow!
+Dialogue: 0,0:23:48.21,0:23:49.32,Stray Dogs - Default,At sushi,0000,0000,0000,,Kunikida-san.
+Dialogue: 0,0:23:50.50,0:23:51.78,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Atsushi.
+Dialogue: 0,0:23:51.78,0:23:52.99,Stray Dogs - Default,At sushi,0000,0000,0000,,That wound...
+Dialogue: 0,0:23:52.99,0:23:54.32,Stray Dogs - Default,At sushi,0000,0000,0000,,Did you get shot?
+Dialogue: 0,0:23:54.32,0:23:55.84,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,I got the bullet out.
+Dialogue: 0,0:23:55.84,0:23:56.90,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,I'm fine.
+Dialogue: 0,0:23:57.41,0:24:00.03,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,More importantly, I know what's \Ncausing the serial suicides.
+Dialogue: 0,0:24:14.46,0:24:15.51,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Run!
+Dialogue: 0,0:24:21.65,0:24:23.30,Stray Dogs - Default,At sushi,0000,0000,0000,,Kunikida-san, hurry!
+Dialogue: 0,0:24:28.82,0:24:29.74,Stray Dogs - Default,At sushi,0000,0000,0000,,Kunikida-san!
+Dialogue: 0,0:24:31.63,0:24:32.79,Stray Dogs - Default,At sushi,0000,0000,0000,,Kyouka-chan?
+Dialogue: 0,0:24:33.39,0:24:34.78,Stray Dogs - Default,At sushi,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:24:35.35,0:24:36.66,Stray Dogs - Default,At sushi,0000,0000,0000,,What happened?
+Dialogue: 0,0:24:37.91,0:24:39.78,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,I got hit by my own ability.
+Dialogue: 0,0:24:41.72,0:24:43.50,Stray Dogs - Default,At sushi,0000,0000,0000,,By your own ability...?
+Dialogue: 0,0:24:50.10,0:24:51.55,Stray Dogs - Default,At sushi,0000,0000,0000,,Demon Snow!
+Dialogue: 0,0:24:53.56,0:24:54.29,Stray Dogs - Default,Kyocera,0000,0000,0000,,Get on!
+Dialogue: 0,0:24:54.29,0:24:55.51,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Run, Atsushi!
+Dialogue: 0,0:25:12.77,0:25:17.01,Stray Dogs - Default,At sushi,0000,0000,0000,,Kunikida-san, what were you saying about \Nthe cause of the suicides...?
+Dialogue: 0,0:25:18.32,0:25:20.57,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,The gifted didn't commit suicide.
+Dialogue: 0,0:25:21.54,0:25:23.66,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,They were killed by their own abilities.
+Dialogue: 0,0:25:25.94,0:25:28.03,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Let's hurry to the agency.
+Dialogue: 0,0:25:33.23,0:25:35.39,Stray Dogs - Default,At sushi,0000,0000,0000,,What happened here?
+Dialogue: 0,0:25:36.56,0:25:37.93,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,The president's office!
+Dialogue: 0,0:25:48.59,0:25:49.56,Stray Dogs - Default,At sushi,0000,0000,0000,,Kunikida-san!
+Dialogue: 0,0:26:09.62,0:26:11.19,Stray Dogs - Default,At sushi,0000,0000,0000,,What is that?
+Dialogue: 0,0:26:19.89,0:26:20.96,Stray Dogs - Italics,Uggo,0000,0000,0000,,We almost have a connection.
+Dialogue: 0,0:26:21.59,0:26:23.89,Stray Dogs - Italics,Uggo,0000,0000,0000,,Keep this level steady.
+Dialogue: 0,0:26:24.69,0:26:25.66,Stray Dogs - Italics,Uggo,0000,0000,0000,,Can you hear me?
+Dialogue: 0,0:26:26.33,0:26:27.64,Stray Dogs - Italics,Uggo,0000,0000,0000,,President Fukuzawa, is that you?
+Dialogue: 0,0:26:27.64,0:26:29.87,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,It's Agent Kunikida.
+Dialogue: 0,0:26:29.87,0:26:32.77,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,You're with the Special Operations \NDivision, correct?
+Dialogue: 0,0:26:33.13,0:26:34.35,Stray Dogs - Default,At sushi,0000,0000,0000,,Special Operations Division?
+Dialogue: 0,0:26:35.08,0:26:38.14,Stray Dogs - Italics,Uggo,0000,0000,0000,,I'm Sakaguchi Ango of the \NSpecial Operations Division.
+Dialogue: 0,0:26:39.13,0:26:42.03,Stray Dogs - Italics,Uggo,0000,0000,0000,,Kunikida-san, what is the \Nsituation over there?
+Dialogue: 0,0:26:42.38,0:26:46.62,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,I'm here with Nakajima \NAtsushi and Izumi Kyouka.
+Dialogue: 0,0:26:46.62,0:26:49.56,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,All other Agency staff \Nare currently missing.
+Dialogue: 0,0:26:50.10,0:26:51.11,Stray Dogs - Italics,Uggo,0000,0000,0000,,Understood.
+Dialogue: 0,0:26:51.45,0:26:52.90,Stray Dogs - Italics,Uggo,0000,0000,0000,,Our connection isn't stable.
+Dialogue: 0,0:26:52.90,0:26:54.34,Stray Dogs - Italics,Uggo,0000,0000,0000,,I'll keep it short.
+Dialogue: 0,0:26:54.93,0:26:58.33,Stray Dogs - Italics,Uggo,0000,0000,0000,,The fog phenomenon has \Nhappened here in Yokohama.
+Dialogue: 0,0:26:59.36,0:27:03.23,Stray Dogs - Italics,Uggo,0000,0000,0000,,No such vast fog exists on record.
+Dialogue: 0,0:27:04.33,0:27:08.55,Stray Dogs - Italics,Uggo,0000,0000,0000,,It has stopped spreading, but the \Nentirety of Yokohama is engulfed.
+Dialogue: 0,0:27:08.55,0:27:10.77,Stray Dogs - Italics,Uggo,0000,0000,0000,,Yokohama is currently disconnected \Nfrom the outside.
+Dialogue: 0,0:27:11.14,0:27:15.79,Stray Dogs - Italics,Uggo,0000,0000,0000,,Almost everyone in Yokohama\N is currently missing, or has vanished.
+Dialogue: 0,0:27:16.19,0:27:18.49,Stray Dogs - Italics,Uggo,0000,0000,0000,,It appears that only the \Ngifted are present.
+Dialogue: 0,0:27:19.07,0:27:23.17,Stray Dogs - Italics,Uggo,0000,0000,0000,,Which means you're in danger as well.
+Dialogue: 0,0:27:23.17,0:27:25.13,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,We can confirm.
+Dialogue: 0,0:27:25.83,0:27:29.66,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Here in this fog, the gifted have been \Nseparated from their special abilities.
+Dialogue: 0,0:27:29.66,0:27:31.38,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,The abilities attempt to kill \Nthe gifted they belong to.
+Dialogue: 0,0:28:06.15,0:28:09.16,Stray Dogs - Default,Yowza nope,0000,0000,0000,,This could definitely be bad.
+Dialogue: 0,0:28:10.37,0:28:13.46,Stray Dogs - Italics,Uggo,0000,0000,0000,,Fortunately, we've determined \Nthe location of the gifted
+Dialogue: 0,0:28:13.46,0:28:15.92,Stray Dogs - Italics,Uggo,0000,0000,0000,,who is most likely responsible \Nfor this phenomenon.
+Dialogue: 0,0:28:18.95,0:28:25.09,Stray Dogs - Italics,Uggo,0000,0000,0000,,He's in an abandoned high-rise called \NMukurotoride in the center of Yokohama.
+Dialogue: 0,0:28:26.48,0:28:28.92,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Is it Shibusawa Tatsuhiko, after all?
+Dialogue: 0,0:28:32.75,0:28:36.05,Stray Dogs - Italics,Yowza nope,0000,0000,0000,,I am making an important \Nrequest of the Agency.
+Dialogue: 0,0:28:36.47,0:28:39.56,Stray Dogs - Italics,Yowza nope,0000,0000,0000,,Please eliminate the mastermind, \NShibusawa Tatsuhiko.
+Dialogue: 0,0:28:40.57,0:28:41.98,Stray Dogs - Italics,Yowza nope,0000,0000,0000,,By any means necessary.
+Dialogue: 0,0:28:43.88,0:28:49.69,Stray Dogs - Italics,Yowza nope,0000,0000,0000,,Also, note that Dazai-kun appears \Nto be with the mastermind.
+Dialogue: 0,0:28:50.65,0:28:51.99,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Dazai is?
+Dialogue: 0,0:28:51.99,0:28:53.70,Stray Dogs - Default,At sushi,0000,0000,0000,,He's been captured?
+Dialogue: 0,0:28:54.42,0:28:56.97,Stray Dogs - Italics,Yowza nope,0000,0000,0000,,We need to act, \Nbefore Yokohama is annihilated.
+Dialogue: 0,0:28:56.97,0:28:58.53,Stray Dogs - Italics,Yowza nope,0000,0000,0000,,You're our only hope.
+Dialogue: 0,0:29:12.33,0:29:13.36,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,He's here.
+Dialogue: 0,0:29:14.09,0:29:15.87,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,You two go on ahead.
+Dialogue: 0,0:29:16.58,0:29:18.26,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,I'll stop him myself.
+Dialogue: 0,0:29:18.91,0:29:20.35,Stray Dogs - Default,At sushi,0000,0000,0000,,But, Kunikida-san...
+Dialogue: 0,0:29:20.72,0:29:23.31,Stray Dogs - Default,At sushi,0000,0000,0000,,There's no way you're going to win \Nagainst your own ability.
+Dialogue: 0,0:29:23.64,0:29:25.47,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,It's not a matter of winning.
+Dialogue: 0,0:29:26.08,0:29:28.70,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,It's a matter of having the will to fight.
+Dialogue: 0,0:29:30.95,0:29:32.30,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Prevailing against myself.
+Dialogue: 0,0:29:33.00,0:29:34.61,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,That's what I've always done.
+Dialogue: 0,0:29:38.35,0:29:39.33,Stray Dogs - Default,At sushi,0000,0000,0000,,What the...?
+Dialogue: 0,0:29:39.82,0:29:41.54,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,We are an {\i1}armed{\i0} detective agency.
+Dialogue: 0,0:29:45.65,0:29:46.58,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Take this.
+Dialogue: 0,0:29:47.79,0:29:49.37,Stray Dogs - Default,Kyocera,0000,0000,0000,,I don't need one.
+Dialogue: 0,0:29:50.18,0:29:54.21,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,His special ability won't let him make any \Nweapons larger than the size of the notebook.
+Dialogue: 0,0:29:55.43,0:29:58.27,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Escape out the back door \Nwhile I draw him in.
+Dialogue: 0,0:30:00.34,0:30:01.22,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Now!
+Dialogue: 0,0:30:02.26,0:30:06.54,Stray Dogs - Default,Uggo,0000,0000,0000,,I trust we've determined the \Nlocation of Gifted Number A5158.
+Dialogue: 0,0:30:07.11,0:30:07.94,Stray Dogs - Default,Person A,0000,0000,0000,,Yes.
+Dialogue: 0,0:30:07.94,0:30:09.71,Stray Dogs - Default,Uggo,0000,0000,0000,,Please send a message.
+Dialogue: 0,0:30:09.71,0:30:10.90,Stray Dogs - Default,Person A,0000,0000,0000,,What shall we say?
+Dialogue: 0,0:30:12.14,0:30:15.12,Stray Dogs - Default,Uggo,0000,0000,0000,,"Pay your debt to doc glasses."
+Dialogue: 0,0:30:17.52,0:30:18.80,Stray Dogs - Default,At sushi,0000,0000,0000,,Kunikida-san!
+Dialogue: 0,0:30:24.10,0:30:26.71,Stray Dogs - Default,At sushi,0000,0000,0000,,Kunikida-san's okay, right?
+Dialogue: 0,0:30:27.10,0:30:32.17,Stray Dogs - Default,Kyocera,0000,0000,0000,,Our priority right now is to \Neliminate Shibusawa Tatsuhiko.
+Dialogue: 0,0:30:33.99,0:30:35.80,Stray Dogs - Default,At sushi,0000,0000,0000,,Shibusawa Tatsuhiko.
+Dialogue: 0,0:30:37.19,0:30:40.27,Stray Dogs - Default,At sushi,0000,0000,0000,,I wonder what Shibusawa Tatsuhiko is like.
+Dialogue: 0,0:30:40.89,0:30:46.44,Stray Dogs - Default,Kyocera,0000,0000,0000,,You say "eliminate," but there's no need to \Nkill anyone, no matter how bad they are.
+Dialogue: 0,0:30:46.44,0:30:47.82,Stray Dogs - Default,Kyocera,0000,0000,0000,,We just need to capture him.
+Dialogue: 0,0:30:48.30,0:30:51.77,Stray Dogs - Default,Kyocera,0000,0000,0000,,I'm sure Dazai-san will help \Nus once we get him out.
+Dialogue: 0,0:30:52.72,0:30:53.79,Stray Dogs - Default,Kyocera,0000,0000,0000,,Yeah.
+Dialogue: 0,0:30:53.79,0:30:56.24,Stray Dogs - Default,Kyocera,0000,0000,0000,,We can manage if we can save Dazai-san.
+Dialogue: 0,0:30:56.63,0:30:58.33,Stray Dogs - Default,Kyocera,0000,0000,0000,,Dazai-san will know what to do.
+Dialogue: 0,0:31:29.61,0:31:30.70,Stray Dogs - Default,Shibs,0000,0000,0000,,Dazai-kun,
+Dialogue: 0,0:31:32.03,0:31:35.83,Stray Dogs - Default,Shibs,0000,0000,0000,,don't you get bored looking at that?
+Dialogue: 0,0:31:36.29,0:31:37.36,Stray Dogs - Default,Dasai,0000,0000,0000,,Bored?
+Dialogue: 0,0:31:37.36,0:31:39.91,Stray Dogs - Default,Shibs,0000,0000,0000,,Yeah, it's boring.
+Dialogue: 0,0:31:40.53,0:31:42.81,Stray Dogs - Default,Shibs,0000,0000,0000,,A sea of white and nothingness.
+Dialogue: 0,0:31:43.24,0:31:45.45,Stray Dogs - Default,Shibs,0000,0000,0000,,A nondescript world.
+Dialogue: 0,0:31:46.24,0:31:50.56,Stray Dogs - Default,Shibs,0000,0000,0000,,Tonight, all of Yokohama's special \Nabilities will become mine.
+Dialogue: 0,0:31:51.30,0:31:55.31,Stray Dogs - Default,Shibs,0000,0000,0000,,Once again, no one will emerge \Nwhose intellect surpasses mine,
+Dialogue: 0,0:31:55.31,0:31:56.93,Stray Dogs - Default,Shibs,0000,0000,0000,,who will defy my expectations.
+Dialogue: 0,0:31:57.41,0:31:59.29,Stray Dogs - Default,Shibs,0000,0000,0000,,How boring.
+Dialogue: 0,0:32:00.28,0:32:04.15,Stray Dogs - Default,Dasai,0000,0000,0000,,I used to be bored, as you are.
+Dialogue: 0,0:32:04.92,0:32:06.40,Stray Dogs - Default,Shibs,0000,0000,0000,,How did you overcome it?
+Dialogue: 0,0:32:07.55,0:32:10.85,Stray Dogs - Default,Dasai,0000,0000,0000,,It's quicker to show you than to tell you.
+Dialogue: 0,0:32:21.76,0:32:27.43,Stray Dogs - Default,Dasai,0000,0000,0000,,See? Case in point: you don't know \Nwhat my true intentions are.
+Dialogue: 0,0:32:29.29,0:32:31.58,Stray Dogs - Default,Dasai,0000,0000,0000,,Am I helping you?
+Dialogue: 0,0:32:31.58,0:32:34.05,Stray Dogs - Default,Dasai,0000,0000,0000,,Am I going to use you and betray you?
+Dialogue: 0,0:32:34.83,0:32:37.93,Stray Dogs - Default,Shibs,0000,0000,0000,,You're the only one who \Nthinks you can't be read.
+Dialogue: 0,0:32:38.46,0:32:41.64,Stray Dogs - Default,Dasai,0000,0000,0000,,It seems you do need salvation.
+Dialogue: 0,0:32:42.29,0:32:45.95,Stray Dogs - Default,Shibs,0000,0000,0000,,Who do you propose could save me?
+Dialogue: 0,0:32:46.79,0:32:47.95,Stray Dogs - Default,Dasai,0000,0000,0000,,Who knows.
+Dialogue: 0,0:32:49.32,0:32:50.77,Stray Dogs - Default,Dasai,0000,0000,0000,,An angel?
+Dialogue: 0,0:32:51.53,0:32:53.57,Stray Dogs - Default,Dasai,0000,0000,0000,,Or a demon?
+Dialogue: 0,0:32:55.16,0:32:59.87,Stray Dogs - Default,Fjord,0000,0000,0000,,If you ask me, both of your \Nintentions are obvious.
+Dialogue: 0,0:32:59.87,0:33:02.56,Stray Dogs - Default,Fjord,0000,0000,0000,,You'll never write a good \Nplay with such lies.
+Dialogue: 0,0:33:02.56,0:33:04.59,Stray Dogs - Default,Fjord,0000,0000,0000,,You've lost the audience, too.
+Dialogue: 0,0:33:06.22,0:33:08.08,Stray Dogs - Default,Shibs,0000,0000,0000,,Demon Fyodor-kun.
+Dialogue: 0,0:33:08.51,0:33:12.76,Stray Dogs - Default,Shibs,0000,0000,0000,,As my collaborator, I'm going \Nto have you dance as well.
+Dialogue: 0,0:33:13.29,0:33:14.56,Stray Dogs - Default,Dasai,0000,0000,0000,,Collaborator?
+Dialogue: 0,0:33:14.91,0:33:18.35,Stray Dogs - Default,Dasai,0000,0000,0000,,I think he's the most likely to betray you.
+Dialogue: 0,0:33:19.31,0:33:21.80,Stray Dogs - Default,Fjord,0000,0000,0000,,You're correct, indeed.
+Dialogue: 0,0:33:22.09,0:33:26.33,Stray Dogs - Default,Shibs,0000,0000,0000,,No one has surpassed my \Nexpectations thus far.
+Dialogue: 0,0:33:28.06,0:33:29.83,Stray Dogs - Default,Shibs,0000,0000,0000,,I have my hopes up for you.
+Dialogue: 0,0:33:29.83,0:33:35.73,Stray Dogs - Default,Fjord,0000,0000,0000,,Of course, it's the gifted of this \Ntown that I feel most sorry for.
+Dialogue: 0,0:33:36.07,0:33:39.33,Stray Dogs - Default,Fjord,0000,0000,0000,,No matter which of the three of us prevails,
+Dialogue: 0,0:33:39.62,0:33:44.25,Stray Dogs - Default,Fjord,0000,0000,0000,,they will all perish.
+Dialogue: 0,0:33:46.68,0:33:50.55,Stray Dogs - Default,At sushi,0000,0000,0000,,What am I going to do if I \Nnever get my ability back?
+Dialogue: 0,0:33:52.39,0:33:55.94,Stray Dogs - Default,At sushi,0000,0000,0000,,I-Is it safe to drive so fast in this fog?
+Dialogue: 0,0:33:56.34,0:33:59.39,Stray Dogs - Default,Kyocera,0000,0000,0000,,I have all of Yokohama's roads memorized.
+Dialogue: 0,0:34:00.89,0:34:03.93,Stray Dogs - Default,Kyocera,0000,0000,0000,,That has nothing to do with my skills as \Nan assassin or with my special abilities.
+Dialogue: 0,0:34:05.73,0:34:10.19,Stray Dogs - Default,At sushi,0000,0000,0000,,When I first learned that I'd turned \Ninto a tiger and gone on a rampage,
+Dialogue: 0,0:34:10.19,0:34:13.74,Stray Dogs - Default,At sushi,0000,0000,0000,,I wished my ability would disappear.
+Dialogue: 0,0:34:14.10,0:34:17.43,Stray Dogs - Default,At sushi,0000,0000,0000,,I never thought I'd be \Nattacked by that tiger.
+Dialogue: 0,0:34:17.69,0:34:20.28,Stray Dogs - Default,Kyocera,0000,0000,0000,,Demon Snow killed my parents.
+Dialogue: 0,0:34:20.28,0:34:22.20,Stray Dogs - Default,Kyocera,0000,0000,0000,,I've never thought of her as a friend.
+Dialogue: 0,0:34:22.51,0:34:24.59,Stray Dogs - Default,Kyocera,0000,0000,0000,,If she opposes me, I'll defeat her.
+Dialogue: 0,0:34:26.60,0:34:27.17,Stray Dogs - Default,Kyocera,0000,0000,0000,,She's here.
+Dialogue: 0,0:34:48.04,0:34:49.32,Stray Dogs - Default,At sushi,0000,0000,0000,,The safety!
+Dialogue: 0,0:34:49.32,0:34:50.11,Stray Dogs - Default,Kyocera,0000,0000,0000,,Go!
+Dialogue: 0,0:34:50.59,0:34:51.18,Stray Dogs - Default,Kyocera,0000,0000,0000,,Hurry!
+Dialogue: 0,0:35:03.38,0:35:04.19,Stray Dogs - Default,At sushi,0000,0000,0000,,You...
+Dialogue: 0,0:35:05.33,0:35:06.36,Stray Dogs - Default,At sushi,0000,0000,0000,,Akutagawa!
+Dialogue: 0,0:35:08.12,0:35:10.07,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,What a pathetic weapon.
+Dialogue: 0,0:35:10.72,0:35:13.95,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,No pea shooter is going \Nto have an effect on her.
+Dialogue: 0,0:35:42.16,0:35:43.53,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Amusing.
+Dialogue: 0,0:35:43.53,0:35:45.90,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Let's see who comes out on top.
+Dialogue: 0,0:35:45.90,0:35:47.91,Stray Dogs - Default,At sushi,0000,0000,0000,,Now isn't the time for that!
+Dialogue: 0,0:35:49.99,0:35:54.04,Stray Dogs - Default,Kyocera,0000,0000,0000,,There should be a secret passage \Nnearby for the Mafia brass.
+Dialogue: 0,0:35:55.39,0:35:56.72,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Come, weretiger.
+Dialogue: 0,0:35:56.72,0:35:57.50,Stray Dogs - Default,At sushi,0000,0000,0000,,Hey!
+Dialogue: 0,0:35:57.50,0:35:58.40,Stray Dogs - Default,Kyocera,0000,0000,0000,,Go!
+Dialogue: 0,0:35:58.95,0:36:00.30,Stray Dogs - Default,Kyocera,0000,0000,0000,,I'll be there, I promise!
+Dialogue: 0,0:36:02.10,0:36:03.30,Stray Dogs - Default,At sushi,0000,0000,0000,,All right.
+Dialogue: 0,0:36:15.49,0:36:16.52,Stray Dogs - Default,At sushi,0000,0000,0000,,Kyouka-chan!
+Dialogue: 0,0:36:27.32,0:36:30.60,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,This emergency passage was made \Nin case of a gifted attack.
+Dialogue: 0,0:36:31.15,0:36:33.16,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,The fog won't reach us here.
+Dialogue: 0,0:36:33.84,0:36:35.92,Stray Dogs - Default,At sushi,0000,0000,0000,,What is that fog?
+Dialogue: 0,0:36:36.48,0:36:38.69,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,It's the dragon's breath.
+Dialogue: 0,0:36:38.69,0:36:39.59,Stray Dogs - Default,At sushi,0000,0000,0000,,Dragon?
+Dialogue: 0,0:36:40.42,0:36:44.51,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Kyouka, with neither of \Nus having our abilities,
+Dialogue: 0,0:36:44.51,0:36:47.26,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,you could kill me with your assassin skills.
+Dialogue: 0,0:36:49.54,0:36:50.51,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:36:50.91,0:36:53.81,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Didn't you have a score to settle with me?
+Dialogue: 0,0:36:55.35,0:36:58.44,Stray Dogs - Default,At sushi,0000,0000,0000,,Kyouka-chan doesn't think \Nanything of you anymore!
+Dialogue: 0,0:36:59.64,0:37:03.98,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Want to end this while we don't \Nhave our abilities?
+Dialogue: 0,0:37:05.81,0:37:08.69,Stray Dogs - Default,Kyocera,0000,0000,0000,,You know how to get our abilities back?
+Dialogue: 0,0:37:09.13,0:37:10.83,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,I know of a way.
+Dialogue: 0,0:37:10.83,0:37:11.81,Stray Dogs - Default,At sushi,0000,0000,0000,,What?!
+Dialogue: 0,0:37:11.81,0:37:14.37,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Defeat the ability, \Nand it'll return to its owner.
+Dialogue: 0,0:37:14.88,0:37:17.17,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Are you {\i1}that{\i0} uninformed?
+Dialogue: 0,0:37:17.78,0:37:19.50,Stray Dogs - Default,At sushi,0000,0000,0000,,What is your plan?
+Dialogue: 0,0:37:20.24,0:37:22.02,Stray Dogs - Default,Kyocera,0000,0000,0000,,It's probably the same as ours.
+Dialogue: 0,0:37:22.44,0:37:23.64,Stray Dogs - Default,At sushi,0000,0000,0000,,No...
+Dialogue: 0,0:37:24.06,0:37:25.10,Stray Dogs - Default,At sushi,0000,0000,0000,,Shibusawa?
+Dialogue: 0,0:37:25.45,0:37:28.35,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,I'm going to shred his \Norgans and end his life.
+Dialogue: 0,0:37:29.29,0:37:31.85,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Is there any other way to save Yokohama?
+Dialogue: 0,0:37:32.44,0:37:34.41,Stray Dogs - Default,At sushi,0000,0000,0000,,We won't kill.
+Dialogue: 0,0:37:35.10,0:37:37.94,Stray Dogs - Default,At sushi,0000,0000,0000,,That's not what the Detective Agency does.
+Dialogue: 0,0:37:38.31,0:37:39.56,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,That's laughable.
+Dialogue: 0,0:37:40.22,0:37:41.85,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,You're quite something, weretiger.
+Dialogue: 0,0:37:41.85,0:37:42.56,Stray Dogs - Default,At sushi,0000,0000,0000,,What?!
+Dialogue: 0,0:37:43.19,0:37:46.03,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Kyouka understands what this job entails.
+Dialogue: 0,0:37:46.39,0:37:48.49,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,She's former Port Mafia, after all.
+Dialogue: 0,0:37:49.61,0:37:52.05,Stray Dogs - Default,Kyocera,0000,0000,0000,,I left to live in the light of day.
+Dialogue: 0,0:37:53.13,0:37:56.59,Stray Dogs - Default,Kyocera,0000,0000,0000,,I quit the Port Mafia to \Njoin the Detective Agency.
+Dialogue: 0,0:37:58.16,0:38:00.99,Stray Dogs - Default,Kyocera,0000,0000,0000,,The Mafia's killings and the \NAgency's killings are different.
+Dialogue: 0,0:38:01.72,0:38:03.16,Stray Dogs - Default,At sushi,0000,0000,0000,,Kyouka-chan...
+Dialogue: 0,0:38:03.59,0:38:06.55,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,If it had happened before\N Dazai-san joined the enemy,
+Dialogue: 0,0:38:06.55,0:38:09.43,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,we may have stopped the fog \Nbefore we had to kill.
+Dialogue: 0,0:38:09.95,0:38:11.60,Stray Dogs - Default,At sushi,0000,0000,0000,,Dazai-san joined the enemy?!
+Dialogue: 0,0:38:11.60,0:38:12.76,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Indeed.
+Dialogue: 0,0:38:13.57,0:38:16.30,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,He allied himself with the \Nenemy of his own volition.
+Dialogue: 0,0:38:16.57,0:38:19.19,Stray Dogs - Default,At sushi,0000,0000,0000,,Dazai-san would never do such a thing!
+Dialogue: 0,0:38:19.57,0:38:22.42,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,He already betrayed the Port Mafia.
+Dialogue: 0,0:38:23.95,0:38:26.86,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,I'm going to be the one to kill Dazai-san.
+Dialogue: 0,0:38:28.47,0:38:30.88,Stray Dogs - Default,At sushi,0000,0000,0000,,Do you think you can kill Dazai-san?
+Dialogue: 0,0:38:30.88,0:38:34.37,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,If he's going to fall into enemy hands,\N I'd rather kill him myself.
+Dialogue: 0,0:38:36.59,0:38:38.98,Stray Dogs - Default,At sushi,0000,0000,0000,,I won't let you kill Dazai-san.
+Dialogue: 0,0:38:49.39,0:38:51.30,Stray Dogs - Default,At sushi,0000,0000,0000,,I can't go with you.
+Dialogue: 0,0:39:03.47,0:39:04.87,Stray Dogs - Default,Kyocera,0000,0000,0000,,I'm going with him.
+Dialogue: 0,0:39:21.62,0:39:23.84,Stray Dogs - Default,Shibs,0000,0000,0000,,My collection room.
+Dialogue: 0,0:39:26.35,0:39:28.42,Stray Dogs - Default,Shibs,0000,0000,0000,,Welcome to Draconia.
+Dialogue: 0,0:39:36.69,0:39:40.10,Stray Dogs - Default,Dasai,0000,0000,0000,,So these are all crystallized abilities.
+Dialogue: 0,0:39:40.78,0:39:43.34,Stray Dogs - Default,Dasai,0000,0000,0000,,I'm impressed you gathered all this.
+Dialogue: 0,0:39:43.34,0:39:45.18,Stray Dogs - Default,Fjord,0000,0000,0000,,A splendid collection.
+Dialogue: 0,0:39:45.18,0:39:47.31,Stray Dogs - Default,Fjord,0000,0000,0000,,The devil would be jealous.
+Dialogue: 0,0:39:47.95,0:39:53.63,Stray Dogs - Default,Shibs,0000,0000,0000,,That would make you death's rat, \Nhere to sell information to the devil.
+Dialogue: 0,0:39:54.40,0:40:00.61,Stray Dogs - Default,Shibs,0000,0000,0000,,Most of this collection was gathered using \Ninformation I bought from you.
+Dialogue: 0,0:40:01.21,0:40:02.63,Stray Dogs - Default,Shibs,0000,0000,0000,,Thanks to you,
+Dialogue: 0,0:40:02.63,0:40:07.59,Stray Dogs - Default,Shibs,0000,0000,0000,,I was able to create this massive volume of fog,\N large enough to engulf the whole city.
+Dialogue: 0,0:40:09.40,0:40:14.34,Stray Dogs - Default,Shibs,0000,0000,0000,,But how did you gather all that information?
+Dialogue: 0,0:40:14.75,0:40:18.22,Stray Dogs - Default,Fjord,0000,0000,0000,,Every city is filled with rats.
+Dialogue: 0,0:40:18.49,0:40:19.77,Stray Dogs - Default,Dasai,0000,0000,0000,,Meow.
+Dialogue: 0,0:40:21.89,0:40:23.94,Stray Dogs - Default,Shibs,0000,0000,0000,,Here comes another.
+Dialogue: 0,0:40:25.55,0:40:29.11,Stray Dogs - Default,Shibs,0000,0000,0000,,Somewhere in Yokohama, a gifted has died.
+Dialogue: 0,0:40:30.82,0:40:37.69,Stray Dogs - Default,Shibs,0000,0000,0000,,Alas, without the one special ability \Nthat belongs here, none of this matters.
+Dialogue: 0,0:40:38.58,0:40:40.79,Stray Dogs - Default,Shibs,0000,0000,0000,,No matter how many I gather.
+Dialogue: 0,0:40:45.97,0:40:49.81,Stray Dogs - Default,At sushi,0000,0000,0000,,Kyouka-chan, why are you following this guy?
+Dialogue: 0,0:40:50.40,0:40:51.93,Stray Dogs - Default,Kyocera,0000,0000,0000,,He has information.
+Dialogue: 0,0:40:52.51,0:40:55.20,Stray Dogs - Default,Kyocera,0000,0000,0000,,We can use the Mafia's secret passage.
+Dialogue: 0,0:40:55.83,0:40:58.44,Stray Dogs - Default,Kyocera,0000,0000,0000,,More than anything,\N he's taken his ability back.
+Dialogue: 0,0:40:58.44,0:40:59.90,Stray Dogs - Default,Kyocera,0000,0000,0000,,He's a powerful asset.
+Dialogue: 0,0:41:00.31,0:41:03.09,Stray Dogs - Default,Kyocera,0000,0000,0000,,Our goal of eliminating \NShibusawa is the same.
+Dialogue: 0,0:41:03.83,0:41:04.98,Stray Dogs - Default,At sushi,0000,0000,0000,,But...
+Dialogue: 0,0:41:06.77,0:41:12.45,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,It looks like you're still holding \Non to your mother's cell phone.
+Dialogue: 0,0:41:14.15,0:41:15.16,Stray Dogs - Default,At sushi,0000,0000,0000,,Mother?
+Dialogue: 0,0:41:16.93,0:41:18.97,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,You haven't even been told about that?
+Dialogue: 0,0:41:20.09,0:41:21.35,Stray Dogs - Default,At sushi,0000,0000,0000,,I haven't...
+Dialogue: 0,0:41:22.13,0:41:23.58,Stray Dogs - Default,Kyocera,0000,0000,0000,,What's the shortest route?
+Dialogue: 0,0:41:24.65,0:41:26.09,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Zero five zero five.
+Dialogue: 0,0:41:47.68,0:41:51.27,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,No wonder they can sense my presence.
+Dialogue: 0,0:42:06.23,0:42:06.88,Stray Dogs - Default,Kyocera,0000,0000,0000,,I'll help.
+Dialogue: 0,0:42:07.86,0:42:08.74,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,No.
+Dialogue: 0,0:42:09.91,0:42:16.68,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,I've wandered many a night and slain \Nmany an enemy to prove my might.
+Dialogue: 0,0:42:17.93,0:42:21.39,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,But I hadn't thought such an enemy,
+Dialogue: 0,0:42:21.39,0:42:25.52,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,worthy of fighting and being defeated, \Nwould be so near.
+Dialogue: 0,0:42:26.08,0:42:28.02,Stray Dogs - Default,At sushi,0000,0000,0000,,Don't act on your own.
+Dialogue: 0,0:42:28.02,0:42:30.53,Stray Dogs - Default,Kyocera,0000,0000,0000,,We each have something we need to be doing.
+Dialogue: 0,0:42:39.04,0:42:41.30,Stray Dogs - Default,Kyocera,0000,0000,0000,,Do what you need to be doing.
+Dialogue: 0,0:42:45.92,0:42:47.10,Stray Dogs - Default,At sushi,0000,0000,0000,,Kyouka-chan!
+Dialogue: 0,0:42:54.61,0:43:00.62,Stray Dogs - Default,Shibs,0000,0000,0000,,To me, people are nothing but machines of flesh,\N behaving in identifiable ways.
+Dialogue: 0,0:43:01.62,0:43:06.30,Stray Dogs - Default,Shibs,0000,0000,0000,,But there is just one person \NI fail to comprehend.
+Dialogue: 0,0:43:06.98,0:43:08.38,Stray Dogs - Default,Shibs,0000,0000,0000,,Myself.
+Dialogue: 0,0:43:08.83,0:43:11.33,Stray Dogs - Default,Dasai,0000,0000,0000,,Don't you have any friends?
+Dialogue: 0,0:43:11.33,0:43:13.44,Stray Dogs - Default,Shibs,0000,0000,0000,,I don't need friends.
+Dialogue: 0,0:43:13.44,0:43:16.57,Stray Dogs - Default,Shibs,0000,0000,0000,,I understand everyone's minds, after all.
+Dialogue: 0,0:43:17.27,0:43:26.71,Stray Dogs - Default,Shibs,0000,0000,0000,,I will surely go to the world beyond, \Nbetween my lines, past the blank spaces.
+Dialogue: 0,0:43:27.14,0:43:31.08,Stray Dogs - Default,Dasai,0000,0000,0000,,You wouldn't be saying that \Nif you actually had friends.
+Dialogue: 0,0:43:32.82,0:43:35.46,Stray Dogs - Default,Shibs,0000,0000,0000,,That time will soon come.
+Dialogue: 0,0:43:36.34,0:43:41.86,Stray Dogs - Default,Shibs,0000,0000,0000,,For all of this here, Yokohama's special \Nabilities are to become mine. {this line doesn't make any sense - does he mean, in exchange for everything in this room, all of yokohama's abilities will become his?}
+Dialogue: 0,0:43:46.04,0:43:52.36,Stray Dogs - Default,Shibs,0000,0000,0000,,Do you think there's even one person who \Ncan surpass their own special abilities?
+Dialogue: 0,0:44:02.80,0:44:07.32,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,The Rashoumon attack is one where cloth is \Nturned to a blade and sent flying at the enemy.
+Dialogue: 0,0:44:08.05,0:44:12.62,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Thus, so long as one is outside \Nof its reach, they are safe.
+Dialogue: 0,0:44:27.95,0:44:28.81,Stray Dogs - Italics,Actor's Guild,0000,0000,0000,,Shit.
+Dialogue: 0,0:44:39.97,0:44:42.17,Stray Dogs - Default,At sushi,0000,0000,0000,,How do I defeat it?
+Dialogue: 0,0:44:44.99,0:44:46.62,Stray Dogs - Default,At sushi,0000,0000,0000,,Do I just need to destroy that thing?
+Dialogue: 0,0:44:54.31,0:44:55.18,Stray Dogs - Default,At sushi,0000,0000,0000,,Dammit!
+Dialogue: 0,0:44:57.92,0:45:01.75,Stray Dogs - Default,At sushi,0000,0000,0000,,No one can win against their \Nown special ability, after all.
+Dialogue: 0,0:45:40.53,0:45:43.13,Stray Dogs - Italics,Kyocera,0000,0000,0000,,Demon Snow killed my mother.
+Dialogue: 0,0:45:43.68,0:45:49.77,Stray Dogs - Italics,Kyocera,0000,0000,0000,,But if I defeat her, I'll merge \Nwith her and become a demon again.
+Dialogue: 0,0:46:45.76,0:46:47.44,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Just as I hoped.
+Dialogue: 0,0:46:48.82,0:46:49.45,Stray Dogs - Default,,0000,0000,0000,,{nani}What?
+Dialogue: 0,0:46:59.94,0:47:03.31,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,I'd expect as much from \Nmy own ability.
+Dialogue: 0,0:47:04.35,0:47:05.47,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,But...
+Dialogue: 0,0:47:41.57,0:47:42.81,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Good.
+Dialogue: 0,0:47:43.23,0:47:44.51,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,That's where you belong.
+Dialogue: 0,0:47:56.80,0:47:59.28,Stray Dogs - Italics,Kyocera,0000,0000,0000,,Demon Snow is an \Nembodiment of slaughter.
+Dialogue: 0,0:48:00.13,0:48:01.23,Stray Dogs - Italics,Kyocera,0000,0000,0000,,And yet...
+Dialogue: 0,0:48:02.02,0:48:03.10,Stray Dogs - Italics,Kyocera,0000,0000,0000,,And yet...
+Dialogue: 0,0:48:04.40,0:48:05.92,Stray Dogs - Italics,Kyocera,0000,0000,0000,,And yet, I...
+Dialogue: 0,0:48:24.91,0:48:26.04,Stray Dogs - Italics,Mom,0000,0000,0000,,And yet...
+Dialogue: 0,0:48:27.79,0:48:32.88,Stray Dogs - Default,Mom,0000,0000,0000,,And yet you want to use that power \Nfor the sake of others, don't you?
+Dialogue: 0,0:48:49.81,0:48:50.78,Stray Dogs - Default,Mom,0000,0000,0000,,Kyouka.
+Dialogue: 0,0:48:55.68,0:48:57.12,Stray Dogs - Default,At sushi,0000,0000,0000,,Kyouka-chan!
+Dialogue: 0,0:48:58.05,0:49:00.19,Stray Dogs - Default,At sushi,0000,0000,0000,,Shatter the crystal on her forehead!
+Dialogue: 0,0:49:38.65,0:49:39.76,Stray Dogs - Default,Person A,0000,0000,0000,,Here it comes.
+Dialogue: 0,0:49:40.28,0:49:41.39,Stray Dogs - Default,Person B,0000,0000,0000,,What is?
+Dialogue: 0,0:49:41.83,0:49:43.95,Stray Dogs - Default,Person A,0000,0000,0000,,A5158.
+Dialogue: 0,0:49:48.55,0:49:53.79,Stray Dogs - Default,Chuuka,0000,0000,0000,,You've got some nerve, calling me out \Nlike some take-out delivery boy.
+Dialogue: 0,0:49:54.92,0:49:57.93,Stray Dogs - Default,Uggo,0000,0000,0000,,May we have some time alone?
+Dialogue: 0,0:49:59.40,0:50:01.44,Stray Dogs - Default,Uggo,0000,0000,0000,,This is a government facility.
+Dialogue: 0,0:50:01.44,0:50:04.41,Stray Dogs - Default,Uggo,0000,0000,0000,,You don't expect to get \Naway with this, do you?
+Dialogue: 0,0:50:04.94,0:50:07.73,Stray Dogs - Default,Chuuka,0000,0000,0000,,I'll be the one to decide if I do or not.
+Dialogue: 0,0:50:08.23,0:50:09.61,Stray Dogs - Default,Chuuka,0000,0000,0000,,Not you.
+Dialogue: 0,0:50:09.61,0:50:12.49,Stray Dogs - Default,Uggo,0000,0000,0000,,You have a debt to me.
+Dialogue: 0,0:50:12.49,0:50:14.51,Stray Dogs - Default,Chuuka,0000,0000,0000,,No, you have a debt with {\i1}me{\i0}.
+Dialogue: 0,0:50:14.51,0:50:15.66,Stray Dogs - Default,Uggo,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:50:16.02,0:50:20.16,Stray Dogs - Default,Chuuka,0000,0000,0000,,Don't act dumb. Do you think I don't know?
+Dialogue: 0,0:50:20.93,0:50:23.00,Stray Dogs - Default,Chuuka,0000,0000,0000,,It's what happened six years ago.
+Dialogue: 0,0:50:27.42,0:50:28.51,Stray Dogs - Default,Kyocera,0000,0000,0000,,How's your wound?
+Dialogue: 0,0:50:28.95,0:50:30.05,Stray Dogs - Default,At sushi,0000,0000,0000,,I'm fine.
+Dialogue: 0,0:50:30.71,0:50:34.61,Stray Dogs - Default,At sushi,0000,0000,0000,,Once I have my strength back, \Nit'll recover on its own with my tiger healing ability.
+Dialogue: 0,0:50:45.47,0:50:47.12,Stray Dogs - Default,Kyocera,0000,0000,0000,,Mukurotoride.
+Dialogue: 0,0:50:47.12,0:50:49.15,Stray Dogs - Default,At sushi,0000,0000,0000,,That's where Dazai-san is. {E: dazai, right?}
+Dialogue: 0,0:50:50.22,0:50:52.17,Stray Dogs - Default,At sushi,0000,0000,0000,,We have to help Dazai-san.
+Dialogue: 0,0:50:52.17,0:50:54.07,Stray Dogs - Default,At sushi,0000,0000,0000,,He'll know what to do.
+Dialogue: 0,0:51:19.76,0:51:21.75,Stray Dogs - Default,At sushi,0000,0000,0000,,You got your ability back, huh?
+Dialogue: 0,0:51:23.77,0:51:26.81,Stray Dogs - Default,At sushi,0000,0000,0000,,My tiger's healing ability hasn't come back.
+Dialogue: 0,0:51:27.50,0:51:29.82,Stray Dogs - Default,At sushi,0000,0000,0000,,I defeated the tiger... Why...?
+Dialogue: 0,0:51:41.34,0:51:43.62,Stray Dogs - Default,At sushi,0000,0000,0000,,You got your ability back, too, huh?
+Dialogue: 0,0:51:44.63,0:51:46.70,Stray Dogs - Default,At sushi,0000,0000,0000,,Why am I the only one who hasn't?
+Dialogue: 0,0:51:47.15,0:51:49.34,Stray Dogs - Default,Akutagawa,0000,0000,0000,,Fool! Do you still not understand?
+Dialogue: 0,0:51:54.44,0:51:55.51,Stray Dogs - Default,At sushi,0000,0000,0000,,What...
+Dialogue: 0,0:51:58.51,0:52:00.01,Stray Dogs - Default,At sushi,0000,0000,0000,,What the hell?!
+Dialogue: 0,0:52:01.48,0:52:02.72,Stray Dogs - Default,At sushi,0000,0000,0000,,Akutagawa!
+Dialogue: 0,0:52:02.72,0:52:03.81,Stray Dogs - Default,At sushi,0000,0000,0000,,Explain!
+Dialogue: 0,0:52:04.32,0:52:05.32,Stray Dogs - Default,At sushi,0000,0000,0000,,Hey!
+Dialogue: 0,0:52:06.54,0:52:08.35,Stray Dogs - Default,Kyocera,0000,0000,0000,,You're too hurt.
+Dialogue: 0,0:52:09.17,0:52:10.71,Stray Dogs - Default,Kyocera,0000,0000,0000,,Rest here.
+Dialogue: 0,0:52:11.54,0:52:12.34,Stray Dogs - Default,At sushi,0000,0000,0000,,Kyouka-chan?
+Dialogue: 0,0:52:16.96,0:52:18.86,Stray Dogs - Default,Kyocera,0000,0000,0000,,I'm sorry I never told you.
+Dialogue: 0,0:52:19.71,0:52:21.40,Stray Dogs - Default,Kyocera,0000,0000,0000,,I didn't want you to know.
+Dialogue: 0,0:52:21.98,0:52:22.61,Stray Dogs - Default,At sushi,0000,0000,0000,,About what?
+Dialogue: 0,0:52:24.49,0:52:26.88,Stray Dogs - Default,Kyocera,0000,0000,0000,,That I control Demon Snow with my phone.
+Dialogue: 0,0:52:28.68,0:52:30.87,Stray Dogs - Default,Kyocera,0000,0000,0000,,That I actually didn't want to hate her.
+Dialogue: 0,0:52:34.53,0:52:36.70,Stray Dogs - Default,Kyocera,0000,0000,0000,,I'll complete the mission.
+Dialogue: 0,0:52:39.50,0:52:40.60,Stray Dogs - Default,At sushi,0000,0000,0000,,Wait!
+Dialogue: 0,0:52:42.98,0:52:44.28,Stray Dogs - Default,At sushi,0000,0000,0000,,Kyouka-chan.
+Dialogue: 0,0:52:48.55,0:52:52.92,Stray Dogs - Default,At sushi,0000,0000,0000,,Kyouka-chan!
+Dialogue: 0,0:52:54.91,0:52:57.44,Stray Dogs - Default,Chuuka,0000,0000,0000,,That's why you're no good.
+Dialogue: 0,0:52:59.19,0:53:00.52,Stray Dogs - Default,Uggo,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:53:01.38,0:53:07.11,Stray Dogs - Default,Chuuka,0000,0000,0000,,It was you bureaucrats who sent Shibusawa \Ninto the Dragon Head Conflict.
+Dialogue: 0,0:53:07.58,0:53:12.05,Stray Dogs - Default,Chuuka,0000,0000,0000,,It was supposed to end the conflict \Nthat had engulfed all of Yokohama.
+Dialogue: 0,0:53:12.05,0:53:15.11,Stray Dogs - Default,Chuuka,0000,0000,0000,,But he never had any intention \Nof maintaining peace.
+Dialogue: 0,0:53:15.37,0:53:17.63,Stray Dogs - Default,Chuuka,0000,0000,0000,,All you did was create more corpses.
+Dialogue: 0,0:53:18.27,0:53:22.62,Stray Dogs - Default,Chuuka,0000,0000,0000,,You protected him anyway, \Nbecause he's a gifted
+Dialogue: 0,0:53:22.62,0:53:27.71,Stray Dogs - Default,Chuuka,0000,0000,0000,,with the potential to stand up against \Na nation-wide gifted takeover.
+Dialogue: 0,0:53:28.15,0:53:32.16,Stray Dogs - Default,Chuuka,0000,0000,0000,,That's why, not only did you turn a blind eye
+Dialogue: 0,0:53:32.16,0:53:35.71,Stray Dogs - Default,Chuuka,0000,0000,0000,,to all the corpses he'd produced \Noverseas, you covered it all up.
+Dialogue: 0,0:53:36.38,0:53:38.93,Stray Dogs - Default,Uggo,0000,0000,0000,,All for the peace in this nation.
+Dialogue: 0,0:53:40.52,0:53:43.47,Stray Dogs - Default,Chuuka,0000,0000,0000,,Watch your mouth, doc glasses.
+Dialogue: 0,0:53:44.57,0:53:46.98,Stray Dogs - Default,Chuuka,0000,0000,0000,,If you hadn't sent him out,
+Dialogue: 0,0:53:47.38,0:53:50.35,Stray Dogs - Default,Chuuka,0000,0000,0000,,all six of my friends \Nwould be alive right now.
+Dialogue: 0,0:53:50.77,0:53:52.38,Stray Dogs - Default,Uggo,0000,0000,0000,,Will you kill me?
+Dialogue: 0,0:53:53.23,0:53:54.50,Stray Dogs - Default,Uggo,0000,0000,0000,,I wouldn't mind.
+Dialogue: 0,0:53:55.15,0:53:58.75,Stray Dogs - Default,Uggo,0000,0000,0000,,I've been prepared ever since I'd \Ndecided to ask for your assistance.
+Dialogue: 0,0:53:58.75,0:53:59.74,Stray Dogs - Default,Chuuka,0000,0000,0000,,It's a deal, then.
+Dialogue: 0,0:54:03.93,0:54:05.45,Stray Dogs - Default,Chuuka,0000,0000,0000,,I'll accept your job.
+Dialogue: 0,0:54:10.03,0:54:13.13,Stray Dogs - Default,Chuuka,0000,0000,0000,,And you'll pay with your life.
+Dialogue: 0,0:54:24.44,0:54:26.06,Stray Dogs - Default,Fjord,0000,0000,0000,,All according to plan.
+Dialogue: 0,0:54:26.37,0:54:28.61,Stray Dogs - Default,Dasai,0000,0000,0000,,Yeah, all according to plan.
+Dialogue: 0,0:54:28.61,0:54:30.56,Stray Dogs - Default,Dasai,0000,0000,0000,,That was a pain in the ass,
+Dialogue: 0,0:54:31.47,0:54:34.48,Stray Dogs - Default,Dasai,0000,0000,0000,,getting in without making \Nhim suspicious of us.
+Dialogue: 0,0:54:35.57,0:54:40.17,Stray Dogs - Default,Dasai,0000,0000,0000,,Say, what's the real reason \Nyou teamed up with me?
+Dialogue: 0,0:54:40.17,0:54:43.89,Stray Dogs - Default,Fjord,0000,0000,0000,,Simply to see the world as it ought to be.
+Dialogue: 0,0:54:44.48,0:54:48.11,Stray Dogs - Default,Fjord,0000,0000,0000,,But wouldn't you agree that the more \Nentertainment there is, the better?
+Dialogue: 0,0:54:48.49,0:54:52.35,Stray Dogs - Default,Dasai,0000,0000,0000,,So the question is, who is the clown, huh?
+Dialogue: 0,0:54:53.13,0:54:55.31,Stray Dogs - Default,Dasai,0000,0000,0000,,I had no intention of making an ally of you,
+Dialogue: 0,0:54:55.59,0:54:58.62,Stray Dogs - Default,Dasai,0000,0000,0000,,but it was necessary to \Nmake Shibusawa the clown.
+Dialogue: 0,0:54:59.07,0:55:03.11,Stray Dogs - Default,Dasai,0000,0000,0000,,He even has the Japanese government \Nby the balls, after all.
+Dialogue: 0,0:55:03.54,0:55:11.50,Stray Dogs - Default,Fjord,0000,0000,0000,,He was intent on creating the fog here in \NYokohama with or without your guidance, after all.
+Dialogue: 0,0:55:12.17,0:55:13.13,Stray Dogs - Default,Fjord,0000,0000,0000,,Here you are.
+Dialogue: 0,0:55:13.74,0:55:18.84,Stray Dogs - Default,Fjord,0000,0000,0000,,One is a crystal that summons all \Nthe gifted as far as the eye can see here.
+Dialogue: 0,0:55:19.39,0:55:26.26,Stray Dogs - Default,Fjord,0000,0000,0000,,The other turns the abilities of \Nthe gifted who touch it into crystals. {this and the preceding line are a little vague - are they correct?}
+Dialogue: 0,0:55:26.66,0:55:29.93,Stray Dogs - Default,Fjord,0000,0000,0000,,With these two crystals, we can \Nconsume the entire collection,
+Dialogue: 0,0:55:29.93,0:55:33.88,Stray Dogs - Default,Fjord,0000,0000,0000,,starving the fog of an energy source \Nand rendering it unsustainable.
+Dialogue: 0,0:55:34.36,0:55:40.26,Stray Dogs - Default,Fjord,0000,0000,0000,,Now, first, use your nullification ability \Nto disable the shell that is the crystal,
+Dialogue: 0,0:55:40.26,0:55:43.11,Stray Dogs - Default,Fjord,0000,0000,0000,,and return the abilities \Nto their former state.
+Dialogue: 0,0:55:43.76,0:55:46.16,Stray Dogs - Default,Dasai,0000,0000,0000,,I hope Atsushi-kun and the others are safe.
+Dialogue: 0,0:56:05.01,0:56:07.02,Stray Dogs - Default,Dasai,0000,0000,0000,,Touch that, and it'll erase everything.
+Dialogue: 0,0:56:07.02,0:56:08.71,Stray Dogs - Default,Dasai,0000,0000,0000,,It'll all be over.
+Dialogue: 0,0:56:12.81,0:56:14.29,Stray Dogs - Default,Shibs,0000,0000,0000,,Didn't I tell you?
+Dialogue: 0,0:56:15.25,0:56:19.20,Stray Dogs - Default,Shibs,0000,0000,0000,,None will surpass my expectations.
+Dialogue: 0,0:56:21.74,0:56:23.94,Stray Dogs - Default,Dasai,0000,0000,0000,,I was certain I'd locked the door...
+Dialogue: 0,0:56:27.40,0:56:28.60,Stray Dogs - Default,Dasai,0000,0000,0000,,I see.
+Dialogue: 0,0:56:28.91,0:56:30.86,Stray Dogs - Default,Dasai,0000,0000,0000,,So this is where the betrayal happens.
+Dialogue: 0,0:56:31.13,0:56:32.59,Stray Dogs - Default,Fjord,0000,0000,0000,,Didn't I tell you?
+Dialogue: 0,0:56:33.09,0:56:35.42,Stray Dogs - Default,Fjord,0000,0000,0000,,The more entertainment, the better.
+Dialogue: 0,0:56:35.42,0:56:37.32,Stray Dogs - Default,Dasai,0000,0000,0000,,And?
+Dialogue: 0,0:56:39.57,0:56:41.46,Stray Dogs - Default,Dasai,0000,0000,0000,,What will you do next?
+Dialogue: 0,0:56:42.04,0:56:43.68,Stray Dogs - Default,Fjord,0000,0000,0000,,There is no {\i1}next{\i0}.
+Dialogue: 0,0:56:44.01,0:56:48.07,Stray Dogs - Default,Fjord,0000,0000,0000,,You alone have always been my target.
+Dialogue: 0,0:56:48.57,0:56:52.47,Stray Dogs - Default,Dasai,0000,0000,0000,,I thought this fruit knife wouldn't \Ndo more than make me hurt.
+Dialogue: 0,0:56:53.51,0:56:54.69,Stray Dogs - Default,Dasai,0000,0000,0000,,But poison...
+Dialogue: 0,0:56:55.05,0:56:57.17,Stray Dogs - Default,Shibs,0000,0000,0000,,It's a lethal anesthetic.
+Dialogue: 0,0:56:57.83,0:57:01.85,Stray Dogs - Default,Shibs,0000,0000,0000,,Taste death. You've longed for it so dearly.
+Dialogue: 0,0:57:04.04,0:57:06.29,Stray Dogs - Default,Dasai,0000,0000,0000,,How could you?
+Dialogue: 0,0:57:07.70,0:57:11.38,Stray Dogs - Default,Dasai,0000,0000,0000,,This feels great.
+Dialogue: 0,0:57:17.28,0:57:21.66,Stray Dogs - Default,Fjord,0000,0000,0000,,With the owner dead, \Nthe special ability leaves him.
+Dialogue: 0,0:57:22.97,0:57:27.54,Stray Dogs - Default,Shibs,0000,0000,0000,,This is the first time in my life \Nthat my heart has raced so.
+Dialogue: 0,0:57:33.13,0:57:34.26,Stray Dogs - Default,Shibs,0000,0000,0000,,This isn't it!
+Dialogue: 0,0:57:43.45,0:57:44.72,Stray Dogs - Default,Shibs,0000,0000,0000,,What?
+Dialogue: 0,0:57:53.00,0:57:55.23,Stray Dogs - Default,Person A,0000,0000,0000,,Don't open that door.
+Dialogue: 0,0:57:56.90,0:58:01.80,Stray Dogs - Default,Person A,0000,0000,0000,,Though you have neither the \Ncourage nor the dignity.
+Dialogue: 0,0:58:02.56,0:58:05.06,Stray Dogs - Default,Person A,0000,0000,0000,,You've finally lost your tiger's ability.
+Dialogue: 0,0:58:05.06,0:58:07.15,Stray Dogs - Default,Person A,0000,0000,0000,,Part with it and move on.
+Dialogue: 0,0:58:08.11,0:58:12.29,Stray Dogs - Default,Person A,0000,0000,0000,,Don't worry, no one expects anything of you.
+Dialogue: 0,0:58:12.29,0:58:15.06,Stray Dogs - Default,At sushi,0000,0000,0000,,I won't listen to you.
+Dialogue: 0,0:58:34.47,0:58:37.69,Stray Dogs - Default,Person A,0000,0000,0000,,Once you know, you can't \Ngo back to not knowing.
+Dialogue: 0,0:58:39.02,0:58:44.02,Stray Dogs - Default,Person A,0000,0000,0000,,If you've made it to the door,\N it isn't locked.
+Dialogue: 0,0:58:45.21,0:58:51.08,Stray Dogs - Default,Person A,0000,0000,0000,,Go of your own will, and die.
+Dialogue: 0,0:58:55.27,0:58:58.55,Stray Dogs - Default,Fjord,0000,0000,0000,,The merging ability and \Nthe disabling ability.
+Dialogue: 0,0:58:58.55,0:59:04.35,Stray Dogs - Default,Fjord,0000,0000,0000,,With the two contrary abilities \Nbecoming one, a singularity is born.
+Dialogue: 0,0:59:06.42,0:59:11.69,Stray Dogs - Default,Fjord,0000,0000,0000,,Even with Dazai's special ability, \Nwhat you really desire—
+Dialogue: 0,0:59:12.77,0:59:15.28,Stray Dogs - Default,Fjord,0000,0000,0000,,your lost memories — will never come back.
+Dialogue: 0,0:59:16.60,0:59:18.10,Stray Dogs - Default,Shibs,0000,0000,0000,,How do you know about that?!
+Dialogue: 0,0:59:18.10,0:59:25.57,Stray Dogs - Default,Fjord,0000,0000,0000,,Not to worry, I'll fill in the lines \Nthat were blanked out for you.
+Dialogue: 0,0:59:29.21,0:59:31.07,Stray Dogs - Default,Fjord,0000,0000,0000,,That is death.
+Dialogue: 0,0:59:31.50,0:59:33.54,Stray Dogs - Default,Fjord,0000,0000,0000,,Do you remember anything?
+Dialogue: 0,0:59:37.43,0:59:38.88,Stray Dogs - Italics,Shibs,0000,0000,0000,,I see...
+Dialogue: 0,0:59:43.30,0:59:45.08,Stray Dogs - Italics,Shibs,0000,0000,0000,,This sensation...
+Dialogue: 0,0:59:46.29,0:59:48.28,Stray Dogs - Italics,Shibs,0000,0000,0000,,I remember it.
+Dialogue: 0,0:59:53.08,0:59:57.16,Stray Dogs - Default,Shibs,0000,0000,0000,,That president doesn't understand \Nyour special ability.
+Dialogue: 0,0:59:57.47,1:00:01.25,Stray Dogs - Default,Shibs,0000,0000,0000,,Your ability is rare, \Neven throughout the world.
+Dialogue: 0,1:00:01.83,1:00:06.11,Stray Dogs - Default,Shibs,0000,0000,0000,,It's the only special ability that \Nwon the envy of all other gifted.
+Dialogue: 0,1:00:07.53,1:00:13.29,Stray Dogs - Default,Shibs,0000,0000,0000,,But perhaps, because of your youth, \Nyour special ability is locked deep within you.
+Dialogue: 0,1:00:13.29,1:00:16.32,Stray Dogs - Default,Shibs,0000,0000,0000,,I can't pull it out, even with my fog.
+Dialogue: 0,1:00:17.26,1:00:18.63,Stray Dogs - Default,Shibs,0000,0000,0000,,So...
+Dialogue: 0,1:00:24.48,1:00:28.52,Stray Dogs - Default,Shibs,0000,0000,0000,,Now, surprise me.
+Dialogue: 0,1:00:59.69,1:01:00.92,Stray Dogs - Default,At sushi,0000,0000,0000,,Is this...
+Dialogue: 0,1:01:31.07,1:01:32.19,Stray Dogs - Default,At sushi,0000,0000,0000,,Right.
+Dialogue: 0,1:01:32.66,1:01:34.08,Stray Dogs - Default,At sushi,0000,0000,0000,,I remember, now.
+Dialogue: 0,1:01:35.82,1:01:38.12,Stray Dogs - Default,At sushi,0000,0000,0000,,That moment, I used my claws.
+Dialogue: 0,1:01:38.35,1:01:40.50,Stray Dogs - Default,At sushi,0000,0000,0000,,That moment, I used my claws.
+Dialogue: 0,1:01:40.85,1:01:43.21,Stray Dogs - Default,At sushi,0000,0000,0000,,That moment, I used my claws.
+Dialogue: 0,1:01:43.51,1:01:45.71,Stray Dogs - Default,At sushi,0000,0000,0000,,That moment, I used my claws.
+Dialogue: 0,1:01:46.24,1:01:48.52,Stray Dogs - Default,At sushi,0000,0000,0000,,That moment, I used my claws.
+Dialogue: 0,1:01:48.90,1:01:51.19,Stray Dogs - Default,At sushi,0000,0000,0000,,That moment, I used my claws.
+Dialogue: 0,1:01:51.53,1:01:53.77,Stray Dogs - Default,At sushi,0000,0000,0000,,That moment, I used my claws.
+Dialogue: 0,1:01:53.77,1:01:57.02,Stray Dogs - Default,Shibs,0000,0000,0000,,That moment, I hit the switch.
+Dialogue: 0,1:01:58.10,1:02:03.72,Stray Dogs - Default,Shibs,0000,0000,0000,,Because I heard your special ability was \None that guided the envy of all other gifted.
+Dialogue: 0,1:02:05.25,1:02:07.47,Stray Dogs - Default,Shibs,0000,0000,0000,,A Russian named Fyodor.
+Dialogue: 0,1:02:08.15,1:02:09.61,Stray Dogs - Default,Fjord,0000,0000,0000,,That's right.
+Dialogue: 0,1:02:10.03,1:02:12.50,Stray Dogs - Default,Fjord,0000,0000,0000,,That moment, you died.
+Dialogue: 0,1:02:13.10,1:02:16.58,Stray Dogs - Default,Fjord,0000,0000,0000,,And it was you, yourself, \Nwho'd inherited your ability,
+Dialogue: 0,1:02:16.58,1:02:20.93,Stray Dogs - Default,Fjord,0000,0000,0000,,when you parted with your body.
+Dialogue: 0,1:02:21.59,1:02:29.70,Stray Dogs - Default,Fjord,0000,0000,0000,,You'd forgotten about your own death and \Nmade a room to collect and manage yourself in.
+Dialogue: 0,1:02:31.12,1:02:33.22,Stray Dogs - Default,Fjord,0000,0000,0000,,That's who you are now.
+Dialogue: 0,1:02:38.14,1:02:40.52,Stray Dogs - Default,Fjord,0000,0000,0000,,That moment, I used my claws.
+Dialogue: 0,1:02:41.19,1:02:42.48,Stray Dogs - Default,Shibs,0000,0000,0000,,That's right.
+Dialogue: 0,1:02:42.48,1:02:45.35,Stray Dogs - Default,Shibs,0000,0000,0000,,That moment, you killed me.
+Dialogue: 0,1:02:45.98,1:02:47.52,Stray Dogs - Default,Shibs,0000,0000,0000,,With those claws of yours.
+Dialogue: 0,1:02:47.52,1:02:49.51,Stray Dogs - Default,At sushi,0000,0000,0000,,What do you expect?!
+Dialogue: 0,1:02:49.51,1:02:51.47,Stray Dogs - Default,At sushi,0000,0000,0000,,I wanted to live!
+Dialogue: 0,1:02:51.47,1:02:55.74,Stray Dogs - Default,At sushi,0000,0000,0000,,A boy always uses the claws \Nof a tiger in order to live!
+Dialogue: 0,1:03:02.24,1:03:04.31,Stray Dogs - Default,Fjord,0000,0000,0000,,It's the beginning of the end.
+Dialogue: 0,1:03:08.82,1:03:11.42,Stray Dogs - Default,Fjord,0000,0000,0000,,You're quite greedy, aren't you, Dazai-kun?
+Dialogue: 0,1:03:11.73,1:03:16.30,Stray Dogs - Default,Fjord,0000,0000,0000,,Even in death, you intend to see \Nthis town to its demise, do you?
+Dialogue: 0,1:03:22.80,1:03:28.21,Stray Dogs - Default,Fjord,0000,0000,0000,,I'll tell you an interesting fact, \Nin celebration of you finding a friend in me.
+Dialogue: 0,1:03:28.64,1:03:35.66,Stray Dogs - Default,Fjord,0000,0000,0000,,Have you never thought about why my special \Nability doesn't leave me in this fog?
+Dialogue: 0,1:03:45.59,1:03:47.02,Stray Dogs - Default,Fjord,0000,0000,0000,,I am crime.
+Dialogue: 0,1:03:47.38,1:03:48.80,Stray Dogs - Default,Fjord,0000,0000,0000,,I am punishment.
+Dialogue: 0,1:03:48.80,1:03:50.51,Stray Dogs - Default,Fjord,0000,0000,0000,,Did you know?
+Dialogue: 0,1:03:50.51,1:03:53.21,Stray Dogs - Default,Fjord,0000,0000,0000,,Crime and punishment are close friends.
+Dialogue: 0,1:03:53.93,1:03:56.11,Stray Dogs - Default,Fjord,0000,0000,0000,,Borders vanish.
+Dialogue: 0,1:03:56.36,1:03:58.11,Stray Dogs - Default,Fjord,0000,0000,0000,,Rooms awaken.
+Dialogue: 0,1:04:00.03,1:04:04.60,Stray Dogs - Default,Fjord,0000,0000,0000,,The incarnation of death, the master \Nof the ability-consuming fog...
+Dialogue: 0,1:04:04.95,1:04:09.92,Stray Dogs - Default,Fjord,0000,0000,0000,,Eat, howl, and make violence \Nas your instinct desires. {tl- make violence isn't an actual phrase... not sure what to say here}
+Dialogue: 0,1:04:10.87,1:04:13.90,Stray Dogs - Default,Fjord,0000,0000,0000,,This is neither a loss of \Ncontrol nor a singularity.
+Dialogue: 0,1:04:16.98,1:04:22.47,Stray Dogs - Default,Fjord,0000,0000,0000,,The dragon is the true form of \Nthe chaos of special abilities.
+Dialogue: 0,1:04:31.76,1:04:33.48,Stray Dogs - Default,Person A,0000,0000,0000,,Singularity anomaly readings are increasing.
+Dialogue: 0,1:04:33.83,1:04:35.25,Stray Dogs - Default,Person A,0000,0000,0000,,Five times higher than six years ago.
+Dialogue: 0,1:04:35.25,1:04:36.47,Stray Dogs - Default,Person A,0000,0000,0000,,Five point five.
+Dialogue: 0,1:04:36.47,1:04:37.38,Stray Dogs - Default,Person A,0000,0000,0000,,Readings increasing.
+Dialogue: 0,1:04:37.38,1:04:38.34,Stray Dogs - Default,Person A,0000,0000,0000,,They won't stop.
+Dialogue: 0,1:04:38.69,1:04:41.06,Stray Dogs - Default,Person A,0000,0000,0000,,What is A5158's current location?
+Dialogue: 0,1:04:41.93,1:04:44.06,Stray Dogs - Default,Chuuka,0000,0000,0000,,Get your shit together, scrub.
+Dialogue: 0,1:04:51.83,1:04:52.85,Stray Dogs - Italics,Uggo,0000,0000,0000,,Chuuya-kun...
+Dialogue: 0,1:04:53.48,1:04:56.67,Stray Dogs - Italics,Uggo,0000,0000,0000,,Dazai-kun is almost certainly \Neliminated by now.
+Dialogue: 0,1:04:57.07,1:04:58.59,Stray Dogs - Italics,Uggo,0000,0000,0000,,Do you understand what that means?
+Dialogue: 0,1:04:58.99,1:05:00.61,Stray Dogs - Default,Chuuka,0000,0000,0000,,I don't care.
+Dialogue: 0,1:05:01.05,1:05:02.25,Stray Dogs - Italics,Uggo,0000,0000,0000,,Are you sure?
+Dialogue: 0,1:05:02.70,1:05:06.56,Stray Dogs - Default,Uggo,0000,0000,0000,,You haven't taken your reward... My life.
+Dialogue: 0,1:05:07.04,1:05:09.07,Stray Dogs - Italics,Chuuka,0000,0000,0000,,Don't get cocky, asshole.
+Dialogue: 0,1:05:10.25,1:05:13.89,Stray Dogs - Italics,Chuuka,0000,0000,0000,,You were a lowly infiltrator six years ago.
+Dialogue: 0,1:05:14.29,1:05:18.47,Stray Dogs - Italics,Chuuka,0000,0000,0000,,No one lent you an ear when you opposed \Nemploying Shibusawa, did they?
+Dialogue: 0,1:05:19.04,1:05:21.23,Stray Dogs - Italics,Chuuka,0000,0000,0000,,This is nothing but his bumbling.
+Dialogue: 0,1:05:22.12,1:05:24.43,Stray Dogs - Italics,Chuuka,0000,0000,0000,,That dimwit Dazai is inside there.
+Dialogue: 0,1:05:25.00,1:05:26.19,Stray Dogs - Italics,Chuuka,0000,0000,0000,,No doubt about it.
+Dialogue: 0,1:05:27.31,1:05:30.06,Stray Dogs - Italics,Chuuka,0000,0000,0000,,I need to give him a smack, \Nor I'll never get over it.
+Dialogue: 0,1:05:30.50,1:05:31.49,Stray Dogs - Italics,Chuuka,0000,0000,0000,,I'm hanging up.
+Dialogue: 0,1:05:35.63,1:05:36.81,Stray Dogs - Default,Uggo,0000,0000,0000,,I'm counting on you.
+Dialogue: 0,1:05:40.49,1:05:42.88,Stray Dogs - Default,Tsooji,0000,0000,0000,,We're approaching the target.
+Dialogue: 0,1:05:44.55,1:05:46.84,Stray Dogs - Default,Chuuka,0000,0000,0000,,You're that chick from way back.
+Dialogue: 0,1:05:46.84,1:05:48.31,Stray Dogs - Default,Tsooji,0000,0000,0000,,Tsujimura.
+Dialogue: 0,1:05:49.07,1:05:50.56,Stray Dogs - Default,Tsooji,0000,0000,0000,,Are you really going?
+Dialogue: 0,1:05:51.16,1:05:51.92,Stray Dogs - Default,Chuuka,0000,0000,0000,,Yeah.
+Dialogue: 0,1:05:52.32,1:05:53.10,Stray Dogs - Default,Tsooji,0000,0000,0000,,It's no use.
+Dialogue: 0,1:05:53.60,1:05:55.61,Stray Dogs - Default,Tsooji,0000,0000,0000,,It's a gifted against a human.
+Dialogue: 0,1:05:56.05,1:05:58.14,Stray Dogs - Default,Tsooji,0000,0000,0000,,That thing is a monster \Nbeyond human comprehension.
+Dialogue: 0,1:05:58.53,1:06:02.19,Stray Dogs - Default,Tsooji,0000,0000,0000,,Get overconfident and fight it, \Nand you'll die.
+Dialogue: 0,1:06:03.13,1:06:07.61,Stray Dogs - Default,Chuuka,0000,0000,0000,,That's not a reason to \Nchicken out and go home.
+Dialogue: 0,1:06:09.31,1:06:12.25,Stray Dogs - Default,Chuuka,0000,0000,0000,,Do you know when it's all right \Nto chicken out and go home?
+Dialogue: 0,1:06:16.87,1:06:18.04,Stray Dogs - Default,Tsooji,0000,0000,0000,,I do not.
+Dialogue: 0,1:06:18.83,1:06:21.34,Stray Dogs - Default,Chuuka,0000,0000,0000,,There is no such time.
+Dialogue: 0,1:06:28.99,1:06:31.27,Stray Dogs - Default,Chuuka,0000,0000,0000,,Grantors of dark disgrace,
+Dialogue: 0,1:06:33.92,1:06:37.84,Stray Dogs - Default,Chuuka,0000,0000,0000,,you need not wake me again.
+Dialogue: 0,1:06:57.18,1:06:58.14,Stray Dogs - Default,Tsooji,0000,0000,0000,,Amazing.
+Dialogue: 0,1:06:58.14,1:06:59.61,Stray Dogs - Default,Tsooji,0000,0000,0000,,It's all getting higher. {tl- is she talking about the rocks? i can't tell} {maybe about the mist?}
+Dialogue: 0,1:06:59.90,1:07:02.75,Stray Dogs - Italics,Uggo,0000,0000,0000,,His special ability is gravity control.
+Dialogue: 0,1:07:03.54,1:07:08.59,Stray Dogs - Italics,Uggo,0000,0000,0000,,In this state of contamination, \Nhaving become a slave to gravitons,
+Dialogue: 0,1:07:08.59,1:07:11.09,Stray Dogs - Italics,Uggo,0000,0000,0000,,he can neither control nor disable it.
+Dialogue: 0,1:07:11.52,1:07:13.71,Stray Dogs - Default,Tsooji,0000,0000,0000,,So he has no control of it until he dies?
+Dialogue: 0,1:07:14.32,1:07:18.67,Stray Dogs - Italics,Uggo,0000,0000,0000,,Dazai-kun's nullification ability \Nis the only way to end it.
+Dialogue: 0,1:07:19.14,1:07:21.14,Stray Dogs - Italics,Uggo,0000,0000,0000,,Without it, he's doomed.
+Dialogue: 0,1:07:22.00,1:07:23.16,Stray Dogs - Default,Tsooji,0000,0000,0000,,No...
+Dialogue: 0,1:09:34.10,1:09:37.30,Stray Dogs - Default,Dasai,0000,0000,0000,,You used Corruption, believing in me?
+Dialogue: 0,1:09:37.30,1:09:39.01,Stray Dogs - Default,Dasai,0000,0000,0000,,How beautiful.
+Dialogue: 0,1:09:39.51,1:09:41.88,Stray Dogs - Default,Chuuka,0000,0000,0000,,Yeah, I did.
+Dialogue: 0,1:09:41.88,1:09:46.46,Stray Dogs - Default,Chuuka,0000,0000,0000,,I believed in your disgusting \Nvitality and craftiness. {vitality doesn't seem to fit the tone here: what's the intent?}
+Dialogue: 0,1:09:47.07,1:09:52.40,Stray Dogs - Default,Dasai,0000,0000,0000,,That was a somewhat violent \Nway of waking Snow White.
+Dialogue: 0,1:09:53.46,1:09:58.54,Stray Dogs - Default,Chuuka,0000,0000,0000,,You're the one who hid an antidote in your mouth, \Nknowing I'd punch you.
+Dialogue: 0,1:10:02.85,1:10:04.55,Stray Dogs - Default,Chuuka,0000,0000,0000,,Let go, asshole.
+Dialogue: 0,1:10:04.55,1:10:05.60,Stray Dogs - Default,Dasai,0000,0000,0000,,Don't move.
+Dialogue: 0,1:10:07.10,1:10:09.27,Stray Dogs - Default,Dasai,0000,0000,0000,,The fog hasn't cleared.
+Dialogue: 0,1:10:09.63,1:10:15.21,Stray Dogs - Default,Dasai,0000,0000,0000,,I don't want to have to protect you from \Nyour special ability in this situation.
+Dialogue: 0,1:10:15.21,1:10:17.18,Stray Dogs - Default,Chuuka,0000,0000,0000,,It's still not over?
+Dialogue: 0,1:10:17.73,1:10:20.41,Stray Dogs - Default,Dasai,0000,0000,0000,,No, it's just beginning.
+Dialogue: 0,1:10:20.68,1:10:21.91,Stray Dogs - Default,Chuuka,0000,0000,0000,,Shit.
+Dialogue: 0,1:10:22.50,1:10:28.27,Stray Dogs - Default,Chuuka,0000,0000,0000,,I can't move a single finger.
+Dialogue: 0,1:10:29.50,1:10:31.34,Stray Dogs - Default,Dasai,0000,0000,0000,,I predicted this far.
+Dialogue: 0,1:10:32.15,1:10:36.16,Stray Dogs - Default,Dasai,0000,0000,0000,,But the rest is on them.
+Dialogue: 0,1:10:37.99,1:10:42.89,Stray Dogs - Default,Fjord,0000,0000,0000,,You act as though you know everything, \Nwhen in fact you know nothing.
+Dialogue: 0,1:10:42.89,1:10:45.86,Stray Dogs - Default,Fjord,0000,0000,0000,,The fog will spread unceasingly.
+Dialogue: 0,1:10:45.86,1:10:50.26,Stray Dogs - Default,Fjord,0000,0000,0000,,This planet will become a fruit \Nof death — a dead apple.
+Dialogue: 0,1:10:51.02,1:10:54.12,Stray Dogs - Default,Fjord,0000,0000,0000,,I have a modest gift for you.
+Dialogue: 0,1:10:55.15,1:10:59.14,Stray Dogs - Default,Fjord,0000,0000,0000,,A fragment of the crystal \Nfor gathering abilities.
+Dialogue: 0,1:10:59.49,1:11:03.32,Stray Dogs - Default,Fjord,0000,0000,0000,,With this, you're the singularity.
+Dialogue: 0,1:11:11.40,1:11:13.68,Stray Dogs - Default,Shibs,0000,0000,0000,,I remember everything, now.
+Dialogue: 0,1:11:15.27,1:11:19.24,Stray Dogs - Default,Shibs,0000,0000,0000,,It wasn't the special \Nabilities that I sought.
+Dialogue: 0,1:11:19.67,1:11:22.21,Stray Dogs - Default,Shibs,0000,0000,0000,,It was the glimmer of the light \Nof the tenacious life force,
+Dialogue: 0,1:11:22.21,1:11:25.08,Stray Dogs - Default,Shibs,0000,0000,0000,,prevailing over my own special ability... \NOver my own fate.
+Dialogue: 0,1:11:25.54,1:11:27.97,Stray Dogs - Default,Shibs,0000,0000,0000,,It was the light you'd shown me.
+Dialogue: 0,1:11:29.04,1:11:34.23,Stray Dogs - Default,Shibs,0000,0000,0000,,By killing me, your soul had proven \Nto me the strength of life.
+Dialogue: 0,1:11:34.81,1:11:38.30,Stray Dogs - Default,Shibs,0000,0000,0000,,Show me your light once more!
+Dialogue: 0,1:12:12.42,1:12:14.72,Stray Dogs - Default,Person A,0000,0000,0000,,The fog has begun to spread!
+Dialogue: 0,1:12:14.72,1:12:17.18,Stray Dogs - Default,Person B,0000,0000,0000,,Singularity variance immeasurable.
+Dialogue: 0,1:12:18.15,1:12:20.30,Stray Dogs - Default,Person A,0000,0000,0000,,Expansion speed 100 kilometers.
+Dialogue: 0,1:12:20.30,1:12:24.99,Stray Dogs - Default,Person A,0000,0000,0000,,At current rate, in an hour and thirty-five minutes, \Nthe whole of the Kanto region will be engulfed.
+Dialogue: 0,1:12:24.99,1:12:27.86,Stray Dogs - Default,Person A,0000,0000,0000,,In twelve hours and thirty-six minutes, all of Tokyo,
+Dialogue: 0,1:12:27.86,1:12:31.83,Stray Dogs - Default,Person A,0000,0000,0000,,and in 168 hours the whole of \Nthe planet will be covered.
+Dialogue: 0,1:12:33.19,1:12:34.12,Stray Dogs - Default,Person B,0000,0000,0000,,Are you serious?
+Dialogue: 0,1:12:35.36,1:12:39.73,Stray Dogs - Default,Person A,0000,0000,0000,,We have a call from the English \Nspecial operations organization.
+Dialogue: 0,1:12:40.70,1:12:42.83,Stray Dogs - Default,Person A,0000,0000,0000,,It's the Clock Tower esquires... {tl- esquires?}
+Dialogue: 0,1:12:45.30,1:12:47.19,Stray Dogs - Italics,Agh other,0000,0000,0000,,Good day.
+Dialogue: 0,1:12:47.83,1:12:53.16,Stray Dogs - Italics,Agh other,0000,0000,0000,,On behalf of the nations of Europe, my heart \Ngoes out to your nation in this time of crisis.
+Dialogue: 0,1:12:53.81,1:12:58.60,Stray Dogs - Default,Agh other,0000,0000,0000,,On that note, in order to prevent it from \Nspreading throughout the rest of the world,
+Dialogue: 0,1:12:58.60,1:13:02.56,Stray Dogs - Default,Agh other,0000,0000,0000,,we have deployed a gifted with \Nan incineration ability. {tl- i can't figure out how to de-clunk the second half of this sentence}
+Dialogue: 0,1:13:06.81,1:13:08.99,Stray Dogs - Default,Uggo,0000,0000,0000,,Incineration ability...
+Dialogue: 0,1:13:09.79,1:13:11.41,Stray Dogs - Default,Uggo,0000,0000,0000,,When will they begin?
+Dialogue: 0,1:13:11.66,1:13:13.93,Stray Dogs - Italics,Agh other,0000,0000,0000,,In exactly thirty minutes.
+Dialogue: 0,1:13:13.93,1:13:15.85,Stray Dogs - Italics,Agh other,0000,0000,0000,,With the crack of dawn.
+Dialogue: 0,1:13:17.72,1:13:20.50,Stray Dogs - Default,Uggo,0000,0000,0000,,Yokohama's going to be incinerated.
+Dialogue: 0,1:13:25.41,1:13:26.89,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Shibusawa, correct?
+Dialogue: 0,1:13:28.22,1:13:29.88,sign_105692_855_Rashoumon__,,0000,0000,0000,,Rashoumon
+Dialogue: 0,1:13:28.26,1:13:29.58,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Rashoumon!
+Dialogue: 0,1:13:32.69,1:13:34.03,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Demonic...
+Dialogue: 0,1:13:32.76,1:13:34.05,sign_105692_855_Rashoumon__,,0000,0000,0000,,{Demonic Armor! - pt1}Demonic
+Dialogue: 0,1:13:36.47,1:13:37.18,sign_105692_855_Rashoumon__,,0000,0000,0000,,{Demonic Armor!  - pt2}Armor
+Dialogue: 0,1:13:36.70,1:13:37.68,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Armor!
+Dialogue: 0,1:13:37.18,1:13:38.02,Stray Dogs - Default,,0000,0000,0000,,{Demonic Armor! -full}
+Dialogue: 0,1:13:43.94,1:13:46.11,Stray Dogs - Default,Shibs,0000,0000,0000,,So you lot are gifted.
+Dialogue: 0,1:13:46.74,1:13:48.03,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,"You lot"?
+Dialogue: 0,1:13:50.86,1:13:52.02,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Why did you come?
+Dialogue: 0,1:13:52.72,1:13:56.79,Stray Dogs - Default,Kyocera,0000,0000,0000,,I just want that man to live in the light.
+Dialogue: 0,1:13:57.54,1:13:59.60,Stray Dogs - Default,Kyocera,0000,0000,0000,,I'll kill this man.
+Dialogue: 0,1:14:00.60,1:14:01.95,Stray Dogs - Default,Kyocera,0000,0000,0000,,Demon Snow!
+Dialogue: 0,1:14:09.30,1:14:14.29,Stray Dogs - Default,Shibs,0000,0000,0000,,To think that {\i1}two{\i0} of you would \Ntake back your special abilities.
+Dialogue: 0,1:14:14.75,1:14:19.05,Stray Dogs - Default,Kyocera,0000,0000,0000,,We aren't the only two to have \Ntaken our abilities back.
+Dialogue: 0,1:14:22.74,1:14:26.98,Stray Dogs - Default,Oh Guy,0000,0000,0000,,I expect that this, too, was within \Nyour calculations, Dazai-kun.
+Dialogue: 0,1:14:27.65,1:14:31.85,Stray Dogs - Default,Oh Guy,0000,0000,0000,,Though I don't have time to \Nworry about others right now.
+Dialogue: 0,1:14:34.36,1:14:36.98,Stray Dogs - Default,Crazy thing,0000,0000,0000,,I love you, Rintarou.
+Dialogue: 0,1:14:41.43,1:14:43.45,Stray Dogs - Default,Oh Guy,0000,0000,0000,,You're too adorable, Elise-chan.
+Dialogue: 0,1:14:43.45,1:14:45.54,Stray Dogs - Default,Oh Guy,0000,0000,0000,,I can't bring myself to shred you up.
+Dialogue: 0,1:14:47.17,1:14:50.58,Stray Dogs - Default,Oh Guy,0000,0000,0000,,Now, what is the optimal \Nsolution in this situation?
+Dialogue: 0,1:14:55.12,1:14:57.52,Stray Dogs - Default,Fuguswatter,0000,0000,0000,,A swordsman with skill equal to mine.
+Dialogue: 0,1:14:58.05,1:15:03.34,Stray Dogs - Default,Fuguswatter,0000,0000,0000,,You may have no equal in skill, \Nbut you're far too proper.
+Dialogue: 0,1:15:03.34,1:15:08.73,Stray Dogs - Default,Fuguswatter,0000,0000,0000,,With no guile in your sword, \Nyou will never defeat me.
+Dialogue: 0,1:15:11.23,1:15:13.01,Stray Dogs - Default,Oh Guy,0000,0000,0000,,Fukuzawa-dono.
+Dialogue: 0,1:15:16.66,1:15:18.81,Stray Dogs - Default,Fuguswatter,0000,0000,0000,,What a coincidence, Mori-sensei.
+Dialogue: 0,1:15:19.41,1:15:21.53,Stray Dogs - Default,Oh Guy,0000,0000,0000,,Are you having a problem?
+Dialogue: 0,1:15:21.85,1:15:26.31,Stray Dogs - Default,Fuguswatter,0000,0000,0000,,I've just had a glimpse of a solution.
+Dialogue: 0,1:15:26.31,1:15:27.88,Stray Dogs - Default,Oh Guy,0000,0000,0000,,Excellent.
+Dialogue: 0,1:15:28.69,1:15:34.37,Stray Dogs - Default,Oh Guy,0000,0000,0000,,Is it not at times like these \Nthat your daily actions speak?
+Dialogue: 0,1:15:45.92,1:15:48.41,Stray Dogs - Default,Fuguswatter,0000,0000,0000,,I thought it was just your scalpel. {tl- can't parse this... his only target is his scalpel? he only uses his scalpel on his targets?} {n: maybe fukuzawa is saying he thought mori only ever used his scalpel - ie as a weapon}
+Dialogue: 0,1:15:49.86,1:15:51.77,Stray Dogs - Default,Fuguswatter,0000,0000,0000,,I'll be careful from now on.
+Dialogue: 0,1:15:52.35,1:15:55.44,Stray Dogs - Default,Oh Guy,0000,0000,0000,,No mercy, even for an endearing girl.
+Dialogue: 0,1:15:55.81,1:15:57.49,Stray Dogs - Default,Oh Guy,0000,0000,0000,,The lone swordsman, Silver Wolf.
+Dialogue: 0,1:15:57.49,1:15:59.23,Stray Dogs - Default,Oh Guy,0000,0000,0000,,You are indeed guilty.
+Dialogue: 0,1:15:59.23,1:16:01.42,Stray Dogs - Default,Fuguswatter,0000,0000,0000,,That was nothing but a fiend.
+Dialogue: 0,1:16:02.11,1:16:04.91,Stray Dogs - Default,Crazy thing,0000,0000,0000,,Hey, Rintarou!
+Dialogue: 0,1:16:05.23,1:16:07.74,Stray Dogs - Default,Crazy thing,0000,0000,0000,,What the heck are you doing,\N leaving me behind?!
+Dialogue: 0,1:16:08.06,1:16:10.79,Stray Dogs - Default,Oh guy,0000,0000,0000,,It's the real Elise-chan.
+Dialogue: 0,1:16:08.13,1:16:11.50,Stray Dogs - Top,Crazy thing,0000,0000,0000,,I don't believe you!
+Dialogue: 0,1:16:10.79,1:16:13.96,Stray Dogs - Default,Fuguswatter,0000,0000,0000,,I think she's a fiend either way.
+Dialogue: 0,1:16:11.50,1:16:14.25,Stray Dogs - Top,,0000,0000,0000,,{baka, aho, something oyajii}
+Dialogue: 0,1:16:20.87,1:16:23.25,Stray Dogs - Italics,At sushi,0000,0000,0000,,What's the light of life?
+Dialogue: 0,1:16:24.26,1:16:26.71,Stray Dogs - Italics,At sushi,0000,0000,0000,,I don't have any light of life.
+Dialogue: 0,1:16:28.05,1:16:32.61,Stray Dogs - Italics,At sushi,0000,0000,0000,,When I lost my tiger abilities to the fog,\N I was honestly relieved
+Dialogue: 0,1:16:33.08,1:16:35.80,Stray Dogs - Italics,At sushi,0000,0000,0000,,that now I didn't have to \Nhurt the people around me.
+Dialogue: 0,1:16:36.18,1:16:39.09,Stray Dogs - Italics,At sushi,0000,0000,0000,,That the tiger and I are actually separate creatures.
+Dialogue: 0,1:16:44.08,1:16:47.32,Stray Dogs - Italics,At sushi,0000,0000,0000,,But... the tiger once helped me.
+Dialogue: 0,1:16:55.68,1:16:58.93,Stray Dogs - Default,Shibs,0000,0000,0000,,I've already passed through death.
+Dialogue: 0,1:16:58.93,1:17:02.88,Stray Dogs - Default,Shibs,0000,0000,0000,,How do you kill something \Nthat's already dead?
+Dialogue: 0,1:17:02.88,1:17:03.75,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,You abomination!
+Dialogue: 0,1:17:09.15,1:17:11.70,Stray Dogs - Italics,At sushi,0000,0000,0000,,No matter where I run, the tiger follows.
+Dialogue: 0,1:17:17.84,1:17:21.27,Stray Dogs - Italics,At sushi,0000,0000,0000,,It's the same as the way I can't \Nescape the beating of my own heart.
+Dialogue: 0,1:17:22.47,1:17:26.76,Stray Dogs - Italics,At sushi,0000,0000,0000,,For you're my strength to keep living.
+Dialogue: 0,1:17:32.15,1:17:34.96,Stray Dogs - Italics,At sushi,0000,0000,0000,,I hear you well, now.
+Dialogue: 0,1:17:35.83,1:17:37.93,Stray Dogs - Italics,At sushi,0000,0000,0000,,I understand your words well.
+Dialogue: 0,1:17:41.36,1:17:42.34,Stray Dogs - Italics,At sushi,0000,0000,0000,,I know.
+Dialogue: 0,1:17:43.85,1:17:46.77,Stray Dogs - Italics,At sushi,0000,0000,0000,,I know everyone's souls are on fire.
+Dialogue: 0,1:17:52.37,1:17:54.68,Stray Dogs - Italics,At sushi,0000,0000,0000,,I'll say the same to you.
+Dialogue: 0,1:17:56.90,1:17:59.06,Stray Dogs - Italics,At sushi,0000,0000,0000,,Hurry up, or I'm leaving you behind.
+Dialogue: 0,1:18:00.06,1:18:02.46,Stray Dogs - Italics,At sushi,0000,0000,0000,,Come, tiger! {tl- he says "white tiger" but i don't see that anywhere in the previous episodes. i'm assuming we just call it tiger?} {n: it's always just been tiger, yeah - I wasn't aware the word he uses means white tiger?}
+Dialogue: 0,1:18:12.72,1:18:16.26,Stray Dogs - Default,Shibs,0000,0000,0000,,I've taken the light of your lives,
+Dialogue: 0,1:18:16.82,1:18:20.47,Stray Dogs - Default,Shibs,0000,0000,0000,,but that light isn't enough.
+Dialogue: 0,1:18:29.23,1:18:31.77,Stray Dogs - Default,Shibs,0000,0000,0000,,Dragon Tiger is a well-deserved name. {tl- never heard of this}{n: they're totally off the rails of the manga at this point and i've never read even fan translations of the light novels... so yeah, i got nothing}
+Dialogue: 0,1:18:35.10,1:18:39.10,Stray Dogs - Default,Shibs,0000,0000,0000,,The Russian who told me of \Nyour existence told me
+Dialogue: 0,1:18:39.88,1:18:44.32,Stray Dogs - Default,Shibs,0000,0000,0000,,that the dragon is the true form \Nof the chaos of special abilities.
+Dialogue: 0,1:18:46.19,1:18:51.99,Stray Dogs - Default,Shibs,0000,0000,0000,,Then, as you are the one who embodies the tiger, \Nyou are the antithesis of all special abilities. {tl- i have no idea what he's saying at this point} {n: is there some kind of japanese myth connection between tiger and dragon?? that's the only way i see this leap from "the dragon" to "so because you're a tiger" making sense}
+Dialogue: 0,1:18:52.29,1:18:54.82,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Took you long enough.
+Dialogue: 0,1:18:55.33,1:18:59.76,Stray Dogs - Default,Shibs,0000,0000,0000,,Are you going to kill me again,\N Nakajima Atsushi-kun?
+Dialogue: 0,1:19:02.21,1:19:05.72,Stray Dogs - Default,At sushi,0000,0000,0000,,I'm simply going to return \Nsomething to where it belongs.
+Dialogue: 0,1:19:06.03,1:19:07.69,Stray Dogs - Default,Shibs,0000,0000,0000,,Don't be mistaken.
+Dialogue: 0,1:19:08.12,1:19:09.79,Stray Dogs - Default,Shibs,0000,0000,0000,,I'm not stopping you. {tl- .... i'm sorry i'm really confused}
+Dialogue: 0,1:19:13.00,1:19:14.60,Stray Dogs - Default,Shibs,0000,0000,0000,,Good, Atsushi-kun.
+Dialogue: 0,1:19:15.18,1:19:18.32,Stray Dogs - Default,Shibs,0000,0000,0000,,You are indeed special.
+Dialogue: 0,1:19:22.06,1:19:25.56,Stray Dogs - Default,Shibs,0000,0000,0000,,I'm definitely not bored anymore.
+Dialogue: 0,1:19:47.62,1:19:48.47,Stray Dogs - Default,Kyocera,0000,0000,0000,,Demon Snow!
+Dialogue: 0,1:19:55.91,1:19:58.43,Stray Dogs - Default,At sushi,0000,0000,0000,,The three of us need to \Ncombine our strength.
+Dialogue: 0,1:19:58.43,1:20:00.41,Stray Dogs - Default,At sushi,0000,0000,0000,,Otherwise we can't secure \Nour place of being. {n: this makes zero sense to me and i have no idea what might be intended}
+Dialogue: 0,1:20:04.91,1:20:07.69,Stray Dogs - Default,At sushi,0000,0000,0000,,You can call Demon Snow again, right?
+Dialogue: 0,1:20:09.85,1:20:12.12,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Kyouka, weretiger...
+Dialogue: 0,1:20:14.20,1:20:17.80,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,You understand what you \Nneed to do, don't you?
+Dialogue: 0,1:20:18.36,1:20:21.00,Stray Dogs - Default,At sushi,0000,0000,0000,,Yeah, I know.
+Dialogue: 0,1:20:22.09,1:20:23.02,Stray Dogs - Default,At sushi,0000,0000,0000,,Kyouka-chan.
+Dialogue: 0,1:20:25.53,1:20:28.39,Stray Dogs - Default,At sushi,0000,0000,0000,,You said you didn't want \Nto hate Demon Snow.
+Dialogue: 0,1:20:28.92,1:20:31.13,Stray Dogs - Default,At sushi,0000,0000,0000,,She'll respond to your words.
+Dialogue: 0,1:20:46.78,1:20:49.17,Stray Dogs - Default,Shibs,0000,0000,0000,,Your naivete is beautiful.
+Dialogue: 0,1:20:52.03,1:20:53.00,Stray Dogs - Default,At sushi,0000,0000,0000,,Kyouka-chan!
+Dialogue: 0,1:20:54.03,1:20:56.18,Stray Dogs - Default,Kyocera,0000,0000,0000,,Demon Snow!
+Dialogue: 0,1:21:03.29,1:21:06.30,Stray Dogs - Default,Shibs,0000,0000,0000,,It's no use, give it up!
+Dialogue: 0,1:21:08.05,1:21:08.92,Stray Dogs - Default,At sushi,0000,0000,0000,,Akutagawa!
+Dialogue: 0,1:21:08.92,1:21:11.37,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,Don't tell me what to do!
+Dialogue: 0,1:21:18.34,1:21:19.60,Stray Dogs - Default,At sushi,0000,0000,0000,,I won't let you get away this time.
+Dialogue: 0,1:21:26.16,1:21:27.15,Stray Dogs - Italics,Shibs,0000,0000,0000,,This is it.
+Dialogue: 0,1:21:27.48,1:21:28.75,Stray Dogs - Italics,Shibs,0000,0000,0000,,This is it.
+Dialogue: 0,1:21:30.51,1:21:33.87,Stray Dogs - Italics,Shibs,0000,0000,0000,,This joy I feel over death.
+Dialogue: 0,1:21:35.08,1:21:37.28,Stray Dogs - Default,Shibs,0000,0000,0000,,Do you feel it?
+Dialogue: 0,1:21:40.85,1:21:41.75,Stray Dogs - Default,Actor's Guild,0000,0000,0000,,What the...
+Dialogue: 0,1:21:49.34,1:21:54.97,Stray Dogs - Default,Shibs,0000,0000,0000,,Show me once more that glimmer that \Nopposes all special abilities! {tl- i don't know if it's because i'm not philosophical enough or if this is nonsense...} {n: i'm assuming this is all linked to fyodor's arc and fyodor's motivation/desire to destroy all special abilities?? but it does sound super nonsense in lots of the last 30 mins so far :/}
+Dialogue: 0,1:22:06.76,1:22:08.15,Stray Dogs - Default,Shibs,0000,0000,0000,,Beautiful.
+Dialogue: 0,1:22:09.66,1:22:12.60,Stray Dogs - Default,Shibs,0000,0000,0000,,This is the supreme special ability.
+Dialogue: 0,1:22:12.90,1:22:13.83,Stray Dogs - Default,At sushi,0000,0000,0000,,No!
+Dialogue: 0,1:22:15.85,1:22:16.73,Stray Dogs - Default,Shibs,0000,0000,0000,,What?
+Dialogue: 0,1:22:17.41,1:22:19.66,Stray Dogs - Default,At sushi,0000,0000,0000,,That's not an ability.
+Dialogue: 0,1:22:20.08,1:22:24.14,Stray Dogs - Default,At sushi,0000,0000,0000,,That's me!
+Dialogue: 0,1:22:48.37,1:22:52.35,Stray Dogs - Default,Shibs,0000,0000,0000,,I understand everything, now.
+Dialogue: 0,1:22:53.15,1:22:55.59,Stray Dogs - Default,Shibs,0000,0000,0000,,Why I'm here,
+Dialogue: 0,1:22:56.32,1:22:59.59,Stray Dogs - Default,Shibs,0000,0000,0000,,why you appeared before me,
+Dialogue: 0,1:23:00.76,1:23:03.78,Stray Dogs - Default,Shibs,0000,0000,0000,,and what his words mean...
+Dialogue: 0,1:23:05.06,1:23:06.21,Stray Dogs - Default,Shibs,0000,0000,0000,,You...
+Dialogue: 0,1:23:07.67,1:23:11.05,Stray Dogs - Default,Shibs,0000,0000,0000,,You must be the angel who saves me.
+Dialogue: 0,1:24:29.55,1:24:32.96,Stray Dogs - Default,Person A,0000,0000,0000,,The singularity and fog have \Nbeen confirmed eradicated.
+Dialogue: 0,1:24:38.69,1:24:42.86,Stray Dogs - Default,Person B,0000,0000,0000,,The Clock Tower esquires have called to \Ninform us that their mission has been aborted.
+Dialogue: 0,1:24:46.02,1:24:47.47,Stray Dogs - Default,Agh other,0000,0000,0000,,What a shame.
+Dialogue: 0,1:24:47.95,1:24:52.08,Stray Dogs - Default,Agh other,0000,0000,0000,,The scent of a burning \Nnation goes well with tea.
+Dialogue: 0,1:24:55.55,1:24:57.87,Stray Dogs - Default,Chuuka,0000,0000,0000,,What the hell are you doing here?
+Dialogue: 0,1:24:58.86,1:25:01.28,Stray Dogs - Default,Chuuka,0000,0000,0000,,Dimwit Dazai is safe.
+Dialogue: 0,1:25:08.60,1:25:09.50,Stray Dogs - Default,Chuuka,0000,0000,0000,,Yo.
+Dialogue: 0,1:25:11.91,1:25:13.44,Stray Dogs - Default,Chuuka,0000,0000,0000,,Give me your shoulder. {tl- to stand on? i don't get it} {E: to help him out}{n: if it fits the tone "Lend me" might be a little more obvious, but I think the meaning here is clear?}
+Dialogue: 0,1:25:16.98,1:25:22.77,Stray Dogs - Default,Rambo,0000,0000,0000,,I'm not gifted, and I'm back here, \Nwhich must mean it all worked out well.
+Dialogue: 0,1:25:22.77,1:25:25.86,Stray Dogs - Default,Rambo,0000,0000,0000,,Atsushi's gotten pretty good.
+Dialogue: 0,1:25:26.22,1:25:28.44,Stray Dogs - Default,Rambo,0000,0000,0000,,Don't you think, Dazai?
+Dialogue: 0,1:25:41.76,1:25:44.80,Stray Dogs - Default,Dasai,0000,0000,0000,,Atsushi-kun, what I did earlier...
+Dialogue: 0,1:25:45.38,1:25:46.67,Stray Dogs - Default,At sushi,0000,0000,0000,,You...
+Dialogue: 0,1:25:47.78,1:25:50.88,Stray Dogs - Default,At sushi,0000,0000,0000,,You tried to protect this city.
+Dialogue: 0,1:25:52.53,1:25:55.83,Stray Dogs - Default,Dasai,0000,0000,0000,,Do I look like such a good person?
+Dialogue: 0,1:25:56.77,1:25:58.32,Stray Dogs - Default,At sushi,0000,0000,0000,,Sure, why?
+Dialogue: 0,1:26:00.53,1:26:01.99,Stray Dogs - Default,Dasai,0000,0000,0000,,Well, whatever.
+Dialogue: 0,1:26:07.86,1:26:12.71,Stray Dogs - Default,Dasai,0000,0000,0000,,I hope he managed to fill \Nhis boredom and loneliness.
+Dialogue: 0,1:26:14.15,1:26:16.81,Stray Dogs - Default,Kyocera,0000,0000,0000,,Is this really what you wanted?
+Dialogue: 0,1:26:19.32,1:26:22.59,Stray Dogs - Default,At sushi,0000,0000,0000,,Just as Shibusawa was able to forget \Nhe'd been killed before,
+Dialogue: 0,1:26:23.03,1:26:26.75,Stray Dogs - Default,At sushi,0000,0000,0000,,I think Dazai can put his \Npast behind him again. {n: jigged these lines a lot for clarity, please double-check the meaning etc is correct and intact}
+Dialogue: 0,1:26:28.02,1:26:29.62,Stray Dogs - Default,At sushi,0000,0000,0000,,But this is right.
+Dialogue: 0,1:26:30.11,1:26:34.87,Stray Dogs - Default,At sushi,0000,0000,0000,,At least, for now, I'm proud we \Nwere able to protect the city together.
+Dialogue: 0,1:26:35.61,1:26:41.94,Stray Dogs - Default,At sushi,0000,0000,0000,,I think it's at least a little more beautiful to \Nlive on with you and Kyouka-chan and the others.
+Dialogue: 0,1:26:52.58,1:26:54.87,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,You!
+Dialogue: 0,1:26:56.67,1:26:59.33,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Boneheads! You're still alive!
+Dialogue: 0,1:26:59.79,1:27:01.81,Stray Dogs - Default,At sushi,0000,0000,0000,,Everyone's safe.
+Dialogue: 0,1:27:01.81,1:27:03.31,Stray Dogs - Default,Dasai,0000,0000,0000,,Of course.
+Dialogue: 0,1:27:03.70,1:27:06.07,Stray Dogs - Default,Dasai,0000,0000,0000,,We're the Armed Detective Agency, after all.
+Dialogue: 0,1:27:07.50,1:27:08.39,Stray Dogs - Default,Dasai,0000,0000,0000,,Right?
+Dialogue: 0,1:27:11.21,1:27:11.94,Stray Dogs - Default,At sushi,0000,0000,0000,,Yes.
+Dialogue: 0,1:27:20.50,1:27:25.14,Stray Dogs - Default,Uggo,0000,0000,0000,,It's a minor miracle that, \Nafter all that happened,
+Dialogue: 0,1:27:25.67,1:27:27.75,Stray Dogs - Default,Uggo,0000,0000,0000,,none of the civilians were harmed.
+Dialogue: 0,1:27:27.75,1:27:28.57,Stray Dogs - Default,Tsooji,0000,0000,0000,,Ow!
+Dialogue: 0,1:27:29.86,1:27:32.50,Stray Dogs - Default,Uggo,0000,0000,0000,,Get to work, please, Tsujimura-kun.
+Dialogue: 0,1:27:32.50,1:27:34.91,Stray Dogs - Default,Uggo,0000,0000,0000,,It's still day four of our \Nall-nighter marathon.
+Dialogue: 0,1:27:35.22,1:27:38.70,Stray Dogs - Default,Tsooji,0000,0000,0000,,There's no way we're going to cover this up.
+Dialogue: 0,1:27:39.02,1:27:44.28,sign_126091_1002_Report,Text,0000,0000,0000,,Report
+Dialogue: 0,1:27:39.45,1:27:44.27,Stray Dogs - Default,Tsooji,0000,0000,0000,,Even though it happened in the conceded zone\N of Yokohama, they caused some spectacular damage. {tl- i spent 20 minutes looking this up, asked my mom, and still no idea what they mean by 横浜租界} {n: used the suggestion in the email to dodgy in something that makes sense; please check}
+Dialogue: 0,1:27:46.45,1:27:47.66,Stray Dogs - Default,Tsooji,0000,0000,0000,,Senpai,
+Dialogue: 0,1:27:49.66,1:27:53.25,Stray Dogs - Default,Tsooji,0000,0000,0000,,what do you think the deal was \Nwith this incident, anyway?
+Dialogue: 0,1:27:53.74,1:27:55.19,Stray Dogs - Default,Uggo,0000,0000,0000,,I don't know.
+Dialogue: 0,1:27:55.76,1:28:02.05,Stray Dogs - Default,Uggo,0000,0000,0000,,Given the complexity of the three masterminds' \Nmotivations, we still don't have a full picture.
+Dialogue: 0,1:28:03.18,1:28:09.01,Stray Dogs - Default,Uggo,0000,0000,0000,,Dazai-kun's the same as usual, and demon \NFyodor's intentions are impossible to comprehend.
+Dialogue: 0,1:28:09.89,1:28:18.24,Stray Dogs - Default,Uggo,0000,0000,0000,,But, beyond all the scheming and lying, \Nthe incident may  fundamentally be very simple.
+Dialogue: 0,1:28:20.73,1:28:24.36,Stray Dogs - Default,Uggo,0000,0000,0000,,How is a man like Shibusawa, {E: I think this line starts here}
+Dialogue: 0,1:28:25.45,1:28:30.62,Stray Dogs - Default,Uggo,0000,0000,0000,,so intelligent that others look like alien \Ncreatures to him, to act, to be destroyed,
+Dialogue: 0,1:28:30.62,1:28:32.62,Stray Dogs - Default,Uggo,0000,0000,0000,,or to be saved?
+Dialogue: 0,1:28:33.66,1:28:38.97,Stray Dogs - Default,Uggo,0000,0000,0000,,To be one of three aliens in the world, \Nin isolation and loneliness...
+Dialogue: 0,1:28:40.05,1:28:42.58,Stray Dogs - Default,Uggo,0000,0000,0000,,I can't even imagine it.
+Dialogue: 0,1:28:43.19,1:28:45.48,Stray Dogs - Default,Uggo,0000,0000,0000,,Tsujimoto-kun?
+Dialogue: 0,1:28:47.66,1:28:50.80,Stray Dogs - Default,Chuuka,0000,0000,0000,,Were you aware of the trick, Boss?
+Dialogue: 0,1:28:51.27,1:28:56.90,Stray Dogs - Default,Oh guy,0000,0000,0000,,Dazai-kun was acting on his own, \Nand I expected he would need your help.
+Dialogue: 0,1:28:57.45,1:28:59.17,Stray Dogs - Default,Oh guy,0000,0000,0000,,As a forerunner.
+Dialogue: 0,1:28:59.64,1:29:01.84,Stray Dogs - Default,Chuuka,0000,0000,0000,,So I was an opening act?
+Dialogue: 0,1:29:02.17,1:29:05.00,Stray Dogs - Default,Oh guy,0000,0000,0000,,Dazai-kun is the star.
+Dialogue: 0,1:29:05.82,1:29:08.00,Stray Dogs - Default,Chuuka,0000,0000,0000,,And what do I get in return?
+Dialogue: 0,1:29:09.31,1:29:11.99,Stray Dogs - Default,Oh guy,0000,0000,0000,,The return of order in this city.
+Dialogue: 0,1:29:12.43,1:29:16.59,Stray Dogs - Default,Chuuka,0000,0000,0000,,The peace of this city, huh?
+Dialogue: 0,1:29:17.07,1:29:18.69,Stray Dogs - Default,Oh guy,0000,0000,0000,,Good work.
+Dialogue: 0,1:29:19.13,1:29:20.87,Stray Dogs - Default,Chuuka,0000,0000,0000,,You don't need to thank me.
+Dialogue: 0,1:29:21.82,1:29:23.51,Stray Dogs - Default,Chuuka,0000,0000,0000,,It was your order.
+Dialogue: 0,1:29:23.51,1:29:25.05,Stray Dogs - Default,Chuuka,0000,0000,0000,,I'm just doing my job.
+Dialogue: 0,1:29:26.34,1:29:28.75,Stray Dogs - Default,Fjord,0000,0000,0000,,Everything is but entertainment.
+Dialogue: 0,1:29:29.22,1:29:34.81,Stray Dogs - Default,Fjord,0000,0000,0000,,But in order to end this world, \Nrife with crime and punishment,
+Dialogue: 0,1:29:34.81,1:29:37.48,Stray Dogs - Default,Fjord,0000,0000,0000,,I do need that book.
+Dialogue: 0,1:29:38.61,1:29:42.12,Stray Dogs - Default,Fjord,0000,0000,0000,,The blank novel \Nsleeping in this town. {n: and there it is, this is the core of the current manga arc: he's searching for this book because he believes he can use it to eradicate every special ability in the world}
+Dialogue: 0,1:29:43.33,1:29:44.85,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Do you understand?
+Dialogue: 0,1:29:44.85,1:29:47.01,Stray Dogs - Default,Cool Knee Kicker,0000,0000,0000,,Do nothing to insult our clients.
+Dialogue: 0,1:29:47.01,1:29:50.56,Stray Dogs - Default,Dasai,0000,0000,0000,,You're the agency's mommy, \Naren't you, Kunikida-kun?
+Dialogue: 0,1:29:53.14,1:29:55.73,Stray Dogs - Default,Dasai,0000,0000,0000,,Don't overwork yourselves, you two.
+Dialogue: 0,1:29:56.15,1:29:57.03,Stray Dogs - Default,Fuguswatter,0000,0000,0000,,Off you go.
+Dialogue: 0,1:29:57.30,1:29:58.49,Stray Dogs - Default,Naomi,0000,0000,0000,,Take care.
+Dialogue: 0,1:29:58.85,1:30:01.23,Stray Dogs - Default,At sushi,0000,0000,0000,,We're leaving.
