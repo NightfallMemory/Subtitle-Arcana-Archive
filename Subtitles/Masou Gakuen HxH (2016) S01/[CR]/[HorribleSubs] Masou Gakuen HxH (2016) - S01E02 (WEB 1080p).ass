@@ -1,0 +1,420 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: HybridMain,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: HybridOverlap,Open Sans Semibold,38,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: HybridTop,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,13,13,24,1
+Style: HybridItalics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: HybridNote,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,13,13,20,1
+Style: WorldCards,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,1,8,13,13,107,1
+Style: Episode,Open Sans Semibold,27,&H00EBEFEF,&H000000FF,&H001B1F13,&H00000000,1,0,0,0,100,100,0,0,1,1,0,1,67,13,120,1
+Style: Title,Open Sans Semibold,30,&H00EBEFEF,&H000000FF,&H001B1F13,&H00000000,1,0,0,0,100,100,0,0,1,1,0,1,173,13,80,1
+Style: Atraxia,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,0,0,8,13,13,133,1
+Style: Illustration,Open Sans Semibold,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,1,60,13,69,1
+Style: HybridFlashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: HybridFlashbackItalics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Next Episode Title,Open Sans Semibold,36,&H00DE87E8,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,2,8,13,13,24,1
+Style: sign_3675_51_Hybrid_Heart,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00F065B1,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,344,344,20,1
+Style: sign_12330_145_Kei_Shikina,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H008C6B44,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,356,356,20,1
+Style: sign_21366_269_Connection_Faile,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H007A5225,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,311,311,20,1
+Style: sign_20916_262_Connection_Faile,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00423C34,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,311,311,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.47,0:00:01.98,WorldCards,,0000,0000,0000,,Fifteen Years Ago
+Dialogue: 0,0:00:00.84,0:00:01.98,HybridMain,Narr,0000,0000,0000,,Fifteen years ago.
+Dialogue: 0,0:00:03.48,0:00:05.10,WorldCards,,0000,0000,0000,,First World Collision
+Dialogue: 0,0:00:13.72,0:00:15.04,HybridMain,Narr,0000,0000,0000,,The purported Entrances,
+Dialogue: 0,0:00:15.04,0:00:18.91,HybridMain,,0000,0000,0000,,tears in reality that connected the \Nhuman world to another dimension,
+Dialogue: 0,0:00:19.35,0:00:22.41,HybridMain,Narr,0000,0000,0000,,suddenly appeared all over the planet.
+Dialogue: 0,0:00:23.94,0:00:27.04,HybridMain,Narr,0000,0000,0000,,Every military on the planet \Nsuffered a horrible defeat,
+Dialogue: 0,0:00:27.04,0:00:31.02,HybridMain,Narr,0000,0000,0000,,without even knowing\Nwho they were fighting.
+Dialogue: 0,0:00:38.43,0:00:41.93,HybridMain,Narr,0000,0000,0000,,The Entrances vanished two \Nweeks after they appeared,
+Dialogue: 0,0:00:42.24,0:00:44.39,HybridMain,Narr,0000,0000,0000,,and the danger seemed to have to passed.
+Dialogue: 0,0:00:44.84,0:00:45.68,HybridMain,Narr,0000,0000,0000,,But then,
+Dialogue: 0,0:00:46.06,0:00:47.06,WorldCards,Narr,0000,0000,0000,,Six Months Ago
+Dialogue: 0,0:00:47.06,0:00:49.07,WorldCards,Narr,0000,0000,0000,,Second World Collision
+Dialogue: 0,0:00:47.25,0:00:49.07,HybridMain,Narr,0000,0000,0000,,they came back.
+Dialogue: 0,0:00:53.10,0:00:56.68,HybridMain,Narr,0000,0000,0000,,The world's governments evacuated \Nto oceanic Megafloats.
+Dialogue: 0,0:00:56.68,0:01:01.30,HybridMain,Narr,0000,0000,0000,,Only a small portion of the population\Nwas able to escape.
+Dialogue: 0,0:01:02.52,0:01:06.67,HybridMain,R,0000,0000,0000,,The world is still being invaded\Nby enemies pouring in
+Dialogue: 0,0:01:06.67,0:01:08.96,HybridMain,,0000,0000,0000,,from the still-open Entrances.
+Dialogue: 0,0:01:12.67,0:01:16.20,HybridMain,R,0000,0000,0000,,But we haven't been sitting here\Ntwiddling our thumbs.
+Dialogue: 0,0:01:16.20,0:01:19.16,HybridMain,R,0000,0000,0000,,We've developed the Heart Hybrid Gears,
+Dialogue: 0,0:01:19.16,0:01:21.35,HybridMain,,0000,0000,0000,,capable of fighting the enemy's\NMagitech weapons.
+Dialogue: 0,0:01:21.86,0:01:25.69,HybridMain,R,0000,0000,0000,,This is Ataraxia's Heart Hybrid Gear\Nace team, Amaterasu.
+Dialogue: 0,0:01:25.69,0:01:28.35,HybridMain,R,0000,0000,0000,,They're some of our most important fighters.
+Dialogue: 0,0:01:28.74,0:01:30.60,HybridMain,R,0000,0000,0000,,You did wonderfully today.
+Dialogue: 0,0:01:30.60,0:01:33.40,HybridMain,R,0000,0000,0000,,As principal and high commander of Ataraxia,
+Dialogue: 0,0:01:33.40,0:01:34.64,HybridMain,R,0000,0000,0000,,I'm proud of you.
+Dialogue: 0,0:01:34.64,0:01:38.24,HybridMain,K,0000,0000,0000,,Sis, are you seriously both \Nprincipal and high commander?
+Dialogue: 0,0:01:38.84,0:01:42.74,HybridMain,R,0000,0000,0000,,And now we have a way of making \Nthe Gears even stronger.
+Dialogue: 0,0:01:43.20,0:01:44.75,HybridMain,A,0000,0000,0000,,Making the Gears stronger?
+Dialogue: 0,0:01:45.08,0:01:46.24,HybridMain,R,0000,0000,0000,,I'll introduce him.
+Dialogue: 0,0:01:46.24,0:01:49.75,HybridMain,R,0000,0000,0000,,This is Kizuna Hida, a 2nd-year student \Njoining the High School Tactical Division.
+Dialogue: 0,0:01:50.26,0:01:54.30,HybridMain,R,0000,0000,0000,,It's already been decided that he'll join \NAmaterasu upon coming to the school.
+Dialogue: 0,0:01:54.30,0:01:55.76,HybridMain,R,0000,0000,0000,,This is the key to our victory.
+Dialogue: 0,0:01:58.54,0:01:59.64,HybridMain,Y,0000,0000,0000,,Wow!
+Dialogue: 0,0:01:59.64,0:02:01.31,HybridMain,Y,0000,0000,0000,,I thought he was the shy type,
+Dialogue: 0,0:02:01.31,0:02:02.65,HybridMain,Y,0000,0000,0000,,but I guess I was wrong.
+Dialogue: 0,0:02:04.72,0:02:06.48,HybridMain,K,0000,0000,0000,,Wait, I...
+Dialogue: 0,0:02:06.48,0:02:08.16,HybridMain,H,0000,0000,0000,,What is this?!
+Dialogue: 0,0:02:08.16,0:02:09.36,HybridMain,K,0000,0000,0000,,Wait a second.
+Dialogue: 0,0:02:09.36,0:02:11.40,HybridMain,K,0000,0000,0000,,Um, you're...
+Dialogue: 0,0:02:11.69,0:02:14.28,HybridMain,K,0000,0000,0000,,High School Tactical Division, Class 2-1,
+Dialogue: 0,0:02:14.28,0:02:16.15,HybridMain,,0000,0000,0000,,Disciplinary Council member\NHayuru Himekawa!
+Dialogue: 0,0:02:16.52,0:02:19.96,HybridMain,K,0000,0000,0000,,What were you doing in \Nthe middle of a battle?!
+Dialogue: 0,0:02:19.96,0:02:21.36,HybridMain,K,0000,0000,0000,,I can't believe it!
+Dialogue: 0,0:02:21.36,0:02:22.16,HybridMain,K,0000,0000,0000,,It's indecent!
+Dialogue: 0,0:02:22.16,0:02:23.08,HybridMain,K,0000,0000,0000,,Disgusting!
+Dialogue: 0,0:02:23.08,0:02:24.04,HybridMain,K,0000,0000,0000,,Perverted!
+Dialogue: 0,0:02:24.04,0:02:25.51,HybridMain,R,0000,0000,0000,,This is not a game!
+Dialogue: 0,0:02:26.24,0:02:29.50,HybridMain,R,0000,0000,0000,,By sharing love and \Npleasure with Kizuna Hida,
+Dialogue: 0,0:02:29.50,0:02:33.69,HybridMain,R,0000,0000,0000,,the lost energy of a Heart Hybrid Gear\Ncan be dramatically restored.
+Dialogue: 0,0:02:33.21,0:02:36.67,sign_3675_51_Hybrid_Heart,R,0000,0000,0000,,{\fad(234,1)}Heart Hybrid
+Dialogue: 0,0:02:33.69,0:02:35.46,HybridMain,R,0000,0000,0000,,This is a Heart Hybrid.
+Dialogue: 0,0:02:37.16,0:02:38.92,HybridMain,A,0000,0000,0000,,Heart Hybrid...
+Dialogue: 0,0:02:39.24,0:02:40.36,HybridMain,R,0000,0000,0000,,These are your new orders:
+Dialogue: 0,0:02:40.36,0:02:44.31,HybridMain,R,0000,0000,0000,,the members of Amaterasu are to \Nrestore their energy and power up
+Dialogue: 0,0:02:44.31,0:02:48.81,HybridMain,R,0000,0000,0000,,by doing lewd things with Kizuna Hida!
+Dialogue: 0,0:02:51.86,0:02:54.38,HybridMain,R,0000,0000,0000,,This is true for anyone else \Nwho wants to join Amaterasu.
+Dialogue: 0,0:02:54.38,0:02:58.15,HybridMain,R,0000,0000,0000,,After joining, you'll be required to\NHybrid Heart with Kizuna.
+Dialogue: 0,0:02:58.82,0:03:01.02,HybridMain,K,0000,0000,0000,,Don't get the wrong idea, everyone!
+Dialogue: 0,0:03:01.02,0:03:03.58,HybridMain,K,0000,0000,0000,,I definitely didn't think of it as erotic!
+Dialogue: 0,0:03:10.32,0:03:12.46,HybridFlashback,K,0000,0000,0000,,Eros!
+Dialogue: 0,0:03:12.73,0:03:15.38,HybridMain,All,0000,0000,0000,,He's a pervert!
+Dialogue: 0,0:04:46.51,0:04:50.47,Episode,,0000,0000,0000,,{\fad(460,460)}Episode Two
+Dialogue: 0,0:04:46.51,0:04:50.47,Title,,0000,0000,0000,,{\fad(460,460)}Heart Hybrid
+Dialogue: 0,0:04:53.60,0:04:56.35,HybridMain,A,0000,0000,0000,,How can you wake up later than me?
+Dialogue: 0,0:04:57.03,0:04:58.54,HybridMain,A,0000,0000,0000,,You're slacking off.
+Dialogue: 0,0:04:58.54,0:05:00.27,HybridMain,K,0000,0000,0000,,Ch-Chidorigafuchi...
+Dialogue: 0,0:05:00.27,0:05:00.86,HybridMain,K,0000,0000,0000,,Why?
+Dialogue: 0,0:05:01.49,0:05:02.72,HybridMain,A,0000,0000,0000,,I've come to seduce you tonight.
+Dialogue: 0,0:05:02.72,0:05:04.44,HybridMain,K,0000,0000,0000,,It's morning.
+Dialogue: 0,0:05:04.44,0:05:06.30,HybridMain,A,0000,0000,0000,,They talk about the \N"morning walk of shame," right?
+Dialogue: 0,0:05:06.30,0:05:08.37,HybridMain,K,0000,0000,0000,,Well, maybe, but I don't think that's right.
+Dialogue: 0,0:05:09.28,0:05:11.82,HybridMain,A,0000,0000,0000,,Okay, let's get started.
+Dialogue: 0,0:05:11.82,0:05:12.96,HybridMain,,0000,0000,0000,,Wai—
+Dialogue: 0,0:05:17.27,0:05:21.00,HybridMain,A,0000,0000,0000,,O-Okay, Hybrid Heart with me right now!
+Dialogue: 0,0:05:21.40,0:05:23.58,HybridMain,K,0000,0000,0000,,W-Wait a second.
+Dialogue: 0,0:05:23.58,0:05:25.75,HybridMain,K,0000,0000,0000,,Why are you in such a hurry?
+Dialogue: 0,0:05:27.28,0:05:28.81,HybridMain,H,0000,0000,0000,,Um, Hida-kun?
+Dialogue: 0,0:05:28.81,0:05:29.89,HybridMain,H,0000,0000,0000,,Good morning.
+Dialogue: 0,0:05:30.50,0:05:31.89,HybridMain,K,0000,0000,0000,,Himekawa-san?
+Dialogue: 0,0:05:32.32,0:05:35.77,HybridMain,H,0000,0000,0000,,Maybe you had your reasons for \Ndoing what you did yesterday.
+Dialogue: 0,0:05:36.23,0:05:38.02,HybridMain,H,0000,0000,0000,,I'm sorry I got mad at you
+Dialogue: 0,0:05:38.52,0:05:40.47,HybridMain,,0000,0000,0000,,without hearing your side of the story.
+Dialogue: 0,0:05:42.64,0:05:43.53,HybridMain,H,0000,0000,0000,,Hida-kun?
+Dialogue: 0,0:05:46.05,0:05:47.48,HybridMain,H,0000,0000,0000,,I'm coming in, okay?
+Dialogue: 0,0:05:49.97,0:05:52.67,HybridMain,H,0000,0000,0000,,So, I know this doesn't \Nreally make it any better,
+Dialogue: 0,0:05:52.67,0:05:54.29,HybridMain,H,0000,0000,0000,,but I wanted to walk you to school...
+Dialogue: 0,0:05:58.96,0:06:00.92,HybridMain,H,0000,0000,0000,,You animal!
+Dialogue: 0,0:06:00.92,0:06:03.52,HybridMain,H,0000,0000,0000,,You took Aine-san to your room\Nto seduce her?!
+Dialogue: 0,0:06:03.52,0:06:04.04,HybridMain,K,0000,0000,0000,,That's not true!
+Dialogue: 0,0:06:04.04,0:06:06.01,HybridMain,H,0000,0000,0000,,How is it not true?!
+Dialogue: 0,0:06:06.01,0:06:08.39,HybridMain,A,0000,0000,0000,,Everything about it isn't true, Hayuru.
+Dialogue: 0,0:06:09.49,0:06:11.47,HybridMain,A,0000,0000,0000,,I'm the one who's going after him.
+Dialogue: 0,0:06:11.47,0:06:14.42,HybridMain,A,0000,0000,0000,,I'm trying to seduce him \Nto perform a Heart Hybrid.
+Dialogue: 0,0:06:14.42,0:06:16.03,HybridMain,,0000,0000,0000,,I-I've had it!
+Dialogue: 0,0:06:16.03,0:06:17.56,HybridMain,H,0000,0000,0000,,Neros!
+Dialogue: 0,0:06:17.96,0:06:20.73,HybridMain,H,0000,0000,0000,,I'll teach you both a lesson!
+Dialogue: 0,0:06:21.43,0:06:22.41,HybridMain,A,0000,0000,0000,,Zeros.
+Dialogue: 0,0:06:25.00,0:06:26.82,HybridMain,K,0000,0000,0000,,Ladies, don't do this in my room!
+Dialogue: 0,0:06:30.36,0:06:32.43,HybridMain,Gi,0000,0000,0000,,I heard the explosion \Nin the dorm this morning
+Dialogue: 0,0:06:32.43,0:06:34.58,HybridMain,,0000,0000,0000,,was Himekawa-san and Chidorigafuchi-san?
+Dialogue: 0,0:06:34.89,0:06:35.74,HybridMain,Gi,0000,0000,0000,,That's right!
+Dialogue: 0,0:06:35.74,0:06:37.42,HybridMain,Gi,0000,0000,0000,,It was in that Eros boy's room!
+Dialogue: 0,0:06:37.42,0:06:41.42,HybridMain,Gi,0000,0000,0000,,It doesn't make any sense that he's in the\Nsame dorm and classroom as the girls!
+Dialogue: 0,0:06:41.42,0:06:44.73,HybridFlashback,R,0000,0000,0000,,This is a way of allowing intimacy\Nto develop between them
+Dialogue: 0,0:06:44.73,0:06:47.19,HybridFlashback,R,0000,0000,0000,,through spending time together.
+Dialogue: 0,0:06:47.76,0:06:49.63,HybridMain,Gi,0000,0000,0000,,But still, you know...
+Dialogue: 0,0:06:51.03,0:06:52.30,HybridMain,Y,0000,0000,0000,,Everyone,
+Dialogue: 0,0:06:52.30,0:06:55.93,HybridMain,Y,0000,0000,0000,,it's wrong to judge someone based on \Ntheir appearance and first impressions.
+Dialogue: 0,0:06:55.93,0:07:00.17,HybridMain,Y,0000,0000,0000,,It's not too late to judge him\Nuntil after you've seen
+Dialogue: 0,0:07:00.17,0:07:02.35,HybridMain,,0000,0000,0000,,if he's worthy of special treatment.
+Dialogue: 0,0:07:02.76,0:07:05.08,HybridMain,Gi,0000,0000,0000,,How compassionate you are, Yurishia-sama!
+Dialogue: 0,0:07:05.08,0:07:06.79,HybridMain,Gi,0000,0000,0000,,I feel better just hearing you speak!
+Dialogue: 0,0:07:12.40,0:07:13.45,HybridMain,K,0000,0000,0000,,Yeah, figures...
+Dialogue: 0,0:07:13.45,0:07:15.37,HybridMain,Y,0000,0000,0000,,Good morning, Kizuna.
+Dialogue: 0,0:07:15.94,0:07:17.32,HybridMain,Y,0000,0000,0000,,M-Morning.
+Dialogue: 0,0:07:17.32,0:07:18.92,HybridMain,Gi,0000,0000,0000,,Hey, pervert-face!
+Dialogue: 0,0:07:18.92,0:07:23.47,HybridMain,Gi,0000,0000,0000,,Yurishia Farandole-sama is an American\Nmilitary ace and rich American celebrity!
+Dialogue: 0,0:07:23.47,0:07:26.84,HybridMain,Gi,0000,0000,0000,,You're not even worthy of speaking to her!
+Dialogue: 0,0:07:26.84,0:07:29.13,HybridMain,Y,0000,0000,0000,,Now, now. Calm down, everyone.
+Dialogue: 0,0:07:29.52,0:07:31.69,HybridMain,Y,0000,0000,0000,,Hey, is what the high commander says true?
+Dialogue: 0,0:07:31.69,0:07:34.03,HybridMain,Y,0000,0000,0000,,If I seek pleasure with you,
+Dialogue: 0,0:07:34.03,0:07:37.00,HybridMain,Y,0000,0000,0000,,will my Hybrid Count really go back up?
+Dialogue: 0,0:07:37.00,0:07:39.34,HybridMain,K,0000,0000,0000,,I-I don't really know,
+Dialogue: 0,0:07:39.34,0:07:41.19,HybridMain,,0000,0000,0000,,Farandole-san...
+Dialogue: 0,0:07:41.55,0:07:43.66,HybridMain,Y,0000,0000,0000,,Call me Yurishia.
+Dialogue: 0,0:07:43.66,0:07:45.15,HybridMain,Y,0000,0000,0000,,Would you like
+Dialogue: 0,0:07:45.72,0:07:47.00,HybridMain,,0000,0000,0000,,to try right now?
+Dialogue: 0,0:07:48.93,0:07:51.21,HybridMain,H,0000,0000,0000,,Yurishia-san, a classroom is a sacred place,
+Dialogue: 0,0:07:51.21,0:07:53.23,HybridMain,H,0000,0000,0000,,and I won't let you do anything lewd here!
+Dialogue: 0,0:07:53.23,0:07:55.53,HybridMain,Y,0000,0000,0000,,So it's fine as long as\Nwe're not in the classroom?
+Dialogue: 0,0:07:55.53,0:07:57.69,HybridMain,H,0000,0000,0000,,No, it's not fine anywhere!
+Dialogue: 0,0:07:57.69,0:07:58.50,HybridMain,Gi,0000,0000,0000,,Um...
+Dialogue: 0,0:08:00.32,0:08:02.16,HybridMain,Gi,0000,0000,0000,,Are you busy?
+Dialogue: 0,0:08:02.95,0:08:03.92,HybridMain,K,0000,0000,0000,,Who are you?
+Dialogue: 0,0:08:04.26,0:08:06.92,HybridMain,Gi,0000,0000,0000,,Sylvia Silkcut, Middle School Year 1!
+Dialogue: 0,0:08:07.52,0:08:10.65,HybridMain,Gi,0000,0000,0000,,The commander wants to talk \Nto you, Captain Kizuna!
+Dialogue: 0,0:08:12.11,0:08:15.05,HybridMain,Gi,0000,0000,0000,,This is the Heart Hybrid Gear research lab,
+Dialogue: 0,0:08:15.51,0:08:17.30,HybridMain,Gi,0000,0000,0000,,also known as the Nayuta Labs.
+Dialogue: 0,0:08:17.73,0:08:21.06,HybridMain,Gi,0000,0000,0000,,The basic technology for the\NHybrid Gears was developed here.
+Dialogue: 0,0:08:21.50,0:08:23.46,HybridMain,K,0000,0000,0000,,Yeah, that's right.
+Dialogue: 0,0:08:25.65,0:08:27.63,HybridMain,K,0000,0000,0000,,That's Dr. Nayuta Hida, right?
+Dialogue: 0,0:08:27.63,0:08:30.19,HybridMain,K,0000,0000,0000,,The super-important person \Nwho developed the Gears.
+Dialogue: 0,0:08:32.60,0:08:33.59,HybridItalics,M,0000,0000,0000,,Mom...
+Dialogue: 0,0:08:34.24,0:08:37.24,sign_12330_145_Kei_Shikina,M,0000,0000,0000,,Kei Shikina
+Dialogue: 0,0:08:35.60,0:08:36.73,HybridMain,,0000,0000,0000,,It's Sylvia.
+Dialogue: 0,0:08:36.73,0:08:37.24,HybridItalics,R,0000,0000,0000,,Come in.
+Dialogue: 0,0:08:39.97,0:08:41.20,HybridMain,K,0000,0000,0000,,Wow.
+Dialogue: 0,0:08:41.20,0:08:42.00,HybridMain,R,0000,0000,0000,,This way.
+Dialogue: 0,0:08:43.96,0:08:45.00,HybridMain,R,0000,0000,0000,,I'll introduce you.
+Dialogue: 0,0:08:45.41,0:08:46.86,HybridMain,R,0000,0000,0000,,This is the lab's director,
+Dialogue: 0,0:08:46.86,0:08:49.14,HybridMain,R,0000,0000,0000,,Chief Engineer Kei Shikina.
+Dialogue: 0,0:08:52.39,0:08:53.72,HybridItalics,Gi,0000,0000,0000,,Hello.
+Dialogue: 0,0:08:53.72,0:08:55.45,HybridItalics,Gi,0000,0000,0000,,I am Kei Shikina.
+Dialogue: 0,0:08:55.45,0:08:56.76,HybridItalics,Gi,0000,0000,0000,,You can call me Kei.
+Dialogue: 0,0:08:58.18,0:08:59.26,HybridMain,R,0000,0000,0000,,Well, don't let it bug you.
+Dialogue: 0,0:08:59.83,0:09:01.02,HybridMain,R,0000,0000,0000,,Anyway, Kizuna,
+Dialogue: 0,0:09:01.02,0:09:03.02,HybridMain,R,0000,0000,0000,,I'll give you this to start with.
+Dialogue: 0,0:09:03.67,0:09:07.20,HybridMain,R,0000,0000,0000,,It's a portable terminal that also \Nfunctions as a student handbook.
+Dialogue: 0,0:09:07.20,0:09:09.07,HybridMain,R,0000,0000,0000,,Yours is special.
+Dialogue: 0,0:09:09.07,0:09:11.30,HybridMain,R,0000,0000,0000,,Tap the icons of the Amaterasu members.
+Dialogue: 0,0:09:13.27,0:09:15.37,HybridMain,K,0000,0000,0000,,This is private information!
+Dialogue: 0,0:09:15.37,0:09:17.40,HybridMain,R,0000,0000,0000,,That's why it's special.
+Dialogue: 0,0:09:17.40,0:09:20.53,HybridMain,R,0000,0000,0000,,You can see one of the listings \Nis for Hybrid Count, right?
+Dialogue: 0,0:09:22.54,0:09:24.56,HybridMain,R,0000,0000,0000,,When their count gets below five percent,
+Dialogue: 0,0:09:24.56,0:09:26.72,HybridMain,,0000,0000,0000,,it becomes difficult to maintain their Gears.
+Dialogue: 0,0:09:26.72,0:09:27.42,HybridMain,R,0000,0000,0000,,Keep that in mind.
+Dialogue: 0,0:09:27.84,0:09:29.56,HybridMain,K,0000,0000,0000,,Keep that in mind?
+Dialogue: 0,0:09:29.56,0:09:30.54,HybridItalics,Gi,0000,0000,0000,,Simple.
+Dialogue: 0,0:09:30.54,0:09:33.17,HybridItalics,Gi,0000,0000,0000,,If you Hybrid Heart, the count will recover.
+Dialogue: 0,0:09:33.88,0:09:37.18,HybridMain,K,0000,0000,0000,,Gear energy doesn't recover naturally?
+Dialogue: 0,0:09:37.18,0:09:40.08,HybridMain,R,0000,0000,0000,,Natural recovery takes too long.
+Dialogue: 0,0:09:40.08,0:09:43.31,HybridItalics,Gi,0000,0000,0000,,And the energy loss in combat is huge.
+Dialogue: 0,0:09:43.66,0:09:47.77,HybridMain,R,0000,0000,0000,,So we need you and your Gear, Eros.
+Dialogue: 0,0:09:47.77,0:09:51.88,HybridMain,R,0000,0000,0000,,Our latest research shows that \NEros has a special function.
+Dialogue: 0,0:09:52.32,0:09:56.32,HybridItalics,Gi,0000,0000,0000,,Heart Hybrid, a method of\Ndrastically restoring Hybrid Counts.
+Dialogue: 0,0:09:54.82,0:09:56.32,sign_3675_51_Hybrid_Heart,Gi,0000,0000,0000,,{\fad(274,1)}Heart Hybrid
+Dialogue: 0,0:09:57.63,0:10:01.40,HybridMain,R,0000,0000,0000,,It's no exaggeration to say that the fate \Nof humanity rests on your shoulders.
+Dialogue: 0,0:10:01.40,0:10:03.83,HybridMain,R,0000,0000,0000,,Do your job as captain well.
+Dialogue: 0,0:10:04.12,0:10:05.39,HybridMain,K,0000,0000,0000,,Wait.
+Dialogue: 0,0:10:05.39,0:10:07.08,HybridMain,K,0000,0000,0000,,I'm captain?
+Dialogue: 0,0:10:07.08,0:10:09.56,HybridMain,R,0000,0000,0000,,Starting today,\Nyou're the captain of Amaterasu.
+Dialogue: 0,0:10:09.56,0:10:11.31,HybridMain,K,0000,0000,0000,,But that's so sudden!
+Dialogue: 0,0:10:11.31,0:10:14.21,HybridMain,Gi,0000,0000,0000,,I'll help as best I can!
+Dialogue: 0,0:10:14.57,0:10:18.27,HybridMain,R,0000,0000,0000,,Sylvia is going to keep me updated on\Nwhether things are proceeding smoothly
+Dialogue: 0,0:10:18.27,0:10:21.93,HybridMain,,0000,0000,0000,,between you and the members of Amaterasu.
+Dialogue: 0,0:10:21.93,0:10:22.70,HybridMain,Gi,0000,0000,0000,,Yes!
+Dialogue: 0,0:10:22.70,0:10:23.60,HybridMain,Gi,0000,0000,0000,,I'll do my best!
+Dialogue: 0,0:10:23.60,0:10:25.20,HybridMain,K,0000,0000,0000,,This is crazy...
+Dialogue: 0,0:10:25.20,0:10:26.48,HybridMain,R,0000,0000,0000,,Work hard.
+Dialogue: 0,0:10:26.48,0:10:27.49,HybridMain,R,0000,0000,0000,,You've got a mission now.
+Dialogue: 0,0:10:28.06,0:10:29.26,HybridMain,K,0000,0000,0000,,A mission?
+Dialogue: 0,0:10:32.58,0:10:34.98,HybridItalics,R,0000,0000,0000,,I'll go over the mission again.
+Dialogue: 0,0:10:35.34,0:10:38.22,HybridItalics,R,0000,0000,0000,,Your job is to gather data\Non a nearby island
+Dialogue: 0,0:10:38.22,0:10:39.90,HybridItalics,R,0000,0000,0000,,and recover resource samples.
+Dialogue: 0,0:10:39.90,0:10:42.70,HybridItalics,R,0000,0000,0000,,This is your first mission \Nas Amaterasu captain.
+Dialogue: 0,0:10:42.70,0:10:43.74,HybridItalics,R,0000,0000,0000,,Stay sharp out there.
+Dialogue: 0,0:10:44.04,0:10:46.62,HybridMain,H,0000,0000,0000,,How can someone so lewd be our captain?!
+Dialogue: 0,0:10:46.62,0:10:49.66,HybridMain,H,0000,0000,0000,,I'll go on ahead and scope out the area!
+Dialogue: 0,0:10:50.18,0:10:51.38,HybridMain,K,0000,0000,0000,,Wait a second—
+Dialogue: 0,0:10:51.69,0:10:53.79,HybridMain,Y,0000,0000,0000,,Oh, Hayuru, you're so silly.
+Dialogue: 0,0:10:53.79,0:10:54.59,HybridItalics,R,0000,0000,0000,,Yurishia.
+Dialogue: 0,0:10:54.59,0:10:57.01,HybridMain,Y,0000,0000,0000,,Oh? What is it, High Commander?
+Dialogue: 0,0:10:57.34,0:10:59.40,HybridItalics,R,0000,0000,0000,,I want you to be careful with something.
+Dialogue: 0,0:10:59.40,0:11:03.76,HybridItalics,R,0000,0000,0000,,Your Hybrid Count is at\N twenty percent, very low.
+Dialogue: 0,0:11:03.76,0:11:05.79,HybridItalics,R,0000,0000,0000,,If you encounter the enemy,
+Dialogue: 0,0:11:05.79,0:11:07.64,HybridItalics,,0000,0000,0000,,avoid combat as much as possible.
+Dialogue: 0,0:11:07.98,0:11:11.05,HybridMain,Y,0000,0000,0000,,Don't worry. This place is safe.
+Dialogue: 0,0:11:11.05,0:11:14.65,HybridMain,Y,0000,0000,0000,,Shouldn't you worry about \Nyour little brother instead?
+Dialogue: 0,0:11:15.14,0:11:17.40,HybridItalics,Y,0000,0000,0000,,He doesn't seem like\Nhe's flying very steadily...
+Dialogue: 0,0:11:17.75,0:11:20.76,HybridMain,Y,0000,0000,0000,,Okay, I'll go catch up to Hayuru.
+Dialogue: 0,0:11:22.16,0:11:24.54,HybridMain,K,0000,0000,0000,,They're both so fast.
+Dialogue: 0,0:11:24.54,0:11:25.98,HybridMain,A,0000,0000,0000,,Of course.
+Dialogue: 0,0:11:25.98,0:11:27.45,HybridMain,A,0000,0000,0000,,Hayuru is Japan's ace,
+Dialogue: 0,0:11:27.45,0:11:30.15,HybridMain,A,0000,0000,0000,,and Yurishia is America's ace.
+Dialogue: 0,0:11:30.15,0:11:31.54,HybridMain,K,0000,0000,0000,,I-I see.
+Dialogue: 0,0:11:32.00,0:11:34.92,HybridMain,K,0000,0000,0000,,By the way, how good are you?
+Dialogue: 0,0:11:34.92,0:11:36.60,HybridMain,K,0000,0000,0000,,Japan's #2?
+Dialogue: 0,0:11:36.60,0:11:38.30,HybridMain,K,0000,0000,0000,,Or some foreign ace?
+Dialogue: 0,0:11:39.24,0:11:41.29,HybridMain,A,0000,0000,0000,,Don't underestimate me.
+Dialogue: 0,0:11:41.29,0:11:44.30,HybridMain,A,0000,0000,0000,,I'm the ace of the entire Earth.
+Dialogue: 0,0:11:44.30,0:11:45.05,HybridMain,K,0000,0000,0000,,The entire Earth?
+Dialogue: 0,0:11:45.36,0:11:47.08,HybridMain,A,0000,0000,0000,,Oh no, I got it wrong.
+Dialogue: 0,0:11:47.08,0:11:48.72,HybridMain,A,0000,0000,0000,,I meant the entire universe.
+Dialogue: 0,0:11:48.72,0:11:50.22,HybridMain,K,0000,0000,0000,,The entire universe, huh?
+Dialogue: 0,0:11:56.72,0:11:58.76,HybridItalics,Gi,0000,0000,0000,,Data recovery initiated.
+Dialogue: 0,0:11:58.76,0:12:01.07,HybridItalics,Gi,0000,0000,0000,,It will take two hours or so to finish.
+Dialogue: 0,0:12:01.45,0:12:03.56,HybridMain,K,0000,0000,0000,,So we get our samples during that time?
+Dialogue: 0,0:12:03.56,0:12:05.85,HybridMain,Y,0000,0000,0000,,Okay, let's go, Kizuna!
+Dialogue: 0,0:12:07.39,0:12:09.08,HybridMain,Y,0000,0000,0000,,Make sure you escort me right.
+Dialogue: 0,0:12:09.08,0:12:10.74,HybridMain,Y,0000,0000,0000,,Come on!
+Dialogue: 0,0:12:18.53,0:12:20.94,HybridMain,Y,0000,0000,0000,,You're such a worrywart,\N aren't you, Kizuna?
+Dialogue: 0,0:12:22.72,0:12:26.64,HybridMain,Y,0000,0000,0000,,The Entrances only appear on\Nland masses above a certain size.
+Dialogue: 0,0:12:26.64,0:12:28.38,HybridMain,Y,0000,0000,0000,,So this tiny island is safe.
+Dialogue: 0,0:12:28.38,0:12:30.22,HybridMain,K,0000,0000,0000,,No, that's not it...
+Dialogue: 0,0:12:30.57,0:12:33.48,HybridMain,Y,0000,0000,0000,,So, what are the specs on your Gear?
+Dialogue: 0,0:12:34.37,0:12:36.73,HybridMain,K,0000,0000,0000,,I'm not sure how to answer that.
+Dialogue: 0,0:12:37.04,0:12:38.89,HybridMain,Y,0000,0000,0000,,That's right.
+Dialogue: 0,0:12:38.89,0:12:40.73,HybridMain,Y,0000,0000,0000,,So what's your kill score?
+Dialogue: 0,0:12:42.21,0:12:43.49,HybridMain,K,0000,0000,0000,,Zero.
+Dialogue: 0,0:12:43.79,0:12:46.46,HybridMain,Y,0000,0000,0000,,Then you're really a complete rookie?
+Dialogue: 0,0:12:46.46,0:12:47.74,HybridMain,Y,0000,0000,0000,,What about combat experience?
+Dialogue: 0,0:12:47.74,0:12:49.99,HybridMain,K,0000,0000,0000,,The battle yesterday was my first.
+Dialogue: 0,0:12:50.36,0:12:53.85,HybridMain,K,0000,0000,0000,,But all I did was grab \NChidorigafuchi as she fell.
+Dialogue: 0,0:12:53.85,0:12:55.94,HybridMain,K,0000,0000,0000,,I didn't do anything else, really.
+Dialogue: 0,0:12:57.04,0:13:00.43,HybridMain,K,0000,0000,0000,,How many enemies have \Nyou defeated, Yurishia?
+Dialogue: 0,0:13:00.43,0:13:02.03,HybridMain,Y,0000,0000,0000,,About three hundred.
+Dialogue: 0,0:13:02.03,0:13:02.68,HybridMain,K,0000,0000,0000,,Three—?!
+Dialogue: 0,0:13:02.68,0:13:05.26,HybridMain,K,0000,0000,0000,,I guess America's ace\Nreally is amazing after all.
+Dialogue: 0,0:13:06.18,0:13:08.26,HybridMain,Y,0000,0000,0000,,I'm not amazing at all.
+Dialogue: 0,0:13:08.58,0:13:09.47,HybridMain,K,0000,0000,0000,,Yurishia?
+Dialogue: 0,0:13:09.80,0:13:12.27,HybridMain,Y,0000,0000,0000,,Come, let's regroup with Hayuru and Aine.
+Dialogue: 0,0:13:20.28,0:13:21.74,HybridMain,H,0000,0000,0000,,Okay.
+Dialogue: 0,0:13:21.74,0:13:24.72,HybridMain,H,0000,0000,0000,,Aine-san, let's go meet Yurishia-san and—
+Dialogue: 0,0:13:28.20,0:13:29.40,HybridMain,H,0000,0000,0000,,An Entrance?!
+Dialogue: 0,0:13:29.40,0:13:30.94,HybridMain,H,0000,0000,0000,,But that can't be!
+Dialogue: 0,0:13:30.94,0:13:32.54,HybridMain,A,0000,0000,0000,,Equip your Gear, Hayuru!
+Dialogue: 0,0:14:22.17,0:14:22.97,HybridMain,Y,0000,0000,0000,,Fire!
+Dialogue: 0,0:14:25.64,0:14:27.08,HybridMain,K,0000,0000,0000,,This is Kizuna!
+Dialogue: 0,0:14:27.08,0:14:28.72,HybridMain,K,0000,0000,0000,,Ataraxia, come in!
+Dialogue: 0,0:14:28.72,0:14:30.50,HybridMain,K,0000,0000,0000,,Shikina-san! Sis!
+Dialogue: 0,0:14:32.35,0:14:33.85,sign_20916_262_Connection_Faile,K,0000,0000,0000,,Connection Failed
+Dialogue: 0,0:14:34.23,0:14:35.16,HybridMain,Y,0000,0000,0000,,Don't bother.
+Dialogue: 0,0:14:35.16,0:14:36.92,HybridMain,Y,0000,0000,0000,,When an Entrance appears,
+Dialogue: 0,0:14:36.92,0:14:39.60,HybridMain,,0000,0000,0000,,normal communications stop working.
+Dialogue: 0,0:14:39.88,0:14:42.01,HybridMain,Y,0000,0000,0000,,But Gear users can talk to one another.
+Dialogue: 0,0:14:42.01,0:14:43.61,HybridMain,Y,0000,0000,0000,,Aine? Hayuru?
+Dialogue: 0,0:14:45.45,0:14:47.51,HybridMain,Y,0000,0000,0000,,No... why?
+Dialogue: 0,0:14:51.11,0:14:52.27,HybridMain,H,0000,0000,0000,,Yurishia-san!
+Dialogue: 0,0:14:51.11,0:14:53.12,sign_21366_269_Connection_Faile,Y,0000,0000,0000,,Connection Failed
+Dialogue: 0,0:14:52.27,0:14:53.12,HybridMain,H,0000,0000,0000,,Hida-kun!
+Dialogue: 0,0:14:53.57,0:14:54.73,HybridMain,H,0000,0000,0000,,It's not working.
+Dialogue: 0,0:14:54.73,0:14:56.31,HybridMain,Y,0000,0000,0000,,Hayuru, look!
+Dialogue: 0,0:14:58.52,0:14:59.87,HybridMain,Y,0000,0000,0000,,What is this?
+Dialogue: 0,0:15:06.54,0:15:07.38,HybridMain,H,0000,0000,0000,,Blade!
+Dialogue: 0,0:15:08.72,0:15:09.59,HybridMain,H,0000,0000,0000,,No way!
+Dialogue: 0,0:15:10.04,0:15:11.67,HybridMain,A,0000,0000,0000,,We're locked in?
+Dialogue: 0,0:15:15.95,0:15:18.59,HybridMain,Y,0000,0000,0000,,Kizuna, go call the others.
+Dialogue: 0,0:15:18.59,0:15:20.62,HybridMain,K,0000,0000,0000,,But then you'll be all by yourself.
+Dialogue: 0,0:15:20.62,0:15:23.24,HybridMain,Y,0000,0000,0000,,You'll just slow me down!
+Dialogue: 0,0:15:23.24,0:15:24.40,HybridMain,Y,0000,0000,0000,,Go!
+Dialogue: 0,0:15:25.46,0:15:26.62,HybridMain,K,0000,0000,0000,,Fine!
+Dialogue: 0,0:15:26.62,0:15:27.45,HybridMain,K,0000,0000,0000,,Eros!
+Dialogue: 0,0:15:29.27,0:15:31.02,HybridMain,Y,0000,0000,0000,,Now then...
+Dialogue: 0,0:15:33.47,0:15:35.74,HybridMain,Y,0000,0000,0000,,You boys ready?
+Dialogue: 0,0:15:36.48,0:15:37.69,HybridMain,K,0000,0000,0000,,Damn it!
+Dialogue: 0,0:15:37.69,0:15:39.91,HybridMain,K,0000,0000,0000,,A girl's risking her life in combat!
+Dialogue: 0,0:15:40.29,0:15:41.37,HybridMain,K,0000,0000,0000,,And I...
+Dialogue: 0,0:15:44.49,0:15:45.29,HybridMain,K,0000,0000,0000,,Yurishia!
+Dialogue: 0,0:15:52.92,0:15:56.48,HybridMain,Y,0000,0000,0000,,My Hybrid Count is down to six percent.
+Dialogue: 0,0:15:56.48,0:15:57.67,HybridMain,Y,0000,0000,0000,,That's cutting it close.
+Dialogue: 0,0:16:11.98,0:16:13.27,HybridMain,Y,0000,0000,0000,,A Dragorie?
+Dialogue: 0,0:16:13.68,0:16:15.99,HybridMain,Y,0000,0000,0000,,That's a Category-A Magitech weapon.
+Dialogue: 0,0:16:18.36,0:16:19.36,HybridMain,Y,0000,0000,0000,,Fire!
+Dialogue: 0,0:16:21.59,0:16:23.54,HybridMain,Y,0000,0000,0000,,My beam's power is dropping!
+Dialogue: 0,0:16:25.23,0:16:27.59,HybridMain,Y,0000,0000,0000,,I can't move my hands...
+Dialogue: 0,0:16:27.97,0:16:29.26,HybridMain,Y,0000,0000,0000,,Or my legs...
+Dialogue: 0,0:16:30.16,0:16:33.32,HybridMain,Y,0000,0000,0000,,My body feels so heavy...
+Dialogue: 0,0:16:37.03,0:16:38.01,HybridMain,Y,0000,0000,0000,,Wait!
+Dialogue: 0,0:16:43.32,0:16:44.90,HybridMain,Y,0000,0000,0000,,My chest...
+Dialogue: 0,0:16:52.82,0:16:55.24,HybridMain,K,0000,0000,0000,,Yurishia!
+Dialogue: 0,0:17:07.61,0:17:08.38,HybridMain,Y,0000,0000,0000,,Kizuna!
+Dialogue: 0,0:17:09.83,0:17:10.63,HybridMain,,0000,0000,0000,,Kizuna!
+Dialogue: 0,0:17:11.88,0:17:13.36,HybridMain,Y,0000,0000,0000,,Wh-Why?
+Dialogue: 0,0:17:13.36,0:17:15.42,HybridMain,Y,0000,0000,0000,,Why did you come back?
+Dialogue: 0,0:17:15.42,0:17:17.14,HybridMain,k,0000,0000,0000,,Yurishia...
+Dialogue: 0,0:17:18.26,0:17:19.72,HybridMain,,0000,0000,0000,,Run...
+Dialogue: 0,0:17:20.59,0:17:21.39,HybridMain,Y,0000,0000,0000,,Why?
+Dialogue: 0,0:17:21.83,0:17:25.13,HybridMain,Y,0000,0000,0000,,Why are you doing this for me\Nwhen we've just met?
+Dialogue: 0,0:17:25.54,0:17:28.40,HybridMain,K,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:17:28.88,0:17:32.89,HybridMain,K,0000,0000,0000,,A girl's... in danger.
+Dialogue: 0,0:17:33.72,0:17:35.90,HybridMain,K,0000,0000,0000,,Of course I have to help her.
+Dialogue: 0,0:17:37.73,0:17:40.66,HybridItalics,Y,0000,0000,0000,,That's the only reason he did this?
+Dialogue: 0,0:17:42.00,0:17:45.00,HybridMain,K,0000,0000,0000,,Run, Yurishia!
+Dialogue: 0,0:17:53.52,0:17:54.52,HybridMain,Y,0000,0000,0000,,No...
+Dialogue: 0,0:17:57.09,0:17:58.22,HybridMain,Y,0000,0000,0000,,Kizuna...
+Dialogue: 0,0:17:58.64,0:17:59.72,HybridMain,,0000,0000,0000,,Don't...
+Dialogue: 0,0:18:01.88,0:18:03.14,HybridMain,Y,0000,0000,0000,,I...
+Dialogue: 0,0:18:10.79,0:18:12.61,HybridMain,Y,0000,0000,0000,,No...
+Dialogue: 0,0:18:29.17,0:18:32.67,HybridItalics,Y,0000,0000,0000,,What is this sensation?
+Dialogue: 0,0:18:33.02,0:18:35.66,HybridItalics,,0000,0000,0000,,What is going on?
+Dialogue: 0,0:18:36.60,0:18:40.30,HybridMain,Y,0000,0000,0000,,Amazing. My whole body \Nis overflowing with power!
+Dialogue: 0,0:18:41.60,0:18:45.18,HybridMain,Y,0000,0000,0000,,So this is a Heart Hybrid?
+Dialogue: 0,0:18:52.21,0:18:55.30,HybridMain,Y,0000,0000,0000,,Thank you for coming to save me, Kizuna.
+Dialogue: 0,0:19:01.81,0:19:02.95,HybridMain,Y,0000,0000,0000,,Just watch.
+Dialogue: 0,0:19:03.37,0:19:06.45,HybridMain,Y,0000,0000,0000,,This is my...
+Dialogue: 0,0:19:08.38,0:19:10.17,HybridMain,Y,0000,0000,0000,,Showtime!
+Dialogue: 0,0:19:11.32,0:19:15.21,HybridMain,Y,0000,0000,0000,,Hellfire!
+Dialogue: 0,0:19:32.85,0:19:36.36,HybridMain,A,0000,0000,0000,,This time!
+Dialogue: 0,0:19:36.64,0:19:37.50,HybridMain,A,0000,0000,0000,,What?
+Dialogue: 0,0:19:40.48,0:19:42.43,HybridMain,H,0000,0000,0000,,The Entrance is gone!
+Dialogue: 0,0:19:42.43,0:19:44.32,HybridItalics,Y,0000,0000,0000,,Aine! Hayuru!
+Dialogue: 0,0:19:44.32,0:19:45.34,HybridItalics,Y,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:19:45.34,0:19:46.62,HybridMain,H,0000,0000,0000,,Yurishia-san?
+Dialogue: 0,0:19:46.62,0:19:48.04,HybridMain,H,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:19:49.07,0:19:50.59,HybridItalics,Y,0000,0000,0000,,The best I've ever been!
+Dialogue: 0,0:19:50.59,0:19:52.49,HybridItalics,Y,0000,0000,0000,,I did a Heart Hybrid with Kizuna,
+Dialogue: 0,0:19:52.49,0:19:54.57,HybridItalics,,0000,0000,0000,,and now I'm better than ever!
+Dialogue: 0,0:19:54.57,0:19:56.50,HybridItalics,K,0000,0000,0000,,Hey, Yurishia...
+Dialogue: 0,0:19:56.50,0:20:00.17,HybridMain,H,0000,0000,0000,,So that means you, too, Yurishia-san?
+Dialogue: 0,0:20:00.17,0:20:01.72,HybridMain,H,0000,0000,0000,,How could this be?!
+Dialogue: 0,0:20:06.84,0:20:08.77,HybridMain,R,0000,0000,0000,,We let our guard down today.
+Dialogue: 0,0:20:09.27,0:20:12.64,HybridItalics,Gi,0000,0000,0000,,When the tide goes out,\Nthat island increases in size
+Dialogue: 0,0:20:12.64,0:20:15.36,HybridItalics,,0000,0000,0000,,and becomes large enough \Nfor an Entrance to appear.
+Dialogue: 0,0:20:15.36,0:20:16.40,HybridItalics,Gi,0000,0000,0000,,We missed that.
+Dialogue: 0,0:20:16.78,0:20:20.80,HybridMain,R,0000,0000,0000,,If I'd known this was going to happen, \NI wouldn't have made Yurishia go
+Dialogue: 0,0:20:20.80,0:20:22.40,HybridMain,R,0000,0000,0000,,with her low Hybrid Count.
+Dialogue: 0,0:20:23.03,0:20:25.66,HybridMain,K,0000,0000,0000,,After her Count got in the red zone,
+Dialogue: 0,0:20:26.28,0:20:28.41,HybridMain,K,0000,0000,0000,,she seemed like she was really in pain.
+Dialogue: 0,0:20:34.77,0:20:37.92,HybridMain,Gi,0000,0000,0000,,Are you sure you don't \Nwant to tell him, Reiri?
+Dialogue: 0,0:20:40.56,0:20:43.68,HybridMain,Gi,0000,0000,0000,,I think we can wait until you're ready.
+Dialogue: 0,0:20:51.52,0:20:52.96,HybridMain,A,0000,0000,0000,,You're late.
+Dialogue: 0,0:20:52.96,0:20:55.44,HybridMain,A,0000,0000,0000,,How could you keep me waiting?
+Dialogue: 0,0:20:55.94,0:20:57.74,HybridMain,K,0000,0000,0000,,Why are you here?
+Dialogue: 0,0:20:57.74,0:21:00.32,HybridMain,A,0000,0000,0000,,To do a Heart Hybrid, of course.
+Dialogue: 0,0:21:00.32,0:21:01.98,HybridMain,A,0000,0000,0000,,You don't even understand that?
+Dialogue: 0,0:21:01.98,0:21:04.03,HybridMain,K,0000,0000,0000,,I refuse to understand!
+Dialogue: 0,0:21:04.03,0:21:05.87,HybridMain,Y,0000,0000,0000,,Kizuna!
+Dialogue: 0,0:21:05.87,0:21:06.94,HybridMain,K,0000,0000,0000,,Yurishia?
+Dialogue: 0,0:21:07.40,0:21:08.95,HybridMain,Y,0000,0000,0000,,Are your wounds okay?
+Dialogue: 0,0:21:09.49,0:21:11.68,HybridMain,K,0000,0000,0000,,What about you? Are you okay?
+Dialogue: 0,0:21:11.68,0:21:12.46,HybridMain,Y,0000,0000,0000,,Yes!
+Dialogue: 0,0:21:12.46,0:21:14.21,HybridMain,Y,0000,0000,0000,,It's all thanks to you, Kizuna.
+Dialogue: 0,0:21:14.52,0:21:15.71,HybridMain,Y,0000,0000,0000,,So...
+Dialogue: 0,0:21:16.46,0:21:18.52,HybridMain,,0000,0000,0000,,Let's do some more, okay?
+Dialogue: 0,0:21:18.52,0:21:20.43,HybridMain,K,0000,0000,0000,,I'm first, Yurishia!
+Dialogue: 0,0:21:20.43,0:21:21.46,HybridMain,Y,0000,0000,0000,,Oh my, Aine.
+Dialogue: 0,0:21:21.76,0:21:24.14,HybridMain,Y,0000,0000,0000,,You want to do a Heart Hybrid again?
+Dialogue: 0,0:21:24.14,0:21:25.56,HybridMain,Y,0000,0000,0000,,Well, I'm sure you do.
+Dialogue: 0,0:21:25.56,0:21:28.27,HybridMain,Y,0000,0000,0000,,The one before was basically an accident!
+Dialogue: 0,0:21:29.48,0:21:31.29,HybridMain,H,0000,0000,0000,,Hida-kun, this is Himekawa.
+Dialogue: 0,0:21:31.29,0:21:33.07,HybridMain,H,0000,0000,0000,,Are you feeling okay?
+Dialogue: 0,0:21:33.07,0:21:35.47,HybridMain,H,0000,0000,0000,,As a fellow Amaterasu member...
+Dialogue: 0,0:21:38.12,0:21:39.88,HybridMain,H,0000,0000,0000,,How indecent!
+Dialogue: 0,0:21:40.58,0:21:42.07,HybridMain,H,0000,0000,0000,,Neros!
+Dialogue: 0,0:21:42.94,0:21:44.67,HybridMain,H,0000,0000,0000,,I'll punish you!
+Dialogue: 0,0:21:44.67,0:21:46.22,HybridMain,A,0000,0000,0000,,Not happening.
+Dialogue: 0,0:21:46.22,0:21:46.99,HybridMain,Y,0000,0000,0000,,Come on!
+Dialogue: 0,0:21:47.57,0:21:49.98,HybridMain,K,0000,0000,0000,,No fighting in my room!
+Dialogue: 0,0:21:49.98,0:21:51.47,HybridMain,,0000,0000,0000,,Why, you...
+Dialogue: 0,0:21:51.47,0:21:53.72,HybridMain,Gi,0000,0000,0000,,High Commander, I've got my report!
+Dialogue: 0,0:23:24.96,0:23:39.98,Illustration,,0000,0000,0000,,Illustration: Shinpei Kobayashi
+Dialogue: 0,0:23:25.92,0:23:28.75,HybridTop,Gi,0000,0000,0000,,Kyoto, Okinawa, Akihabara!
+Dialogue: 0,0:23:28.75,0:23:32.78,HybridTop,Gi,0000,0000,0000,,Megafloat Japan's the perfect \Nplace for a date, isn't it, Kizuna?
+Dialogue: 0,0:23:32.78,0:23:34.14,HybridTop,Gi,0000,0000,0000,,A date?
+Dialogue: 0,0:23:34.14,0:23:36.68,HybridTop,Gi,0000,0000,0000,,Are Yurishia-san and Hida-kun...?
+Dialogue: 0,0:23:35.05,0:23:39.98,Next Episode Title,,0001,0001,0160,,{\fad(900,1)}Next time: Gentle Days - Memories
+Dialogue: 0,0:23:37.60,0:23:39.74,HybridTop,Gi,0000,0000,0000,,Lewd!

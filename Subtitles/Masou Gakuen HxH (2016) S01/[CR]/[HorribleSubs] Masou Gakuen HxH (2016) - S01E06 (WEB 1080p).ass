@@ -1,0 +1,325 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: HybridMain,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: HybridOverlap,Open Sans Semibold,38,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: HybridTop,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,13,13,24,1
+Style: HybridItalics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: HybridNote,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,13,13,20,1
+Style: Episode,Open Sans Semibold,27,&H00EBEFEF,&H000000FF,&H001B1F13,&H00000000,1,0,0,0,100,100,0,0,1,1,0,1,67,13,120,1
+Style: Title,Open Sans Semibold,30,&H00EBEFEF,&H000000FF,&H001B1F13,&H00000000,1,0,0,0,100,100,0,0,1,1,0,1,173,13,80,1
+Style: Atraxia,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,0,0,8,13,13,133,1
+Style: Illustration,Open Sans Semibold,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,1,63,13,69,1
+Style: HybridFlashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: HybridFlashbackItalics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Next Episode Title,Open Sans Semibold,36,&H00DE87E8,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,2,8,13,13,24,1
+Style: sign_33686_317_Illustration__Ch,Open Sans Semibold,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,1,493,0,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:30.52,0:01:34.48,Episode,,0000,0000,0000,,{\fad(460,460)}Episode 6
+Dialogue: 0,0:01:30.52,0:01:34.48,Title,,0000,0000,0000,,{\fad(460,460)}World-Splitter Gladius
+Dialogue: 0,0:01:37.42,0:01:40.49,HybridItalics,Gi,0000,0000,0000,,This is the first person from the \Nother dimension we've encountered.
+Dialogue: 0,0:01:40.49,0:01:42.51,HybridItalics,Gi,0000,0000,0000,,Her identifier is Aldea.
+Dialogue: 0,0:01:42.98,0:01:46.50,HybridItalics,Gi,0000,0000,0000,,The name of her Magitech armor is Zeeru.
+Dialogue: 0,0:01:46.82,0:01:49.75,HybridItalics,Gi,0000,0000,0000,,It appears similar to a Heart Hybrid Gear,
+Dialogue: 0,0:01:50.24,0:01:54.30,HybridItalics,Gi,0000,0000,0000,,but its special ability \Nallows it to warp space.
+Dialogue: 0,0:01:55.24,0:01:58.13,HybridMain,R,0000,0000,0000,,So this is what reflected the Pulverizer?
+Dialogue: 0,0:01:59.54,0:02:02.68,HybridMain,H,0000,0000,0000,,And this is what trapped us before, right?
+Dialogue: 0,0:02:03.16,0:02:05.89,HybridMain,K,0000,0000,0000,,She said the Batlantis Empire \Nlies beyond the Entrances.
+Dialogue: 0,0:02:06.48,0:02:10.11,HybridMain,K,0000,0000,0000,,Is that the enemy that's sending \Nin the Magitech weapons?
+Dialogue: 0,0:02:10.11,0:02:11.65,HybridMain,R,0000,0000,0000,,We don't know yet.
+Dialogue: 0,0:02:11.65,0:02:15.19,HybridItalics,Gi,0000,0000,0000,,We've named the three-headed dragon Tri-Head.
+Dialogue: 0,0:02:15.19,0:02:18.75,HybridMain,Gi,0000,0000,0000,,Since its power vastly exceeds \Nthat of a Category-A weapon,
+Dialogue: 0,0:02:18.75,0:02:21.16,HybridItalics,Gi,0000,0000,0000,,we've designated a new Super-Category Class.
+Dialogue: 0,0:02:25.87,0:02:27.33,HybridMain,H,0000,0000,0000,,Commander!
+Dialogue: 0,0:02:27.33,0:02:29.92,HybridMain,H,0000,0000,0000,,We should head back there right away!
+Dialogue: 0,0:02:29.92,0:02:30.88,HybridMain,R,0000,0000,0000,,No.
+Dialogue: 0,0:02:30.88,0:02:33.04,HybridMain,R,0000,0000,0000,,This mission is complete.
+Dialogue: 0,0:02:34.55,0:02:35.72,HybridMain,H,0000,0000,0000,,Why?!
+Dialogue: 0,0:02:35.72,0:02:38.55,HybridMain,H,0000,0000,0000,,That Magitech weapon is dangerous! \NWe can't just let it sit out there!
+Dialogue: 0,0:02:39.88,0:02:42.72,HybridMain,R,0000,0000,0000,,We infiltrated enemy-occupied territory\Nfor the first time,
+Dialogue: 0,0:02:42.72,0:02:45.10,HybridMain,R,0000,0000,0000,,found a new type of Magitech weapon,
+Dialogue: 0,0:02:45.10,0:02:47.56,HybridMain,R,0000,0000,0000,,and discovered, plus made contact with,\Notherworld people.
+Dialogue: 0,0:02:48.18,0:02:50.35,HybridMain,R,0000,0000,0000,,That's more than enough for one mission.
+Dialogue: 0,0:02:50.35,0:02:52.56,HybridMain,H,0000,0000,0000,,I can't accept that!
+Dialogue: 0,0:02:52.56,0:02:55.02,HybridMain,H,0000,0000,0000,,We should wipe them out\Nwith everything we have!
+Dialogue: 0,0:02:55.02,0:02:56.57,HybridMain,K,0000,0000,0000,,What's gotten into you, Himekawa?
+Dialogue: 0,0:02:56.83,0:02:58.07,HybridMain,H,0000,0000,0000,,Nothing!
+Dialogue: 0,0:02:58.07,0:03:00.57,HybridMain,H,0000,0000,0000,,I'm just suggesting the obvious!
+Dialogue: 0,0:03:03.66,0:03:06.04,HybridMain,H,0000,0000,0000,,And if we capture that person \Nfrom the other dimension,
+Dialogue: 0,0:03:06.04,0:03:08.04,HybridMain,H,0000,0000,0000,,we can get more information!
+Dialogue: 0,0:03:08.04,0:03:10.12,HybridMain,Y,0000,0000,0000,,Calm down, Hayuru.
+Dialogue: 0,0:03:10.56,0:03:13.83,HybridMain,Y,0000,0000,0000,,If we go without a plan,\Nwe'll just lose again.
+Dialogue: 0,0:03:15.00,0:03:16.96,HybridMain,H,0000,0000,0000,,Getting cold feet, are we?
+Dialogue: 0,0:03:16.96,0:03:19.84,HybridMain,H,0000,0000,0000,,After all that bragging about being\Nthe American ace and the strongest?
+Dialogue: 0,0:03:20.88,0:03:22.68,HybridMain,Y,0000,0000,0000,,What did you say?
+Dialogue: 0,0:03:22.68,0:03:25.22,HybridMain,H,0000,0000,0000,,Hida-kun, you understand, right?
+Dialogue: 0,0:03:26.39,0:03:27.56,HybridMain,K,0000,0000,0000,,Well...
+Dialogue: 0,0:03:28.18,0:03:29.60,HybridMain,H,0000,0000,0000,,I'm disappointed in you!
+Dialogue: 0,0:03:46.79,0:03:47.70,HybridMain,H,0000,0000,0000,,Okay.
+Dialogue: 0,0:03:54.75,0:03:56.00,HybridMain,H,0000,0000,0000,,Himekawa?
+Dialogue: 0,0:04:03.80,0:04:05.01,HybridMain,H,0000,0000,0000,,It can't be.
+Dialogue: 0,0:04:14.44,0:04:16.02,HybridMain,A,0000,0000,0000,,Oh my.
+Dialogue: 0,0:04:17.31,0:04:18.90,HybridMain,A,0000,0000,0000,,You came back by yourself?
+Dialogue: 0,0:04:19.40,0:04:21.57,HybridMain,H,0000,0000,0000,,Where is that Magitech weapon?
+Dialogue: 0,0:04:22.15,0:04:23.78,HybridMain,A,0000,0000,0000,,You're not interested in me at all?
+Dialogue: 0,0:04:23.78,0:04:24.66,HybridMain,A,0000,0000,0000,,How rude.
+Dialogue: 0,0:04:25.07,0:04:28.20,HybridMain,A,0000,0000,0000,,Well, not like you're the one\NI'm after, either.
+Dialogue: 0,0:04:28.74,0:04:29.62,HybridMain,A,0000,0000,0000,,Zeeru.
+Dialogue: 0,0:04:31.33,0:04:33.66,HybridMain,H,0000,0000,0000,,I've got questions for you, too!
+Dialogue: 0,0:04:33.92,0:04:35.54,HybridMain,A,0000,0000,0000,,I'll play with you.
+Dialogue: 0,0:04:36.46,0:04:38.04,HybridMain,A,0000,0000,0000,,Come on.
+Dialogue: 0,0:04:39.84,0:04:41.01,HybridMain,H,0000,0000,0000,,Blades!
+Dialogue: 0,0:05:05.67,0:05:07.11,HybridMain,H,0000,0000,0000,,That strange technique again...
+Dialogue: 0,0:05:11.54,0:05:14.16,HybridMain,A,0000,0000,0000,,I'll show you something even more fun.
+Dialogue: 0,0:05:16.34,0:05:18.00,HybridMain,A,0000,0000,0000,,Labyrinth Cube!
+Dialogue: 0,0:05:18.00,0:05:19.29,HybridMain,H,0000,0000,0000,,Wh-What's this?
+Dialogue: 0,0:05:20.46,0:05:25.55,HybridMain,A,0000,0000,0000,,The Labyrinth Cube, an inescapable prison\Nmade by warping space.
+Dialogue: 0,0:05:27.89,0:05:31.06,HybridMain,A,0000,0000,0000,,I control everything that happens inside.
+Dialogue: 0,0:05:31.80,0:05:35.93,HybridMain,A,0000,0000,0000,,I know, I can slice the space inside into \Ntiny little pieces and rearrange them.
+Dialogue: 0,0:05:36.47,0:05:39.61,HybridMain,A,0000,0000,0000,,It will rip your body apart.
+Dialogue: 0,0:05:55.79,0:05:59.67,HybridMain,Y,0000,0000,0000,,You'd better let our little kitty cat go \Nor you're going to have a big problem!
+Dialogue: 0,0:06:07.01,0:06:08.26,HybridMain,K,0000,0000,0000,,Himekawa!
+Dialogue: 0,0:06:12.72,0:06:14.93,HybridMain,K,0000,0000,0000,,You idiot! That was crazy!
+Dialogue: 0,0:06:14.93,0:06:17.77,HybridMain,H,0000,0000,0000,,H-Hida-kun... But why?
+Dialogue: 0,0:06:18.14,0:06:19.77,HybridMain,K,0000,0000,0000,,I can't let you fight alone!
+Dialogue: 0,0:06:19.77,0:06:21.27,HybridMain,K,0000,0000,0000,,We're on the same team!
+Dialogue: 0,0:06:27.82,0:06:30.32,HybridMain,A,0000,0000,0000,,You need to die, too.
+Dialogue: 0,0:06:42.21,0:06:44.34,HybridMain,A,0000,0000,0000,,You really are amazing.
+Dialogue: 0,0:06:44.80,0:06:47.46,HybridMain,A,0000,0000,0000,,Hey, would you tell me your name?
+Dialogue: 0,0:06:48.05,0:06:50.18,HybridMain,C,0000,0000,0000,,You should be grateful that I'm telling you.
+Dialogue: 0,0:06:50.93,0:06:52.72,HybridMain,C,0000,0000,0000,,Aine Chidorigafuchi.
+Dialogue: 0,0:06:53.10,0:06:54.56,HybridMain,A,0000,0000,0000,,A-Aine?
+Dialogue: 0,0:06:55.72,0:06:59.73,HybridMain,A,0000,0000,0000,,Would you tell me the name \Nof that Magitech armor, too?
+Dialogue: 0,0:07:00.60,0:07:02.35,HybridMain,C,0000,0000,0000,,Magitech armor?
+Dialogue: 0,0:07:02.35,0:07:04.02,HybridMain,C,0000,0000,0000,,What's that?
+Dialogue: 0,0:07:04.02,0:07:05.86,HybridMain,C,0000,0000,0000,,This is a Heart Hybrid Gear.
+Dialogue: 0,0:07:05.86,0:07:06.48,HybridMain,C,0000,0000,0000,,Zeros.
+Dialogue: 0,0:07:08.28,0:07:13.49,HybridMain,A,0000,0000,0000,,The goddess dances with the void, \Ndeath, the Emperor, and eternity...
+Dialogue: 0,0:07:15.16,0:07:17.83,HybridMain,C,0000,0000,0000,,Were these your last words?
+Dialogue: 0,0:07:17.83,0:07:19.87,HybridMain,C,0000,0000,0000,,It didn't make any sense to me!
+Dialogue: 0,0:07:20.83,0:07:22.08,HybridMain,A,0000,0000,0000,,H-Hey!
+Dialogue: 0,0:07:28.92,0:07:30.42,HybridMain,A,0000,0000,0000,,Jeez...
+Dialogue: 0,0:07:30.42,0:07:32.84,HybridMain,A,0000,0000,0000,,You guys can play with him.
+Dialogue: 0,0:07:44.86,0:07:46.04,HybridMain,C,0000,0000,0000,,There it is.
+Dialogue: 0,0:07:46.04,0:07:49.49,HybridMain,A,0000,0000,0000,,If your Magitech armor really is Zeros,
+Dialogue: 0,0:07:49.49,0:07:51.99,HybridMain,A,0000,0000,0000,,then show me your power.
+Dialogue: 0,0:07:59.08,0:08:00.04,HybridMain,H,0000,0000,0000,,How dare you?!
+Dialogue: 0,0:08:00.58,0:08:01.62,HybridMain,K,0000,0000,0000,,Hey!
+Dialogue: 0,0:08:02.79,0:08:04.04,HybridMain,K,0000,0000,0000,,Don't push yourself too hard.
+Dialogue: 0,0:08:08.92,0:08:10.38,HybridMain,K,0000,0000,0000,,Your Hybrid Count!
+Dialogue: 0,0:08:15.15,0:08:16.30,HybridItalics,R,0000,0000,0000,,You idiot!
+Dialogue: 0,0:08:16.30,0:08:18.64,HybridItalics,R,0000,0000,0000,,What kind of fool leaves without permission?!
+Dialogue: 0,0:08:21.39,0:08:22.56,HybridMain,K,0000,0000,0000,,Sis!
+Dialogue: 0,0:08:22.56,0:08:23.39,HybridMain,R,0000,0000,0000,,Kurumizawa.
+Dialogue: 0,0:08:23.73,0:08:24.72,HybridMain,Gi,0000,0000,0000,,Roger.
+Dialogue: 0,0:08:26.78,0:08:29.38,HybridItalics,R,0000,0000,0000,,Kizuna, Climax Hybrid!
+Dialogue: 0,0:08:33.49,0:08:35.07,HybridMain,K,0000,0000,0000,,The love room!
+Dialogue: 0,0:08:35.07,0:08:36.45,HybridMain,K,0000,0000,0000,,Let's go, Himekawa.
+Dialogue: 0,0:08:47.54,0:08:48.29,HybridMain,K,0000,0000,0000,,Himekawa...
+Dialogue: 0,0:08:48.29,0:08:50.46,HybridMain,H,0000,0000,0000,,I'm a terrible person!
+Dialogue: 0,0:08:50.46,0:08:52.84,HybridMain,H,0000,0000,0000,,I try to correct everyone else's behavior,
+Dialogue: 0,0:08:52.84,0:08:54.63,HybridMain,H,0000,0000,0000,,but I cause more trouble than everyone else.
+Dialogue: 0,0:08:55.13,0:08:58.80,HybridMain,H,0000,0000,0000,,My selfishness put my team in danger!
+Dialogue: 0,0:08:59.64,0:09:02.64,HybridMain,H,0000,0000,0000,,In the end, I'm no better than this.
+Dialogue: 0,0:09:03.85,0:09:06.77,HybridMain,K,0000,0000,0000,,Himekawa, what happened with you\Nand that Magitech weapon?
+Dialogue: 0,0:09:09.94,0:09:12.53,HybridMain,H,0000,0000,0000,,It's not my first time...
+Dialogue: 0,0:09:13.44,0:09:15.20,HybridMain,,0000,0000,0000,,...fighting that Magitech weapon.
+Dialogue: 0,0:09:17.91,0:09:20.37,HybridMain,H,0000,0000,0000,,During the second world collision,
+Dialogue: 0,0:09:20.37,0:09:24.37,HybridMain,H,0000,0000,0000,,my mission was to escort\Nthe evacuees aboard the Megafloat.
+Dialogue: 0,0:09:25.71,0:09:30.34,HybridMain,H,0000,0000,0000,,That's when that Magitech weapon appeared.
+Dialogue: 0,0:09:39.21,0:09:41.14,HybridMain,H,0000,0000,0000,,I couldn't do anything.
+Dialogue: 0,0:09:41.64,0:09:43.60,HybridMain,H,0000,0000,0000,,I couldn't do anything!
+Dialogue: 0,0:09:45.68,0:09:47.94,HybridMain,H,0000,0000,0000,,If I had more power...
+Dialogue: 0,0:09:48.85,0:09:50.27,HybridMain,H,0000,0000,0000,,If I was stronger...
+Dialogue: 0,0:09:51.52,0:09:53.28,HybridMain,H,0000,0000,0000,,I could've protected them!
+Dialogue: 0,0:09:54.40,0:09:59.57,HybridMain,H,0000,0000,0000,,I was just being arrogant because \Neveryone said I was Japan's ace.
+Dialogue: 0,0:09:59.57,0:10:02.74,HybridMain,H,0000,0000,0000,,I did so many interviews, \Nwent to so many parties,
+Dialogue: 0,0:10:02.74,0:10:04.70,HybridMain,H,0000,0000,0000,,that I didn't train as much as I should have.
+Dialogue: 0,0:10:05.92,0:10:08.29,HybridMain,H,0000,0000,0000,,If I'd trained harder
+Dialogue: 0,0:10:08.29,0:10:09.88,HybridMain,H,0000,0000,0000,,and gotten stronger,
+Dialogue: 0,0:10:09.88,0:10:12.21,HybridMain,H,0000,0000,0000,,I could've saved many lives!
+Dialogue: 0,0:10:13.00,0:10:16.97,HybridMain,H,0000,0000,0000,,I don't want to make that mistake ever again!
+Dialogue: 0,0:10:17.74,0:10:20.22,HybridMain,H,0000,0000,0000,,I control myself, discipline myself,
+Dialogue: 0,0:10:20.59,0:10:22.64,HybridMain,H,0000,0000,0000,,live an ordered life,
+Dialogue: 0,0:10:22.64,0:10:24.10,HybridMain,H,0000,0000,0000,,abandon my worldly desires,
+Dialogue: 0,0:10:24.10,0:10:26.06,HybridMain,H,0000,0000,0000,,and train every day
+Dialogue: 0,0:10:26.06,0:10:28.73,HybridMain,H,0000,0000,0000,,so that I can give everything \NI have to my mission.
+Dialogue: 0,0:10:29.52,0:10:31.81,HybridMain,H,0000,0000,0000,,That was how I decided I'd live.
+Dialogue: 0,0:10:32.40,0:10:33.19,HybridMain,H,0000,0000,0000,,But...
+Dialogue: 0,0:10:33.61,0:10:36.61,HybridMain,K,0000,0000,0000,,But you shouldn't just focus on\Nthe lives you couldn't save.
+Dialogue: 0,0:10:37.11,0:10:39.91,HybridMain,K,0000,0000,0000,,There were lots of lives you did save.
+Dialogue: 0,0:10:40.35,0:10:41.91,HybridMain,H,0000,0000,0000,,You don't know what you're talking about.
+Dialogue: 0,0:10:41.91,0:10:44.20,HybridMain,H,0000,0000,0000,,Where can I find someone like that?
+Dialogue: 0,0:10:44.20,0:10:45.83,HybridMain,K,0000,0000,0000,,Right in front of you.
+Dialogue: 0,0:10:47.33,0:10:49.79,HybridMain,K,0000,0000,0000,,When I first came to Ataraxia,
+Dialogue: 0,0:10:49.79,0:10:52.50,HybridMain,K,0000,0000,0000,,you saved me from the attack \Nby that Viking, right?
+Dialogue: 0,0:10:55.26,0:10:57.55,HybridMain,K,0000,0000,0000,,B-But even if I hadn't saved you—
+Dialogue: 0,0:10:57.55,0:11:00.18,HybridMain,K,0000,0000,0000,,I couldn't fight back then.
+Dialogue: 0,0:11:01.30,0:11:03.26,HybridMain,K,0000,0000,0000,,You saved me,
+Dialogue: 0,0:11:03.26,0:11:06.47,HybridMain,K,0000,0000,0000,,which is why I was able to \Nsave Yurishia and Aine later.
+Dialogue: 0,0:11:07.47,0:11:09.34,HybridMain,K,0000,0000,0000,,You've saved a lot of people.
+Dialogue: 0,0:11:09.34,0:11:11.40,HybridMain,K,0000,0000,0000,,You just don't realize it.
+Dialogue: 0,0:11:11.40,0:11:12.90,HybridMain,H,0000,0000,0000,,That's not...
+Dialogue: 0,0:11:12.90,0:11:14.61,HybridMain,K,0000,0000,0000,,I know how you feel.
+Dialogue: 0,0:11:15.11,0:11:18.65,HybridMain,H,0000,0000,0000,,What could you possibly know?
+Dialogue: 0,0:11:19.32,0:11:23.99,HybridMain,K,0000,0000,0000,,I had a Heart Hybrid Gear, \Nbut I couldn't fight.
+Dialogue: 0,0:11:24.57,0:11:26.79,HybridMain,K,0000,0000,0000,,I had to protect other people,
+Dialogue: 0,0:11:26.79,0:11:29.20,HybridMain,K,0000,0000,0000,,but in reality,\NI couldn't even protect myself.
+Dialogue: 0,0:11:30.37,0:11:31.50,HybridMain,K,0000,0000,0000,,But now,
+Dialogue: 0,0:11:32.21,0:11:34.88,HybridMain,K,0000,0000,0000,,if the two of us work together, we can fight.
+Dialogue: 0,0:11:35.34,0:11:38.76,HybridMain,K,0000,0000,0000,,If we Climax Hybrid and bring out the\NImmoral Weapon lying dormant within you,
+Dialogue: 0,0:11:38.76,0:11:40.34,HybridMain,K,0000,0000,0000,,we can defeat Tri-Head.
+Dialogue: 0,0:11:41.01,0:11:44.18,HybridMain,H,0000,0000,0000,,We can defeat Tri-Head?
+Dialogue: 0,0:11:44.18,0:11:44.85,HybridMain,K,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:45.35,0:11:49.14,HybridMain,H,0000,0000,0000,,If we work... together?
+Dialogue: 0,0:11:51.31,0:11:52.64,HybridMain,K,0000,0000,0000,,Will you do it?
+Dialogue: 0,0:12:09.83,0:12:10.75,HybridMain,H,0000,0000,0000,,No...
+Dialogue: 0,0:12:20.13,0:12:22.84,HybridMain,K,0000,0000,0000,,Your breasts are very shapely.
+Dialogue: 0,0:12:23.36,0:12:25.18,HybridMain,K,0000,0000,0000,,Can you show them to me?
+Dialogue: 0,0:12:25.47,0:12:29.22,HybridMain,H,0000,0000,0000,,I don't know how you can say something \Nso lewd with a straight face.
+Dialogue: 0,0:12:30.52,0:12:34.48,HybridMain,H,0000,0000,0000,,You think my breasts are small, don't you?
+Dialogue: 0,0:12:34.90,0:12:36.44,HybridMain,K,0000,0000,0000,,That's not true.
+Dialogue: 0,0:12:38.27,0:12:39.15,HybridMain,H,0000,0000,0000,,You're lying.
+Dialogue: 0,0:12:39.15,0:12:41.74,HybridMain,H,0000,0000,0000,,I know you compare them \Nto Aine-san's and Yurishia-san's!
+Dialogue: 0,0:12:46.57,0:12:49.58,HybridMain,K,0000,0000,0000,,N-No! Not there!
+Dialogue: 0,0:12:49.58,0:12:52.54,HybridMain,K,0000,0000,0000,,N-No, I can't!
+Dialogue: 0,0:12:52.54,0:12:54.33,HybridMain,K,0000,0000,0000,,You're sensitive, aren't you?
+Dialogue: 0,0:12:54.33,0:12:56.29,HybridMain,H,0000,0000,0000,,N-No, th-this is...
+Dialogue: 0,0:12:56.79,0:13:00.84,HybridMain,K,0000,0000,0000,,Your breasts are every bit as good\N as Aine's and Yurishia's.
+Dialogue: 0,0:13:00.84,0:13:03.80,HybridMain,H,0000,0000,0000,,R-Really?
+Dialogue: 0,0:13:04.17,0:13:05.01,HybridMain,K,0000,0000,0000,,Yeah.
+Dialogue: 0,0:13:06.18,0:13:07.34,HybridMain,H,0000,0000,0000,,I'm glad.
+Dialogue: 0,0:13:17.12,0:13:18.65,HybridMain,H,0000,0000,0000,,N-No!
+Dialogue: 0,0:13:24.74,0:13:27.74,HybridMain,H,0000,0000,0000,,N-No! This is too embarrassing!
+Dialogue: 0,0:13:42.34,0:13:46.42,HybridMain,H,0000,0000,0000,,So this is a Heart Hybrid...
+Dialogue: 0,0:13:46.42,0:13:49.68,HybridMain,H,0000,0000,0000,,It's like the whole world's changed.
+Dialogue: 0,0:13:49.68,0:13:51.93,HybridMain,K,0000,0000,0000,,We're just getting started.
+Dialogue: 0,0:13:56.22,0:13:58.56,HybridMain,H,0000,0000,0000,,Hida-kun, what is this?
+Dialogue: 0,0:13:59.06,0:14:02.07,HybridMain,K,0000,0000,0000,,I prepared a situation I thought you'd like.
+Dialogue: 0,0:14:03.01,0:14:04.61,HybridMain,H,0000,0000,0000,,Th-This is...
+Dialogue: 0,0:14:05.32,0:14:08.82,HybridMain,H,0000,0000,0000,,I don't like this!
+Dialogue: 0,0:14:11.99,0:14:13.20,HybridMain,H,0000,0000,0000,,No!
+Dialogue: 0,0:14:23.42,0:14:25.46,HybridMain,K,0000,0000,0000,,Himekawa, are you okay?
+Dialogue: 0,0:14:25.46,0:14:28.17,HybridMain,H,0000,0000,0000,,Yes, but...
+Dialogue: 0,0:14:28.17,0:14:31.47,HybridMain,H,0000,0000,0000,,Don't touch me there too much!
+Dialogue: 0,0:14:32.24,0:14:34.47,HybridMain,H,0000,0000,0000,,I-I told you no!
+Dialogue: 0,0:14:48.19,0:14:51.24,HybridMain,K,0000,0000,0000,,Himekawa, this isn't...
+Dialogue: 0,0:14:52.61,0:14:54.24,HybridMain,H,0000,0000,0000,,I-I don't meow!
+Dialogue: 0,0:14:54.24,0:14:55.62,HybridMain,H,0000,0000,0000,,Don't ask!
+Dialogue: 0,0:14:55.62,0:14:58.20,HybridMain,H,0000,0000,0000,,It's nothing! It's nothing!
+Dialogue: 0,0:14:58.75,0:15:00.25,HybridMain,H,0000,0000,0000,,Don't pull it!
+Dialogue: 0,0:15:00.25,0:15:00.71,HybridMain,K,0000,0000,0000,,Okay.
+Dialogue: 0,0:15:06.84,0:15:08.71,HybridMain,K,0000,0000,0000,,Are you okay, Himekawa?
+Dialogue: 0,0:15:11.84,0:15:13.51,HybridMain,H,0000,0000,0000,,I'm fine.
+Dialogue: 0,0:15:14.01,0:15:17.39,HybridMain,H,0000,0000,0000,,So don't touch my tail anymore.
+Dialogue: 0,0:15:18.26,0:15:19.85,HybridMain,K,0000,0000,0000,,I'm sorry, Himekawa.
+Dialogue: 0,0:15:21.02,0:15:24.64,HybridMain,K,0000,0000,0000,,We have to make our \NClimax Hybrid a success.
+Dialogue: 0,0:15:39.41,0:15:43.54,HybridMain,H,0000,0000,0000,,So this is a Climax Hybrid...
+Dialogue: 0,0:15:52.51,0:15:53.92,HybridMain,A,0000,0000,0000,,What is that?
+Dialogue: 0,0:15:55.67,0:15:56.55,HybridMain,H,0000,0000,0000,,Neros!
+Dialogue: 0,0:16:33.84,0:16:35.34,HybridMain,H,0000,0000,0000,,Gladius!
+Dialogue: 0,0:16:47.02,0:16:49.36,HybridMain,H,0000,0000,0000,,Hayuru Himekawa! Here I come!
+Dialogue: 0,0:16:50.44,0:16:52.61,HybridItalics,H,0000,0000,0000,,I'll never forget how I \Nfailed to protect Japan,
+Dialogue: 0,0:16:52.61,0:16:55.57,HybridItalics,H,0000,0000,0000,,or all the people I couldn't save,
+Dialogue: 0,0:16:56.91,0:16:58.78,HybridItalics,H,0000,0000,0000,,or that girl's smile.
+Dialogue: 0,0:16:58.78,0:17:00.83,HybridItalics,H,0000,0000,0000,,But I won't let it stop me anymore!
+Dialogue: 0,0:17:09.84,0:17:10.79,HybridMain,H,0000,0000,0000,,Begone.
+Dialogue: 0,0:17:17.13,0:17:18.26,HybridMain,A,0000,0000,0000,,In one hit?
+Dialogue: 0,0:17:18.26,0:17:19.68,HybridMain,A,0000,0000,0000,,What the hell is that?
+Dialogue: 0,0:17:20.14,0:17:21.76,HybridMain,K,0000,0000,0000,,I could tell you,
+Dialogue: 0,0:17:22.80,0:17:25.06,HybridMain,K,0000,0000,0000,,but there are things we \Nwant to know from you!
+Dialogue: 0,0:17:25.68,0:17:28.35,HybridMain,A,0000,0000,0000,,I just saw how you move,
+Dialogue: 0,0:17:29.44,0:17:31.36,HybridMain,A,0000,0000,0000,,so I think it'll be difficult!
+Dialogue: 0,0:17:43.47,0:17:45.43,HybridItalics,K,0000,0000,0000,,Eros has no weapons.
+Dialogue: 0,0:17:45.43,0:17:48.04,HybridItalics,K,0000,0000,0000,,Is there no point in doing \Na Climax Hybrid with it?
+Dialogue: 0,0:17:49.92,0:17:51.92,HybridItalics,K,0000,0000,0000,,If I had Neros's weapon...
+Dialogue: 0,0:17:53.73,0:17:54.55,HybridItalics,K,0000,0000,0000,,Is this...?
+Dialogue: 0,0:18:01.76,0:18:03.31,HybridMain,A,0000,0000,0000,,What?
+Dialogue: 0,0:18:06.97,0:18:08.73,HybridMain,Gi,0000,0000,0000,,Neros's blade?
+Dialogue: 0,0:18:08.73,0:18:11.52,HybridMain,R,0000,0000,0000,,It's probably an effect of his \NClimax Hybrid with Himekawa.
+Dialogue: 0,0:18:12.02,0:18:12.82,HybridMain,R,0000,0000,0000,,But...
+Dialogue: 0,0:18:13.19,0:18:16.44,HybridMain,,0000,0000,0000,,...does this mean Eros is also \Ncapable of creating matter?
+Dialogue: 0,0:18:17.15,0:18:19.57,HybridMain,A,0000,0000,0000,,That's an interesting power you've got.
+Dialogue: 0,0:18:23.07,0:18:24.33,HybridMain,H,0000,0000,0000,,Blades!
+Dialogue: 0,0:18:34.58,0:18:36.38,HybridMain,K,0000,0000,0000,,There's nowhere left to run.
+Dialogue: 0,0:18:39.01,0:18:42.01,HybridMain,A,0000,0000,0000,,I didn't expect this to be so much fun.
+Dialogue: 0,0:18:42.01,0:18:45.18,HybridMain,A,0000,0000,0000,,I'm glad I came to Lemuria after all.
+Dialogue: 0,0:18:49.93,0:18:51.43,HybridMain,Gi,0000,0000,0000,,Enemy battleship incoming!
+Dialogue: 0,0:18:51.43,0:18:52.48,HybridMain,Gi,0000,0000,0000,,500-meter class!
+Dialogue: 0,0:18:52.85,0:18:54.40,HybridMain,Gi,0000,0000,0000,,Three more of them!
+Dialogue: 0,0:18:54.40,0:18:56.48,HybridMain,Gi,0000,0000,0000,,And four 1000-meter classes!
+Dialogue: 0,0:18:57.50,0:18:58.08,HybridItalics,Gi,0000,0000,0000,,So many—
+Dialogue: 0,0:18:58.08,0:19:00.03,HybridMain,Gi,0000,0000,0000,,2000-meter class, incoming!
+Dialogue: 0,0:19:01.04,0:19:02.82,HybridMain,A,0000,0000,0000,,Now we get serious.
+Dialogue: 0,0:19:03.95,0:19:06.12,HybridMain,A,0000,0000,0000,,It's time to kill.
+Dialogue: 0,0:19:24.72,0:19:25.76,HybridMain,R,0000,0000,0000,,Is that...?
+Dialogue: 0,0:19:26.68,0:19:27.97,HybridMain,K,0000,0000,0000,,What's that?
+Dialogue: 0,0:19:28.43,0:19:29.77,HybridMain,H,0000,0000,0000,,Is that from the other dimension?
+Dialogue: 0,0:19:30.81,0:19:31.56,HybridMain,Y,0000,0000,0000,,Nope.
+Dialogue: 0,0:19:32.00,0:19:33.48,HybridMain,Y,0000,0000,0000,,They're allies.
+Dialogue: 0,0:19:34.15,0:19:35.62,HybridMain,H,0000,0000,0000,,That light...
+Dialogue: 0,0:19:36.15,0:19:38.56,HybridMain,Y,0000,0000,0000,,America's Heart Hybrid Gear unit.
+Dialogue: 0,0:19:38.56,0:19:39.65,HybridMain,Y,0000,0000,0000,,The Masters.
+Dialogue: 0,0:19:39.98,0:19:42.19,HybridMain,A,0000,0000,0000,,This is getting even more fun.
+Dialogue: 0,0:19:42.19,0:19:43.42,HybridMain,A,0000,0000,0000,,Now, let's dance—
+Dialogue: 0,0:19:43.42,0:19:44.39,HybridItalics,G,0000,0000,0000,,Aldea.
+Dialogue: 0,0:19:45.19,0:19:46.74,HybridItalics,G,0000,0000,0000,,You're satisfied, right?
+Dialogue: 0,0:19:46.74,0:19:48.16,HybridItalics,G,0000,0000,0000,,Come back.
+Dialogue: 0,0:19:48.70,0:19:49.66,HybridMain,A,0000,0000,0000,,Grabel.
+Dialogue: 0,0:19:49.66,0:19:51.15,HybridMain,A,0000,0000,0000,,What are you doing here?
+Dialogue: 0,0:19:51.15,0:19:54.33,HybridItalics,G,0000,0000,0000,,I came to capture an idiot \Nwho disobeyed orders...
+Dialogue: 0,0:19:54.33,0:19:55.90,HybridItalics,,0000,0000,0000,,...and broke regulations.
+Dialogue: 0,0:19:55.90,0:19:57.83,HybridMain,A,0000,0000,0000,,Don't be a wet blanket.
+Dialogue: 0,0:19:57.83,0:19:59.67,HybridMain,A,0000,0000,0000,,Things are just about to get good.
+Dialogue: 0,0:19:59.67,0:20:00.88,HybridMain,G,0000,0000,0000,,Aldea!
+Dialogue: 0,0:20:02.42,0:20:03.93,HybridMain,A,0000,0000,0000,,Fine.
+Dialogue: 0,0:20:10.31,0:20:13.60,HybridMain,Gi,0000,0000,0000,,The enemy fleet is retreating \Ninto the Entrance!
+Dialogue: 0,0:20:15.39,0:20:18.60,HybridMain,Gi,0000,0000,0000,,It's a message from Megafloat West USA.
+Dialogue: 0,0:20:19.02,0:20:22.95,HybridMain,Gi,0000,0000,0000,,"Hi, girls. The cavalry is here.
+Dialogue: 0,0:20:23.65,0:20:26.28,HybridMain,Gi,0000,0000,0000,,Now that we're here, you're safe.
+Dialogue: 0,0:20:26.28,0:20:30.45,HybridMain,Gi,0000,0000,0000,,Start choosing your dresses \Nfor the victory party."
+Dialogue: 0,0:20:30.87,0:20:32.71,HybridMain,R,0000,0000,0000,,Ask them what they're doing here.
+Dialogue: 0,0:20:33.33,0:20:36.62,HybridMain,Gi,0000,0000,0000,,Um, what are you doing here?
+Dialogue: 0,0:20:38.75,0:20:39.46,HybridMain,Gi,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:39.46,0:20:41.26,HybridMain,Gi,0000,0000,0000,,You're tracing a mysterious radio signal?
+Dialogue: 0,0:20:41.26,0:20:43.22,HybridMain,R,0000,0000,0000,,So the same thing as us?
+Dialogue: 0,0:20:49.84,0:20:53.68,HybridMain,H,0000,0000,0000,,Did that fleet come just to get Aldea?
+Dialogue: 0,0:20:54.40,0:20:56.73,HybridMain,Y,0000,0000,0000,,I'm curious about the other dimension.
+Dialogue: 0,0:20:56.73,0:21:00.73,HybridMain,Y,0000,0000,0000,,But I'm more curious about Hayuru.
+Dialogue: 0,0:21:01.08,0:21:03.07,HybridMain,H,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:21:03.07,0:21:06.65,HybridMain,Y,0000,0000,0000,,You clearly did a Climax Hybrid, didn't you?
+Dialogue: 0,0:21:07.57,0:21:09.03,HybridMain,A,0000,0000,0000,,No way.
+Dialogue: 0,0:21:09.03,0:21:11.87,HybridMain,A,0000,0000,0000,,Hayuru never shuts up about \Nhow she hates lewd things.
+Dialogue: 0,0:21:11.87,0:21:13.25,HybridMain,A,0000,0000,0000,,No, it's impossible.
+Dialogue: 0,0:21:13.68,0:21:17.37,HybridMain,A,0000,0000,0000,,I can't believe anybody but me could \Ndo a Climax Hybrid with Kizuna.
+Dialogue: 0,0:21:17.96,0:21:19.50,HybridMain,H,0000,0000,0000,,I did!
+Dialogue: 0,0:21:19.50,0:21:20.96,HybridMain,H,0000,0000,0000,,Kizuna and I, together!
+Dialogue: 0,0:21:25.30,0:21:28.01,HybridMain,H,0000,0000,0000,,But I didn't have a choice \Nbecause it was for my mission!
+Dialogue: 0,0:21:28.01,0:21:31.05,HybridMain,H,0000,0000,0000,,I won't let you do anything \Nindecent that's not necessary.
+Dialogue: 0,0:21:31.05,0:21:32.02,HybridMain,Gi,0000,0000,0000,,What?
+Dialogue: 0,0:21:33.76,0:21:36.73,HybridMain,Gi,0000,0000,0000,,Now there's nothing for us to do.
+Dialogue: 0,0:21:36.73,0:21:40.52,HybridMain,Gi,0000,0000,0000,,Well, I guess they must have\Ngotten scared of us and ran.
+Dialogue: 0,0:21:41.31,0:21:42.53,HybridMain,Y,0000,0000,0000,,Scarlet?
+Dialogue: 0,0:21:44.86,0:21:46.48,HybridMain,Y,0000,0000,0000,,It's been forever.
+Dialogue: 0,0:21:46.48,0:21:47.65,HybridMain,Y,0000,0000,0000,,You seem to be doing well.
+Dialogue: 0,0:21:47.65,0:21:48.73,HybridMain,Gi,0000,0000,0000,,Stay away!
+Dialogue: 0,0:21:50.22,0:21:54.49,HybridMain,Gi,0000,0000,0000,,I'm never going to forgive you.
+Dialogue: 0,0:23:24.96,0:23:39.98,Illustration,,0000,0000,0000,,Illustration: Shonan Ruizu
+Dialogue: 0,0:23:25.44,0:23:26.99,HybridTop,Gi,0000,0000,0000,,Hi, everybody!
+Dialogue: 0,0:23:26.99,0:23:29.02,HybridTop,Gi,0000,0000,0000,,It's Scarlet, from the Masters!
+Dialogue: 0,0:23:29.02,0:23:32.03,HybridTop,Gi,0000,0000,0000,,Now that we're here, everything will be okay!
+Dialogue: 0,0:23:32.03,0:23:33.65,HybridTop,Gi,0000,0000,0000,,No matter what enemy may come,
+Dialogue: 0,0:23:33.65,0:23:35.96,HybridTop,Gi,0000,0000,0000,,I'll send them to hell with a single shot!
+Dialogue: 0,0:23:35.01,0:23:39.98,Next Episode Title,,0001,0001,0160,,{\fad(900,1)}Next time: Imperial Hero -Grabel-
+Dialogue: 0,0:23:36.44,0:23:39.75,HybridTop,Gi,0000,0000,0000,,Yurishia, I won't let you \Nbeat me no matter what!
