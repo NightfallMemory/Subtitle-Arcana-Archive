@@ -1,0 +1,308 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,18,1
+Style: Next time,Arial,22,&H00F8FFFF,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,0,0,7,35,499,54,1
+Style: Flashback Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H00474747,&H005B5D5F,0,0,0,0,100,100,0,0,1,2,1,7,35,38,50,1
+Style: Next Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H00474747,&H005B5D5F,0,0,0,0,100,100,0,0,1,1,1,3,35,50,70,1
+Style: Dates,Arial,20,&H00FFFFFF,&H000000FF,&H004D4D4D,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,176,176,58,1
+Style: sign_8129_54_Empire_Funded_Ci,Arial,20,&H00A8F2F1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,109,109,18,1
+Style: sign_11225_91_Nihonica_Workboo,Arial,20,&H00FFFFFF,&H000000FF,&H001A3830,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,214,214,18,1
+Style: sign_11443_92_Very_good_job_,Arial,18,&H001328A3,&H000000FF,&H00CED3D2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,460,39,69,1
+Style: sign_27339_241_All_Quiet_on_the,Arial,20,&H00509BCF,&H000000FF,&H0021261E,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,158,158,18,1
+Style: sign_33927_270_The_Poppies_Bloo,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,8,97,97,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:04.81,0:00:08.82,Dates,Onscreen,0,0,0,,{\fad(486,473)}October 30th, Stellar Year 2148
+Dialogue: 0,0:00:05.93,0:00:07.11,Italics Top,Theo,0,0,0,,It won't move!
+Dialogue: 0,0:00:07.11,0:00:08.80,Italics Top,Anju,0,0,0,,Mine, either! I'm getting out!
+Dialogue: 0,0:00:08.80,0:00:11.14,Italics Top,Shin,0,0,0,,Hide behind your Juggernaut. \NThey're still shooting.
+Dialogue: 0,0:00:11.14,0:00:13.25,Italics,Raiden,0,0,0,,Kurena, are you okay?
+Dialogue: 0,0:00:13.25,0:00:15.17,Italics,Theo,0,0,0,,If you can move, hide behind it!
+Dialogue: 0,0:00:15.59,0:00:17.34,Italics,Raiden,0,0,0,,Damn! They got me!
+Dialogue: 0,0:00:17.34,0:00:18.66,Italics,Raiden,0,0,0,,Is this the end?
+Dialogue: 0,0:00:30.44,0:00:31.31,Main,Kurena,0,0,0,,Shin!
+Dialogue: 0,0:02:29.95,0:02:31.94,Main,Raiden,0,0,0,,You sure that's how \Nyou want to handle this?
+Dialogue: 0,0:02:31.94,0:02:35.70,Main,Shin,0,0,0,,Yeah. We can't take him with us.
+Dialogue: 0,0:02:36.40,0:02:38.29,Main,Shin,0,0,0,,It's the least we can do.
+Dialogue: 0,0:02:40.75,0:02:41.81,Main,Shin,0,0,0,,And...
+Dialogue: 0,0:02:42.97,0:02:45.48,Main,Shin,0,0,0,,we won't be going much farther ourselves.
+Dialogue: 0,0:02:50.84,0:02:53.71,Main,Theo,0,0,0,,Shin's is the only one \Nthat still moves, huh?
+Dialogue: 0,0:02:53.71,0:02:56.04,Main,Kurena,0,0,0,,We've got rifles and guns, but...
+Dialogue: 0,0:02:56.04,0:02:58.29,Main,Anju,0,0,0,,Not a lot of ammo.
+Dialogue: 0,0:02:58.50,0:03:01.13,Main,Raiden,0,0,0,,We lost the containers, which hurts.
+Dialogue: 0,0:03:01.13,0:03:04.14,Main,Raiden,0,0,0,,We lost most of our ammo and fuel.
+Dialogue: 0,0:03:04.14,0:03:05.27,Main,Kurena,0,0,0,,And food!
+Dialogue: 0,0:03:05.27,0:03:07.00,Main,Raiden,0,0,0,,Yup. Food, too.
+Dialogue: 0,0:03:08.17,0:03:09.90,Main,Anju,0,0,0,,I'm all done.
+Dialogue: 0,0:03:09.90,0:03:10.80,Main,Anju,0,0,0,,What about you?
+Dialogue: 0,0:03:10.80,0:03:12.16,Main,Theo,0,0,0,,All set.
+Dialogue: 0,0:03:12.52,0:03:14.12,Main,Raiden,0,0,0,,Let's go, then.
+Dialogue: 0,0:03:14.12,0:03:16.98,Main,Raiden,0,0,0,,If we don't get out of here, \Nthe Legion will find us again.
+Dialogue: 0,0:03:16.98,0:03:17.51,Main,Shin,0,0,0,,Yeah.
+Dialogue: 0,0:03:17.72,0:03:19.01,Main,Anju,0,0,0,,Who'll pilot?
+Dialogue: 0,0:03:19.01,0:03:21.51,Main,Anju,0,0,0,,It can't just be Shin all the time.
+Dialogue: 0,0:03:21.75,0:03:24.08,Main,Raiden,0,0,0,,We'll take shifts.
+Dialogue: 0,0:03:24.37,0:03:25.44,Main,Shin,0,0,0,,That's fine.
+Dialogue: 0,0:03:25.44,0:03:28.80,Main,Theo,0,0,0,,But did it have to be Undertaker, \Nof all things?
+Dialogue: 0,0:03:29.67,0:03:30.76,Main,Kurena,0,0,0,,Is that a problem?
+Dialogue: 0,0:03:30.98,0:03:37.19,Main,Theo,0,0,0,,Shin sets his parameters so tight \Nthat it's scary.
+Dialogue: 0,0:03:37.19,0:03:39.22,Main,Theo,0,0,0,,And he's got a lot of limiters turned off.
+Dialogue: 0,0:03:39.52,0:03:41.60,Main,Kurena,0,0,0,,I'll go first, then.
+Dialogue: 0,0:03:41.60,0:03:43.10,Main,Theo,0,0,0,,No, I'll do it.
+Dialogue: 0,0:03:43.10,0:03:45.05,Main,Kurena,0,0,0,,You were just complaining.
+Dialogue: 0,0:03:45.05,0:03:48.63,Main,Kurena,0,0,0,,And I lost mine first, \Nso I'm not tired at all.
+Dialogue: 0,0:03:50.57,0:03:55.38,Main,Raiden,0,0,0,,Okay, if we run into any Legion, \Nthe one piloting at the time fights them, right?
+Dialogue: 0,0:03:55.73,0:03:56.75,Main,Shin,0,0,0,,Fine with me.
+Dialogue: 0,0:03:56.75,0:03:57.55,Main,Anju,0,0,0,,Fine!
+Dialogue: 0,0:04:15.08,0:04:16.27,Italics,Shin,0,0,0,,Kurena, stop.
+Dialogue: 0,0:04:26.35,0:04:29.02,Main,Shin,0,0,0,,There's a hole in those cliffs \Nat 10 o'clock.
+Dialogue: 0,0:04:29.02,0:04:30.09,Main,Shin,0,0,0,,Take us there.
+Dialogue: 0,0:04:30.09,0:04:30.94,Italics,Kurena,0,0,0,,Roger.
+Dialogue: 0,0:04:30.94,0:04:31.73,Main,Shin,0,0,0,,Hurry.
+Dialogue: 0,0:04:56.34,0:04:58.79,Main,Kurena,0,0,0,,We avoided them, thanks to Shin.
+Dialogue: 0,0:04:58.79,0:05:01.52,Main,Anju,0,0,0,,There were a whole lot of them, though.
+Dialogue: 0,0:05:01.52,0:05:03.78,Italics,Theo,0,0,0,,Is it just me, or are\N we seeing more of them lately?
+Dialogue: 0,0:05:03.78,0:05:06.86,Main,Raiden,0,0,0,,I guess we're getting closer \Nto their base.
+Dialogue: 0,0:05:07.78,0:05:09.00,Main,Shin,0,0,0,,Yeah.
+Dialogue: 0,0:05:10.36,0:05:11.61,Italics,Theo,0,0,0,,Everybody, eyes front.
+Dialogue: 0,0:05:39.02,0:05:41.40,sign_8129_54_Empire_Funded_Ci,Onscreen,0,0,0,,Imperial City First Elementary School
+Dialogue: 0,0:05:39.93,0:05:41.40,Main,Theo,0,0,0,,A school?
+Dialogue: 0,0:05:41.40,0:05:43.21,Main,Kurena,0,0,0,,You think?
+Dialogue: 0,0:05:43.21,0:05:44.14,Main,Theo,0,0,0,,Probably.
+Dialogue: 0,0:05:44.14,0:05:48.08,Main,Anju,0,0,0,,That's right. \NYou've never been to school, have you?
+Dialogue: 0,0:05:48.08,0:05:52.34,Main,Raiden,0,0,0,,Even in a totally different country and culture, \Nschools still look basically the same.
+Dialogue: 0,0:05:53.14,0:05:55.70,Main,Kurena,0,0,0,,So this is a school...
+Dialogue: 0,0:05:57.45,0:05:59.87,Main,Kurena,0,0,0,,Hey, let's sleep here today!
+Dialogue: 0,0:06:02.10,0:06:03.21,Main,Shin,0,0,0,,Let's.
+Dialogue: 0,0:06:27.29,0:06:29.20,Main,Anju,0,0,0,,Can you read that, Kurena?
+Dialogue: 0,0:06:29.20,0:06:30.30,Main,Kurena,0,0,0,,Nope.
+Dialogue: 0,0:06:30.77,0:06:32.20,Main,Kurena,0,0,0,,But it looks like they were having fun.
+Dialogue: 0,0:06:32.53,0:06:34.31,Main,Raiden,0,0,0,,This brings back so many memories.
+Dialogue: 0,0:06:34.31,0:06:36.38,Main,Shin,0,0,0,,Did you like school and studying?
+Dialogue: 0,0:06:36.38,0:06:37.49,Main,Raiden,0,0,0,,Nope.
+Dialogue: 0,0:06:41.32,0:06:42.54,Main,Anju,0,0,0,,Raiden Shuga!
+Dialogue: 0,0:06:43.73,0:06:48.22,Main,Anju,0,0,0,,Huh? Is Raiden absent today?
+Dialogue: 0,0:06:49.39,0:06:51.10,Main,Anju,0,0,0,,Raiden Shuga!
+Dialogue: 0,0:06:51.10,0:06:51.88,Main,Raiden,0,0,0,,Present!
+Dialogue: 0,0:06:51.88,0:06:52.51,Main,Anju,0,0,0,,Okay.
+Dialogue: 0,0:06:52.51,0:06:54.32,Main,Anju,0,0,0,,Theoto Rikka.
+Dialogue: 0,0:06:54.32,0:06:55.63,Main,Theo,0,0,0,,Here!
+Dialogue: 0,0:06:55.63,0:06:57.64,Main,Anju,0,0,0,,Kurena Kukumila.
+Dialogue: 0,0:07:04.09,0:07:04.97,Main,Kurena,0,0,0,,Present!
+Dialogue: 0,0:07:05.66,0:07:07.22,Main,Kurena,0,0,0,,Anju Emma!
+Dialogue: 0,0:07:07.22,0:07:07.82,Main,Anju,0,0,0,,Present.
+Dialogue: 0,0:07:08.55,0:07:10.27,Main,Kurena,0,0,0,,Shinei Nouzen!
+Dialogue: 0,0:07:12.48,0:07:13.29,Main,Shin,0,0,0,,Present.
+Dialogue: 0,0:07:15.46,0:07:18.24,Main,Shin,0,0,0,,If we're not going to study, \Nthese are just firewood.
+Dialogue: 0,0:07:19.37,0:07:20.99,Main,Raiden,0,0,0,,I see.
+Dialogue: 0,0:07:23.42,0:07:25.24,Main,Kurena,0,0,0,,Is this something special, too?
+Dialogue: 0,0:07:25.75,0:07:27.61,Main,Theo,0,0,0,,Tearing down the school, maybe?
+Dialogue: 0,0:07:31.97,0:07:34.71,Main,Raiden,0,0,0,,Okay. How do we light it?
+Dialogue: 0,0:07:37.82,0:07:39.57,Main,Theo,0,0,0,,Those are textbooks!
+Dialogue: 0,0:07:39.57,0:07:42.00,Main,Anju,0,0,0,,I feel kind of guilty.
+Dialogue: 0,0:07:42.00,0:07:44.22,Main,Shin,0,0,0,,Books we can't read are useless.
+Dialogue: 0,0:07:44.58,0:07:45.96,Main,Kurena,0,0,0,,True.
+Dialogue: 0,0:07:48.15,0:07:51.49,sign_11225_91_Nihonica_Workboo,Onscreen,0,0,0,,Nihonica Workbook
+Dialogue: 0,0:07:57.24,0:08:00.00,sign_11443_92_Very_good_job_,Onscreen,0,0,0,,Well done!
+Dialogue: 0,0:08:04.03,0:08:05.62,Main,Anju,0,0,0,,You still have one left?
+Dialogue: 0,0:08:06.06,0:08:07.03,Main,Kurena,0,0,0,,Yeah.
+Dialogue: 0,0:08:07.46,0:08:09.02,Main,Kurena,0,0,0,,This is the last one.
+Dialogue: 0,0:08:17.25,0:08:19.96,Main,Kurena,0,0,0,,No more after-dinner desserts!
+Dialogue: 0,0:08:26.65,0:08:29.02,Dates,Onscreen,0,0,0,,October 31st, Stellar Year 2148
+Dialogue: 0,0:08:27.50,0:08:29.03,Main Top,Raiden,0,0,0,,This is all of it.
+Dialogue: 0,0:08:30.81,0:08:33.35,Main,Raiden,0,0,0,,We'll be lucky if it lasts the full day.
+Dialogue: 0,0:08:33.53,0:08:34.30,Main,Shin,0,0,0,,Yeah.
+Dialogue: 0,0:08:34.89,0:08:38.18,Main,Raiden,0,0,0,,I guess our fun hike is at an end.
+Dialogue: 0,0:08:42.44,0:08:43.83,Main,Raiden,0,0,0,,We're leaving!
+Dialogue: 0,0:08:43.83,0:08:45.38,Main,All,0,0,0,,Okay!
+Dialogue: 0,0:08:45.82,0:08:48.23,Main,Anju,0,0,0,,It's my turn this morning, right?
+Dialogue: 0,0:08:48.23,0:08:49.64,Main,Raiden,0,0,0,,Yeah. Thanks.
+Dialogue: 0,0:08:49.64,0:08:52.08,Main,Kurena,0,0,0,,We graduated school in a single day, huh?
+Dialogue: 0,0:08:52.08,0:08:54.39,Main,Theo,0,0,0,,Wow, we must be really smart!
+Dialogue: 0,0:08:54.39,0:08:56.13,Main,Raiden,0,0,0,,We've got bright futures ahead of us.
+Dialogue: 0,0:08:56.13,0:08:57.83,Main,Kurena,0,0,0,,Hey!
+Dialogue: 0,0:09:07.45,0:09:08.87,Main,Theo,0,0,0,,We're going up this?
+Dialogue: 0,0:09:08.87,0:09:09.74,Main,Kurena,0,0,0,,Don't ask me.
+Dialogue: 0,0:09:10.16,0:09:11.56,Main,Raiden,0,0,0,,Is this right?
+Dialogue: 0,0:09:11.56,0:09:13.31,Italics,Anju,0,0,0,,We keep going forward, right?
+Dialogue: 0,0:09:14.02,0:09:15.18,Main,Shin,0,0,0,,Yes.
+Dialogue: 0,0:09:15.18,0:09:16.07,Italics,Anju,0,0,0,,Roger.
+Dialogue: 0,0:09:29.12,0:09:31.34,Main,Shin,0,0,0,,Anju, let's switch.
+Dialogue: 0,0:09:33.05,0:09:34.41,Main,Anju,0,0,0,,It's still early, isn't it?
+Dialogue: 0,0:09:34.41,0:09:36.50,Main,Anju,0,0,0,,It was supposed to be\N my shift until lunch.
+Dialogue: 0,0:09:36.50,0:09:37.46,Italics,Shin,0,0,0,,I'm bored.
+Dialogue: 0,0:09:38.42,0:09:40.78,Italics Top,Kurena,0,0,0,,You scared me!
+Dialogue: 0,0:09:39.38,0:09:40.95,Main,Anju,0,0,0,,How silly!
+Dialogue: 0,0:09:41.26,0:09:46.42,Main,Theo,0,0,0,,Yeah, I didn't think \Nwe'd have so much free time.
+Dialogue: 0,0:09:46.42,0:09:49.27,Main,Kurena,0,0,0,,There's nothing to do \Nbut look at the scenery.
+Dialogue: 0,0:09:49.44,0:09:54.73,Italics,Anju,0,0,0,,Shin should've brought a picture book \Nfrom that school.
+Dialogue: 0,0:09:55.52,0:09:56.64,Main,Shin,0,0,0,,Yeah.
+Dialogue: 0,0:09:57.47,0:09:58.83,Main,Theo,0,0,0,,Get some rest.
+Dialogue: 0,0:09:58.83,0:10:00.86,Main,Anju,0,0,0,,I'm not tired at all.
+Dialogue: 0,0:10:01.06,0:10:03.43,Italics,Anju,0,0,0,,We're all set here, Shin.
+Dialogue: 0,0:10:04.98,0:10:06.97,Main,Theo,0,0,0,,You're on watch, Kurena.
+Dialogue: 0,0:10:06.97,0:10:09.19,Main,Kurena,0,0,0,,Take my place!
+Dialogue: 0,0:10:17.42,0:10:19.25,Italics,Shin,0,0,0,,The one piloting fights.
+Dialogue: 0,0:10:19.25,0:10:21.12,Italics,Shin,0,0,0,,That's the rule, right?
+Dialogue: 0,0:10:21.70,0:10:24.57,Main,Raiden,0,0,0,,You knew from the start!
+Dialogue: 0,0:10:25.49,0:10:27.99,Italics,Shin,0,0,0,,There's a unit we won't be able to dodge.
+Dialogue: 0,0:10:28.44,0:10:30.70,Italics,Shin,0,0,0,,And if we can't dodge them, \Nwe'll have to fight.
+Dialogue: 0,0:10:31.14,0:10:33.51,Main,Kurena,0,0,0,,So you suggested switching...
+Dialogue: 0,0:10:33.51,0:10:34.90,Main,Anju,0,0,0,,That's not fair, Shin!
+Dialogue: 0,0:10:36.30,0:10:37.61,Main,Anju,0,0,0,,You can't do this to us!
+Dialogue: 0,0:10:37.61,0:10:39.50,Italics,Shin,0,0,0,,You keep going.
+Dialogue: 0,0:10:39.98,0:10:42.13,Italics,Shin,0,0,0,,They won't find you \Nin the forest for a while.
+Dialogue: 0,0:10:42.76,0:10:45.88,Italics,Shin,0,0,0,,Keep going, and you'll get to a point \Nwhere the Legion's voices disappear.
+Dialogue: 0,0:10:47.32,0:10:51.55,Italics,Shin,0,0,0,,If anybody's alive, ask them for help.
+Dialogue: 0,0:10:51.55,0:10:52.90,Main,Theo,0,0,0,,Hell, no!
+Dialogue: 0,0:10:52.90,0:10:56.33,Main,Theo,0,0,0,,That means you're going \Nto be a decoy, right?
+Dialogue: 0,0:10:56.33,0:10:58.70,Main,Kurena,0,0,0,,We're all going together, right?
+Dialogue: 0,0:10:58.70,0:11:00.80,Main,Kurena,0,0,0,,You can't leave us at the very end...
+Dialogue: 0,0:11:03.17,0:11:05.06,Main,Kurena,0,0,0,,and go by yourself!
+Dialogue: 0,0:11:06.23,0:11:07.59,Main,Kurena,0,0,0,,That's not fair!
+Dialogue: 0,0:11:10.41,0:11:12.23,Main,Raiden,0,0,0,,Damn! He turned it off!
+Dialogue: 0,0:11:14.63,0:11:16.20,Main,Raiden,0,0,0,,That idiot!
+Dialogue: 0,0:11:48.27,0:11:49.26,Main,Theo,0,0,0,,Wait!
+Dialogue: 0,0:11:50.19,0:11:51.69,Main,Anju,0,0,0,,I'm going, too.
+Dialogue: 0,0:11:53.82,0:11:54.76,Main,Raiden,0,0,0,,You're okay with this, right?
+Dialogue: 0,0:11:55.08,0:11:57.79,Main,Kurena,0,0,0,,We can't let Shin go by himself, right?
+Dialogue: 0,0:12:01.00,0:12:01.88,Main,Raiden,0,0,0,,Right.
+Dialogue: 0,0:12:08.67,0:12:11.40,Main,Shin,0,0,0,,That ultra-long-range cannon from before...
+Dialogue: 0,0:12:11.40,0:12:12.74,Italics,Kiriya,0,0,0,,I'll kill you.
+Dialogue: 0,0:12:13.36,0:12:21.68,Italics,Kiriya,0,0,0,,The men, the women, the children, \Nthe old, the nobles, the peasants...
+Dialogue: 0,0:12:21.68,0:12:27.26,Italics,Kiriya,0,0,0,,I'll kill everyone...\Neveryone who threatens the princess!
+Dialogue: 0,0:12:35.04,0:12:36.26,Main,Shin,0,0,0,,Not now...
+Dialogue: 0,0:12:41.81,0:12:45.30,Main,Shin,0,0,0,,They're after my head, huh?
+Dialogue: 0,0:12:52.82,0:12:53.70,Main,Raiden,0,0,0,,Shin!
+Dialogue: 0,0:12:58.05,0:13:00.49,Main,Raiden,0,0,0,,Shit! Look at me, damn it!
+Dialogue: 0,0:13:04.33,0:13:05.53,Main,Kurena,0,0,0,,I'm coming!
+Dialogue: 0,0:13:05.53,0:13:06.72,Main,Anju,0,0,0,,Don't give up!
+Dialogue: 0,0:13:06.72,0:13:07.90,Main,Raiden,0,0,0,,Get moving!
+Dialogue: 0,0:13:07.90,0:13:09.62,Main,Anju,0,0,0,,Shin! Shin!
+Dialogue: 0,0:13:09.62,0:13:11.05,Main,Kurena,0,0,0,,Can you hear me?
+Dialogue: 0,0:13:11.05,0:13:12.77,Main,Anju,0,0,0,,Shin, answer me!
+Dialogue: 0,0:13:13.17,0:13:14.48,Main,Shin,0,0,0,,You're all fools.
+Dialogue: 0,0:13:14.96,0:13:18.81,Main,Shin,0,0,0,,You can't beat the Legion \Nwith those weapons.
+Dialogue: 0,0:13:30.87,0:13:31.74,Main,Theo,0,0,0,,I'm out of ammo!
+Dialogue: 0,0:13:36.49,0:13:37.45,Main,Kurena,0,0,0,,Theo!
+Dialogue: 0,0:13:42.20,0:13:44.09,Main,Raiden,0,0,0,,Damn it!
+Dialogue: 0,0:13:55.01,0:13:56.11,Main,Shin,0,0,0,,Fools...
+Dialogue: 0,0:13:57.30,0:14:00.36,Main,Shin,0,0,0,,You really are... fools.
+Dialogue: 0,0:14:07.15,0:14:09.06,Main,Shin,0,0,0,,When I'm part of the Legion,
+Dialogue: 0,0:14:10.48,0:14:12.61,Main,Shin,0,0,0,,whose name will I call out?
+Dialogue: 0,0:14:18.00,0:14:20.50,Dates,Onscreen,0,0,0,,October 13th,  Stellar Year 2148
+Dialogue: 0,0:14:49.33,0:14:51.01,Main,Lef,0,0,0,,Fido's not here.
+Dialogue: 0,0:14:51.94,0:14:53.73,Main,Lef,0,0,0,,They took him.
+Dialogue: 0,0:14:56.74,0:14:59.00,Main,Lena,0,0,0,,So he wasn't a dog, huh?
+Dialogue: 0,0:14:59.00,0:15:01.83,Main,Lev,0,0,0,,Major Milizé, was it?
+Dialogue: 0,0:15:01.83,0:15:02.53,Main,Lena,0,0,0,,Yes.
+Dialogue: 0,0:15:02.88,0:15:04.86,Main,Lev,0,0,0,,What are you doing \Nall the way out here?
+Dialogue: 0,0:15:04.86,0:15:06.44,Main,Lev,0,0,0,,You're under house arrest, aren't you?
+Dialogue: 0,0:15:06.44,0:15:07.00,Main,Lena,0,0,0,,Yes.
+Dialogue: 0,0:15:07.46,0:15:10.35,Main,Lena,0,0,0,,Which gives me time \Nto visit the front lines.
+Dialogue: 0,0:15:11.98,0:15:14.57,Main,Lev,0,0,0,,Along with the next group to be executed?
+Dialogue: 0,0:15:14.94,0:15:18.37,Main,Lev,0,0,0,,I heard the rumors, \Nbut you're really a weirdo, huh?
+Dialogue: 0,0:15:20.02,0:15:21.06,Main,Lev,0,0,0,,Go see it.
+Dialogue: 0,0:15:22.63,0:15:27.08,Main,Lev,0,0,0,,Not that they left much behind.
+Dialogue: 0,0:15:29.23,0:15:29.97,Main,Lena,0,0,0,,Okay.
+Dialogue: 0,0:15:34.81,0:15:39.01,Main,Lev,0,0,0,,I've been watching the kids go off \Non their last march for a long time.
+Dialogue: 0,0:15:39.37,0:15:41.92,Main,Lev,0,0,0,,But I've never seen a Handler come out here.
+Dialogue: 0,0:15:42.55,0:15:45.00,Main,Lena,0,0,0,,Lieutenant Aldrecht, you're...
+Dialogue: 0,0:15:45.21,0:15:48.04,Main,Lev,0,0,0,,An Alba. Just like you.
+Dialogue: 0,0:15:49.18,0:15:51.49,Main,Lev,0,0,0,,My wife was an Eighty-Six.
+Dialogue: 0,0:15:51.49,0:15:54.11,Main,Lev,0,0,0,,When they were coming \Nto take my wife and daughter,
+Dialogue: 0,0:15:54.11,0:15:56.27,Main,Lev,0,0,0,,I dyed my hair and went with them.
+Dialogue: 0,0:15:56.77,0:16:00.01,Main,Lev,0,0,0,,I volunteered, \Nhoping to get their rights back.
+Dialogue: 0,0:16:00.49,0:16:04.20,Main,Lev,0,0,0,,But they both died on the battlefield.
+Dialogue: 0,0:16:05.56,0:16:08.79,Main,Lev,0,0,0,,After Shin came, \Nwhen nobody was listening, I asked him
+Dialogue: 0,0:16:08.79,0:16:10.84,Main,Lev,0,0,0,,if there were any Legion \Nout there looking for
+Dialogue: 0,0:16:10.84,0:16:13.80,Main,Lev,0,0,0,,a shithead who couldn't protect \Nhis wife and daughter.
+Dialogue: 0,0:16:14.45,0:16:16.29,Main,Lena,0,0,0,,And what would've you have done \Nif there were?
+Dialogue: 0,0:16:16.29,0:16:19.71,Main,Lev,0,0,0,,Go out there and let them kill me.
+Dialogue: 0,0:16:20.98,0:16:23.04,Main,Lev,0,0,0,,But he said there weren't.
+Dialogue: 0,0:16:23.48,0:16:26.33,Main,Lev,0,0,0,,He said there weren't any Legion \Ncalling my name.
+Dialogue: 0,0:16:27.44,0:16:29.83,Main,Lev,0,0,0,,It made me feel a little better.
+Dialogue: 0,0:16:31.34,0:16:35.54,Main,Lev,0,0,0,,My wife and daughter weren't stuck \Non the battlefield even after death.
+Dialogue: 0,0:16:35.92,0:16:39.86,Main,Lev,0,0,0,,Once I'm on the other side, \NI'll see them.
+Dialogue: 0,0:16:43.48,0:16:48.34,Main,Lev,0,0,0,,I always tell them I'm an Alba \Nbefore they go on their special recon mission.
+Dialogue: 0,0:16:48.70,0:16:51.02,Main,Lev,0,0,0,,I tell them that they're free to hate us.
+Dialogue: 0,0:16:51.02,0:16:53.87,Main,Lev,0,0,0,,They can even kill me \Nif it'll make them feel better.
+Dialogue: 0,0:16:55.17,0:16:58.07,Main,Lev,0,0,0,,But nobody ever does.
+Dialogue: 0,0:16:58.38,0:16:59.99,Main,Lev,0,0,0,,Not this time, either.
+Dialogue: 0,0:17:00.47,0:17:03.02,Main,Lev,0,0,0,,So I'm still here.
+Dialogue: 0,0:17:04.48,0:17:06.11,Main,Lev,0,0,0,,I've kept you too long.
+Dialogue: 0,0:17:06.63,0:17:07.87,Main,Lev,0,0,0,,Get going.
+Dialogue: 0,0:17:10.37,0:17:12.04,Main,Len,0,0,0,,Thank you.
+Dialogue: 0,0:18:17.31,0:18:19.54,Flashback_Italics,Daiya,0,0,0,,We keep it at the barracks.
+Dialogue: 0,0:18:19.54,0:18:22.42,Flashback_Italics,Daiya,0,0,0,,It's a black cat with white paws.
+Dialogue: 0,0:18:22.42,0:18:26.28,Flashback_Italics,Theo,0,0,0,,And for some reason, it's taken more of a liking \Nto Undertaker than anyone.
+Dialogue: 0,0:18:26.28,0:18:28.53,Flashback_Italics,Anju,0,0,0,,He doesn't play with it at all.
+Dialogue: 0,0:18:28.53,0:18:32.41,Flashback_Italics,Anju,0,0,0,,It rubs up against him all the time, \Nand he just pats it once in a while.
+Dialogue: 0,0:18:32.71,0:18:36.64,Flashback_Italics,Raiden,0,0,0,,I think it's more like \Nit thinks he's a good bed.
+Dialogue: 0,0:18:36.64,0:18:38.15,Flashback_Italics,Raiden,0,0,0,,I mean... Just look at it right now.
+Dialogue: 0,0:18:38.15,0:18:41.27,Flashback_Italics,Kaie,0,0,0,,Yeah, it doesn't move when he's reading.
+Dialogue: 0,0:18:41.27,0:18:44.60,Flashback_Italics,Kaie,0,0,0,,It'll never get along with\N Black Dog, though. He's annoying.
+Dialogue: 0,0:18:44.60,0:18:46.28,Flashback_Italics,Daiya,0,0,0,,That's mean! And not fair!
+Dialogue: 0,0:18:46.28,0:18:47.63,Flashback_Italics,Daiya,0,0,0,,I demand you take that back!
+Dialogue: 0,0:18:47.63,0:18:49.43,Flashback_Italics,Daiya,0,0,0,,Boo! Boo!
+Dialogue: 0,0:18:55.76,0:18:57.53,Flashback,Lena,0,0,0,,What's its name?
+Dialogue: 0,0:18:57.76,0:18:58.37,Flashback_Italics,Raiden,0,0,0,,Blackie.
+Dialogue: 0,0:18:58.37,0:18:58.99,Flashback_Italics,Theo,0,0,0,,Whitey.
+Dialogue: 0,0:18:58.99,0:18:59.54,Flashback_Italics,Daiya,0,0,0,,Two-Tone.
+Dialogue: 0,0:18:59.54,0:19:00.23,Flashback_Italics,Anju,0,0,0,,Kitty.
+Dialogue: 0,0:19:00.23,0:19:00.72,Flashback_Italics,Kaie,0,0,0,,Shrimp.
+Dialogue: 0,0:19:00.72,0:19:01.57,Flashback_Italics,Shin,0,0,0,,Remarque.
+Dialogue: 0,0:19:03.73,0:19:09.27,Flashback_Italics,Theo,0,0,0,,Don't name it after the author of\N whatever book you're reading now.
+Dialogue: 0,0:19:09.27,0:19:12.62,Flashback_Italics,Theo,0,0,0,,And what are you even reading? \NYou have such bad taste.
+Dialogue: 0,0:19:25.40,0:19:28.45,Italics,Raiden,0,0,0,,If you actually went to the \Ntrouble of finding this,
+Dialogue: 0,0:19:28.45,0:19:30.72,Italics,Raiden,0,0,0,,you're one crazy dumbass.
+Dialogue: 0,0:19:31.32,0:19:32.64,Italics,Raiden,0,0,0,,Raiden Shuga.
+Dialogue: 0,0:19:33.79,0:19:35.19,Italics,Theo,0,0,0,,I'll put everyone's names down.
+Dialogue: 0,0:19:35.52,0:19:40.61,Italics,Theo,0,0,0,,I bet you'd cry because you didn't know \Nwho was who, otherwise.
+Dialogue: 0,0:19:40.61,0:19:41.94,Italics,Theo,0,0,0,,Theoto Rikka.
+Dialogue: 0,0:19:53.11,0:19:54.95,Italics,Kurena,0,0,0,,Take care of the cat.
+Dialogue: 0,0:19:54.95,0:19:58.32,Italics,Kurena,0,0,0,,You might as well, if you're \Ngonna insist on being a saint.
+Dialogue: 0,0:19:58.32,0:19:59.64,Italics,Kurena,0,0,0,,Kurena Kukumila.
+Dialogue: 0,0:19:59.95,0:20:02.05,Italics,Anju,0,0,0,,We still haven't decided on a name yet.
+Dialogue: 0,0:20:02.05,0:20:04.75,Italics,Anju,0,0,0,,Give it a cute one, okay, Major?
+Dialogue: 0,0:20:05.29,0:20:06.68,Italics,Anju,0,0,0,,Anju Emma.
+Dialogue: 0,0:20:28.61,0:20:32.36,Italics,Shin,0,0,0,,If, one day, you make it \Nto our final destination,
+Dialogue: 0,0:20:32.93,0:20:35.03,Italics,Shin,0,0,0,,would you please leave flowers?
+Dialogue: 0,0:20:36.07,0:20:37.64,Italics,Shin,0,0,0,,Shinei Nouzen.
+Dialogue: 0,0:20:41.03,0:20:43.98,Italics,Lena,0,0,0,,I can keep walking, too.
+Dialogue: 0,0:20:44.56,0:20:47.87,Italics,Lena,0,0,0,,They believed that about me, \Nuntil the very end.
+Dialogue: 0,0:20:58.84,0:20:59.94,Main,Lena,0,0,0,,Let's go.
+Dialogue: 0,0:21:00.85,0:21:02.35,Main,Lena,0,0,0,,What should I call you?
+Dialogue: 0,0:21:04.79,0:21:05.83,Italics,Lena,0,0,0,,I'll fight...
+Dialogue: 0,0:21:06.64,0:21:11.56,Italics,Lena,0,0,0,,until the moment \Nwhen fate finally comes for me.
+Dialogue: 0,0:22:45.06,0:22:46.06,Italics Top,Rei,0,0,0,,Shin...
+Dialogue: 0,0:22:52.99,0:22:54.22,Italics Top,Rei,0,0,0,,I'm sorry.
+Dialogue: 0,0:22:55.34,0:22:59.79,Italics Top,Rei,0,0,0,,I kept calling you, \Nand I made you come all the way here.
+Dialogue: 0,0:23:15.90,0:23:16.81,Italics Top,Rei,0,0,0,,Let's go.
+Dialogue: 0,0:23:36.39,0:23:39.45,Main,Lena,0,0,0,,"The Poppies Bloom Red on the Battlefield"

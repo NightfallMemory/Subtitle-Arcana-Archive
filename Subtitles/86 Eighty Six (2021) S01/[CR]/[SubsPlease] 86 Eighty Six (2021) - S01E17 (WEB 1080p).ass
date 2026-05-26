@@ -1,0 +1,353 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,18,1
+Style: Next time,Arial,22,&H00F8FFFF,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,0,0,7,35,499,54,1
+Style: Flashback Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H00474747,&H005B5D5F,0,0,0,0,100,100,0,0,1,2,1,7,35,38,50,1
+Style: Next Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H00474747,&H005B5D5F,0,0,0,0,100,100,0,0,1,1,1,3,35,50,70,1
+Style: Dates,Arial,20,&H00FFFFFF,&H000000FF,&H004D4D4D,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,176,176,58,1
+Style: sign_6524_43_Crown_Prince_Zaf,Arial,20,&H00FFFFFF,&H000000FF,&H004D4D4D,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,73,195,74,1
+Style: sign_6857_47_Lieutenant_Gener,Arial,20,&H00FFFFFF,&H000000FF,&H004D4D4D,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,270,52,77,1
+Style: sign_9682_76_Provided_by_the_,Arial,16,&H00FFFFFF,&H000000FF,&H004D4D4D,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,196,44,70,1
+Style: sign_17903_168_Why_did_you_kill,Arial,20,&H00FFFFFF,&H000000FF,&H004D4D4D,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,84,82,70,1
+Style: sign_22502_221_MISSING,Arial,20,&H00FFFFFF,&H000000FF,&H004D4D4D,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,114,431,34,1
+Style: sign_33926_315_Special_Visual_C,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,123,123,213,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:02:25.49,0:02:30.50,Dates,Onscreen,0,0,0,,{\fad(739,684)}August 27th, Stellar Year 2149
+Dialogue: 0,0:02:28.54,0:02:29.78,Main Top,Shin,0,0,0,,Are you okay?
+Dialogue: 0,0:02:29.78,0:02:30.96,Main Top,Theo,0,0,0,,I guess...
+Dialogue: 0,0:02:30.96,0:02:32.59,Main,Kurena,0,0,0,,Where are we?
+Dialogue: 0,0:02:32.59,0:02:34.58,Main,Raiden,0,0,0,,Their target's the forward base.
+Dialogue: 0,0:02:34.58,0:02:35.35,Main,Shin,0,0,0,,Yeah.
+Dialogue: 0,0:02:35.35,0:02:36.31,Main,Raiden,0,0,0,,Shit!
+Dialogue: 0,0:02:36.70,0:02:37.72,Main,Frederica,0,0,0,,What's going on—
+Dialogue: 0,0:02:37.72,0:02:38.36,Main,Shin,0,0,0,,Don't look.
+Dialogue: 0,0:02:40.86,0:02:42.81,Main,Soldier,0,0,0,,Someone, come help!
+Dialogue: 0,0:02:42.02,0:02:44.05,Main,Soldier,0,0,0,,Over here, too!
+Dialogue: 0,0:02:44.05,0:02:46.06,Main,Soldier,0,0,0,,My arm!
+Dialogue: 0,0:02:54.79,0:02:56.52,Main,Shin,0,0,0,,Anju, please.
+Dialogue: 0,0:02:56.52,0:02:57.42,Main,Anju,0,0,0,,Of course.
+Dialogue: 0,0:02:58.56,0:03:01.12,Main,Frederica,0,0,0,,Kiri did this...
+Dialogue: 0,0:03:01.12,0:03:02.27,Main,Anju,0,0,0,,Let's go.
+Dialogue: 0,0:03:02.27,0:03:07.27,Main,Frederica,0,0,0,,Shinei, you're not going\N to do this, right?
+Dialogue: 0,0:03:07.99,0:03:10.05,Main,Frederica,0,0,0,,You're not going \Nto end up like Kiri, right?
+Dialogue: 0,0:03:12.75,0:03:13.54,Main,Shin,0,0,0,,Yeah.
+Dialogue: 0,0:03:14.78,0:03:18.62,Main,Reporting soldier,0,0,0,,The first barrage hit the 8th Mechanized's \Nforward operating base, FOB14.
+Dialogue: 0,0:03:18.62,0:03:23.13,Main,Reporting soldier,0,0,0,,Seventy-two minutes later, \NFOB13 was struck.
+Dialogue: 0,0:03:23.13,0:03:28.89,Main,Reporting soldier,0,0,0,,Fifteen hours later, \Nthe 5th Infantry's FOB28 and FOB30 were struck.
+Dialogue: 0,0:03:29.11,0:03:32.50,Main Top,Reporting soldier,0,0,0,,The artillery strikes wiped out all FOBs.
+Dialogue: 0,0:03:29.98,0:03:34.73,Dates,Onscreen,0,0,0,,{\fad(480,934)}August 28th, Stellar Year 2149
+Dialogue: 0,0:03:32.50,0:03:35.02,Main Top,Reporting soldier,0,0,0,,The four regiments stationed at these bases—
+Dialogue: 0,0:03:35.72,0:03:37.67,Main,Reporting soldier,0,0,0,,approximately 20,000 people—
+Dialogue: 0,0:03:37.67,0:03:38.99,Main,Reporting soldier,0,0,0,,were wiped out.
+Dialogue: 0,0:03:39.41,0:03:43.02,Main,Reporting soldier,0,0,0,,The ultra-long-range artillery behind this \Nis believed to be a new type of Legion,
+Dialogue: 0,0:03:43.02,0:03:45.44,Main,Reporting soldier,0,0,0,,that we will refer to as the "Morpho."
+Dialogue: 0,0:03:45.95,0:03:49.42,Main,Reporting soldier,0,0,0,,Its estimated specs are as follows:\N 800 mm caliber,
+Dialogue: 0,0:03:49.42,0:03:51.34,Main,Reporting soldier,0,0,0,,effective range 400 km,
+Dialogue: 0,0:03:51.34,0:03:54.47,Main,Reporting soldier,0,0,0,,initial velocity 8,000 meters per second.
+Dialogue: 0,0:03:54.47,0:03:56.64,Main,Reporting soldier,0,0,0,,This would be impossible \Nfor a normal cannon.
+Dialogue: 0,0:03:56.64,0:03:59.47,Main,Reporting soldier,0,0,0,,We believe it to be a railgun.
+Dialogue: 0,0:03:59.75,0:04:01.02,Main,Ernst,0,0,0,,A railgun.
+Dialogue: 0,0:04:01.46,0:04:04.97,Main,Ernst,0,0,0,,This was in their report \Nwhen we took them in.
+Dialogue: 0,0:04:04.97,0:04:05.95,Main,Man,0,0,0,,Yes.
+Dialogue: 0,0:04:05.95,0:04:07.84,Main,Man,0,0,0,,It's incredibly powerful.
+Dialogue: 0,0:04:08.40,0:04:13.86,Main,Man,0,0,0,,We believe the 15 hours between the second \Nand third strikes were used to replace the barrel.
+Dialogue: 0,0:04:13.86,0:04:19.05,Main,Man,0,0,0,,During this time, the western front's forces \Nloaded up every cruise missile they had
+Dialogue: 0,0:04:19.05,0:04:23.11,Main,Man,0,0,0,,and launched a saturation strike \Nimmediately after the fourth volley.
+Dialogue: 0,0:04:23.11,0:04:28.56,Main,Man,0,0,0,,The strike seems to have dealt some damage, \Nbut did not destroy the railgun.
+Dialogue: 0,0:04:32.02,0:04:34.22,Italics Top,Zafar,0,0,0,,With regard to the damage,
+Dialogue: 0,0:04:32.08,0:04:38.59,sign_6524_43_Crown_Prince_Zaf,Onscreen,0,0,0,,{\fad(1,438)}Crown Prince Zafar Idinarokh \NThe United Kingdom of Roa Gracia
+Dialogue: 0,0:04:34.22,0:04:40.71,Italics Top,Zafar,0,0,0,,our autonomous units infiltrated Legion-held territory \Nand managed to observe the Morpho.
+Dialogue: 0,0:04:40.71,0:04:44.91,Italics Top,Zafar,0,0,0,,You didn't land a direct hit, \Nbut you severely damaged it.
+Dialogue: 0,0:04:45.92,0:04:48.39,Italics Top,Bel,0,0,0,,If you could get that close,
+Dialogue: 0,0:04:45.97,0:04:51.97,sign_6857_47_Lieutenant_Gener,Onscreen,0,0,0,,{\fad(1,429)}Lieutenant General Bel Aegis \NAlliance of Wald
+Dialogue: 0,0:04:48.39,0:04:52.95,Italics Top,Bel,0,0,0,,couldn't your machines \Nhave eliminated the Morpho?
+Dialogue: 0,0:04:54.38,0:04:57.72,Italics,Zafar,0,0,0,,Unfortunately, they can't carry \Nthat kind of payload.
+Dialogue: 0,0:04:57.72,0:05:02.20,Italics,Zafar,0,0,0,,And many have to be destroyed \Njust to get one in.
+Dialogue: 0,0:05:03.16,0:05:06.82,Italics,Bel,0,0,0,,I see. \NSo you spent quite a lot on this.
+Dialogue: 0,0:05:06.82,0:05:10.22,Italics,Zafar,0,0,0,,We're all about to embark \Non a joint operation.
+Dialogue: 0,0:05:10.22,0:05:12.16,Italics,Zafar,0,0,0,,There's no sense in hiding anything.
+Dialogue: 0,0:05:12.56,0:05:18.62,Italics,Zafar,0,0,0,,Mutual trust is the most powerful way \Nto bind two humans, or two nations.
+Dialogue: 0,0:05:20.07,0:05:29.20,Main,Enrst,0,0,0,,The issue at hand is how we deal with the Morpho \Nand these supposedly sentient Legion.
+Dialogue: 0,0:05:29.20,0:05:33.60,Italics,Bel,0,0,0,,Sentient Legion commanders. \NWe've seen them here.
+Dialogue: 0,0:05:33.95,0:05:37.80,Italics,Zafar,0,0,0,,The Legion's weakness was that \Nthey rely on their numbers and strength,
+Dialogue: 0,0:05:37.80,0:05:40.63,Italics,Zafar,0,0,0,,but are tactically simple.
+Dialogue: 0,0:05:40.63,0:05:47.63,Italics,Bel,0,0,0,,That large offensive may have been an attempt \Nto lure more troops to the front lines.
+Dialogue: 0,0:05:47.63,0:05:49.65,Italics,Both,0,0,0,,It makes my head hurt.
+Dialogue: 0,0:05:52.48,0:05:53.61,Main,Reporting soldier,0,0,0,,Continuing...
+Dialogue: 0,0:05:53.61,0:05:56.95,Main,Reporting soldier,0,0,0,,From its movement speed \Nand last known firing position,
+Dialogue: 0,0:05:56.95,0:06:01.55,Main,Reporting soldier,0,0,0,,the Morpho is likely a train-based weapon\N that uses the old high-speed railway network.
+Dialogue: 0,0:06:01.55,0:06:05.84,Main,Reporting soldier,0,0,0,,Given the available routes \Nand its movement radius,
+Dialogue: 0,0:06:06.62,0:06:09.89,Main,Reporting soldier,0,0,0,,every one of our nation's capitals \Ncould be within its firing range.
+Dialogue: 0,0:06:10.38,0:06:14.75,Main,Reporting soldier,0,0,0,,Its current location \Nis the train terminal in Kreutzbek City.
+Dialogue: 0,0:06:14.75,0:06:17.70,Main,Reporting soldier,0,0,0,,We estimate it will take \Na minimum of eight weeks
+Dialogue: 0,0:06:17.70,0:06:20.24,Main,Reporting soldier,0,0,0,,for repairs and for it \Nto become combat capable again.
+Dialogue: 0,0:06:20.58,0:06:23.27,Main,Reporting soldier,0,0,0,,If we can't find some countermeasure by then...
+Dialogue: 0,0:06:24.15,0:06:26.00,Main,Reporting soldier,0,0,0,,we will be defeated.
+Dialogue: 0,0:06:27.97,0:06:30.24,Main,Ernst,0,0,0,,What countermeasures do we know will work?
+Dialogue: 0,0:06:30.64,0:06:32.85,Main,Willem,0,0,0,,No we know of.
+Dialogue: 0,0:06:34.41,0:06:40.03,Main,Willem,0,0,0,,Our anti-air guns aren't fast enough \Nto shoot it down, and we don't have enough to try.
+Dialogue: 0,0:06:40.03,0:06:43.67,Main,Willem,0,0,0,,We're bringing in more cruise missiles \Nfrom the other war zones,
+Dialogue: 0,0:06:43.67,0:06:47.11,Main,Willem,0,0,0,,but Legion jamming means \Nwe can't guide them.
+Dialogue: 0,0:06:47.11,0:06:51.42,Main,Willem,0,0,0,,And their slow speed makes them \Neasy targets for Legion AA.
+Dialogue: 0,0:06:51.42,0:06:55.80,Main,Willem,0,0,0,,The Morpho itself seems \Nto have powerful AA weaponry.
+Dialogue: 0,0:06:56.10,0:06:58.28,Main,Willem,0,0,0,,Another air strike likely would not work any better.
+Dialogue: 0,0:06:58.70,0:07:04.02,Main,Willem,0,0,0,,Without air superiority, an air-to-surface \Nattack will be extremely difficult,
+Dialogue: 0,0:07:04.02,0:07:07.75,Main,Willem,0,0,0,,and yet it lies far outside \Nour artillery range.
+Dialogue: 0,0:07:08.27,0:07:13.19,Main,General 1,0,0,0,,Then we'll have to eliminate it directly \Nusing ground troops.
+Dialogue: 0,0:07:18.66,0:07:24.20,Main,General 2,0,0,0,,An all-out offensive by every soldier \Nin the western theater into Legion-held territory.
+Dialogue: 0,0:07:24.72,0:07:30.57,Main,General 2,0,0,0,,A strike 100 km deep into enemy territory, \Nswarming with Legion.
+Dialogue: 0,0:07:32.29,0:07:36.74,Main,General 1,0,0,0,,Even if we bring in \Nall our immediately available reserves,
+Dialogue: 0,0:07:36.74,0:07:39.90,Main,General 1,0,0,0,,we lost 26% of our forces on that front \Nin the last attack.
+Dialogue: 0,0:07:39.90,0:07:43.58,Main,General 1,0,0,0,,Pulling troops from the other \Nbattle lines isn't an option,
+Dialogue: 0,0:07:43.58,0:07:46.85,Main,General 1,0,0,0,,so we'll have to do it \Nwith what we have here.
+Dialogue: 0,0:07:46.85,0:07:51.52,Main,General 3,0,0,0,,We've brought down the numbers of Legion \Nin that area by roughly the same amount, but...
+Dialogue: 0,0:07:51.69,0:07:53.94,Main,General 3,0,0,0,,They outnumber us by so much \Nto begin with.
+Dialogue: 0,0:07:54.19,0:07:57.36,Main,General 3,0,0,0,,Their manufacturing plants are unharmed.
+Dialogue: 0,0:07:57.36,0:08:01.37,Main,General 3,0,0,0,,In two months, \Nthere'll be even more of them.
+Dialogue: 0,0:08:01.58,0:08:03.48,Main,General 1,0,0,0,,It's a handy thing to have...
+Dialogue: 0,0:08:03.48,0:08:06.70,Main,General 1,0,0,0,,The power to predict destruction, \Nbut nothing else.
+Dialogue: 0,0:08:06.70,0:08:11.56,Main,General 3,0,0,0,,Whatever unit we choose \Nto eliminate it will die.
+Dialogue: 0,0:08:11.56,0:08:12.61,Main,General 2,0,0,0,,Yes.
+Dialogue: 0,0:08:13.07,0:08:16.15,Main,General 2,0,0,0,,That's why we should choose those \Nwho are most likely to succeed,
+Dialogue: 0,0:08:16.85,0:08:19.14,Main,General 2,0,0,0,,and least likely to be missed.
+Dialogue: 0,0:08:20.98,0:08:25.48,Dates,Onscreen,0,0,0,,{\fad(479,434)}August 29th, Stellar Year 2149
+Dialogue: 0,0:08:25.03,0:08:27.33,Main Top,Willem,0,0,0,,So you're the Eighty-Six?
+Dialogue: 0,0:08:28.03,0:08:32.87,Main,Willem,0,0,0,,Of course, I've seen your ages, \Nbut you really are still kids.
+Dialogue: 0,0:08:35.44,0:08:38.56,Main,Willem,0,0,0,,I'm sorry. \NI've read the reports.
+Dialogue: 0,0:08:38.78,0:08:43.84,Main,Willem,0,0,0,,You have incredibly strong combat abilities \Nand aren't even afraid of death.
+Dialogue: 0,0:08:44.82,0:08:47.89,Main,Willem,0,0,0,,But you're not in the Republic anymore.
+Dialogue: 0,0:08:47.89,0:08:49.90,Main,Willem,0,0,0,,Don't do anything reckless.
+Dialogue: 0,0:08:50.37,0:08:52.58,Main,Willem,0,0,0,,The Federacy isn't like the Republic.
+Dialogue: 0,0:08:52.97,0:08:55.49,Main,Willem,0,0,0,,Nobody here is replaceable.
+Dialogue: 0,0:08:56.02,0:08:57.78,Main,Willem,0,0,0,,For better, or for worse.
+Dialogue: 0,0:09:00.53,0:09:03.12,Main,Frederica,0,0,0,,Shinei, what's wrong?
+Dialogue: 0,0:09:03.98,0:09:04.83,Main,Shin,0,0,0,,Nothing.
+Dialogue: 0,0:09:04.83,0:09:07.80,Main,Theo,0,0,0,,You still tired?
+Dialogue: 0,0:09:07.80,0:09:11.35,Main,Theo,0,0,0,,That last fight was \Nprobably really noisy for you.
+Dialogue: 0,0:09:11.35,0:09:14.04,Main,Theo,0,0,0,,Didn't you get overwhelmed near the end?
+Dialogue: 0,0:09:14.04,0:09:17.15,Main,Anju,0,0,0,,You didn't even notice the Legion's retreat.
+Dialogue: 0,0:09:17.15,0:09:21.63,Main,Frederica,0,0,0,,I knew it. \NThat's not how you usually fight.
+Dialogue: 0,0:09:21.89,0:09:25.60,Main,Frederica,0,0,0,,I synchronized with you, \Nbut you didn't respond at all.
+Dialogue: 0,0:09:26.04,0:09:27.31,Main,Shin,0,0,0,,Synchronized?
+Dialogue: 0,0:09:27.31,0:09:29.47,Main,Frederica,0,0,0,,You didn't even notice?
+Dialogue: 0,0:09:30.46,0:09:34.84,Main,Frederica,0,0,0,,You should all get some rest, \Nespecially Shinei.
+Dialogue: 0,0:09:34.84,0:09:38.14,Main,Frederica,0,0,0,,You know at the bottom of your hearts \Nthat you're all exhausted.
+Dialogue: 0,0:09:38.14,0:09:39.87,Main,Theo,0,0,0,,At a time like this?
+Dialogue: 0,0:09:39.87,0:09:42.05,Main,Theo,0,0,0,,That'd be rough.
+Dialogue: 0,0:09:42.05,0:09:45.57,Main,Frederica,0,0,0,,Maintaining a soldier's mental health \Nis an important part of the military.
+Dialogue: 0,0:09:45.57,0:09:51.66,Main,Frederica,0,0,0,,Especially since you're Eighty-Six, \Nyou'll be given some special consideration—
+Dialogue: 0,0:09:52.16,0:09:54.14,Main,Kurena,0,0,0,,I don't want that.
+Dialogue: 0,0:09:54.14,0:09:57.29,Main,Kurena,0,0,0,,I don't want to be treated \Ndifferently out of pity!
+Dialogue: 0,0:10:00.33,0:10:02.15,Main,Soldiers,0,0,0,,Eighty-Six...
+Dialogue: 0,0:10:03.30,0:10:04.41,Main,Raiden,0,0,0,,Kurena.
+Dialogue: 0,0:10:04.41,0:10:06.92,Main,Kurena,0,0,0,,I much prefer to be looked at that way.
+Dialogue: 0,0:10:06.92,0:10:08.13,Main,Kurena,0,0,0,,I'm used to it.
+Dialogue: 0,0:10:09.20,0:10:09.99,Main,Theo,0,0,0,,Well...
+Dialogue: 0,0:10:09.99,0:10:15.12,Main,Theo,0,0,0,,We got lucky this time, but the whole base\N could be blown up at any moment.
+Dialogue: 0,0:10:15.12,0:10:17.05,Main,Theo,0,0,0,,Everyone's on edge.
+Dialogue: 0,0:10:17.05,0:10:20.23,Main,Anju,0,0,0,,They said that it would take two months \Nto repair the Morpho,
+Dialogue: 0,0:10:20.23,0:10:23.89,Main,Anju,0,0,0,,and we shouldn't expect any attacks \Nuntil then.
+Dialogue: 0,0:10:23.89,0:10:25.81,Main,Theo,0,0,0,,That estimate's based off five seconds of footage
+Dialogue: 0,0:10:25.81,0:10:28.43,Main,Theo,0,0,0,,from some shady foreign country \Nand some weird psychic power.
+Dialogue: 0,0:10:28.43,0:10:32.01,Main,Theo,0,0,0,,I bet they feel like they can't trust it.
+Dialogue: 0,0:10:32.01,0:10:34.41,Main,Kurena,0,0,0,,But Shin knows the truth.
+Dialogue: 0,0:10:34.41,0:10:37.71,Main,Theo,0,0,0,,They didn't believe it \Ntill they heard that voice.
+Dialogue: 0,0:10:37.71,0:10:39.14,Main,Anju,0,0,0,,Yeah...
+Dialogue: 0,0:10:39.41,0:10:42.80,Main,Raiden,0,0,0,,But still, there's been \Nno major trouble or confusion.
+Dialogue: 0,0:10:42.80,0:10:46.25,Main,Raiden,0,0,0,,The Federacy trains its soldiers well.
+Dialogue: 0,0:10:46.25,0:10:49.16,Main,Theo,0,0,0,,The Republic's soldiers \Nwould turn tail and run.
+Dialogue: 0,0:10:50.18,0:10:53.62,Main,Theo,0,0,0,,I wonder if the Major's still alive.
+Dialogue: 0,0:10:54.29,0:10:55.52,Main,Anju,0,0,0,,Theo!
+Dialogue: 0,0:10:55.52,0:10:56.20,Main,Theo,0,0,0,,Oh...
+Dialogue: 0,0:10:56.20,0:10:58.11,Main,Kurena,0,0,0,,She wouldn't run.
+Dialogue: 0,0:10:58.11,0:10:59.34,Main,Anju,0,0,0,,Kurena!
+Dialogue: 0,0:11:05.11,0:11:06.13,Main,Shin,0,0,0,,What?
+Dialogue: 0,0:11:06.94,0:11:09.45,Main,Theo,0,0,0,,Don't tell me he doesn't realize it...
+Dialogue: 0,0:11:10.41,0:11:13.82,Main,Anju,0,0,0,,Is there anything we can do \Nabout the Morpho?
+Dialogue: 0,0:11:13.82,0:11:15.37,Main,Raiden,0,0,0,,We've got two months \Nto come up with a plan.
+Dialogue: 0,0:11:15.37,0:11:17.98,Main,Raiden,0,0,0,,Even if we do, \Nit probably won't be a good one.
+Dialogue: 0,0:11:17.98,0:11:20.54,Main,Theo,0,0,0,,It'll probably be us again.
+Dialogue: 0,0:11:20.54,0:11:21.57,Main,Raiden,0,0,0,,Probably.
+Dialogue: 0,0:11:21.57,0:11:24.04,Main,Frederica,0,0,0,,Are you okay with that?
+Dialogue: 0,0:11:24.04,0:11:27.98,Main,Kurena,0,0,0,,I just told you!
+Dialogue: 0,0:11:31.50,0:11:36.50,Dates,Onscreen,0,0,0,,{\fad(733,639)}August 28th, Stellar Year 2149
+Dialogue: 0,0:11:32.46,0:11:34.91,Main Top,Marcel,0,0,0,,You want me \Nto give it to him again?
+Dialogue: 0,0:11:35.49,0:11:37.00,Main Top,Nina,0,0,0,,There's no answer.
+Dialogue: 0,0:11:38.13,0:11:39.31,Main,Marcel,0,0,0,,Can I take a look?
+Dialogue: 0,0:11:50.34,0:11:54.10,Main,Marcel,0,0,0,,It's easier to blame it \Non somebody else.
+Dialogue: 0,0:11:56.43,0:11:58.42,Main,Marcel,0,0,0,,Be careful on your way home.
+Dialogue: 0,0:12:03.64,0:12:05.96,Main,Marcel,0,0,0,,I'll make sure he gets it.
+Dialogue: 0,0:12:09.41,0:12:12.92,Dates,Onscreen,0,0,0,,{\fad(444,1)}September 1st, Stellar Year 2149
+Dialogue: 0,0:12:33.97,0:12:35.60,Main,Nina,0,0,0,,Why did you abandon him?
+Dialogue: 0,0:12:36.32,0:12:40.61,Main,Nina,0,0,0,,Why didn't you save my brother?
+Dialogue: 0,0:12:42.46,0:12:44.52,Main,Nina,0,0,0,,You killed him, right?
+Dialogue: 0,0:12:46.33,0:12:47.25,Main,Shin,0,0,0,,Yeah.
+Dialogue: 0,0:12:48.25,0:12:50.50,Main,Nina,0,0,0,,I was waiting for him to come back!
+Dialogue: 0,0:12:51.03,0:12:53.87,Main,Nina,0,0,0,,You knew I was waiting!
+Dialogue: 0,0:12:54.91,0:12:57.20,Main,Nina,0,0,0,,Give my brother back!
+Dialogue: 0,0:12:57.39,0:12:59.46,Main,Man 1,0,0,0,,Why is it always you?
+Dialogue: 0,0:12:58.89,0:13:01.96,Main,Man 2,0,0,0,,Why should you be the one to survive?
+Dialogue: 0,0:13:02.21,0:13:04.71,Main,Man 3,0,0,0,,You have no reason to live!
+Dialogue: 0,0:13:05.06,0:13:09.78,Main,Man 1,0,0,0,,You have no one waiting \Nfor your return!
+Dialogue: 0,0:13:10.49,0:13:11.91,Main,Shin,0,0,0,,That's right.
+Dialogue: 0,0:13:12.62,0:13:16.43,Main,Man 1,0,0,0,,If you'd died instead of him...
+Dialogue: 0,0:13:17.19,0:13:18.28,Italics,Lena,0,0,0,,I won't forget!
+Dialogue: 0,0:13:22.38,0:13:23.64,Main,Shin,0,0,0,,Major...
+Dialogue: 0,0:13:26.70,0:13:29.88,Main,Grethe,0,0,0,,Lieutenant Nouzen, \NGeneral Richard wants to speak with you.
+Dialogue: 0,0:13:30.98,0:13:31.82,Main,Shin,0,0,0,,All right.
+Dialogue: 0,0:13:37.55,0:13:40.16,Main,Richard,0,0,0,,You can hear the Legion's voices.
+Dialogue: 0,0:13:40.54,0:13:42.79,Main,Richard,0,0,0,,You know where they are.
+Dialogue: 0,0:13:43.14,0:13:44.45,Main,Richard,0,0,0,,Do I understand that correctly?
+Dialogue: 0,0:13:45.08,0:13:45.85,Main,Shin,0,0,0,,Yes, sir.
+Dialogue: 0,0:13:46.25,0:13:47.78,Main,Richard,0,0,0,,Where are they?
+Dialogue: 0,0:14:10.99,0:14:12.51,Main,Richard,0,0,0,,Forget the Republic.
+Dialogue: 0,0:14:13.06,0:14:13.97,Main,Richard,0,0,0,,That's enough.
+Dialogue: 0,0:14:14.59,0:14:16.20,Main,Richard,0,0,0,,It seems you're telling the truth.
+Dialogue: 0,0:14:17.10,0:14:21.90,Main,Richard,0,0,0,,If you have that ability, \Nyou're even more suited for this operation.
+Dialogue: 0,0:14:21.90,0:14:23.99,Main,Richard,0,0,0,,It's quite simple.
+Dialogue: 0,0:14:24.25,0:14:28.74,Main,Richard,0,0,0,,Our three nations will launch \Na full assault as a decoy,
+Dialogue: 0,0:14:28.74,0:14:31.24,Main,Richard,0,0,0,,lure the enemy's main forces \Nto their respective fronts,
+Dialogue: 0,0:14:31.24,0:14:32.15,Main,Richard,0,0,0,,and then withdraw.
+Dialogue: 0,0:14:32.50,0:14:35.37,Main,Richard,0,0,0,,A special assault force \Nwill then make an aerial entry
+Dialogue: 0,0:14:35.37,0:14:38.07,Main,Richard,0,0,0,,into Legion-held territory, \Nwhich will now be less defended.
+Dialogue: 0,0:14:39.03,0:14:40.68,Main,Richard,0,0,0,,They will destroy the Morpho.
+Dialogue: 0,0:14:41.41,0:14:48.77,Main,Richard,0,0,0,,I'm assigning Lt. Shinei Nouzen and the 15 members \Nof Nordlicht to this special offensive.
+Dialogue: 0,0:14:49.59,0:14:53.13,Main,Richard,0,0,0,,You'll be at the vanguard \Nof the largest joint operation in history.
+Dialogue: 0,0:14:53.53,0:14:57.94,Main,Richard,0,0,0,,The edge of the spear \Nthat pierces the Legion's defenses.
+Dialogue: 0,0:14:57.94,0:14:59.24,Main,Richard,0,0,0,,Spearhead.
+Dialogue: 0,0:14:59.67,0:15:01.15,Main,Richard,0,0,0,,Give this your all.
+Dialogue: 0,0:15:02.01,0:15:05.02,Main,Grethe,0,0,0,,Permission to speak, General?
+Dialogue: 0,0:15:05.37,0:15:07.29,Main,Richard,0,0,0,,What is it, Wenzel?
+Dialogue: 0,0:15:07.29,0:15:10.69,Main,Grethe,0,0,0,,This is a suicide mission!
+Dialogue: 0,0:15:10.69,0:15:12.15,Main,Grethe,0,0,0,,Why them—
+Dialogue: 0,0:15:13.36,0:15:15.56,Flashback,Hart,0,0,0,,Because you're Eighty-Six!
+Dialogue: 0,0:15:16.46,0:15:18.54,Flashback,Kaie,0,0,0,,I don't think that's what he's saying.
+Dialogue: 0,0:15:18.54,0:15:20.89,Flashback,Daiya,0,0,0,,Well, it's what he means.
+Dialogue: 0,0:15:20.89,0:15:26.30,Flashback,Kujo,0,0,0,,We can't assign anybody with a family \Nto this insane mission, huh?
+Dialogue: 0,0:15:26.30,0:15:30.12,Flashback,Myna,0,0,0,,I guess Eighty-Six aren't welcome, \Nno matter where they go.
+Dialogue: 0,0:15:30.12,0:15:32.54,Flashback,Mikuri,0,0,0,,She knows that, \Nand she's still getting mad.
+Dialogue: 0,0:15:32.54,0:15:34.43,Flashback,Mikuri,0,0,0,,She can't change it!
+Dialogue: 0,0:15:34.43,0:15:36.77,Flashback,Mikuri,0,0,0,,Like that princess.
+Dialogue: 0,0:15:36.77,0:15:38.48,Flashback,Kujo,0,0,0,,I don't know anything about that!
+Dialogue: 0,0:15:38.48,0:15:42.89,Flashback,Rekka,0,0,0,,Wow, I can hear the voices of the Legion \Nall the way in the Republic's capital.
+Dialogue: 0,0:15:42.89,0:15:45.12,Flashback,Chise,0,0,0,,Did the white pigs all die?
+Dialogue: 0,0:15:45.12,0:15:46.75,Flashback,Kino,0,0,0,,They're on their way to hell!
+Dialogue: 0,0:15:46.75,0:15:50.29,Flashback,Kuroto,0,0,0,,I don't know if hell exists, \Nbut it's all the same when you're dead.
+Dialogue: 0,0:15:50.29,0:15:53.14,Flashback,Daiya,0,0,0,,Die as scum. \NOr die with pride.
+Dialogue: 0,0:15:53.64,0:15:55.97,Flashback,Daiya,0,0,0,,It's how you live that's important, right?
+Dialogue: 0,0:15:56.18,0:16:00.55,Flashback,Haruto,0,0,0,,We lived with pride! \NRight up to the very end!
+Dialogue: 0,0:16:01.20,0:16:05.78,Flashback,Kujo,0,0,0,,But that was only \Nbecause of you, Undertaker.
+Dialogue: 0,0:16:06.14,0:16:08.03,Flashback,Kujo,0,0,0,,Our Reaper!
+Dialogue: 0,0:16:08.79,0:16:10.26,Flashback,Kujo,0,0,0,,Don't forget that!
+Dialogue: 0,0:16:10.26,0:16:11.79,Flashback,Kujo,0,0,0,,Thanks!
+Dialogue: 0,0:16:13.98,0:16:15.95,Flashback,All,0,0,0,,Thanks!
+Dialogue: 0,0:16:21.87,0:16:25.53,Main,Shin,0,0,0,,I'm left behind... always.
+Dialogue: 0,0:16:27.74,0:16:29.18,Flashback,Lena,0,0,0,,I won't let you die.
+Dialogue: 0,0:16:32.11,0:16:34.73,Main,Shin,0,0,0,,Then I wanted you to live longer \Nthan we did.
+Dialogue: 0,0:16:35.12,0:16:36.66,Flashback,Lena,0,0,0,,Don't leave me.
+Dialogue: 0,0:16:37.12,0:16:39.63,Main,Shin,0,0,0,,That was my wish.
+Dialogue: 0,0:16:45.53,0:16:46.88,Flashback,Lena,0,0,0,,I won't forget.
+Dialogue: 0,0:16:53.12,0:16:54.43,Main,Shin,0,0,0,,Goodbye.
+Dialogue: 0,0:16:59.61,0:17:02.24,Main,Richard,0,0,0,,Somebody has to do it.
+Dialogue: 0,0:17:02.24,0:17:06.39,Main,Richard,0,0,0,,In that respect, \Nyou have experience in Legion territory.
+Dialogue: 0,0:17:06.39,0:17:09.25,Main,Richard,0,0,0,,If you've done it once, \Nyou can do it again.
+Dialogue: 0,0:17:09.55,0:17:14.30,Main,Richard,0,0,0,,The Federacy saved you \Nfrom the battlefield.
+Dialogue: 0,0:17:14.74,0:17:18.02,Main,Richard,0,0,0,,If you've come back to it,
+Dialogue: 0,0:17:18.37,0:17:20.25,Main,Richard,0,0,0,,it means you were willing to do this.
+Dialogue: 0,0:17:20.71,0:17:23.37,Main,Richard,0,0,0,,War is a soldier's job.
+Dialogue: 0,0:17:23.37,0:17:25.02,Main,Richard,0,0,0,,Dying in battle...
+Dialogue: 0,0:17:27.36,0:17:28.72,Main,Richard,0,0,0,,is part of the job.
+Dialogue: 0,0:17:32.76,0:17:34.14,Main,Shin,0,0,0,,Understood.
+Dialogue: 0,0:17:37.69,0:17:40.16,Main,Grethe,0,0,0,,Are you disillusioned, Lieutenant?
+Dialogue: 0,0:17:40.61,0:17:44.52,Main,Grethe,0,0,0,,That the world you ended up in \Nwas no better than this?
+Dialogue: 0,0:17:44.52,0:17:47.54,Main,Shin,0,0,0,,It's the best solution \Nto the problem at hand.
+Dialogue: 0,0:17:47.93,0:17:50.44,Main,Shin,0,0,0,,Without taking out the Morpho, \Nno matter the cost,
+Dialogue: 0,0:17:50.44,0:17:53.38,Main,Shin,0,0,0,,it will be difficult for the Federacy \Nto maintain its battle lines.
+Dialogue: 0,0:17:53.81,0:17:54.61,Main,Grethe,0,0,0,,Yes.
+Dialogue: 0,0:17:55.47,0:17:59.51,Main,Grethe,0,0,0,,But all we need for this mission \Nis your power.
+Dialogue: 0,0:17:59.51,0:18:04.17,Main,Grethe,0,0,0,,As long as the Morpho is destroyed, \NI'm allowed to say how the operation is done.
+Dialogue: 0,0:18:04.71,0:18:08.43,Main,Grethe,0,0,0,,I'm sending the other foreign units \Non this mission.
+Dialogue: 0,0:18:08.74,0:18:11.09,Main,Grethe,0,0,0,,You don't have to go yourself.
+Dialogue: 0,0:18:11.09,0:18:12.82,Main,Grethe,0,0,0,,You and your friends must stay here.
+Dialogue: 0,0:18:13.98,0:18:18.42,Main,Grethe,0,0,0,,And when this is over, \Nquit the military.
+Dialogue: 0,0:18:18.86,0:18:23.97,Main,Grethe,0,0,0,,You've fought more than enough for your homeland, \Nwhich refused to protect you.
+Dialogue: 0,0:18:24.28,0:18:25.08,Main,Grethe,0,0,0,,So—
+Dialogue: 0,0:18:24.58,0:18:25.32,Main,Shin,0,0,0,,So...
+Dialogue: 0,0:18:26.72,0:18:29.99,Main,Shin,0,0,0,,You want us to cease being \Nwho we are,
+Dialogue: 0,0:18:29.99,0:18:32.33,Main,Shin,0,0,0,,for the sake of your "pity" \Nand your "sense of justice"?
+Dialogue: 0,0:18:32.33,0:18:33.81,Main,Shin,0,0,0,,Is that right?
+Dialogue: 0,0:18:34.54,0:18:36.86,Main,Shin,0,0,0,,I'm grateful that you saved me.
+Dialogue: 0,0:18:37.36,0:18:41.21,Main,Shin,0,0,0,,But that does not give you \Nthe right to pity me.
+Dialogue: 0,0:18:41.75,0:18:44.18,Main,Shin,0,0,0,,It doesn't give you the right \Nto tell me not to fight,
+Dialogue: 0,0:18:44.69,0:18:47.43,Main,Shin,0,0,0,,or to run from the battle \Nand make someone else fight for me.
+Dialogue: 0,0:18:47.43,0:18:50.66,Main,Shin,0,0,0,,I refuse to be like the Republic
+Dialogue: 0,0:18:50.66,0:18:54.08,Main,Shin,0,0,0,,or turn my eyes from the war \Nuntil the day the end comes!
+Dialogue: 0,0:18:54.59,0:18:55.69,Main,Shin,0,0,0,,We...
+Dialogue: 0,0:19:04.46,0:19:06.91,Main,Shin,0,0,0,,There may be a time lag \Nthat causes the mission to fail.
+Dialogue: 0,0:19:07.40,0:19:10.84,Main,Shin,0,0,0,,I'll take direct command \Nof the assault team.
+Dialogue: 0,0:19:19.98,0:19:23.92,Main Top,Ernst,0,0,0,,I guess we can't keep quiet \Nabout it any longer.
+Dialogue: 0,0:19:25.71,0:19:29.82,Main,Willem,0,0,0,,I'm sorry for making you \Ndo the hard job, General.
+Dialogue: 0,0:19:30.04,0:19:31.18,Main,Richard,0,0,0,,It's fine.
+Dialogue: 0,0:19:31.18,0:19:33.83,Main,Richard,0,0,0,,This is a division commander's responsibility.
+Dialogue: 0,0:19:35.84,0:19:39.45,Main,Richard,0,0,0,,Do you think he'll be able \Nto come back? Even alone.
+Dialogue: 0,0:19:39.45,0:19:43.47,Main,Willem,0,0,0,,Strategic Planning HQ says the odds \Nof survival are close to zero.
+Dialogue: 0,0:19:43.94,0:19:49.31,Main,Willem,0,0,0,,The soldiers would be furious if one of their friends \Nwas sent on a mission like that.
+Dialogue: 0,0:19:49.31,0:19:52.91,Main,Willem,0,0,0,,But they'll accept it \Nif we send the Republic's monsters.
+Dialogue: 0,0:19:53.45,0:19:58.10,Main,Willem,0,0,0,,They'll smirk and say it's an\N appropriate mission for the Eighty-Six.
+Dialogue: 0,0:20:00.29,0:20:04.58,Main,Willem,0,0,0,,If you're a match for a monster, \Nthat means you're a monster yourself.
+Dialogue: 0,0:20:04.84,0:20:10.89,Main,Willem,0,0,0,,If death is so attractive to them, \Nthen why don't we let them have it?
+Dialogue: 0,0:20:16.52,0:20:23.11,Dates,Onscreen,0,0,0,,{\fad(946,1)}September 2nd, Stellar Year 2149
+Dialogue: 0,0:20:23.44,0:20:24.98,Main,Grethe,0,0,0,,Any questions?
+Dialogue: 0,0:20:36.97,0:20:38.03,Main,Bernhold,0,0,0,,Commander,
+Dialogue: 0,0:20:39.01,0:20:43.11,Main,Bernhold,0,0,0,,I appreciate you not abandoning us, but...
+Dialogue: 0,0:20:43.93,0:20:51.11,Main,Bernhold,0,0,0,,I can't just watch kids the age of my and \Nmy relatives' children going off to die.
+Dialogue: 0,0:20:52.07,0:20:54.02,Main,Bernhold,0,0,0,,If you change your mind, \Nthat's fine.
+Dialogue: 0,0:20:54.93,0:20:57.80,Main,Bernhold,0,0,0,,Tell us to go without you.
+Dialogue: 0,0:21:12.46,0:21:16.37,Main,Raiden,0,0,0,,Well, it's a bad enough plan \Nthat they're saying that.
+Dialogue: 0,0:21:17.57,0:21:21.15,Main,Shin,0,0,0,,The Lieutenant Colonel has told us \Nwe're free to refuse.
+Dialogue: 0,0:21:21.15,0:21:22.68,Main,Kurena,0,0,0,,No way.
+Dialogue: 0,0:21:22.68,0:21:25.16,Main,Kurena,0,0,0,,If we run now, we're no different \Nfrom the white pigs.
+Dialogue: 0,0:21:25.16,0:21:28.17,Main,Anju,0,0,0,,You snapped at her, too, right?
+Dialogue: 0,0:21:28.55,0:21:30.60,Main,Anju,0,0,0,,We feel the same way.
+Dialogue: 0,0:21:33.17,0:21:39.27,Main,Theo,0,0,0,,But we were chosen for the most dangerous part \Nbecause we're Eighty-Six, right?
+Dialogue: 0,0:21:39.27,0:21:40.52,Main,Raiden,0,0,0,,Yeah.
+Dialogue: 0,0:21:40.52,0:21:44.69,Main,Theo,0,0,0,,Well, we're going 'cause we're Eighty-Six.
+Dialogue: 0,0:21:45.73,0:21:47.69,Main,Theo,0,0,0,,But I feel kind of lonely.
+Dialogue: 0,0:21:52.76,0:21:54.12,Main,Raiden,0,0,0,,Yeah.
+Dialogue: 0,0:21:57.21,0:21:58.03,Main,Raiden,0,0,0,,Shin!
+Dialogue: 0,0:21:58.03,0:21:59.63,Main,Kurena,0,0,0,,Let's go eat!
+Dialogue: 0,0:21:59.63,0:22:01.35,Main,Anju,0,0,0,,What's for dinner today?
+Dialogue: 0,0:22:01.35,0:22:02.81,Main,Theo,0,0,0,,I want something hot.
+Dialogue: 0,0:22:02.81,0:22:04.83,Main,Theo,0,0,0,,This place is cold.
+Dialogue: 0,0:22:04.83,0:22:05.85,Main,Kurena,0,0,0,,Right!
+Dialogue: 0,0:22:05.26,0:22:06.43,Main,Raiden,0,0,0,,You think?
+Dialogue: 0,0:22:06.43,0:22:08.35,Main,Anju,0,0,0,,It's too cold for girls.
+Dialogue: 0,0:23:31.05,0:23:34.97,Dates,Onscreen,0,0,0,,September 2nd, Stellar Year 2149
+Dialogue: 0,0:23:34.97,0:23:39.97,sign_33926_315_Special_Visual_C,Anju,0,0,0,,Special Visual Commentary Episode

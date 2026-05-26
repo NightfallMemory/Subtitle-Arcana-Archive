@@ -1,0 +1,366 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,18,1
+Style: Next time,Arial,22,&H00F8FFFF,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,0,0,7,35,499,54,1
+Style: Flashback Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H00474747,&H005B5D5F,0,0,0,0,100,100,0,0,1,2,1,7,35,38,50,1
+Style: Next Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H00474747,&H005B5D5F,0,0,0,0,100,100,0,0,1,1,1,3,35,50,70,1
+Style: Dates,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,176,176,58,1
+Style: sign_9546_88_Scout_type_Ameis,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,219,219,58,1
+Style: sign_9675_91_Dragoon_type_Gra,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,196,196,58,1
+Style: sign_9851_95_Tank_type_L__we,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,236,236,58,1
+Style: sign_10020_98_Electronic_Disru,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,107,107,58,1
+Style: sign_24835_234_After_Action_Rep,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,413,20,18,1
+Style: sign_27918_240_May_29th__Stella,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,176,176,58,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.75,0:00:02.46,Italics Top,Shin,0,0,0,,Hello, Handler One.
+Dialogue: 0,0:00:02.52,0:00:07.52,Dates,Shin,0,0,0,,{\fad(483,472)}May 22nd, Stellar Year 2148
+Dialogue: 0,0:00:02.69,0:00:05.09,Italics Top,Shin,0,0,0,,This is Spearhead Squadron's \Ncombat commander,
+Dialogue: 0,0:00:05.09,0:00:07.35,Italics Top,Shin,0,0,0,,Personal Name: Undertaker.
+Dialogue: 0,0:00:07.88,0:00:10.89,Italics,Shin,0,0,0,,We've received word of a new Handler coming.
+Dialogue: 0,0:00:10.89,0:00:13.00,Italics,Shin,0,0,0,,We look forward to working with you.
+Dialogue: 0,0:00:14.95,0:00:16.11,Main,Lena,0,0,0,,As do I.
+Dialogue: 0,0:00:16.57,0:00:19.55,Main,Lena,0,0,0,,Nice to meet you, Undertaker.
+Dialogue: 0,0:01:53.00,0:01:55.01,Dates,Lena,0,0,0,,May 22nd, Stellar Year 2148
+Dialogue: 0,0:01:57.91,0:01:59.09,Main,D,0,0,0,,Hey, there.
+Dialogue: 0,0:02:00.18,0:02:01.38,Main,Shin,0,0,0,,Hey.
+Dialogue: 0,0:02:01.56,0:02:03.61,Main,D,0,0,0,,The new one seems pretty dangerous.
+Dialogue: 0,0:02:04.65,0:02:07.72,Main,Kaei,0,0,0,,The new Handler! Did you forget already?
+Dialogue: 0,0:02:08.69,0:02:10.83,Main,R,0,0,0,,Shin! Shinei Nouzen!
+Dialogue: 0,0:02:10.83,0:02:13.14,Main,R,0,0,0,,You did it again, you bastard!
+Dialogue: 0,0:02:13.83,0:02:16.69,Main,Shin,0,0,0,,Old man Aldrecht's about to go off again.
+Dialogue: 0,0:02:18.19,0:02:18.91,Main,Shin,0,0,0,,You need something?
+Dialogue: 0,0:02:18.91,0:02:20.10,Main,,0,0,0,,Don't give me that!
+Dialogue: 0,0:02:20.52,0:02:23.87,Main,R,0,0,0,,I need to know why you keep smashing up \Nyour machines on every mission!
+Dialogue: 0,0:02:23.87,0:02:27.42,Main,R,0,0,0,,I keep telling you they have\N weak legs! So don't push them!
+Dialogue: 0,0:02:27.42,0:02:28.53,Main,Shin,0,0,0,,Sorry.
+Dialogue: 0,0:02:28.53,0:02:30.79,Main,R,0,0,0,,We don't have any more spare parts!
+Dialogue: 0,0:02:30.79,0:02:32.87,Main,R,0,0,0,,We won't be able to repair it \Nuntil the next batch of them comes!
+Dialogue: 0,0:02:33.17,0:02:36.65,Main,Shin,0,0,0,,Fido should've brought back Kujo's machine.
+Dialogue: 0,0:02:39.05,0:02:43.37,Main,R,0,0,0,,Yeah, I guess we can use \Nthe ones from theirs.
+Dialogue: 0,0:02:43.37,0:02:47.85,Main,R,0,0,0,,But are you okay with using parts \Nfrom a machine someone died in?
+Dialogue: 0,0:02:54.30,0:02:55.84,Main,R,0,0,0,,I guess it's a little late to ask that.
+Dialogue: 0,0:02:56.69,0:02:59.39,Main,R,0,0,0,,Got it, Undertaker.
+Dialogue: 0,0:03:00.23,0:03:04.61,Main,R,0,0,0,,Kujo was lucky to die in a unit \Nthat had you.
+Dialogue: 0,0:03:05.11,0:03:09.70,Main,R,0,0,0,,You take the other Processors, too.
+Dialogue: 0,0:03:11.77,0:03:15.51,Main,R,0,0,0,,By the way, I heard the news.
+Dialogue: 0,0:03:15.51,0:03:16.66,Main,R,0,0,0,,What's the new Handler like?
+Dialogue: 0,0:03:17.37,0:03:18.20,Main,Shin,0,0,0,,Fine.
+Dialogue: 0,0:03:18.20,0:03:20.73,Main,R,0,0,0,,"Fine"? Listen, you...
+Dialogue: 0,0:03:20.73,0:03:23.46,Main,Shin,0,0,0,,They synch'd to say "hello,"
+Dialogue: 0,0:03:23.46,0:03:28.12,Main,Shin,0,0,0,,that they want to maintain good lines \Nof communication, and will be calling every day.
+Dialogue: 0,0:03:28.53,0:03:31.14,Main,Shin,0,0,0,,Rare, for a Republic soldier.
+Dialogue: 0,0:03:31.38,0:03:34.39,Main,R,0,0,0,,So, what you'd call an "ordinary person"?
+Dialogue: 0,0:03:34.61,0:03:38.94,Main,R,0,0,0,,They must live a hard life, the poor thing.
+Dialogue: 0,0:03:54.63,0:03:58.13,Dates,R,0,0,0,,May 29th, Stellar Year 2148
+Dialogue: 0,0:03:58.12,0:03:59.78,Main,Unknown SpeakerShin,0,0,0,,Ready... Go!
+Dialogue: 0,0:03:59.78,0:04:00.84,Main,Unknown SpeakerShin,0,0,0,,Got it!
+Dialogue: 0,0:04:00.84,0:04:01.63,Main,Unknown SpeakerShin,0,0,0,,Yes!
+Dialogue: 0,0:04:17.00,0:04:17.70,Main,Raiden,0,0,0,,There!
+Dialogue: 0,0:04:18.42,0:04:20.04,Main,Raiden,0,0,0,,Big haul, huh?
+Dialogue: 0,0:04:20.04,0:04:21.73,Main,Kurena,0,0,0,,We'll have a party tonight!
+Dialogue: 0,0:04:21.73,0:04:23.39,Main,Raiden,0,0,0,,You good to go, Fido?
+Dialogue: 0,0:04:23.87,0:04:26.05,Main,Daiya,0,0,0,,This isn't bullying, okay?
+Dialogue: 0,0:04:26.45,0:04:28.91,Main,Kurena,0,0,0,,No telling Shin.
+Dialogue: 0,0:04:30.21,0:04:33.29,Main,Kurena,0,0,0,,Is that a "yes"? Or a "no"?
+Dialogue: 0,0:04:34.12,0:04:36.24,Italics,Theo,0,0,0,,You guys who are out on a walk, \Ncan you hear me?
+Dialogue: 0,0:04:36.24,0:04:37.46,Main,Raiden,0,0,0,,What's up, Theo?
+Dialogue: 0,0:04:37.46,0:04:38.97,Italics,Theo,0,0,0,,Weather report's changed.
+Dialogue: 0,0:04:39.21,0:04:40.17,Italics,Theo,0,0,0,,Rain's coming.
+Dialogue: 0,0:04:41.84,0:04:43.78,Main,Raiden,0,0,0,,Eintagsfliege.
+Dialogue: 0,0:04:43.78,0:04:45.96,Italics,Theo,0,0,0,,Jammers, too.
+Dialogue: 0,0:04:45.96,0:04:47.67,Italics,Theo,0,0,0,,That means the radar will be down.
+Dialogue: 0,0:04:47.94,0:04:49.21,Main,Kurena,0,0,0,,When will they get here?
+Dialogue: 0,0:04:49.21,0:04:51.08,Italics,Theo,0,0,0,,In about two hours, I'm told.
+Dialogue: 0,0:04:51.08,0:04:52.69,Main,Raiden,0,0,0,,Got it. Heading back.
+Dialogue: 0,0:04:52.69,0:04:55.06,Italics,Theo,0,0,0,,No Shepherds this time, it seems.
+Dialogue: 0,0:04:55.06,0:04:57.18,Italics,Theo,0,0,0,,They'll just try and overwhelm you.
+Dialogue: 0,0:04:57.18,0:04:58.70,Main,Raiden,0,0,0,,Just Sheep?
+Dialogue: 0,0:04:58.70,0:05:00.12,Main,Raiden,0,0,0,,A duck hunt, then.
+Dialogue: 0,0:05:06.07,0:05:07.25,Main,Shin,0,0,0,,Good, everybody's here.
+Dialogue: 0,0:05:07.78,0:05:08.57,Main,Shin,0,0,0,,Attention.
+Dialogue: 0,0:05:14.86,0:05:16.53,Main,Shin,0,0,0,,I'll explain the situation.
+Dialogue: 0,0:05:17.03,0:05:20.39,Main,Shin,0,0,0,,There's one swarm close by, \Nand another linking up with it from the rear.
+Dialogue: 0,0:05:20.74,0:05:22.44,Main,Shin,0,0,0,,Supplying the first, probably.
+Dialogue: 0,0:05:22.44,0:05:23.96,Main,Shin,0,0,0,,As soon as that's done, they'll attack.
+Dialogue: 0,0:05:24.45,0:05:27.64,Main,Shin,0,0,0,,We'll ambush them \Nat point 304 on their route.
+Dialogue: 0,0:05:27.64,0:05:30.03,Main,Shin,0,0,0,,Establish a kill zone on Main Street,
+Dialogue: 0,0:05:30.03,0:05:32.44,Main,Shin,0,0,0,,where we'll eliminate most of the enemy.
+Dialogue: 0,0:05:41.24,0:05:44.56,Italics,Haruto,0,0,0,,Even in spring, it gets cold\N when the sun disappears.
+Dialogue: 0,0:05:44.56,0:05:47.86,Italics,Kino,0,0,0,,The cockpit gets awful cold, \Nconsidering how cramped it is.
+Dialogue: 0,0:05:47.86,0:05:51.17,Italics,Theo,0,0,0,,Well, the armor's paper-thin\N and has plenty of gaps in it.
+Dialogue: 0,0:05:51.17,0:05:52.75,Italics,Kurena,0,0,0,,And it's slow.
+Dialogue: 0,0:05:52.75,0:05:54.09,Italics,Kaie,0,0,0,,And it breaks easily.
+Dialogue: 0,0:05:54.09,0:05:56.51,Italics,Daiya,0,0,0,,Yup. It's a piece of shit.
+Dialogue: 0,0:05:57.86,0:06:01.97,Italics,Lena,0,0,0,,Handler One to all units. \NThe enemy appears to be approaching.
+Dialogue: 0,0:06:01.97,0:06:04.80,Italics,Lena,0,0,0,,Deploy to Point 208 and intercept them!
+Dialogue: 0,0:06:04.80,0:06:06.96,Main,Shin,0,0,0,,Undertaker to Handler One.
+Dialogue: 0,0:06:06.96,0:06:08.61,Main,Shin,0,0,0,,We're already deployed.
+Dialogue: 0,0:06:09.02,0:06:12.73,Main,Shin,0,0,0,,We'll intercept them \Nat point 304, farther ahead.
+Dialogue: 0,0:06:12.73,0:06:14.16,Italics,Lena,0,0,0,,That's fast.
+Dialogue: 0,0:06:14.16,0:06:16.55,Italics,Lena,0,0,0,,You're as good as they say, Undertaker.
+Dialogue: 0,0:06:19.73,0:06:20.84,Main,Raiden,0,0,0,,Here they come.
+Dialogue: 0,0:06:32.56,0:06:36.22,Italics,Raiden,0,0,0,,The Legion's out in force again today.
+Dialogue: 0,0:06:38.12,0:06:41.50,sign_9546_88_Scout_type_Ameis,Raiden,0,0,0,,Scout type Ameise
+Dialogue: 0,0:06:38.29,0:06:40.70,Italics Top,Daiya,0,0,0,,Well, they're mostly Ameise.
+Dialogue: 0,0:06:40.70,0:06:43.77,Italics Top,Anju,0,0,0,,They're easy to destroy, but obnoxious.
+Dialogue: 0,0:06:43.50,0:06:46.61,sign_9675_91_Dragoon_type_Gra,Anju,0,0,0,,Dragoon type Grauwolf
+Dialogue: 0,0:06:43.77,0:06:46.58,Italics Top,Haruto,0,0,0,,Grauwolfs? What a pain.
+Dialogue: 0,0:06:46.58,0:06:48.97,Italics,Theo,0,0,0,,I guess we have to take this seriously.
+Dialogue: 0,0:06:50.04,0:06:51.83,Italics Top,Kurena,0,0,0,,I really hate that guy.
+Dialogue: 0,0:06:50.84,0:06:54.10,sign_9851_95_Tank_type_L__we,Kurena,0,0,0,,{\fad(487,473)}Tank type Löwe
+Dialogue: 0,0:06:51.83,0:06:55.08,Italics Top,Kaie,0,0,0,,A Löwe's main gun is twice \Nas powerful ours.
+Dialogue: 0,0:06:55.08,0:06:57.16,Italics Top,Anju,0,0,0,,It can kill you fast.
+Dialogue: 0,0:06:57.89,0:07:00.44,sign_10020_98_Electronic_Disru,Anju,0,0,0,,Electronic-Disruption type Eintagsfliege
+Dialogue: 0,0:07:02.47,0:07:05.31,Main,Raiden,0,0,0,,Okay, time to get to work.
+Dialogue: 0,0:07:19.50,0:07:20.27,Main,Shin,0,0,0,,Open fire.
+Dialogue: 0,0:07:41.97,0:07:46.07,Main,Shin,0,0,0,,Third platoon, withdraw to the southeast, \N and keep your current targets close to you.
+Dialogue: 0,0:07:46.34,0:07:48.68,Main,Shin,0,0,0,,Fifth platoon, \Nmaintain your current position.
+Dialogue: 0,0:07:48.68,0:07:52.32,Main,Shin,0,0,0,,When an enemy platoon enters the kill zone, \Nwipe them out with coordinated fire.
+Dialogue: 0,0:07:52.32,0:07:54.06,Main,Daiya,0,0,0,,Black Dog, roger.
+Dialogue: 0,0:07:54.06,0:07:56.66,Main,Daiya,0,0,0,,Snow Witch, reload while you can.
+Dialogue: 0,0:07:56.81,0:07:58.59,Main,Anju,0,0,0,,Snow Witch, roger.
+Dialogue: 0,0:07:58.59,0:07:59.78,Main,Anju,0,0,0,,As always, thanks for the reminder.
+Dialogue: 0,0:07:59.78,0:08:01.78,Main,Theo,0,0,0,,Laughing Fox, same.
+Dialogue: 0,0:08:02.11,0:08:04.50,Main,Theo,0,0,0,,Don't shoot me, Black Dog!
+Dialogue: 0,0:08:34.97,0:08:37.40,Main,Shin,0,0,0,,All units, cease fire! Split up!
+Dialogue: 0,0:08:40.64,0:08:42.23,Italics,Lena,0,0,0,,Handler One to all units!
+Dialogue: 0,0:08:42.46,0:08:45.42,Italics,Lena,0,0,0,,That's Long-Range-Gunner type \NSkorpion fire. Be careful.
+Dialogue: 0,0:08:45.42,0:08:47.59,Italics,Lena,0,0,0,,I'm sending you the estimated location \Nof their spotters.
+Dialogue: 0,0:08:47.59,0:08:48.78,Italics,Lena,0,0,0,,Three potential locations.
+Dialogue: 0,0:08:48.78,0:08:49.99,Italics,Lena,0,0,0,,Confirm and take them out.
+Dialogue: 0,0:08:49.99,0:08:54.38,Main,Shin,0,0,0,,Gunslinger, four units at a distance of 1200, \Nheading 0-3-0, on the roof.
+Dialogue: 0,0:08:54.38,0:08:56.11,Italics,Kurena,0,0,0,,Roger. On it.
+Dialogue: 0,0:08:56.11,0:09:01.81,Main,Shin,0,0,0,,Handler One, directional laser-based data \Ntransmissions can reveal our location.
+Dialogue: 0,0:09:01.81,0:09:04.52,Main,Shin,0,0,0,,Please limit yourself to verbal \Ncommunication during operations.
+Dialogue: 0,0:09:04.97,0:09:06.35,Italics,Lena,0,0,0,,I'm sorry.
+Dialogue: 0,0:09:06.73,0:09:08.58,Main,Shin,0,0,0,,The next set of observers \Nwill be appearing soon.
+Dialogue: 0,0:09:08.58,0:09:10.91,Main,Shin,0,0,0,,Keep me informed of their location.
+Dialogue: 0,0:09:11.23,0:09:12.33,Italics,Lena,0,0,0,,Understood!
+Dialogue: 0,0:09:14.45,0:09:16.98,Italics,Raiden,0,0,0,,There's an awful lot \Nof them today, Undertaker.
+Dialogue: 0,0:09:16.98,0:09:18.33,Italics,Shin,0,0,0,,Duck hunt, right?
+Dialogue: 0,0:09:18.33,0:09:19.76,Italics,Shin,0,0,0,,Just enjoy yourself.
+Dialogue: 0,0:09:21.65,0:09:24.24,Italics,Shin,0,0,0,,There are definitely more Löwes \Nthan expected.
+Dialogue: 0,0:09:24.51,0:09:26.32,Italics,Shin,0,0,0,,The restricted vision makes them \Nmore dangerous, too.
+Dialogue: 0,0:09:28.88,0:09:31.43,Italics,Shin,0,0,0,,We should start whittling down their numbers.
+Dialogue: 0,0:09:31.70,0:09:34.13,Italics,Raiden,0,0,0,,You make it sound easy.
+Dialogue: 0,0:09:34.13,0:09:37.40,Italics,Shin,0,0,0,,I'll handle the Löwes. You deal with\N the others and take command.
+Dialogue: 0,0:09:37.40,0:09:41.47,Italics,Raident,0,0,0,,Roger that. Don't make Aldrecht \Nscream his head off again!
+Dialogue: 0,0:09:43.70,0:09:45.97,Italics,Lena,0,0,0,,Undertaker, what are you doing?
+Dialogue: 0,0:10:36.27,0:10:39.38,Italics,Lena,0,0,0,,So this is... Undertaker?
+Dialogue: 0,0:11:18.04,0:11:19.90,Main,Lena,0,0,0,,Handler One to all units!
+Dialogue: 0,0:11:19.90,0:11:23.09,Main Top,Lena,0,0,0,,That's Long-Range-Gunner type\N Skorpion fire. Be careful.
+Dialogue: 0,0:11:19.95,0:11:23.95,Dates,Lena,0,0,0,,{\fad(479,473)}May 29th, Stellar Year 2148
+Dialogue: 0,0:11:23.09,0:11:25.37,Main Top,Lena,0,0,0,,I'm sending you the estimated location \Nof their spotters.
+Dialogue: 0,0:11:25.37,0:11:26.55,Main,Lena,0,0,0,,Three potential locations.
+Dialogue: 0,0:11:26.55,0:11:27.66,Main,Lena,0,0,0,,Confirm and take them out.
+Dialogue: 0,0:11:29.42,0:11:34.11,Italics,Shin,0,0,0,,Handler One, directional laser-based data \Ntransmissions can reveal our location.
+Dialogue: 0,0:11:34.11,0:11:36.85,Italics,Shin,0,0,0,,Please limit yourself to verbal \Ncommunication during operations.
+Dialogue: 0,0:11:37.92,0:11:39.22,Main,Lena,0,0,0,,I'm sorry.
+Dialogue: 0,0:11:39.22,0:11:41.24,Italics,Shin,0,0,0,,The next set of observers \Nwill be appearing soon.
+Dialogue: 0,0:11:41.51,0:11:43.91,Italics,Shin,0,0,0,,Keep me informed of their location.
+Dialogue: 0,0:11:44.58,0:11:45.63,Main,Lena,0,0,0,,Understood!
+Dialogue: 0,0:11:48.03,0:11:52.44,Main,Teacher,0,0,0,,Stellar Year 2139, nine years ago...
+Dialogue: 0,0:11:52.44,0:11:58.30,Main,Teacher,0,0,0,,War was declared on the Republic of\N San Magnolia by the neighboring Empire of Giad.
+Dialogue: 0,0:11:58.30,0:12:03.54,Main,Teacher,0,0,0,,They began an invasion with their\N autonomous combat machines, the Legion.
+Dialogue: 0,0:12:03.84,0:12:05.53,Main,Teacher,0,0,0,,But we estimate that, in fact,
+Dialogue: 0,0:12:05.82,0:12:12.32,Main,Teacher,0,0,0,,Giad had been wiped out by its own\N out-of-control Legion four years prior.
+Dialogue: 0,0:12:12.32,0:12:18.30,Main,Teacher,0,0,0,,Given that all Legion have an operating time \Nof 50,000 hours—approximately six years—
+Dialogue: 0,0:12:18.30,0:12:22.04,Main,Teacher,0,0,0,,they will completely shut down \Nin about two years.
+Dialogue: 0,0:12:23.84,0:12:30.91,Main,Teacher,0,0,0,,Thus, you new soldiers will have only \Ntwo years before the war ends.
+Dialogue: 0,0:12:30.91,0:12:35.09,Main,Teacher,0,0,0,,But during that time, we hope \Nyou'll do your best to fulfill your duties.
+Dialogue: 0,0:12:35.49,0:12:39.19,Main,Teacher,0,0,0,,After all, the Republic's Juggernauts
+Dialogue: 0,0:12:39.19,0:12:43.65,Main,Teacher,0,0,0,,are vastly superior autonomous units \Ncompared to the Legion.
+Dialogue: 0,0:12:43.65,0:12:47.97,Main,Teacher,0,0,0,,Not one fatality has taken place \Nsince their introduction.
+Dialogue: 0,0:12:47.97,0:12:50.08,Main,Lena,0,0,0,,That's not true. People have died!
+Dialogue: 0,0:12:54.46,0:12:56.52,Main,Teacher,0,0,0,,Today, we have a real Handler
+Dialogue: 0,0:12:56.52,0:12:59.26,Main,Teacher,0,0,0,,who serves as a Juggernaut \Ncommand and control officer.
+Dialogue: 0,0:12:59.26,0:13:03.27,Main,Teacher,0,0,0,,This is Vladilena Milizé. \NShe wants to speak to you.
+Dialogue: 0,0:13:08.98,0:13:12.86,Main,Lena,0,0,0,,What I'm about to tell you \Nis the real history of the Republic.
+Dialogue: 0,0:13:13.51,0:13:18.65,Main,Lena,0,0,0,,Nine years ago, the Republic's regular army \Nwas brought to the point of collapse
+Dialogue: 0,0:13:18.65,0:13:23.38,Main,Lena,0,0,0,,in just a little over two weeks \Nby the Legion's overwhelming firepower.
+Dialogue: 0,0:13:23.80,0:13:27.74,Main,Lena,0,0,0,,The Republic's government went on\N to make two decisions.
+Dialogue: 0,0:13:28.04,0:13:32.80,Main,Lena,0,0,0,,The first was to withdraw of all its citizens \Ninto 85 administrative districts.
+Dialogue: 0,0:13:33.11,0:13:37.05,Main,Lena,0,0,0,,The other was to pass the\N Special Wartime Peace Preservation Act.
+Dialogue: 0,0:13:37.76,0:13:40.28,Main,Lena,0,0,0,,This law stripped citizenship and all rights
+Dialogue: 0,0:13:40.28,0:13:43.82,Main,Lena,0,0,0,,from anyone who did not have silver hair \Nand eyes like us Alba.
+Dialogue: 0,0:13:43.82,0:13:47.48,Main,Lena,0,0,0,,They would no longer be considered humans, \Nand instead would be kept
+Dialogue: 0,0:13:47.48,0:13:51.01,Main,Lena,0,0,0,,in carefully monitored internment camps \Noutside the 85 districts.
+Dialogue: 0,0:13:51.29,0:13:54.82,Main,Lena,0,0,0,,And due to that, as you're all aware,
+Dialogue: 0,0:13:54.82,0:13:57.73,Main,Lena,0,0,0,,the now supposedly empty area\N became known as the 86th district,
+Dialogue: 0,0:13:57.73,0:14:01.76,Main,Lena,0,0,0,,and the people who live \Nthere became known as Eighty-Six.
+Dialogue: 0,0:14:01.76,0:14:05.84,Main,Lena,0,0,0,,There they were forced to build \Nthe fortress Gran Mur—
+Dialogue: 0,0:14:05.84,0:14:08.93,Main,Lena,0,0,0,,the wall isolating the 86th district—
+Dialogue: 0,0:14:08.93,0:14:12.91,Main,Lena,0,0,0,,and to pilot the Juggernauts.
+Dialogue: 0,0:14:13.95,0:14:16.74,Main,Lena,0,0,0,,There are humans inside the Juggernauts!
+Dialogue: 0,0:14:16.74,0:14:20.83,Main,Lena,0,0,0,,But because the ones inside, \Nthe Eighty-Six, aren't "human,"
+Dialogue: 0,0:14:20.83,0:14:23.49,Main,Lena,0,0,0,,we say they're autonomous!
+Dialogue: 0,0:14:23.49,0:14:29.25,Main,Lena,0,0,0,,And even as we speak, they're out there, \Nsurrounded by Legion and fighting!
+Dialogue: 0,0:14:29.51,0:14:32.26,Main,Lena,0,0,0,,The news you see every morning isn't true.
+Dialogue: 0,0:14:32.26,0:14:34.57,Main,Lena,0,0,0,,People are dying!
+Dialogue: 0,0:14:34.57,0:14:37.55,Main,Lena,0,0,0,,Dozens can die in a single battle.
+Dialogue: 0,0:14:37.55,0:14:40.22,Main,Student,0,0,0,,But they're not human, right?
+Dialogue: 0,0:14:40.64,0:14:43.15,Main,Student,0,0,0,,They're humanoid pigs that failed to evolve.
+Dialogue: 0,0:14:43.15,0:14:44.65,Main,Lena,0,0,0,,They're human!
+Dialogue: 0,0:14:44.65,0:14:47.47,Main,Lena,0,0,0,,I fight with them every day!
+Dialogue: 0,0:14:47.69,0:14:50.02,Main,Student2,0,0,0,,You say you fight with them.
+Dialogue: 0,0:14:50.02,0:14:52.19,Main,Student2,0,0,0,,But have you ever gone to the battlefield?
+Dialogue: 0,0:14:55.29,0:14:57.70,Main,Lena,0,0,0,,I have. Just once.
+Dialogue: 0,0:14:59.72,0:15:03.46,Main,Lena,0,0,0,,I went to the battlefield, \Nbut I didn't fight.
+Dialogue: 0,0:15:04.06,0:15:08.35,Main,Lena,0,0,0,,The only ones who risk their lives \Nin battle are the Eighty-Six,
+Dialogue: 0,0:15:08.93,0:15:11.72,Main,Lena,0,0,0,,the people we stripped all rights from.
+Dialogue: 0,0:15:13.13,0:15:14.74,Main,Teacher,0,0,0,,You can't do this, Major!
+Dialogue: 0,0:15:14.74,0:15:18.85,Main,Teacher,0,0,0,,I told you not to say anything that sounds\N like you've sided with them!
+Dialogue: 0,0:15:18.85,0:15:23.13,Main,Lena,0,0,0,,Sir, what does our nation's flag stand for?
+Dialogue: 0,0:15:23.93,0:15:24.78,Main,Teacher,0,0,0,,What are you...
+Dialogue: 0,0:15:25.26,0:15:28.73,Main,Lena,0,0,0,,Freedom, equality, brotherhood, \Njustice, and nobility.
+Dialogue: 0,0:15:28.73,0:15:30.57,Main,Teacher,0,0,0,,And those apply only to humans!
+Dialogue: 0,0:15:30.57,0:15:32.38,Main,Teacher,0,0,0,,The Eighty-Six look human, but they aren't!
+Dialogue: 0,0:15:32.38,0:15:35.70,Main,Teacher,0,0,0,,You mustn't misinform my students!
+Dialogue: 0,0:15:44.14,0:15:48.85,Main,Lena,0,0,0,,The Eighty-Six are teenage \Nboys and girls, just like us!
+Dialogue: 0,0:15:48.85,0:15:52.41,Main,Lena,0,0,0,,But they don't enjoy entertainment \Nand luxuries the way we do.
+Dialogue: 0,0:15:52.41,0:15:54.51,Main,Lena,0,0,0,,They can't laugh innocently \Nthe way we do.
+Dialogue: 0,0:15:54.51,0:15:57.29,Main,Lena,0,0,0,,We can't leave them all alone!
+Dialogue: 0,0:15:57.82,0:16:00.99,Main,Lena,0,0,0,,We can't see them, \Nbut if we listen carefully,
+Dialogue: 0,0:16:00.99,0:16:03.55,Main,Lena,0,0,0,,we can hear the voices \Nof these nameless soldiers!
+Dialogue: 0,0:16:05.26,0:16:09.52,Main,Lena,0,0,0,,Even apart, we look at the same stars!
+Dialogue: 0,0:16:10.35,0:16:12.81,Italics,Anette,0,0,0,,And you told the new recruits that?
+Dialogue: 0,0:16:13.02,0:16:13.87,Main,Lena,0,0,0,,Yes.
+Dialogue: 0,0:16:16.10,0:16:18.89,Italics,Anette,0,0,0,,This time you'll get punished, right?
+Dialogue: 0,0:16:19.30,0:16:20.32,Main,Lena,0,0,0,,Don't worry.
+Dialogue: 0,0:16:20.51,0:16:24.44,Main,Lena,0,0,0,,Uncle Jérôme will tell them \Nhow firmly I believe in this.
+Dialogue: 0,0:16:24.96,0:16:28.20,Italics,Anette,0,0,0,,You're surprisingly cunning about that.
+Dialogue: 0,0:16:28.20,0:16:30.12,Italics,Anette,0,0,0,,You're being protected, huh?
+Dialogue: 0,0:16:30.12,0:16:33.67,Main,Lena,0,0,0,,It's not too late to change \Nthe Republic's foolish mistake!
+Dialogue: 0,0:16:33.67,0:16:34.87,Italics,Anette,0,0,0,,Right, right.
+Dialogue: 0,0:16:36.16,0:16:39.37,Italics,Anette,0,0,0,,So, how was your meeting \Nwith the famous Undertaker?
+Dialogue: 0,0:16:39.37,0:16:41.59,Main,Lena,0,0,0,,We're communicating regularly.
+Dialogue: 0,0:16:41.59,0:16:43.48,Main,Lena,0,0,0,,We synchronize with the Para-RAID nightly.
+Dialogue: 0,0:16:43.48,0:16:44.41,Italics,Anette,0,0,0,,Nightly?
+Dialogue: 0,0:16:44.41,0:16:45.62,Italics,Anette,0,0,0,,What do you talk about?
+Dialogue: 0,0:16:45.62,0:16:46.77,Main,Lena,0,0,0,,Lots of stuff.
+Dialogue: 0,0:16:46.77,0:16:49.03,Main,Lena,0,0,0,,Some of it not related \Nto work or the mission.
+Dialogue: 0,0:16:49.32,0:16:52.03,Main,Lena,0,0,0,,Even apart, our hearts are connected.
+Dialogue: 0,0:16:52.03,0:16:54.40,Italics,Anette,0,0,0,,I told you not to get too attached.
+Dialogue: 0,0:16:54.62,0:16:59.93,Main,Lena,0,0,0,,A capable leader with solid combat skills, \Nwho's a little reckless, but bold.
+Dialogue: 0,0:16:59.93,0:17:01.94,Main,Lena,0,0,0,,He's a very good soldier.
+Dialogue: 0,0:17:02.30,0:17:05.61,Main,Lena,0,0,0,,Undertaker isn't the scary man \Nthey say he is.
+Dialogue: 0,0:17:06.15,0:17:08.59,Italics,Anette,0,0,0,,That's just what you think, right?
+Dialogue: 0,0:17:09.73,0:17:12.05,Italics,Anette,0,0,0,,Your heart rate's elevated.
+Dialogue: 0,0:17:15.80,0:17:20.06,sign_24835_234_After_Action_Rep,Anette,0,0,0,,After Action Report
+Dialogue: 0,0:17:21.50,0:17:22.63,Main,Lena,0,0,0,,This, too...
+Dialogue: 0,0:17:23.07,0:17:24.79,Main,Lena,0,0,0,,And this, and this...
+Dialogue: 0,0:17:26.95,0:17:27.93,Main,Lena,0,0,0,,Jeez...
+Dialogue: 0,0:17:31.90,0:17:33.98,Main,Lena,0,0,0,,Para-RAID, activate.
+Dialogue: 0,0:17:34.46,0:17:38.70,Main,Lena,0,0,0,,Synchronization target: Spearhead Processor.
+Dialogue: 0,0:19:24.35,0:19:27.80,Main Top,Daiya,0,0,0,,Okay, one hit on King Bear, \Ntwo on Bunny Knight.
+Dialogue: 0,0:19:24.39,0:19:28.39,sign_27918_240_May_29th__Stella,Lena,0,0,0,,{\fad(482,473)}May 29th, Stellar Year 2148
+Dialogue: 0,0:19:27.80,0:19:30.70,Main Top,Daiya,0,0,0,,Haruto gets seven points!
+Dialogue: 0,0:19:31.37,0:19:33.10,Main,Haruto,0,0,0,,I missed two shots, huh?
+Dialogue: 0,0:19:33.50,0:19:36.35,Main,Haruto,0,0,0,,I'm just not that good with handguns.
+Dialogue: 0,0:19:36.35,0:19:40.27,Main Top,Kino,0,0,0,,Fido set the can sideways! Kaie!
+Dialogue: 0,0:19:40.27,0:19:41.58,Main,Raiden,0,0,0,,What do you think?
+Dialogue: 0,0:19:40.27,0:19:42.33,Main Top,Kaie,0,0,0,,Kaie Taniya, initiating mission!
+Dialogue: 0,0:19:42.66,0:19:44.61,Main,Raiden,0,0,0,,Point 208.
+Dialogue: 0,0:19:44.61,0:19:47.21,Main,Raiden,0,0,0,,That's what that Handler woman said, right?
+Dialogue: 0,0:19:49.14,0:19:53.06,Main,Shin,0,0,0,,It would've been the ideal deployment point, \Nif we'd left at that moment.
+Dialogue: 0,0:19:49.89,0:19:51.28,Main Top,Daiya,0,0,0,,Next, Kurena!
+Dialogue: 0,0:19:51.60,0:19:54.22,Main Top,Kurena,0,0,0,,Fido, don't line them up! Throw them!
+Dialogue: 0,0:19:53.06,0:19:56.99,Main,Raiden,0,0,0,,Yeah. It's such a teacher's-pet answer \Nthat it makes me want to throw up,
+Dialogue: 0,0:19:56.99,0:19:59.26,Main,Raiden,0,0,0,,but she's not just some spoiled rich kid.
+Dialogue: 0,0:19:59.62,0:20:02.08,Main,Kino,0,0,0,,Raiden, you're up!
+Dialogue: 0,0:20:02.37,0:20:03.85,Main,Raiden,0,0,0,,Okay!
+Dialogue: 0,0:20:05.83,0:20:09.18,Main,Raiden,0,0,0,,But how long can she keep up?
+Dialogue: 0,0:20:11.49,0:20:12.95,Main,Anju,0,0,0,,Hey, Kitty!
+Dialogue: 0,0:20:14.31,0:20:15.32,Main,Anju,0,0,0,,Here you go.
+Dialogue: 0,0:20:16.37,0:20:17.32,Main,Shin,0,0,0,,Thanks.
+Dialogue: 0,0:20:17.60,0:20:18.53,Main,Daiya,0,0,0,,Anju!
+Dialogue: 0,0:20:19.27,0:20:20.35,Main,Daiya,0,0,0,,I'll help you.
+Dialogue: 0,0:20:22.82,0:20:24.07,Main,Anju,0,0,0,,Thanks!
+Dialogue: 0,0:20:24.50,0:20:26.07,Main,Daiya,0,0,0,,Yeah, sure thing.
+Dialogue: 0,0:20:30.43,0:20:32.70,Main,Daiya,0,0,0,,I'll pass out Anju's cake!
+Dialogue: 0,0:20:32.70,0:20:34.35,Main Top,Unknown Speaker,0,0,0,,Yay!
+Dialogue: 0,0:20:33.34,0:20:35.32,Main,Anju,0,0,0,,Is that a good book?
+Dialogue: 0,0:20:35.94,0:20:41.34,Main,Anju,0,0,0,,When I'm thinking about something else, \Nit stops me from focusing on it.
+Dialogue: 0,0:20:41.95,0:20:42.84,Main,Anju,0,0,0,,I see.
+Dialogue: 0,0:20:43.48,0:20:46.10,Main,Anju,0,0,0,,It's always a lot of stress for you, huh?
+Dialogue: 0,0:20:47.15,0:20:50.01,Main,Haruto,0,0,0,,Shin, your turn!
+Dialogue: 0,0:20:55.96,0:20:58.72,Main,Haruto,0,0,0,,At least stand up! You're no fun!
+Dialogue: 0,0:21:04.17,0:21:07.11,Italics,Lena,0,0,0,,All units, may I have a word?
+Dialogue: 0,0:21:08.12,0:21:10.99,Main,Haruto,0,0,0,,A new record. A full continuous week.
+Dialogue: 0,0:21:10.99,0:21:12.03,Main,Shin,0,0,0,,It's fine.
+Dialogue: 0,0:21:12.41,0:21:15.38,Main,Shin,0,0,0,,Handler One, good work today.
+Dialogue: 0,0:21:15.38,0:21:18.12,Italics,Lena,0,0,0,,Yes, you too.
+Dialogue: 0,0:21:18.56,0:21:20.98,Italics,Lena,0,0,0,,You all seemed to be having a lot of fun.
+Dialogue: 0,0:21:20.98,0:21:22.78,Main,Shin,0,0,0,,We were just killing time.
+Dialogue: 0,0:21:22.78,0:21:24.06,Main,Shin,0,0,0,,Don't worry about it.
+Dialogue: 0,0:21:24.06,0:21:25.36,Italics,Lena,0,0,0,,I see.
+Dialogue: 0,0:21:26.26,0:21:30.41,Italics,Lena,0,0,0,,By the way, Undertaker, \NI need to scold you today.
+Dialogue: 0,0:21:30.41,0:21:31.60,Main,Shin,0,0,0,,What is it?
+Dialogue: 0,0:21:31.60,0:21:33.90,Italics,Lena,0,0,0,,I went to read the patrol and combat
+Dialogue: 0,0:21:33.90,0:21:37.66,Italics,Lena,0,0,0,,reports you'd filed \Nsince your arrival in Spearhead,
+Dialogue: 0,0:21:38.29,0:21:39.83,Italics,Lena,0,0,0,,and they were all the same.
+Dialogue: 0,0:21:40.38,0:21:43.92,Main,Shin,0,0,0,,Why do you care \Nwhat happens on the front lines?
+Dialogue: 0,0:21:43.92,0:21:45.53,Main,Shin,0,0,0,,You like to waste your time, huh?
+Dialogue: 0,0:21:45.53,0:21:50.84,Italics,Lena,0,0,0,,Part of a Handler's job is analyzing \NLegion tactics and formation tendencies.
+Dialogue: 0,0:21:50.84,0:21:54.25,Italics,Lena,0,0,0,,I understand that you don't send them \Nbecause we don't read them.
+Dialogue: 0,0:21:54.25,0:21:56.75,Italics,Lena,0,0,0,,That's our fault, so I'm not mad.
+Dialogue: 0,0:21:56.75,0:21:59.10,Italics,Lena,0,0,0,,But from now on, do it properly.
+Dialogue: 0,0:21:59.10,0:22:00.68,Italics,Lena,0,0,0,,I'll read them.
+Dialogue: 0,0:22:00.98,0:22:02.76,Main,Shin,0,0,0,,I'm not good at reading and writing.
+Dialogue: 0,0:22:04.01,0:22:07.97,Main,Theo,0,0,0,,Well, there were no schools in the camps.
+Dialogue: 0,0:22:07.97,0:22:09.86,Italics,Lena,0,0,0,,I'm sorry!
+Dialogue: 0,0:22:09.86,0:22:13.09,Main,Kaie,0,0,0,,It's not so much "not good at," \Nbut more "too lazy to."
+Dialogue: 0,0:22:13.09,0:22:14.60,Main,Kaie,0,0,0,,Right, Undertaker?
+Dialogue: 0,0:22:17.50,0:22:19.06,Italics,Lena,0,0,0,,Undertaker?
+Dialogue: 0,0:22:19.79,0:22:21.00,Main,Shin,0,0,0,,Very well.
+Dialogue: 0,0:22:21.00,0:22:23.90,Italics,Lena,0,0,0,,Send me one for all your missions \Nup to this point as well.
+Dialogue: 0,0:22:23.90,0:22:26.15,Main,Shin,0,0,0,,Will footage from the gun camera do?
+Dialogue: 0,0:22:26.15,0:22:27.50,Italics,Lena,0,0,0,,No. Write them.
+Dialogue: 0,0:22:30.03,0:22:31.48,Italics,Lena,0,0,0,,If we can analyze them,
+Dialogue: 0,0:22:31.48,0:22:32.75,Italics,Lena,0,0,0,,we can counter them.
+Dialogue: 0,0:22:32.75,0:22:35.66,Italics,Lena,0,0,0,,You're an ace unit, \Nso your records are especially valuable.
+Dialogue: 0,0:22:36.00,0:22:38.64,Italics,Lena,0,0,0,,We can lower attrition \Nacross the whole battlefield,
+Dialogue: 0,0:22:38.64,0:22:42.45,Italics,Lena,0,0,0,,including your unit. So help me, please.
+Dialogue: 0,0:22:42.45,0:22:44.02,Main,Raiden,0,0,0,,So young.
+Dialogue: 0,0:22:44.02,0:22:46.70,Italics,Lena,0,0,0,,No, I'm about the same age \Nas all of you.
+Dialogue: 0,0:22:47.90,0:22:51.00,Italics,Lena,0,0,0,,How long has it been \Nsince you joined the military?
+Dialogue: 0,0:22:51.00,0:22:53.75,Main,Kaie,0,0,0,,We're all in our fourth year, I guess?
+Dialogue: 0,0:22:53.75,0:22:57.17,Main,Raiden,0,0,0,,Undertaker's been here the longest. \NIt's his fifth year.
+Dialogue: 0,0:22:57.42,0:23:01.17,Italics,Lena,0,0,0,,So Undertaker's almost done \Nwith his term, huh?
+Dialogue: 0,0:23:02.63,0:23:05.97,Italics,Lena,0,0,0,,Is there something you want to do \Nwhen you leave the army
+Dialogue: 0,0:23:05.97,0:23:08.32,Italics,Lena,0,0,0,,and become a Republic citizen again?
+Dialogue: 0,0:23:08.32,0:23:10.85,Italics,Lena,0,0,0,,Somewhere you want to go, or want to see?
+Dialogue: 0,0:23:10.85,0:23:13.71,Main,Shin,0,0,0,,I've never thought about it.
+Dialogue: 0,0:23:13.99,0:23:15.76,Italics,Lena,0,0,0,,I see.
+Dialogue: 0,0:23:16.66,0:23:20.22,Italics,Lena,0,0,0,,But you might want \Nto start thinking about it now.
+Dialogue: 0,0:23:20.42,0:23:22.71,Italics,Lena,0,0,0,,You might come up with something.
+Dialogue: 0,0:23:22.71,0:23:24.83,Italics,Lena,0,0,0,,I'm sure it'll be fun.
+Dialogue: 0,0:23:30.63,0:23:32.39,Main,Shin,0,0,0,,You may be right.
+Dialogue: 0,0:23:36.39,0:23:37.91,Main,Lena,0,0,0,,"I Don't Want to Die."

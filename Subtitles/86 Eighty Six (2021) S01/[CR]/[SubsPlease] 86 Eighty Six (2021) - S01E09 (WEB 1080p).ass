@@ -1,0 +1,329 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,18,1
+Style: Next time,Arial,22,&H00F8FFFF,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,0,0,7,35,499,54,1
+Style: Flashback Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H00474747,&H005B5D5F,0,0,0,0,100,100,0,0,1,2,1,7,35,38,50,1
+Style: Next Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H00474747,&H005B5D5F,0,0,0,0,100,100,0,0,1,1,1,3,35,50,70,1
+Style: Dates,Arial,20,&H00FFFFFF,&H000000FF,&H004D4D4D,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,176,176,58,1
+Style: sign_12348_105_Explosive_Projec,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,408,20,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.47,0:00:03.98,Dates,,0,0,0,,{\fad(489,473)}September 28th, Stellar Year 2148
+Dialogue: 0,0:00:00.47,0:00:09.56,Italics Top,Voices,0,0,0,,I'm scared! It hurts so much! \NNo! Help me!
+Dialogue: 0,0:00:14.96,0:00:19.69,Main,Raiden,0,0,0,,I guess we're dealing \Nwith every single Legion in the area.
+Dialogue: 0,0:00:27.10,0:00:32.38,Italics Top,Rei,0,0,0,,Shin!
+Dialogue: 0,0:00:31.34,0:00:32.66,Italics,Raiden,0,0,0,,Shin, that voice...!
+Dialogue: 0,0:00:32.66,0:00:34.10,Italics,Shin,0,0,0,,Keep going.
+Dialogue: 0,0:00:34.61,0:00:37.68,Italics,Shin,0,0,0,,If you can hide in the forest, \Nthey won't be able to find you easily.
+Dialogue: 0,0:00:37.68,0:00:39.35,Italics,Shin,0,0,0,,Wait for them to pass and then move on.
+Dialogue: 0,0:00:39.35,0:00:40.34,Italics,Raiden,0,0,0,,Wait!
+Dialogue: 0,0:00:40.34,0:00:42.68,Italics,Shin,0,0,0,,Raiden, you're in charge.
+Dialogue: 0,0:00:42.68,0:00:44.00,Italics,Raiden,0,0,0,,What about you?
+Dialogue: 0,0:00:44.00,0:00:45.43,Italics,Shin,0,0,0,,I'll catch up after I defeat them.
+Dialogue: 0,0:00:45.71,0:00:47.69,Italics,Shin,0,0,0,,We can't move on until they're gone.
+Dialogue: 0,0:00:47.69,0:00:49.04,Italics,Shin,0,0,0,,I don't want to, anyway.
+Dialogue: 0,0:00:49.31,0:00:50.31,Italics,Shin,0,0,0,,And...
+Dialogue: 0,0:00:50.83,0:00:53.32,Main,Shin,0,0,0,,I guess he doesn't want \Nto let me get away.
+Dialogue: 0,0:00:55.18,0:00:58.28,Main,Raiden,0,0,0,,If you'd just ask me to fight with you...
+Dialogue: 0,0:00:59.36,0:01:01.40,Main,Raiden,0,0,0,,Hell no. I'm not following that order.
+Dialogue: 0,0:01:01.75,0:01:03.87,Main,Raiden,0,0,0,,I'll hold off the rest of them.
+Dialogue: 0,0:01:03.87,0:01:05.33,Main,Raiden,0,0,0,,So do this quick!
+Dialogue: 0,0:01:06.70,0:01:07.66,Italics,Shin,0,0,0,,You're a fool.
+Dialogue: 0,0:01:07.66,0:01:09.08,Main,Raiden,0,0,0,,So are you!
+Dialogue: 0,0:01:10.93,0:01:12.27,Main,Raiden,0,0,0,,Don't die.
+Dialogue: 0,0:01:19.31,0:01:22.37,Main,Shin,0,0,0,,I found you, brother.
+Dialogue: 0,0:03:08.40,0:03:09.44,Italics,Anju,0,0,0,,Something's weird!
+Dialogue: 0,0:03:09.44,0:03:11.84,Italics,Anju,0,0,0,,They're trying to pull us away from Shin!
+Dialogue: 0,0:03:12.86,0:03:15.55,Italics,Theo,0,0,0,,This isn't how Legion fight.
+Dialogue: 0,0:03:16.15,0:03:18.36,Main,Raiden,0,0,0,,It's that Shepherd's orders.
+Dialogue: 0,0:03:20.04,0:03:22.37,Main,Raiden,0,0,0,,He wants some private family time.
+Dialogue: 0,0:03:42.95,0:03:45.11,Main,Shin,0,0,0,,Anything I shoot won't get through.
+Dialogue: 0,0:03:47.03,0:03:48.61,Italics,Voice,0,0,0,,Help me!
+Dialogue: 0,0:03:48.61,0:03:51.01,Italics,Voice,0,0,0,,Help me! Help me!
+Dialogue: 0,0:03:57.30,0:03:59.74,Main,Shin,0,0,0,,He wants to kill me with his own hands.
+Dialogue: 0,0:04:00.00,0:04:01.69,Main,Shin,0,0,0,,Is that it?
+Dialogue: 0,0:04:05.32,0:04:08.59,Main,Shin,0,0,0,,I'm the same, brother.
+Dialogue: 0,0:04:15.42,0:04:17.47,Main,Theo,0,0,0,,Reloading! Back me up!
+Dialogue: 0,0:04:17.47,0:04:20.41,Italics,Kurena,0,0,0,,Again? How much ammo are we using?
+Dialogue: 0,0:04:20.41,0:04:22.07,Italics,Raiden,0,0,0,,I'm not counting!
+Dialogue: 0,0:04:22.07,0:04:23.11,Main,Anju,0,0,0,,Don't worry.
+Dialogue: 0,0:04:23.11,0:04:25.27,Main,Anju,0,0,0,,If we can just lower their numbers \Na bit more...
+Dialogue: 0,0:04:27.28,0:04:29.62,Main,Anju,0,0,0,,It seems that \Nthey're not interested in retreat.
+Dialogue: 0,0:04:29.62,0:04:31.63,Main,Raiden,0,0,0,,Fine by me.
+Dialogue: 0,0:04:31.63,0:04:32.69,Main,Raiden,0,0,0,,Let's do this!
+Dialogue: 0,0:04:36.30,0:04:38.72,Italics,Lena,0,0,0,,Lieutenant Shuga, \NI'm borrowing your left eye!
+Dialogue: 0,0:04:42.11,0:04:43.12,Italics,Lena,0,0,0,,Here they are.
+Dialogue: 0,0:04:44.71,0:04:47.08,Italics,Lena,0,0,0,,Prepare for impact!
+Dialogue: 0,0:04:59.88,0:05:02.85,Main,Raiden,0,0,0,,Is that you, Major Milizé?
+Dialogue: 0,0:05:02.85,0:05:04.46,Italics,Lena,0,0,0,,Yes. It's me.
+Dialogue: 0,0:05:04.46,0:05:06.90,Italics,Lena,0,0,0,,All personnel, I'm sorry I'm late.
+Dialogue: 0,0:05:06.90,0:05:08.06,Main,Raiden,0,0,0,,Are you an absolute moron?
+Dialogue: 0,0:05:08.47,0:05:11.64,Main,Raiden,0,0,0,,Trying to share visual perception...
+Dialogue: 0,0:05:11.64,0:05:13.59,Main,Lena,0,0,0,,I simply confirmed the impact.
+Dialogue: 0,0:05:13.59,0:05:16.41,Main,Lena,0,0,0,,Oh, I'm sure sharing visual information \Nis distracting,
+Dialogue: 0,0:05:16.41,0:05:18.32,Main,Lena,0,0,0,,so I'll close my left eye.
+Dialogue: 0,0:05:18.32,0:05:21.79,Main,Raiden,0,0,0,,Don't you know Handlers don't do that \Nbecause it causes blindness?
+Dialogue: 0,0:05:21.79,0:05:23.29,Main,Raiden,0,0,0,,And those are the mortars!
+Dialogue: 0,0:05:23.29,0:05:24.89,Main,Raiden,0,0,0,,You didn't get permission!
+Dialogue: 0,0:05:24.40,0:05:25.81,Italics,Lena,0,0,0,,So what?
+Dialogue: 0,0:05:28.06,0:05:30.19,Italics,Lena,0,0,0,,Blindness doesn't set in immediately.
+Dialogue: 0,0:05:30.19,0:05:33.89,Italics,Lena,0,0,0,,Breaking orders and using the guns \Nwithout permission won't kill me!
+Dialogue: 0,0:05:33.89,0:05:36.98,Italics,Lena,0,0,0,,The Republic doesn't play by any sane rules.
+Dialogue: 0,0:05:37.36,0:05:40.85,Italics,Lena,0,0,0,,So there's no reason for me to, either.
+Dialogue: 0,0:05:40.85,0:05:43.08,Italics,Lena,0,0,0,,I should've done this a long time ago.
+Dialogue: 0,0:05:43.53,0:05:46.27,Main,Raiden,0,0,0,,You're a real idiot.
+Dialogue: 0,0:05:46.27,0:05:48.59,Italics,Lena,0,0,0,,I'm not doing it for you.
+Dialogue: 0,0:05:48.59,0:05:51.70,Italics,Lena,0,0,0,,If this many Legion break through the front lines, \Nthe Republic is in danger.
+Dialogue: 0,0:05:51.70,0:05:54.41,Italics,Lena,0,0,0,,I'm just fighting \Nbecause I don't want to die.
+Dialogue: 0,0:05:57.35,0:05:59.24,Italics,Lena,0,0,0,,I'll handle the reinforcements.
+Dialogue: 0,0:05:59.68,0:06:03.04,Italics,Lena,0,0,0,,Handle the enemies you're fighting \Non your own.
+Dialogue: 0,0:06:03.54,0:06:05.01,Main,Raiden,0,0,0,,Fine, leave it to us.
+Dialogue: 0,0:06:05.01,0:06:07.17,Main,Raiden,0,0,0,,This is nothing new for us.
+Dialogue: 0,0:06:09.61,0:06:10.92,Italics,Lena,0,0,0,,Where's Captain Nouzen?
+Dialogue: 0,0:06:13.41,0:06:15.19,Main,Raiden,0,0,0,,Fighting his brother?
+Dialogue: 0,0:06:17.38,0:06:19.06,Main,Raiden,0,0,0,,That's what he's after.
+Dialogue: 0,0:06:22.03,0:06:24.74,Main,Raiden,0,0,0,,He can't hear our voices now.
+Dialogue: 0,0:07:02.73,0:07:05.11,Italics,Lena,0,0,0,,Enemy withdrawing!
+Dialogue: 0,0:07:05.27,0:07:06.11,Italics,Raiden,0,0,0,,Yes!
+Dialogue: 0,0:07:06.11,0:07:07.41,Italics,Theo,0,0,0,,We did it.
+Dialogue: 0,0:07:12.28,0:07:13.83,Italics,Lena,0,0,0,,Captain Nouzen!
+Dialogue: 0,0:07:13.83,0:07:16.60,Italics,Lena,0,0,0,,Captain Nouzen! Come in!
+Dialogue: 0,0:07:14.20,0:07:14.95,Main,Kurena,0,0,0,,Shin?
+Dialogue: 0,0:07:16.62,0:07:17.55,Main,All,0,0,0,,Shin?
+Dialogue: 0,0:07:17.55,0:07:19.00,Italics,Raiden,0,0,0,,Wake up, you fool!
+Dialogue: 0,0:07:19.35,0:07:20.53,Italics,Anju,0,0,0,,What is that?
+Dialogue: 0,0:07:20.53,0:07:22.28,Italics,Raiden,0,0,0,,Damn it! We've got to stop it!
+Dialogue: 0,0:07:22.28,0:07:23.66,Italics,Theo,0,0,0,,But how!
+Dialogue: 0,0:07:24.35,0:07:29.53,Italics,Lena,0,0,0,,Lieutenant Kukumila, determine the enemy's position \Nas accurately as possible and send it to me.
+Dialogue: 0,0:07:29.99,0:07:31.76,Italics,Lena,0,0,0,,I'll let you do the final guidance.
+Dialogue: 0,0:07:31.76,0:07:33.67,Italics,Lena,0,0,0,,Just hit it with the targeting waves.
+Dialogue: 0,0:07:33.67,0:07:34.58,Main,Kurena,0,0,0,,Do you mean—
+Dialogue: 0,0:07:34.58,0:07:35.55,Italics,Theo,0,0,0,,Are you going to hit it with artillery?
+Dialogue: 0,0:07:35.55,0:07:37.63,Italics,Anju,0,0,0,,It's too close! You'll hit Shin!
+Dialogue: 0,0:07:37.95,0:07:38.92,Italics,Lena,0,0,0,,I have a plan.
+Dialogue: 0,0:07:40.39,0:07:43.19,Italics,Lena,0,0,0,,I don't want to let him die, either.
+Dialogue: 0,0:07:50.54,0:07:52.45,Italics,Rei,0,0,0,,I held back a lot,
+Dialogue: 0,0:07:52.45,0:07:53.88,Italics,Rei,0,0,0,,and it was still so fragile.
+Dialogue: 0,0:07:54.41,0:07:56.95,Italics,Rei,0,0,0,,I may have hurt you,
+Dialogue: 0,0:07:56.95,0:07:59.58,Italics,Rei,0,0,0,,but I'll apologize for that, \Nand everything else, later.
+Dialogue: 0,0:08:00.07,0:08:03.61,Italics,Rei,0,0,0,,Finally... Finally you're coming back to me.
+Dialogue: 0,0:08:03.61,0:08:05.20,Italics,Rei,0,0,0,,We can be together again.
+Dialogue: 0,0:08:06.28,0:08:08.51,Italics,Rei,0,0,0,,I'll read you a book again.
+Dialogue: 0,0:08:09.74,0:08:15.09,Italics,Rei,0,0,0,,But first, \NI'll get rid of your human body!
+Dialogue: 0,0:08:28.45,0:08:30.41,Italics,Rei,0,0,0,,Little insects...
+Dialogue: 0,0:08:32.32,0:08:33.66,Italics,Rei,0,0,0,,You're wasting your time!
+Dialogue: 0,0:08:34.99,0:08:36.32,sign_12348_105_Explosive_Projec,Onscreen,0,0,0,,Explosive Projectile
+Dialogue: 0,0:08:35.07,0:08:38.45,Italics,Rei,0,0,0,,You pieces of shit... \NYou're going to let Shin die, too?
+Dialogue: 0,0:08:44.63,0:08:45.87,Italics,Rei,0,0,0,,Shin...
+Dialogue: 0,0:08:45.87,0:08:47.29,Flashback,Rei,0,0,0,,I'll protect Shin!
+Dialogue: 0,0:08:48.94,0:08:50.46,Flashback,Lena,0,0,0,,You want to protect him, but...
+Dialogue: 0,0:08:50.46,0:08:51.82,Flashback,Rei,0,0,0,,That's right!
+Dialogue: 0,0:08:51.82,0:08:54.04,Flashback,Rei,0,0,0,,I have to protect him!
+Dialogue: 0,0:08:54.82,0:08:56.85,Flashback,Rei,0,0,0,,He's my brother! I love him!
+Dialogue: 0,0:08:58.57,0:09:02.14,Flashback,Lena,0,0,0,,You want to protect him, \Nbut you're going to kill him again?
+Dialogue: 0,0:09:11.06,0:09:12.20,Flashback,Rei,0,0,0,,I...
+Dialogue: 0,0:09:12.94,0:09:13.85,Flashback,Rei,0,0,0,,I...
+Dialogue: 0,0:09:20.53,0:09:22.90,Flashback,Rei,0,0,0,,The rounds are duds?
+Dialogue: 0,0:09:30.81,0:09:32.41,Main,Kurena,0,0,0,,All rounds landed on target.
+Dialogue: 0,0:09:32.41,0:09:34.91,Italics,Theo,0,0,0,,But that won't even slow him down.
+Dialogue: 0,0:09:34.91,0:09:36.61,Italics,Theo,0,0,0,,We have to do something, now!
+Dialogue: 0,0:09:37.09,0:09:39.00,Italics,Lena,0,0,0,,Captain Nouzen's signal is back online!
+Dialogue: 0,0:09:39.00,0:09:41.09,Italics,Raiden,0,0,0,,Shin! Wake up, you fool!
+Dialogue: 0,0:09:41.09,0:09:42.67,Italics,All,0,0,0,,Stop messing around!
+Dialogue: 0,0:09:41.09,0:09:42.95,Italics,All,0,0,0,,Get up already!
+Dialogue: 0,0:09:41.09,0:09:43.55,Italics Top,All,0,0,0,,Shin, are you okay?
+Dialogue: 0,0:09:43.43,0:09:44.62,Italics,Rei,0,0,0,,Shin...
+Dialogue: 0,0:09:46.24,0:09:51.53,Flashback Top,Rei,0,0,0,,That Mom and Dad died. \NThe fact that I'm about to die.
+Dialogue: 0,0:09:51.84,0:09:56.02,Flashback Top,Rei,0,0,0,,It's all your fault,
+Dialogue: 0,0:09:56.36,0:10:01.27,Flashback Top,Rei,0,0,0,,Shin!
+Dialogue: 0,0:09:59.03,0:10:00.77,Main,Shin,0,0,0,,My brother hasn't forgiven me.
+Dialogue: 0,0:10:01.27,0:10:02.49,Main,Shin,0,0,0,,He still blames me.
+Dialogue: 0,0:10:02.98,0:10:03.86,Main,Shin,0,0,0,,So...
+Dialogue: 0,0:10:03.86,0:10:06.92,Italics,Lena,0,0,0,,That's why you're going \Nto give him his rest, right?
+Dialogue: 0,0:10:08.66,0:10:09.73,Italics,Lena,0,0,0,,Shin!
+Dialogue: 0,0:10:23.71,0:10:24.57,Italics,Rei,0,0,0,,I...
+Dialogue: 0,0:10:26.56,0:10:28.11,Italics,Rei,0,0,0,,I wanted you to...
+Dialogue: 0,0:10:41.46,0:10:44.12,Main,Shin,0,0,0,,Goodbye, brother.
+Dialogue: 0,0:10:52.52,0:10:53.92,Italics,Rei,0,0,0,,I get it now.
+Dialogue: 0,0:10:55.66,0:10:59.96,Italics,Rei,0,0,0,,You don't need me to hold your hand.
+Dialogue: 0,0:11:08.33,0:11:09.43,Italics,Rei,0,0,0,,I'm sorry.
+Dialogue: 0,0:11:11.85,0:11:12.86,Main,Shin,0,0,0,,Brother?
+Dialogue: 0,0:11:32.12,0:11:32.96,Flashback,Rei,0,0,0,,Shin.
+Dialogue: 0,0:11:37.38,0:11:38.64,Flashback,Rei,0,0,0,,Shin!
+Dialogue: 0,0:11:44.29,0:11:45.34,Flashback,Rei,0,0,0,,Shin...
+Dialogue: 0,0:11:53.19,0:11:54.23,Flashback,Rei,0,0,0,,Shin...
+Dialogue: 0,0:12:53.50,0:12:57.00,Dates,Onscreen,0,0,0,,{\fad(481,473)}September 28th, Stellar Year 2148
+Dialogue: 0,0:12:59.52,0:13:01.90,Italics,Raiden,0,0,0,,Major, cut the connection.
+Dialogue: 0,0:13:03.06,0:13:06.17,Italics,Raiden,0,0,0,,He wouldn't want anyone hearing that.
+Dialogue: 0,0:13:07.39,0:13:08.24,Main,Lena,0,0,0,,You're right.
+Dialogue: 0,0:13:13.63,0:13:14.77,Main,Lena,0,0,0,,It's over.
+Dialogue: 0,0:13:30.65,0:13:33.78,Flashback,Annette,0,0,0,,I told you never to let me \Nsee you again, Lena.
+Dialogue: 0,0:13:34.12,0:13:36.30,Flashback,Lena,0,0,0,,Yeah, I heard you, Annette.
+Dialogue: 0,0:13:36.30,0:13:38.45,Flashback,Lena,0,0,0,,But I never said I wouldn't.
+Dialogue: 0,0:13:39.68,0:13:42.49,Flashback,Lena,0,0,0,,I need to get \Ninto the mortar control system.
+Dialogue: 0,0:13:43.16,0:13:46.21,Flashback,Lena,0,0,0,,As well as the ability to synch vision.
+Dialogue: 0,0:13:46.79,0:13:49.86,Flashback,Lena,0,0,0,,You'll do it to help Spearhead, right?
+Dialogue: 0,0:13:49.86,0:13:51.66,Flashback,Annette,0,0,0,,Of course not.
+Dialogue: 0,0:13:51.66,0:13:53.76,Flashback,Annette,0,0,0,,It's not my problem.
+Dialogue: 0,0:13:53.76,0:13:55.24,Flashback,Lena,0,0,0,,You will.
+Dialogue: 0,0:13:55.24,0:13:56.33,Flashback,Lena,0,0,0,,No matter what it takes.
+Dialogue: 0,0:13:58.59,0:14:03.14,Flashback,Lena,0,0,0,,The boy you abandoned... \NHis name was Shin, right?
+Dialogue: 0,0:14:04.13,0:14:06.81,Flashback,Annette,0,0,0,,How do you know that name?
+Dialogue: 0,0:14:07.17,0:14:10.93,Flashback,Lena,0,0,0,,There weren't a lot of Eighty-Six \Nin District 1.
+Dialogue: 0,0:14:10.93,0:14:14.80,Flashback,Lena,0,0,0,,Especially not our age, \Nwith brothers who are much older.
+Dialogue: 0,0:14:15.51,0:14:19.64,Flashback,Lena,0,0,0,,I know your friend well.
+Dialogue: 0,0:14:20.20,0:14:23.32,Flashback,Lena,0,0,0,,I talk to him all the time.
+Dialogue: 0,0:14:24.66,0:14:25.79,Flashback,Annette,0,0,0,,You don't mean...
+Dialogue: 0,0:14:25.80,0:14:29.01,Flashback,Lena,0,0,0,,That's right. He's in my unit.
+Dialogue: 0,0:14:29.01,0:14:31.41,Flashback,Lena,0,0,0,,Combat commander of the Spearhead Squadron.
+Dialogue: 0,0:14:31.41,0:14:34.16,Flashback,Lena,0,0,0,,Personal name: Undertaker.
+Dialogue: 0,0:14:35.56,0:14:37.02,Flashback,Lena,0,0,0,,That's Shin.
+Dialogue: 0,0:14:37.24,0:14:39.61,Flashback,Annette,0,0,0,,Did he tell you?!
+Dialogue: 0,0:14:39.61,0:14:41.33,Flashback,Annette,0,0,0,,Is he alive?
+Dialogue: 0,0:14:41.33,0:14:42.64,Flashback,Annette,0,0,0,,Is he...
+Dialogue: 0,0:14:44.02,0:14:46.57,Flashback,Annette,0,0,0,,Does he still hate me?
+Dialogue: 0,0:14:47.76,0:14:50.78,Flashback,Lena,0,0,0,,What do you care? It's not your problem.
+Dialogue: 0,0:14:52.33,0:14:53.77,Flashback,Annette,0,0,0,,It's not my problem?
+Dialogue: 0,0:14:57.21,0:14:58.72,Flashback,Annette,0,0,0,,It's not...
+Dialogue: 0,0:14:59.23,0:15:01.80,Flashback,Lena,0,0,0,,If that's not the case, \Nthen you need to help me.
+Dialogue: 0,0:15:01.80,0:15:02.91,Flashback,Lena,0,0,0,,What's your answer?
+Dialogue: 0,0:15:05.93,0:15:07.67,Flashback,Lena,0,0,0,,You abandoned him twice.
+Dialogue: 0,0:15:08.71,0:15:10.78,Flashback,Lena,0,0,0,,Are you going to do it a third time?
+Dialogue: 0,0:15:17.54,0:15:18.86,Flashback,Annette,0,0,0,,You're the devil.
+Dialogue: 0,0:15:20.18,0:15:23.63,Flashback,Lena,0,0,0,,That's right, Officer Penrose.
+Dialogue: 0,0:15:24.70,0:15:27.77,Flashback,Lena,0,0,0,,I am, and so are you.
+Dialogue: 0,0:15:32.05,0:15:33.55,Main,Lena,0,0,0,,Shin's safe.
+Dialogue: 0,0:15:34.76,0:15:36.21,Main,Lena,0,0,0,,Thanks to you.
+Dialogue: 0,0:15:37.94,0:15:40.59,Main,Annette,0,0,0,,It's not me who saved him.
+Dialogue: 0,0:16:02.62,0:16:04.54,Italics,Raiden,0,0,0,,He can talk now.
+Dialogue: 0,0:16:10.68,0:16:11.57,Italics,Shin,0,0,0,,Major...
+Dialogue: 0,0:16:12.81,0:16:14.47,Italics,Shin,0,0,0,,I thought I heard a voice.
+Dialogue: 0,0:16:14.47,0:16:15.66,Italics,Shin,0,0,0,,You were there, huh?
+Dialogue: 0,0:16:17.46,0:16:20.41,Main,Lena,0,0,0,,Of course I am!
+Dialogue: 0,0:16:20.41,0:16:23.78,Main,Lena,0,0,0,,I'm Spearhead's Handler.
+Dialogue: 0,0:16:23.78,0:16:24.59,Italics,Raiden,0,0,0,,Right, right.
+Dialogue: 0,0:16:24.59,0:16:25.93,Italics,Theo,0,0,0,,You sure are.
+Dialogue: 0,0:16:26.41,0:16:27.98,Main,Lena,0,0,0,,The battle is over.
+Dialogue: 0,0:16:27.98,0:16:31.60,Main,Lena,0,0,0,,Good work, Undertaker, and all of you.
+Dialogue: 0,0:16:31.60,0:16:33.82,Italics Top,Shin,0,0,0,,Thank you, Handler One.
+Dialogue: 0,0:16:33.82,0:16:36.91,Italics Top,Theo,0,0,0,,What the hell happened to you, though?
+Dialogue: 0,0:16:36.91,0:16:39.34,Main,Raiden,0,0,0,,You suddenly turned a bad girl.
+Dialogue: 0,0:16:39.34,0:16:42.18,Main,Lena,0,0,0,,"A bad girl"? I didn't...
+Dialogue: 0,0:16:42.18,0:16:43.04,Main,Lena,0,0,0,,I just—
+Dialogue: 0,0:16:43.04,0:16:46.42,Italics,Kurena,0,0,0,,I thought you were trying \Nto blow us up along with the Legion.
+Dialogue: 0,0:16:46.42,0:16:48.32,Main,Lena,0,0,0,,Of course not!
+Dialogue: 0,0:16:48.32,0:16:50.13,Italics,Theo,0,0,0,,She's joking, obviously.
+Dialogue: 0,0:16:50.13,0:16:51.58,Italics,Theo,0,0,0,,You're so serious.
+Dialogue: 0,0:16:52.56,0:16:55.42,Italics,Anju,0,0,0,,But don't you think \Nthat's a point in her favor?
+Dialogue: 0,0:16:55.42,0:16:57.46,Italics,Raiden,0,0,0,,That's right. We're grateful, you know.
+Dialogue: 0,0:16:57.46,0:16:58.69,Italics,Raiden,0,0,0,,You saved our lives.
+Dialogue: 0,0:16:58.69,0:17:01.97,Main,Lena,0,0,0,,You're all teasing me.
+Dialogue: 0,0:17:01.97,0:17:03.38,Italics,Shin,0,0,0,,Thank you.
+Dialogue: 0,0:17:04.81,0:17:08.39,Italics,Shin,0,0,0,,I was finally able to let my brother rest.
+Dialogue: 0,0:17:09.79,0:17:11.75,Flashback,Lena,0,0,0,,That's why you're going \Nto give him his rest, right?
+Dialogue: 0,0:17:11.75,0:17:12.60,Flashback,Lena,0,0,0,,Shin!
+Dialogue: 0,0:17:16.87,0:17:20.15,Main,Lena,0,0,0,,No, it was just a coincidence \Nthat it worked out.
+Dialogue: 0,0:17:20.68,0:17:21.86,Italics,Shin,0,0,0,,I see.
+Dialogue: 0,0:17:22.74,0:17:27.74,Italics,Raiden,0,0,0,,I can't believe you fired rounds \Nwith deactivated fuses to delay them.
+Dialogue: 0,0:17:28.03,0:17:29.68,Italics,Theo,0,0,0,,Pretty clever.
+Dialogue: 0,0:17:29.68,0:17:33.16,Main,Lena,0,0,0,,Half the rounds were duds, \Nso I got the idea...
+Dialogue: 0,0:17:34.28,0:17:35.48,Italics,Raiden,0,0,0,,I see.
+Dialogue: 0,0:17:35.48,0:17:37.87,Main,Lena,0,0,0,,I'll do even better next time!
+Dialogue: 0,0:17:38.28,0:17:39.38,Italics,Anju,0,0,0,,Glad to hear it.
+Dialogue: 0,0:17:39.38,0:17:40.87,Italics,Kurena,0,0,0,,I'll set my expectations low.
+Dialogue: 0,0:17:43.62,0:17:44.76,Italics,Raiden,0,0,0,,Now then...
+Dialogue: 0,0:17:45.41,0:17:46.18,Italics,Shin,0,0,0,,Yeah.
+Dialogue: 0,0:17:47.85,0:17:51.07,Italics,Raiden,0,0,0,,Fido, you got the containers piled up again?
+Dialogue: 0,0:17:52.72,0:17:55.80,Italics,Raiden,0,0,0,,We'll decide on a place to sleep first, \Nand then worry about repairs.
+Dialogue: 0,0:17:55.80,0:17:59.39,Italics,Raiden,0,0,0,,It's not good that we used so much ammo \Non the first day.
+Dialogue: 0,0:17:59.57,0:18:01.48,Italics,Theo,0,0,0,,I don't think it's a problem.
+Dialogue: 0,0:18:01.48,0:18:03.32,Italics,Theo,0,0,0,,We certainly took out enough of them.
+Dialogue: 0,0:18:03.32,0:18:04.25,Italics,Raiden,0,0,0,,Sure did.
+Dialogue: 0,0:18:05.37,0:18:07.40,Italics,Raiden,0,0,0,,Let's get to work, then.
+Dialogue: 0,0:18:08.45,0:18:10.14,Italics,Raiden,0,0,0,,Talk to you later, Major.
+Dialogue: 0,0:18:10.14,0:18:12.91,Italics,Raiden,0,0,0,,Hope you can do this \Nwith the next ones, too.
+Dialogue: 0,0:18:14.28,0:18:17.85,Italics,Kurena,0,0,0,,Hey, is it safe to go forward?
+Dialogue: 0,0:18:17.85,0:18:19.66,Italics,Kurena,0,0,0,,A lot of those dud rounds landed.
+Dialogue: 0,0:18:20.38,0:18:22.59,Italics,Anju,0,0,0,,So it's basically a minefield...
+Dialogue: 0,0:18:22.59,0:18:24.95,Italics,Anju,0,0,0,,It might not be a good idea \N just to go forward.
+Dialogue: 0,0:18:24.95,0:18:27.77,Italics,Anju,0,0,0,,Shin, can you find us another route?
+Dialogue: 0,0:18:27.77,0:18:32.07,Italics,Shin,0,0,0,,This is Legion territory, \Nbut there aren't any Legion around here.
+Dialogue: 0,0:18:32.07,0:18:34.62,Italics,Shin,0,0,0,,We can take any route we want, \Nbut... dud rounds?
+Dialogue: 0,0:18:34.81,0:18:36.73,Italics,Theo,0,0,0,,We'll tell you as we go.
+Dialogue: 0,0:18:36.73,0:18:40.81,Italics,Theo,0,0,0,,Shin, you really didn't see anything, did you?
+Dialogue: 0,0:18:42.97,0:18:44.94,Italics,Lena,0,0,0,,Wait... Wait!
+Dialogue: 0,0:18:45.21,0:18:46.62,Italics,Lena,0,0,0,,Don't leave me!
+Dialogue: 0,0:18:46.62,0:18:48.48,Italics,Raiden,0,0,0,,Yeah, I like that.
+Dialogue: 0,0:18:48.83,0:18:52.08,Italics,Raiden,0,0,0,,We're not being chased.
+Dialogue: 0,0:18:52.08,0:18:57.09,Italics,Raiden,0,0,0,,We're going on our own, \Nas far as we can go.
+Dialogue: 0,0:19:02.15,0:19:03.97,Italics,Kurena,0,0,0,,What do you want for dinner?
+Dialogue: 0,0:19:03.97,0:19:06.45,Italics,Kurena,0,0,0,,It's our first day, \Nso we should do something special, right?
+Dialogue: 0,0:19:06.67,0:19:09.47,Italics,Theo,0,0,0,,Yeah, but...
+Dialogue: 0,0:19:09.47,0:19:12.87,Italics,Anju,0,0,0,,I don't know if I've got it in me \Nto go hunting.
+Dialogue: 0,0:19:12.87,0:19:14.97,Italics,Raiden,0,0,0,,It's rather just go to sleep.
+Dialogue: 0,0:19:14.97,0:19:16.25,Italics,Raiden,0,0,0,,I'm tired.
+Dialogue: 0,0:19:20.61,0:19:21.85,Main,Lena,0,0,0,,Wait!
+Dialogue: 0,0:19:26.11,0:19:29.78,Italics,Theo,0,0,0,,Okay, our goal for tomorrow \Nis that building.
+Dialogue: 0,0:19:29.78,0:19:31.65,Italics,Theo,0,0,0,,We've got time. Want to place a bet?
+Dialogue: 0,0:19:31.98,0:19:35.70,Italics,Anju,0,0,0,,Yeah, how about for \Nwho does the cooking tomorrow?
+Dialogue: 0,0:19:35.70,0:19:37.78,Italics,Shin,0,0,0,,I don't mind betting,
+Dialogue: 0,0:19:37.78,0:19:40.98,Italics,Shin,0,0,0,,but I won't hear any complaints \Nif Kurena or I end up doing it.
+Dialogue: 0,0:19:40.98,0:19:42.09,Italics,Kurena,0,0,0,,Hey!
+Dialogue: 0,0:19:42.09,0:19:44.35,Italics,Raiden,0,0,0,,Fine. You guys suck at cooking, \Nso that's off the table.
+Dialogue: 0,0:19:47.93,0:19:51.07,Italics,Theo,0,0,0,,Huh? Do you see something? \NLike a building?
+Dialogue: 0,0:19:51.07,0:19:52.25,Italics,Kurena,0,0,0,,You're right!
+Dialogue: 0,0:19:52.25,0:19:53.67,Italics,Raiden,0,0,0,,Is that a cathedral?
+Dialogue: 0,0:19:53.67,0:19:54.80,Italics,Shin,0,0,0,,A train station, probably.
+Dialogue: 0,0:19:54.80,0:19:57.42,Italics,Anju,0,0,0,,Wouldn't it be wonderful \Nif it's a castle or a mansion?
+Dialogue: 0,0:19:57.42,0:19:59.79,Italics,Anju,0,0,0,,Especially if we can spend the night there.
+Dialogue: 0,0:19:59.79,0:20:03.55,Italics,Theo,0,0,0,,I've only ever seen castles from afar \Non the other side of the combat districts.
+Dialogue: 0,0:20:03.55,0:20:04.88,Italics,Theo,0,0,0,,I've never been in one.
+Dialogue: 0,0:20:04.88,0:20:06.33,Italics,Kurena,0,0,0,,Let's hunt for treasure!
+Dialogue: 0,0:20:06.33,0:20:07.41,Italics,Raiden,0,0,0,,Yeah.
+Dialogue: 0,0:20:07.41,0:20:09.76,Italics,Raiden,0,0,0,,We're not in a hurry or anything.
+Dialogue: 0,0:20:12.26,0:20:14.81,Italics,Anju,0,0,0,,It's beautiful.
+Dialogue: 0,0:20:14.81,0:20:16.52,Italics,Raiden,0,0,0,,Pure red all over.
+Dialogue: 0,0:20:16.85,0:20:18.70,Italics,Raiden,0,0,0,,What kind of flower is this?
+Dialogue: 0,0:20:19.96,0:20:22.78,Italics,Kurena,0,0,0,,Is it okay to step on these?
+Dialogue: 0,0:20:22.78,0:20:24.51,Italics,Kurena,0,0,0,,It feels wrong.
+Dialogue: 0,0:20:25.17,0:20:28.04,Italics,Theo,0,0,0,,Just walking by them \Nmakes the petals fall off.
+Dialogue: 0,0:20:28.04,0:20:29.92,Italics,Anju,0,0,0,,They were close to falling off \Non their own.
+Dialogue: 0,0:20:29.92,0:20:33.88,Italics,Anju,0,0,0,,All the falling petals are pretty, \Nbut kind of sad.
+Dialogue: 0,0:20:33.88,0:20:38.63,Italics,Raiden,0,0,0,,Seeing the same color of flowers all around and\N under you while you fight is actually kind of scary.
+Dialogue: 0,0:20:39.23,0:20:43.62,Italics,Theo,0,0,0,,The minute we became free, \Nwe got to see something wonderful, huh?
+Dialogue: 0,0:20:50.93,0:20:55.33,Italics,Raiden,0,0,0,,We're right up against the limits \Nof the Republic's control area.
+Dialogue: 0,0:20:55.33,0:20:58.57,Italics,Raiden,0,0,0,,Just at the barrier of District 86.
+Dialogue: 0,0:20:58.57,0:20:59.45,Italics,Shin,0,0,0,,Yeah.
+Dialogue: 0,0:21:00.09,0:21:02.75,Italics,Shin,0,0,0,,We finally made it here.
+Dialogue: 0,0:21:03.17,0:21:05.11,Italics,Shin,0,0,0,,We've finally arrived.
+Dialogue: 0,0:21:05.59,0:21:06.87,Italics,Shin,0,0,0,,Outside District 86,
+Dialogue: 0,0:21:07.29,0:21:09.55,Italics,Shin,0,0,0,,the battlefield where we lived.
+Dialogue: 0,0:21:19.97,0:21:20.83,Italics,Shin,0,0,0,,Major...
+Dialogue: 0,0:21:23.39,0:21:25.91,Italics,Shin,0,0,0,,We're going on ahead, Major.
+Dialogue: 0,0:23:36.67,0:23:37.81,Main,Lena,0,0,0,,"Thank you."

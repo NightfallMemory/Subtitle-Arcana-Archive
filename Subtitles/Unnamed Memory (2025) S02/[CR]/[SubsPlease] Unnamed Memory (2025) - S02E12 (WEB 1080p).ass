@@ -1,0 +1,388 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default-Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics-Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback-Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics-Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Ep Title,Trebuchet MS,18,&H009A645C,&H008B3081,&H80FFEADE,&H20000000,0,0,0,0,110,100,0,0,1,0,0,8,30,30,140,0
+Style: Next Ep Title,Trebuchet MS,30,&H00FFFFFF,&H008B3081,&H88000000,&HA8000000,0,0,0,0,110,100,0,0,1,1,2,8,30,30,120,0
+Style: White-Standard,Arial,25,&H00FFFFFF,&H0000FFFF,&H30000000,&H79000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,70,0
+Style: Black-Standard,Arial,19,&H004E5955,&H0000FFFF,&HADDFECE6,&H9A000000,-1,0,0,0,100,100,0,13,1,2,0,8,20,20,20,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.68,0:00:07.96,Default,Legis,0,0,0,,Have you seen Lady Tinasha anywhere?
+Dialogue: 0,0:00:07.96,0:00:08.86,Default,Oscar,0,0,0,,What?
+Dialogue: 0,0:00:09.18,0:00:13.82,Default,Legis,0,0,0,,It seems she vanished near the end \Nof the coronation and has yet to return.
+Dialogue: 0,0:00:13.82,0:00:15.06,Default,Oscar,0,0,0,,I haven't...
+Dialogue: 0,0:00:16.85,0:00:18.03,Default,Oscar,0,0,0,,Is it Valt?
+Dialogue: 0,0:00:19.24,0:00:21.88,Default,Legis,0,0,0,,I shall order a search at once.
+Dialogue: 0,0:00:21.88,0:00:25.19,Default,Oscar,0,0,0,,Just to be safe, I'll return \Nto Farsas for the time being.
+Dialogue: 0,0:00:27.03,0:00:32.26,Default,Valt,0,0,0,,I didn't expect you to transfer the orb \Nto Farsas, after the first one was stolen.
+Dialogue: 0,0:00:32.26,0:00:35.47,Default,Valt,0,0,0,,You must trust that Akashia \Nswordsman an awful lot.
+Dialogue: 0,0:00:35.47,0:00:36.93,Default,Tinasha,0,0,0,,Of course I do.
+Dialogue: 0,0:00:40.13,0:00:45.22,Default,Valt,0,0,0,,Records say that it all began \Nwith the death of a child.
+Dialogue: 0,0:00:45.22,0:00:48.06,Default,Valt,0,0,0,,As the mother cried, \Nwith her child's corpse in her arms,
+Dialogue: 0,0:00:48.53,0:00:50.89,Default,Valt,0,0,0,,it's said that she felt \Nthe presence of someone else.
+Dialogue: 0,0:00:51.53,0:00:54.74,Flashback,Voice,0,0,0,,Use these if you want to save him.
+Dialogue: 0,0:00:55.02,0:00:57.32,Default,Valt,0,0,0,,With those words, \Nshe received both halves of Eleterria.
+Dialogue: 0,0:00:59.40,0:01:04.86,Default,Valt,0,0,0,,The mother used them to return \Nto the past and saved her child.
+Dialogue: 0,0:01:06.96,0:01:10.21,Default,Tinasha,0,0,0,,It was an outsider who handed them to her?
+Dialogue: 0,0:01:10.21,0:01:11.25,Default,Valt,0,0,0,,Yes.
+Dialogue: 0,0:01:11.25,0:01:14.30,Default,Valt,0,0,0,,They're observing this world and its people,
+Dialogue: 0,0:01:14.30,0:01:17.22,Default,Valt,0,0,0,,after introducing these experimental artifacts.
+Dialogue: 0,0:01:17.79,0:01:21.30,Default,Tinasha,0,0,0,,And what of your family, the Time-Readers?
+Dialogue: 0,0:01:21.30,0:01:23.18,Default,Valt,0,0,0,,The very first child who was saved...
+Dialogue: 0,0:01:23.78,0:01:26.36,Default,Valt,0,0,0,,We are his descendants.
+Dialogue: 0,0:01:26.36,0:01:30.03,Default,Valt,0,0,0,,Every generation, one of us \Nis trapped as a part of Eleterria,
+Dialogue: 0,0:01:30.03,0:01:33.01,Default,Valt,0,0,0,,with our souls being used as record sheets.
+Dialogue: 0,0:01:33.01,0:01:34.29,Default,Tinasha,0,0,0,,Your souls?
+Dialogue: 0,0:01:34.29,0:01:38.45,Default,Valt,0,0,0,,The soul of the current family head contains \Na log of all the times Eleterria is used,
+Dialogue: 0,0:01:38.45,0:01:42.96,Default,Valt,0,0,0,,as well as all of the names \Nof the past and future heads.
+Dialogue: 0,0:01:44.04,0:01:47.14,Default,Valt,0,0,0,,I have spent a long time \Nbeing alive, all by myself.
+Dialogue: 0,0:01:48.72,0:01:51.59,Default,Valt,0,0,0,,Time rewinds for me without mercy.
+Dialogue: 0,0:01:51.95,0:01:56.05,Default,Valt,0,0,0,,Die as I might, I find myself \Nback in the past, conscious yet again.
+Dialogue: 0,0:01:56.59,0:01:59.08,Default,Valt,0,0,0,,The outsider who designed this mechanism
+Dialogue: 0,0:01:59.08,0:02:04.21,Default,Valt,0,0,0,,must have given no thought to the agony \Nof those possessing the souls being used.
+Dialogue: 0,0:02:04.21,0:02:07.26,Default,Valt,0,0,0,,They figured that we owe \Nour lives to Eleterria,
+Dialogue: 0,0:02:07.26,0:02:10.49,Default,Valt,0,0,0,,and trampled all over us, \Ninto the distant future.
+Dialogue: 0,0:02:11.20,0:02:13.70,Default,Valt,0,0,0,,That's why they must be destroyed.
+Dialogue: 0,0:02:14.53,0:02:17.58,Default,Valt,0,0,0,,Not only does destroying them \Nrequire extraordinary power,
+Dialogue: 0,0:02:17.58,0:02:21.74,Default,Valt,0,0,0,,but when one is destroyed, \Nthe other will immediately activate.
+Dialogue: 0,0:02:21.74,0:02:24.89,Default,Valt,0,0,0,,Which is why both must be \Ndestroyed simultaneously.
+Dialogue: 0,0:02:24.89,0:02:28.37,Default,Valt,0,0,0,,I knew that you were the only one \Nwho seemed fit for the task,
+Dialogue: 0,0:02:28.37,0:02:31.65,Default,Valt,0,0,0,,but it was no easy feat making contact \Nwith you when you were a witch.
+Dialogue: 0,0:02:31.65,0:02:33.79,Default,Valt,0,0,0,,I was met with frustration again and again.
+Dialogue: 0,0:02:34.38,0:02:37.71,Default,Valt,0,0,0,,However, the impossible happened.
+Dialogue: 0,0:02:37.71,0:02:38.40,Default,Tinasha,0,0,0,,What?
+Dialogue: 0,0:02:38.76,0:02:44.43,Default,Valt,0,0,0,,The orbs activate when they sense \Na powerful attachment toward someone.
+Dialogue: 0,0:02:44.43,0:02:46.81,Default,Valt,0,0,0,,It doesn't matter whether it's love or hate.
+Dialogue: 0,0:02:46.81,0:02:50.57,Default,Valt,0,0,0,,The user's strong emotions \Nare what activate them.
+Dialogue: 0,0:02:50.57,0:02:55.10,Default,Valt,0,0,0,,So under normal circumstances, it should \Nbe impossible to travel back centuries.
+Dialogue: 0,0:02:55.10,0:02:58.69,Default,Valt,0,0,0,,Who would ever be so attached \Nto someone from the distant past?
+Dialogue: 0,0:02:59.35,0:03:01.61,Default,Valt,0,0,0,,There was one exception, though.
+Dialogue: 0,0:03:02.10,0:03:04.96,Default,Valt,0,0,0,,A man who loved a witch and made her his wife.
+Dialogue: 0,0:03:06.62,0:03:08.31,Default,Valt,0,0,0,,Your husband.
+Dialogue: 0,0:03:09.89,0:03:14.80,Default,Valt,0,0,0,,He went back four hundred years and changed \Nhistory, so you were no longer a witch.
+Dialogue: 0,0:03:14.80,0:03:16.48,Default,Valt,0,0,0,,Hope was born in me.
+Dialogue: 0,0:03:16.48,0:03:19.16,Default,Valt,0,0,0,,Maybe this would be the time it all worked out.
+Dialogue: 0,0:03:19.16,0:03:22.58,Default,Valt,0,0,0,,It might be possible to destroy \Nthem both at once, or so I thought.
+Dialogue: 0,0:03:23.58,0:03:26.93,Default,Tinasha,0,0,0,,It's not enough to simply seal Eleterria away?
+Dialogue: 0,0:03:26.93,0:03:29.40,Default,Valt,0,0,0,,The world is waiting for an upheaval.
+Dialogue: 0,0:03:29.40,0:03:29.89,Default,Tinasha,0,0,0,,What?
+Dialogue: 0,0:03:29.89,0:03:35.30,Default,Valt,0,0,0,,Right now, it's like a new pin is stuck \Ninto the world every time it is altered.
+Dialogue: 0,0:03:35.30,0:03:37.64,Default,Valt,0,0,0,,Its limit is close at hand.
+Dialogue: 0,0:03:37.64,0:03:43.61,Default,Valt,0,0,0,,As proof, the furthest history will go \Nis thirty-one years from now at most.
+Dialogue: 0,0:03:44.15,0:03:46.76,Default,Valt,0,0,0,,The world is almost at a standstill.
+Dialogue: 0,0:03:47.88,0:03:51.73,Default,Valt,0,0,0,,Unless we destroy Eleterria, \Nthe world will come to a stop.
+Dialogue: 0,0:03:51.73,0:03:52.98,Default,Tinasha,0,0,0,,No way...
+Dialogue: 0,0:03:54.81,0:03:58.75,Default,Valt,0,0,0,,At present, there is no \Nfamily head to succeed me.
+Dialogue: 0,0:04:00.00,0:04:01.65,Default,Tinasha,0,0,0,,How can that be?
+Dialogue: 0,0:04:01.65,0:04:03.58,Default,Tinasha,0,0,0,,Even if history comes to a standstill,
+Dialogue: 0,0:04:03.58,0:04:06.18,Default,Tinasha,0,0,0,,shouldn't there still be up to \Nthirty-one years left?
+Dialogue: 0,0:04:06.57,0:04:09.77,Default,Tinasha,0,0,0,,If you die, wouldn't the next head take over?
+Dialogue: 0,0:04:10.90,0:04:16.05,Default,Valt,0,0,0,,My soul will be dismantled \Nbefore it learns of the next family head.
+Dialogue: 0,0:04:16.66,0:04:18.26,Default,Valt,0,0,0,,Seeking magical power,
+Dialogue: 0,0:04:18.26,0:04:22.32,Default,Valt,0,0,0,,I turned to a forbidden curse, \Nexchanging my soul for power.
+Dialogue: 0,0:04:22.32,0:04:28.03,Default,Valt,0,0,0,,As a result, my soul was dismantled, \Ncreating a gap in the family succession.
+Dialogue: 0,0:04:28.36,0:04:33.71,Default,Valt,0,0,0,,It seems the world saw this as \Nthe crack it sought to tear Eleterria apart.
+Dialogue: 0,0:04:33.71,0:04:38.96,Default,Valt,0,0,0,,So no matter how much history may change, \Nmy soul will always end up dismantled.
+Dialogue: 0,0:04:39.70,0:04:44.95,Default,Valt,0,0,0,,But eventually, I'm sure a new head \Nwill be chosen, regardless of bloodline.
+Dialogue: 0,0:04:45.73,0:04:49.75,Default,Valt,0,0,0,,In that case, it's far better \Nthat this all ends with me.
+Dialogue: 0,0:04:50.38,0:04:54.52,Default,Valt,0,0,0,,As long as there is one who suffers, \NEleterria can continue to be used.
+Dialogue: 0,0:04:55.05,0:04:57.12,Default,Valt,0,0,0,,As for me, I've had enough.
+Dialogue: 0,0:04:57.88,0:05:02.42,Default,Valt,0,0,0,,How foolish and selfish, to care only \Nabout saving the people close to you.
+Dialogue: 0,0:05:02.42,0:05:03.99,Default,Valt,0,0,0,,It infuriates me.
+Dialogue: 0,0:05:04.47,0:05:09.23,Default,Tinasha,0,0,0,,You and your family have suffered \Nevery time Eleterria has been used.
+Dialogue: 0,0:05:09.70,0:05:11.92,Default,Tinasha,0,0,0,,That's a truth we cannot overlook.
+Dialogue: 0,0:05:12.62,0:05:17.96,Default,Tinasha,0,0,0,,However, I can't deny the feelings \Nof those who used Eleterria.
+Dialogue: 0,0:05:18.38,0:05:21.42,Default,Tinasha,0,0,0,,That's the human heart.
+Dialogue: 0,0:05:22.91,0:05:26.90,Default,Tinasha,0,0,0,,To deny that would mean rejecting our humanity.
+Dialogue: 0,0:05:27.34,0:05:30.41,Default,Tinasha,0,0,0,,What drives Eleterria are strong emotions.
+Dialogue: 0,0:05:30.93,0:05:33.14,Default,Tinasha,0,0,0,,That means it can be used to save people.
+Dialogue: 0,0:05:34.19,0:05:37.35,Default,Tinasha,0,0,0,,Deep down, don't you agree with me?
+Dialogue: 0,0:05:38.86,0:05:42.23,Default,Tinasha,0,0,0,,You're not really trying to stop \Nthe orbs from being misused.
+Dialogue: 0,0:05:42.54,0:05:43.55,Default,Tinasha,0,0,0,,Am I right?
+Dialogue: 0,0:05:44.27,0:05:47.47,Default,Tinasha,0,0,0,,That's why you're trying to \Ndestroy them, not seal them away.
+Dialogue: 0,0:05:47.96,0:05:50.03,Default,Tinasha,0,0,0,,What's your reason here?
+Dialogue: 0,0:05:50.68,0:05:52.88,Default,Tinasha,0,0,0,,That soul that cannot be saved...
+Dialogue: 0,0:05:52.88,0:05:54.75,Default,Tinasha,0,0,0,,Were you really talking about yourself?
+Dialogue: 0,0:05:56.57,0:05:58.94,Default,Tinasha,0,0,0,,The residence you were living in...
+Dialogue: 0,0:05:58.94,0:06:01.67,Default,Tinasha,0,0,0,,Wasn't there a girl with you there?
+Dialogue: 0,0:06:02.18,0:06:06.38,Flashback,Valt,0,0,0,,Just so you understand, \NI wasn't the one who cast this spell.
+Dialogue: 0,0:06:07.73,0:06:11.72,Default,Tinasha,0,0,0,,The caster of that spell \Nis who you really want to save.
+Dialogue: 0,0:06:14.38,0:06:15.62,Default,Tinasha,0,0,0,,{\i1}I knew it.
+Dialogue: 0,0:06:15.62,0:06:18.31,Default,Tinasha,0,0,0,,{\i1}There's one more head that succeeds him.
+Dialogue: 0,0:06:21.80,0:06:23.60,Default,Tinasha,0,0,0,,{\i1}The final family head...
+Dialogue: 0,0:06:24.48,0:06:25.83,Default,Tinasha,0,0,0,,{\i1}is her.
+Dialogue: 0,0:06:27.60,0:06:28.65,Default,Miralys,0,0,0,,Valt?
+Dialogue: 0,0:06:30.03,0:06:32.16,Default,Tinasha,0,0,0,,{\i1}The one whose soul will be dismantled.
+Dialogue: 0,0:06:32.52,0:06:34.65,Default,Tinasha,0,0,0,,{\i1}The one at the center of the world stalling.
+Dialogue: 0,0:06:35.16,0:06:38.48,Default,Tinasha,0,0,0,,{\i1}The one who will endlessly \Nrepeat history is her.
+Dialogue: 0,0:06:39.10,0:06:41.23,Default,Tinasha,0,0,0,,{\i1}That's why Valt shows no hesitation.
+Dialogue: 0,0:06:41.94,0:06:44.02,Default,Tinasha,0,0,0,,I understand your wish,
+Dialogue: 0,0:06:44.45,0:06:47.63,Default,Tinasha,0,0,0,,as well as the situation facing\N the world and Eleterria.
+Dialogue: 0,0:06:48.51,0:06:50.23,Default,Valt,0,0,0,,That's good to hear.
+Dialogue: 0,0:06:50.74,0:06:53.02,Default,Valt,0,0,0,,Let's have you destroy them, then.
+Dialogue: 0,0:06:53.54,0:06:54.49,Default,Tinasha,0,0,0,,Still...
+Dialogue: 0,0:06:55.10,0:06:59.81,Default,Valt,0,0,0,,If you cannot make the choice here, \NTuldarr is sure to perish.
+Dialogue: 0,0:07:02.45,0:07:04.02,Default,Tinasha,0,0,0,,I know that...
+Dialogue: 0,0:07:04.02,0:07:04.86,Default,Oscar,0,0,0,,Tinasha!
+Dialogue: 0,0:07:07.53,0:07:08.57,Default,Valt,0,0,0,,This way!
+Dialogue: 0,0:07:11.49,0:07:12.89,Default,Valt,0,0,0,,{\i1}Of all the people...
+Dialogue: 0,0:07:13.45,0:07:15.59,Default,Valt,0,0,0,,Come with me, \Nor I'll have her activate the spell.
+Dialogue: 0,0:07:20.05,0:07:21.64,Default,Tinasha,0,0,0,,{\i1}The Lake of Silence!
+Dialogue: 0,0:07:23.47,0:07:24.78,Default,Oscar,0,0,0,,Stop right there.
+Dialogue: 0,0:07:26.43,0:07:28.12,Default,Oscar,0,0,0,,Hand over Tinasha.
+Dialogue: 0,0:07:28.12,0:07:29.21,Default,Oscar,0,0,0,,Eleterria as well.
+Dialogue: 0,0:07:31.03,0:07:32.68,Default,Oscar,0,0,0,,I won't let you change history.
+Dialogue: 0,0:07:32.68,0:07:35.08,Default,Valt,0,0,0,,You're the one who overwrote it!
+Dialogue: 0,0:07:35.08,0:07:38.14,Default,Valt,0,0,0,,And we're the ones who have had \Nto suffer yet again because of you!
+Dialogue: 0,0:07:38.14,0:07:40.25,Default,Oscar,0,0,0,,For that, I apologize.
+Dialogue: 0,0:07:40.25,0:07:41.60,Default,Oscar,0,0,0,,But it all ends here.
+Dialogue: 0,0:07:41.95,0:07:45.06,Default,Oscar,0,0,0,,We'll seal those orbs away, \Nout of everyone's reach.
+Dialogue: 0,0:07:45.06,0:07:47.77,Default,Valt,0,0,0,,No. You don't understand.
+Dialogue: 0,0:07:47.77,0:07:52.49,Default,Valt,0,0,0,,You would place your country \Nover all else you hold dear!
+Dialogue: 0,0:07:52.49,0:07:55.21,Default,Valt,0,0,0,,That's why I can't back down here—
+Dialogue: 0,0:07:54.45,0:07:55.21,Italics-Top,Miralys,0,0,0,,Valt.
+Dialogue: 0,0:07:57.06,0:07:59.58,Default,Miralys,0,0,0,,Valt. Run away.
+Dialogue: 0,0:08:00.22,0:08:02.62,Italics,Valt,0,0,0,,It's fine. I can keep going.
+Dialogue: 0,0:08:02.97,0:08:04.82,Italics,Miralys,0,0,0,,Please, come back.
+Dialogue: 0,0:08:05.48,0:08:10.36,Italics,Miralys,0,0,0,,There's no point in saving me \Nif you disappear instead.
+Dialogue: 0,0:08:11.72,0:08:15.56,Default,Miralys,0,0,0,,Instead of the happiness \NI'd gain by never meeting you,
+Dialogue: 0,0:08:15.96,0:08:18.33,Default,Miralys,0,0,0,,I would choose sorrow \Nif it means being with you.
+Dialogue: 0,0:08:18.95,0:08:22.06,Default,Miralys,0,0,0,,Even if our time is limited.
+Dialogue: 0,0:08:23.35,0:08:26.41,Italics,Miralys,0,0,0,,Isn't that what it means to be human?
+Dialogue: 0,0:08:30.87,0:08:33.53,Default,Oscar,0,0,0,,It always ends up like this \Nwhen I take my eyes off you.
+Dialogue: 0,0:08:33.53,0:08:35.07,Default,Tinasha,0,0,0,,I'm sorry.
+Dialogue: 0,0:08:35.07,0:08:39.99,Default,Tinasha,0,0,0,,It may not look like it, but I'm always \Ntrying to find the quickest resolution.
+Dialogue: 0,0:08:40.24,0:08:42.51,Default,Oscar,0,0,0,,And I'm saying that's not needed.
+Dialogue: 0,0:08:44.01,0:08:46.17,Default,Tinasha,0,0,0,,I can only do it because you're here for me.
+Dialogue: 0,0:08:52.15,0:08:54.01,Default,Valt,0,0,0,,{\i1}They can't see the future...
+Dialogue: 0,0:08:54.89,0:08:55.92,Default,Valt,0,0,0,,{\i1}That's why...
+Dialogue: 0,0:08:59.03,0:09:00.31,Default,Tinasha,0,0,0,,So that's why, Oscar...
+Dialogue: 0,0:09:02.14,0:09:03.39,Default,Valt,0,0,0,,{\i1}I won't give up!
+Dialogue: 0,0:09:07.32,0:09:09.31,Default,Tinasha,0,0,0,,Please come and save me.
+Dialogue: 0,0:09:12.89,0:09:17.47,Default,Tinasha,0,0,0,,{\i1}Even knowing Tuldarr's fate, \NOscar would not hesitate to fight.
+Dialogue: 0,0:09:17.47,0:09:19.63,Default,Tinasha,0,0,0,,{\i1}He would be sure to stop Valt.
+Dialogue: 0,0:09:20.10,0:09:21.81,Default,Tinasha,0,0,0,,{\i1}No lives will be lost.
+Dialogue: 0,0:09:21.81,0:09:25.12,Default,Tinasha,0,0,0,,{\i1}I'll return to Tuldarr and break \Nthe spell, no matter the price.
+Dialogue: 0,0:09:25.89,0:09:28.55,Default,Tinasha,0,0,0,,{\i1}Then we can talk it over with Valt, again,
+Dialogue: 0,0:09:29.01,0:09:31.10,Default,Tinasha,0,0,0,,{\i1}and decide what to do with Eleterria.
+Dialogue: 0,0:09:33.40,0:09:35.39,Default,Tinasha,0,0,0,,{\i1}Washing my hands of all the burden...
+Dialogue: 0,0:09:35.39,0:09:38.30,Default,Tinasha,0,0,0,,{\i1}Is it really right to depend on him so much?
+Dialogue: 0,0:09:43.94,0:09:45.14,Default,Valt,0,0,0,,It can't be!
+Dialogue: 0,0:09:57.70,0:10:01.24,Default,Tinasha,0,0,0,,{\i1}What he gave me transcended\N four hundred years.
+Dialogue: 0,0:10:01.92,0:10:06.50,Default,Tinasha,0,0,0,,{\i1}I thought if I could marry him, \NI would even be fine dying that very night.
+Dialogue: 0,0:10:07.42,0:10:09.80,Default,Tinasha,0,0,0,,{\i1}But now...
+Dialogue: 0,0:10:19.19,0:10:21.07,Default-Top,Voice,0,0,0,,Where would you like to return to?
+Dialogue: 0,0:10:22.63,0:10:27.06,Default-Top,Voice,0,0,0,,The world will reform \Nat the moment of your choosing.
+Dialogue: 0,0:10:27.06,0:10:32.75,Default-Top,Voice,0,0,0,,You'd do well to choose the safest moment \Nfrom your infinite memories of your lives.
+Dialogue: 0,0:10:32.75,0:10:35.00,Default-Top,Voice,0,0,0,,Or perhaps the happiest.
+Dialogue: 0,0:10:36.83,0:10:38.68,Default-Top,Voice,0,0,0,,Go on, make your choice.
+Dialogue: 0,0:10:40.69,0:10:41.74,Default,Young Tinasha,0,0,0,,My choice.
+Dialogue: 0,0:10:43.22,0:10:45.08,Default,Young Tinasha,0,0,0,,There's only one option.
+Dialogue: 0,0:10:45.80,0:10:47.34,Default,Young Tinasha,0,0,0,,By his side.
+Dialogue: 0,0:10:47.79,0:10:49.71,Default,Young Tinasha,0,0,0,,The place where he is.
+Dialogue: 0,0:10:50.43,0:10:52.99,Default,Young Tinasha,0,0,0,,The closest I can be to him.
+Dialogue: 0,0:10:54.18,0:10:56.84,Default,Young Tinasha,0,0,0,,The time when I could safely fall asleep.
+Dialogue: 0,0:10:59.34,0:11:01.76,Default-Top,Voice,0,0,0,,Run. Go forth.
+Dialogue: 0,0:11:07.14,0:11:09.50,Default,Young Tinasha,0,0,0,,{\i1}To where he is.
+Dialogue: 0,0:11:12.09,0:11:14.76,Default-Top,Voice,0,0,0,,This time, the new records...
+Dialogue: 0,0:11:17.20,0:11:19.65,Default-Top,Voice,0,0,0,,will be etched into your soul.
+Dialogue: 0,0:11:20.77,0:11:21.83,Default-Top,Voice,0,0,0,,Fight.
+Dialogue: 0,0:11:22.15,0:11:23.85,Default-Top,Voice,0,0,0,,Keep fighting.
+Dialogue: 0,0:11:26.12,0:11:29.78,Default-Top,Voice,0,0,0,,Until you reach the ending you desire.
+Dialogue: 0,0:11:33.51,0:11:39.01,Ep Title,Sign,0,0,0,,{\fad(1500,1)}~ Death of the Nameless Story ~
+Dialogue: 0,0:11:45.32,0:11:46.56,Default,Oscar,0,0,0,,What's wrong?
+Dialogue: 0,0:11:50.30,0:11:52.10,Default,Tinasha,0,0,0,,Who are you?
+Dialogue: 0,0:11:52.67,0:11:54.44,Default,Tinasha,0,0,0,,Who am I?
+Dialogue: 0,0:11:55.00,0:11:56.76,Default,Tinasha,0,0,0,,And where are we?
+Dialogue: 0,0:11:57.40,0:11:59.12,Default,Oscar,0,0,0,,Still half asleep?
+Dialogue: 0,0:11:59.92,0:12:03.21,Default,Oscar,0,0,0,,I'm your husband, and the king of Farsas.
+Dialogue: 0,0:12:03.21,0:12:07.45,Default,Oscar,0,0,0,,You're my queen, a witch, \Nand the successor to Old Tuldarr.
+Dialogue: 0,0:12:07.45,0:12:10.75,Default,Oscar,0,0,0,,And this is the Farsas royal bedchamber.
+Dialogue: 0,0:12:11.51,0:12:13.71,Default,Oscar,0,0,0,,Should I tell you our names, too?
+Dialogue: 0,0:12:16.38,0:12:17.97,Default,Tinasha,0,0,0,,I'm sorry.
+Dialogue: 0,0:12:17.97,0:12:19.39,Default,Tinasha,0,0,0,,I really was half asleep.
+Dialogue: 0,0:12:19.92,0:12:21.33,Default,Oscar,0,0,0,,Looks like it.
+Dialogue: 0,0:12:21.33,0:12:22.75,Default,Oscar,0,0,0,,It's the middle of the night.
+Dialogue: 0,0:12:23.38,0:12:27.13,Default,Tinasha,0,0,0,,It's like I was in a dream of a different time.
+Dialogue: 0,0:12:27.64,0:12:31.14,Default,Tinasha,0,0,0,,It felt like I spent a really \Nlong time getting here.
+Dialogue: 0,0:12:31.14,0:12:32.78,Default,Oscar,0,0,0,,A dream of the past?
+Dialogue: 0,0:12:33.21,0:12:35.60,Default,Oscar,0,0,0,,You {\i1}have{\i0} been alive \Ntwenty times longer than me.
+Dialogue: 0,0:12:36.12,0:12:37.56,Default,Oscar,0,0,0,,You've worked hard.
+Dialogue: 0,0:12:40.50,0:12:43.53,Default,Tinasha,0,0,0,,Right now, I'm really happy.
+Dialogue: 0,0:12:43.85,0:12:46.74,Default,Tinasha,0,0,0,,I'm glad I was able to make it to your side.
+Dialogue: 0,0:12:47.96,0:12:49.12,Default,Oscar,0,0,0,,Are you okay?
+Dialogue: 0,0:12:50.11,0:12:51.39,Default,Tinasha,0,0,0,,In what way?
+Dialogue: 0,0:12:53.83,0:12:54.91,Default,Tinasha,0,0,0,,Huh?
+Dialogue: 0,0:12:54.91,0:12:56.08,Default,Tinasha,0,0,0,,What could it be?
+Dialogue: 0,0:12:56.61,0:13:01.22,Default,Tinasha,0,0,0,,It almost felt like I wasn't \Nable to marry you...
+Dialogue: 0,0:13:04.10,0:13:04.85,Default,Tinasha,0,0,0,,Huh?!
+Dialogue: 0,0:13:04.85,0:13:06.38,Default,Tinasha,0,0,0,,What now?!
+Dialogue: 0,0:13:06.68,0:13:07.74,Default,Tinasha,0,0,0,,Please wait!
+Dialogue: 0,0:13:07.74,0:13:09.01,Default,Tinasha,0,0,0,,Wait, we've never done this before!
+Dialogue: 0,0:13:09.01,0:13:09.85,Default,Tinasha,0,0,0,,You're acting weird!
+Dialogue: 0,0:13:09.85,0:13:11.63,Default,Oscar,0,0,0,,The weird one here is {\i1}you{\i0}.
+Dialogue: 0,0:13:11.63,0:13:12.56,Default,Oscar,0,0,0,,You're out of your mind.
+Dialogue: 0,0:13:12.56,0:13:14.30,Default,Tinasha,0,0,0,,L-Let go of me!
+Dialogue: 0,0:13:14.30,0:13:15.32,Default,Oscar,0,0,0,,I refuse.
+Dialogue: 0,0:13:19.27,0:13:20.31,Default,Oscar,0,0,0,,What's that?
+Dialogue: 0,0:13:24.05,0:13:25.20,Default,Tinasha,0,0,0,,This is...
+Dialogue: 0,0:13:47.44,0:13:48.58,Default,Oscar,0,0,0,,What happened?
+Dialogue: 0,0:13:51.38,0:13:52.47,Default,Tinasha,0,0,0,,Oscar.
+Dialogue: 0,0:13:54.43,0:13:56.06,Default,Tinasha,0,0,0,,Will you listen to me?
+Dialogue: 0,0:13:56.06,0:13:57.31,Default,Oscar,0,0,0,,Go ahead.
+Dialogue: 0,0:13:58.45,0:14:02.36,Default,Tinasha,0,0,0,,I've been on a very long journey.
+Dialogue: 0,0:14:09.00,0:14:11.02,Default,Oscar,0,0,0,,What an incredible story.
+Dialogue: 0,0:14:11.02,0:14:12.15,Default,Oscar,0,0,0,,I don't believe it.
+Dialogue: 0,0:14:12.66,0:14:14.20,Default,Tinasha,0,0,0,,I figured as much.
+Dialogue: 0,0:14:14.89,0:14:16.65,Default,Oscar,0,0,0,,Tuldarr, you say...
+Dialogue: 0,0:14:16.65,0:14:18.10,Default,Oscar,0,0,0,,I wish I could have seen it.
+Dialogue: 0,0:14:21.72,0:14:27.68,Default,Tinasha,0,0,0,,In all the countless cycles, that was the \None time that Tuldarr was able to survive.
+Dialogue: 0,0:14:28.51,0:14:31.03,Default,Tinasha,0,0,0,,But that history has disappeared now.
+Dialogue: 0,0:14:31.83,0:14:34.84,Default,Tinasha,0,0,0,,Eleterria, on the verge \Nof breaking, brought me back.
+Dialogue: 0,0:14:39.27,0:14:40.90,Default,Tinasha,0,0,0,,In the end...
+Dialogue: 0,0:14:42.07,0:14:45.00,Default,Tinasha,0,0,0,,I wasn't able to protect Tuldarr.
+Dialogue: 0,0:14:46.29,0:14:47.74,Default,Oscar,0,0,0,,Was it a fine nation?
+Dialogue: 0,0:14:48.57,0:14:50.86,Default,Tinasha,0,0,0,,Yes, the finest.
+Dialogue: 0,0:14:54.59,0:14:59.24,Default,Oscar,0,0,0,,So, the fact that you've retained those \Nmemories that should have disappeared means...
+Dialogue: 0,0:15:00.23,0:15:03.38,Default,Tinasha,0,0,0,,I've become the head of the Time-Readers.
+Dialogue: 0,0:15:04.27,0:15:06.92,Default,Tinasha,0,0,0,,The way I was selected was quite unprecedented.
+Dialogue: 0,0:15:07.67,0:15:13.14,Default,Tinasha,0,0,0,,As an emergency measure, Eleterria \Ndismantled the world and reformed it.
+Dialogue: 0,0:15:13.14,0:15:14.12,Default,Oscar,0,0,0,,Which means?
+Dialogue: 0,0:15:16.49,0:15:17.87,Default,Tinasha,0,0,0,,This world...
+Dialogue: 0,0:15:19.22,0:15:22.40,Default,Tinasha,0,0,0,,It was created moments ago, when I woke up.
+Dialogue: 0,0:15:25.01,0:15:29.56,Default,Tinasha,0,0,0,,It asked me when it should \Nreform the world, and I chose now.
+Dialogue: 0,0:15:30.56,0:15:35.16,Default,Tinasha,0,0,0,,Because among all of my memories, \Nthis is my happiest moment.
+Dialogue: 0,0:15:37.25,0:15:39.12,Default,Oscar,0,0,0,,I'm honored to hear that.
+Dialogue: 0,0:15:39.58,0:15:41.31,Default,Oscar,0,0,0,,I see now.
+Dialogue: 0,0:15:41.31,0:15:43.37,Default,Oscar,0,0,0,,I think I get the gist of it.
+Dialogue: 0,0:15:43.37,0:15:45.04,Default,Oscar,0,0,0,,An outsiders' artifact, huh?
+Dialogue: 0,0:15:45.56,0:15:49.84,Default,Oscar,0,0,0,,That said, there are other items \Nthat work in unexplainable ways.
+Dialogue: 0,0:15:49.84,0:15:50.75,Default,Tinasha,0,0,0,,Huh?
+Dialogue: 0,0:15:51.39,0:15:52.70,Default,Oscar,0,0,0,,I mean Akashia.
+Dialogue: 0,0:15:54.58,0:15:59.04,Default,Oscar,0,0,0,,It's said that an inhuman being \Npulled Akashia from the Lake of Silence.
+Dialogue: 0,0:15:59.62,0:16:03.45,Default,Oscar,0,0,0,,So couldn't that being have come \Nfrom outside our world?
+Dialogue: 0,0:16:03.45,0:16:04.95,Default,Tinasha,0,0,0,,Now that you mention it...
+Dialogue: 0,0:16:06.09,0:16:08.86,Flashback,Travis,0,0,0,,I once met someone \Nwho came from outside our world.
+Dialogue: 0,0:16:09.61,0:16:11.90,Flashback,Travis,0,0,0,,An outsider, but also not really.
+Dialogue: 0,0:16:12.46,0:16:17.21,Flashback,Travis,0,0,0,,Choosing to align herself with humans, \Nshe lived and died among them.
+Dialogue: 0,0:16:18.36,0:16:21.43,Flashback,Travis,0,0,0,,How can you not know anything \Nabout outsiders' artifacts?
+Dialogue: 0,0:16:23.18,0:16:26.84,Default,Tinasha,0,0,0,,That person must have been \Nthe creator of Akashia herself.
+Dialogue: 0,0:16:27.37,0:16:30.29,Default-Top,Tinasha,0,0,0,,The first queen of Farsas, Deirdre.
+Dialogue: 0,0:16:27.46,0:16:30.67,White-Standard,Sign,0,0,0,,{\fad(500,500)}Deirdre    {\fs14}Outsider; First Queen of Farsas
+Dialogue: 0,0:16:30.29,0:16:31.80,Default-Top,Oscar,0,0,0,,The first queen?
+Dialogue: 0,0:16:32.20,0:16:35.89,Default,Tinasha,0,0,0,,I heard of her from Farsas royalty \Nfour hundred years ago.
+Dialogue: 0,0:16:35.89,0:16:40.63,Default,Tinasha,0,0,0,,She traded her own power \Nto give Akashia to the founding king.
+Dialogue: 0,0:16:41.11,0:16:44.14,Default,Tinasha,0,0,0,,But in exchange, she couldn't \Nreturn to her homeland.
+Dialogue: 0,0:16:44.75,0:16:47.87,Default,Oscar,0,0,0,,I have blood from outside \Nthis world flowing through me?
+Dialogue: 0,0:16:47.87,0:16:50.13,Default,Tinasha,0,0,0,,We're talking about more than \Ntwenty generations ago.
+Dialogue: 0,0:16:50.13,0:16:52.49,Default,Tinasha,0,0,0,,I imagine those traits have \Ncompletely faded away by now.
+Dialogue: 0,0:16:52.82,0:16:57.99,Default,Oscar,0,0,0,,Perhaps Akashia was originally intended \Nto destroy outsiders' artifacts.
+Dialogue: 0,0:16:58.42,0:17:01.55,Default,Oscar,0,0,0,,If the Lake of Silence \Nstill holds the same power,
+Dialogue: 0,0:17:01.55,0:17:05.62,Default,Oscar,0,0,0,,it would make sense for the lake itself \Nto try and destroy Eleterria.
+Dialogue: 0,0:17:06.13,0:17:09.13,Default,Tinasha,0,0,0,,So that's why Eleterria escaped from the lake?
+Dialogue: 0,0:17:10.43,0:17:11.31,Default,Oscar,0,0,0,,Tinasha.
+Dialogue: 0,0:17:11.31,0:17:12.09,Default,Tinasha,0,0,0,,Yes?
+Dialogue: 0,0:17:14.91,0:17:15.80,Default,Oscar,0,0,0,,Let's get going.
+Dialogue: 0,0:17:15.80,0:17:16.63,Default,Tinasha,0,0,0,,What?
+Dialogue: 0,0:17:17.13,0:17:18.62,Default,Oscar,0,0,0,,There's another orb, right?
+Dialogue: 0,0:17:26.31,0:17:28.73,Default,Oscar,0,0,0,,We need to destroy \Nboth of them at the same time?
+Dialogue: 0,0:17:29.19,0:17:30.98,Default,Tinasha,0,0,0,,That's right.
+Dialogue: 0,0:17:30.98,0:17:32.83,Default,Tinasha,0,0,0,,Wait, you want to destroy them?!
+Dialogue: 0,0:17:32.83,0:17:33.65,Default,Oscar,0,0,0,,Of course.
+Dialogue: 0,0:17:33.65,0:17:34.61,Default,Tinasha,0,0,0,,What?!
+Dialogue: 0,0:17:34.61,0:17:36.84,Default,Oscar,0,0,0,,I understand your reasoning.
+Dialogue: 0,0:17:37.29,0:17:41.08,Default,Oscar,0,0,0,,Or I guess the reasoning \Nof the you that argued against Valt.
+Dialogue: 0,0:17:41.08,0:17:43.97,Default,Oscar,0,0,0,,I can't say how you feel now.
+Dialogue: 0,0:17:43.97,0:17:49.15,Default,Oscar,0,0,0,,But if you sympathize with saving others, \Neven at the cost of changing the past,
+Dialogue: 0,0:17:49.15,0:17:53.05,Default,Oscar,0,0,0,,if you accept having your own life \Nchanged whenever it activates,
+Dialogue: 0,0:17:53.49,0:17:57.21,Default,Oscar,0,0,0,,with your acceptance in mind, \NI want to see these destroyed.
+Dialogue: 0,0:17:57.88,0:17:59.12,Default,Tinasha,0,0,0,,Oscar...
+Dialogue: 0,0:18:00.21,0:18:05.96,Default,Tinasha,0,0,0,,{\i1}Destroying Eleterria and rewriting \Nall changes back to their original fates...
+Dialogue: 0,0:18:06.84,0:18:10.68,Default,Tinasha,0,0,0,,{\i1}The final change, and the largest of them all.
+Dialogue: 0,0:18:10.68,0:18:16.03,Default,Tinasha,0,0,0,,{\i1}The clan of Time-Readers will vanish, \Nand the fates of many alive today will change.
+Dialogue: 0,0:18:16.03,0:18:21.29,Default,Tinasha,0,0,0,,{\i1}And Oscar, who was saved \Nby his mother using Eleterria...
+Dialogue: 0,0:18:21.29,0:18:22.96,Default,Tinasha,0,0,0,,{\i1}He's sure to die then and there.
+Dialogue: 0,0:18:23.91,0:18:28.76,Default,Oscar,0,0,0,,These things saved me, and I've used \Nthem to save you, so let me say this.
+Dialogue: 0,0:18:30.01,0:18:33.55,Default,Oscar,0,0,0,,Changing the past is a fruitless action.
+Dialogue: 0,0:18:33.97,0:18:35.93,Default,Oscar,0,0,0,,It goes against the natural human order.
+Dialogue: 0,0:18:36.42,0:18:40.34,Default,Oscar,0,0,0,,No matter your regrets, \Nyou should live on and accept them.
+Dialogue: 0,0:18:41.57,0:18:43.88,Default,Oscar,0,0,0,,There is no tragedy that can't be overcome.
+Dialogue: 0,0:18:44.61,0:18:49.47,Default,Oscar,0,0,0,,I believe that all humans \Nhave the power to do that.
+Dialogue: 0,0:18:52.52,0:18:56.82,Default,Oscar,0,0,0,,This must be the reason \NAkashia was passed down to me.
+Dialogue: 0,0:18:57.23,0:18:58.65,Default,Oscar,0,0,0,,Don't worry.
+Dialogue: 0,0:18:58.65,0:19:00.87,Default,Oscar,0,0,0,,You won't need to bear the burden by yourself.
+Dialogue: 0,0:19:02.27,0:19:06.38,Default,Tinasha,0,0,0,,You can always see right through me.
+Dialogue: 0,0:19:12.21,0:19:13.23,Default,Tinasha,0,0,0,,Oscar.
+Dialogue: 0,0:19:14.02,0:19:18.17,Default,Tinasha,0,0,0,,If history changes, and everything \Ngoes back to the way it was...
+Dialogue: 0,0:19:18.52,0:19:23.27,Default,Tinasha,0,0,0,,Even if no memories remain, \Nand I end up never being born...
+Dialogue: 0,0:19:25.03,0:19:26.38,Default,Tinasha,0,0,0,,I will always love you.
+Dialogue: 0,0:19:26.85,0:19:31.16,Default,Tinasha,0,0,0,,You are the first \Nand last person I will ever love.
+Dialogue: 0,0:19:31.73,0:19:33.89,Default,Oscar,0,0,0,,That's more than I deserve.
+Dialogue: 0,0:19:33.89,0:19:35.39,Default,Oscar,0,0,0,,I love you, too.
+Dialogue: 0,0:19:42.10,0:19:44.37,Default,Oscar,0,0,0,,This is nothing more than a midway point.
+Dialogue: 0,0:19:44.82,0:19:45.82,Default,Oscar,0,0,0,,Don't lose your way.
+Dialogue: 0,0:19:47.11,0:19:48.95,Default,Oscar,0,0,0,,Make sure you come back to me.
+Dialogue: 0,0:19:52.85,0:19:54.59,Default,Tinasha,0,0,0,,{\i1}Our meeting...
+Dialogue: 0,0:19:55.62,0:19:59.03,Default,Tinasha,0,0,0,,{\i1}must be the intersection of two fates \Nthat were never meant to overlap.
+Dialogue: 0,0:20:01.14,0:20:04.18,Default,Oscar,0,0,0,,{\i1}That's why this is the ending we reached.
+Dialogue: 0,0:20:04.74,0:20:06.09,Default,Tinasha,0,0,0,,{\i1}As humans.
+Dialogue: 0,0:20:06.09,0:20:08.12,Default,Oscar,0,0,0,,{\i1}To fight those who would interfere.
+Dialogue: 0,0:20:10.58,0:20:12.60,Default,Tinasha,0,0,0,,Please wait for me.
+Dialogue: 0,0:20:13.06,0:20:15.90,Default,Tinasha,0,0,0,,I'll make sure I find you again.
+Dialogue: 0,0:20:16.37,0:20:17.82,Default,Tinasha,0,0,0,,Across time.
+Dialogue: 0,0:20:18.73,0:20:20.67,Default,Tinasha,0,0,0,,When I do...
+Dialogue: 0,0:20:21.32,0:20:23.28,Default,Tinasha,0,0,0,,We can fall in love again anew.
+Dialogue: 0,0:20:24.44,0:20:26.10,Default,Oscar,0,0,0,,I'll look forward to it.
+Dialogue: 0,0:20:29.24,0:20:31.83,Default,Oscar,0,0,0,,Had your fun toying with humans?
+Dialogue: 0,0:20:32.28,0:20:33.85,Default,Oscar,0,0,0,,Don't look down on us.
+Dialogue: 0,0:20:33.85,0:20:36.17,Default,Oscar,0,0,0,,We're done being your playthings.
+Dialogue: 0,0:20:37.66,0:20:39.84,Default,Oscar,0,0,0,,We reject your interference.
+Dialogue: 0,0:20:42.08,0:20:44.16,Default,Oscar,0,0,0,,Return to dust and leave this world!
+Dialogue: 0,0:21:45.93,0:21:47.49,Default,Tinasha,0,0,0,,I've been looking for you.
+Dialogue: 0,0:21:47.98,0:21:51.57,Default,Tinasha,0,0,0,,Are you the one that abducted \Na child from the Farsas castle city?
+Dialogue: 0,0:21:51.57,0:21:53.95,Default,Teresa,0,0,0,,Damn it! A mage?
+Dialogue: 0,0:21:54.20,0:21:55.85,Default,Tinasha,0,0,0,,You're half right.
+Dialogue: 0,0:21:55.85,0:21:57.38,Default,Tinasha,0,0,0,,But that makes you wrong.
+Dialogue: 0,0:21:59.21,0:22:00.72,Default,Teresa,0,0,0,,That measly spell...
+Dialogue: 0,0:22:04.45,0:22:06.98,Default,Tinasha,0,0,0,,That's what you get for \Nnot being able to discern a witch.
+Dialogue: 0,0:22:08.86,0:22:11.44,Default,Tinasha,0,0,0,,Well, not that you'd get away if you did.
+Dialogue: 0,0:22:11.96,0:22:13.85,Default,Young Lazar,0,0,0,,D-Don't do it!
+Dialogue: 0,0:22:17.31,0:22:19.52,Default,Young Lazar,0,0,0,,She's dangerous, Prince Oscar!
+Dialogue: 0,0:22:21.98,0:22:23.47,Default,Tinasha,0,0,0,,Nice to meet you.
+Dialogue: 0,0:22:23.47,0:22:23.98,Default,Tinasha,0,0,0,,I'm—
+Dialogue: 0,0:22:23.98,0:22:24.97,Default,Oscar,0,0,0,,Tinasha.
+Dialogue: 0,0:22:26.19,0:22:27.70,Default,Oscar,0,0,0,,You're finally here.
+Dialogue: 0,0:22:27.70,0:22:29.29,Default,Oscar,0,0,0,,I was sick and tired of waiting.
+Dialogue: 0,0:22:35.41,0:22:42.09,Default,Tinasha,0,0,0,,{\i1}An old fairy tale about \Na king and the fifth witch.
+Dialogue: 0,0:22:47.26,0:22:49.97,Default,Tinasha,0,0,0,,{\i1}All stories give rise to others.
+Dialogue: 0,0:22:50.74,0:22:52.10,Default,Tinasha,0,0,0,,{\i1}They're added on to...
+Dialogue: 0,0:22:53.05,0:22:54.51,Default,Tinasha,0,0,0,,{\i1}and enjoyed across generations.
+Dialogue: 0,0:23:06.12,0:23:08.48,Default,Tinasha,0,0,0,,{\i1}They can no longer be rewritten.
+Dialogue: 0,0:23:19.78,0:23:20.92,Default,Tinasha,0,0,0,,{\i1}This is...
+Dialogue: 0,0:23:24.82,0:23:29.11,Default,Tinasha,0,0,0,,{\i1}A fragment of an unnamed memory.

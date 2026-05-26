@@ -1,0 +1,401 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,18,1
+Style: Next time,Arial,22,&H00F8FFFF,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,0,0,7,35,499,54,1
+Style: Flashback Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H00474747,&H005B5D5F,0,0,0,0,100,100,0,0,1,2,1,7,35,38,50,1
+Style: Next Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H00474747,&H005B5D5F,0,0,0,0,100,100,0,0,1,1,1,3,35,50,70,1
+Style: Dates,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,176,176,58,1
+Style: sign_4352_26_June_16th__Stell,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,172,172,58,1
+Style: sign_80_2_You_throw_us_out,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,81,81,18,0
+Style: sign_8647_79_Sakura,Trebuchet MS,14,&H003A2715,&H000000FF,&H00C9A9CC,&H00000000,0,0,0,0,100,100,0,0,1,1,0,1,290,20,140,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.11,0:00:03.33,Main Top,,0,0,0,,Don't try to deny it!
+Dialogue: 0,0:00:02.73,0:00:06.73,Dates,Theo,0,0,0,,{\fad(481,433)}June 15th, Stellar Year 2148
+Dialogue: 0,0:00:03.33,0:00:07.19,sign_80_2_You_throw_us_out,Theo,0,0,0,,You throw us out here on the battlefield \Nand treat us like weapons,
+Dialogue: 0,0:00:07.19,0:00:12.52,Main Top,Theo,0,0,0,,while you get to watch from your\N warm and safe place inside the walls,
+Dialogue: 0,0:00:12.52,0:00:14.46,Main Top,Theo,0,0,0,,and it doesn't bother you at all!
+Dialogue: 0,0:00:14.46,0:00:17.75,Main,Theo,0,0,0,,If that's not treating us\N like pigs, what is?
+Dialogue: 0,0:00:18.55,0:00:21.17,Main,Theo,0,0,0,,You think that if you just act nice \Nand talk to us every day,
+Dialogue: 0,0:00:21.17,0:00:24.62,Main,Theo,0,0,0,,that counts as treating us \Nas human, don't you?
+Dialogue: 0,0:00:24.97,0:00:31.61,Main,Theo,0,0,0,,You've never even asked us \Nfor our real names!
+Dialogue: 0,0:00:33.39,0:00:34.00,Italics,R,0,0,0,,Theo.
+Dialogue: 0,0:00:34.00,0:00:36.57,Main,T,0,0,0,,Raiden, you don't need \Nto defend this white pig—
+Dialogue: 0,0:00:36.57,0:00:37.28,Italics,R,0,0,0,,Theo!
+Dialogue: 0,0:00:41.63,0:00:43.00,Main,T,0,0,0,,Got it.
+Dialogue: 0,0:00:45.24,0:00:47.83,Main,R,0,0,0,,Handler One, kill the synchronization.
+Dialogue: 0,0:00:48.13,0:00:48.81,Italics,L,0,0,0,,Um—
+Dialogue: 0,0:00:48.81,0:00:52.30,Main,R,0,0,0,,The battle's over. \NYou don't need to monitor us.
+Dialogue: 0,0:00:53.00,0:00:55.20,Main,R,0,0,0,,Laughing Fox went too far,
+Dialogue: 0,0:00:55.20,0:01:00.04,Main,R,0,0,0,,but none of us are in the mood \Nfor a friendly chat with you.
+Dialogue: 0,0:01:01.55,0:01:02.75,Italics,L,0,0,0,,I'm sorry.
+Dialogue: 0,0:01:08.46,0:01:09.79,Flashback,Kaie,0,0,0,,I don't want to die.
+Dialogue: 0,0:01:16.01,0:01:17.95,Main,T,0,0,0,,I'm sorry, Kaie.
+Dialogue: 0,0:01:19.78,0:01:21.96,Main,T,0,0,0,,I did the same thing as the white pigs.
+Dialogue: 0,0:01:25.96,0:01:28.02,Main,T,0,0,0,,And tainted your death.
+Dialogue: 0,0:02:59.72,0:03:02.49,Main Top,Girls,0,0,0,,Go! Go! Go!
+Dialogue: 0,0:03:01.49,0:03:03.20,sign_4352_26_June_16th__Stell,,0,0,0,,June 16th, Stellar Year 2148
+Dialogue: 0,0:03:02.49,0:03:04.15,Main Top,Girls,0,0,0,,You can do it!
+Dialogue: 0,0:03:04.15,0:03:04.44,Main,Haruto,0,0,0,,Theo!
+Dialogue: 0,0:03:06.93,0:03:09.10,Main Top,Voices,0,0,0,,Get him!
+Dialogue: 0,0:03:08.52,0:03:09.51,Main,Theo,0,0,0,,Sorry...
+Dialogue: 0,0:03:11.66,0:03:12.90,Main,Voices,0,0,0,,Theo!
+Dialogue: 0,0:03:12.90,0:03:13.83,Main,Voices,0,0,0,,Next! Next!
+Dialogue: 0,0:03:13.83,0:03:15.49,Main,Voices,0,0,0,,Don't screw it up!
+Dialogue: 0,0:03:17.50,0:03:19.02,Main,Voices,0,0,0,,Go!
+Dialogue: 0,0:03:24.51,0:03:25.64,Main,Theo,0,0,0,,Whitey!
+Dialogue: 0,0:03:25.64,0:03:28.60,Main,Theo,0,0,0,,Stay put! Whitey!
+Dialogue: 0,0:03:30.91,0:03:35.64,Main,Daiya,0,0,0,,Theo, that's a fox, not a cat. \NAnd it's scary.
+Dialogue: 0,0:03:35.64,0:03:37.71,Main,Haruto,0,0,0,,And it's not laughing!
+Dialogue: 0,0:03:37.71,0:03:39.78,Main,Haruto,0,0,0,,You're supposed to be {\i1}Laughing{\i0} Fox.
+Dialogue: 0,0:03:40.03,0:03:41.52,Main,T,0,0,0,,Shut up.
+Dialogue: 0,0:03:41.52,0:03:44.60,Main,Kurena,0,0,0,,Are you bothered by\Nwhat you said to that woman?
+Dialogue: 0,0:03:45.78,0:03:47.00,Main,T,0,0,0,,No, I'm not!
+Dialogue: 0,0:03:47.25,0:03:49.79,Main,Anju,0,0,0,,Well, it bothers me.
+Dialogue: 0,0:03:49.79,0:03:51.14,Main,Lecca,0,0,0,,Yup.
+Dialogue: 0,0:03:53.73,0:03:54.96,Main,Anju,0,0,0,,Theo...
+Dialogue: 0,0:03:56.03,0:03:59.21,Main,All,0,0,0,,Don't move!
+Dialogue: 0,0:04:00.67,0:04:02.72,Main,All,0,0,0,,Gotcha! Gotcha!
+Dialogue: 0,0:04:03.07,0:04:05.69,Main,Anju,0,0,0,,It bugged me the way this came off.
+Dialogue: 0,0:04:05.69,0:04:08.51,Main,Lecca,0,0,0,,Also the way he always \Nhas just one button done.
+Dialogue: 0,0:04:08.51,0:04:09.84,Main,T,0,0,0,,Who cares?
+Dialogue: 0,0:04:09.84,0:04:11.63,Main,Kurena,0,0,0,,It's just like you, but...
+Dialogue: 0,0:04:11.63,0:04:13.22,Main,T,0,0,0,,Forget it!
+Dialogue: 0,0:04:14.57,0:04:16.84,Main,Daiya,0,0,0,,What we saw yesterday \Nwasn't like you at all.
+Dialogue: 0,0:04:16.84,0:04:19.57,Main,Anju,0,0,0,,The way you said it wasn't good,
+Dialogue: 0,0:04:20.01,0:04:23.77,Main,Anju,0,0,0,,but it reminded me of the Fox Commander.
+Dialogue: 0,0:04:27.96,0:04:30.81,Main,T,0,0,0,,Just give it up, guys.
+Dialogue: 0,0:04:30.81,0:04:34.06,Main,A,0,0,0,,Well, we're all jealous,
+Dialogue: 0,0:04:34.06,0:04:36.91,Main,A,0,0,0,,because you met someone like that.
+Dialogue: 0,0:04:36.91,0:04:38.34,Main,T,0,0,0,,What's this about?
+Dialogue: 0,0:04:38.56,0:04:41.71,Main,Anju,0,0,0,,Someone who'll always be important to you.
+Dialogue: 0,0:04:42.47,0:04:45.96,Main,Anju,0,0,0,,They were never like that for me.
+Dialogue: 0,0:04:49.87,0:04:53.50,Main,Lef,0,0,0,,Listen, Shin. \NYou'd better not break it next time!
+Dialogue: 0,0:04:53.50,0:04:56.19,Main,Lef,0,0,0,,Stay put until we get our new parts shipment!
+Dialogue: 0,0:04:56.19,0:04:57.57,Main,S,0,0,0,,If I can.
+Dialogue: 0,0:04:59.68,0:05:01.03,Main,Lef,0,0,0,,Hey, Theo.
+Dialogue: 0,0:05:01.03,0:05:02.98,Main,Lef,0,0,0,,Don't do anything stupid like him.
+Dialogue: 0,0:05:03.21,0:05:05.68,Main,Lef,0,0,0,,You guys are all such kids!
+Dialogue: 0,0:05:06.40,0:05:09.28,Main,T,0,0,0,,He looked like he was about \Nto burst a vein, as always.
+Dialogue: 0,0:05:09.28,0:05:12.15,Main,S,0,0,0,,I'd like to keep him from getting mad, \Nonce in a while.
+Dialogue: 0,0:05:12.71,0:05:14.79,Main,T,0,0,0,,That's probably impossible.
+Dialogue: 0,0:05:18.31,0:05:19.22,Main,S,0,0,0,,Thank you.
+Dialogue: 0,0:05:22.60,0:05:26.67,Main,T,0,0,0,,What would the commander \Nhave said to that Handler?
+Dialogue: 0,0:05:27.77,0:05:29.54,Main,S,0,0,0,,The Fox Commander?
+Dialogue: 0,0:05:29.54,0:05:32.88,Main,T,0,0,0,,Yeah. Would the commander have gotten mad?
+Dialogue: 0,0:05:33.79,0:05:35.56,Main,T,0,0,0,,Well, it doesn't matter.
+Dialogue: 0,0:05:35.84,0:05:38.50,Main,T,0,0,0,,That white pig who thinks she's a saint
+Dialogue: 0,0:05:38.95,0:05:41.72,Main,T,0,0,0,,is probably never going \Nto use the Para-RAID again.
+Dialogue: 0,0:05:42.05,0:05:44.75,Main,S,0,0,0,,Your commander wouldn't have said that.
+Dialogue: 0,0:05:47.02,0:05:50.30,Main,S,0,0,0,,That's what you think, isn't it?
+Dialogue: 0,0:06:00.65,0:06:03.15,sign_8647_79_Sakura,S,0,0,0,,Kirschblüte
+Dialogue: 0,0:06:11.78,0:06:15.67,Main,S,0,0,0,,Do you need something, Handler One?
+Dialogue: 0,0:06:17.02,0:06:20.02,Dates,S,0,0,0,,June 16th, Stellar Year 2148
+Dialogue: 0,0:06:25.02,0:06:28.02,Main,A,0,0,0,,It just shows that, in the end, \Nyou're a citizen of the Republic.
+Dialogue: 0,0:06:28.46,0:06:32.42,Main,A,0,0,0,,We have to accept \Nthat we live in our own world.
+Dialogue: 0,0:06:32.78,0:06:35.45,Main,L,0,0,0,,That's not okay.
+Dialogue: 0,0:06:35.84,0:06:38.47,Main,L,0,0,0,,I could never forgive myself if I did that.
+Dialogue: 0,0:06:38.47,0:06:40.79,Main,A,0,0,0,,So what would be okay, then?
+Dialogue: 0,0:06:40.79,0:06:43.97,Main,A,0,0,0,,Go to the 86th District \Nand fight alongside them?
+Dialogue: 0,0:06:44.18,0:06:45.68,Main,A,0,0,0,,You can't do that.
+Dialogue: 0,0:06:46.35,0:06:50.18,Main,A,0,0,0,,What you need to do now is spoil yourself.
+Dialogue: 0,0:06:50.73,0:06:52.97,Main,A,0,0,0,,I made too much pudding.
+Dialogue: 0,0:06:52.97,0:06:55.93,Main,L,0,0,0,,Annette, I'm sorry, but I'm not the mood.
+Dialogue: 0,0:06:55.93,0:06:57.79,Main,A,0,0,0,,That's not healthy.
+Dialogue: 0,0:06:59.62,0:07:02.07,Main,A,0,0,0,,This world is a wonderful place,
+Dialogue: 0,0:07:02.07,0:07:05.36,Main,A,0,0,0,,where you can sneak in a pudding snack \Nin the middle of the day.
+Dialogue: 0,0:07:05.36,0:07:07.01,Main,L,0,0,0,,It's not wonderful.
+Dialogue: 0,0:07:07.01,0:07:07.86,Main,L,0,0,0,,Not at all.
+Dialogue: 0,0:07:08.05,0:07:11.85,Main,A,0,0,0,,Why is it such a big deal \Nthat you didn't ask their names?
+Dialogue: 0,0:07:11.86,0:07:14.83,Main,A,0,0,0,,You don't need to know them.
+Dialogue: 0,0:07:14.83,0:07:17.17,Main,A,0,0,0,,You're never going to meet them.
+Dialogue: 0,0:07:17.31,0:07:19.23,Main,L,0,0,0,,Henrietta Penrose.
+Dialogue: 0,0:07:19.23,0:07:20.95,Main,A,0,0,0,,What?
+Dialogue: 0,0:07:20.95,0:07:22.70,Main,L,0,0,0,,That's your name.
+Dialogue: 0,0:07:22.98,0:07:26.78,Main,L,0,0,0,,I know your name. We're friends.
+Dialogue: 0,0:07:27.33,0:07:28.60,Main,A,0,0,0,,So what?
+Dialogue: 0,0:07:28.84,0:07:31.46,Main,L,0,0,0,,A name is who you are.
+Dialogue: 0,0:07:31.71,0:07:34.32,Main,L,0,0,0,,And I didn't even think of that.
+Dialogue: 0,0:07:35.08,0:07:37.82,Main,L,0,0,0,,I wasn't treating them as human.
+Dialogue: 0,0:07:38.25,0:07:39.83,Main,A,0,0,0,,You're over-thinking this.
+Dialogue: 0,0:07:39.83,0:07:43.61,Main,A,0,0,0,,You and the Eighty-Six aren't even friends.
+Dialogue: 0,0:07:43.61,0:07:45.24,Main,L,0,0,0,,But we're all human!
+Dialogue: 0,0:07:45.24,0:07:50.34,Main,A,0,0,0,,If you really thought that, \Nyou would've asked their names right away.
+Dialogue: 0,0:07:51.47,0:07:56.21,Main,A,0,0,0,,This is a great time to stop trying \Nto get any closer to them.
+Dialogue: 0,0:07:56.21,0:07:58.71,Main,L,0,0,0,,Why are you so set against them?
+Dialogue: 0,0:07:58.71,0:07:59.99,Main,A,0,0,0,,Because there's nothing I can do.
+Dialogue: 0,0:08:00.97,0:08:04.20,Main,A,0,0,0,,There's pudding here. And not there.
+Dialogue: 0,0:08:04.57,0:08:07.24,Main,A,0,0,0,,We're different from them.
+Dialogue: 0,0:08:07.24,0:08:08.51,Main,A,0,0,0,,In every way.
+Dialogue: 0,0:08:08.86,0:08:11.55,Main,A,0,0,0,,So any way we get involved \Njust leads to us having regrets.
+Dialogue: 0,0:08:11.55,0:08:12.23,Main,L,0,0,0,,But—
+Dialogue: 0,0:08:12.23,0:08:15.55,Main,A,0,0,0,,Lena, the war's already started.
+Dialogue: 0,0:08:16.76,0:08:18.42,Main,A,0,0,0,,There's no going back to how things were.
+Dialogue: 0,0:08:21.13,0:08:25.61,Main,A,0,0,0,,Just quit being a Handler \Nand come to the lab!
+Dialogue: 0,0:08:25.61,0:08:26.87,Main,L,0,0,0,,I said...
+Dialogue: 0,0:08:27.90,0:08:30.78,Main,L,0,0,0,,I can't quit being a Handler.
+Dialogue: 0,0:08:33.67,0:08:36.77,Main,A,0,0,0,,You should listen when\N your best friend gives you advice,
+Dialogue: 0,0:08:39.56,0:08:41.27,Main,A,0,0,0,,Vladilena Milizé.
+Dialogue: 0,0:08:47.72,0:08:49.65,Flashback,Vaclav,0,0,0,,Let's go the battlefield.
+Dialogue: 0,0:08:50.92,0:08:55.66,Flashback,Vaclav,0,0,0,,And see everything that's happening.
+Dialogue: 0,0:08:58.60,0:09:01.97,Flashback,L,0,0,0,,You're at war, right, Father?
+Dialogue: 0,0:09:01.97,0:09:03.46,Flashback,Vaclav,0,0,0,,That's right.
+Dialogue: 0,0:09:03.46,0:09:07.39,Flashback,Vaclav,0,0,0,,And we're doing something even worse.
+Dialogue: 0,0:09:07.39,0:09:08.76,Flashback,L,0,0,0,,Something worse?
+Dialogue: 0,0:09:09.05,0:09:09.82,Flashback,Vaclav,0,0,0,,Yes.
+Dialogue: 0,0:09:10.93,0:09:14.56,Flashback,Vaclav,0,0,0,,We have to bring this to an end.
+Dialogue: 0,0:09:15.82,0:09:16.86,Flashback,Vaclav,0,0,0,,Quickly.
+Dialogue: 0,0:09:18.87,0:09:22.47,Flashback,Vaclav,0,0,0,,Can you take us \Na little past the frontline base?
+Dialogue: 0,0:09:22.47,0:09:23.94,Flashback,Pilot,0,0,0,,Yes sir, Colonel.
+Dialogue: 0,0:09:36.28,0:09:37.33,Main,Karlstahl,0,0,0,,What's wrong?
+Dialogue: 0,0:09:39.29,0:09:40.57,Main,L,0,0,0,,Uncle...
+Dialogue: 0,0:09:43.18,0:09:44.95,Main,Karlstahl,0,0,0,,I still can't forget it.
+Dialogue: 0,0:09:45.47,0:09:50.22,Main,Karlstahl,0,0,0,,The last place my father took me. \NThe battlefield in District 86.
+Dialogue: 0,0:09:51.70,0:09:53.96,Main,Karlstahl,0,0,0,,I'm sad about what happened to him.
+Dialogue: 0,0:09:54.48,0:09:58.00,Main,Karlstahl,0,0,0,,But I'm glad I could see it.
+Dialogue: 0,0:09:58.87,0:10:00.07,Main,Karlstahl,0,0,0,,Glad?
+Dialogue: 0,0:10:00.07,0:10:00.88,Main,L,0,0,0,,Yes.
+Dialogue: 0,0:10:01.39,0:10:03.94,Main,L,0,0,0,,Because I saw the 86th District\N with my own eyes,
+Dialogue: 0,0:10:03.94,0:10:06.84,Main,L,0,0,0,,I was able to learn the truth \Nabout this country.
+Dialogue: 0,0:10:07.25,0:10:11.12,Main,L,0,0,0,,I was able to hold the ideals \Nthat the Republic threw away.
+Dialogue: 0,0:10:11.12,0:10:11.79,Main,L,0,0,0,,So...
+Dialogue: 0,0:10:14.49,0:10:20.75,Main,Karlstahl,0,0,0,,Vaclav was a kind man who wanted \Nto make the Republic a better place.
+Dialogue: 0,0:10:21.11,0:10:24.79,Main,Karlstahl,0,0,0,,I'm sure he was a good husband \Nand a good father.
+Dialogue: 0,0:10:24.79,0:10:28.14,Main,Karlstahl,0,0,0,,That's why he decided to teach you \Nthe truth about this country.
+Dialogue: 0,0:10:28.58,0:10:33.75,Main,Karlstahl,0,0,0,,As a friend, I think it's a terrible shame \Nan enemy attack took from us
+Dialogue: 0,0:10:33.75,0:10:37.55,Main,Karlstahl,0,0,0,,a man with such a strong sense of justice.
+Dialogue: 0,0:10:38.05,0:10:42.24,Main,Karlstahl,0,0,0,,But there's something he didn't realize.
+Dialogue: 0,0:10:43.31,0:10:45.32,Main,L,0,0,0,,What?
+Dialogue: 0,0:10:45.49,0:10:51.36,Main,Karlstahl,0,0,0,,Just like the rest of the Republic, \Nhe wasn't doing any more than watching.
+Dialogue: 0,0:10:51.76,0:10:55.17,Main,Karlstahl,0,0,0,,In the end, no matter how much you talk \Nabout equality, it's not you who's fighting.
+Dialogue: 0,0:10:55.55,0:11:00.06,Main,Karlstahl,0,0,0,,He felt, subconsciously, that only \Nthe Eighty-Six die on the battlefield.
+Dialogue: 0,0:11:00.38,0:11:03.23,Main,Karlstahl,0,0,0,,That's why he was able to take you \Nto the battlefield.
+Dialogue: 0,0:11:03.55,0:11:08.31,Main,Karlstahl,0,0,0,,The fact that he did something so reckless \Nfor the sake of his ideals
+Dialogue: 0,0:11:08.91,0:11:11.73,Main,Karlstahl,0,0,0,,proves his ignorance and stupidity.
+Dialogue: 0,0:11:13.55,0:11:18.23,Main,Karlstahl,0,0,0,,Lena, I don't want you to be like him.
+Dialogue: 0,0:11:20.61,0:11:22.03,Main,Karlstahl,0,0,0,,That's enough.
+Dialogue: 0,0:11:22.03,0:11:23.66,Main,Karlstahl,0,0,0,,You're doing a good job.
+Dialogue: 0,0:11:24.20,0:11:27.92,Main,Karlstahl,0,0,0,,It's also my responsibility \Nfor giving you a tough unit to deal with.
+Dialogue: 0,0:11:28.23,0:11:32.92,Main,Karlstahl,0,0,0,,I wanted you to feel for yourself \Nthe reality of this nation.
+Dialogue: 0,0:11:32.92,0:11:35.32,Main,Karlstahl,0,0,0,,But you don't need to do it \Nif it's too much for you.
+Dialogue: 0,0:11:35.32,0:11:38.93,Main,L,0,0,0,,No, I'll continue to act \Nas Spearhead's Handler.
+Dialogue: 0,0:11:38.93,0:11:41.56,Main,Karlstahl,0,0,0,,What does the Republic flag stand for?
+Dialogue: 0,0:11:43.30,0:11:49.55,Main,L,0,0,0,,Freedom, equality, brotherhood, \Njustice, and nobility...
+Dialogue: 0,0:11:50.94,0:11:51.55,Main,L,0,0,0,,What are you—
+Dialogue: 0,0:11:51.55,0:11:54.58,Main,Karlstahl,0,0,0,,Are you upholding that?
+Dialogue: 0,0:11:55.43,0:11:57.09,Main,Karlstahl,0,0,0,,Look at the real world.
+Dialogue: 0,0:11:57.09,0:11:59.76,Main,Karlstahl,0,0,0,,Those beautiful things are nowhere\N to be found in the Republic.
+Dialogue: 0,0:12:00.08,0:12:02.78,Main,Karlstahl,0,0,0,,You are too focused on seeking ideals.
+Dialogue: 0,0:12:02.78,0:12:04.91,Main,Karlstahl,0,0,0,,From others, and yourself.
+Dialogue: 0,0:12:05.34,0:12:09.85,Main,Karlstahl,0,0,0,,Ideals are ideals precisely \Nbecause they are unattainable.
+Dialogue: 0,0:12:10.28,0:12:14.51,Main,Karlstahl,0,0,0,,Seeking them when you know \Nthey're impossible is foolish
+Dialogue: 0,0:12:14.51,0:12:17.01,Main,Karlstahl,0,0,0,,and cowardly, don't you think?
+Dialogue: 0,0:12:18.96,0:12:23.79,Italics Top,NewsCaster,0,0,0,,Here's today's update on the war \Nfrom San Magnolia Military HQ!
+Dialogue: 0,0:12:23.09,0:12:26.77,Flashback,Theo,0,0,0,,You throw us out here on the battlefield \Nand treat us like weapons,
+Dialogue: 0,0:12:26.77,0:12:32.25,Flashback,Theo,0,0,0,,while you get to watch from your\N warm and safe place inside the walls,
+Dialogue: 0,0:12:32.25,0:12:34.11,Flashback,Theo,0,0,0,,and it doesn't bother you at all!
+Dialogue: 0,0:12:34.11,0:12:36.69,Flashback,Theo,0,0,0,,If that's not treating us\N like pigs, what is?
+Dialogue: 0,0:12:36.69,0:12:40.89,Italics Top,Newscaster,0,0,0,,Damage taken on our side was minimal, \Nwith no human injuries or fatalities!
+Dialogue: 0,0:12:37.32,0:12:41.22,Flashback,Theo,0,0,0,,Do you think we're out here fighting \Nbecause we want to?
+Dialogue: 0,0:12:40.89,0:12:43.47,Italics Top,Newscaster,0,0,0,,Combat via highly advanced,
+Dialogue: 0,0:12:41.80,0:12:45.77,Flashback,Theo,0,0,0,,You locked us out here! Forced us to fight!
+Dialogue: 0,0:12:43.47,0:12:47.43,Italics Top,Newscaster,0,0,0,,ethically responsible drones has resulted \Nin zero fatalities on our side!
+Dialogue: 0,0:12:45.77,0:12:48.68,Flashback,Theo,0,0,0,,You've caused the deaths of millions \Nover the last nine years!
+Dialogue: 0,0:12:48.00,0:12:51.75,Italics Top,Newscaster,0,0,0,,The day when our nation's \Nrighteousness finally smashes
+Dialogue: 0,0:12:48.68,0:12:50.51,Flashback,Theo,0,0,0,,And you do nothing to stop it.
+Dialogue: 0,0:12:50.51,0:12:52.94,Flashback,Theo,0,0,0,,You think that if you just act nice \Nand talk to us every day,
+Dialogue: 0,0:12:51.75,0:12:53.77,Italics Top,Newscaster,0,0,0,,the evil remnants of the \Nwicked Empire is not far off!
+Dialogue: 0,0:12:52.94,0:12:56.13,Flashback,Theo,0,0,0,,that counts as treating us \Nas human, don't you?
+Dialogue: 0,0:12:53.77,0:12:56.16,Italics Top,Newscaster,0,0,0,,Glory to the Republic of San Magnolia,
+Dialogue: 0,0:12:56.16,0:12:58.22,Italics Top,Newscaster,0,0,0,,and to the five-color flag!
+Dialogue: 0,0:12:58.40,0:13:00.85,Flashback,A,0,0,0,,You're not cut out for that job.
+Dialogue: 0,0:13:00.85,0:13:02.44,Flashback,A,0,0,0,,You should let someone else take your place.
+Dialogue: 0,0:13:02.44,0:13:04.45,Flashback,L,0,0,0,,Not that way! Kirschblüte!
+Dialogue: 0,0:13:04.45,0:13:05.56,Flashback,A,0,0,0,,Before you regret it.
+Dialogue: 0,0:13:05.56,0:13:06.68,Flashback,Kiei,0,0,0,,I don't want to die.
+Dialogue: 0,0:13:07.32,0:13:09.43,Main,L,0,0,0,,Para-RAID, activate!
+Dialogue: 0,0:13:09.75,0:13:11.37,Main,L,0,0,0,,Synchronization target:
+Dialogue: 0,0:13:12.51,0:13:14.01,Main,L,0,0,0,,Undertaker!
+Dialogue: 0,0:13:21.32,0:13:26.07,Dates,L,0,0,0,,{\fad(772,474)}War Casualties Cemetery
+Dialogue: 0,0:13:22.26,0:13:25.01,Italics Top,S,0,0,0,,Do you need something, Handler One?
+Dialogue: 0,0:13:28.01,0:13:31.58,Main,L,0,0,0,,Undertaker, can we talk for a moment?
+Dialogue: 0,0:13:31.81,0:13:32.64,Italics,S,0,0,0,,Go ahead.
+Dialogue: 0,0:13:34.42,0:13:35.62,Main,L,0,0,0,,I'm sorry...
+Dialogue: 0,0:13:36.48,0:13:40.08,Main,L,0,0,0,,About yesterday. And everything before it.
+Dialogue: 0,0:13:41.17,0:13:44.06,Main,L,0,0,0,,I'm really sorry.
+Dialogue: 0,0:13:46.04,0:13:47.10,Main,L,0,0,0,,Um...
+Dialogue: 0,0:13:47.10,0:13:50.56,Main,L,0,0,0,,I'm Lena. My name is Vladilena Milizé.
+Dialogue: 0,0:13:51.18,0:13:54.05,Main,L,0,0,0,,I know I should have asked sooner, but...
+Dialogue: 0,0:13:55.57,0:13:59.19,Main,L,0,0,0,,Would you please tell me your names?
+Dialogue: 0,0:14:00.89,0:14:04.28,Italics,S,0,0,0,,If you're bothered by what\N Laughing Fox said to you,
+Dialogue: 0,0:14:04.28,0:14:05.74,Italics,S,0,0,0,,then there's no need to be.
+Dialogue: 0,0:14:06.58,0:14:09.59,Italics,S,0,0,0,,What he said isn't what we all think.
+Dialogue: 0,0:14:09.92,0:14:12.95,Italics,S,0,0,0,,You didn't create this situation,
+Dialogue: 0,0:14:12.95,0:14:16.96,Italics,S,0,0,0,,and you can't fix it on your own. \NWe know that.
+Dialogue: 0,0:14:17.50,0:14:22.75,Italics,S,0,0,0,,You don't need to blame yourself \Nfor not doing the impossible.
+Dialogue: 0,0:14:22.99,0:14:27.63,Main,L,0,0,0,,But it was rude not to ask your names.
+Dialogue: 0,0:14:27.63,0:14:29.59,Italics,S,0,0,0,,There was no need to ask.
+Dialogue: 0,0:14:30.12,0:14:33.67,Italics,S,0,0,0,,Why do you think it's required \Nto use call signs on the Para-RAID,
+Dialogue: 0,0:14:33.67,0:14:36.12,Italics,S,0,0,0,,even though the Legion can't intercept it?
+Dialogue: 0,0:14:36.12,0:14:39.48,Italics,S,0,0,0,,And why are the Processors' \Npersonnel files locked?
+Dialogue: 0,0:14:39.99,0:14:44.39,Main,L,0,0,0,,So Handlers won't have to think \Nof Processors as human, right?
+Dialogue: 0,0:14:44.39,0:14:45.19,Italics,S,0,0,0,,Yes.
+Dialogue: 0,0:14:45.71,0:14:48.81,Italics,S,0,0,0,,Most Processors die within a year.
+Dialogue: 0,0:14:49.34,0:14:54.74,Italics,S,0,0,0,,They probably assumed all that death \Nwould be too much for a Handler to bear.
+Dialogue: 0,0:14:54.89,0:14:57.51,Main,L,0,0,0,,But that's cowardly! I...
+Dialogue: 0,0:14:59.37,0:15:02.01,Main,L,0,0,0,,And I was, too!
+Dialogue: 0,0:15:02.94,0:15:06.13,Main,L,0,0,0,,Honestly, I was going to run away.
+Dialogue: 0,0:15:07.46,0:15:10.83,Main,L,0,0,0,,But I don't want to stay a coward forever.
+Dialogue: 0,0:15:11.53,0:15:17.33,Main,L,0,0,0,,So please, tell me your names. \NYour real names!
+Dialogue: 0,0:15:23.07,0:15:26.91,Italics,S,0,0,0,,Kirschblüte, the girl who died yesterday, \Nwas Kaie Taniya.
+Dialogue: 0,0:15:27.57,0:15:29.84,Italics,S,0,0,0,,Wehrwolf, our XO, is Raiden Shuga.
+Dialogue: 0,0:15:30.11,0:15:32.84,Italics,S,0,0,0,,Laughing Fox is Theoto Rikka.
+Dialogue: 0,0:15:33.16,0:15:35.58,Italics,S,0,0,0,,Snow Witch, Anju Emma.
+Dialogue: 0,0:15:35.93,0:15:38.61,Italics,S,0,0,0,,Gunslinger, Kurena Kukumila.
+Dialogue: 0,0:15:39.25,0:15:41.62,Italics,S,0,0,0,,Black Dog is Daiya Irma...
+Dialogue: 0,0:16:02.44,0:16:03.80,Italics,S,0,0,0,,That's all of them.
+Dialogue: 0,0:16:04.21,0:16:05.72,Main,L,0,0,0,,Thank you.
+Dialogue: 0,0:16:05.99,0:16:08.51,Main,L,0,0,0,,Please, call me "Lena."
+Dialogue: 0,0:16:08.51,0:16:09.85,Italics,S,0,0,0,,I've been told your name.
+Dialogue: 0,0:16:09.85,0:16:10.86,Italics,S,0,0,0,,What's your rank?
+Dialogue: 0,0:16:10.86,0:16:14.25,Main,L,0,0,0,,Major. I was just promoted, though.
+Dialogue: 0,0:16:14.47,0:16:17.36,Italics,S,0,0,0,,I'll call you Major Milizé \Nfrom now on, then.
+Dialogue: 0,0:16:18.06,0:16:19.39,Italics,S,0,0,0,,Is that okay?
+Dialogue: 0,0:16:20.14,0:16:21.04,Main,L,0,0,0,,Yes.
+Dialogue: 0,0:16:23.19,0:16:25.00,Main,L,0,0,0,,What are you doing?
+Dialogue: 0,0:16:25.28,0:16:28.02,Italics,S,0,0,0,,Leaving Kaie's name behind.
+Dialogue: 0,0:16:28.90,0:16:31.27,Italics,S,0,0,0,,Eighty-Six don't get graves.
+Dialogue: 0,0:16:32.05,0:16:35.51,Italics,S,0,0,0,,So in my first unit, we all made a promise.
+Dialogue: 0,0:16:36.23,0:16:40.10,Italics,S,0,0,0,,When someone died, we'd carve their name \Ninto a fragment of their Juggernaut,
+Dialogue: 0,0:16:40.10,0:16:42.07,Italics,S,0,0,0,,and the survivors would carry it.
+Dialogue: 0,0:16:42.56,0:16:47.70,Italics,S,0,0,0,,So that the last of us to survive \Nwould take the others to their final destination.
+Dialogue: 0,0:16:48.66,0:16:52.57,Italics,S,0,0,0,,I was the last. I've always been the last.
+Dialogue: 0,0:16:53.35,0:16:56.65,Italics,S,0,0,0,,So that's my job in this unit, too.
+Dialogue: 0,0:16:57.08,0:16:59.31,Main,L,0,0,0,,You've been doing that for five years.
+Dialogue: 0,0:16:59.77,0:17:03.34,Main,L,0,0,0,,How many people have died?
+Dialogue: 0,0:17:03.69,0:17:05.60,Italics,S,0,0,0,,Five hundred sixty-one.
+Dialogue: 0,0:17:05.93,0:17:07.29,Italics,S,0,0,0,,Including Kaie.
+Dialogue: 0,0:17:07.59,0:17:09.87,Main,L,0,0,0,,And all of them...
+Dialogue: 0,0:17:09.87,0:17:11.23,Italics,S,0,0,0,,I remember them.
+Dialogue: 0,0:17:11.23,0:17:13.11,Italics,S,0,0,0,,Because I have to take them with me.
+Dialogue: 0,0:17:13.70,0:17:16.28,Italics,S,0,0,0,,All the ones who died \Nfighting alongside me.
+Dialogue: 0,0:17:16.83,0:17:18.57,Italics,S,0,0,0,,Until I reach my final destination.
+Dialogue: 0,0:17:21.59,0:17:24.92,Main,L,0,0,0,,And that's why you're "Undertaker."
+Dialogue: 0,0:17:24.92,0:17:26.29,Italics,S,0,0,0,,That's part of it.
+Dialogue: 0,0:17:26.85,0:17:31.08,Main,L,0,0,0,,I never faced the people I let die. \NI just felt bad about it.
+Dialogue: 0,0:17:32.01,0:17:34.57,Main,L,0,0,0,,I'm sorry. Truly.
+Dialogue: 0,0:17:36.28,0:17:41.52,Main,L,0,0,0,,Um... If it's possible, \NI'd like to apologize to everyone.
+Dialogue: 0,0:17:41.52,0:17:43.20,Italics,S,0,0,0,,Shall I connect you?
+Dialogue: 0,0:17:43.79,0:17:45.69,Main,L,0,0,0,,R-Right now?
+Dialogue: 0,0:17:45.69,0:17:47.33,Main,L,0,0,0,,No, I'm fine.
+Dialogue: 0,0:17:45.80,0:17:47.33,Italics,S,0,0,0,,One moment.
+Dialogue: 0,0:19:13.20,0:19:14.71,Italics,L,0,0,0,,All personnel...
+Dialogue: 0,0:19:15.66,0:19:20.35,Italics,L,0,0,0,,I'm sorry about yesterday, \Nand for the way I've behaved until now.
+Dialogue: 0,0:19:21.29,0:19:25.08,Italics,L,0,0,0,,My name is Vladilena Milizé, \Nand I'm a Handler.
+Dialogue: 0,0:19:25.49,0:19:28.15,Italics,L,0,0,0,,I wasn't treating you as humans.
+Dialogue: 0,0:19:28.48,0:19:30.87,Italics,L,0,0,0,,And I didn't even realize it.
+Dialogue: 0,0:19:31.33,0:19:33.90,Italics,L,0,0,0,,Of course you would reject me.
+Dialogue: 0,0:19:34.73,0:19:38.02,Italics,L,0,0,0,,But if you would still answer me,
+Dialogue: 0,0:19:38.31,0:19:39.70,Italics,L,0,0,0,,then please tell me your names.
+Dialogue: 0,0:19:39.70,0:19:42.41,Main,T,0,0,0,,Shin already told you, right?
+Dialogue: 0,0:19:42.41,0:19:43.41,Main,T,0,0,0,,What a pain.
+Dialogue: 0,0:19:44.26,0:19:45.77,Italics,L,0,0,0,,He did.
+Dialogue: 0,0:19:45.77,0:19:49.45,Italics,L,0,0,0,,But you didn't tell me yourselves.
+Dialogue: 0,0:19:52.49,0:19:54.04,Main,T,0,0,0,,Why couldn't you keep your mouth shut?
+Dialogue: 0,0:19:54.24,0:19:55.71,Main,S,0,0,0,,You regretted it, right?
+Dialogue: 0,0:19:55.99,0:19:57.93,Main,S,0,0,0,,Maybe not what you said, \Nbut how you said it.
+Dialogue: 0,0:20:02.29,0:20:06.25,Main,T,0,0,0,,The mark on my Juggernaut is a laughing fox.
+Dialogue: 0,0:20:06.53,0:20:08.77,Main,T,0,0,0,,But I got it from someone else.
+Dialogue: 0,0:20:08.89,0:20:10.16,Italics,L,0,0,0,,From who?
+Dialogue: 0,0:20:10.16,0:20:13.34,Main,T,0,0,0,,The combat commander \Nof the first unit I was attached to.
+Dialogue: 0,0:20:13.72,0:20:16.37,Main,T,0,0,0,,A commander so cheerful and chipper \Nit was almost stupid.
+Dialogue: 0,0:20:16.85,0:20:19.73,Main,T,0,0,0,,A former soldier, and stupidly strong.
+Dialogue: 0,0:20:20.68,0:20:22.87,Main,T,0,0,0,,An Alba, like you.
+Dialogue: 0,0:20:24.23,0:20:28.64,Main,T,0,0,0,,A weirdo who said it wasn't right \Nto make the Eighty-Six fight alone,
+Dialogue: 0,0:20:28.64,0:20:30.31,Main,T,0,0,0,,and came back to the battlefield.
+Dialogue: 0,0:20:30.87,0:20:32.40,Main,T,0,0,0,,I hated them.
+Dialogue: 0,0:20:32.61,0:20:35.26,Main,T,0,0,0,,But they never left.
+Dialogue: 0,0:20:35.68,0:20:38.16,Main,T,0,0,0,,They stayed and died.
+Dialogue: 0,0:20:39.03,0:20:43.79,Main,T,0,0,0,,They died being the rear guard, \Ndefending other Processors.
+Dialogue: 0,0:20:44.27,0:20:48.56,Main,T,0,0,0,,I'm not asking you \Nto do the same thing they did.
+Dialogue: 0,0:20:48.56,0:20:53.37,Main,T,0,0,0,,But as long as you're inside the walls, \Nyou're not our equal.
+Dialogue: 0,0:20:53.37,0:20:55.65,Main,T,0,0,0,,And we won't accept you as one of us.
+Dialogue: 0,0:20:55.90,0:20:57.01,Main,T,0,0,0,,That's all.
+Dialogue: 0,0:20:57.36,0:21:01.77,Italics,L,0,0,0,,That's the good person Kaie \Nwas talking about, huh?
+Dialogue: 0,0:21:01.77,0:21:03.79,Main,T,0,0,0,,It's not just them.
+Dialogue: 0,0:21:03.79,0:21:07.53,Main,T,0,0,0,,She was referring to everybody \Nwho fought the hardest they could.
+Dialogue: 0,0:21:07.98,0:21:12.60,Main,T,0,0,0,,Along with this crappy world \Nthat was made by the same Alba as them.
+Dialogue: 0,0:21:12.92,0:21:15.40,Main,T,0,0,0,,Okay, I'm done talking.
+Dialogue: 0,0:21:15.65,0:21:18.40,Main,T,0,0,0,,Oh, I'm Theoto Rikka.
+Dialogue: 0,0:21:18.40,0:21:22.68,Main,T,0,0,0,,Call me "Theo" or "Rikka" or\N "cute little shit-pig," whatever you want.
+Dialogue: 0,0:21:22.68,0:21:25.44,Italics,L,0,0,0,,I'm sorry for the way I acted.
+Dialogue: 0,0:21:25.44,0:21:28.18,Main,T,0,0,0,,Enough. Get over it already.
+Dialogue: 0,0:21:28.48,0:21:30.82,Main,Raiden,0,0,0,,XO Raiden Shuga.
+Dialogue: 0,0:21:31.02,0:21:32.11,Italics,L,0,0,0,,Yes.
+Dialogue: 0,0:21:32.11,0:21:34.07,Main,Raiden,0,0,0,,First, let me apologize.
+Dialogue: 0,0:21:34.07,0:21:38.73,Main,Raiden,0,0,0,,Your nightly calls made us think of you \Nas a wannabe saint and hypocrite pig
+Dialogue: 0,0:21:38.73,0:21:42.69,Main,Raiden,0,0,0,,not realizing how much of a pig she was, \Nand we laughed at how stupid you were.
+Dialogue: 0,0:21:43.08,0:21:46.02,Main,Raiden,0,0,0,,I apologize for that. I'm sorry.
+Dialogue: 0,0:21:46.48,0:21:48.15,Main,Raiden,0,0,0,,And now that I've said that...
+Dialogue: 0,0:21:48.63,0:21:53.56,Main,Raiden,0,0,0,,As Theo said, we don't think of you \Nas an equal or a comrade.
+Dialogue: 0,0:21:53.56,0:21:58.38,Main,Raiden,0,0,0,,You're an idiot who's stomping on our faces \Nwhile lecturing us with platitudes.
+Dialogue: 0,0:21:58.38,0:22:00.40,Main,Raiden,0,0,0,,That won't change no matter what happens.
+Dialogue: 0,0:22:00.40,0:22:02.04,Main,Raiden,0,0,0,,That's how we'll always see you.
+Dialogue: 0,0:22:02.92,0:22:04.58,Main,Raiden,0,0,0,,If that's okay with you,
+Dialogue: 0,0:22:04.58,0:22:07.22,Main,Raiden,0,0,0,,we'll keep talking with you to kill time,
+Dialogue: 0,0:22:07.22,0:22:09.47,Main,Raiden,0,0,0,,but personally, I don't recommend it.
+Dialogue: 0,0:22:09.82,0:22:12.36,Main,Raiden,0,0,0,,You're not cut out to be a Handler.
+Dialogue: 0,0:22:12.36,0:22:14.00,Main,Raiden,0,0,0,,You should quit.
+Dialogue: 0,0:22:16.01,0:22:20.64,Italics,L,0,0,0,,If it will help you pass the time, \NI'll keep calling.
+Dialogue: 0,0:22:21.74,0:22:23.94,Main,Raiden,0,0,0,,You're a moron, too, huh?
+Dialogue: 0,0:22:24.23,0:22:26.97,Main,Raiden,0,0,0,,Oh, right, send that map.
+Dialogue: 0,0:22:26.97,0:22:29.69,Main,Raiden,0,0,0,,You were too busy crying yesterday \Nto send it, right?
+Dialogue: 0,0:22:29.69,0:22:30.57,Italics,L,0,0,0,,I'll send it right away!
+Dialogue: 0,0:22:30.57,0:22:32.76,Main,Daiya,0,0,0,,Bye, Major Milizé!
+Dialogue: 0,0:22:32.76,0:22:34.04,Main,Daiya,0,0,0,,This has been Daiya Irma.
+Dialogue: 0,0:22:34.18,0:22:35.87,Main,haruto,0,0,0,,Haruto. Nice to meet you.
+Dialogue: 0,0:22:35.87,0:22:38.21,Main,Anju,0,0,0,,Anju Emma, Major!
+Dialogue: 0,0:22:40.08,0:22:41.62,Main,Kurena,0,0,0,,Kurena Kukumila.
+Dialogue: 0,0:22:41.62,0:22:42.88,Main,Lecca,0,0,0,,I'm Lecca!
+Dialogue: 0,0:22:42.88,0:22:43.52,Main,Chise,0,0,0,,Chise.
+Dialogue: 0,0:22:43.52,0:22:45.21,Main,Kino,0,0,0,,Kino!
+Dialogue: 0,0:22:45.54,0:22:47.98,Italics,L,0,0,0,,Thank you, everyone.
+Dialogue: 0,0:22:56.40,0:22:58.18,Italics,L,0,0,0,,I'm sorry, Undertaker.
+Dialogue: 0,0:22:58.42,0:22:59.23,Main,S,0,0,0,,Yes?
+Dialogue: 0,0:22:59.23,0:23:03.61,Italics,L,0,0,0,,I haven't heard your name.
+Dialogue: 0,0:23:03.61,0:23:06.20,Italics,L,0,0,0,,Did you not want to give it?
+Dialogue: 0,0:23:06.20,0:23:09.10,Main,S,0,0,0,,No, I'd just forgotten.
+Dialogue: 0,0:23:09.10,0:23:10.31,Main,S,0,0,0,,I'm sorry.
+Dialogue: 0,0:23:10.60,0:23:12.09,Main,S,0,0,0,,Shinei Nouzen.
+Dialogue: 0,0:23:12.09,0:23:12.84,Italics,L,0,0,0,,"Nouzen"?
+Dialogue: 0,0:23:13.34,0:23:14.36,Main,S,0,0,0,,Is something wrong?
+Dialogue: 0,0:23:14.36,0:23:18.41,Italics,L,0,0,0,,Do you know someone named "Shourei Nouzen"?
+Dialogue: 0,0:23:19.26,0:23:23.59,Italics,L,0,0,0,,His personal name was Dullahan, \Nand his mark was a headless knight.
+Dialogue: 0,0:23:32.78,0:23:33.91,Main,S,0,0,0,,He's my brother.
+Dialogue: 0,0:23:35.86,0:23:37.46,Main,L,0,0,0,,"I'm With You."

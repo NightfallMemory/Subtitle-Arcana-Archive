@@ -1,0 +1,367 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,18,1
+Style: Next time,Arial,22,&H00F8FFFF,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,0,0,7,35,499,54,1
+Style: Flashback Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H00474747,&H005B5D5F,0,0,0,0,100,100,0,0,1,2,1,7,35,38,50,1
+Style: Next Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H00474747,&H005B5D5F,0,0,0,0,100,100,0,0,1,1,1,3,35,50,70,1
+Style: Dates,Arial,20,&H00FFFFFF,&H000000FF,&H004D4D4D,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,176,176,58,1
+Style: sign_51_2_April_13th__Stel,Arial,20,&H00FFFFFF,&H000000FF,&H004D4D4D,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,172,172,58,1
+Style: sign_5870_38_June_16th__Stell,Arial,20,&H00FFFFFF,&H000000FF,&H004D4D4D,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,172,172,58,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.89,0:00:02.45,Flashback Top,Man,0,0,0,,Colonel Milizé!
+Dialogue: 0,0:00:02.10,0:00:05.10,sign_51_2_April_13th__Stel,Man,0,0,0,,{\fad(485,1)}April 13th, Stellar Year 2142
+Dialogue: 0,0:00:17.14,0:00:18.11,Flashback,L,0,0,0,,Father!
+Dialogue: 0,0:00:31.88,0:00:34.87,Flashback_Italics,Rei,0,0,0,,If anybody's still alive, \Ncover your ears and get down!
+Dialogue: 0,0:01:27.08,0:01:28.18,Flashback,Rei,0,0,0,,You okay?
+Dialogue: 0,0:01:42.49,0:01:43.49,Flashback,Rei,0,0,0,,Confirmation complete.
+Dialogue: 0,0:01:43.94,0:01:45.16,Flashback,Rei,0,0,0,,Returning to base.
+Dialogue: 0,0:01:51.27,0:01:52.23,Flashback,Rei,0,0,0,,Want some?
+Dialogue: 0,0:01:55.80,0:02:00.01,Flashback,Rei,0,0,0,,Even at a time like this, I thought \Nmaybe you could eat something sweet.
+Dialogue: 0,0:02:00.01,0:02:02.85,Flashback,Rei,0,0,0,,Or do you not like chocolate?
+Dialogue: 0,0:02:04.75,0:02:05.53,Flashback,Rei,0,0,0,,Good.
+Dialogue: 0,0:02:06.83,0:02:08.28,Flashback,L,0,0,0,,Father...
+Dialogue: 0,0:02:09.30,0:02:14.51,Flashback,L,0,0,0,,said we were doing horrible things \Nto the Eighty-Six.
+Dialogue: 0,0:02:15.25,0:02:19.87,Flashback,L,0,0,0,,So why did you protect me?
+Dialogue: 0,0:02:21.75,0:02:23.17,Flashback,Rei,0,0,0,,Well...
+Dialogue: 0,0:02:24.19,0:02:28.62,Flashback,Rei,0,0,0,,We're part of the Republic. \NWe were born and raised here.
+Dialogue: 0,0:02:29.15,0:02:33.22,Flashback,Rei,0,0,0,,It's a citizen's duty to fight to protect his country. \NIt's something to be proud of.
+Dialogue: 0,0:02:33.72,0:02:35.84,Flashback,Rei,0,0,0,,I'm not one of those losers \Nwho just talks and does nothing.
+Dialogue: 0,0:02:37.00,0:02:38.33,Flashback,Rei,0,0,0,,So I fight.
+Dialogue: 0,0:02:39.18,0:02:41.73,Flashback,Rei,0,0,0,,I'll fight and protect this country to the end.
+Dialogue: 0,0:02:53.62,0:02:57.34,Flashback,Rei,0,0,0,,I have a brother. \NI guess he's about your age.
+Dialogue: 0,0:02:58.40,0:03:00.04,Flashback,Rei,0,0,0,,He's probably grown up big and strong.
+Dialogue: 0,0:03:00.25,0:03:01.81,Flashback,L,0,0,0,,You haven't seen him?
+Dialogue: 0,0:03:04.20,0:03:06.41,Flashback,L,0,0,0,,No. I can't go home yet.
+Dialogue: 0,0:03:08.37,0:03:09.41,Flashback,L,0,0,0,,Thank you.
+Dialogue: 0,0:03:14.10,0:03:16.93,Flashback,Rei,0,0,0,,I'm Shourei Nouzen. Call me "Rei."
+Dialogue: 0,0:03:17.31,0:03:19.11,Flashback,L,0,0,0,,Such a strange name...
+Dialogue: 0,0:03:19.74,0:03:22.11,Flashback,Rei,0,0,0,,It's a rare name in this country.
+Dialogue: 0,0:03:22.11,0:03:24.15,Flashback,L,0,0,0,,You're not from the Republic?
+Dialogue: 0,0:03:24.43,0:03:27.05,Flashback,Rei,0,0,0,,My brother and I were born here,
+Dialogue: 0,0:03:27.05,0:03:29.14,Flashback,Rei,0,0,0,,but our parents were from the neighboring country.
+Dialogue: 0,0:03:29.55,0:03:31.88,Flashback,Rei,0,0,0,,Do you know what the Empire of Giad is?
+Dialogue: 0,0:03:33.72,0:03:36.36,Flashback,L,0,0,0,,The country that made the Legion...
+Dialogue: 0,0:03:38.33,0:03:40.70,Flashback,L,0,0,0,,Aren't you scared to fight?
+Dialogue: 0,0:03:41.45,0:03:42.50,Flashback,Rei,0,0,0,,I am.
+Dialogue: 0,0:03:43.26,0:03:47.71,Flashback,Rei,0,0,0,,But if I don't fight, I can't survive.
+Dialogue: 0,0:03:49.25,0:03:52.27,Flashback,Rei,0,0,0,,So I won't die. I can't.
+Dialogue: 0,0:03:53.09,0:03:57.77,Flashback,Rei,0,0,0,,I have to go back to my brother.
+Dialogue: 0,0:04:04.80,0:04:08.47,sign_5870_38_June_16th__Stell,S,0,0,0,,{\fad(945,1)}June 16th, Stellar Year 2148
+Dialogue: 0,0:04:08.91,0:04:11.74,Main,L,0,0,0,,What is your brother doing now?
+Dialogue: 0,0:04:12.71,0:04:13.93,Italics,S,0,0,0,,He's dead.
+Dialogue: 0,0:04:14.89,0:04:17.53,Italics,S,0,0,0,,He died here on the eastern front, \Nfive years ago.
+Dialogue: 0,0:04:18.08,0:04:19.48,Main,L,0,0,0,,I'm sorry.
+Dialogue: 0,0:04:19.48,0:04:20.11,Italics,S,0,0,0,,No, it's fine.
+Dialogue: 0,0:04:22.87,0:04:26.85,Italics,S,0,0,0,,Remember when you asked me if there was \Nsomething I wanted to do when I left the army?
+Dialogue: 0,0:04:26.85,0:04:28.36,Main,L,0,0,0,,Y-Yes.
+Dialogue: 0,0:04:28.36,0:04:30.69,Italics,S,0,0,0,,There isn't anything I want to do.
+Dialogue: 0,0:04:30.69,0:04:33.50,Italics,S,0,0,0,,But there's something I have to do.
+Dialogue: 0,0:04:34.66,0:04:38.80,Italics,S,0,0,0,,I've been searching for him \Nfor the past five years.
+Dialogue: 0,0:04:40.27,0:04:42.08,Main,L,0,0,0,,You mean his body?
+Dialogue: 0,0:04:44.71,0:04:45.61,Italics,S,0,0,0,,No.
+Dialogue: 0,0:06:16.93,0:06:19.94,Dates,S,0,0,0,,{\fad(1,478)}June 24th, Stellar Year 2148
+Dialogue: 0,0:06:22.83,0:06:24.69,Main,A,0,0,0,,Morning, Lena.
+Dialogue: 0,0:06:27.35,0:06:28.29,Main,L,0,0,0,,Morning.
+Dialogue: 0,0:06:30.47,0:06:32.32,Main,L,0,0,0,,It's so good!
+Dialogue: 0,0:06:32.32,0:06:33.57,Main,A,0,0,0,,I know, right?
+Dialogue: 0,0:06:33.57,0:06:36.73,Main,A,0,0,0,,The cream is artificial, \Nbut the strawberries are real.
+Dialogue: 0,0:06:38.25,0:06:39.51,Main,A,0,0,0,,Oh, right.
+Dialogue: 0,0:06:39.51,0:06:42.37,Main,A,0,0,0,,Want to go look at party dresses next week?
+Dialogue: 0,0:06:42.37,0:06:43.77,Main,A,0,0,0,,For the Revolution Festival.
+Dialogue: 0,0:06:43.77,0:06:45.81,Main,L,0,0,0,,It's that time already?
+Dialogue: 0,0:06:45.81,0:06:48.68,Main,L,0,0,0,,Do I have to go, you think?
+Dialogue: 0,0:06:48.68,0:06:50.38,Main,A,0,0,0,,Of course.
+Dialogue: 0,0:06:50.38,0:06:54.47,Main,A,0,0,0,,All the good dressmakers will be\N booked up if you don't act fast.
+Dialogue: 0,0:06:55.00,0:06:57.60,Main,L,0,0,0,,Sorry. I'm a little busy.
+Dialogue: 0,0:06:59.28,0:07:02.21,Main,A,0,0,0,,You haven't been around much lately, Lena.
+Dialogue: 0,0:07:04.35,0:07:06.90,Main,L,0,0,0,,If you're looking for a dress, \Nwhy not ask a gentleman to go with you?
+Dialogue: 0,0:07:06.90,0:07:09.32,Main,L,0,0,0,,I heard you met another prospective partner.
+Dialogue: 0,0:07:09.32,0:07:11.49,Main,A,0,0,0,,Rudolph, right?
+Dialogue: 0,0:07:11.49,0:07:13.13,Main,A,0,0,0,,He was cute.
+Dialogue: 0,0:07:13.48,0:07:15.24,Main,L,0,0,0,,You have something good to say about one?
+Dialogue: 0,0:07:15.24,0:07:16.37,Main,L,0,0,0,,Does this mean it's finally—
+Dialogue: 0,0:07:16.37,0:07:16.91,Main,A,0,0,0,,Not a chance.
+Dialogue: 0,0:07:17.58,0:07:18.78,Main,A,0,0,0,,Because...
+Dialogue: 0,0:07:20.34,0:07:21.79,Main,A,0,0,0,,He's 5.
+Dialogue: 0,0:07:22.52,0:07:26.61,Main,A,0,0,0,,I know they want my family's money, \Nbut seriously?
+Dialogue: 0,0:07:26.61,0:07:29.88,Main,L,0,0,0,,Why did you put up all the photos \Nfrom your past prospects?
+Dialogue: 0,0:07:29.88,0:07:31.13,Main,A,0,0,0,,My team did it as a joke.
+Dialogue: 0,0:07:31.48,0:07:33.41,Main,A,0,0,0,,So I won't forget, they said.
+Dialogue: 0,0:07:34.71,0:07:37.26,Main,A,0,0,0,,Lena, are you sure you're not tired?
+Dialogue: 0,0:07:37.26,0:07:38.55,Main,A,0,0,0,,Your face is a mess.
+Dialogue: 0,0:07:38.55,0:07:40.11,Main,L,0,0,0,,Is it?
+Dialogue: 0,0:07:40.11,0:07:42.22,Main,A,0,0,0,,You're overusing the Para-RAID.
+Dialogue: 0,0:07:42.22,0:07:45.41,Main,A,0,0,0,,I told you that sharing\N sensory data puts stress on the brain.
+Dialogue: 0,0:07:45.41,0:07:48.74,Main,L,0,0,0,,I just happened to be up all night \Nanalyzing combat data.
+Dialogue: 0,0:07:48.74,0:07:50.25,Main,A,0,0,0,,I know I've said this before,
+Dialogue: 0,0:07:50.25,0:07:54.24,Main,A,0,0,0,,but there's no point in doing\N any favors for the Eighty-Six.
+Dialogue: 0,0:07:57.86,0:08:01.44,Italics Top,S,0,0,0,,So don't you think \Nit's okay to go to the party?
+Dialogue: 0,0:07:58.49,0:08:01.46,Dates,S,0,0,0,,{\fad(1,438)}June 30th, Stellar Year 2148
+Dialogue: 0,0:08:01.47,0:08:04.69,Main,L,0,0,0,,But what if there's a battle \Nduring the party?
+Dialogue: 0,0:08:04.69,0:08:06.31,Italics,S,0,0,0,,We'll be fine.
+Dialogue: 0,0:08:07.01,0:08:09.47,Main,L,0,0,0,,Who puts on a party during wartime, anyway?
+Dialogue: 0,0:08:09.47,0:08:13.25,Italics,S,0,0,0,,Nothing that happens inside the walls \Nhas any effect on us.
+Dialogue: 0,0:08:14.33,0:08:16.75,Italics,S,0,0,0,,We appreciate the analysis \Nof the enemies you provide,
+Dialogue: 0,0:08:17.12,0:08:20.68,Italics,S,0,0,0,,but it's not something that needs \Nto take up all your private time.
+Dialogue: 0,0:08:21.36,0:08:24.99,Main,L,0,0,0,,Is my help unwanted, Captain Nouzen?
+Dialogue: 0,0:08:24.99,0:08:29.61,Italics,S,0,0,0,,No, analysis from a larger perspective \Nthat encompasses the entire theater is valuable.
+Dialogue: 0,0:08:29.89,0:08:34.28,Italics,S,0,0,0,,Your estimates of enemy force composition \Nare accurate and of particular help.
+Dialogue: 0,0:08:34.64,0:08:35.99,Italics,S,0,0,0,,Thank you.
+Dialogue: 0,0:08:36.74,0:08:38.17,Main,L,0,0,0,,I'm glad.
+Dialogue: 0,0:08:38.17,0:08:41.80,Italics,S,0,0,0,,But you don't need \Nto spend all your time on it.
+Dialogue: 0,0:08:42.60,0:08:46.88,Italics,S,0,0,0,,Too much time focusing on the battlefield, \Nand you'll end up like me.
+Dialogue: 0,0:08:48.53,0:08:51.13,Main,L,0,0,0,,What kind of joke is that?
+Dialogue: 0,0:08:52.89,0:08:54.46,Main,L,0,0,0,,Understood.
+Dialogue: 0,0:08:54.46,0:08:56.92,Main,L,0,0,0,,I'll go enjoy myself then.
+Dialogue: 0,0:08:57.29,0:09:01.03,Main,L,0,0,0,,With the stupid party, \Nand the stuffy dress and high heels.
+Dialogue: 0,0:09:01.61,0:09:03.02,Italics,S,0,0,0,,The Revolution Festival?
+Dialogue: 0,0:09:03.02,0:09:04.77,Main,L,0,0,0,,Do you remember something about it?
+Dialogue: 0,0:09:05.19,0:09:07.13,Italics,S,0,0,0,,I think I saw fireworks.
+Dialogue: 0,0:09:07.43,0:09:09.87,Italics,S,0,0,0,,In a garden with a fountain, \Nin front of the palace.
+Dialogue: 0,0:09:11.10,0:09:12.58,Main,L,0,0,0,,The palace?
+Dialogue: 0,0:09:12.58,0:09:15.48,Main,L,0,0,0,,Did you use to live in District 1?
+Dialogue: 0,0:09:15.48,0:09:18.46,Italics,S,0,0,0,,I don't really remember, but I believe so.
+Dialogue: 0,0:09:18.46,0:09:20.15,Main,L,0,0,0,,Oh, wow!
+Dialogue: 0,0:09:20.15,0:09:22.14,Italics,S,0,0,0,,I remember going with my brother.
+Dialogue: 0,0:09:22.51,0:09:25.17,Main,L,0,0,0,,I'm sorry, I shouldn't have...
+Dialogue: 0,0:09:25.32,0:09:26.65,Italics,S,0,0,0,,It's fine.
+Dialogue: 0,0:09:26.65,0:09:30.49,Italics,S,0,0,0,,I can't remember the faces \Nor voices of my family.
+Dialogue: 0,0:09:31.79,0:09:35.38,Main,L,0,0,0,,He said you'd probably grown up \Nbig and strong.
+Dialogue: 0,0:09:35.79,0:09:38.77,Main,L,0,0,0,,I could tell he really cared about you.
+Dialogue: 0,0:09:39.57,0:09:44.72,Main,L,0,0,0,,Your brother really wanted to go home \Nand be with you again.
+Dialogue: 0,0:09:45.66,0:09:47.61,Italics,S,0,0,0,,I hope that's right, but...
+Dialogue: 0,0:09:50.02,0:09:54.27,Main,L,0,0,0,,Uh, Captain, you're supposed \Nto be on patrol, aren't you?
+Dialogue: 0,0:09:54.79,0:09:56.27,Main,L,0,0,0,,Are you in your room?
+Dialogue: 0,0:09:56.70,0:09:57.84,Italics,S,0,0,0,,I apologize.
+Dialogue: 0,0:09:58.31,0:10:04.40,Main,L,0,0,0,,Well, if you've decided it's not necessary, \NI'll respect that, but...
+Dialogue: 0,0:10:04.40,0:10:06.72,Italics,S,0,0,0,,I thought you'd be angry.
+Dialogue: 0,0:10:06.72,0:10:08.96,Main,L,0,0,0,,I'm not that much of a stuffed shirt.
+Dialogue: 0,0:10:08.30,0:10:10.04,Main Top,Man,0,0,0,,Nobody will see us here.
+Dialogue: 0,0:10:10.58,0:10:11.95,Main Top,,0,0,0,,It's fine.
+Dialogue: 0,0:10:10.98,0:10:12.26,Italics,S,0,0,0,,Hey, stop!
+Dialogue: 0,0:10:12.91,0:10:14.91,Italics,S,0,0,0,,Sorry, Major.
+Dialogue: 0,0:10:16.71,0:10:17.92,Italics,S,0,0,0,,Major?
+Dialogue: 0,0:10:19.74,0:10:21.55,Main,L,0,0,0,,I-It's nothing!
+Dialogue: 0,0:10:21.55,0:10:23.92,Main,L,0,0,0,,Really, it's nothing!
+Dialogue: 0,0:10:25.49,0:10:28.17,Italics,S,0,0,0,,Major, we're beginning preparations for combat.
+Dialogue: 0,0:10:29.51,0:10:32.28,Main,L,0,0,0,,No warnings have been issued here.
+Dialogue: 0,0:10:32.61,0:10:35.51,Italics,S,0,0,0,,No, the Legion are coming.
+Dialogue: 0,0:10:37.85,0:10:39.72,Italics,Raiden,0,0,0,,Confirmed. We're ready to go at any time.
+Dialogue: 0,0:10:39.72,0:10:41.25,Italics,Theo,0,0,0,,Same with the Third Platoon.
+Dialogue: 0,0:10:41.25,0:10:41.99,Italics,,0,0,0,,Roger.
+Dialogue: 0,0:10:42.40,0:10:46.93,Main,L,0,0,0,,Captain Nouzen, how did you know \Nthe Legion are coming?
+Dialogue: 0,0:10:46.93,0:10:50.38,Main,L,0,0,0,,If you weren't on patrol, \Nhow could you find them so fast?
+Dialogue: 0,0:10:52.27,0:10:55.42,Italics,S,0,0,0,,Major, would you please cut your Para-RAID?
+Dialogue: 0,0:10:56.13,0:10:58.08,Italics,S,0,0,0,,There are a lot of Black Sheep this time.
+Dialogue: 0,0:10:58.47,0:11:00.60,Italics,S,0,0,0,,It's dangerous to remain synced with me.
+Dialogue: 0,0:11:00.60,0:11:01.88,Main,L,0,0,0,,"Black Sheep"?
+Dialogue: 0,0:11:01.88,0:11:03.90,Italics,S,0,0,0,,If you're curious, I'll explain later.
+Dialogue: 0,0:11:04.13,0:11:05.65,Italics,S,0,0,0,,But cut the sync, please.
+Dialogue: 0,0:11:06.54,0:11:09.80,Main,L,0,0,0,,I can't know what's going on \Nwithout the Para-RAID.
+Dialogue: 0,0:11:09.80,0:11:11.28,Main,L,0,0,0,,I'm not cutting it.
+Dialogue: 0,0:11:12.61,0:11:14.23,Italics,S,0,0,0,,I warned you.
+Dialogue: 0,0:11:17.23,0:11:20.07,Main,L,0,0,0,,Undertaker, you're too far ahead!
+Dialogue: 0,0:11:20.07,0:11:21.80,Main,L,0,0,0,,They'll surround you!
+Dialogue: 0,0:11:20.94,0:11:22.11,Italics Top,Man,0,0,0,,Mommy...
+Dialogue: 0,0:11:24.58,0:11:25.11,Main,L,0,0,0,,What?
+Dialogue: 0,0:11:27.24,0:11:31.41,Main,L,0,0,0,,This isn't static.
+Dialogue: 0,0:11:34.41,0:11:35.29,Italics Top,Voices,0,0,0,,Mom.
+Dialogue: 0,0:11:35.29,0:11:35.99,Italics Top,Voices,0,0,0,,Help me.
+Dialogue: 0,0:11:37.61,0:11:38.76,Italics Top,Voices,0,0,0,,Help me.
+Dialogue: 0,0:11:39.38,0:11:40.45,Italics Top,Voices,0,0,0,,It's so hot.
+Dialogue: 0,0:11:42.91,0:11:44.42,Italics Top,Voices,0,0,0,,No! No!
+Dialogue: 0,0:11:48.83,0:11:50.58,Main,L,0,0,0,,No!
+Dialogue: 0,0:11:51.27,0:11:52.67,Main,L,0,0,0,,No!
+Dialogue: 0,0:11:51.70,0:11:52.67,Italics Top,S,0,0,0,,Major!
+Dialogue: 0,0:11:53.22,0:11:54.55,Italics Top,S,0,0,0,,Major Milizé!
+Dialogue: 0,0:12:02.77,0:12:04.23,Italics,S,0,0,0,,I'm cutting the link, Major!
+Dialogue: 0,0:12:05.38,0:12:06.44,Italics,Kaie,0,0,0,,I don't want to die.
+Dialogue: 0,0:12:13.36,0:12:14.60,Main,L,0,0,0,,Kaie?
+Dialogue: 0,0:12:30.00,0:12:31.40,Main,L,0,0,0,,That voice...
+Dialogue: 0,0:12:44.61,0:12:47.48,Flashback_Italics,Voices,0,0,0,,Mom... Mom... Mom...
+Dialogue: 0,0:12:46.93,0:12:47.94,Flashback_Italics,Voices,0,0,0,,It's so hot!
+Dialogue: 0,0:12:48.16,0:12:49.19,Flashback_Italics,Voices,0,0,0,,Help me!
+Dialogue: 0,0:12:49.19,0:12:50.15,Flashback_Italics,Voices,0,0,0,,No!
+Dialogue: 0,0:12:50.15,0:12:51.47,Main,L,0,0,0,,What?
+Dialogue: 0,0:12:53.49,0:12:55.63,Flashback_Italics,Voices,0,0,0,,Mom! Mom!
+Dialogue: 0,0:12:55.39,0:12:56.47,Flashback_Italics,Voices,0,0,0,,Help me!
+Dialogue: 0,0:12:56.16,0:12:57.24,Flashback_Italics,Voices,0,0,0,,Mom!
+Dialogue: 0,0:12:56.47,0:12:57.23,Flashback_Italics,Voices,0,0,0,,No!
+Dialogue: 0,0:12:57.64,0:12:58.45,Flashback_Italics,Voices,0,0,0,,No!
+Dialogue: 0,0:13:01.17,0:13:01.93,Flashback_Italics,Voices,0,0,0,,Help me!
+Dialogue: 0,0:13:01.93,0:13:02.50,Flashback_Italics,Voices,0,0,0,,No!
+Dialogue: 0,0:13:03.26,0:13:04.35,Main,L,0,0,0,,No!
+Dialogue: 0,0:13:06.61,0:13:07.94,Flashback_Italics,L,0,0,0,,I don't want to die!
+Dialogue: 0,0:13:31.95,0:13:34.87,Dates,Voices,0,0,0,,June 30th, Stellar Year 2148
+Dialogue: 0,0:13:32.77,0:13:33.70,Italics Top,Voices,0,0,0,,Mom.
+Dialogue: 0,0:13:33.97,0:13:37.86,Italics Top,L,0,0,0,,What? It's not static.
+Dialogue: 0,0:13:40.81,0:13:41.93,Italics,Voices,0,0,0,,Mom!
+Dialogue: 0,0:13:42.33,0:13:45.18,Italics,Voices,0,0,0,,No! Help me! Help me!
+Dialogue: 0,0:13:46.70,0:13:48.93,Main,Raiden,0,0,0,,You're even more annoying than usual today!
+Dialogue: 0,0:13:52.16,0:13:53.29,Italics,L,0,0,0,,No!
+Dialogue: 0,0:13:54.10,0:13:55.90,Main,Raiden,0,0,0,,Are you okay?
+Dialogue: 0,0:13:57.39,0:13:59.33,Italics,L,0,0,0,,No!
+Dialogue: 0,0:14:03.74,0:14:06.64,Main,S,0,0,0,,Major! Major Milizé!
+Dialogue: 0,0:14:16.66,0:14:19.61,Italics,L,0,0,0,,No... Make it stop...
+Dialogue: 0,0:14:22.18,0:14:23.28,Main,S,0,0,0,,I'm cutting the link, Major!
+Dialogue: 0,0:14:23.75,0:14:25.32,Italics,Kaie,0,0,0,,I don't want to die.
+Dialogue: 0,0:14:26.44,0:14:29.13,Italics,Theo,0,0,0,,Damn. That's Kaie!
+Dialogue: 0,0:14:29.40,0:14:32.75,Italics,Daiya,0,0,0,,How? Didn't you torch her \Nwith her Juggernaut?
+Dialogue: 0,0:14:32.75,0:14:33.50,Italics Top,Voices,0,0,0,,Help me!
+Dialogue: 0,0:14:33.50,0:14:35.01,Italics,Raiden,0,0,0,,They took her? Damn it!
+Dialogue: 0,0:14:35.58,0:14:37.02,Italics,Kaie,0,0,0,,I don't want to die.
+Dialogue: 0,0:14:40.43,0:14:41.70,Italics,S,0,0,0,,Gunslinger.
+Dialogue: 0,0:14:42.43,0:14:44.53,Italics,S,0,0,0,,Heading 060, distance 800.
+Dialogue: 0,0:14:45.21,0:14:48.01,Italics,S,0,0,0,,The enemy's front rank, \Nthe third Grauwolf from the right.
+Dialogue: 0,0:14:48.01,0:14:48.86,Main,Kurena,0,0,0,,Roger.
+Dialogue: 0,0:14:48.86,0:14:57.79,Italics,Kaie,0,0,0,,I don't want to die. \NI don't want to die. I don't want to die.
+Dialogue: 0,0:14:59.89,0:15:01.75,Italics,Kurena,0,0,0,,Target silenced.
+Dialogue: 0,0:15:16.42,0:15:17.58,Main,Raiden,0,0,0,,Good work today.
+Dialogue: 0,0:15:17.58,0:15:18.58,Main,S,0,0,0,,Thanks.
+Dialogue: 0,0:15:19.47,0:15:22.82,Main,Raiden,0,0,0,,Everybody was really \Ngiving it their all today.
+Dialogue: 0,0:15:23.03,0:15:24.91,Main,S,0,0,0,,They wanted revenge, huh?
+Dialogue: 0,0:15:24.91,0:15:26.45,Main,Raiden,0,0,0,,It's a nasty thing.
+Dialogue: 0,0:15:27.05,0:15:30.53,Main,Raiden,0,0,0,,But you know, I thought\N they'd all pass out from exhaustion.
+Dialogue: 0,0:15:30.92,0:15:32.58,Main,Raiden,0,0,0,,Maybe they're all feeling lonely.
+Dialogue: 0,0:15:33.61,0:15:35.81,Main,Raiden,0,0,0,,At this time, normally...
+Dialogue: 0,0:15:39.15,0:15:42.66,Main,Raiden,0,0,0,,No Handler's ever called \Nafter hearing those voices.
+Dialogue: 0,0:15:42.96,0:15:45.67,Main,Raiden,0,0,0,,No more report-writing for you, huh?
+Dialogue: 0,0:15:50.58,0:15:53.67,Main,S,0,0,0,,Yes, it's fine, Major.
+Dialogue: 0,0:15:55.71,0:15:57.44,Main,Raiden,0,0,0,,I'm impressed.
+Dialogue: 0,0:16:00.54,0:16:04.77,Italics,L,0,0,0,,I'm sorry for losing control today.
+Dialogue: 0,0:16:04.77,0:16:05.60,Main,S,0,0,0,,Not at all.
+Dialogue: 0,0:16:07.74,0:16:08.75,Italics,L,0,0,0,,Captain...
+Dialogue: 0,0:16:09.29,0:16:11.81,Italics,L,0,0,0,,Those voices I heard during the battle...
+Dialogue: 0,0:16:12.30,0:16:13.87,Italics,L,0,0,0,,What are they?
+Dialogue: 0,0:16:16.75,0:16:19.96,Main,S,0,0,0,,Once, I almost died...
+Dialogue: 0,0:16:20.97,0:16:25.13,Main,S,0,0,0,,Actually, I think I did die.
+Dialogue: 0,0:16:26.76,0:16:28.16,Main,S,0,0,0,,So that's why I can hear them.
+Dialogue: 0,0:16:28.64,0:16:33.88,Main,S,0,0,0,,The voices of the ghosts \Nwho died as I did, but are still here.
+Dialogue: 0,0:16:33.88,0:16:34.91,Italics,L,0,0,0,,"Ghosts"?
+Dialogue: 0,0:16:35.46,0:16:39.22,Italics,L,0,0,0,,But there was just the Legion out there, right?
+Dialogue: 0,0:16:39.72,0:16:42.23,Main,S,0,0,0,,I think they're ghosts, too.
+Dialogue: 0,0:16:42.81,0:16:45.89,Main,S,0,0,0,,They're the army of a lost country,
+Dialogue: 0,0:16:45.89,0:16:47.82,Main,S,0,0,0,,with no reason to exist \Nnow that the Empire's gone.
+Dialogue: 0,0:16:48.98,0:16:54.02,Italics,L,0,0,0,,So the reason you know \Nwhen the Legion are coming...
+Dialogue: 0,0:16:55.03,0:16:59.35,Main,S,0,0,0,,Yes, it's because I can hear them.
+Dialogue: 0,0:16:59.83,0:17:01.57,Main,S,0,0,0,,When they come, I know.
+Dialogue: 0,0:17:02.04,0:17:03.83,Main,S,0,0,0,,I always hear them, even when I'm asleep.
+Dialogue: 0,0:17:03.83,0:17:08.17,Italics,L,0,0,0,,Wait... "Always"? \NDo you hear them now?
+Dialogue: 0,0:17:08.17,0:17:10.86,Italics,L,0,0,0,,Not just during battle, but even now?
+Dialogue: 0,0:17:09.60,0:17:10.86,Main Top,Kurena,0,0,0,,Night!
+Dialogue: 0,0:17:10.86,0:17:13.81,Italics,L,0,0,0,,How far away do they have to be?
+Dialogue: 0,0:17:14.29,0:17:16.44,Main,S,0,0,0,,I don't know the exact distance,
+Dialogue: 0,0:17:16.44,0:17:20.87,Main,S,0,0,0,,but I'm aware of every Legion \Npast the former borders of the Republic.
+Dialogue: 0,0:17:21.59,0:17:23.98,Italics,L,0,0,0,,Isn't it... painful?
+Dialogue: 0,0:17:26.26,0:17:27.66,Main,S,0,0,0,,I'm used to it.
+Dialogue: 0,0:17:27.66,0:17:29.46,Main,S,0,0,0,,It's been a long time since it started.
+Dialogue: 0,0:17:29.46,0:17:30.95,Italics,L,0,0,0,,Since when?
+Dialogue: 0,0:17:31.63,0:17:36.86,Italics,L,0,0,0,,And did you hear Lieutenant Kaie Taniya's voice
+Dialogue: 0,0:17:37.49,0:17:39.65,Italics,L,0,0,0,,because she became a ghost as well?
+Dialogue: 0,0:17:40.98,0:17:42.22,Italics,L,0,0,0,,Captain?
+Dialogue: 0,0:17:44.13,0:17:49.58,Main,S,0,0,0,,The Republic government predicts \Nthe war will end in two years, right?
+Dialogue: 0,0:17:49.58,0:17:51.22,Italics,L,0,0,0,,How did you know?
+Dialogue: 0,0:17:51.22,0:17:53.89,Main,S,0,0,0,,Theo heard from the commander \Nwe told you about before.
+Dialogue: 0,0:17:54.75,0:17:59.70,Main,S,0,0,0,,The Legion has a timer. \NIn a little under two years, it'll run out.
+Dialogue: 0,0:17:59.70,0:18:00.63,Main,S,0,0,0,,Right?
+Dialogue: 0,0:18:00.97,0:18:01.99,Italics,L,0,0,0,,Yes.
+Dialogue: 0,0:18:01.99,0:18:05.65,Italics,L,0,0,0,,The Legion's central processing unit \Nis modeled after a human brain.
+Dialogue: 0,0:18:05.65,0:18:08.68,Italics,L,0,0,0,,That design will cause it \Nto stop functioning in two years.
+Dialogue: 0,0:18:08.68,0:18:10.64,Main,S,0,0,0,,If that design won't work,
+Dialogue: 0,0:18:10.96,0:18:14.01,Main,S,0,0,0,,they just need to replace it \Nwith another beforehand.
+Dialogue: 0,0:18:14.01,0:18:17.28,Main,S,0,0,0,,Using materials that are readily available \Non the battlefield where they live.
+Dialogue: 0,0:18:17.69,0:18:18.72,Italics,L,0,0,0,,You can't mean...
+Dialogue: 0,0:18:20.19,0:18:21.79,Main,S,0,0,0,,Human brains.
+Dialogue: 0,0:18:24.79,0:18:31.12,Main,S,0,0,0,,Their central nervous systems are more\N advanced than other living creatures'.
+Dialogue: 0,0:18:31.44,0:18:33.74,Main,S,0,0,0,,The Republic forbids the burial of Eighty-Six.
+Dialogue: 0,0:18:33.74,0:18:36.36,Main,S,0,0,0,,The brains themselves rot,
+Dialogue: 0,0:18:36.36,0:18:39.74,Main,S,0,0,0,,and I've heard multiple Legion\N with the same voice.
+Dialogue: 0,0:18:39.74,0:18:42.51,Main,S,0,0,0,,So it's more likely a copy of the brain.
+Dialogue: 0,0:18:42.82,0:18:43.66,Italics,L,0,0,0,,Then...
+Dialogue: 0,0:18:43.97,0:18:46.77,Main,S,0,0,0,,Kaie is probably out there still somewhere.
+Dialogue: 0,0:18:47.09,0:18:50.29,Main,S,0,0,0,,So I don't think it's the same as \Nwhat you'd call a "soul."
+Dialogue: 0,0:18:50.67,0:18:55.53,Main,S,0,0,0,,The original human's mind isn't inside. \NYou can't communicate with it.
+Dialogue: 0,0:18:55.92,0:19:00.52,Main,S,0,0,0,,It's just a fading echo of who they were— \Ntheir thoughts copied at the moment of death.
+Dialogue: 0,0:19:01.04,0:19:03.36,Main,S,0,0,0,,Ghosts that haunt the Legion.
+Dialogue: 0,0:19:03.70,0:19:06.02,Italics,L,0,0,0,,And those are the Black Sheep?
+Dialogue: 0,0:19:06.47,0:19:07.21,Main,S,0,0,0,,Yes.
+Dialogue: 0,0:19:07.87,0:19:12.08,Main,S,0,0,0,,Black Sheep that hide among the white ones.
+Dialogue: 0,0:19:12.86,0:19:16.51,Main,S,0,0,0,,Of course, the Black Sheep are more common now.
+Dialogue: 0,0:19:19.89,0:19:24.53,Main,S,0,0,0,,Major, you're going to lose this war.
+Dialogue: 0,0:19:26.05,0:19:27.69,Italics,L,0,0,0,,What do you mean?
+Dialogue: 0,0:19:27.91,0:19:32.69,Main,S,0,0,0,,The Legion with the new designs \Nwon't shut down in two years.
+Dialogue: 0,0:19:33.19,0:19:35.50,Main,S,0,0,0,,But what about the Eighty-Six?
+Dialogue: 0,0:19:35.88,0:19:40.78,Main,S,0,0,0,,The only ones left are children, \Nand they're all already fighting.
+Dialogue: 0,0:19:43.56,0:19:46.62,Main,S,0,0,0,,We'll all be dead soon.
+Dialogue: 0,0:19:47.19,0:19:49.88,Main,S,0,0,0,,When that happens, will you Alba fight,
+Dialogue: 0,0:19:50.57,0:19:56.66,Main,S,0,0,0,,now that you've learned to push \Nthe costs of the war onto someone else?
+Dialogue: 0,0:19:56.99,0:19:58.64,Italics,L,0,0,0,,Well...
+Dialogue: 0,0:19:58.64,0:19:59.88,Main,S,0,0,0,,You can't.
+Dialogue: 0,0:20:00.60,0:20:03.48,Italics,L,0,0,0,,But there are fewer Legion now!
+Dialogue: 0,0:20:03.48,0:20:06.83,Italics,L,0,0,0,,They're down to about half their number \Ncompared to a few years ago.
+Dialogue: 0,0:20:06.83,0:20:09.31,Main,S,0,0,0,,To the degree you can observe them, right?
+Dialogue: 0,0:20:10.58,0:20:14.99,Main,S,0,0,0,,It's true that the amount of Legion \Nyou can observe has decreased.
+Dialogue: 0,0:20:15.30,0:20:19.75,Main,S,0,0,0,,But that's only because \Nthere are more at the rear.
+Dialogue: 0,0:20:19.75,0:20:22.48,Italics,L,0,0,0,,They're conserving and building up their forces?
+Dialogue: 0,0:20:22.48,0:20:25.52,Italics,L,0,0,0,,That's not possible. \NThe Legion aren't that smart.
+Dialogue: 0,0:20:25.52,0:20:28.88,Main,S,0,0,0,,Or so you thought. \NThat's the other reason you'll lose.
+Dialogue: 0,0:20:29.04,0:20:30.21,Italics,L,0,0,0,,What do you mean?
+Dialogue: 0,0:20:32.25,0:20:36.77,Main,S,0,0,0,,The heads of the dead that the \NLegion take are all badly damaged.
+Dialogue: 0,0:20:37.27,0:20:42.06,Main,S,0,0,0,,But the Black Sheep are still better \Nat processing than the normal Legion.
+Dialogue: 0,0:20:43.44,0:20:47.44,Main,S,0,0,0,,So what if they got an undamaged brain?
+Dialogue: 0,0:20:47.44,0:20:49.00,Italics,L,0,0,0,,Is that possible?
+Dialogue: 0,0:20:51.09,0:20:57.38,Main,S,0,0,0,,A ghost commander, \Nwho leads and guides the unthinking Legion.
+Dialogue: 0,0:20:57.38,0:20:59.78,Main,S,0,0,0,,We call them Shepherds.
+Dialogue: 0,0:20:59.78,0:21:04.71,Main,S,0,0,0,,And the armies they lead \Nare vastly more powerful than the others.
+Dialogue: 0,0:21:04.71,0:21:09.20,Italics,L,0,0,0,,Wait. This isn't a hypothesis? \NThey already exist?
+Dialogue: 0,0:21:09.48,0:21:11.49,Italics,L,0,0,0,,Can you hear their voices?
+Dialogue: 0,0:21:11.72,0:21:13.09,Main,S,0,0,0,,I can.
+Dialogue: 0,0:21:13.75,0:21:17.31,Main,S,0,0,0,,They're commanders. Their voices travel far.
+Dialogue: 0,0:21:19.18,0:21:23.49,Main,S,0,0,0,,Yes. There's one at the rear \Nof Combat District 1.
+Dialogue: 0,0:21:25.77,0:21:30.84,Italics,L,0,0,0,,But the Republic will lose years from now,
+Dialogue: 0,0:21:30.84,0:21:34.01,Italics,L,0,0,0,,after you've all been wiped out, right?
+Dialogue: 0,0:21:34.97,0:21:36.40,Main,S,0,0,0,,That's true.
+Dialogue: 0,0:21:36.40,0:21:40.47,Italics,L,0,0,0,,So we just need \Nto wipe out the Legion before then.
+Dialogue: 0,0:21:40.47,0:21:42.89,Italics,L,0,0,0,,Let's fight. I'm with you—
+Dialogue: 0,0:21:45.26,0:21:48.70,Italics,L,0,0,0,,No, I'll just do my best.
+Dialogue: 0,0:21:48.70,0:21:51.73,Italics,L,0,0,0,,I'll analyze the enemy. Come up with plans.
+Dialogue: 0,0:21:51.73,0:21:53.66,Italics,L,0,0,0,,Anything I can do.
+Dialogue: 0,0:21:54.72,0:21:56.45,Italics,L,0,0,0,,Captain Nouzen...
+Dialogue: 0,0:21:56.45,0:21:58.82,Italics,L,0,0,0,,Your term of service is up this year, right?
+Dialogue: 0,0:21:58.82,0:22:04.31,Italics,L,0,0,0,,So let's win before then, and both survive.
+Dialogue: 0,0:22:05.94,0:22:07.20,Main,S,0,0,0,,Yes...
+Dialogue: 0,0:22:08.37,0:22:10.10,Main,S,0,0,0,,Can we call it a night?
+Dialogue: 0,0:22:10.10,0:22:11.68,Main,S,0,0,0,,It's lights-out here.
+Dialogue: 0,0:22:12.08,0:22:14.30,Italics,L,0,0,0,,Sorry for keeping you up late.
+Dialogue: 0,0:22:15.51,0:22:16.86,Italics,L,0,0,0,,Goodnight.
+Dialogue: 0,0:23:21.95,0:23:23.21,Flashback,Rei,0,0,0,,It's your fault!
+Dialogue: 0,0:23:29.67,0:23:31.07,Main,S,0,0,0,,I'll be going soon,
+Dialogue: 0,0:23:32.19,0:23:33.17,Main,S,0,0,0,,Brother.
+Dialogue: 0,0:23:36.32,0:23:37.63,Main,,0,0,0,,"Through to the End."

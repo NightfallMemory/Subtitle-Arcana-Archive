@@ -1,0 +1,380 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,18,1
+Style: Next time,Arial,22,&H00F8FFFF,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,0,0,7,35,499,54,1
+Style: Flashback Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H00474747,&H005B5D5F,0,0,0,0,100,100,0,0,1,2,1,7,35,38,50,1
+Style: Next Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H00474747,&H005B5D5F,0,0,0,0,100,100,0,0,1,1,1,3,35,50,70,1
+Style: Dates,Arial,20,&H00FFFFFF,&H000000FF,&H004D4D4D,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,176,176,58,1
+Style: sign_85_2_Giad_Federacy_Fo,Arial,20,&H00FFFFFF,&H000000FF,&H004D4D4D,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,70,70,58,1
+Style: sign_11548_112_Giad_Federacy_17,Arial,20,&H00FFFFFF,&H000000FF,&H004D4D4D,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,78,78,58,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:02.98,Dates,,0,0,0,,July 30th, Stellar Year 2149
+Dialogue: 0,0:00:03.52,0:00:09.86,sign_85_2_Giad_Federacy_Fo,Onscreen,0,0,0,,{\fad(442,476)}Giad Federacy Forward Operating Base FOB13
+Dialogue: 0,0:00:18.23,0:00:19.03,Main,Shin,0,0,0,,Last one.
+Dialogue: 0,0:00:20.09,0:00:23.36,Main,Raiden,0,0,0,,Did you actually read those?
+Dialogue: 0,0:00:25.31,0:00:27.99,Main,Shin,0,0,0,,It's rare for you to end up \Nat the same base as me.
+Dialogue: 0,0:00:27.99,0:00:30.54,Main,Raiden,0,0,0,,Supposedly we'll all be together tomorrow.
+Dialogue: 0,0:00:30.54,0:00:32.89,Main,Raiden,0,0,0,,I don't really care.
+Dialogue: 0,0:00:32.89,0:00:36.75,Main,Raiden,0,0,0,,But do you think they could\N treat us a little different?
+Dialogue: 0,0:00:37.15,0:00:39.60,Main,Shin,0,0,0,,These things are prototypes, after all.
+Dialogue: 0,0:00:40.50,0:00:42.79,Main,Raiden,0,0,0,,We took some heavy hits yesterday.
+Dialogue: 0,0:00:43.32,0:00:46.34,Main,Raiden,0,0,0,,Are you thinking it's about time \Nfor them to come?
+Dialogue: 0,0:00:46.87,0:00:49.97,Main,Shin,0,0,0,,No. I guess you could say \Nthey could come at any time.
+Dialogue: 0,0:02:23.57,0:02:27.48,Main,Soldier,0,0,0,,Our analysis of the increase \Nin comms traffic, as well as the reports
+Dialogue: 0,0:02:27.48,0:02:30.59,Main,Soldier,0,0,0,,from our autonomous scouts, \Nshows a high probability
+Dialogue: 0,0:02:30.59,0:02:33.04,Main,Soldier,0,0,0,,of a large-scale Legion attack \Nin the coming days.
+Dialogue: 0,0:02:33.04,0:02:35.88,Main,Soldier,0,0,0,,That's the Joint Analysis Team's conclusion.
+Dialogue: 0,0:02:37.21,0:02:39.04,Main,Richard,0,0,0,,So it's finally coming...
+Dialogue: 0,0:02:43.32,0:02:45.27,Main,Richard,0,0,0,,What is it, Colonel Wenzel?
+Dialogue: 0,0:02:45.27,0:02:50.58,Main,Grethe,0,0,0,,I assume we'll be reorganizing our units \Nto prepare for the attack.
+Dialogue: 0,0:02:50.58,0:02:53.90,Main,Grethe,0,0,0,,I'd like my men back.
+Dialogue: 0,0:02:58.96,0:03:01.39,Main,Richard,0,0,0,,The Reginleifs are still \Nin the prototype stage.
+Dialogue: 0,0:03:01.39,0:03:04.72,Main,Richard,0,0,0,,With no idea whether they're capable \Nof operating effectively on their own,
+Dialogue: 0,0:03:04.72,0:03:08.74,Main,Richard,0,0,0,,it's safest to keep them grouped \Nwith Vánagandrs, as we've been doing.
+Dialogue: 0,0:03:08.74,0:03:10.60,Main,Grethe,0,0,0,,Sir, I understand your position,
+Dialogue: 0,0:03:10.60,0:03:16.13,Main,Grethe,0,0,0,,but Nordlicht squadron's total kill count \Nis among the best in the 8th Corps.
+Dialogue: 0,0:03:16.13,0:03:19.33,Main,Richard,0,0,0,,As are their losses.
+Dialogue: 0,0:03:19.33,0:03:21.63,Main,Grethe,0,0,0,,Consider it a filtering process.
+Dialogue: 0,0:03:22.49,0:03:25.65,Main,Officer,0,0,0,,All you're doing is taking advantage \Nof the Eighty-Six's experience!
+Dialogue: 0,0:03:25.65,0:03:29.05,Main,Officer,0,0,0,,Sending those poor kids \Nright back into the war...
+Dialogue: 0,0:03:29.05,0:03:32.09,Main,Officer,0,0,0,,You're a merchant of death, \Ndesperate to get back your lost position!
+Dialogue: 0,0:03:33.47,0:03:37.36,Main,Grethe,0,0,0,,My new Feldreß, the MX2 Reginleif,
+Dialogue: 0,0:03:37.36,0:03:39.85,Main,Grethe,0,0,0,,has even greater mobility than the Legion.
+Dialogue: 0,0:03:41.62,0:03:43.78,Main,Grethe,0,0,0,,If we're going to prepare \Nfor this large-scale offensive,
+Dialogue: 0,0:03:43.78,0:03:45.98,Main,Grethe,0,0,0,,do we not need to break \Nwith traditional tactical doctrine
+Dialogue: 0,0:03:45.98,0:03:50.34,Main,Grethe,0,0,0,,and have a small elite unit capable \Nof battling a much larger force?
+Dialogue: 0,0:03:50.96,0:03:54.21,Main,Grethe,0,0,0,,To protect the Federacy, and its people...
+Dialogue: 0,0:03:54.40,0:03:58.24,Main,Grethe,0,0,0,,I hope you'll consider \Nallowing my Reginleifs,
+Dialogue: 0,0:03:58.24,0:04:02.24,Main,Grethe,0,0,0,,as well as Nordlicht squadron, \Nto be put to their proper use, General.
+Dialogue: 0,0:04:03.05,0:04:05.55,Dates,Onscreen,0,0,0,,July 31st, Stellar Year 2149
+Dialogue: 0,0:04:03.29,0:04:05.56,Main Top,Bernholdt,0,0,0,,Reporting, Squadron Commander.
+Dialogue: 0,0:04:05.56,0:04:09.76,Main,Bernholdt,0,0,0,,There were two casualties in the battle yesterday, \Nputting us under twenty men.
+Dialogue: 0,0:04:10.05,0:04:14.71,Main,Bernholdt,0,0,0,,We're just out here on loan from the labs, \Nand a group of foreigners, too.
+Dialogue: 0,0:04:14.71,0:04:16.80,Main,Bernholdt,0,0,0,,And our commander is the famous spider-woman,
+Dialogue: 0,0:04:16.80,0:04:19.79,Main,Bernholdt,0,0,0,,the weirdest girl even among \Nthe lab weirdos or the brass.
+Dialogue: 0,0:04:20.13,0:04:24.25,Main,Bernholdt,0,0,0,,We're asking for more men, \Nbut they won't send anyone.
+Dialogue: 0,0:04:24.25,0:04:26.21,Main,Shin,0,0,0,,I'm used to not having additional men.
+Dialogue: 0,0:04:26.98,0:04:30.91,Main,Bernholdt,0,0,0,,Your life would've been easier \Nif you'd joined one of the regular units.
+Dialogue: 0,0:04:30.91,0:04:32.41,Main,Shin,0,0,0,,I feel more at home here.
+Dialogue: 0,0:04:34.43,0:04:38.20,Main,Bernholdt,0,0,0,,As long as you don't get us killed \Nwith idiotic orders,
+Dialogue: 0,0:04:38.59,0:04:41.41,Main,Bernholdt,0,0,0,,even if you're a bratty little kid \Nwho never smiles,
+Dialogue: 0,0:04:41.41,0:04:44.08,Main,Bernholdt,0,0,0,,or who puts himself \Nat the head of every charge,
+Dialogue: 0,0:04:44.08,0:04:45.58,Main,Bernholdt,0,0,0,,or a Reaper who'll drive you crazy
+Dialogue: 0,0:04:45.58,0:04:47.89,Main,Bernholdt,0,0,0,,if you try to sympathize with us, \Nit doesn't matter to me.
+Dialogue: 0,0:04:50.51,0:04:53.14,Main,Bernholdt,0,0,0,,Lieutenant? Lieutenant?
+Dialogue: 0,0:05:05.99,0:05:07.69,Main,Shin,0,0,0,,Change before your leave your room.
+Dialogue: 0,0:05:08.41,0:05:11.63,Main,Frederica,0,0,0,,Kiri, I was combing my hair.
+Dialogue: 0,0:05:12.12,0:05:13.09,Main,Shin,0,0,0,,Frederica!
+Dialogue: 0,0:05:14.74,0:05:19.02,Main,Frederica,0,0,0,,Shinei. Sorry, I got it wrong.
+Dialogue: 0,0:05:22.83,0:05:24.96,Main Top,Theo,0,0,0,,Yesterday was rough.
+Dialogue: 0,0:05:23.50,0:05:24.96,Main,Shin,0,0,0,,Anju, sorry.
+Dialogue: 0,0:05:27.44,0:05:29.03,Main,Anju,0,0,0,,Frederica?
+Dialogue: 0,0:05:29.43,0:05:31.83,Main,Anju,0,0,0,,Theo, go get a uniform!
+Dialogue: 0,0:05:31.83,0:05:32.58,Main,Theo,0,0,0,,Huh?
+Dialogue: 0,0:05:33.48,0:05:34.75,Main,Theo,0,0,0,,Um...
+Dialogue: 0,0:05:35.18,0:05:37.28,Main,Theo,0,0,0,,I just got here!
+Dialogue: 0,0:05:37.28,0:05:41.03,Main,Bernholdt,0,0,0,,Oh, you got another present.
+Dialogue: 0,0:05:41.25,0:05:47.16,Main,Bernholdt,0,0,0,,The idea of Eighty-Six as poor, helpless children \Nis really getting out of control.
+Dialogue: 0,0:05:47.16,0:05:48.76,Main,Shin,0,0,0,,Get rid of them all.
+Dialogue: 0,0:05:48.76,0:05:50.49,Main,Shin,0,0,0,,Don't even tell me about them.
+Dialogue: 0,0:05:50.49,0:05:52.15,Main,Bernholdt,0,0,0,,I'd love to,
+Dialogue: 0,0:05:52.78,0:05:54.68,Main,Bernholdt,0,0,0,,but I need to follow the rules.
+Dialogue: 0,0:05:54.68,0:05:59.12,Main,Bernholdt,0,0,0,,Militaries are organizations \Nfilled with inefficient, illogical humans.
+Dialogue: 0,0:06:00.03,0:06:04.13,Main,Bernholdt,0,0,0,,So, this concludes your report, \Nsquadron commander.
+Dialogue: 0,0:06:04.59,0:06:08.00,Main,Bernholdt,0,0,0,,Per the rules, please sign here!
+Dialogue: 0,0:06:16.43,0:06:17.92,Main,Shin,0,0,0,,Eat, Frederica.
+Dialogue: 0,0:06:17.92,0:06:22.13,Main,Frederica,0,0,0,,No true lady should let herself \Nbe seen like that!
+Dialogue: 0,0:06:22.13,0:06:23.50,Main,Theo,0,0,0,,Who's a "lady"?
+Dialogue: 0,0:06:23.91,0:06:26.63,Main,Raiden,0,0,0,,The biggest problem was that \Nyou were half-asleep
+Dialogue: 0,0:06:26.63,0:06:28.54,Main,Raiden,0,0,0,,and half-naked, \Nwandering around the base.
+Dialogue: 0,0:06:28.54,0:06:30.79,Main,Frederica,0,0,0,,Who told you, Raiden?
+Dialogue: 0,0:06:31.82,0:06:33.53,Main,Kurena,0,0,0,,Hey, guys!
+Dialogue: 0,0:06:35.42,0:06:39.24,Main,Frederica,0,0,0,,You can be mean.
+Dialogue: 0,0:06:41.48,0:06:46.45,Main,Shin,0,0,0,,All I said was that if you can't even manage \Nto dress yourself out here,
+Dialogue: 0,0:06:46.45,0:06:48.42,Main,Shin,0,0,0,,you'd be better off at the base.
+Dialogue: 0,0:06:49.24,0:06:52.40,Main,Shin,0,0,0,,Mascots aren't asked \Nto follow military orders.
+Dialogue: 0,0:06:52.40,0:06:55.66,Main,Shin,0,0,0,,We'd feel better \Nif you were at the rear.
+Dialogue: 0,0:06:55.66,0:06:57.76,Main,Frederica,0,0,0,,I can't do that.
+Dialogue: 0,0:06:57.76,0:07:01.23,Main,Frederica,0,0,0,,I'm here to see this to the end.
+Dialogue: 0,0:07:02.20,0:07:06.81,Main,Raiden,0,0,0,,Make sure you don't wander around the base \Nhalf-asleep and half-naked anymore, then.
+Dialogue: 0,0:07:06.81,0:07:07.77,Main,Kurena,0,0,0,,Half-naked?!
+Dialogue: 0,0:07:07.77,0:07:08.90,Main,Theo,0,0,0,,Get this—
+Dialogue: 0,0:07:08.90,0:07:10.12,Main,Frederica,0,0,0,,Don't tell her!
+Dialogue: 0,0:07:10.77,0:07:11.46,Main,Kurena,0,0,0,,Half-naked?
+Dialogue: 0,0:07:11.46,0:07:14.79,Main,Frederica,0,0,0,,Stop talking about that!
+Dialogue: 0,0:07:14.79,0:07:17.99,Main,Frederica,0,0,0,,It's been a long time since\N all of you have been together, right?
+Dialogue: 0,0:07:17.99,0:07:19.17,Main,Kurena,0,0,0,,That's right!
+Dialogue: 0,0:07:19.17,0:07:21.27,Main,Anju,0,0,0,,Kurena, calm down.
+Dialogue: 0,0:07:23.06,0:07:26.42,Main,Raiden,0,0,0,,We won't be together long, though.
+Dialogue: 0,0:07:26.85,0:07:29.59,Main,Anju,0,0,0,,We'll be starting clean-up, I guess.
+Dialogue: 0,0:07:29.59,0:07:31.45,Main,Theo,0,0,0,,Repairing damaged defenses,
+Dialogue: 0,0:07:31.45,0:07:34.14,Main,Theo,0,0,0,,recovering the remains \Nof allied and enemy weapons...
+Dialogue: 0,0:07:34.14,0:07:35.30,Main,Theo,0,0,0,,Bodies, too.
+Dialogue: 0,0:07:35.77,0:07:38.32,Main,Theo,0,0,0,,The mechanized units got hit hard.
+Dialogue: 0,0:07:38.32,0:07:39.80,Main,Theo,0,0,0,,We might get sent on a patrol.
+Dialogue: 0,0:07:39.80,0:07:42.38,Main,Anju,0,0,0,,Even though we know there's no point...
+Dialogue: 0,0:07:42.38,0:07:45.42,Main,Theo,0,0,0,,We can't explain that, though.
+Dialogue: 0,0:07:45.42,0:07:47.45,Main,Anju,0,0,0,,Yeah...
+Dialogue: 0,0:07:50.90,0:07:51.90,Main,Frederica,0,0,0,,Jeez...
+Dialogue: 0,0:07:52.24,0:07:57.34,Main,Frederica,0,0,0,,You've become used to being lackeys\N for the whole army.
+Dialogue: 0,0:07:57.34,0:08:01.54,Main,Frederica,0,0,0,,Today, we're heading back to our base!
+Dialogue: 0,0:08:01.62,0:08:05.58,sign_11548_112_Giad_Federacy_17,Onscreen,0,0,0,,Giad Federacy 177th Division Command Post
+Dialogue: 0,0:08:10.76,0:08:12.15,Main,Grethe,0,0,0,,Welcome back!
+Dialogue: 0,0:08:13.95,0:08:16.88,Main,Grethe,0,0,0,,First, thank you for all the rescue \Nand support missions you've been doing.
+Dialogue: 0,0:08:17.32,0:08:22.30,Main,Grethe,0,0,0,,It looks like the Reginleifs work better \Nwith you and the Foreign units.
+Dialogue: 0,0:08:22.68,0:08:26.08,Main,Grethe,0,0,0,,What do you think, Lieutenant? \NDo you like them?
+Dialogue: 0,0:08:26.41,0:08:30.45,Main,Shin,0,0,0,,I've submitted my evaluation \Nalongside that of the Para-RAID.
+Dialogue: 0,0:08:30.45,0:08:33.61,Main,Grethe,0,0,0,,Yup. So now I want to hear \Nhow you feel about them.
+Dialogue: 0,0:08:33.61,0:08:37.82,Main,Grethe,0,0,0,,You used Feldreßes of similar types \Nback in the Republic, right?
+Dialogue: 0,0:08:39.60,0:08:42.46,Main,Shin,0,0,0,,If you're asking about the\N Juggernauts you made...
+Dialogue: 0,0:08:42.46,0:08:43.71,Main,Grethe,0,0,0,,Reginleifs.
+Dialogue: 0,0:08:43.71,0:08:44.68,Main,Shin,0,0,0,,Juggernauts.
+Dialogue: 0,0:08:44.68,0:08:46.09,Main,Grethe,0,0,0,,Reginleifs!
+Dialogue: 0,0:08:46.09,0:08:47.20,Main,Shin,0,0,0,,Juggernauts.
+Dialogue: 0,0:08:49.58,0:08:50.92,Main,Grethe,0,0,0,,Fine.
+Dialogue: 0,0:08:51.22,0:08:52.25,Main,Grethe,0,0,0,,And?
+Dialogue: 0,0:08:52.25,0:08:56.93,Main,Shin,0,0,0,,They're aluminum coffins, slightly better \Nthan the ones the Republic had.
+Dialogue: 0,0:08:58.24,0:08:59.37,Main,Grethe,0,0,0,,Really?
+Dialogue: 0,0:08:59.37,0:09:01.92,Main,Kurena,0,0,0,,Did she not know?
+Dialogue: 0,0:09:01.92,0:09:06.18,Main,Theo,0,0,0,,Those things were only designed \Nfor mobility, not safety.
+Dialogue: 0,0:09:06.18,0:09:10.37,Main,Anju,0,0,0,,They're responsible for the deaths \Nof several Processors.
+Dialogue: 0,0:09:10.37,0:09:13.35,Main,Raiden,0,0,0,,We only barely manage to use them\Nbecause we're experienced.
+Dialogue: 0,0:09:13.83,0:09:17.23,Main,Grethe,0,0,0,,They're "slightly better" \Nthan the ones that made me
+Dialogue: 0,0:09:17.23,0:09:20.34,Main,Grethe,0,0,0,,doubt the sanity \Nof the idiot who made them?
+Dialogue: 0,0:09:20.34,0:09:22.54,Main,Grethe,0,0,0,,The guys who piloted them were crazy, too!
+Dialogue: 0,0:09:22.54,0:09:24.36,Main,Shin,0,0,0,,It was all we were given.
+Dialogue: 0,0:09:24.36,0:09:26.29,Main,Grethe,0,0,0,,I see.
+Dialogue: 0,0:09:27.33,0:09:29.83,Main,Grethe,0,0,0,,They're not bad. I don't think.
+Dialogue: 0,0:09:29.83,0:09:31.85,Main,Grethe,0,0,0,,Though they do require a\N certain sort of Processor.
+Dialogue: 0,0:09:32.31,0:09:34.56,Main,Grethe,0,0,0,,I appreciate their speed,
+Dialogue: 0,0:09:34.56,0:09:38.13,Main,Grethe,0,0,0,,and they're fast, but also very precise. \NThey're highly maneuverable.
+Dialogue: 0,0:09:38.13,0:09:39.36,Main,Grethe,0,0,0,,I see.
+Dialogue: 0,0:09:39.36,0:09:42.50,Main,Grethe,0,0,0,,For some reason I don't think \NI'm being complimented.
+Dialogue: 0,0:09:42.50,0:09:45.23,Main,Anju,0,0,0,,He's not complimenting her, is he?
+Dialogue: 0,0:09:45.44,0:09:49.73,Main,Grethe,0,0,0,,So why'd you agreed to be an operator?
+Dialogue: 0,0:09:49.73,0:09:53.31,Main,Shin,0,0,0,,I'm told it was you \Nwho recommended us.
+Dialogue: 0,0:09:53.31,0:09:55.62,Main,Grethe,0,0,0,,As test pilots.
+Dialogue: 0,0:09:55.62,0:10:00.90,Main,Grethe,0,0,0,,I'm actually opposed to child soldiers\N like you being sent to the front lines.
+Dialogue: 0,0:10:00.90,0:10:05.15,Main,Grethe,0,0,0,,Especially Eighty-Six like you.
+Dialogue: 0,0:10:05.49,0:10:08.51,Main,Grethe,0,0,0,,I was a Vánagandr pilot.
+Dialogue: 0,0:10:08.96,0:10:12.46,Main,Grethe,0,0,0,,When the war with the Legion \Nstarted ten years ago,
+Dialogue: 0,0:10:13.00,0:10:15.43,Main,Grethe,0,0,0,,I was your age.
+Dialogue: 0,0:10:17.85,0:10:22.42,Main,Grethe,0,0,0,,A lot of my friends died \Nbecause of those slow-ass Vánagandr.
+Dialogue: 0,0:10:22.75,0:10:27.05,Main,Grethe,0,0,0,,I told myself so many times \Nthat a faster Feldreß could've saved their lives.
+Dialogue: 0,0:10:27.05,0:10:29.78,Main,Grethe,0,0,0,,That's why I made the Reginleifs.
+Dialogue: 0,0:10:33.25,0:10:36.35,Main,Grethe,0,0,0,,Thank you for your honest opinion, Lieutenant.
+Dialogue: 0,0:10:36.35,0:10:42.19,Main,Grethe,0,0,0,,I'll make you give me a better one \Nwith the next round of upgrades.
+Dialogue: 0,0:10:42.19,0:10:43.23,Main,Grethe,0,0,0,,Look forward to it.
+Dialogue: 0,0:10:45.24,0:10:49.29,Main,Grethe,0,0,0,,Now, I've got good news \Nbefore I give you the message.
+Dialogue: 0,0:10:49.82,0:10:52.02,Main,Grethe,0,0,0,,The other day we were finally able \Nto confirm the survival
+Dialogue: 0,0:10:52.02,0:10:55.99,Main,Grethe,0,0,0,,of the United Kingdom of Roa Gracia \Nand the Alliance of Wald.
+Dialogue: 0,0:10:56.51,0:10:58.54,Main Top,Grethe,0,0,0,,According to the wireless transmissions \Nwe received,
+Dialogue: 0,0:10:58.00,0:10:59.68,Main,Kurena,0,0,0,,What countries are those?
+Dialogue: 0,0:10:58.54,0:11:03.40,Main Top,Grethe,0,0,0,,they've managed to build defensive lines\N and maintain an area they could survive in.
+Dialogue: 0,0:10:59.68,0:11:01.35,Main,Theo,0,0,0,,They're to the north and south.
+Dialogue: 0,0:11:01.35,0:11:03.48,Main,Anju,0,0,0,,We learned that in officer's school!
+Dialogue: 0,0:11:03.48,0:11:04.52,Main,Kurena,0,0,0,,Did we?
+Dialogue: 0,0:11:03.96,0:11:06.84,Main Top,Grethe,0,0,0,,However, the other surrounding nations,
+Dialogue: 0,0:11:06.84,0:11:09.50,Main Top,Grethe,0,0,0,,as well as the\N Republic of San Magnolia to the west,
+Dialogue: 0,0:11:09.50,0:11:12.01,Main Top,Grethe,0,0,0,,are still not answering our radio messages.
+Dialogue: 0,0:11:16.68,0:11:20.19,Main,Mechanic,0,0,0,,So is the message a bad one, ma'am?
+Dialogue: 0,0:11:20.19,0:11:21.92,Main,Grethe,0,0,0,,It is, unfortunately.
+Dialogue: 0,0:11:21.92,0:11:25.95,Main,Grethe,0,0,0,,We're predicting a\N large-scale Legion attack soon.
+Dialogue: 0,0:11:27.40,0:11:32.26,Main,Grethe,0,0,0,,The Western Theater Army \Nwill be strengthening its forces
+Dialogue: 0,0:11:32.26,0:11:33.90,Main,Grethe,0,0,0,,and reorganizing its chain of command.
+Dialogue: 0,0:11:33.90,0:11:40.73,Main,Grethe,0,0,0,,The 1028th Test Unit will be placed \Nunder the 177th Mechanized,
+Dialogue: 0,0:11:40.73,0:11:42.60,Main,Grethe,0,0,0,,and I will be taking command.
+Dialogue: 0,0:11:42.60,0:11:47.50,Main,Grethe,0,0,0,,It's time for the Nordlicht squadron, \Nand my Reginleifs, to shine!
+Dialogue: 0,0:11:48.02,0:11:49.35,Main,Grethe,0,0,0,,Any questions?
+Dialogue: 0,0:11:49.35,0:11:50.84,Main,Shin,0,0,0,,What is the size of the offensive?
+Dialogue: 0,0:11:50.84,0:11:55.34,Main,Grethe,0,0,0,,We expect to be able to beat it back \Neasily with our current forces.
+Dialogue: 0,0:11:55.70,0:12:00.37,Main,Grethe,0,0,0,,You'd sent me a message \Nabout something similar, right?
+Dialogue: 0,0:12:01.37,0:12:04.02,Main,Grethe,0,0,0,,I read it with great interest,
+Dialogue: 0,0:12:04.02,0:12:07.90,Main,Grethe,0,0,0,,but the number of enemies \Nyou said were coming is just impossible.
+Dialogue: 0,0:12:07.90,0:12:11.36,Main,Grethe,0,0,0,,It goes far beyond \Nwhat our analysts are saying.
+Dialogue: 0,0:12:12.43,0:12:14.90,Main,Grethe,0,0,0,,You don't need to be that worried.
+Dialogue: 0,0:12:15.19,0:12:17.39,Main,Grethe,0,0,0,,The Federacy isn't like the Republic.
+Dialogue: 0,0:12:17.58,0:12:20.64,Main,Grethe,0,0,0,,We take recon and analysis seriously.
+Dialogue: 0,0:12:20.64,0:12:23.24,Main,Grethe,0,0,0,,And we prepare properly.
+Dialogue: 0,0:12:23.24,0:12:29.57,Main,Grethe,0,0,0,,And more than anything, the Federacy will never \Nabandon those who fight alongside it.
+Dialogue: 0,0:12:55.21,0:12:56.13,Main,Shin,0,0,0,,What is it?
+Dialogue: 0,0:12:56.65,0:13:00.87,Main,Frederica,0,0,0,,Would you quit your hobby \Nof walking in complete silence?
+Dialogue: 0,0:13:03.57,0:13:05.38,Main,Frederica,0,0,0,,It's so dreary in here.
+Dialogue: 0,0:13:05.60,0:13:08.77,Main,Frederica,0,0,0,,You should put up a painting \Nor a photo or something.
+Dialogue: 0,0:13:08.77,0:13:09.88,Main,Frederica,0,0,0,,It's so desolate.
+Dialogue: 0,0:13:09.88,0:13:11.62,Main,Shin,0,0,0,,All I do here is sleep.
+Dialogue: 0,0:13:11.62,0:13:14.14,Main,Shin,0,0,0,,If I have more things, \Nit makes it harder to clean.
+Dialogue: 0,0:13:14.14,0:13:16.59,Main,Frederica,0,0,0,,It's not just a place to sleep.
+Dialogue: 0,0:13:16.59,0:13:19.47,Main,Frederica,0,0,0,,It's a place to live. \NA place to call home.
+Dialogue: 0,0:13:19.83,0:13:23.50,Main,Frederica,0,0,0,,It's not good to leave it empty.
+Dialogue: 0,0:13:23.90,0:13:27.34,Main,Frederica,0,0,0,,Maybe that was okay \Nin the Republic, but...
+Dialogue: 0,0:13:27.89,0:13:30.95,Main,Frederica,0,0,0,,Eugene's room was filled with photos.
+Dialogue: 0,0:13:31.46,0:13:32.74,Main,Shin,0,0,0,,You were the one who cleaned it?
+Dialogue: 0,0:13:32.74,0:13:35.06,Main,Frederica,0,0,0,,There aren't enough hands \Nto do all the work that needs doing.
+Dialogue: 0,0:13:35.06,0:13:37.58,Main,Frederica,0,0,0,,I helped go through his things.
+Dialogue: 0,0:13:38.19,0:13:40.96,Main,Frederica,0,0,0,,It was all photos of his sister.
+Dialogue: 0,0:13:42.41,0:13:44.92,Main,Shin,0,0,0,,You shouldn't have talked to him.
+Dialogue: 0,0:13:44.92,0:13:47.75,Main,Shin,0,0,0,,Then you wouldn't have had \Nto see him die.
+Dialogue: 0,0:13:47.75,0:13:49.75,Main,Frederica,0,0,0,,I don't think so.
+Dialogue: 0,0:13:49.75,0:13:52.01,Main,Frederica,0,0,0,,Even if death \Nwill eventually tear you apart,
+Dialogue: 0,0:13:52.01,0:13:54.09,Main,Frederica,0,0,0,,it's better to meet someone \Nthan not meet them.
+Dialogue: 0,0:13:54.09,0:13:55.97,Main,Frederica,0,0,0,,You can remember that.
+Dialogue: 0,0:13:57.11,0:14:00.97,Main,Shin,0,0,0,,If there's no need, you shouldn't get involved \Nin someone else's death.
+Dialogue: 0,0:14:01.95,0:14:04.22,Main,Frederica,0,0,0,,You're one to talk.
+Dialogue: 0,0:14:04.22,0:14:06.24,Main,Frederica,0,0,0,,Mr. Kind and Gentle Reaper.
+Dialogue: 0,0:14:08.92,0:14:10.26,Main,Shin,0,0,0,,Why did you come here?
+Dialogue: 0,0:14:10.99,0:14:13.49,Main,Frederica,0,0,0,,Um, well...
+Dialogue: 0,0:14:13.49,0:14:17.38,Main,Frederica,0,0,0,,I'm sorry about this morning,
+Dialogue: 0,0:14:17.38,0:14:20.30,Main,Frederica,0,0,0,,when I said "Kiri"...
+Dialogue: 0,0:14:20.30,0:14:22.69,Main,Shin,0,0,0,,Are we that similar?
+Dialogue: 0,0:14:22.69,0:14:23.44,Main,Frederica,0,0,0,,Yeah.
+Dialogue: 0,0:14:23.44,0:14:28.30,Main,Frederica,0,0,0,,Not like twins, but very similar!
+Dialogue: 0,0:14:28.65,0:14:33.55,Main,Frederica,0,0,0,,My knight, Kiriya Nouzen, was a member \Nof the Nouzen clan like you.
+Dialogue: 0,0:14:34.30,0:14:39.79,Main,Frederica,0,0,0,,He wasn't a direct descendant of the clan, \Nso he wasn't really related to you.
+Dialogue: 0,0:14:39.79,0:14:42.17,Main,Frederica,0,0,0,,But he was four years \Nolder than you...
+Dialogue: 0,0:14:42.17,0:14:45.79,Main,Frederica,0,0,0,,So when I saw him last, \Nhe looked how you do now.
+Dialogue: 0,0:14:46.44,0:14:51.28,Main,Frederica,0,0,0,,In a fortress filled with adults, \Nhe was the only one I could play with.
+Dialogue: 0,0:14:51.65,0:14:55.18,Main,Frederica,0,0,0,,He would comb my hair, \Nget me flowers from the garden...
+Dialogue: 0,0:14:55.18,0:14:59.30,Main,Frederica,0,0,0,,No matter what selfish things I asked for, \Nhe would never get upset.
+Dialogue: 0,0:15:00.55,0:15:05.29,Main,Frederica,0,0,0,,He was really serious about everything. \NAnd stubborn, too.
+Dialogue: 0,0:15:05.67,0:15:09.33,Main,Frederica,0,0,0,,I'm sure if he met you, \Nyou wouldn't get along at all.
+Dialogue: 0,0:15:10.58,0:15:11.30,Main,Frederica,0,0,0,,Here.
+Dialogue: 0,0:15:13.43,0:15:14.30,Main,Shin,0,0,0,,Which?
+Dialogue: 0,0:15:14.69,0:15:15.68,Main,Frederica,0,0,0,,This one!
+Dialogue: 0,0:15:15.92,0:15:19.18,Main,Frederica,0,0,0,,"When you talk to someone, close your book!"
+Dialogue: 0,0:15:19.18,0:15:21.63,Main,Frederica,0,0,0,,"Follow the rules and regulations!"
+Dialogue: 0,0:15:21.63,0:15:23.20,Main,Frederica,0,0,0,,He was all about that stuff.
+Dialogue: 0,0:15:23.20,0:15:27.56,Main,Frederica,0,0,0,,I'm sure you'd ignore all that, \Nwhich would just make him madder.
+Dialogue: 0,0:15:28.04,0:15:29.95,Main,Frederica,0,0,0,,I can almost see it.
+Dialogue: 0,0:15:32.41,0:15:33.79,Main,Shin,0,0,0,,Why did he become a Legion?
+Dialogue: 0,0:15:36.57,0:15:38.10,Main,Frederica,0,0,0,,It's my fault.
+Dialogue: 0,0:15:41.63,0:15:47.03,Main,Frederica,0,0,0,,The Giad Empire used the Legion \Nto attack our neighbors.
+Dialogue: 0,0:15:47.37,0:15:50.72,Main,Frederica,0,0,0,,But after that, the people rebelled,
+Dialogue: 0,0:15:50.72,0:15:54.20,Main,Frederica,0,0,0,,and the Imperial family was chased \Nto a border fortress.
+Dialogue: 0,0:15:54.20,0:15:58.90,Main,Frederica,0,0,0,,The Legion were supposed to protect us \Nin our soldiers' stead,
+Dialogue: 0,0:15:59.52,0:16:05.12,Main,Frederica,0,0,0,,but ironically... \NWell, I don't know what happened exactly.
+Dialogue: 0,0:16:05.12,0:16:08.94,Main,Frederica,0,0,0,,But the Legion weren't built \Nto fight alongside humans.
+Dialogue: 0,0:16:09.33,0:16:14.17,Main,Frederica,0,0,0,,So we had to use human defenders \Nat the fortress.
+Dialogue: 0,0:16:15.73,0:16:20.39,Main,Frederica,0,0,0,,And Kiriya had to fight to protect me
+Dialogue: 0,0:16:20.89,0:16:23.09,Main,Frederica,0,0,0,,against the rebelling people.
+Dialogue: 0,0:16:23.09,0:16:24.58,Main,Shin,0,0,0,,You mean the current Federacy Army.
+Dialogue: 0,0:16:24.93,0:16:25.70,Main,Frederica,0,0,0,,Yes.
+Dialogue: 0,0:16:26.12,0:16:29.61,Main,Frederica,0,0,0,,He killed many of them.
+Dialogue: 0,0:16:29.61,0:16:32.85,Main,Frederica,0,0,0,,And eventually, he went insane.
+Dialogue: 0,0:16:33.68,0:16:36.51,Main,Frederica,0,0,0,,He lost his family, everyone he knew...
+Dialogue: 0,0:16:36.51,0:16:39.68,Main,Frederica,0,0,0,,The home he grew up in \Nwas enemy territory.
+Dialogue: 0,0:16:39.68,0:16:42.06,Main,Frederica,0,0,0,,And the other members \Nof the royal guard alongside him
+Dialogue: 0,0:16:42.06,0:16:44.71,Main,Frederica,0,0,0,,fell one after another, \Nlike tines falling from a comb.
+Dialogue: 0,0:16:45.58,0:16:49.88,Main,Frederica,0,0,0,,I think he lost too much.
+Dialogue: 0,0:16:50.98,0:16:53.95,Main,Frederica,0,0,0,,Eventually fighting for my sake \Nbecame all he had.
+Dialogue: 0,0:16:53.95,0:16:56.30,Main,Frederica,0,0,0,,I would often see him smiling at me,
+Dialogue: 0,0:16:56.30,0:16:58.65,Main,Frederica,0,0,0,,crushing a Federacy soldier \Nbeneath his boot,
+Dialogue: 0,0:16:58.65,0:17:02.00,Main,Frederica,0,0,0,,a bloodstained Feldreß at his side...
+Dialogue: 0,0:17:02.48,0:17:04.96,Main,Frederica,0,0,0,,With a calm, bright look on his face...
+Dialogue: 0,0:17:05.59,0:17:09.01,Main,Frederica,0,0,0,,And I was so scared.
+Dialogue: 0,0:17:17.61,0:17:22.64,Main,Frederica,0,0,0,,Eventually, the fortress fell, \Nand the Federacy caught us.
+Dialogue: 0,0:17:22.64,0:17:27.54,Main,Frederica,0,0,0,,I was lucky that Ernst was there \Nto inspire his men.
+Dialogue: 0,0:17:27.81,0:17:31.64,Main,Frederica,0,0,0,,Thanks to him, the only thing \Nthat was shown to the crowd
+Dialogue: 0,0:17:31.64,0:17:35.14,Main,Frederica,0,0,0,,as proof of my death \Nwas the Imperial mantle I wore.
+Dialogue: 0,0:17:36.37,0:17:40.03,Main,Frederica,0,0,0,,But Kiriya saw it...
+Dialogue: 0,0:17:43.58,0:17:47.79,Main,Frederica,0,0,0,,And at that moment, \Nthe Legion were wandering the battlefield
+Dialogue: 0,0:17:47.79,0:17:50.94,Main,Frederica,0,0,0,,and looking for things they could recycle.
+Dialogue: 0,0:17:51.66,0:17:54.53,Main,Frederica,0,0,0,,Kiriya stood there, not moving, \Nand he did not run.
+Dialogue: 0,0:17:55.62,0:18:00.13,Main,Frederica,0,0,0,,I turned him into that monster.
+Dialogue: 0,0:18:01.31,0:18:06.78,Main,Frederica,0,0,0,,And in the end... \Nthe Empire fell, and many died.
+Dialogue: 0,0:18:06.78,0:18:08.73,Main,Frederica,0,0,0,,And only the Legion were left.
+Dialogue: 0,0:18:09.48,0:18:13.04,Main,Frederica,0,0,0,,You said they're coming, right?
+Dialogue: 0,0:18:13.47,0:18:16.03,Main,Frederica,0,0,0,,Kiri will be there, too.
+Dialogue: 0,0:18:16.69,0:18:17.81,Main,Frederica,0,0,0,,When that happens...
+Dialogue: 0,0:18:17.81,0:18:18.94,Main,Shin,0,0,0,,I understand.
+Dialogue: 0,0:18:19.34,0:18:20.90,Main,Frederica,0,0,0,,You don't.
+Dialogue: 0,0:18:21.53,0:18:24.46,Main,Frederica,0,0,0,,If it gets dangerous, run. \NDon't fight.
+Dialogue: 0,0:18:28.71,0:18:32.88,Main,Frederica,0,0,0,,I'd forgotten how easily people die.
+Dialogue: 0,0:18:33.27,0:18:35.45,Main,Frederica,0,0,0,,No matter how you want them \Nto have a future...
+Dialogue: 0,0:18:37.14,0:18:39.88,Main,Frederica,0,0,0,,You were right a moment ago.
+Dialogue: 0,0:18:40.23,0:18:43.29,Main,Frederica,0,0,0,,I don't want the people I've met to die.
+Dialogue: 0,0:18:43.74,0:18:48.99,Main,Frederica,0,0,0,,Saving Kiriya isn't worth \Nyour or the others' deaths.
+Dialogue: 0,0:18:49.52,0:18:53.90,Main,Frederica,0,0,0,,You all have a future, \Nand that cannot be taken from you.
+Dialogue: 0,0:18:54.52,0:18:56.55,Main,Shin,0,0,0,,A future?
+Dialogue: 0,0:18:56.55,0:18:58.93,Main,Frederica,0,0,0,,I knew it. \NYou've never even thought about it.
+Dialogue: 0,0:18:58.93,0:19:00.12,Main,Frederica,0,0,0,,Jeez...
+Dialogue: 0,0:19:00.80,0:19:05.11,Main,Frederica,0,0,0,,It's not a good example, \Nbut you should take a lesson from Eugene.
+Dialogue: 0,0:19:05.11,0:19:06.52,Main,Frederica,0,0,0,,Your next leave.
+Dialogue: 0,0:19:06.52,0:19:07.71,Main,Frederica,0,0,0,,Where you want to go.
+Dialogue: 0,0:19:07.71,0:19:09.39,Main,Frederica,0,0,0,,What you want to do someday.
+Dialogue: 0,0:19:09.39,0:19:11.14,Main,Frederica,0,0,0,,Anything like that will do.
+Dialogue: 0,0:19:12.50,0:19:13.87,Main,Frederica,0,0,0,,What's so funny?
+Dialogue: 0,0:19:14.09,0:19:18.00,Main,Shin,0,0,0,,No, someone once said \Nthe same thing to me.
+Dialogue: 0,0:19:18.00,0:19:20.42,Main,Frederica,0,0,0,,And what did you say?
+Dialogue: 0,0:19:20.42,0:19:22.65,Main,Shin,0,0,0,,That I'd never thought about it.
+Dialogue: 0,0:19:22.95,0:19:24.65,Main,Frederica,0,0,0,,How boring.
+Dialogue: 0,0:19:24.65,0:19:27.61,Main,Frederica,0,0,0,,Even your heart is dreary.
+Dialogue: 0,0:19:27.61,0:19:30.51,Main,Frederica,0,0,0,,That person must've been disappointed.
+Dialogue: 0,0:19:34.85,0:19:35.93,Main,Shin,0,0,0,,Maybe so.
+Dialogue: 0,0:19:41.08,0:19:42.40,Main,Raiden,0,0,0,,What are you doing?
+Dialogue: 0,0:19:45.30,0:19:47.70,Main,Raiden,0,0,0,,She likes you, big brother.
+Dialogue: 0,0:19:48.12,0:19:49.78,Main,Shin,0,0,0,,I just remind her of someone.
+Dialogue: 0,0:19:49.78,0:19:51.87,Main,Raiden,0,0,0,,That knight?
+Dialogue: 0,0:19:52.24,0:19:55.38,Main,Raiden,0,0,0,,But isn't it the same for you?
+Dialogue: 0,0:19:55.38,0:19:57.26,Main,Raiden,0,0,0,,You seem to have taken \Na real liking to her.
+Dialogue: 0,0:19:57.95,0:19:59.79,Main,Shin,0,0,0,,Maybe.
+Dialogue: 0,0:20:00.64,0:20:03.08,Main,Shin,0,0,0,,She's the same as the old me.
+Dialogue: 0,0:20:04.42,0:20:05.69,Main,Raiden,0,0,0,,I don't know about that.
+Dialogue: 0,0:20:09.57,0:20:12.48,Main,Raiden,0,0,0,,Kurena, come pick up the princess.
+Dialogue: 0,0:20:13.24,0:20:14.94,Main,Raiden,0,0,0,,Hey, wait.
+Dialogue: 0,0:20:19.73,0:20:21.90,Main,Raiden,0,0,0,,You gave them a warning, huh?
+Dialogue: 0,0:20:22.39,0:20:26.15,Main,Shin,0,0,0,,I figured I may as well try.
+Dialogue: 0,0:20:26.42,0:20:32.32,Main,Raiden,0,0,0,,I told you when we came here \Nto keep that power of yours a secret.
+Dialogue: 0,0:20:33.46,0:20:35.85,Main,Raiden,0,0,0,,You haven't forgotten \Nwhat they called you
+Dialogue: 0,0:20:35.85,0:20:40.41,Main,Raiden,0,0,0,,when they found out \Nyou could hear those voices, Reaper.
+Dialogue: 0,0:20:41.45,0:20:46.43,Main,Raiden,0,0,0,,The Federacy aren't the saints \Nthey think they are.
+Dialogue: 0,0:20:46.74,0:20:51.15,Main,Raiden,0,0,0,,And even here, \Nwe're not treated as their equals.
+Dialogue: 0,0:20:51.48,0:20:55.46,Main,Raiden,0,0,0,,It isn't just the Legion that likes \Nto take out people's brains.
+Dialogue: 0,0:20:55.46,0:20:57.98,Main,Raiden,0,0,0,,If you want to be a guinea pig, \Nthat's up to you,
+Dialogue: 0,0:20:57.98,0:21:01.15,Main,Raiden,0,0,0,,but I don't want to end up \Na hostage to encourage you.
+Dialogue: 0,0:21:01.15,0:21:02.32,Main,Raiden,0,0,0,,Don't do anything stupid.
+Dialogue: 0,0:21:03.62,0:21:04.82,Main,Shin,0,0,0,,Sorry.
+Dialogue: 0,0:21:04.82,0:21:07.74,Main,Raiden,0,0,0,,The warning you gave them\N is enough on its own.
+Dialogue: 0,0:21:08.19,0:21:10.81,Main,Raiden,0,0,0,,It's up to them if they want to believe.
+Dialogue: 0,0:21:11.46,0:21:14.28,Main,Raiden,0,0,0,,But... are you okay?
+Dialogue: 0,0:21:15.00,0:21:16.10,Main,Shin,0,0,0,,What do you mean?
+Dialogue: 0,0:21:16.10,0:21:19.15,Main,Raiden,0,0,0,,You're not thinking of anything \Nyou don't need to be, are you?
+Dialogue: 0,0:21:19.57,0:21:22.59,Main,Raiden,0,0,0,,Is what Ernst said bothering you?
+Dialogue: 0,0:21:23.37,0:21:25.33,Main,Shin,0,0,0,,The future?
+Dialogue: 0,0:21:25.33,0:21:26.32,Main,Raiden,0,0,0,,Yeah.
+Dialogue: 0,0:21:26.32,0:21:29.54,Main,Shin,0,0,0,,Frederica told me to think about it.
+Dialogue: 0,0:21:29.98,0:21:32.10,Main,Shin,0,0,0,,But I never have.
+Dialogue: 0,0:21:32.46,0:21:34.27,Main,Shin,0,0,0,,I've never needed to.
+Dialogue: 0,0:21:34.88,0:21:35.79,Main,Shin,0,0,0,,You?
+Dialogue: 0,0:21:36.46,0:21:39.74,Main,Raiden,0,0,0,,I think it'll all work out.
+Dialogue: 0,0:21:39.74,0:21:43.41,Main,Raiden,0,0,0,,It can't be harder \Nthan fighting the Legion.
+Dialogue: 0,0:21:46.84,0:21:49.63,Main,Raiden,0,0,0,,It was always about this time of day, \Nwasn't it?
+Dialogue: 0,0:21:50.53,0:21:52.96,Main,Raiden,0,0,0,,You think the Major's doing okay?
+Dialogue: 0,0:23:36.74,0:23:37.85,Main,Shin,0,0,0,,"Even so."
