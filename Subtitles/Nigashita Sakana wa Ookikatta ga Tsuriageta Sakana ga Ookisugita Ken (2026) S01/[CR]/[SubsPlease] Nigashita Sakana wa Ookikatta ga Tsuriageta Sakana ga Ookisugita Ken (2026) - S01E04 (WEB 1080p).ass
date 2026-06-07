@@ -1,0 +1,435 @@
+[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: sign_Arial,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ArialBlack,Arial Black,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_CourierNew,Courier New,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ComicSansMS,Comic Sans MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Georgia,Georgia,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Impact,Impact,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TimesNewRoman,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TrebuchetMS,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Verdana,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.90,0:00:05.17,top,MIMI,0,0,0,,Your Majesty, watch out!
+Dialogue: 0,0:00:03.62,0:00:08.86,italics,MIMI/NA,0,0,0,,I was invited to have tea with the queen, \Nwhere we were shot at with arrows.
+Dialogue: 0,0:00:08.86,0:00:13.20,main,QUEEN,0,0,0,,You are so super cool, Mimi! I adore you!
+Dialogue: 0,0:00:13.20,0:00:17.12,italics,MIMI/NA,0,0,0,,It would seem that the queen \Ndidn't hate me after all.
+Dialogue: 0,0:00:15.24,0:00:15.45,sign_Verdana,SIGN FX,0,0,0,,{\c&H404DEE&\3c&HFFFFFF&\shad0\bord3\an8\move(315,160,315,160)\fad(1,146)}SLAP
+Dialogue: 0,0:00:15.49,0:00:15.70,sign_Verdana,SIGN FX,0,0,0,,{\an7\c&H404DEE&\3c&HFFFFFF&\shad0\bord3\fad(1,146)}SLAP
+Dialogue: 0,0:00:15.74,0:00:15.95,sign_Verdana,SIGN FX,0,0,0,,{\an7\c&H404DEE&\3c&HFFFFFF&\shad0\bord3\fad(1,146)\pos(24,193)}SLAP
+Dialogue: 0,0:00:15.99,0:00:16.20,sign_Verdana,SIGN FX,0,0,0,,{\an7\c&H404DEE&\3c&HFFFFFF&\shad0\bord3\fad(1,146)}SLAP
+Dialogue: 0,0:00:16.24,0:00:16.45,sign_Verdana,SIGN FX,0,0,0,,{\pos(24,193)\an7\c&H404DEE&\3c&HFFFFFF&\shad0\bord3\fad(1,146)}SLAP
+Dialogue: 0,0:00:16.49,0:00:16.70,sign_Verdana,SIGN FX,0,0,0,,{\c&H404DEE&\3c&HFFFFFF&\shad0\bord3\an8\move(315,160,315,160)\fad(1,146)}SLAP
+Dialogue: 0,0:00:16.74,0:00:16.95,sign_Verdana,SIGN FX,0,0,0,,{\an7\c&H404DEE&\3c&HFFFFFF&\shad0\bord3\fad(1,146)}SLAP
+Dialogue: 0,0:00:18.53,0:00:20.00,main,IRENEO,0,0,0,,Well, well.
+Dialogue: 0,0:00:20.00,0:00:25.00,main,IRENEO,0,0,0,,You're even more interesting \Nthan expected, Mimi.
+Dialogue: 0,0:00:37.26,0:00:45.52,sign_Georgia,,0,0,0,,{\3c&HFEFEFD&\an8\fs40\c&H1B1A20&\shad0\bord4\fad(1782,1)}Always a {\c&H8971F4&}Catch!
+Dialogue: 0,0:01:41.53,0:01:44.37,sign_Arial,,0,0,0,,{\an8\move(20,320,330,320)\c&H303637&\3c&HECF6F5&\fs8\frz-4.09\shad0}Knight Captain
+Dialogue: 0,0:01:55.01,0:02:00.02,sign_Georgia,EPTITLE,0,0,0,,{\pos(320,65)\c&H141722&\bord4\shad0\fs27\3c&HF4F3FC&}Episode 4
+Dialogue: 0,0:01:55.01,0:02:00.02,sign_Georgia,EPTITLE,0,0,0,,{\an8\pos(319,260)\fs22\c&H080600&\bord0\shad0}How the {\c&H8A74F6&}One {\c&H080600&}That Got Away {\c&HD29E5C&}Was {\c&H080600&}Troubled
+Dialogue: 0,0:02:00.49,0:02:01.49,main,KNIGHTS,0,0,0,,They're not getting away!
+Dialogue: 0,0:02:01.49,0:02:03.01,main,KNIGHTS,0,0,0,,Secure the area!
+Dialogue: 0,0:02:03.01,0:02:03.73,main,KNIGHTS,0,0,0,,Hurry!
+Dialogue: 0,0:02:04.05,0:02:05.69,main,KNIGHT,0,0,0,,The culprit fled outside the castle!
+Dialogue: 0,0:02:05.69,0:02:07.52,main,CAPTAIN,0,0,0,,Don't let them escape!
+Dialogue: 0,0:02:09.02,0:02:10.99,main,QUEEN,0,0,0,,My dearest Mimi!
+Dialogue: 0,0:02:10.99,0:02:13.17,main,MIMI,0,0,0,,Look after Her Majesty!
+Dialogue: 0,0:02:14.14,0:02:16.87,italics,MIMI/ID,0,0,0,,I'm glad, but...
+Dialogue: 0,0:02:22.34,0:02:26.31,italics,MIMI/ID,0,0,0,,The macarons the queen \Nrecommended are ruined.
+Dialogue: 0,0:02:26.31,0:02:30.66,italics,MIMI/ID,0,0,0,,I wish I could punch the culprit \Nonce for every treat they ruined.
+Dialogue: 0,0:02:30.66,0:02:32.38,main,HEAD MAID,0,0,0,,Lady Maria!
+Dialogue: 0,0:02:32.38,0:02:35.09,main,HEAD MAID,0,0,0,,We'll tidy up here.
+Dialogue: 0,0:02:35.09,0:02:36.71,main,MAID D,0,0,0,,Please head inside the castle.
+Dialogue: 0,0:02:36.71,0:02:38.91,main,MAID D,0,0,0,,His Highness must be worried about you.
+Dialogue: 0,0:02:38.91,0:02:40.39,main,MIMI,0,0,0,,Oh, really?
+Dialogue: 0,0:02:40.90,0:02:43.14,main,HEAD MAID,0,0,0,,We'll call some knights.
+Dialogue: 0,0:02:43.98,0:02:44.89,main,MIMI,0,0,0,,But...
+Dialogue: 0,0:02:48.79,0:02:50.19,main,MIMI,0,0,0,,It's all right.
+Dialogue: 0,0:02:50.19,0:02:53.28,main,MIMI,0,0,0,,I can get there by myself!
+Dialogue: 0,0:02:53.28,0:02:55.53,main,MAID D,0,0,0,,Lady Maria!
+Dialogue: 0,0:02:55.53,0:02:57.65,main,MAID C,0,0,0,,She really is fast.
+Dialogue: 0,0:02:57.65,0:02:59.28,main,RAIMONDO,0,0,0,,Is everyone all right?
+Dialogue: 0,0:02:59.28,0:03:01.54,main,HEAD MAID,0,0,0,,Lord Raimondo!
+Dialogue: 0,0:03:01.54,0:03:02.98,main,MAID D,0,0,0,,We're terribly sorry.
+Dialogue: 0,0:03:02.98,0:03:06.42,main,MAID D,0,0,0,,Lady Maria left to see \NHis Highness by herself.
+Dialogue: 0,0:03:06.42,0:03:08.23,main,RAIMONDO,0,0,0,,Even though she was just attacked?!
+Dialogue: 0,0:03:06.42,0:03:10.42,sign_Verdana,SIGN FX,0,0,0,,{\c&H3D4EF1&\3c&H151AB6&\shad0\move(70,160,65,160)\frz29.93}SHOCK
+Dialogue: 0,0:03:08.23,0:03:10.42,main,MAIDS,0,0,0,,We're truly sorry!
+Dialogue: 0,0:03:10.42,0:03:13.59,main,RAIMONDO,0,0,0,,I'll go find her. You handle things here.
+Dialogue: 0,0:03:18.55,0:03:20.71,main,MIMI,0,0,0,,Is this the right way?
+Dialogue: 0,0:03:20.71,0:03:22.97,main,MIMI,0,0,0,,Let's see... Huh?
+Dialogue: 0,0:03:23.34,0:03:25.25,main,MIMI,0,0,0,,I've never been here before.
+Dialogue: 0,0:03:25.72,0:03:28.09,main,MIMI,0,0,0,,Should I have turned right back there?
+Dialogue: 0,0:03:28.09,0:03:29.23,main,IRENEO,0,0,0,,Mimi!
+Dialogue: 0,0:03:29.57,0:03:31.32,main,IRENEO,0,0,0,,How do you do?
+Dialogue: 1,0:03:30.90,0:03:31.32,sign_Verdana,SIGN FX,0,0,0,,{\fad(60,1)\move(205,60,190,50)\c&HFCD087&\3c&HFFFFFF&\shad0\bord2\fs13}WHIFF
+Dialogue: 0,0:03:30.90,0:03:31.32,sign_Verdana,SIGN FX,0,0,0,,{\fad(60,1)\move(205,60,190,50)\c&HFCD087&\3c&H919076&\shad0\bord4\fs13}WHIFF
+Dialogue: 0,0:03:31.65,0:03:33.73,main,IRENEO,0,0,0,,Huh? You evaded me.
+Dialogue: 0,0:03:33.73,0:03:36.16,main,MIMI,0,0,0,,How do you do, Lord Ireneo?
+Dialogue: 0,0:03:36.16,0:03:38.30,main,MIMI,0,0,0,,Goodbye, Lord Ireneo.
+Dialogue: 0,0:03:38.30,0:03:40.62,main,IRENEO,0,0,0,,And then hello again.
+Dialogue: 0,0:03:41.91,0:03:44.85,main,IRENEO,0,0,0,,You're no fun. We haven't \Nseen each other in ages.
+Dialogue: 0,0:03:44.85,0:03:46.08,italics,MIMI/ID,0,0,0,,This man...
+Dialogue: 0,0:03:46.94,0:03:51.79,flashback italics,AIDA/ID,0,0,0,,Lord Ireneo of the Marchei family \Nis Prince Renato's cousin.
+Dialogue: 0,0:03:51.79,0:03:54.46,flashback italics,AIDA/ID,0,0,0,,He's not His Highness's enemy,
+Dialogue: 0,0:03:55.15,0:03:57.97,flashback italics,AIDA/ID,0,0,0,,but he is one to women.
+Dialogue: 0,0:03:58.36,0:04:03.09,italics,MIMI/ID,0,0,0,,He looks young, but \Nhe's actually in his early 30s.
+Dialogue: 0,0:04:03.09,0:04:06.85,italics,MIMI/ID,0,0,0,,He must be quite the lady-killer \Nfor Aida to say that.
+Dialogue: 0,0:04:06.85,0:04:08.27,italics,MIMI/ID,0,0,0,,I should be careful.
+Dialogue: 0,0:04:08.27,0:04:09.35,main,IRENEO,0,0,0,,By the way,
+Dialogue: 0,0:04:09.35,0:04:11.94,main,IRENEO,0,0,0,,I saw your feat of agility.
+Dialogue: 0,0:04:14.82,0:04:17.02,main,MIMI,0,0,0,,Thank you very much.
+Dialogue: 0,0:04:17.02,0:04:18.40,main,IRENEO,0,0,0,,That was a compliment.
+Dialogue: 0,0:04:18.73,0:04:22.45,main,IRENEO,0,0,0,,You really are interesting. \NI've fallen for you all over again.
+Dialogue: 0,0:04:22.45,0:04:25.49,main,MIMI,0,0,0,,You always say that.
+Dialogue: 0,0:04:25.49,0:04:29.16,main,MIMI,0,0,0,,If you don't rein it in, His Highness \Nwill be angry with you again.
+Dialogue: 0,0:04:29.16,0:04:31.64,main,IRENEO,0,0,0,,Renato is so petty.
+Dialogue: 0,0:04:31.64,0:04:34.38,main,IRENEO,0,0,0,,I'm not trying to take you from him.
+Dialogue: 0,0:04:34.38,0:04:35.88,main,IRENEO,0,0,0,,Aw, shucks.
+Dialogue: 0,0:04:39.56,0:04:42.86,main,IRENEO,0,0,0,,If only I'd met you first.
+Dialogue: 0,0:04:42.86,0:04:43.81,main,MIMI,0,0,0,,What?
+Dialogue: 0,0:04:43.81,0:04:46.22,main,IRENEO,0,0,0,,You like me, don't you?
+Dialogue: 0,0:04:48.69,0:04:50.27,main,MIMI,0,0,0,,Yeah, right!
+Dialogue: 0,0:04:50.27,0:04:53.39,main,IRENEO,0,0,0,,Right? I can tell.
+Dialogue: 0,0:04:57.87,0:05:00.32,main,IRENEO,0,0,0,,Mimi, you can teleport?
+Dialogue: 0,0:05:00.32,0:05:02.69,main,MIMI,0,0,0,,Oh, please. You must be joking.
+Dialogue: 0,0:05:02.69,0:05:04.10,main,RAIMONDO,0,0,0,,Lord Ireneo!
+Dialogue: 0,0:05:06.37,0:05:10.71,main,RAIMONDO,0,0,0,,If you continue, I'll have to report \Nyour behavior to His Highness.
+Dialogue: 0,0:05:10.71,0:05:13.04,main,RAIMONDO,0,0,0,,Please stop this at once.
+Dialogue: 0,0:05:15.54,0:05:17.38,main,IRENEO,0,0,0,,Ah, your escort has arrived.
+Dialogue: 0,0:05:17.38,0:05:19.55,main,IRENEO,0,0,0,,Fine. I'll go.
+Dialogue: 0,0:05:19.55,0:05:24.17,main,IRENEO,0,0,0,,Oh, Mimi, do you know about the bakery \Nthat just opened in the royal capital?
+Dialogue: 0,0:05:24.17,0:05:25.05,main,MIMI,0,0,0,,Huh?
+Dialogue: 0,0:05:25.05,0:05:27.37,main,IRENEO,0,0,0,,I hear their peach tarts are quite good.
+Dialogue: 0,0:05:27.37,0:05:29.98,main,IRENEO,0,0,0,,We should go there on a date sometime.
+Dialogue: 0,0:05:29.98,0:05:34.92,main,MIMI,0,0,0,,I've been told not to follow strangers!
+Dialogue: 1,0:05:31.69,0:05:32.10,sign_TrebuchetMS,SIGN FX,0,0,0,,{\fad(58,60)\move(155,60,145,60,1,391)\c&H312F35&\3c&HFFFFFF&\shad0\bord3}YUP
+Dialogue: 0,0:05:31.69,0:05:32.10,sign_TrebuchetMS,SIGN FX,0,0,0,,{\fad(58,60)\move(155,60,145,60,1,391)\c&H312F35&\3c&H363636&\shad0\bord4}YUP
+Dialogue: 1,0:05:32.31,0:05:32.73,sign_Verdana,SIGN FX,0,0,0,,{\fad(63,65)\move(115,85,110,85)\c&H312F35&\3c&HFFFFFF&\shad0\bord3}YUP
+Dialogue: 0,0:05:32.31,0:05:32.73,sign_Verdana,SIGN FX,0,0,0,,{\fad(63,65)\move(115,85,110,85)\c&H312F35&\3c&H363636&\shad0\bord4}YUP
+Dialogue: 0,0:05:36.35,0:05:39.96,main,MIMI,0,0,0,,Lord Ireneo's fondness \Nfor women is quite a problem.
+Dialogue: 0,0:05:39.96,0:05:42.49,main,RAIMONDO,0,0,0,,I couldn't agree more, Lady Maria.
+Dialogue: 0,0:05:42.81,0:05:45.78,main,RAIMONDO,0,0,0,,Listen, as the crown prince's fiancée,
+Dialogue: 0,0:05:45.78,0:05:47.88,main,RAIMONDO,0,0,0,,you'll be approached \Nby all kinds of people.
+Dialogue: 0,0:05:47.88,0:05:51.41,main,RAIMONDO,0,0,0,,Even at the royal castle, \Nbe careful when you're alone.
+Dialogue: 0,0:05:51.41,0:05:53.23,main,MIMI,0,0,0,,Don't worry.
+Dialogue: 0,0:05:53.23,0:05:56.84,main,MIMI,0,0,0,,If anyone's too stubborn, I'll just give \Nthem a little jab to the solar plexus.
+Dialogue: 0,0:05:56.84,0:06:00.38,main,RAIMONDO,0,0,0,,What are you thinking? You can't do that.
+Dialogue: 1,0:06:00.38,0:06:01.05,sign_Verdana,SIGN FX,0,0,0,,{\fad(105,107)\move(295,85,305,65)\c&HFF5AAD&\3c&HFFFFFF&\shad0}WHAT
+Dialogue: 0,0:06:00.38,0:06:01.05,sign_Verdana,SIGN FX,0,0,0,,{\fad(105,107)\move(295,85,305,65)\c&HFF5AAD&\3c&HBE3B68&\shad0\bord4}WHAT
+Dialogue: 0,0:06:01.05,0:06:04.18,main,RAIMONDO,0,0,0,,Honestly, you're not \Nwithout your own problems.
+Dialogue: 1,0:06:01.97,0:06:04.68,sign_TrebuchetMS,SIGN FX,0,0,0,,{\an9\c&H78FFFF&\3c&H24B4D5&\shad0}DRAG DRAG...
+Dialogue: 0,0:06:01.97,0:06:04.68,sign_TrebuchetMS,SIGN FX,0,0,0,,{\an9\c&H78FFFF&\3c&HFFFFFF&\shad0\bord4}DRAG DRAG...
+Dialogue: 0,0:06:05.31,0:06:07.51,main,MIMI,0,0,0,,Then I sensed someone was there.
+Dialogue: 0,0:06:07.51,0:06:11.52,main,MIMI,0,0,0,,I kicked the table into the air, \Nand two arrows thudded into it.
+Dialogue: 0,0:06:07.85,0:06:11.52,sign_Arial,SIGN,0,0,0,,{\an7\c&H303637&\3c&HECF6F5&\shad0}Knight Captain
+Dialogue: 0,0:06:11.52,0:06:15.62,main,MIMI,0,0,0,,The queen's delicate shoulders \Nwere trembling from the shock.
+Dialogue: 0,0:06:15.62,0:06:17.02,main,MIMI,0,0,0,,Where was the culprit?
+Dialogue: 0,0:06:17.02,0:06:20.28,main,MIMI,0,0,0,,I tried to find them, \Nbut they were already gone.
+Dialogue: 0,0:06:20.28,0:06:28.28,sign_Arial,SIGN,0,0,0,,{\move(145,290,105,290)\c&H303637&\3c&HECF6F5&\shad0}Knight Captain
+Dialogue: 0,0:06:20.82,0:06:25.96,main,MIMI,0,0,0,,The colorful macarons flew through \Nthe air and tragically fell on the lawn.
+Dialogue: 0,0:06:25.96,0:06:29.02,main,MIMI,0,0,0,,Oh, what a waste.
+Dialogue: 0,0:06:30.37,0:06:33.45,italics,RAIMONDO/ID,0,0,0,,I've never seen His Highness \Nlaugh like that.
+Dialogue: 0,0:06:33.45,0:06:35.66,main,MIMI,0,0,0,,And that's what happened.
+Dialogue: 0,0:06:36.93,0:06:39.06,main,CAPTAIN,0,0,0,,What a splendidly powerful retelling.
+Dialogue: 0,0:06:39.06,0:06:42.94,main,RAIMONDO,0,0,0,,You've still found no clues \Nrelating to the culprit?
+Dialogue: 0,0:06:42.94,0:06:45.53,main,CAPTAIN,0,0,0,,No, sir. We're still investigating.
+Dialogue: 0,0:06:45.53,0:06:48.34,main,CAPTAIN,0,0,0,,We believe they were targeting the queen,
+Dialogue: 0,0:06:48.34,0:06:50.97,main,CAPTAIN,0,0,0,,but progress is slow as there are \Nsome puzzling elements.
+Dialogue: 0,0:06:50.97,0:06:53.85,sign_Arial,SIGN,0,0,0,,{\an7\c&H303637&\3c&HECF6F5&\shad0}Knight Captain
+Dialogue: 0,0:06:50.97,0:06:52.93,main,RENATO,0,0,0,,Keep looking into it.
+Dialogue: 0,0:06:52.93,0:06:53.85,main,CAPTAIN,0,0,0,,Yes, sir.
+Dialogue: 0,0:06:53.85,0:06:59.23,main,CAPTAIN,0,0,0,,Anyway, based on what I've heard \Nabout your reflexes and agility...
+Dialogue: 0,0:06:59.23,0:07:01.81,main,CAPTAIN,0,0,0,,I'd like you to join our chivalric order.
+Dialogue: 0,0:07:01.81,0:07:02.83,main,RENATO,0,0,0,,Hey.
+Dialogue: 0,0:07:02.83,0:07:05.32,main,RENATO,0,0,0,,You've questioned her enough, haven't you?
+Dialogue: 0,0:07:05.32,0:07:07.32,main,CAPTAIN,0,0,0,,We won't give up!
+Dialogue: 0,0:07:07.32,0:07:09.90,main,KNIGHT A,0,0,0,,Think it over!
+Dialogue: 0,0:07:10.33,0:07:12.32,main,RENATO,0,0,0,,I'm sorry everything's so hectic.
+Dialogue: 0,0:07:12.32,0:07:16.50,main,MIMI,0,0,0,,It's fine. I just hope I've been \Nuseful to the investigation.
+Dialogue: 0,0:07:16.50,0:07:19.46,main,RENATO,0,0,0,,Mimi, I'm so glad you're all right.
+Dialogue: 0,0:07:19.46,0:07:20.59,main,MIMI,0,0,0,,Your Highness...
+Dialogue: 0,0:07:20.59,0:07:24.34,main,RENATO,0,0,0,,And again, thank you \Nfor protecting my mother.
+Dialogue: 0,0:07:24.34,0:07:26.50,main,MIMI,0,0,0,,I didn't do anything.
+Dialogue: 0,0:07:26.50,0:07:31.01,main,MIMI,0,0,0,,I've said it before, but it's thanks to \Nthe castle's tables being so sturdy.
+Dialogue: 0,0:07:34.85,0:07:37.02,main,RAIMONDO,0,0,0,,Y-Your Highness!
+Dialogue: 0,0:07:37.66,0:07:40.23,main,MIMI,0,0,0,,I-I...
+Dialogue: 0,0:07:41.23,0:07:44.28,sign_Verdana,SIGN FX,0,0,0,,{\an9\c&H71FFFE&\3c&H59C6E8&\shad0\fs25}SQUISH
+Dialogue: 0,0:07:41.73,0:07:44.28,main,RENATO,0,0,0,,Are you sure you're not hurt?
+Dialogue: 0,0:07:44.72,0:07:47.91,main,RENATO,0,0,0,,I'm worried you might be injured \Nand simply haven't noticed.
+Dialogue: 0,0:07:47.91,0:07:50.75,main,MIMI,0,0,0,,Oh, please. You worry too much.
+Dialogue: 0,0:07:50.53,0:07:51.49,sign_Verdana,SIGN FX,0,0,0,,{\fad(106,1)\an8\move(210,220,230,210)\fs15\c&HFFF7D0&\3c&HCBA764&\shad0}WHEW...
+Dialogue: 0,0:07:51.49,0:07:54.66,main,RENATO,0,0,0,,It's not safe. You should \Nstay at the castle tonight.
+Dialogue: 0,0:07:54.66,0:07:58.49,main,MIMI,0,0,0,,What? But I can't suddenly \Nimpose on you like that.
+Dialogue: 0,0:07:58.49,0:08:02.00,main,RENATO,0,0,0,,The castle is prepared \Nto receive guests at any time.
+Dialogue: 0,0:08:02.00,0:08:04.65,main,RENATO,0,0,0,,And you're always welcome here.
+Dialogue: 0,0:08:04.65,0:08:06.13,main,RAIMONDO,0,0,0,,But Your Highness...
+Dialogue: 0,0:08:06.13,0:08:09.75,main,QUEEN,0,0,0,,Anyway, the angle of Mimi's \Nkick was perfect, too.
+Dialogue: 0,0:08:09.75,0:08:11.77,main,QUEEN,0,0,0,,She is so, so cool.
+Dialogue: 0,0:08:11.77,0:08:17.06,top,QUEEN,0,0,0,,Then she did this and that. \NShe's just so amazing...
+Dialogue: 0,0:08:08.42,0:08:10.54,top,KING,0,0,0,,I see. Yes.
+Dialogue: 0,0:08:10.92,0:08:12.54,overlap,KING,0,0,0,,Okay, okay.
+Dialogue: 0,0:08:12.54,0:08:17.64,main,RAIMONDO,0,0,0,,According to the report I just received, \Nthe queen hasn't calmed down yet.
+Dialogue: 0,0:08:17.64,0:08:20.11,top,IRENEO,0,0,0,,Hey, Mimi!
+Dialogue: 0,0:08:18.77,0:08:21.48,main,RAIMONDO,0,0,0,,And Lord Ireneo is \Nstaying overnight as well.
+Dialogue: 0,0:08:21.48,0:08:25.19,main,RAIMONDO,0,0,0,,It may be safer \Nfor Lady Maria to go home.
+Dialogue: 0,0:08:25.19,0:08:27.10,main,RENATO,0,0,0,,I suppose you're right.
+Dialogue: 0,0:08:27.10,0:08:30.00,main,RENATO,0,0,0,,Anyway, what am I to do about Mother?
+Dialogue: 0,0:08:30.00,0:08:30.85,main,MIMI,0,0,0,,What?
+Dialogue: 0,0:08:30.85,0:08:35.03,main,RENATO,0,0,0,,You said you thought she hated you,
+Dialogue: 0,0:08:35.03,0:08:38.62,main,RENATO,0,0,0,,but she was fascinated by your \Npersonality and martial arts skills.
+Dialogue: 0,0:08:36.58,0:08:37.83,sign_Verdana,SIGN FX,0,0,0,,{\an9\fs30\c&H373DEE&\3c&H1E2530&\shad0\bord3}BANG
+Dialogue: 0,0:08:38.62,0:08:40.28,main,RENATO,0,0,0,,She has trouble hiding her emotions,
+Dialogue: 0,0:08:40.28,0:08:44.89,main,RENATO,0,0,0,,and suppressing them \Nintensified her expression.
+Dialogue: 0,0:08:44.89,0:08:47.26,main,MIMI,0,0,0,,Oh, I see.
+Dialogue: 0,0:08:47.26,0:08:49.17,main,RENATO,0,0,0,,Please forgive her.
+Dialogue: 0,0:08:49.17,0:08:55.03,main,MIMI,0,0,0,,Of course. I'd like to be \Non friendly terms with the queen as well.
+Dialogue: 0,0:08:55.93,0:08:57.10,main,RENATO,0,0,0,,Good.
+Dialogue: 0,0:08:57.10,0:09:00.71,main,MIMI,0,0,0,,Well, it's getting dark. I should go.
+Dialogue: 0,0:09:04.01,0:09:05.32,main,MIMI,0,0,0,,I...
+Dialogue: 0,0:09:07.88,0:09:11.03,main,MIMI,0,0,0,,I'm glad I got to see you twice today.
+Dialogue: 0,0:09:12.78,0:09:14.45,main,RENATO,0,0,0,,Mimi, perhaps you should \Nstay tonight after—
+Dialogue: 0,0:09:14.45,0:09:17.34,main,RAIMONDO,0,0,0,,Prepare a carriage! \NAssign more guards than usual!
+Dialogue: 0,0:09:17.34,0:09:18.20,main,KNIGHT,0,0,0,,Yes, sir!
+Dialogue: 0,0:09:26.35,0:09:28.09,main,RAIMONDO,0,0,0,,Please don't sulk.
+Dialogue: 0,0:09:28.09,0:09:30.67,main,RAIMONDO,0,0,0,,You're not officially engaged yet.
+Dialogue: 0,0:09:30.67,0:09:32.47,main,RENATO,0,0,0,,I know.
+Dialogue: 0,0:09:33.93,0:09:38.14,main,RENATO,0,0,0,,Raimondo, for Mimi's trip home...
+Dialogue: 0,0:09:38.67,0:09:41.16,main,RENATO,0,0,0,,Will she be taking that route?
+Dialogue: 0,0:09:41.16,0:09:42.06,main,RAIMONDO,0,0,0,,Yes.
+Dialogue: 0,0:09:42.41,0:09:48.22,main,RAIMONDO,0,0,0,,I'm concerned since that route has \Nseen a sudden uptick in bandit attacks,
+Dialogue: 0,0:09:48.22,0:09:51.52,main,RAIMONDO,0,0,0,,but it's the only way \Nto reach the Kingdom of Muro.
+Dialogue: 0,0:09:51.86,0:09:55.38,main,RENATO,0,0,0,,But she was just attacked.
+Dialogue: 0,0:09:55.38,0:09:58.36,main,RAIMONDO,0,0,0,,Being crown princess comes with danger.
+Dialogue: 0,0:09:58.36,0:10:00.30,main,RENATO,0,0,0,,I know, but still...
+Dialogue: 0,0:10:01.62,0:10:06.38,main,RENATO,0,0,0,,Perhaps Mimi would've stayed safe \Nif I hadn't proposed to her.
+Dialogue: 0,0:10:07.05,0:10:09.13,main,RENATO,0,0,0,,I can't help but think that.
+Dialogue: 0,0:10:09.43,0:10:13.56,main,RAIMONDO,0,0,0,,I've instructed the Ametis family and the\Nacademy to strengthen security as well.
+Dialogue: 0,0:10:13.97,0:10:16.30,main,RAIMONDO,0,0,0,,Please rest assured.
+Dialogue: 0,0:10:16.30,0:10:17.25,main,RENATO,0,0,0,,I know.
+Dialogue: 0,0:10:17.25,0:10:24.02,main,RAIMONDO,0,0,0,,I'll warn Lady Maria to avoid \Nsticking her nose into danger.
+Dialogue: 0,0:10:29.69,0:10:31.19,main,KNIGHT B,0,0,0,,Be careful.
+Dialogue: 0,0:10:31.19,0:10:35.69,italics,MIMI/ID,0,0,0,,Security is tighter. \NI feel kind of bad about it.
+Dialogue: 0,0:10:39.89,0:10:43.57,italics,MIMI/ID,0,0,0,,I shouldn't make Prince Renato \Nworry too much.
+Dialogue: 0,0:10:44.08,0:10:52.08,sign_Georgia,,0,0,0,,{\c&H141824&\3c&HFFFFFF&\shad0\bord3\an1\frz11.98\pos(367,247)}Always a {\c&H8873F3&}Catch!
+Dialogue: 0,0:11:06.10,0:11:10.19,italics,MIMI/ID,0,0,0,,I'll fight off any assassins \Nno matter when they attack.
+Dialogue: 0,0:11:12.12,0:11:13.86,main,MIMI,0,0,0,,I must confirm my safety at all times.
+Dialogue: 0,0:11:13.86,0:11:17.35,main,MIMI,0,0,0,,This isn't quite strong enough \Nto serve as a shield.
+Dialogue: 0,0:11:17.35,0:11:19.20,main,TEACHER,0,0,0,,Ms. Annovazzi?
+Dialogue: 0,0:11:21.16,0:11:23.46,main,MIMI,0,0,0,,Was I speaking out loud again?
+Dialogue: 0,0:11:37.30,0:11:42.22,main,MIMI,0,0,0,,I can't help but notice anytime \NI sense someone looking at me.
+Dialogue: 0,0:11:44.22,0:11:47.64,italics,MIMI/ID,0,0,0,,Lady Rosalia's presence \Nin particular is easy to detect.
+Dialogue: 0,0:11:47.64,0:11:50.59,main,ROSALIA,0,0,0,,Well, look at you sitting over here.
+Dialogue: 0,0:11:50.59,0:11:53.82,main,ROSALIA,0,0,0,,I suppose a country bumpkin \Nwould sit anywhere.
+Dialogue: 0,0:11:53.82,0:11:57.78,main,MIMI,0,0,0,,Lady Rosalia, have you \Nalready finished your sketch?
+Dialogue: 0,0:11:57.78,0:12:02.94,main,ROSALIA,0,0,0,,Of course. We drew beautiful \Nflowers in the botanical garden.
+Dialogue: 0,0:12:02.94,0:12:05.20,main,ROSALIA,0,0,0,,Why don't you show her your drawing?
+Dialogue: 0,0:12:05.20,0:12:06.71,main,FOLLOWER 2,0,0,0,,Take a look.
+Dialogue: 0,0:12:06.71,0:12:09.44,main,MIMI,0,0,0,,Wow, you're a great artist.
+Dialogue: 0,0:12:09.44,0:12:11.32,main,FOLLOWER 1,0,0,0,,She's in the art club.
+Dialogue: 0,0:12:11.32,0:12:13.50,main,FOLLOWER 1,0,0,0,,She's even won awards at contests.
+Dialogue: 0,0:12:13.50,0:12:16.43,main,MIMI,0,0,0,,Lady Rosalia, let me see yours, too.
+Dialogue: 0,0:12:16.43,0:12:19.72,main,ROSALIA,0,0,0,,Y-You don't have to see mine.
+Dialogue: 0,0:12:19.72,0:12:21.76,main,ROSALIA,0,0,0,,Never mind that. Show me yours.
+Dialogue: 0,0:12:21.76,0:12:23.26,main,MIMI,0,0,0,,But I'm not finished yet.
+Dialogue: 0,0:12:23.26,0:12:25.13,main,ROSALIA,0,0,0,,Let me see.
+Dialogue: 0,0:12:25.13,0:12:29.48,main,ROSALIA,0,0,0,,I-Is this perhaps avant-garde art?
+Dialogue: 0,0:12:37.36,0:12:42.15,main,ROSALIA,0,0,0,,Looking at that drawing filled me \Nwith an unspeakable dread.
+Dialogue: 0,0:12:42.49,0:12:45.22,main,ROSALIA,0,0,0,,Let's go, you two.
+Dialogue: 0,0:12:45.22,0:12:48.15,main,ROSALIA,0,0,0,,You'll pay for this, Maria Annovazzi.
+Dialogue: 0,0:12:49.93,0:12:51.75,main,FOLLOWER 1,0,0,0,,Lady Rosalia!
+Dialogue: 0,0:12:53.75,0:12:58.34,main,MIMI,0,0,0,,Lady Rosalia got my name right.
+Dialogue: 0,0:13:00.60,0:13:03.17,main,MIMI,0,0,0,,Uh, what are you doing?
+Dialogue: 0,0:13:03.17,0:13:05.25,main,IRENOE,0,0,0,,Hey. Did I surprise you?
+Dialogue: 0,0:13:05.25,0:13:08.36,italics,MIMI/ID,0,0,0,,Lord Ireneo's presence \Nis even easier to detect.
+Dialogue: 0,0:13:08.36,0:13:11.78,main,MIMI,0,0,0,,Not at all. In fact, you \Ncouldn't be worse at hiding.
+Dialogue: 0,0:13:11.78,0:13:14.36,main,MIMI,0,0,0,,What are you doing at \Nthe academy, anyway?
+Dialogue: 0,0:13:14.36,0:13:16.48,main,IRENEO,0,0,0,,I thought I'd tour the school \Nsince I'm here.
+Dialogue: 0,0:13:16.48,0:13:18.74,main,IRENEO,0,0,0,,I'm an alumnus, you know.
+Dialogue: 0,0:13:18.74,0:13:23.99,main,MIMI,0,0,0,,Yeah, right. You're here for \Nthe young women, aren't you?
+Dialogue: 0,0:13:23.99,0:13:28.50,main,IRENEO,0,0,0,,Don't worry. I'm currently only \Ninterested in you, my dearest Mimi.
+Dialogue: 0,0:13:31.06,0:13:33.22,main,IRENEO,0,0,0,,Did you draw this?
+Dialogue: 0,0:13:33.22,0:13:35.68,main,MIMI,0,0,0,,Yes, I did.
+Dialogue: 0,0:13:35.68,0:13:40.12,main,IRENEO,0,0,0,,How novel. Art always starts with novelty.
+Dialogue: 0,0:13:40.12,0:13:41.05,main,MIMI,0,0,0,,What?
+Dialogue: 0,0:13:41.05,0:13:45.03,main,IRENEO,0,0,0,,It's neither Baroque nor Neoclassical.
+Dialogue: 0,0:13:45.03,0:13:48.17,main,IRENEO,0,0,0,,Yes, you're a truly interesting girl.
+Dialogue: 0,0:13:48.17,0:13:50.91,main,MIMI,0,0,0,,Lord Ireneo, you like \Ndrawings and paintings?
+Dialogue: 0,0:13:50.91,0:13:51.81,main,IRENEO,0,0,0,,Yes.
+Dialogue: 0,0:13:51.81,0:13:54.73,main,IRENEO,0,0,0,,I know. We should visit \Nthe art museum together.
+Dialogue: 0,0:13:58.66,0:13:59.90,main,IRENEO,0,0,0,,What is it?
+Dialogue: 0,0:13:59.90,0:14:04.66,main,MIMI,0,0,0,,Oh, nothing. You looked like \Nmy younger brother Teo just now.
+Dialogue: 0,0:14:04.66,0:14:06.63,main,IRENEO,0,0,0,,What? I'm like your younger brother?
+Dialogue: 0,0:14:06.63,0:14:08.66,main,IRENEO,0,0,0,,Does that mean I'm cute?
+Dialogue: 0,0:14:08.66,0:14:11.87,main,MIMI,0,0,0,,Yes, Teo is very cute.
+Dialogue: 0,0:14:11.87,0:14:13.71,main,GUIDE,0,0,0,,Lord Ireneo!
+Dialogue: 0,0:14:13.71,0:14:16.88,main,IRENEO,0,0,0,,Ah, what a shame. I must head back.
+Dialogue: 0,0:14:17.63,0:14:20.25,main,IRENEO,0,0,0,,See you later, my dearest Mimi.
+Dialogue: 0,0:14:22.27,0:14:23.43,main,RAIMONDO,0,0,0,,I see.
+Dialogue: 0,0:14:23.43,0:14:27.47,main,RAIMONDO,0,0,0,,After class, you met the queen \Nand Lady Aida for tea,
+Dialogue: 0,0:14:27.47,0:14:29.23,main,RAIMONDO,0,0,0,,then trained in the afternoon.
+Dialogue: 0,0:14:29.23,0:14:32.37,main,RAIMONDO,0,0,0,,Your days are quite busy.
+Dialogue: 0,0:14:34.76,0:14:37.63,main,RAIMONDO,0,0,0,,Since you're so busy,
+Dialogue: 0,0:14:37.63,0:14:41.71,main,RAIMONDO,0,0,0,,you can't help falling asleep \Nwhile I'm speaking to you.
+Dialogue: 0,0:14:42.44,0:14:44.72,main,RAIMONDO,0,0,0,,Did you really expect me to say that?!
+Dialogue: 0,0:14:44.72,0:14:46.07,main,MIMI,0,0,0,,I-I'm sorry!
+Dialogue: 0,0:14:46.07,0:14:49.26,main,MIMI,0,0,0,,I promise I'll listen next time. \NForgive me.
+Dialogue: 0,0:14:49.26,0:14:56.59,main,MIMI,0,0,0,,I appreciate you assigning more guards \Nto me, but I've been so tense recently.
+Dialogue: 0,0:14:58.84,0:15:00.54,main,RAIMONDO,0,0,0,,Unbelievable.
+Dialogue: 0,0:15:00.54,0:15:03.51,main,RAIMONDO,0,0,0,,This is important. Please listen closely.
+Dialogue: 0,0:15:03.51,0:15:06.20,main,RAIMONDO,0,0,0,,Recently, the mountain \Nroad to the Kingdom of Muro
+Dialogue: 0,0:15:06.20,0:15:08.93,main,RAIMONDO,0,0,0,,has become dangerous \Ndue to bandit attacks...
+Dialogue: 0,0:15:10.22,0:15:11.26,main,RAIMONDO,0,0,0,,Hngh!
+Dialogue: 0,0:15:11.54,0:15:15.91,main,RAIMONDO,0,0,0,,Lady Maria! \NYou're leaving tomorrow, you know!
+Dialogue: 0,0:15:31.96,0:15:35.08,main,RENATO,0,0,0,,Your movements are as beautiful as ever.
+Dialogue: 0,0:15:35.08,0:15:36.50,main,MIMI,0,0,0,,Your Highness.
+Dialogue: 0,0:15:37.25,0:15:39.41,main,MIMI,0,0,0,,Which forms would you like to see today?
+Dialogue: 0,0:15:39.41,0:15:42.35,main,RENATO,0,0,0,,The 30s, I think.
+Dialogue: 0,0:15:42.35,0:15:43.88,main,MIMI,0,0,0,,Very well.
+Dialogue: 0,0:15:53.50,0:15:54.43,main,MIMI,0,0,0,,30!
+Dialogue: 0,0:15:54.43,0:15:57.69,main,MIMI,0,0,0,,31, 32, 33!
+Dialogue: 0,0:15:57.69,0:15:59.94,main,MIMI,0,0,0,,34, 35!
+Dialogue: 0,0:15:59.94,0:16:02.94,main,MIMI,0,0,0,,36, 37!
+Dialogue: 0,0:16:02.94,0:16:05.24,main,MIMI,0,0,0,,38!
+Dialogue: 0,0:16:20.04,0:16:21.88,main,RENATO,0,0,0,,These blew all the way over here.
+Dialogue: 0,0:16:21.88,0:16:24.50,main,RENATO,0,0,0,,Number 38 was particularly impressive.
+Dialogue: 0,0:16:24.59,0:16:25.55,sign_Verdana,SIGN FX,0,0,0,,{\fad(102,358)\c&H73FBF6&\3c&H208BDD&\shad0\bord3\fs25\move(470,70,555,40)}SMILE
+Dialogue: 0,0:16:24.50,0:16:28.04,main,MIMI,0,0,0,,I know. That form is \None of my favorites, too.
+Dialogue: 0,0:16:28.04,0:16:30.94,main,MIMI,0,0,0,,The key is to firmly plant your \Nfeet and raise your right heel
+Dialogue: 0,0:16:30.94,0:16:36.62,main,MIMI,0,0,0,,as your center of gravity shifts \Nfrom your right foot to your left.
+Dialogue: 0,0:16:36.62,0:16:37.93,main,MIMI,0,0,0,,Also...
+Dialogue: 0,0:16:37.93,0:16:39.69,main,RENATO,0,0,0,,Calm down, Mimi.
+Dialogue: 0,0:16:40.76,0:16:44.43,main,MIMI,0,0,0,,I'm just glad you're interested \Nin my family's martial arts.
+Dialogue: 0,0:16:44.43,0:16:45.62,main,MIMI,0,0,0,,I can't help myself.
+Dialogue: 0,0:16:45.62,0:16:50.32,main,RENATO,0,0,0,,Come to think of it, you haven't \Nshown me the 40s or 60s yet.
+Dialogue: 0,0:16:50.32,0:16:53.99,main,MIMI,0,0,0,,I know. I can't show \Nthose, not even to you.
+Dialogue: 0,0:16:53.99,0:16:56.41,main,MIMI,0,0,0,,They're family secrets.
+Dialogue: 0,0:16:56.75,0:16:58.03,sign_Verdana,SIGN FX,0,0,0,,{\fad(99,431)\move(100,90,65,30)\c&H3B42ED&\3c&H201DA4&\shad0}SMUG
+Dialogue: 0,0:16:56.41,0:16:59.43,main,MIMI,0,0,0,,Even within my family, only \Nmy father and I know them.
+Dialogue: 0,0:16:59.43,0:17:03.89,main,RENATO,0,0,0,,What? So only two people \Nin the world have learned them?
+Dialogue: 0,0:17:03.89,0:17:06.13,main,RENATO,0,0,0,,There's such depth to martial arts.
+Dialogue: 0,0:17:06.13,0:17:07.34,sign_TrebuchetMS,SIGN FX,0,0,0,,{\c&H7D8AF6&\3c&H4139C7&\shad0\fad(103,1)\frz28.51\pos(35,259)}BLUSH
+Dialogue: 0,0:17:06.13,0:17:07.34,sign_TrebuchetMS,SIGN FX,0,0,0,,{\pos(230,85)\c&H7D8AF6&\3c&H4139C7&\shad0\fad(103,1)}BLUSH
+Dialogue: 0,0:17:07.81,0:17:09.62,main,RENATO,0,0,0,,Why don't you take a break?
+Dialogue: 0,0:17:11.97,0:17:14.32,main,RENATO,0,0,0,,You seem to be working hard every day.
+Dialogue: 0,0:17:14.32,0:17:16.14,main,RENATO,0,0,0,,Are you getting enough sleep?
+Dialogue: 0,0:17:16.47,0:17:19.58,main,MIMI,0,0,0,,Did Lord Raimondo say something?
+Dialogue: 0,0:17:20.08,0:17:22.60,main,MIMI,0,0,0,,Do you know I fell asleep?
+Dialogue: 0,0:17:22.60,0:17:28.19,main,RENATO,0,0,0,,No. You're already so busy, \Nbut you train every morning.
+Dialogue: 0,0:17:28.19,0:17:30.53,main,RENATO,0,0,0,,I just thought that must be difficult.
+Dialogue: 0,0:17:30.88,0:17:32.89,main,MIMI,0,0,0,,You don't need to worry about that
+Dialogue: 0,0:17:32.89,0:17:36.80,main,MIMI,0,0,0,,because the Annovazzis are \Na renowned family of martial artists
+Dialogue: 0,0:17:36.80,0:17:40.95,main,MIMI,0,0,0,,who have served as Muro \Nroyal guards for generations.
+Dialogue: 0,0:17:43.12,0:17:49.05,main,MIMI,0,0,0,,As heir, I received the same training \Na boy would since I was a child.
+Dialogue: 0,0:17:49.82,0:17:52.18,main,RENATO,0,0,0,,You as a child...
+Dialogue: 0,0:17:52.18,0:17:55.09,main,RENATO,0,0,0,,You must've been quite lively and cute.
+Dialogue: 0,0:17:55.09,0:17:56.57,main,MIMI,0,0,0,,Not at all.
+Dialogue: 0,0:17:56.57,0:18:00.06,main,MIMI,0,0,0,,I was often mistaken for a boy \Nsince I was so energetic.
+Dialogue: 0,0:18:01.01,0:18:05.33,main,MIMI,0,0,0,,Back then, I loved any \Nand all kinds of exercise.
+Dialogue: 0,0:18:05.33,0:18:07.90,main,MIMI,0,0,0,,I devoted myself to training.
+Dialogue: 0,0:18:08.87,0:18:10.32,main,MIMI,0,0,0,,But one day...
+Dialogue: 0,0:18:28.18,0:18:29.17,flashback,MIMI DAD,0,0,0,,Mimi!
+Dialogue: 0,0:18:29.17,0:18:30.59,flashback,MIMI DAD,0,0,0,,Are you all right?
+Dialogue: 0,0:18:31.00,0:18:32.42,flashback,YOUNG MIMI,0,0,0,,Dad...
+Dialogue: 0,0:18:35.56,0:18:37.85,main,MIMI,0,0,0,,The lesson I learned was...
+Dialogue: 0,0:18:37.85,0:18:42.66,flashback,MIMI DAD,0,0,0,,The Annovazzi family's martial arts \Nare for protecting those dear to you.
+Dialogue: 0,0:18:47.41,0:18:49.65,main,MIMI,0,0,0,,To protect those dear to me.
+Dialogue: 0,0:18:50.32,0:18:53.56,main,MIMI,0,0,0,,There's nothing I won't \Ndo to achieve that.
+Dialogue: 0,0:18:53.56,0:18:57.73,main,MIMI,0,0,0,,I still feel that way even though \NI'm no longer the heir.
+Dialogue: 0,0:18:57.73,0:19:04.00,main,MIMI,0,0,0,,So my morning practice, exercises, \Nand training are no burden at all.
+Dialogue: 0,0:19:04.00,0:19:06.92,main,RENATO,0,0,0,,So you get your strength \Nfrom your father.
+Dialogue: 0,0:19:06.92,0:19:09.92,main,MIMI,0,0,0,,Yes, but...
+Dialogue: 0,0:19:09.92,0:19:13.92,flashback,MIMI DAD,0,0,0,,F-Fantastic! I have an heir!
+Dialogue: 0,0:19:14.25,0:19:17.14,main,MIMI,0,0,0,,Ever since Teo was born...
+Dialogue: 0,0:19:20.83,0:19:24.56,main,MIMI,0,0,0,,Dad's been reserved towards me.
+Dialogue: 0,0:19:30.60,0:19:33.57,flashback,MIMI DAD,0,0,0,,All right! Let's go train, Mimi!
+Dialogue: 0,0:19:33.57,0:19:34.98,flashback,MIMI DAD,0,0,0,,Wait, no.
+Dialogue: 0,0:19:34.98,0:19:39.49,flashback,MIMI DAD,0,0,0,,Teo, M-Mimi has flower practice... right?
+Dialogue: 0,0:19:42.29,0:19:45.03,main,MIMI,0,0,0,,Things are a bit awkward.
+Dialogue: 0,0:19:45.03,0:19:48.16,main,MIMI,0,0,0,,Not that it bothers me at all.
+Dialogue: 0,0:19:48.51,0:19:52.92,main,RENATO,0,0,0,,I'm sure you'll be able to speak to him \Nlike you did before again.
+Dialogue: 0,0:19:54.84,0:19:58.28,main,MIMI,0,0,0,,It's encouraging to hear you say that.
+Dialogue: 0,0:19:59.25,0:20:00.60,main,RENATO,0,0,0,,I'm glad.
+Dialogue: 0,0:20:02.10,0:20:04.56,main,RENATO,0,0,0,,Anyway, I'll miss you.
+Dialogue: 0,0:20:05.60,0:20:09.09,main,MIMI,0,0,0,,Y-Your Highness, I'm sweaty. \NIt'll get on your clothes.
+Dialogue: 0,0:20:09.09,0:20:10.36,main,RENATO,0,0,0,,I don't care.
+Dialogue: 0,0:20:10.36,0:20:12.37,main,MIMI,0,0,0,,I'll be back soon.
+Dialogue: 0,0:20:12.37,0:20:14.23,main,MIMI,0,0,0,,I'm only staying for one night.
+Dialogue: 0,0:20:14.23,0:20:16.99,main,RENATO,0,0,0,,But it takes six days \Nto travel there and back.
+Dialogue: 0,0:20:16.99,0:20:18.36,main,MIMI,0,0,0,,That's true.
+Dialogue: 0,0:20:18.73,0:20:22.16,main,MIMI,0,0,0,,I'm worried you might be \Nattacked while I'm gone.
+Dialogue: 0,0:20:19.91,0:20:24.62,sign_Impact,SIGN FX,0,0,0,,{\an8\pos(129,25)\fs25\c&H4848F5&\3c&H3712BD&\shad0\fad(559,1)}SERIOUS
+Dialogue: 0,0:20:22.16,0:20:24.62,main,RENATO,0,0,0,,Normally it's the other way around.
+Dialogue: 0,0:20:27.98,0:20:30.63,main,RENATO,0,0,0,,Please be careful.
+Dialogue: 0,0:20:30.63,0:20:33.57,main,MIMI,0,0,0,,I appreciate your concern.
+Dialogue: 0,0:20:33.98,0:20:35.51,main,MIMI,0,0,0,,Don't worry.
+Dialogue: 0,0:20:35.92,0:20:38.18,main,MIMI,0,0,0,,I won't do anything reckless.
+Dialogue: 0,0:20:38.18,0:20:42.30,main,MIMI,0,0,0,,I'll be fine. I'm sure it'll work out.
+Dialogue: 0,0:20:43.35,0:20:47.14,main,RENATO,0,0,0,,When you say that, I can believe it.
+Dialogue: 0,0:20:47.35,0:20:47.64,sign_TrebuchetMS,SIGN FX,0,0,0,,{\c&H86FFFC&\3c&H0DAFDF&\shad0\frz17.1\pos(106,94)\fad(62,103)}SQUISH
+Dialogue: 0,0:20:47.85,0:20:48.30,sign_TrebuchetMS,SIGN FX,0,0,0,,{\c&H86FFFC&\3c&H0DAFDF&\shad0\fad(62,103)\pos(294,71)}SQUISH
+Dialogue: 0,0:20:48.89,0:20:49.18,sign_TrebuchetMS,SIGN FX,0,0,0,,{\c&H86FFFC&\3c&H0DAFDF&\shad0\frz17.1\pos(106,94)\fad(62,103)}SQUISH
+Dialogue: 0,0:20:49.39,0:20:49.72,sign_TrebuchetMS,SIGN FX,0,0,0,,{\c&H86FFFC&\3c&H0DAFDF&\shad0\fad(62,103)\pos(294,71)}SQUISH
+Dialogue: 0,0:20:49.89,0:20:50.22,sign_TrebuchetMS,SIGN FX,0,0,0,,{\c&H86FFFC&\3c&H0DAFDF&\shad0\frz17.1\pos(106,94)\fad(62,103)}SQUISH
+Dialogue: 0,0:20:47.86,0:20:50.27,main,RENATO,0,0,0,,I feel relieved. Thank you.
+Dialogue: 0,0:20:51.45,0:20:53.36,main,RENATO,0,0,0,,I'm sorry I can't see you off.
+Dialogue: 0,0:20:53.36,0:20:56.57,main,RENATO,0,0,0,,Give my regards to \NLady Aida and her family.
+Dialogue: 0,0:20:57.12,0:20:59.68,italics,MIMI/ID,0,0,0,,The prince is cute when he smiles.
+Dialogue: 0,0:20:59.68,0:21:02.42,italics,MIMI/ID,0,0,0,,He should smile in front \Nof the others more.
+Dialogue: 0,0:21:03.89,0:21:05.70,main,AIDA,0,0,0,,Is that all your luggage?
+Dialogue: 0,0:21:05.70,0:21:06.70,main,MIMI,0,0,0,,Yes.
+Dialogue: 0,0:21:07.74,0:21:10.35,main,MIMI,0,0,0,,I'll be borrowing your carriage, Uncle.
+Dialogue: 0,0:21:10.35,0:21:12.90,main,DUKE AMETIS,0,0,0,,Sure. Say hello to your father for me.
+Dialogue: 0,0:21:12.90,0:21:15.63,main,AIDA,0,0,0,,It's about two days \Nto the border, isn't it?
+Dialogue: 0,0:21:15.63,0:21:19.12,main,MIMI,0,0,0,,Yes. My family's carriage \Nis coming to pick me up.
+Dialogue: 0,0:21:19.12,0:21:21.15,main,MIMI,0,0,0,,We'll meet at a nearby village,
+Dialogue: 0,0:21:21.15,0:21:24.30,main,MIMI,0,0,0,,and from there, \NI'll travel for another day...
+Dialogue: 0,0:21:24.30,0:21:27.06,main,AIDA,0,0,0,,The Kingdom of Muro is so far.
+Dialogue: 0,0:21:27.06,0:21:29.34,main,MIMI,0,0,0,,I'm used to it.
+Dialogue: 0,0:21:29.34,0:21:31.30,main,AIDA,0,0,0,,Be careful, Mimi.
+Dialogue: 0,0:21:31.76,0:21:32.86,main,AIDA,0,0,0,,See you later.
+Dialogue: 0,0:21:32.86,0:21:34.61,main,MIMI,0,0,0,,Thank you, Aida.
+Dialogue: 0,0:21:38.97,0:21:41.07,main,AIDA,0,0,0,,Don't attract too much attention.
+Dialogue: 0,0:21:41.07,0:21:42.11,main,MIMI,0,0,0,,Okay.
+Dialogue: 0,0:21:42.69,0:21:43.75,main,DRIVER,0,0,0,,Yah!
+Dialogue: 0,0:21:45.74,0:21:48.30,main,MIMI,0,0,0,,I'll be back!
+Dialogue: 0,0:21:51.88,0:21:54.46,italics,MIMI/ID,0,0,0,,I'll be back, Your Highness.
+Dialogue: 0,0:22:04.76,0:22:09.14,sign_Arial,,0,0,0,,{\an7}Translation: Sho Stifler\NTiming: Mariana Martinez
+Dialogue: 0,0:22:09.14,0:22:13.51,sign_Arial,,0,0,0,,{\an7}Editing: Alicia Ashby\NQuality Control: Ashley Barboza
+Dialogue: 0,0:22:13.51,0:22:17.85,sign_Arial,,0,0,0,,{\an7}Final Quality Control: Michelle Tymon
+Dialogue: 0,0:23:25.05,0:23:25.13,sign_TrebuchetMS,SIGN FX,0,0,0,,{\c&H2C35CF&\3c&H353A67&\shad0\frz28.3\fs15\pos(234,239)}STOMP
+Dialogue: 0,0:23:25.17,0:23:25.29,sign_TrebuchetMS,SIGN FX,0,0,0,,{\c&H2C35CF&\3c&H353A67&\shad0\frz-19.03\fs15\pos(438,191)}STOMP
+Dialogue: 0,0:23:25.34,0:23:25.46,sign_TrebuchetMS,SIGN FX,0,0,0,,{\c&H2C35CF&\3c&H353A67&\shad0\frz-19.03\fs15\pos(459,230)}STOMP
+Dialogue: 0,0:23:25.50,0:23:25.63,sign_TrebuchetMS,SIGN FX,0,0,0,,{\c&H2C35CF&\3c&H353A67&\shad0\frz28.3\fs15\pos(263,197)}STOMP
+Dialogue: 0,0:23:25.67,0:23:25.80,sign_TrebuchetMS,SIGN FX,0,0,0,,{\c&H2C35CF&\3c&H353A67&\shad0\frz28.3\fs15\pos(234,234)}STOMP
+Dialogue: 0,0:23:25.84,0:23:25.88,sign_TrebuchetMS,SIGN FX,0,0,0,,{\c&H2C35CF&\3c&H353A67&\shad0\frz-19.03\fs15\pos(437,197)}STOMP
+Dialogue: 0,0:23:26.92,0:23:30.81,main,MIMI,0,0,0,,People say I speak my mind, but \Nmaybe it's because I like singing.
+Dialogue: 0,0:23:30.81,0:23:33.56,main,MIMI,0,0,0,,I like bright songs that cheer you up.
+Dialogue: 0,0:23:33.56,0:23:36.06,main,MIMI,0,0,0,,Songs about fishermen catching \Nhuge tuna are the best.
+Dialogue: 0,0:23:36.06,0:23:37.39,main,MIMI,0,0,0,,The other day, I actually...
+Dialogue: 0,0:23:37.39,0:23:39.67,main,MIMI,0,0,0,,Oh, I spoke my mind again!
+Dialogue: 0,0:23:35.06,0:23:40.06,sign_Georgia,SIGN,0,0,0,,{\pos(320,65)\c&H141722&\bord4\shad0\fs19\3c&HF4F3FC&}Next Time
+Dialogue: 0,0:23:35.06,0:23:40.06,sign_Georgia,SIGN,0,0,0,,{\an8\pos(319,260)\fs22\c&H080600&\bord0\shad0\fscx88}How the {\c&H8A74F6&}One {\c&H080600&}That Got Away {\c&HD29E5C&}Visited Home
